@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-07-23T17:15:02.363Z",
-  "updatedLocal": "2026/7/24 01:15:02",
+  "updated": "2026-07-23T23:25:56.267Z",
+  "updatedLocal": "2026/7/24 07:25:56",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Sustainability tools to use in 2026",
+      "summary": "Welcome to the Trellis roundup of new products and services for sustainability professionals, as chosen by our editorial team.",
+      "url": "https://trellis.net/article/corporate-sustainability-tools-to-use/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-23T21:15:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "Netflix’s CSO quits for new storytelling role",
       "summary": "Netflix Chief Sustainability Officer Emma Stewart is leaving the company to join the leadership team at Climate Spring, a social enterprise focused on changing how climate change is represented in film, TV and popular culture.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-07-23T15:01:42.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Sustainability pays a credibility tax. Some of it is self-imposed",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-07-23T09:10:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Tesla sets net-zero target for first time",
@@ -37,7 +48,18 @@
       "group": null,
       "published": "2026-07-22T18:39:09.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Reform-led Wakefield Council scraps 2030 net-zero target",
+      "summary": "Wakefield Council has agreed to abandon its target of becoming a carbon-neutral authority by 2030 and reduce its climate change budget by £170,000.",
+      "url": "https://www.edie.net/reform-led-wakefield-council-scraps-2030-net-zero-target/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-23T17:39:59.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "Report: Existing grid connections in Europe could unlock 25GW of new clean power",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-07-23T16:11:54.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Smart energy market risks deepening inequality without reform, report warns",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-07-23T15:29:23.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Octopus and Santander launch ‘first-of-its-kind’ mortgage for Zero Bills homes",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-07-23T15:09:23.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "How are EU regulations changing the risk calculus for Brazilian commodity buyers?",
@@ -80,28 +102,6 @@
       "tag": "國際",
       "group": null,
       "published": "2026-07-23T02:30:44.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "June heatwave cost UK economy over £1bn, study finds",
-      "summary": "Last month's scorching temperatures cost the UK £1.15bn in lost productivity, a study has found, with the heatwave also having cost Europe billions in lost farming revenue.",
-      "url": "https://www.edie.net/june-heatwave-cost-uk-economy-over-1bn-study-finds/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-22T23:01:58.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Inside the Duchy of Cornwall’s people-first plan for net-zero",
-      "summary": "For nearly 700 years, the Duchy of Cornwall has shaped landscapes, communities and livelihoods across England and Wales.",
-      "url": "https://www.edie.net/inside-the-duchy-of-cornwalls-people-first-plan-for-net-zero/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-22T20:01:43.000Z",
       "why": null,
       "ago": "21 小時前"
     },
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-07-23T08:56:53.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "14 小時前"
     }
   ],
   "errors": []

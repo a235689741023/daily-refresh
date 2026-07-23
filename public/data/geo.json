@@ -1,22 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-23T17:15:02.363Z",
-  "updatedLocal": "2026/7/24 01:15:02",
+  "updated": "2026-07-23T23:25:56.267Z",
+  "updatedLocal": "2026/7/24 07:25:56",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Esri Community | GIS Professional Community",
-      "summary": null,
-      "url": "https://community.esri.com/",
-      "source": "Esri Community",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-07-23T16:38:14.000Z",
-      "why": null,
-      "ago": "37 分鐘前"
-    },
     {
       "title": "Simplifying ArcGIS Over The Years",
       "summary": "The past five years represent the most sustained and systematic simplification effort in ArcGIS history.",
@@ -48,7 +37,40 @@
       "group": "gis",
       "published": "2026-07-22T06:03:33.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
+    },
+    {
+      "title": "My Esri - Login",
+      "summary": "Use this self-service portal as your single destination for managing your ArcGIS picks from the ArcGIS suite.",
+      "url": "https://www.esri.com/en-us/my-esri-login",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2022-01-28T06:20:59.000Z",
+      "why": null,
+      "ago": "1638 天前"
+    },
+    {
+      "title": "GIS Software for Mapping and Spatial Analytics | Esri",
+      "summary": "Get free access to recordings from the Esri UC Plenary Session featuring Esri president Jack Dangermond and special guests.",
+      "url": "https://www.esri.com/en-us/home",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2017-08-25T19:22:28.000Z",
+      "why": null,
+      "ago": "3254 天前"
+    },
+    {
+      "title": "Web GIS Mapping Software | Create Web Maps with ArcGIS Online",
+      "summary": "Explore Esri with the new AI-powered assistant, now in beta. Ask questions and get answers faster.",
+      "url": "https://www.esri.com/en-us/arcgis/products/arcgis-online/overview",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2018-06-23T12:14:02.000Z",
+      "why": null,
+      "ago": "2952 天前"
     },
     {
       "title": "Claude for Investing Teams",
@@ -57,9 +79,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-07-22T22:53:07.000Z",
+      "published": "2026-07-23T17:01:10.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "6 小時前"
     },
     {
       "title": "Launching Health in ChatGPT",
@@ -70,51 +92,51 @@
       "group": "ai",
       "published": "2026-07-23T00:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "The Anthropic Economic Index connector",
-      "summary": "People have hard questions about AI and work: which jobs will change, which tasks are being automated, and what it means for their own field.",
-      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "source": "Anthropic",
-      "tag": "模型",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment.",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-07-22T17:13:51.000Z",
+      "published": "2026-07-23T12:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "11 小時前"
     },
     {
-      "title": "A research agenda for the Economic Futures Research Fund",
-      "summary": "We’re sharing the research agenda for the Anthropic Economic Futures Research Fund.",
-      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-      "source": "Anthropic",
-      "tag": "模型",
+      "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
+      "summary": "Lock in and load up the cloud. GFN Thursday brings fresh updates and new adventures, all ready to play without waiting for downloads.",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
       "group": "ai",
-      "published": "2026-07-22T17:13:46.000Z",
+      "published": "2026-07-23T13:00:16.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "10 小時前"
     },
     {
-      "title": "Building AI infrastructure with the Effingham County community",
-      "summary": "Project Camellia is a long-term datacenter project that OpenAI is designing and developing in Effingham County, Georgia.",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+      "summary": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for the students, researchers and faculty at the U.S. military’s flagship graduate university.",
+      "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
       "group": "ai",
-      "published": "2026-07-22T13:00:00.000Z",
+      "published": "2026-07-23T02:00:46.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "21 小時前"
     },
     {
-      "title": "How news organizations are using AI to advance their vital missions",
-      "summary": "Over the past year, we’ve continued working with news organizations to explore how AI can be most useful—helping with time-consuming tasks, enabling new reader experiences, and supporting stronger, more sustainable businesses.",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "ICYMI: Chairman Guthrie Joins Fox Business Network to talk AI Policy and the Ratepayer Protection Act - House Committee on Energy and Commerce (.gov)",
+      "summary": "WASHINGTON, D.C. - This week, Congressman Brett Guthrie (KY-02), Chairman of the House Committee on Energy and Commerce, joined Fox Business' \"The Bottom Line\" to discuss AI policy, data centers, and the Ratepayer Protection Act.",
+      "url": "https://energycommerce.house.gov/posts/icymi-chairman-guthrie-joins-fox-business-network-to-talk-ai-policy-and-the-ratepayer-protection-act",
+      "source": "AI 政策",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-07-22T13:00:00.000Z",
+      "published": "2026-07-23T15:35:07.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "8 小時前"
     }
   ],
   "errors": []

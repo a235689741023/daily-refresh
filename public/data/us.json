@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-07-23T17:15:02.363Z",
-  "updatedLocal": "2026/7/24 01:15:02",
+  "updated": "2026-07-23T23:25:56.267Z",
+  "updatedLocal": "2026/7/24 07:25:56",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
+      "summary": "Investors are increasingly preparing for the Federal Reserve to hike interest rates as oil prices climb.",
+      "url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-23T20:25:28.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
+      "summary": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to J.P.",
+      "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-23T17:10:06.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
     {
       "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
       "summary": "Major U.S. stock indexes tumbled on Thursday as investors began to price in the consequences of a renewed and prolonged conflict in the Middle East.",
@@ -13,9 +35,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-23T16:56:57.000Z",
+      "published": "2026-07-23T19:19:01.000Z",
       "why": null,
-      "ago": "18 分鐘前"
+      "ago": "4 小時前"
     },
     {
       "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
@@ -26,95 +48,73 @@
       "group": null,
       "published": "2026-07-22T22:06:49.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Kalshi launches election hub for prediction markets ahead of midterms",
-      "summary": "Prediction market platform Kalshi on Wednesday launched a new hub that allows political junkies to see how traders in many event contracts think the midterm elections will play out.",
-      "url": "https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-22T15:23:02.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "I am a 63-year-old semiretired physician. If I have saved $2 million for retirement, should Social Security be optional?",
+      "title": "The August stock-market slump is a myth — so why does Wall Street keep repeating it?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-august-stock-market-slump-is-a-myth-so-why-does-wall-street-keep-repeating-it-bc47db44?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-23T17:15:00.000Z",
+      "published": "2026-07-23T22:12:00.000Z",
       "why": null,
-      "ago": "剛剛"
+      "ago": "1 小時前"
     },
     {
-      "title": "Most FDA advisers say the BPC-157 peptide should be made available in the U.S. Here’s what happens next.",
+      "title": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here’s what happens next.",
       "summary": null,
       "url": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-23T17:08:00.000Z",
+      "published": "2026-07-23T22:08:00.000Z",
       "why": null,
-      "ago": "7 分鐘前"
+      "ago": "1 小時前"
     },
     {
-      "title": "The rising cost of capital for companies today is starting to spook the stock market: ‘The worry is the spending might not pay off’",
+      "title": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-rising-cost-of-capital-for-companies-today-is-starting-to-spook-the-stock-market-the-worry-is-the-spending-might-not-pay-off-de4c69e4?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-23T17:04:00.000Z",
+      "published": "2026-07-23T22:03:00.000Z",
       "why": null,
-      "ago": "11 分鐘前"
+      "ago": "1 小時前"
     },
     {
-      "title": "The Treasury market is flashing a warning sign for home buyers. Are 7% mortgage rates next?",
+      "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-treasury-market-is-flashing-a-warning-sign-for-home-buyers-are-7-mortgage-rates-next-58b5b3b1?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-23T17:03:00.000Z",
+      "published": "2026-07-23T22:02:00.000Z",
       "why": null,
-      "ago": "12 分鐘前"
+      "ago": "1 小時前"
     },
     {
-      "title": "The super rich use 401(k)s and IRAs to sidestep taxes on millions of dollars. This proposed law would cut them off.",
+      "title": "AMD’s rivalry with Nvidia is increasingly moving into a new realm",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-super-rich-use-401-k-s-and-iras-to-sidestep-taxes-on-millions-of-dollars-this-proposed-law-would-cut-them-off-04b37e9a?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/amds-rivalry-with-nvidia-is-increasingly-moving-into-a-new-realm-ac63eceb?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-23T17:02:00.000Z",
+      "published": "2026-07-23T21:59:00.000Z",
       "why": null,
-      "ago": "13 分鐘前"
+      "ago": "1 小時前"
     },
     {
-      "title": "Global oil tops $100 after Houthis strike Saudi tankers and Trump threatens ‘military punishment’ on Iran",
+      "title": "The stock market’s calm is cracking. Here’s how to prepare for an August shock.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-stock-markets-calm-surface-is-cracking-heres-how-to-prepare-for-an-august-shock-7d655813?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-23T16:50:00.000Z",
+      "published": "2026-07-23T21:53:00.000Z",
       "why": null,
-      "ago": "25 分鐘前"
-    },
-    {
-      "title": "Are you looking for financial advice? This is the best way to ask for it.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/how-to-ask-strangers-on-the-internet-for-financial-advice-ba5b3fb7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-23T16:37:00.000Z",
-      "why": null,
-      "ago": "38 分鐘前"
+      "ago": "2 小時前"
     }
   ],
   "errors": []
