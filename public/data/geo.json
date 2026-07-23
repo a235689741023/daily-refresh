@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-23T05:19:13.804Z",
-  "updatedLocal": "2026/7/23 13:19:13",
+  "updated": "2026-07-23T05:25:22.750Z",
+  "updatedLocal": "2026/7/23 13:25:22",
   "digest": null,
   "watch": [],
   "items": [
@@ -14,7 +14,7 @@
       "tag": "平台",
       "group": "gis",
       "published": "2026-07-22T21:50:43.000Z",
-      "ago": "7 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Simplifying ArcGIS Over The Years",
@@ -74,7 +74,7 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-07-22T22:53:07.000Z",
-      "ago": "6 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Donating another $20 million to Public First Action",
