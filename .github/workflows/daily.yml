@@ -9,7 +9,7 @@ on:
     - cron: "0 3 * * *"
     # 21:00 美股盤前：對應美東 09:00（夏令）／08:00（冬令），開盤前的最後一份情報
     - cron: "0 13 * * *"
-  workflow_dispatch: # 允許手動觸發
+  workflow_dispatch: # 允許在 Actions 頁面手動觸發
   push:
     branches: [main]
     paths-ignore:
@@ -21,8 +21,10 @@ permissions:
   pages: write
   id-token: write
 
+# 同時間只跑一個，後來的排隊等待。資料會 commit 回 repo，
+# 平行執行會互相踩到對方推上去的 commit。
 concurrency:
-  group: pages
+  group: daily-refresh
   cancel-in-progress: false
 
 jobs:
@@ -38,25 +40,43 @@ jobs:
 
       - run: npm ci
 
+      # 程式碼推送時沿用既有資料直接重新部署，不重抓 ——
+      # 抓取要花好幾分鐘，而且改個 CSS 沒有理由去打三十幾個新聞來源。
       - name: 抓取四大領域資料
+        if: github.event_name != 'push'
         env:
-          # 選配：設定後會多一層 Claude 判讀（今日重點摘要、為何重要）
+          # 選配：設定後會多一層 Claude 摘要與判讀
           # 在 repo 的 Settings → Secrets and variables → Actions 新增
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TZ: Asia/Taipei
         run: npm run fetch
 
-      - name: 把資料存回 repo（保留歷史，也當作下次的備援）
+      # 存回 repo 是為了留歷史、也當作下次抓取失敗時的備援。
+      # 這一步失敗不該擋住部署 —— 資料已經在工作目錄裡，網站照樣能更新，
+      # 所以整段用 continue-on-error 包起來。
+      - name: 把資料存回 repo
+        if: github.event_name != 'push'
+        continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/data
           if git diff --staged --quiet; then
             echo "資料無變化，略過 commit"
-          else
-            git commit -m "chore: 每日資料更新 $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push
+            exit 0
           fi
+          git commit -m "chore: 每日資料更新 $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # 期間可能有別的執行推了新 commit，rebase 後重試幾次
+          for i in 1 2 3; do
+            if git push; then
+              echo "已推送"
+              exit 0
+            fi
+            echo "推送被拒（第 $i 次），rebase 後重試"
+            git pull --rebase --autostash origin main || true
+            sleep 5
+          done
+          echo "::warning::資料未能存回 repo，但不影響本次部署"
 
       - uses: actions/configure-pages@v5
 
