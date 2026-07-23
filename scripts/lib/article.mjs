@@ -79,12 +79,24 @@ const JUNK =
 /** 作者列、日期列這類非正文的短行。 */
 const BYLINE = /^(By\s+[A-Z]|作者[：:]|文[／/]|撰文|編譯|記者\s)/;
 
+/**
+ * 段落尾巴常黏著「詳細資訊請看內頁：https://…」這類導流句，
+ * 混進摘要裡很難看，在這裡先清掉。
+ */
+function tidy(text) {
+  return text
+    .replace(/(詳細資訊|更多資訊|完整內容|原文連結|延伸閱讀)[^。]{0,12}[：:]\s*\S*/g, "")
+    .replace(/https?:\/\/\S+/g, "")
+    .replace(/\s{2,}/g, " ")
+    .trim();
+}
+
 /** 從一段 HTML 取出可用的段落文字。 */
 function paragraphs(fragment) {
   const seen = new Set();
   const out = [];
   for (const m of fragment.matchAll(/<p\b[^>]*>([\s\S]*?)<\/p>/gi)) {
-    const t = clean(m[1], 100000);
+    const t = tidy(clean(m[1], 100000));
     if (t.length < 40 || JUNK.test(t) || BYLINE.test(t)) continue;
     const k = t.slice(0, 50);
     if (seen.has(k)) continue;
@@ -176,7 +188,7 @@ async function viaReader(url) {
     .replace(/^[#>*\-\s]+$/gm, "")            // 純符號的行
     .replace(/[ \t]+/g, " ")
     .split("\n")
-    .map((l) => l.trim())
+    .map((l) => tidy(l))
     .filter((l) => l.length >= 40 && !JUNK.test(l) && !BYLINE.test(l))
     .join("\n")
     .slice(0, 6000);
