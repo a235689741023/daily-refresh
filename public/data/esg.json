@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-07-23T15:20:55.270Z",
-  "updatedLocal": "2026/7/23 23:20:55",
+  "updated": "2026-07-23T17:15:02.363Z",
+  "updatedLocal": "2026/7/24 01:15:02",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,18 @@
       "group": null,
       "published": "2026-07-23T15:01:42.000Z",
       "why": null,
-      "ago": "19 分鐘前"
+      "ago": "2 小時前"
     },
     {
       "title": "Sustainability pays a credibility tax. Some of it is self-imposed",
-      "summary": "Sustainability investments often fail to get funding, even when there’s no overt pushback. Many common habits of sustainability professionals make the “credibility hole” deeper.",
+      "summary": "The opinions expressed here by Trellis expert contributors are their own, not those of Trellis or its editors .",
       "url": "https://trellis.net/article/sustainability-credibility-tax-self-imposed/",
       "source": "Trellis",
       "tag": "國際",
       "group": null,
       "published": "2026-07-23T09:10:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Tesla sets net-zero target for first time",
@@ -37,29 +37,29 @@
       "group": null,
       "published": "2026-07-22T18:39:09.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "Amazon cloud customers can now see their water withdrawal data",
-      "summary": "Amazon Web Services (AWS) has updated its environmental reporting dashboard to provide customers with annual data about water withdrawals attributed to their cloud computing activities.",
-      "url": "https://trellis.net/article/amazon-cloud-customers-can-now-see-individual-water-withdrawal-data/",
-      "source": "Trellis",
+      "title": "Report: Existing grid connections in Europe could unlock 25GW of new clean power",
+      "summary": "According to energy think tank Ember, 25 gigawatts (GW) of wind and solar could be added to existing EU hydropower sites without the need for new grid capacity.",
+      "url": "https://www.edie.net/report-existing-grid-connections-in-europe-could-unlock-25gw-of-new-clean-power/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-07-22T10:00:00.000Z",
+      "published": "2026-07-23T16:11:54.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "1 小時前"
     },
     {
-      "title": "Salesforce expands disclosures about AI environmental impact",
-      "summary": "Software firm Salesforce has added metrics about energy consumption and carbon emissions to the model cards it publishes for several of its widely used artificial intelligence models.",
-      "url": "https://trellis.net/article/salesforce-expands-disclosures-about-ai-environmental-impact/",
-      "source": "Trellis",
+      "title": "Smart energy market risks deepening inequality without reform, report warns",
+      "summary": "New research has found that the UK's transition to a smart, flexible electricity system risks creating a deeper divide between households unless fairness is built into market design, consumer support and regulation.",
+      "url": "https://www.edie.net/smart-energy-market-risks-deepening-inequality-without-reform-report-warns/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-07-22T10:00:00.000Z",
+      "published": "2026-07-23T15:29:23.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 小時前"
     },
     {
       "title": "Octopus and Santander launch ‘first-of-its-kind’ mortgage for Zero Bills homes",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-07-23T15:09:23.000Z",
       "why": null,
-      "ago": "12 分鐘前"
+      "ago": "2 小時前"
     },
     {
       "title": "How are EU regulations changing the risk calculus for Brazilian commodity buyers?",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-07-23T02:30:44.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "June heatwave cost UK economy over £1bn, study finds",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-07-22T23:01:58.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Inside the Duchy of Cornwall’s people-first plan for net-zero",
@@ -103,7 +103,7 @@
       "group": null,
       "published": "2026-07-22T20:01:43.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "移除纏繞數十年鋼纜 林保署為170線林道巨木「解鎖」",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-07-23T08:56:53.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "8 小時前"
     }
   ],
   "errors": []

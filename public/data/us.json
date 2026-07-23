@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-07-23T15:20:55.270Z",
-  "updatedLocal": "2026/7/23 23:20:55",
+  "updated": "2026-07-23T17:15:02.363Z",
+  "updatedLocal": "2026/7/24 01:15:02",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
+      "summary": "Major U.S. stock indexes tumbled on Thursday as investors began to price in the consequences of a renewed and prolonged conflict in the Middle East.",
+      "url": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-23T16:56:57.000Z",
+      "why": null,
+      "ago": "18 分鐘前"
+    },
     {
       "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
       "summary": "John Paulson, the hedge fund manager who made billions betting against the U.S. housing market before turning bullish on gold, said he believes the precious metal is only in the early stages of a long-term rally.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-07-22T22:06:49.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Kalshi launches election hub for prediction markets ahead of midterms",
@@ -26,95 +37,84 @@
       "group": null,
       "published": "2026-07-22T15:23:02.000Z",
       "why": null,
-      "ago": "24 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
-      "summary": "He's not quite at the level of obscurity of former Federal Reserve Chairman Alan Greenspan, but new Fed chief Kevin Warsh has settled on a few phrases that are notable for their repetition and lack of clarity.",
-      "url": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-07-22T16:57:55.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Alphabet’s massive profit growth is just an illusion, as SpaceX and Anthropic help mask a historic cash drain",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/alphabets-massive-profit-growth-is-just-an-illusion-as-spacex-and-anthropic-help-mask-a-historic-cash-drain-ffff172d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-23T14:28:00.000Z",
-      "why": null,
-      "ago": "53 分鐘前"
-    },
-    {
-      "title": "I am a 63-year-old semiretired physician. If you have saved $2 million for retirement, should Social Security be optional?",
+      "title": "I am a 63-year-old semiretired physician. If I have saved $2 million for retirement, should Social Security be optional?",
       "summary": null,
       "url": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-23T14:21:00.000Z",
+      "published": "2026-07-23T17:15:00.000Z",
       "why": null,
-      "ago": "60 分鐘前"
+      "ago": "剛剛"
     },
     {
-      "title": "For young investors, $100,000 was once the gateway to wealth. Today, it’s double that.",
+      "title": "Most FDA advisers say the BPC-157 peptide should be made available in the U.S. Here’s what happens next.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/having-100-000-invested-was-once-the-gateway-to-building-real-wealth-for-young-people-today-its-double-that-dc96fcc7?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-23T14:15:00.000Z",
+      "published": "2026-07-23T17:08:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "7 分鐘前"
     },
     {
-      "title": "Global oil prices top $100 after Houthis claim strikes on Saudi Arabian tankers",
+      "title": "The rising cost of capital for companies today is starting to spook the stock market: ‘The worry is the spending might not pay off’",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-rising-cost-of-capital-for-companies-today-is-starting-to-spook-the-stock-market-the-worry-is-the-spending-might-not-pay-off-de4c69e4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-23T17:04:00.000Z",
+      "why": null,
+      "ago": "11 分鐘前"
+    },
+    {
+      "title": "The Treasury market is flashing a warning sign for home buyers. Are 7% mortgage rates next?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-treasury-market-is-flashing-a-warning-sign-for-home-buyers-are-7-mortgage-rates-next-58b5b3b1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-23T17:03:00.000Z",
+      "why": null,
+      "ago": "12 分鐘前"
+    },
+    {
+      "title": "The super rich use 401(k)s and IRAs to sidestep taxes on millions of dollars. This proposed law would cut them off.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-super-rich-use-401-k-s-and-iras-to-sidestep-taxes-on-millions-of-dollars-this-proposed-law-would-cut-them-off-04b37e9a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-23T17:02:00.000Z",
+      "why": null,
+      "ago": "13 分鐘前"
+    },
+    {
+      "title": "Global oil tops $100 after Houthis strike Saudi tankers and Trump threatens ‘military punishment’ on Iran",
       "summary": null,
       "url": "https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-23T14:09:00.000Z",
+      "published": "2026-07-23T16:50:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "25 分鐘前"
     },
     {
-      "title": "AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical.",
+      "title": "Are you looking for financial advice? This is the best way to ask for it.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns-the-next-few-weeks-are-critical-408ed725?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/how-to-ask-strangers-on-the-internet-for-financial-advice-ba5b3fb7?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-23T13:52:00.000Z",
+      "published": "2026-07-23T16:37:00.000Z",
       "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-23T13:38:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "IBM lowered its guidance. Now it’s time to deliver, analysts say.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/ibm-lowered-its-guidance-now-its-time-to-deliver-analysts-say-fe3d7d1a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-23T13:35:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
+      "ago": "38 分鐘前"
     }
   ],
   "errors": []

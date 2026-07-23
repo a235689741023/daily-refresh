@@ -1,21 +1,21 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-23T15:20:55.270Z",
-  "updatedLocal": "2026/7/23 23:20:55",
+  "updated": "2026-07-23T17:15:02.363Z",
+  "updatedLocal": "2026/7/24 01:15:02",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "AI Assistant (Beta)",
-      "summary": "Introducing your AI-powered companion for exploring Esri Ask questions and get answers grounded in trusted Esri content.",
-      "url": "https://www.esri.com/en-us/ai-assistant",
-      "source": "Esri",
+      "title": "Esri Community | GIS Professional Community",
+      "summary": null,
+      "url": "https://community.esri.com/",
+      "source": "Esri Community",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-07-22T21:50:43.000Z",
+      "published": "2026-07-23T16:38:14.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "37 分鐘前"
     },
     {
       "title": "Simplifying ArcGIS Over The Years",
@@ -51,6 +51,28 @@
       "ago": "昨日"
     },
     {
+      "title": "Claude for Investing Teams",
+      "summary": "Investing runs on documents: CIMs, data rooms, filings, models, memos, LP letters.",
+      "url": "https://www.anthropic.com/webinars/claude-for-investing-teams",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-22T22:53:07.000Z",
+      "why": null,
+      "ago": "18 小時前"
+    },
+    {
+      "title": "Launching Health in ChatGPT",
+      "summary": "Rolling out to U.S. users, you can securely connect your health information to help you better understand and navigate your health.",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-23T00:00:00.000Z",
+      "why": null,
+      "ago": "17 小時前"
+    },
+    {
       "title": "The Anthropic Economic Index connector",
       "summary": "People have hard questions about AI and work: which jobs will change, which tasks are being automated, and what it means for their own field.",
       "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
@@ -59,7 +81,7 @@
       "group": "ai",
       "published": "2026-07-22T17:13:51.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     },
     {
       "title": "A research agenda for the Economic Futures Research Fund",
@@ -70,18 +92,7 @@
       "group": "ai",
       "published": "2026-07-22T17:13:46.000Z",
       "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Claude for Investing Teams",
-      "summary": "Investing runs on documents: CIMs, data rooms, filings, models, memos, LP letters.",
-      "url": "https://www.anthropic.com/webinars/claude-for-investing-teams",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-22T22:53:07.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Building AI infrastructure with the Effingham County community",
@@ -102,17 +113,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-07-22T13:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Advancing the next era of national science",
-      "summary": "American leadership has always been driven by scientific leadership.",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-22T12:00:00.000Z",
       "why": null,
       "ago": "昨日"
     }
