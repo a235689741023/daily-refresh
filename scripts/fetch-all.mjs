@@ -18,6 +18,7 @@ import { fileURLToPath } from "node:url";
 
 import { DOMAINS } from "./sources.mjs";
 import { fetchFeeds, curate, ago } from "./lib/rss.mjs";
+import { enrich } from "./lib/article.mjs";
 import { usMarkets, twMarkets, linkage, appendTaiexHistory } from "./lib/markets.mjs";
 import * as ai from "./lib/summarize.mjs";
 
@@ -75,8 +76,11 @@ async function runNewsDomain(key, marketContext = null) {
 
   console.log(`  共 ${raw.length} 則，篩選後保留 ${picked.length} 則`);
 
-  const analysis = await ai.analyze(key, picked, marketContext);
-  const { items, digest, watch } = ai.merge(picked, analysis);
+  // 抓回文章正文，摘要才有東西可寫（RSS 的 description 不能當摘要用）
+  const enriched = await enrich(picked);
+
+  const analysis = await ai.analyze(key, enriched, marketContext);
+  const { items, digest, watch } = ai.merge(enriched, analysis);
 
   await save(`${key}.json`, {
     domain: key,

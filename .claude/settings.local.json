@@ -42,7 +42,11 @@
       "Bash(ssh -o StrictHostKeyChecking=no -o ConnectTimeout=10 -T git@github.com)",
       "Bash(git remote *)",
       "Bash(git branch *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(git pull *)",
+      "Bash(git stash *)",
+      "Bash(curl -s \"https://news.google.com/rss/search?q=site%3Aesgtoday.com&hl=en-US&gl=US&ceid=US:en\" -o gnrss.xml)",
+      "Bash(node --check scripts/lib/article.mjs)"
     ]
   }
 }

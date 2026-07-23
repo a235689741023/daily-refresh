@@ -19,11 +19,15 @@ export const DOMAINS = {
     title: "永續 ESG",
     keep: 10,
     feeds: [
-      { name: "Trellis",       url: "https://trellis.net/feed/",       tag: "國際", weight: 8 },
+      // 官方 feed 且文章頁可正常抓取的來源優先 —— 這些才做得出真正的摘要
+      { name: "Trellis",       url: "https://trellis.net/feed/",       tag: "國際", weight: 9 },
+      { name: "edie",          url: "https://www.edie.net/feed/",      tag: "國際", weight: 8 },
+      { name: "Carbon Brief",  url: "https://www.carbonbrief.org/feed/", tag: "氣候", weight: 8 },
       { name: "ESG News",      url: "https://esgnews.com/feed/",        tag: "國際", weight: 6 },
       // 以下來源沒有可用的官方 feed（Cloudflare 阻擋或未提供），改由 Google News 取得。
-      // 條目仍會連回各媒體原文，只是探索路徑不同。
-      { name: "ESG Today",     url: gnewsEN("site:esgtoday.com"),               tag: "國際", weight: 9 },
+      // 條目仍會連回各媒體原文，但文章頁同樣被擋，所以摘要可能從缺 ——
+      // 權重調低，讓抓得到正文的來源優先出現。
+      { name: "ESG Today",     url: gnewsEN("site:esgtoday.com"),               tag: "國際", weight: 6 },
       { name: "環境資訊中心",   url: gnews("site:e-info.org.tw"),                 tag: "台灣", weight: 8 },
       { name: "CSRone",        url: gnews("site:csrone.com"),                   tag: "台灣", weight: 7 },
       { name: "台灣永續政策",   url: gnews("碳費 OR 碳交易 OR 永續報告書 OR 淨零 台灣"), tag: "台灣", weight: 7 },
@@ -40,7 +44,7 @@ export const DOMAINS = {
     feeds: [
       // 空間資訊
       { name: "ArcGIS Blog",        url: gnewsEN("site:esri.com arcgis"),                 tag: "平台", group: "gis", weight: 9 },
-      { name: "Geospatial World",   url: "https://geospatialworld.net/feed/",             tag: "產業", group: "gis", weight: 8 },
+      { name: "Geospatial World",   url: "https://geospatialworld.net/feed/",             tag: "產業", group: "gis", weight: 6 },
       { name: "Google Maps Blog",   url: "https://blog.google/products/maps/rss/",        tag: "平台", group: "gis", weight: 7 },
       { name: "GIS Lounge",         url: "https://www.gislounge.com/feed/",               tag: "應用", group: "gis", weight: 5 },
       { name: "GIS × AI 研究",      url: gnewsEN("geospatial AI OR \"spatial AI\" OR \"remote sensing\" foundation model"), tag: "研究", group: "gis", weight: 7 },
