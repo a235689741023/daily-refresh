@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Daily Refresh">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="38%" r="62%">
+      <stop offset="0%" stop-color="#1C2740"/>
+      <stop offset="70%" stop-color="#0E1626"/>
+      <stop offset="100%" stop-color="#080D16"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F2DA97"/>
+      <stop offset="55%" stop-color="#D4AF56"/>
+      <stop offset="100%" stop-color="#96762B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="512" height="512" fill="url(#glow)"/>
+
+  <!-- 燙金外框 -->
+  <rect x="34" y="34" width="444" height="444" rx="76" fill="none" stroke="url(#gold)" stroke-width="5" opacity=".55"/>
+  <rect x="52" y="52" width="408" height="408" rx="62" fill="none" stroke="url(#gold)" stroke-width="2" opacity=".3"/>
+
+  <!-- 破曉的太陽：晨間簡報的核心意象 -->
+  <g stroke="url(#gold)" fill="none" stroke-linecap="round">
+    <circle cx="256" cy="268" r="74" stroke-width="9"/>
+    <path d="M256 148v-40M256 428v-40M136 268H96M416 268h-40" stroke-width="8"/>
+    <path d="M171 183l-28-28M341 183l28-28M171 353l-28 28M341 353l28 28" stroke-width="7" opacity=".82"/>
+  </g>
+
+  <!-- 地平線 -->
+  <path d="M104 344h304" stroke="url(#gold)" stroke-width="6" stroke-linecap="round" opacity=".5"/>
+
+  <!-- 四道刻痕，對應四個領域 -->
+  <g fill="url(#gold)" opacity=".9">
+    <rect x="196" y="396" width="26" height="7" rx="3.5"/>
+    <rect x="238" y="396" width="26" height="7" rx="3.5"/>
+    <rect x="280" y="396" width="26" height="7" rx="3.5"/>
+    <rect x="322" y="396" width="26" height="7" rx="3.5"/>
+  </g>
+</svg>

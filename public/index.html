@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Daily Refresh</title>
+<meta name="description" content="每日晨間簡報：ESG、地理資訊與 AI、美股、台股，外加咖啡風味輪、德文諺語與肌群連連看。">
+<meta name="theme-color" content="#0B111C" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#E6DCC4" media="(prefers-color-scheme: light)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Daily Refresh">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="page">
+<canvas id="motes"></canvas>
+<div class="wrap">
+
+  <header class="masthead">
+    <p class="eyebrow">Vol. I · 晨間簡報</p>
+    <h1 class="mast-title">Daily Refresh</h1>
+    <p class="mast-sub">Work Hard, Play Hard ✨</p>
+    <div class="mast-rule"><span class="ln"></span><span class="dm"></span><span class="ln"></span></div>
+    <p class="datestamp" id="stamp"></p>
+  </header>
+
+  <nav class="nav" aria-label="區塊導覽">
+    <a href="#esg"><span class="pip" style="background:var(--crest-esg)"></span>永續 ESG</a>
+    <a href="#geo"><span class="pip" style="background:var(--crest-geo)"></span>地理・AI</a>
+    <a href="#us"><span class="pip" style="background:var(--crest-us)"></span>美股</a>
+    <a href="#tw"><span class="pip" style="background:var(--crest-tw)"></span>台股</a>
+    <a href="#fun"><span class="pip" style="background:var(--gold)"></span>Play</a>
+  </nav>
+
+  <!-- ESG -->
+  <section class="sect" id="esg">
+    <div class="sect-head">
+      <div class="crest" style="border-color:var(--crest-esg)">
+        <svg viewBox="0 0 24 24" fill="none" stroke="var(--crest-esg)" stroke-width="1.4" stroke-linecap="round">
+          <path d="M12 21c0-6 3-10 8-12-1 8-4 11-8 12Z"/><path d="M12 21c0-5-2.5-8-7-9.5.8 6.5 3.5 8.8 7 9.5Z"/><path d="M12 21v-4"/>
+        </svg>
+      </div>
+      <div>
+        <h2 class="sect-title">永續 ESG</h2>
+        <p class="sect-meta">ESG Today · Trellis · 環境資訊中心 · CSRone</p>
+      </div>
+    </div>
+    <div class="sect-rule"></div>
+    <div id="esg-list"></div>
+  </section>
+
+  <!-- GEO / AI -->
+  <section class="sect" id="geo">
+    <div class="sect-head">
+      <div class="crest" style="border-color:var(--crest-geo)">
+        <svg viewBox="0 0 24 24" fill="none" stroke="var(--crest-geo)" stroke-width="1.4">
+          <circle cx="12" cy="12" r="8.5"/><ellipse cx="12" cy="12" rx="4" ry="8.5"/><path d="M3.5 12h17M5 7h14M5 17h14"/>
+        </svg>
+      </div>
+      <div>
+        <h2 class="sect-title">地理資訊・AI</h2>
+        <p class="sect-meta">ArcGIS · Geospatial World · Google AI · MIT TR</p>
+      </div>
+    </div>
+    <div class="sect-rule"></div>
+    <p class="sub">空間資訊</p>
+    <div id="gis-list"></div>
+    <p class="sub">人工智慧</p>
+    <div id="ai-list"></div>
+  </section>
+
+  <!-- US -->
+  <section class="sect" id="us">
+    <div class="sect-head">
+      <div class="crest" style="border-color:var(--crest-us)">
+        <svg viewBox="0 0 24 24" fill="none" stroke="var(--crest-us)" stroke-width="1.4" stroke-linecap="round">
+          <path d="M3 17.5 8.5 11l4 3.5L21 5.5"/><path d="M15.5 5.5H21v5.5"/>
+        </svg>
+      </div>
+      <div>
+        <h2 class="sect-title">美股</h2>
+        <p class="sect-meta">FRED 行情 · CNBC · MarketWatch · Reuters</p>
+      </div>
+    </div>
+    <div class="sect-rule"></div>
+    <div class="mkt" id="us-mkt"></div>
+    <div id="us-list"></div>
+  </section>
+
+  <!-- TW -->
+  <section class="sect" id="tw">
+    <div class="sect-head">
+      <div class="crest" style="border-color:var(--crest-tw)">
+        <svg viewBox="0 0 24 24" fill="none" stroke="var(--crest-tw)" stroke-width="1.4" stroke-linejoin="round">
+          <path d="M3 19h18"/><path d="M4.5 19 10 7.5l3.5 6 2.5-3.5L20 19"/>
+        </svg>
+      </div>
+      <div>
+        <h2 class="sect-title">台股</h2>
+        <p class="sect-meta">證交所 · 櫃買 · 鉅亨 · 中央社 · 經濟日報</p>
+      </div>
+    </div>
+    <div class="sect-rule"></div>
+    <div class="mkt" id="tw-mkt"></div>
+    <div class="flow" id="tw-flow"></div>
+    <div id="tw-list"></div>
+  </section>
+
+  <!-- FUN -->
+  <div class="interlude" id="fun">
+    <p class="t">別忘了玩一下</p>
+    <p class="s">Coffee, Deutsch, Workout</p>
+    <div class="orn"></div>
+  </div>
+
+  <!-- Coffee -->
+  <section class="sect" style="padding-top:26px">
+    <p class="sub">其一 · 今日豆單</p>
+    <div class="card">
+      <div class="bean-hd">
+        <div>
+          <h3 class="bean-name" id="bean-name">載入中…</h3>
+          <p class="bean-en" id="bean-en"></p>
+        </div>
+        <span class="bean-no" id="bean-no"></span>
+      </div>
+      <dl class="specs" id="bean-specs"></dl>
+      <p class="wheel-note" id="bean-hint">先看處理法、海拔與烘焙度，想想這樣的條件會把哪些風味推到前面，在風味輪上點選你的猜測（可複選），再揭曉答案。</p>
+
+      <div class="wheel-box"><svg id="wheel" viewBox="0 0 400 400" role="group" aria-label="咖啡風味輪"></svg></div>
+
+      <div class="picks" id="picks"><span class="ph">尚未選擇任何風味</span></div>
+      <button class="btn" id="reveal-btn">揭曉答案</button>
+
+      <div class="reveal" id="bean-reveal">
+        <h4>杯測記錄</h4>
+        <p class="score" id="bean-score"></p>
+        <p id="bean-blurb"></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Proverb -->
+  <section class="sect" style="padding-top:26px">
+    <p class="sub">其二 · 今日德諺</p>
+    <div class="card">
+      <p class="pv-de" lang="de" id="pv-text">…</p>
+      <p class="pv-lit" id="pv-lit"></p>
+      <p class="pv-zh" id="pv-zh"></p>
+      <p class="pv-use" id="pv-use"></p>
+      <div class="pv-bar">
+        <button class="speak" id="speak-btn" aria-label="播放德語發音">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M4 9.5v5h3.5L12 18.5v-13L7.5 9.5H4Z"/><path d="M15.5 9a4 4 0 0 1 0 6"/><path d="M18 6.5a7.5 7.5 0 0 1 0 11"/>
+          </svg>
+          <span id="speak-label">聆聽發音</span>
+        </button>
+        <span class="rate" id="voice-note">德語語音 · 由裝置合成</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Muscle match -->
+  <section class="sect" style="padding-top:26px">
+    <p class="sub">其三 · 肌群連連看</p>
+    <div class="card">
+      <p class="wheel-note" style="margin:0 0 14px">今日三個動作。先點下方的動作卡，再到解剖圖上點選它<strong style="color:var(--gold)">主要</strong>訓練的肌群。共 <strong style="color:var(--gold)">21</strong> 組可選肌群，其中背部細分為 <strong style="color:var(--gold)">12</strong> 組——斜方肌拆成上／中／下三段，深層的菱形肌、旋轉肌群另立 Plate II 放大檢視。</p>
+      <div class="mg" id="mg">
+        <svg id="mg-lines" aria-hidden="true"></svg>
+        <div class="atlas">
+          <p class="plate">PLATE I　全身淺層 ── 正面觀 ／ 背面觀</p>
+          <svg id="body-svg" viewBox="0 0 460 352" role="group" aria-label="人體肌群解剖圖：正面觀與背面觀淺層"></svg>
+          <p class="plate deep">PLATE II　深層背肌 ── 軀幹放大（左半去除淺層）</p>
+          <svg id="deep-svg" viewBox="0 0 460 232" role="group" aria-label="深層背部肌群解剖圖"></svg>
+        </div>
+        <div class="mg-moves" id="mg-moves"></div>
+      </div>
+      <div class="mg-legend" id="mg-legend">
+        <span><i class="sw prime"></i>主動肌 Prime Mover</span>
+        <span><i class="sw syn"></i>協同肌 Synergist</span>
+      </div>
+      <p class="mg-status" id="mg-status">0 / 3 完成</p>
+      <div class="reveal" id="mg-reveal">
+        <h4>訓練筆記</h4>
+        <div id="mg-notes"></div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="foot">
+    <p>下次抓取 · 明日 06:30 CST</p>
+    <div class="mast-rule"><span class="ln"></span><span class="dm"></span><span class="ln"></span></div>
+    <p class="q">「時間會流逝，但知識會累積。」</p>
+  </footer>
+
+</div>
+</div>
+<script src="js/app.js"></script>
+</body>
+</html>

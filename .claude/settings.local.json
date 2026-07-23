@@ -1,0 +1,42 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -o /dev/null -w '%{http_code}\\\\n' -A 'Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/124.0 Safari/537.36' --max-time 8 https://www.esgtoday.com/feed/)",
+      "Bash(curl -s -o /dev/null -w '%{http_code}\\\\n' -A 'Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/124.0 Safari/537.36' --max-time 8 https://www.esri.com/arcgis-blog/feed/)",
+      "Bash(curl -s -o /dev/null -w '%{http_code}\\\\n' -A 'Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/124.0 Safari/537.36' --max-time 8 https://www.geospatialworld.net/feed/)",
+      "Bash(curl -s -o /dev/null -w '%{http_code}\\\\n' -A 'Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/124.0 Safari/537.36' --max-time 8 https://www.cnbc.com/id/20910258/device/rss/rss.html)",
+      "Bash(curl -s -L -o /dev/null -w '%{http_code}\\\\n' -A 'Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/124.0 Safari/537.36' --max-time 8 http://feeds.marketwatch.com/marketwatch/topstories/)",
+      "Bash(curl -s -A 'Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/124.0 Safari/537.36' --max-time 8 'https://stooq.com/q/d/l/?s=aapl.us&i=d')",
+      "Bash(python3 -c ' *)",
+      "Bash(curl -s -A 'Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/124.0 Safari/537.36' --max-time 8 'https://query1.finance.yahoo.com/v8/finance/chart/TWD=X?interval=1d&range=5d')",
+      "Skill(artifact-design)",
+      "Skill(artifact-design:*)",
+      "Bash(git init *)",
+      "Bash(mkdir -p .github/workflows scripts/lib public/js public/data public/icons)",
+      "Bash(npm install *)",
+      "Bash(DRY_RUN=1 TZ=Asia/Taipei timeout 300 node scripts/fetch-all.mjs)",
+      "Bash(DRY_RUN=1 TZ=Asia/Taipei node scripts/fetch-all.mjs)",
+      "Read(//private/tmp/**)",
+      "Bash(curl -s \"https://stooq.com/q/d/l/?s=%5Espx&i=d\")",
+      "Bash(curl -s \"https://stooq.com/q/d/l/?s=spx&i=d\")",
+      "Bash(curl -s \"https://openapi.twse.com.tw/v1/fund/BFI82U\")",
+      "Bash(curl -s -H \"User-Agent: Mozilla/5.0\" \"https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?range=1mo&interval=1d\")",
+      "Bash(curl -s -L \"https://openapi.twse.com.tw/v1/exchangeReport/MI_INDEX\")",
+      "Bash(curl -s -L \"https://openapi.twse.com.tw/v1/fund/BFI82U\")",
+      "Bash(ONLY=us TZ=Asia/Taipei node scripts/fetch-all.mjs)",
+      "Bash(node -e \"const m=require\\('./public/data/markets.json'\\);console.log\\('US:',m.us.indices.map\\(i=>i.error?i.name+' ✗':i.name+' '+i.value+' '+i.changePct?.toFixed\\(2\\)+'%'\\).join\\(' | '\\)\\);console.log\\('VIX:',m.us.vix.value,m.us.sentiment?.level\\);console.log\\('TAIEX:',JSON.stringify\\(m.tw.taiex\\)\\);console.log\\('法人:',JSON.stringify\\(m.tw.flows\\)\\);console.log\\('指標股:',JSON.stringify\\(m.tw.watch\\)\\);console.log\\('櫃買:',JSON.stringify\\(m.tw.otc\\)\\);console.log\\('ADR:',m.tw.adr?.value,m.tw.adr?.changePct?.toFixed\\(2\\)\\);console.log\\('匯率:',m.tw.fx?.value\\);console.log\\('聯動:',JSON.stringify\\(m.linkage,null,1\\)\\);\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" -H \"User-Agent: Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/124.0.0.0 Safari/537.36\" \"https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?range=1mo&interval=1d\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" -H \"User-Agent: Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/124.0.0.0 Safari/537.36\" \"https://query2.finance.yahoo.com/v8/finance/chart/%5EGSPC?range=1mo&interval=1d\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" \"https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?range=1mo&interval=1d\")",
+      "Bash(node -e ' *)",
+      "Bash(TZ=Asia/Taipei node scripts/fetch-all.mjs)",
+      "Bash(node -)",
+      "Bash(grep -n \"const ANSWERS\\\\|const picked\\\\|let revealed\\\\|buildWheel\\(\\);\\\\|reveal-btn\\\\|const btn=\\\\$\\(\\\\\"#speak-btn\\\\\"\\)\\\\|const MOVES = \\\\[\\\\|^];\\\\s*$\\\\|MOVES.forEach\\(\\(mv,i\\)=>{\\\\|cards.push\\(b\\); movesBox\" public/js/app.js)",
+      "Bash(grep -n \"^const MOVES\\\\|^let sel=null\\\\|^const musEl\\\\|^const cards\\\\|^let solved\\\\|^MOVES.forEach\\\\|^  cards.push\\(b\\); movesBox\\\\|^}\\);$\" public/js/app.js)",
+      "Bash(node --check public/js/app.js)",
+      "Bash(pkill -f \"scripts/serve.mjs\")",
+      "Bash(git add *)",
+      "Bash(git -c user.name=isocyclo -c user.email=helenhan25@gmail.com commit -q -m ' *)"
+    ]
+  }
+}

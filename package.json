@@ -1,0 +1,19 @@
+{
+  "name": "daily-refresh",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily Refresh — 個人晨間簡報 PWA：ESG、地理資訊與 AI、美股、台股，外加咖啡風味輪、德文諺語與肌群連連看。",
+  "scripts": {
+    "fetch": "node scripts/fetch-all.mjs",
+    "fetch:dry": "DRY_RUN=1 node scripts/fetch-all.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.68.0",
+    "rss-parser": "^3.13.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
