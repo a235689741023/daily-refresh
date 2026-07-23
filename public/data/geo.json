@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-23T05:25:22.750Z",
-  "updatedLocal": "2026/7/23 13:25:22",
+  "updated": "2026-07-23T14:58:37.253Z",
+  "updatedLocal": "2026/7/23 22:58:37",
   "digest": null,
   "watch": [],
   "items": [
@@ -14,7 +14,17 @@
       "tag": "平台",
       "group": "gis",
       "published": "2026-07-22T21:50:43.000Z",
-      "ago": "8 小時前"
+      "ago": "17 小時前"
+    },
+    {
+      "title": "Strengthening Sovereignty, Economy, and Society",
+      "summary": "How should nations redefine geospatial and space sovereignty in an era of increasing dependence on global platforms, foreign satellite constellations, and inter…",
+      "url": "https://geospatialworld.net/prime/interviews/strengthening-sovereignty-economy-and-society/",
+      "source": "Geospatial World",
+      "tag": "產業",
+      "group": "gis",
+      "published": "2026-07-22T11:55:40.000Z",
+      "ago": "昨日"
     },
     {
       "title": "Simplifying ArcGIS Over The Years",
@@ -24,17 +34,7 @@
       "tag": "平台",
       "group": "gis",
       "published": "2026-07-21T19:30:36.000Z",
-      "ago": "昨日"
-    },
-    {
-      "title": "Strengthening Sovereignty, Economy, and Society",
-      "summary": "Sovereignty: National Autonomy, Strategic Resilience, and Governance Models How should nations redefine geospatial and space sovereignty in an era of increasing…",
-      "url": "https://geospatialworld.net/prime/interviews/strengthening-sovereignty-economy-and-society/",
-      "source": "Geospatial World",
-      "tag": "產業",
-      "group": "gis",
-      "published": "2026-07-22T11:55:40.000Z",
-      "ago": "17 小時前"
+      "ago": "2 天前"
     },
     {
       "title": "Mapping Urban Heat Islands in Ahemedabad",
@@ -44,7 +44,7 @@
       "tag": "產業",
       "group": "gis",
       "published": "2026-07-22T06:03:33.000Z",
-      "ago": "23 小時前"
+      "ago": "昨日"
     },
     {
       "title": "The Anthropic Economic Index connector",
@@ -54,7 +54,7 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-07-22T17:13:51.000Z",
-      "ago": "12 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "A research agenda for the Economic Futures Research Fund",
@@ -64,7 +64,7 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-07-22T17:13:46.000Z",
-      "ago": "12 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Claude for Investing Teams",
@@ -74,17 +74,7 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-07-22T22:53:07.000Z",
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Donating another $20 million to Public First Action",
-      "summary": "Donating another $20 million to Public First Action Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95VEVDYmVGVzJxeF9rOEVRY0dsMTA1LVpvTnotMTVFLUV0OFhWT2J4eDBJeVE5OFlqWURyUkR3elRvblBWV2F0bmh0M1VuSzNZMHo0aWNMT2Q3dWFYTkFjd2tUWUIwWW53UE40?oc=5",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-22T09:07:38.000Z",
-      "ago": "20 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Building AI infrastructure with the Effingham County community",
@@ -94,7 +84,7 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-07-22T13:00:00.000Z",
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
       "title": "How news organizations are using AI to advance their vital missions",
@@ -104,7 +94,17 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-07-22T13:00:00.000Z",
-      "ago": "16 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Advancing the next era of national science",
+      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate disco…",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-22T12:00:00.000Z",
+      "ago": "昨日"
     }
   ],
   "errors": []
