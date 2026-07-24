@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-23T23:25:56.267Z",
-  "updatedLocal": "2026/7/24 07:25:56",
+  "updated": "2026-07-24T05:53:04.153Z",
+  "updatedLocal": "2026/7/24 13:53:04",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,6 +18,17 @@
       "ago": "2 天前"
     },
     {
+      "title": "Alaska’s Coastline is Longer Than All the Other 49 States Combined",
+      "summary": "Alaska is a land of geographic extremes. It contains the nation’s highest mountain, more lakes than any other state, and more than 100,000 glaciers and ice fields.",
+      "url": "https://www.geographyrealm.com/alaskas-coastline-is-longer-than-all-the-other-49-states-combined/",
+      "source": "GIS Lounge",
+      "tag": "應用",
+      "group": "gis",
+      "published": "2026-07-23T23:21:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
       "title": "Strengthening Sovereignty, Economy, and Society",
       "summary": null,
       "url": "https://geospatialworld.net/prime/interviews/strengthening-sovereignty-economy-and-society/",
@@ -26,7 +37,7 @@
       "group": "gis",
       "published": "2026-07-22T11:55:40.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Mapping Urban Heat Islands in Ahemedabad",
@@ -40,39 +51,6 @@
       "ago": "2 天前"
     },
     {
-      "title": "My Esri - Login",
-      "summary": "Use this self-service portal as your single destination for managing your ArcGIS picks from the ArcGIS suite.",
-      "url": "https://www.esri.com/en-us/my-esri-login",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2022-01-28T06:20:59.000Z",
-      "why": null,
-      "ago": "1638 天前"
-    },
-    {
-      "title": "GIS Software for Mapping and Spatial Analytics | Esri",
-      "summary": "Get free access to recordings from the Esri UC Plenary Session featuring Esri president Jack Dangermond and special guests.",
-      "url": "https://www.esri.com/en-us/home",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2017-08-25T19:22:28.000Z",
-      "why": null,
-      "ago": "3254 天前"
-    },
-    {
-      "title": "Web GIS Mapping Software | Create Web Maps with ArcGIS Online",
-      "summary": "Explore Esri with the new AI-powered assistant, now in beta. Ask questions and get answers faster.",
-      "url": "https://www.esri.com/en-us/arcgis/products/arcgis-online/overview",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2018-06-23T12:14:02.000Z",
-      "why": null,
-      "ago": "2952 天前"
-    },
-    {
       "title": "Claude for Investing Teams",
       "summary": "Investing runs on documents: CIMs, data rooms, filings, models, memos, LP letters.",
       "url": "https://www.anthropic.com/webinars/claude-for-investing-teams",
@@ -81,7 +59,7 @@
       "group": "ai",
       "published": "2026-07-23T17:01:10.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Launching Health in ChatGPT",
@@ -92,7 +70,7 @@
       "group": "ai",
       "published": "2026-07-23T00:00:00.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     },
     {
       "title": "How AI helps scientists design the next generation of medicines",
@@ -103,7 +81,18 @@
       "group": "ai",
       "published": "2026-07-23T12:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
+      "summary": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress.",
+      "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
+      "group": "ai",
+      "published": "2026-07-24T04:34:27.000Z",
+      "why": null,
+      "ago": "1 小時前"
     },
     {
       "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
@@ -114,29 +103,18 @@
       "group": "ai",
       "published": "2026-07-23T13:00:16.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
-      "summary": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for the students, researchers and faculty at the U.S. military’s flagship graduate university.",
-      "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-07-23T02:00:46.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "ICYMI: Chairman Guthrie Joins Fox Business Network to talk AI Policy and the Ratepayer Protection Act - House Committee on Energy and Commerce (.gov)",
-      "summary": "WASHINGTON, D.C. - This week, Congressman Brett Guthrie (KY-02), Chairman of the House Committee on Energy and Commerce, joined Fox Business' \"The Bottom Line\" to discuss AI policy, data centers, and the Ratepayer Protection Act.",
-      "url": "https://energycommerce.house.gov/posts/icymi-chairman-guthrie-joins-fox-business-network-to-talk-ai-policy-and-the-ratepayer-protection-act",
-      "source": "AI 政策",
+      "title": "AI commission weighs laws to keep kids, teens safe",
+      "summary": "MONTGOMERY, Ala. ( WSFA ) - Alabama is considering what other states have done to protect children and teens from potential dangers of artificial intelligence.",
+      "url": "https://www.wsfa.com/2026/07/24/ai-commission-weighs-laws-keep-kids-teens-safe/",
+      "source": "WSFA",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-07-23T15:35:07.000Z",
+      "published": "2026-07-24T01:17:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "5 小時前"
     }
   ],
   "errors": []

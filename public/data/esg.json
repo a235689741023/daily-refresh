@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-07-23T23:25:56.267Z",
-  "updatedLocal": "2026/7/24 07:25:56",
+  "updated": "2026-07-24T05:53:04.153Z",
+  "updatedLocal": "2026/7/24 13:53:04",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-07-23T21:15:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Netflix’s CSO quits for new storytelling role",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-07-23T15:01:42.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Sustainability pays a credibility tax. Some of it is self-imposed",
@@ -37,18 +37,7 @@
       "group": null,
       "published": "2026-07-23T09:10:00.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "Tesla sets net-zero target for first time",
-      "summary": "Tesla has pledged to reach net zero by 2040, the first time the world’s most valuable automaker has made a time-bound, company-wide emissions commitment.",
-      "url": "https://trellis.net/article/tesla-first-net-zero-target/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-22T18:39:09.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "21 小時前"
     },
     {
       "title": "Reform-led Wakefield Council scraps 2030 net-zero target",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-07-23T17:39:59.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Report: Existing grid connections in Europe could unlock 25GW of new clean power",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-07-23T16:11:54.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Smart energy market risks deepening inequality without reform, report warns",
@@ -81,7 +70,7 @@
       "group": null,
       "published": "2026-07-23T15:29:23.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Octopus and Santander launch ‘first-of-its-kind’ mortgage for Zero Bills homes",
@@ -92,18 +81,7 @@
       "group": null,
       "published": "2026-07-23T15:09:23.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "How are EU regulations changing the risk calculus for Brazilian commodity buyers?",
-      "summary": "New EU laws are raising the legal stakes for companies sourcing cattle products from Brazil.",
-      "url": "https://www.edie.net/how-are-eu-regulations-changing-the-risk-calculus-for-brazilian-commodity-buyers/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-23T02:30:44.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "移除纏繞數十年鋼纜 林保署為170線林道巨木「解鎖」",
@@ -114,7 +92,29 @@
       "group": null,
       "published": "2026-07-23T08:56:53.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "海女文化、石頭屋迎轉機 馬岡聚落文資案爭訟七年獲勝訴",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243687",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-07-24T02:44:11.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "萬里瑞芳貢寮沿海擴大保育禁潛水魚槍、日本靜岡飆41°C今年最熱、美籌劃部署離岸核反應爐",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243688",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-07-24T03:04:39.000Z",
+      "why": null,
+      "ago": "3 小時前"
     }
   ],
   "errors": []

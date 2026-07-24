@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-07-23T23:25:56.267Z",
-  "updatedLocal": "2026/7/24 07:25:56",
+  "updated": "2026-07-24T05:53:04.153Z",
+  "updatedLocal": "2026/7/24 13:53:04",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "U.S., other nations back open-source AI with 'strong security' at China summit",
+      "summary": "CHENGDU, China — Governments increasingly want to control artificial intelligence, as companies release more powerful open-source models, a new multilateral statement indicates.",
+      "url": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-24T02:42:21.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
       "summary": "Investors are increasingly preparing for the Federal Reserve to hike interest rates as oil prices climb.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-07-23T20:25:28.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-07-23T17:10:06.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
@@ -37,18 +48,29 @@
       "group": null,
       "published": "2026-07-23T19:19:01.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
-      "summary": "John Paulson, the hedge fund manager who made billions betting against the U.S. housing market before turning bullish on gold, said he believes the precious metal is only in the early stages of a long-term rally.",
-      "url": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
-      "source": "CNBC Markets",
+      "title": "Trump's new global tariff draws rebukes from trade partners over forced-labor justification",
+      "summary": "U.S. trading partners from Canberra to Brasília have rejected the forced-labor rationale behind President Donald Trump's new global tariffs , while most signaled they would keep negotiating rather than retaliate.",
+      "url": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-07-24T05:47:21.000Z",
+      "why": null,
+      "ago": "6 分鐘前"
+    },
+    {
+      "title": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here’s what happens next.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-22T22:06:49.000Z",
+      "published": "2026-07-23T23:43:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
     },
     {
       "title": "The August stock-market slump is a myth — so why does Wall Street keep repeating it?",
@@ -59,18 +81,7 @@
       "group": null,
       "published": "2026-07-23T22:12:00.000Z",
       "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here’s what happens next.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-23T22:08:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-07-23T22:03:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-07-23T22:02:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "AMD’s rivalry with Nvidia is increasingly moving into a new realm",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-07-23T21:59:00.000Z",
       "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "The stock market’s calm is cracking. Here’s how to prepare for an August shock.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-stock-markets-calm-surface-is-cracking-heres-how-to-prepare-for-an-august-shock-7d655813?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-23T21:53:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     }
   ],
   "errors": []
