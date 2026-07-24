@@ -1,21 +1,21 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-24T14:41:10.119Z",
-  "updatedLocal": "2026/7/24 22:41:10",
+  "updated": "2026-07-24T23:30:22.137Z",
+  "updatedLocal": "2026/7/25 07:30:22",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Esri Community | GIS Professional Community",
-      "summary": null,
-      "url": "https://community.esri.com/",
-      "source": "Esri Community",
-      "tag": "平台",
+      "title": "Alaska’s Coastline is Longer Than All the Other 49 States Combined",
+      "summary": "Alaska is a land of geographic extremes. It contains the nation’s highest mountain, more lakes than any other state, and more than 100,000 glaciers and ice fields.",
+      "url": "https://www.geographyrealm.com/alaskas-coastline-is-longer-than-all-the-other-49-states-combined/",
+      "source": "GIS Lounge",
+      "tag": "應用",
       "group": "gis",
-      "published": "2026-07-24T07:14:22.000Z",
+      "published": "2026-07-23T23:21:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Simplifying ArcGIS Over The Years",
@@ -27,17 +27,6 @@
       "published": "2026-07-21T19:30:36.000Z",
       "why": null,
       "ago": "3 天前"
-    },
-    {
-      "title": "Alaska’s Coastline is Longer Than All the Other 49 States Combined",
-      "summary": "Alaska is a land of geographic extremes. It contains the nation’s highest mountain, more lakes than any other state, and more than 100,000 glaciers and ice fields.",
-      "url": "https://www.geographyrealm.com/alaskas-coastline-is-longer-than-all-the-other-49-states-combined/",
-      "source": "GIS Lounge",
-      "tag": "應用",
-      "group": "gis",
-      "published": "2026-07-23T23:21:00.000Z",
-      "why": null,
-      "ago": "15 小時前"
     },
     {
       "title": "Strengthening Sovereignty, Economy, and Society",
@@ -59,7 +48,40 @@
       "group": "gis",
       "published": "2026-07-22T06:03:33.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
+    },
+    {
+      "title": "Introducing Claude Opus 5",
+      "summary": "Claude Opus 5 is available today. It’s a thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price.",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-24T17:00:57.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Project Pilot: Can AI models fly drones?",
+      "summary": "Several of our research projects over the last year have looked at how frontier models interact with the physical world.",
+      "url": "https://www.anthropic.com/research/project-pilot",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-24T15:04:42.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Claude Opus 5 System Card - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/c5fbac3f0b1280a933ebd26d3cb8bb9f5bdeaf48/Claude%20Opus%205%20System%20Card.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-24T18:59:05.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "Claude for Investing Teams",
@@ -68,20 +90,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-07-23T17:01:10.000Z",
+      "published": "2026-07-24T15:00:00.000Z",
       "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "How AI helps scientists design the next generation of medicines",
-      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment.",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-07-23T12:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "9 小時前"
     },
     {
       "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
@@ -92,40 +103,18 @@
       "group": "ai",
       "published": "2026-07-24T04:34:27.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 小時前"
     },
     {
-      "title": "Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.",
-      "summary": "Head Government Affairs and Public Policy - EU Institutions at Google We’re signing the EU AI Act Code of Practice on Transparency of AI-Generated Content to help support the responsible use of AI in Europe.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/eu-ai-act-transparency-code-of-practice/",
-      "source": "blog.google",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-07-24T14:11:15.000Z",
-      "why": null,
-      "ago": "30 分鐘前"
-    },
-    {
-      "title": "AI Reached Local Governments Before Policy Did",
-      "summary": "Elise Silva, PhD is the Director of Policy Research at Pitt Cyber; Beth Schwanke, JD is the Executive Director of Pitt Cyber; and Joy Ruff, AICP is the Executive Director of Local Government Academy.",
-      "url": "https://www.techpolicy.press/ai-reached-local-governments-before-policy-did/",
-      "source": "Tech Policy Press",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-07-24T13:11:38.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Q1 AI Insights for Policy Makers: April 2026",
+      "title": "CDT Europe's Feedback on the Draft Guidelines for the Classification of High-Risk AI Systems under the AI Act - - Center for Democracy and Technology",
       "summary": null,
-      "url": "https://bipartisanpolicy.org/article/q1-ai-insights-for-policy-makers-april-2026/",
-      "source": "Bipartisan Policy Center",
+      "url": "https://cdt.org/insights/cdt-europes-feedback-on-the-draft-guidelines-for-the-classification-of-high-risk-ai-systems-under-the-ai-act/",
+      "source": "AI 政策",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-07-24T14:25:49.000Z",
+      "published": "2026-07-24T12:19:56.000Z",
       "why": null,
-      "ago": "15 分鐘前"
+      "ago": "11 小時前"
     }
   ],
   "errors": []

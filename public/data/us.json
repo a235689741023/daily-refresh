@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-07-24T14:41:10.119Z",
-  "updatedLocal": "2026/7/24 22:41:10",
+  "updated": "2026-07-24T23:30:22.137Z",
+  "updatedLocal": "2026/7/25 07:30:22",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+      "summary": "The race to build artificial intelligence infrastructure at a trillion-dollar annual clip is eroding the free cash flow and increasing balance-sheet risk at so-called hyperscalers, warned Moody's Ratings.",
+      "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-24T22:43:56.000Z",
+      "why": null,
+      "ago": "46 分鐘前"
+    },
     {
       "title": "U.S., other nations back open-source AI with 'strong security' at China summit",
       "summary": "CHENGDU, China — Governments increasingly want to control artificial intelligence, as companies release more powerful open-source models, a new multilateral statement indicates.",
@@ -15,29 +26,7 @@
       "group": null,
       "published": "2026-07-24T02:42:21.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
-      "summary": "Investors are increasingly preparing for the Federal Reserve to hike interest rates as oil prices climb.",
-      "url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-23T20:25:28.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
-      "summary": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to J.P.",
-      "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-23T17:10:06.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
@@ -48,7 +37,18 @@
       "group": null,
       "published": "2026-07-24T14:10:40.000Z",
       "why": null,
-      "ago": "31 分鐘前"
+      "ago": "9 小時前"
+    },
+    {
+      "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
+      "summary": "Investors are increasingly preparing for the Federal Reserve to hike interest rates as oil prices climb.",
+      "url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-23T20:25:28.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Trump's new global tariff draws rebukes from trade partners over forced labor justification",
@@ -59,62 +59,62 @@
       "group": null,
       "published": "2026-07-24T12:09:09.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
+      "title": "‘It’s nothing personal’: Should I tell my 96-year-old stepmother that I don’t want her inheritance?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/it-would-feel-like-a-burden-my-stepmother-96-owns-the-house-i-grew-up-in-is-it-wrong-to-tell-her-i-dont-want-to-inherit-it-9d5810c2?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-24T14:31:00.000Z",
+      "published": "2026-07-24T22:30:00.000Z",
       "why": null,
-      "ago": "10 分鐘前"
+      "ago": "1 小時前"
     },
     {
-      "title": "I lost my job, my emergency fund is running out and now I have to move back in with my parents. What did I do wrong?",
+      "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-lost-my-job-my-emergency-fund-is-running-out-and-now-i-have-to-move-back-in-with-my-parents-what-did-i-do-wrong-cf1c0f9f?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-24T14:25:00.000Z",
+      "published": "2026-07-24T22:00:00.000Z",
       "why": null,
-      "ago": "16 分鐘前"
+      "ago": "2 小時前"
     },
     {
-      "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?",
+      "title": "Would you take $65,000 today, or flip a coin for a chance to win $1.3 million?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/would-you-take-65-000-today-or-flip-a-coin-for-a-chance-to-win-1-3-million-d134961a?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-24T14:15:00.000Z",
+      "published": "2026-07-24T21:48:00.000Z",
       "why": null,
-      "ago": "26 分鐘前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Intel earnings show just how dramatically the company has come back from being ‘near-dead’",
+      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/intel-earnings-show-just-how-dramatically-the-company-has-come-back-from-being-near-dead-37f81c38?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-24T14:10:00.000Z",
+      "published": "2026-07-24T21:45:00.000Z",
       "why": null,
-      "ago": "31 分鐘前"
+      "ago": "2 小時前"
     },
     {
-      "title": "U.S. economy began to speed up — until Iran peace talks failed and oil prices surged again",
+      "title": "The stock market is completely unprepared for a 6% yield on the 30-year Treasury",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/u-s-economy-began-to-speed-up-until-iran-peace-talks-failed-and-oil-prices-surged-again-3fce66b2?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-24T14:03:00.000Z",
+      "published": "2026-07-24T21:38:00.000Z",
       "why": null,
-      "ago": "38 分鐘前"
+      "ago": "2 小時前"
     }
   ],
   "errors": []

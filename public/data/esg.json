@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-07-24T14:41:10.119Z",
-  "updatedLocal": "2026/7/24 22:41:10",
+  "updated": "2026-07-24T23:30:22.137Z",
+  "updatedLocal": "2026/7/25 07:30:22",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "CDP adds AI to speed emissions disclosures",
+      "summary": "Environmental disclosure organization CDP has added artificial intelligence to its online reporting system, as part of its effort to streamline the time it takes for companies to complete its annual questionnaire and encourage deeper participation.",
+      "url": "https://trellis.net/article/cdp-adds-ai-speed-reporting/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-24T15:35:47.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
     {
       "title": "Sustainability tools to use in 2026",
       "summary": "Welcome to the Trellis roundup of new products and services for sustainability professionals, as chosen by our editorial team.",
@@ -15,29 +26,51 @@
       "group": null,
       "published": "2026-07-23T21:15:00.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Netflix’s CSO quits for new storytelling role",
-      "summary": "Netflix Chief Sustainability Officer Emma Stewart is leaving the company to join the leadership team at Climate Spring, a social enterprise focused on changing how climate change is represented in film, TV and popular culture.",
-      "url": "https://trellis.net/article/netflix-cso-quits-climate-spring/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-23T15:01:42.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "Sustainability pays a credibility tax. Some of it is self-imposed",
-      "summary": "The opinions expressed here by Trellis expert contributors are their own, not those of Trellis or its editors .",
-      "url": "https://trellis.net/article/sustainability-credibility-tax-self-imposed/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-23T09:10:00.000Z",
-      "why": null,
       "ago": "昨日"
+    },
+    {
+      "title": "Why businesses make the perfect partner to NGOs",
+      "summary": "Collaboration between NGOs and businesses is no longer a ‘nice to have’; it is quickly becoming the best and most effective model for meaningful, scalable impact, argues Glovo's head of impact and sustainability, Zoe Giardino.",
+      "url": "https://www.edie.net/why-businesses-make-the-perfect-partner-to-ngos/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-24T16:13:24.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "45-minute Masterclass: Practical actions to drive circularity across the business value chain",
+      "summary": "Event Date: 24/09/2026 | 1:00 pm UK | 8:00 am US East Coast ET | 5:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST This webinar, in partnership with Kingspan, will explore how organisations can accelerate the transition to a more circular business model, moving from high-level circular economy commitments to practical, measurable action across the whole business system.",
+      "url": "https://www.edie.net/45-minute-masterclass-practical-actions-to-drive-circularity-across-the-business-value-chain/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-24T15:44:16.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Government unveils £7.3m funding boost for zero-emission aviation",
+      "summary": "The UK Government has announced that it is allocating over £7m in funding to support the development of electric and hydrogen-powered planes.",
+      "url": "https://www.edie.net/government-unveils-7-3m-funding-boost-for-zero-emission-aviation/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-24T15:30:21.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "IEA: Electricity emissions set to rise 1% in 2026 amid growing demand",
+      "summary": "Global electricity demand is likely to grow 3.6% year on year in 2026, with associated carbon dioxide (CO2) emissions projected to rise 1% over the same period according to new analysis.",
+      "url": "https://www.edie.net/iea-electricity-emissions-set-to-rise-1-in-2026-amid-growing-demand/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-24T15:02:22.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Europe’s EV sales rose 40.5% in first half of 2026",
@@ -48,7 +81,18 @@
       "group": null,
       "published": "2026-07-24T14:01:09.000Z",
       "why": null,
-      "ago": "40 分鐘前"
+      "ago": "9 小時前"
+    },
+    {
+      "title": "Bio-based materials in action: Developing lower-carbon, higher-performing buildings",
+      "summary": "Event Date: 10/09/2026 | 1:00 pm UK | 8:00 am US East Coast ET | 5:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST This webinar explores the use of biobased materials to achieve sustainability and carbon-reduction targets, exploring how businesses can utilise innovative materials to reduce whole-life carbon and improve thermal performance within their buildings.",
+      "url": "https://www.edie.net/bio-based-materials-in-action-developing-lower-carbon-higher-performing-buildings/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-24T11:11:28.000Z",
+      "why": null,
+      "ago": "12 小時前"
     },
     {
       "title": "From bill cuts to new bus fares: A summary of Burnham’s first week",
@@ -59,51 +103,7 @@
       "group": null,
       "published": "2026-07-24T10:48:11.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "Reform-led Wakefield Council scraps 2030 net-zero target",
-      "summary": "Wakefield Council has agreed to abandon its target of becoming a carbon-neutral authority by 2030 and reduce its climate change budget by £170,000.",
-      "url": "https://www.edie.net/reform-led-wakefield-council-scraps-2030-net-zero-target/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-23T17:39:59.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Report: Existing grid connections in Europe could unlock 25GW of new clean power",
-      "summary": "According to energy think tank Ember, 25 gigawatts (GW) of wind and solar could be added to existing EU hydropower sites without the need for new grid capacity.",
-      "url": "https://www.edie.net/report-existing-grid-connections-in-europe-could-unlock-25gw-of-new-clean-power/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-23T16:11:54.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Smart energy market risks deepening inequality without reform, report warns",
-      "summary": "New research has found that the UK's transition to a smart, flexible electricity system risks creating a deeper divide between households unless fairness is built into market design, consumer support and regulation.",
-      "url": "https://www.edie.net/smart-energy-market-risks-deepening-inequality-without-reform-report-warns/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-23T15:29:23.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Octopus and Santander launch ‘first-of-its-kind’ mortgage for Zero Bills homes",
-      "summary": "The new mortgage, designed specifically for Octopus Zero Bills homes, aims to make buying future-ready, lower-carbon houses more accessible.",
-      "url": "https://www.edie.net/octopus-and-santander-launch-first-of-its-kind-mortgage-for-zero-bills-homes/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-23T15:09:23.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Factcheck: No, Europe’s heatwaves are not being ‘caused’ by declining air pollution",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-07-24T14:15:24.000Z",
       "why": null,
-      "ago": "26 分鐘前"
+      "ago": "9 小時前"
     }
   ],
   "errors": []
