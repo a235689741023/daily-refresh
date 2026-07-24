@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-07-24T05:53:04.153Z",
-  "updatedLocal": "2026/7/24 13:53:04",
+  "updated": "2026-07-24T14:41:10.119Z",
+  "updatedLocal": "2026/7/24 22:41:10",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-07-23T21:15:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Netflix’s CSO quits for new storytelling role",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-07-23T15:01:42.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "Sustainability pays a credibility tax. Some of it is self-imposed",
@@ -37,7 +37,29 @@
       "group": null,
       "published": "2026-07-23T09:10:00.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Europe’s EV sales rose 40.5% in first half of 2026",
+      "summary": "According to new data from the European Automobile Manufacturers' Association (ACEA), the number of electric vehicles (EVs) sold across the European Union (EU) rose by over 40% in the first half of this year.",
+      "url": "https://www.edie.net/europes-ev-sales-rose-40-5-in-first-half-of-2026/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-24T14:01:09.000Z",
+      "why": null,
+      "ago": "40 分鐘前"
+    },
+    {
+      "title": "From bill cuts to new bus fares: A summary of Burnham’s first week",
+      "summary": "After stepping into his new role on Monday, Andy Burnham wasted no time as Prime Minister (PM) reshaping his Cabinet and unveiling some key initial policies.",
+      "url": "https://www.edie.net/from-bill-cuts-to-new-bus-fares-a-summary-of-burnhams-first-week/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-24T10:48:11.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "Reform-led Wakefield Council scraps 2030 net-zero target",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-07-23T17:39:59.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Report: Existing grid connections in Europe could unlock 25GW of new clean power",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-07-23T16:11:54.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Smart energy market risks deepening inequality without reform, report warns",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-07-23T15:29:23.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Octopus and Santander launch ‘first-of-its-kind’ mortgage for Zero Bills homes",
@@ -81,40 +103,18 @@
       "group": null,
       "published": "2026-07-23T15:09:23.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "24 小時前"
     },
     {
-      "title": "移除纏繞數十年鋼纜 林保署為170線林道巨木「解鎖」",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243683",
-      "source": "環境資訊中心",
-      "tag": "台灣",
+      "title": "Factcheck: No, Europe’s heatwaves are not being ‘caused’ by declining air pollution",
+      "summary": "This summer has seen Europe suffer through a series of record-breaking heatwaves.",
+      "url": "https://www.carbonbrief.org/factcheck-no-europes-heatwaves-are-not-being-caused-by-declining-air-pollution",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-07-23T08:56:53.000Z",
+      "published": "2026-07-24T14:15:24.000Z",
       "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "海女文化、石頭屋迎轉機 馬岡聚落文資案爭訟七年獲勝訴",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243687",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-07-24T02:44:11.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "萬里瑞芳貢寮沿海擴大保育禁潛水魚槍、日本靜岡飆41°C今年最熱、美籌劃部署離岸核反應爐",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243688",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-07-24T03:04:39.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "26 分鐘前"
     }
   ],
   "errors": []
