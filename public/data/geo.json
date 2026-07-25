@@ -1,22 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-25T14:24:47.033Z",
-  "updatedLocal": "2026/7/25 22:24:47",
+  "updated": "2026-07-25T23:27:02.130Z",
+  "updatedLocal": "2026/7/26 07:27:02",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "My Esri - Login",
-      "summary": "Use this self-service portal as your single destination for managing your ArcGIS picks from the ArcGIS suite.",
-      "url": "https://www.esri.com/en-us/my-esri-login",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2022-01-28T06:20:59.000Z",
-      "why": null,
-      "ago": "1639 天前"
-    },
     {
       "title": "GIS Software for Mapping and Spatial Analytics | Esri",
       "summary": "Get free access to recordings from the Esri UC Plenary Session featuring Esri president Jack Dangermond and special guests.",
@@ -40,6 +29,17 @@
       "ago": "2954 天前"
     },
     {
+      "title": "My Esri - Login",
+      "summary": "Use this self-service portal as your single destination for managing your ArcGIS picks from the ArcGIS suite.",
+      "url": "https://www.esri.com/en-us/my-esri-login",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2022-01-28T06:20:59.000Z",
+      "why": null,
+      "ago": "1640 天前"
+    },
+    {
       "title": "ArcGIS Online Pricing & Licensing Options",
       "summary": "Different levels of access ensure your team can use ArcGIS Online to collaborate efficiently. Consider who needs core GIS capabilities, including mapping, analyzing, and managing data.",
       "url": "https://www.esri.com/en-us/arcgis/products/arcgis-online/buy",
@@ -48,40 +48,29 @@
       "group": "gis",
       "published": "2020-03-12T07:10:56.000Z",
       "why": null,
-      "ago": "2326 天前"
+      "ago": "2327 天前"
     },
     {
-      "title": "ArcGIS Trial | Free 21-Day Trial",
-      "summary": "A business or government e-mail is required. You can purchase a subscription during your trial period or up to 30 days after it ends to access projects and continue your work.",
-      "url": "https://www.esri.com/en-us/arcgis/products/arcgis-online/trial",
+      "title": "What is GIS? | Geographic Information System Mapping Technology",
+      "summary": "The mapping and data analysis technology that’s powering business decisions, supporting government operations, and quietly changing the world.",
+      "url": "https://www.esri.com/en-us/what-is-gis/overview",
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2019-06-21T23:40:51.000Z",
+      "published": "2018-02-16T21:02:34.000Z",
       "why": null,
-      "ago": "2591 天前"
+      "ago": "3081 天前"
     },
     {
-      "title": "Contact Us",
-      "summary": "Esri staff is standing by to help you with sales inquiries, customer service, training information, technical support, consulting services, or just general questions.",
-      "url": "https://www.esri.com/en-us/contact",
-      "source": "Esri",
+      "title": "ArcGIS Pro",
+      "summary": "Review the software and hardware requirements. Access the software through your user type in an ArcGIS organization.",
+      "url": "https://doc.esri.com/en/arcgis-pro/latest/",
+      "source": "doc.esri.com",
       "tag": "平台",
       "group": "gis",
-      "published": "2018-06-23T12:14:47.000Z",
+      "published": "2026-05-14T07:40:56.000Z",
       "why": null,
-      "ago": "2954 天前"
-    },
-    {
-      "title": "Introducing Claude Opus 5",
-      "summary": "Claude Opus 5 is available today. It’s a thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price.",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-24T17:00:57.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "73 天前"
     },
     {
       "title": "Claude Opus 5 System Card - www-cdn.anthropic.com",
@@ -92,51 +81,62 @@
       "group": "ai",
       "published": "2026-07-24T18:59:05.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Project Pilot: Can AI models fly drones?",
-      "summary": "Several of our research projects over the last year have looked at how frontier models interact with the physical world.",
-      "url": "https://www.anthropic.com/research/project-pilot",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-24T15:04:42.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Claude for Investing Teams",
-      "summary": "Investing runs on documents: CIMs, data rooms, filings, models, memos, LP letters.",
-      "url": "https://www.anthropic.com/webinars/claude-for-investing-teams",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-24T15:00:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Caught in the Middle: When State AI Laws and Federal Consumer Protection Law Collide",
-      "summary": null,
-      "url": "https://www.jdsupra.com/legalnews/caught-in-the-middle-when-state-ai-laws-6729743/",
-      "source": "JD Supra",
+      "title": "House Panel Advances Title IX and AI Education Bills",
+      "summary": "The House Education and Workforce Committee advanced 10 bills during a markup on July 21, advancing legislation on education, labor policy and artificial intelligence that largely reflects the Trump administration's priorities.",
+      "url": "https://legis1.com/news/house-education-bills-title-ix-ai-panel-advances",
+      "source": "Legis1",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-07-25T01:16:18.000Z",
+      "published": "2026-07-25T16:55:50.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "7 小時前"
     },
     {
-      "title": "White House draws new AI line on China",
-      "summary": null,
-      "url": "https://www.axios.com/2026/07/24/white-house-ai-line-china",
-      "source": "Axios",
+      "title": "Did OpenAI's models just breach its own risk 'red line'? Outside safety experts think so",
+      "summary": "AI safety experts say the OpenAI models that carried out the autonomous hack of another company earlier this month may have crossed into a risk category so dangerous that OpenAI’s own internal risk control policies were supposed to require the company to temporarily pause development of those models.",
+      "url": "https://fortune.com/2026/07/25/ai-safety-experts-say-openais-rogue-models-may-mean-the-company-has-already-blown-past-its-own-internal-red-lines/",
+      "source": "Fortune",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-07-24T22:54:38.000Z",
+      "published": "2026-07-25T17:05:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Lawmakers propose AI Kill Switch Act",
+      "summary": null,
+      "url": "https://www.washingtontimes.com/news/2026/jul/25/lawmakers-propose-ai-kill-switch-act/",
+      "source": "Washington Times",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-07-25T16:35:14.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "The IRS may turn to AI to tackle deluge of public comments",
+      "summary": "The IRS has an AI dilemma, and the solution may be to fight fire with fire.",
+      "url": "https://www.cfobrew.com/stories/irs-turn-to-ai-to-tackle-deluge-of-public-comments",
+      "source": "CFO Brew",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-07-25T19:31:17.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+      "summary": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models.",
+      "url": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+      "source": "AI News",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-07-25T17:23:09.000Z",
+      "why": null,
+      "ago": "6 小時前"
     }
   ],
   "errors": []
