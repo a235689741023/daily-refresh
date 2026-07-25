@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-07-24T23:30:22.137Z",
-  "updatedLocal": "2026/7/25 07:30:22",
+  "updated": "2026-07-25T05:45:57.275Z",
+  "updatedLocal": "2026/7/25 13:45:57",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,7 @@
       "group": null,
       "published": "2026-07-24T22:43:56.000Z",
       "why": null,
-      "ago": "46 分鐘前"
-    },
-    {
-      "title": "U.S., other nations back open-source AI with 'strong security' at China summit",
-      "summary": "CHENGDU, China — Governments increasingly want to control artificial intelligence, as companies release more powerful open-source models, a new multilateral statement indicates.",
-      "url": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-24T02:42:21.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
@@ -37,16 +26,16 @@
       "group": null,
       "published": "2026-07-24T14:10:40.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
-      "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
-      "summary": "Investors are increasingly preparing for the Federal Reserve to hike interest rates as oil prices climb.",
-      "url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
+      "title": "U.S., other nations back open-source AI with 'strong security' at China summit",
+      "summary": "CHENGDU, China — Governments increasingly want to control artificial intelligence, as companies release more powerful open-source models, a new multilateral statement indicates.",
+      "url": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-23T20:25:28.000Z",
+      "published": "2026-07-24T02:42:21.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-07-24T12:09:09.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "‘It’s nothing personal’: Should I tell my 96-year-old stepmother that I don’t want her inheritance?",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-07-24T22:30:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
@@ -81,7 +70,7 @@
       "group": null,
       "published": "2026-07-24T22:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Would you take $65,000 today, or flip a coin for a chance to win $1.3 million?",
@@ -92,7 +81,7 @@
       "group": null,
       "published": "2026-07-24T21:48:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
@@ -103,7 +92,7 @@
       "group": null,
       "published": "2026-07-24T21:45:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "The stock market is completely unprepared for a 6% yield on the 30-year Treasury",
@@ -114,7 +103,18 @@
       "group": null,
       "published": "2026-07-24T21:38:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
+    },
+    {
+      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-24T21:30:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
     }
   ],
   "errors": []
