@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25T05:45:57.275Z",
-  "updatedLocal": "2026/7/25 13:45:57",
+  "updated": "2026-07-25T14:24:47.033Z",
+  "updatedLocal": "2026/7/25 22:24:47",
   "us": {
     "indices": [
       {
@@ -154,7 +154,19 @@
     }
   },
   "tw": {
-    "taiex": null,
+    "taiex": {
+      "key": "taiex",
+      "name": "加權指數",
+      "date": "2026-07-24",
+      "value": 43654.84,
+      "change": -1195.97,
+      "changePct": -2.67,
+      "spark": [
+        44825.78,
+        44850.81,
+        43654.84
+      ]
+    },
     "flows": {
       "date": "20260724",
       "foreign": -609.5,
@@ -163,7 +175,29 @@
       "total": -673.4,
       "unit": "億元"
     },
-    "watch": null,
+    "watch": [
+      {
+        "code": "2330",
+        "name": "台積電",
+        "value": 2350,
+        "change": -55,
+        "changePct": -2.2869022869022873
+      },
+      {
+        "code": "2454",
+        "name": "聯發科",
+        "value": 3750,
+        "change": -125,
+        "changePct": -3.225806451612903
+      },
+      {
+        "code": "2317",
+        "name": "鴻海",
+        "value": 252.5,
+        "change": -5,
+        "changePct": -1.9417475728155338
+      }
+    ],
     "otc": {
       "key": "otc",
       "name": "櫃買市場",

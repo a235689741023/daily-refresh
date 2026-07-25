@@ -1,22 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-25T05:45:57.275Z",
-  "updatedLocal": "2026/7/25 13:45:57",
+  "updated": "2026-07-25T14:24:47.033Z",
+  "updatedLocal": "2026/7/25 22:24:47",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Alaska’s Coastline is Longer Than All the Other 49 States Combined",
-      "summary": "Alaska is a land of geographic extremes. It contains the nation’s highest mountain, more lakes than any other state, and more than 100,000 glaciers and ice fields.",
-      "url": "https://www.geographyrealm.com/alaskas-coastline-is-longer-than-all-the-other-49-states-combined/",
-      "source": "GIS Lounge",
-      "tag": "應用",
-      "group": "gis",
-      "published": "2026-07-23T23:21:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
     {
       "title": "My Esri - Login",
       "summary": "Use this self-service portal as your single destination for managing your ArcGIS picks from the ArcGIS suite.",
@@ -37,7 +26,7 @@
       "group": "gis",
       "published": "2017-08-25T19:22:28.000Z",
       "why": null,
-      "ago": "3255 天前"
+      "ago": "3256 天前"
     },
     {
       "title": "Web GIS Mapping Software | Create Web Maps with ArcGIS Online",
@@ -70,7 +59,18 @@
       "group": "gis",
       "published": "2019-06-21T23:40:51.000Z",
       "why": null,
-      "ago": "2590 天前"
+      "ago": "2591 天前"
+    },
+    {
+      "title": "Contact Us",
+      "summary": "Esri staff is standing by to help you with sales inquiries, customer service, training information, technical support, consulting services, or just general questions.",
+      "url": "https://www.esri.com/en-us/contact",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2018-06-23T12:14:47.000Z",
+      "why": null,
+      "ago": "2954 天前"
     },
     {
       "title": "Introducing Claude Opus 5",
@@ -81,18 +81,7 @@
       "group": "ai",
       "published": "2026-07-24T17:00:57.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Project Pilot: Can AI models fly drones?",
-      "summary": "Several of our research projects over the last year have looked at how frontier models interact with the physical world.",
-      "url": "https://www.anthropic.com/research/project-pilot",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-24T15:04:42.000Z",
-      "why": null,
-      "ago": "15 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Claude Opus 5 System Card - www-cdn.anthropic.com",
@@ -103,7 +92,18 @@
       "group": "ai",
       "published": "2026-07-24T18:59:05.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
+    },
+    {
+      "title": "Project Pilot: Can AI models fly drones?",
+      "summary": "Several of our research projects over the last year have looked at how frontier models interact with the physical world.",
+      "url": "https://www.anthropic.com/research/project-pilot",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-24T15:04:42.000Z",
+      "why": null,
+      "ago": "23 小時前"
     },
     {
       "title": "Claude for Investing Teams",
@@ -114,27 +114,27 @@
       "group": "ai",
       "published": "2026-07-24T15:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "CDT Europe's Feedback on the Draft Guidelines for the Classification of High-Risk AI Systems under the AI Act - - Center for Democracy and Technology",
+      "title": "Caught in the Middle: When State AI Laws and Federal Consumer Protection Law Collide",
       "summary": null,
-      "url": "https://cdt.org/insights/cdt-europes-feedback-on-the-draft-guidelines-for-the-classification-of-high-risk-ai-systems-under-the-ai-act/",
-      "source": "AI 政策",
+      "url": "https://www.jdsupra.com/legalnews/caught-in-the-middle-when-state-ai-laws-6729743/",
+      "source": "JD Supra",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-07-24T12:19:56.000Z",
+      "published": "2026-07-25T01:16:18.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "13 小時前"
     },
     {
-      "title": "Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.",
-      "summary": "Head Government Affairs and Public Policy - EU Institutions at Google We’re signing the EU AI Act Code of Practice on Transparency of AI-Generated Content to help support the responsible use of AI in Europe.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/eu-ai-act-transparency-code-of-practice/",
-      "source": "blog.google",
+      "title": "White House draws new AI line on China",
+      "summary": null,
+      "url": "https://www.axios.com/2026/07/24/white-house-ai-line-china",
+      "source": "Axios",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-07-24T14:11:15.000Z",
+      "published": "2026-07-24T22:54:38.000Z",
       "why": null,
       "ago": "16 小時前"
     }

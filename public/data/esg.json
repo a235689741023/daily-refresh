@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-07-25T05:45:57.275Z",
-  "updatedLocal": "2026/7/25 13:45:57",
+  "updated": "2026-07-25T14:24:47.033Z",
+  "updatedLocal": "2026/7/25 22:24:47",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-07-24T15:35:47.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Why businesses make the perfect partner to NGOs",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-07-24T16:13:24.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "45-minute Masterclass: Practical actions to drive circularity across the business value chain",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-07-24T15:44:16.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Government unveils £7.3m funding boost for zero-emission aviation",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-07-24T15:30:21.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "IEA: Electricity emissions set to rise 1% in 2026 amid growing demand",
@@ -59,40 +59,7 @@
       "group": null,
       "published": "2026-07-24T15:02:22.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Europe’s EV sales rose 40.5% in first half of 2026",
-      "summary": "According to new data from the European Automobile Manufacturers' Association (ACEA), the number of electric vehicles (EVs) sold across the European Union (EU) rose by over 40% in the first half of this year.",
-      "url": "https://www.edie.net/europes-ev-sales-rose-40-5-in-first-half-of-2026/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-24T14:01:09.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Bio-based materials in action: Developing lower-carbon, higher-performing buildings",
-      "summary": "Event Date: 10/09/2026 | 1:00 pm UK | 8:00 am US East Coast ET | 5:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST This webinar explores the use of biobased materials to achieve sustainability and carbon-reduction targets, exploring how businesses can utilise innovative materials to reduce whole-life carbon and improve thermal performance within their buildings.",
-      "url": "https://www.edie.net/bio-based-materials-in-action-developing-lower-carbon-higher-performing-buildings/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-24T11:11:28.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "From bill cuts to new bus fares: A summary of Burnham’s first week",
-      "summary": "After stepping into his new role on Monday, Andy Burnham wasted no time as Prime Minister (PM) reshaping his Cabinet and unveiling some key initial policies.",
-      "url": "https://www.edie.net/from-bill-cuts-to-new-bus-fares-a-summary-of-burnhams-first-week/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-24T10:48:11.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Factcheck: No, Europe’s heatwaves are not being ‘caused’ by declining air pollution",
@@ -103,7 +70,18 @@
       "group": null,
       "published": "2026-07-24T14:15:24.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Europe’s EV sales rose 40.5% in first half of 2026",
+      "summary": "According to new data from the European Automobile Manufacturers' Association (ACEA), the number of electric vehicles (EVs) sold across the European Union (EU) rose by over 40% in the first half of this year.",
+      "url": "https://www.edie.net/europes-ev-sales-rose-40-5-in-first-half-of-2026/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-24T14:01:09.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Access to finance ‘strengthens climate resilience’ among sub-Saharan women",
@@ -114,7 +92,29 @@
       "group": null,
       "published": "2026-07-24T11:29:45.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Bio-based materials in action: Developing lower-carbon, higher-performing buildings",
+      "summary": "Event Date: 10/09/2026 | 1:00 pm UK | 8:00 am US East Coast ET | 5:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST This webinar explores the use of biobased materials to achieve sustainability and carbon-reduction targets, exploring how businesses can utilise innovative materials to reduce whole-life carbon and improve thermal performance within their buildings.",
+      "url": "https://www.edie.net/bio-based-materials-in-action-developing-lower-carbon-higher-performing-buildings/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-24T11:11:28.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "State of the climate: Rapidly developing El Niño raises chance of record-warm 2026",
+      "summary": "As 2026 passes its halfway point, the world is watching one of the most rapidly intensifying El Niño events in the modern record take shape in the tropical Pacific.",
+      "url": "https://www.carbonbrief.org/state-of-the-climate-rapidly-developing-el-nino-raises-chance-of-record-warm-2026",
+      "source": "Carbon Brief",
+      "tag": "氣候",
+      "group": null,
+      "published": "2026-07-24T10:59:37.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []
