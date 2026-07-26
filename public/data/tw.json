@@ -1,11 +1,44 @@
 {
   "domain": "tw",
   "title": "台股",
-  "updated": "2026-07-26T06:08:49.388Z",
-  "updatedLocal": "2026/7/26 14:08:49",
+  "updated": "2026-07-26T14:21:35.363Z",
+  "updatedLocal": "2026/7/26 22:21:35",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "外界質疑高鐵延伸宜蘭無法紓解雪隧壅塞 鐵道局澄清：應以區域發展、運輸韌性評估",
+      "summary": "行政院於上周 7 月 23 日拍板核定高鐵 ( 2633-TW ) 延伸宜蘭計畫，有環團質疑高鐵延伸宜蘭案經費可能擴增至 6,000 億元，且無法紓解雪隧壅塞、排擠台鐵及客運運量。對此，交通部鐵道局副局長陳慧君今 (26) 日澄清，強調高鐵延伸宜蘭從國家鐵道路網、東部聯外運輸、區域均衡發展及國土運輸韌性等面向審慎評估、規劃，非僅以解決單一交通壅塞為政策目的。",
+      "url": "https://news.cnyes.com/news/id/6545971",
+      "source": "鉅亨網 台股",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-26T11:32:53.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "〈熱門股〉磷化銦原料鬆綁帶動出貨需求 全新周漲18%站回300元大關",
+      "summary": "上游砷化鎵磊晶廠全新 ( 2455-TW ) 受惠 AI 強勁需求帶動股價大漲，加上中國開放磷化銦 (InP) 基板原料出口，上周在光通訊族群回神下，周漲 18.09%，不僅收回月線，股價更站上 333 元，單周成交量也擴增至 5.1 萬張。",
+      "url": "https://news.cnyes.com/news/id/6545885",
+      "source": "鉅亨網 台股",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-26T06:57:36.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "台灣主動式ETF定期定額戶數破30萬！小資族逆勢青睞 單月大增13%",
+      "summary": "台灣主動式 ETF 定期定額戶數與金額近期雙雙繳出亮眼成績單，其中定期定額戶數正式突破 30 萬大關，月增率達 16.38%，金額更來到 35.24 億元，單月成長率達 13.26%。",
+      "url": "https://news.cnyes.com/news/id/6545898",
+      "source": "鉅亨網 台股",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-26T06:44:45.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
     {
       "title": "關稅戰先贏一波！台灣機械與工具機稅率優於日韓 手工具水五金完勝中越",
       "summary": "美國貿易代表署依貿易法第 301 條正式實施關稅措施，經濟部表示，台灣適用較優惠的 10% 不疊加最惠國稅率 (MFN)，優於主要競爭對手國日本與韓國的 12.5%，更大幅領先中國、越南等國。這項關稅優勢不僅有利於工具機及機械等產業轉守為攻，持續拓展美國市場，更讓傳統產業在價格與毛利率上取得競爭籌碼，全力搶佔海外訂單與市場版圖。",
@@ -15,7 +48,7 @@
       "group": null,
       "published": "2026-07-26T02:17:45.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "紅海危機重挫民生防線！中油吞157億平穩物價 汽柴油各調漲0.7元與0.5元",
@@ -26,7 +59,7 @@
       "group": null,
       "published": "2026-07-26T02:15:44.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "AI需求夯 繼電器廠松川AI DC類產品營收大增8成 占比提高至17%",
@@ -37,7 +70,7 @@
       "group": null,
       "published": "2026-07-26T01:31:17.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "輝達RTX Spark AI PC未賣先轟動 助攻PC產業下半年旺季",
@@ -48,7 +81,7 @@
       "group": null,
       "published": "2026-07-26T01:29:11.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "台股拉回緯創獨扛 6檔含緯ETF近一周含息報酬衝破4%",
@@ -59,7 +92,7 @@
       "group": null,
       "published": "2026-07-26T01:13:55.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "鉅亨速報 - Factset 最新調查：穎崴(6515-TW)EPS預估下修至97.85元，預估目標價為12600元",
@@ -70,68 +103,19 @@
       "group": null,
       "published": "2026-07-26T00:11:22.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
-      "title": "台積電、美光壓力來了！韓美晶片同盟再加碼 三星SK海力士吞下9500億美元大餅",
-      "summary": "南韓總統李在明赴美出席舊金山 AI 峰會之際，三星電子與 SK 海力士雙雙宣布與美國科技巨頭簽署歷史性晶片合作，兩案合計高達 1375 兆 韓元 (約 9500 億美元)，將全球 AI 供應鏈戰略綁定推向新高峰。",
-      "url": "https://news.cnyes.com/news/id/6545720",
-      "source": "鉅亨網 台股",
-      "tag": "大盤",
+      "title": "金管會：銀行授信風險可控　持續關注房貸信貸成長",
+      "summary": "（中央社記者蘇思云台北26日電）台股熱絡，外界關注「四貸同堂」風險是否升溫，金管會統計顯示，房貸年增4.3%、車貸年增8.07%、小額信貸年成長12.12%。金管會表示，整體而言，銀行授信風險在可控範圍，將持續關注房貸、信貸成長與逾放情形。",
+      "url": "https://www.cna.com.tw/news/afe/202607260159.aspx",
+      "source": "中央社 財經",
+      "tag": "總經",
       "group": null,
-      "published": "2026-07-25T07:00:03.000Z",
+      "published": "2026-07-26T11:06:01.000Z",
       "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "完整獎號一次看！5、6月統一發票開獎千萬特別獎「38548029」",
-      "summary": "115 年 5、6 月期統一發票今 (25) 日開獎，特別獎號碼開出為「38548029」，八位數號碼全部相同者可獲得 1000 萬元獎金；200 萬元特獎號碼為「10138845」。本期中獎發票自 8 月 6 日開始兌領，期限至 11 月 5 日止。",
-      "url": "https://news.cnyes.com/news/id/6545713",
-      "source": "鉅亨網 台股",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-25T05:46:12.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "AI巨頭財報前瞻一表看！微軟、Meta、蘋果下周開獎 聚焦資本支出",
-      "summary": "隨著美股第二季財報季正式展開，市場焦點重新回歸大型科技股基本面。在特斯拉 ( TSLA-US )、Alphabet( GOOG-US ) 率先公布財報後，微軟 ( MSFT-US )、Meta( META-US )、蘋果 ( AAPL-US )、亞馬遜 ( AMZN-US ) 及輝達 ( NVDA-US ) 等 AI 指標企業將接力登場。",
-      "url": "https://news.cnyes.com/news/id/6545473",
-      "source": "鉅亨網 台股",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-25T04:08:33.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "〈熱門股〉永道-KY獲需求升溫及新產能挹注營收發威 周漲18.5%",
-      "summary": "RFID 電子標籤廠永道 - KY( 6863-TW ) 在完工的越南新廠效益挹注之下，同時受惠客戶拉貨增溫，營收正向走高，外資連 5 日買超，股價本周收在 117.5 元，創近 3 個月來新高，股價周漲 18.57%。",
-      "url": "https://news.cnyes.com/news/id/6545653",
-      "source": "鉅亨網 台股",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-25T04:00:30.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "3 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "台積電動向",
-      "url": "https://news.google.com/rss/search?q=%E5%8F%B0%E7%A9%8D%E9%9B%BB%20OR%202330%20%E6%B3%95%E4%BA%BA%20OR%20%E7%9B%AE%E6%A8%99%E5%83%B9&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "MoneyDJ",
-      "url": "https://news.google.com/rss/search?q=site%3Amoneydj.com%20%E5%8F%B0%E8%82%A1&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "外資籌碼",
-      "url": "https://news.google.com/rss/search?q=%E5%A4%96%E8%B3%87%20%E8%B2%B7%E8%B6%85%20OR%20%E8%B3%A3%E8%B6%85%20%E5%8F%B0%E8%82%A1%20%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    }
-  ]
+  "errors": []
 }

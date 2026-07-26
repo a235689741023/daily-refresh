@@ -1,164 +1,143 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-26T06:08:49.388Z",
-  "updatedLocal": "2026/7/26 14:08:49",
+  "updated": "2026-07-26T14:21:35.363Z",
+  "updatedLocal": "2026/7/26 22:21:35",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Alaska’s Coastline is Longer Than All the Other 49 States Combined",
-      "summary": "Alaska is a land of geographic extremes. It contains the nation’s highest mountain, more lakes than any other state, and more than 100,000 glaciers and ice fields.",
-      "url": "https://www.geographyrealm.com/alaskas-coastline-is-longer-than-all-the-other-49-states-combined/",
-      "source": "GIS Lounge",
-      "tag": "應用",
-      "group": "gis",
-      "published": "2026-07-23T23:21:00.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "A fresh look at Albania, Montenegro, North Macedonia and Serbia on Street View",
-      "summary": "Albania, Montenegro, North Macedonia and Serbia — lands of deep history, natural beauty and cultural richness — are now easier to explore with Google Street View.",
-      "url": "https://blog.google/products-and-platforms/products/maps/street-view-albania-montenegro-north-macedonia-serbia/",
-      "source": "Google Maps Blog",
+      "title": "My Esri - Login",
+      "summary": "Use this self-service portal as your single destination for managing your ArcGIS picks from the ArcGIS suite.",
+      "url": "https://www.esri.com/en-us/my-esri-login",
+      "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-07-08T08:00:00.000Z",
+      "published": "2022-01-28T06:20:59.000Z",
       "why": null,
-      "ago": "18 天前"
+      "ago": "1640 天前"
     },
     {
-      "title": "Maps has an authentic new voice in New Zealand",
-      "summary": "The new voice, which speaks English with a Kiwi accent while accurately pronouncing indigenous place names, makes navigation feel genuinely local for New Zealanders.",
-      "url": "https://blog.google/products-and-platforms/products/maps/te-reo-maori/",
-      "source": "Google Maps Blog",
+      "title": "GIS Software for Mapping and Spatial Analytics | Esri",
+      "summary": "Get free access to recordings from the Esri UC Plenary Session featuring Esri president Jack Dangermond and special guests.",
+      "url": "https://www.esri.com/en-us/home",
+      "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-07-01T17:00:00.000Z",
+      "published": "2017-08-25T19:22:28.000Z",
       "why": null,
-      "ago": "25 天前"
+      "ago": "3257 天前"
     },
     {
-      "title": "Street View opens a new window into Georgia",
-      "summary": "Explore some of Georgia’s unique cultural and geographic landmarks on Google Maps. You can now explore Georgia’s diverse landscapes and historic landmarks through Google Street View.",
-      "url": "https://blog.google/products-and-platforms/products/maps/georgia-street-view/",
-      "source": "Google Maps Blog",
+      "title": "ArcGIS Online Pricing & Licensing Options",
+      "summary": "Different levels of access ensure your team can use ArcGIS Online to collaborate efficiently. Consider who needs core GIS capabilities, including mapping, analyzing, and managing data.",
+      "url": "https://www.esri.com/en-us/arcgis/products/arcgis-online/buy",
+      "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-06-22T06:00:00.000Z",
+      "published": "2020-03-12T07:10:56.000Z",
       "why": null,
-      "ago": "34 天前"
+      "ago": "2327 天前"
     },
     {
-      "title": "4 ways soccer fans can catch every moment of the tournament",
-      "summary": "Google tools like AI Mode in Search, Maps, Waze and the Gemini app can help guide you from the first whistle to the final goal.",
-      "url": "https://blog.google/products-and-platforms/products/search/soccer-tournament-google-tools-2026/",
-      "source": "Google Maps Blog",
+      "title": "Web GIS Mapping Software | Create Web Maps with ArcGIS Online",
+      "summary": "Explore Esri with the new AI-powered assistant, now in beta. Ask questions and get answers faster.",
+      "url": "https://www.esri.com/en-us/arcgis/products/arcgis-online/overview",
+      "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-06-08T13:00:00.000Z",
+      "published": "2018-06-23T12:14:02.000Z",
       "why": null,
-      "ago": "48 天前"
+      "ago": "2955 天前"
     },
     {
-      "title": "Travel the world like Dua Lipa with Google Maps",
-      "summary": "12 shared lists are packed with Dua’s favorite spots for food, shopping, culture and more.",
-      "url": "https://blog.google/products-and-platforms/products/maps/dua-lipa/",
-      "source": "Google Maps Blog",
+      "title": "What is GIS? | Geographic Information System Mapping Technology",
+      "summary": "The mapping and data analysis technology that’s powering business decisions, supporting government operations, and quietly changing the world.",
+      "url": "https://www.esri.com/en-us/what-is-gis/overview",
+      "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-05-28T14:00:00.000Z",
+      "published": "2018-02-16T21:02:34.000Z",
       "why": null,
-      "ago": "59 天前"
+      "ago": "3082 天前"
     },
     {
-      "title": "Launching Health in ChatGPT",
-      "summary": "Rolling out to U.S. users, you can securely connect your health information to help you better understand and navigate your health.",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-23T00:00:00.000Z",
+      "title": "ArcGIS Pro",
+      "summary": "Review the software and hardware requirements. Access the software through your user type in an ArcGIS organization.",
+      "url": "https://doc.esri.com/en/arcgis-pro/latest/",
+      "source": "doc.esri.com",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-05-14T07:40:56.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "73 天前"
     },
     {
-      "title": "How AI helps scientists design the next generation of medicines",
-      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment.",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
+      "title": "House Panel Advances Title IX and AI Education Bills",
+      "summary": "The House Education and Workforce Committee advanced 10 bills during a markup on July 21, advancing legislation on education, labor policy and artificial intelligence that largely reflects the Trump administration's priorities.",
+      "url": "https://legis1.com/news/house-education-bills-title-ix-ai-panel-advances",
+      "source": "Legis1",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-07-23T12:00:00.000Z",
+      "published": "2026-07-25T16:55:50.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "21 小時前"
     },
     {
-      "title": "Building AI infrastructure with the Effingham County community",
-      "summary": "Project Camellia is a long-term datacenter project that OpenAI is designing and developing in Effingham County, Georgia.",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "ROCORI Area Schools Drafting AI Policy Ahead Of The New School Year",
+      "summary": "COLD SPRING ( WJON News ) -- Artificial Intelligence (AI) is getting used more and more in everyday life.",
+      "url": "https://wjon.com/rocori-schools-ai-policy/",
+      "source": "WJON",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-07-22T13:00:00.000Z",
+      "published": "2026-07-26T13:11:17.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "1 小時前"
     },
     {
-      "title": "How news organizations are using AI to advance their vital missions",
-      "summary": "Over the past year, we’ve continued working with news organizations to explore how AI can be most useful—helping with time-consuming tasks, enabling new reader experiences, and supporting stronger, more sustainable businesses.",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "Unionized workers are bargaining with the bots",
+      "summary": null,
+      "url": "https://www.axios.com/2026/07/26/union-contracts-ai-workplace-disruption",
+      "source": "Axios",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-07-22T13:00:00.000Z",
+      "published": "2026-07-26T12:24:50.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Advancing the next era of national science",
-      "summary": "American leadership has always been driven by scientific leadership.",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "The AI industry has already spent $65 million ahead of the midterm elections with no signs of slowing down.",
+      "summary": "Some of the biggest names in AI and tech are using the midterm elections to fight a proxy war over the future of their industry.",
+      "url": "https://www.businessinsider.com/ai-midterm-elections-spending-super-pacs-greg-brockman-anthropic-2026-7",
+      "source": "Business Insider",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-07-22T12:00:00.000Z",
+      "published": "2026-07-26T09:28:25.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 小時前"
     },
     {
-      "title": "Introducing OpenAI Presence",
-      "summary": "A proven enterprise product for putting AI agents to work across customer and internal workflows.",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "China’s New AI Alliance: Why WAICO Could Reshape Global AI Governance",
+      "summary": "Discover how China's new WAICO initiative aims to reshape global AI governance, empower the Global South, and challenge Western leadership in AI policy.",
+      "url": "https://moderndiplomacy.eu/2026/07/26/chinas-new-ai-alliance-why-waico-could-reshape-global-ai-governance/",
+      "source": "Modern Diplomacy",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-07-22T05:30:00.000Z",
+      "published": "2026-07-26T07:33:40.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Did OpenAI's models just breach its own risk 'red line'? Outside safety experts think so",
+      "summary": "AI safety experts say the OpenAI models that carried out the autonomous hack of another company earlier this month may have crossed into a risk category so dangerous that OpenAI’s own internal risk control policies were supposed to require the company to temporarily pause development of those models.",
+      "url": "https://fortune.com/2026/07/25/ai-safety-experts-say-openais-rogue-models-may-mean-the-company-has-already-blown-past-its-own-internal-red-lines/",
+      "source": "Fortune",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-07-25T17:05:00.000Z",
+      "why": null,
+      "ago": "21 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "ArcGIS Blog",
-      "url": "https://news.google.com/rss/search?q=site%3Aesri.com%20arcgis&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "GIS × AI 研究",
-      "url": "https://news.google.com/rss/search?q=geospatial%20AI%20OR%20%22spatial%20AI%22%20OR%20%22remote%20sensing%22%20foundation%20model&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "Anthropic",
-      "url": "https://news.google.com/rss/search?q=site%3Aanthropic.com&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "AI 政策",
-      "url": "https://news.google.com/rss/search?q=AI%20regulation%20OR%20%22AI%20Act%22%20OR%20AI%20policy&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    }
-  ]
+  "errors": []
 }
