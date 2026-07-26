@@ -1,22 +1,11 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-07-25T23:27:02.130Z",
-  "updatedLocal": "2026/7/26 07:27:02",
+  "updated": "2026-07-26T06:08:49.388Z",
+  "updatedLocal": "2026/7/26 14:08:49",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-      "summary": "The race to build artificial intelligence infrastructure at a trillion-dollar annual clip is eroding the free cash flow and increasing balance-sheet risk at so-called hyperscalers, warned Moody's Ratings.",
-      "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-24T22:43:56.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
     {
       "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
       "summary": null,
@@ -26,7 +15,7 @@
       "group": null,
       "published": "2026-07-25T22:30:00.000Z",
       "why": null,
-      "ago": "57 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
@@ -37,7 +26,7 @@
       "group": null,
       "published": "2026-07-25T21:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
@@ -48,7 +37,7 @@
       "group": null,
       "published": "2026-07-25T20:15:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-07-25T18:59:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-07-25T18:54:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Is your index fund an accidental bet on AI? These two massive ETFs show why it might be.",
@@ -81,7 +70,7 @@
       "group": null,
       "published": "2026-07-25T18:45:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Oil prices may fall, but gasoline prices won’t. Look at the trap we’re in.",
@@ -92,7 +81,7 @@
       "group": null,
       "published": "2026-07-25T18:34:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
@@ -103,7 +92,7 @@
       "group": null,
       "published": "2026-07-25T18:31:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Here’s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S.",
@@ -114,8 +103,35 @@
       "group": null,
       "published": "2026-07-25T18:15:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-25T18:00:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "財報",
+      "url": "https://news.google.com/rss/search?q=earnings%20beat%20OR%20earnings%20miss%20guidance%20S%26P%20500&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/search?q=site%3Abloomberg.com%20markets%20OR%20earnings&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "Reuters 財經",
+      "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20stock%20market%20OR%20Federal%20Reserve&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    }
+  ]
 }
