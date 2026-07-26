@@ -1,11 +1,33 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-07-26T14:21:35.363Z",
-  "updatedLocal": "2026/7/26 22:21:35",
+  "updated": "2026-07-26T23:26:06.715Z",
+  "updatedLocal": "2026/7/27 07:26:06",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "ClassNK2026台灣技術研討會 全球淨零減碳一大焦點",
+      "summary": "▲ 日本海事協會 （ClassNK）高雄事務所所長劉怡（左起）、台北事務所所長陳建良、台灣總經理鷹見賢司、經理許財福、助理經理李永業。（記者陳維強攝） 日本海事協會（ClassNK）為提供航運界有關航運、造船，特別是檢驗與船舶管理方面的專門知識，「二○二六台灣技術研討會」繼二十三日在高雄漢來大飯店舉辦後，二十四日於台北晶華酒店登場。",
+      "url": "https://tw.news.yahoo.com/classnk2026%E5%8F%B0%E7%81%A3%E6%8A%80%E8%A1%93%E7%A0%94%E8%A8%8E%E6%9C%83-%E5%85%A8%E7%90%83%E6%B7%A8%E9%9B%B6%E6%B8%9B%E7%A2%B3-%E5%A4%A7%E7%84%A6%E9%BB%9E-104152266.html",
+      "source": "Yahoo新聞",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-07-26T10:41:52.000Z",
+      "why": null,
+      "ago": "13 小時前"
+    },
+    {
+      "title": "綠領人才回訓 彭啓明期許成為台灣重要力量",
+      "summary": "（中央社記者張雄風台北26日電）環境部去年推出淨零綠領人才課程，昨天首度邀逾3000名學員回訓，其中高達85%為在職者，顯示企業內部強烈工作需求。環境部長彭啓明期許綠領人才成為台灣往前的重要力量。環境部25日首度舉辦「綠領人才大會」，邀請超過3000名曾參加「環境部淨零綠領人才培育課程」的學員回訓。",
+      "url": "https://www.sjtv.com.tw/articles/91794",
+      "source": "信吉衛視+",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-07-25T16:00:00.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
     {
       "title": "CDP adds AI to speed emissions disclosures",
       "summary": "Environmental disclosure organization CDP has added artificial intelligence to its online reporting system, as part of its effort to streamline the time it takes for companies to complete its annual questionnaire and encourage deeper participation.",
@@ -16,17 +38,6 @@
       "published": "2026-07-24T15:35:47.000Z",
       "why": null,
       "ago": "2 天前"
-    },
-    {
-      "title": "ClassNK2026台灣技術研討會 全球淨零減碳一大焦點",
-      "summary": "▲ 日本海事協會 （ClassNK）高雄事務所所長劉怡（左起）、台北事務所所長陳建良、台灣總經理鷹見賢司、經理許財福、助理經理李永業。（記者陳維強攝） 日本海事協會（ClassNK）為提供航運界有關航運、造船，特別是檢驗與船舶管理方面的專門知識，「二○二六台灣技術研討會」繼二十三日在高雄漢來大飯店舉辦後，二十四日於台北晶華酒店登場。",
-      "url": "https://tw.news.yahoo.com/classnk2026%E5%8F%B0%E7%81%A3%E6%8A%80%E8%A1%93%E7%A0%94%E8%A8%8E%E6%9C%83-%E5%85%A8%E7%90%83%E6%B7%A8%E9%9B%B6%E6%B8%9B%E7%A2%B3-%E5%A4%A7%E7%84%A6%E9%BB%9E-104152266.html",
-      "source": "Yahoo新聞",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-07-26T10:41:52.000Z",
-      "why": null,
-      "ago": "4 小時前"
     },
     {
       "title": "ISSB takes on new research projects",
@@ -84,35 +95,24 @@
       "ago": "2 天前"
     },
     {
-      "title": "Beginner’s Guide to ESG",
-      "summary": "If you’ve seen the letters “ESG” pop up in a headline, a fund prospectus, or your company’s annual report and wondered what it actually means — you’re in the right place.",
-      "url": "https://esgnews.com/beginners-guide-to-esg/?utm_source=rss&utm_medium=rss&utm_campaign=beginners-guide-to-esg",
-      "source": "ESG News",
-      "tag": "國際",
+      "title": "Factcheck: No, Europe’s heatwaves are not being ‘caused’ by declining air pollution",
+      "summary": "This summer has seen Europe suffer through a series of record-breaking heatwaves.",
+      "url": "https://www.carbonbrief.org/factcheck-no-europes-heatwaves-are-not-being-caused-by-declining-air-pollution",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-07-24T20:11:59.000Z",
+      "published": "2026-07-24T14:15:24.000Z",
       "why": null,
       "ago": "2 天前"
     },
     {
-      "title": "EU Plans Emissions Charges for Waste Incinerators",
-      "summary": "The European Union plans to make waste incineration plants pay for their carbon dioxide emissions, extending the bloc’s flagship carbon market to a politically sensitive public service.",
-      "url": "https://esgnews.com/eu-plans-carbon-costs-for-waste-incinerators/?utm_source=rss&utm_medium=rss&utm_campaign=eu-plans-carbon-costs-for-waste-incinerators",
-      "source": "ESG News",
+      "title": "Europe’s EV sales rose 40.5% in first half of 2026",
+      "summary": "According to new data from the European Automobile Manufacturers' Association (ACEA), the number of electric vehicles (EVs) sold across the European Union (EU) rose by over 40% in the first half of this year.",
+      "url": "https://www.edie.net/europes-ev-sales-rose-40-5-in-first-half-of-2026/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-07-24T14:36:32.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Garanti BBVA Launches CBAM Carbon Cost Hedge",
-      "summary": "Garanti BBVA has launched a treasury solution that allows companies exporting to the European Union to manage carbon price risk linked to the Carbon Border Adjustment Mechanism.",
-      "url": "https://esgnews.com/garanti-bbva-launches-cbam-carbon-cost-hedge/?utm_source=rss&utm_medium=rss&utm_campaign=garanti-bbva-launches-cbam-carbon-cost-hedge",
-      "source": "ESG News",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-24T14:25:43.000Z",
+      "published": "2026-07-24T14:01:09.000Z",
       "why": null,
       "ago": "2 天前"
     }

@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-26T14:21:35.363Z",
-  "updatedLocal": "2026/7/26 22:21:35",
+  "updated": "2026-07-26T23:26:06.715Z",
+  "updatedLocal": "2026/7/27 07:26:06",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2022-01-28T06:20:59.000Z",
       "why": null,
-      "ago": "1640 天前"
+      "ago": "1641 天前"
     },
     {
       "title": "GIS Software for Mapping and Spatial Analytics | Esri",
@@ -29,17 +29,6 @@
       "ago": "3257 天前"
     },
     {
-      "title": "ArcGIS Online Pricing & Licensing Options",
-      "summary": "Different levels of access ensure your team can use ArcGIS Online to collaborate efficiently. Consider who needs core GIS capabilities, including mapping, analyzing, and managing data.",
-      "url": "https://www.esri.com/en-us/arcgis/products/arcgis-online/buy",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2020-03-12T07:10:56.000Z",
-      "why": null,
-      "ago": "2327 天前"
-    },
-    {
       "title": "Web GIS Mapping Software | Create Web Maps with ArcGIS Online",
       "summary": "Explore Esri with the new AI-powered assistant, now in beta. Ask questions and get answers faster.",
       "url": "https://www.esri.com/en-us/arcgis/products/arcgis-online/overview",
@@ -51,15 +40,15 @@
       "ago": "2955 天前"
     },
     {
-      "title": "What is GIS? | Geographic Information System Mapping Technology",
-      "summary": "The mapping and data analysis technology that’s powering business decisions, supporting government operations, and quietly changing the world.",
-      "url": "https://www.esri.com/en-us/what-is-gis/overview",
+      "title": "ArcGIS Online Pricing & Licensing Options",
+      "summary": "Different levels of access ensure your team can use ArcGIS Online to collaborate efficiently. Consider who needs core GIS capabilities, including mapping, analyzing, and managing data.",
+      "url": "https://www.esri.com/en-us/arcgis/products/arcgis-online/buy",
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2018-02-16T21:02:34.000Z",
+      "published": "2020-03-12T07:10:56.000Z",
       "why": null,
-      "ago": "3082 天前"
+      "ago": "2328 天前"
     },
     {
       "title": "ArcGIS Pro",
@@ -70,29 +59,73 @@
       "group": "gis",
       "published": "2026-05-14T07:40:56.000Z",
       "why": null,
-      "ago": "73 天前"
+      "ago": "74 天前"
     },
     {
-      "title": "House Panel Advances Title IX and AI Education Bills",
-      "summary": "The House Education and Workforce Committee advanced 10 bills during a markup on July 21, advancing legislation on education, labor policy and artificial intelligence that largely reflects the Trump administration's priorities.",
-      "url": "https://legis1.com/news/house-education-bills-title-ix-ai-panel-advances",
-      "source": "Legis1",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-07-25T16:55:50.000Z",
+      "title": "Online Form Builder for Smart Forms & Surveys | ArcGIS Survey123",
+      "summary": "Design smart forms and surveys with ArcGIS Survey123—a dynamic form builder. Accelerate data collection and enhance the quality of results.",
+      "url": "https://www.esri.com/en-us/arcgis/products/arcgis-survey123/overview",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2020-07-01T21:58:04.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "2216 天前"
     },
     {
-      "title": "ROCORI Area Schools Drafting AI Policy Ahead Of The New School Year",
-      "summary": "COLD SPRING ( WJON News ) -- Artificial Intelligence (AI) is getting used more and more in everyday life.",
-      "url": "https://wjon.com/rocori-schools-ai-policy/",
-      "source": "WJON",
+      "title": "Microsoft just took sides in AI policy fight",
+      "summary": null,
+      "url": "https://sg.finance.yahoo.com/news/microsoft-just-took-sides-ai-213600979.html",
+      "source": "Yahoo Finance Singapore",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-07-26T13:11:17.000Z",
+      "published": "2026-07-26T21:36:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "RS Council approves AI policy for housing authority",
+      "summary": "The Rock Springs City Council accepted Resolution 2026-95, which sets an AI usage policy for the Rock Springs Housing Authority, during its July 21 meeting.",
+      "url": "https://www.wyomingnews.com/rocketminer/rs-council-approves-ai-policy-for-housing-authority/article_ca8db74c-676d-486f-893d-d36daecf0c0f.html",
+      "source": "WyomingNews.com",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-07-26T21:30:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "How AI wealth could be distributed to all Americans",
+      "summary": "Bernie Sanders' recent proposal that the public should own half of artificial intelligence is unlikely to become policy anytime soon, but it reflects a broader debate that is gaining momentum among economists, technology researchers, and policymakers: How can Americans benefit if AI creates trillions of dollars in new economic value?",
+      "url": "https://www.cnbc.com/2026/07/26/how-can-ai-wealth-be-shared-with-all-americans.html",
+      "source": "CNBC",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-07-26T14:06:53.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "In \"Questioner,\" rogue AI imposes its own rules on the legal system that employs it",
+      "summary": "Editor’s note: In Steve C. Posner’s thriller, Q is the AI that runs America’s courts, its defense contractors, and its most immersive gaming systems.",
+      "url": "https://coloradosun.com/2026/07/26/sunlit-questioner-steve-posner/",
+      "source": "The Colorado Sun",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-07-26T08:15:00.000Z",
+      "why": null,
+      "ago": "15 小時前"
+    },
+    {
+      "title": "Illinois delays rules to limit AI use in employment decisions",
+      "summary": null,
+      "url": "https://www.ourquadcities.com/news/4-the-record/illinois-delays-rules-to-limit-ai-use-in-employment-decisions/",
+      "source": "OurQuadCities",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-07-26T15:16:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Unionized workers are bargaining with the bots",
@@ -103,40 +136,7 @@
       "group": "ai",
       "published": "2026-07-26T12:24:50.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "The AI industry has already spent $65 million ahead of the midterm elections with no signs of slowing down.",
-      "summary": "Some of the biggest names in AI and tech are using the midterm elections to fight a proxy war over the future of their industry.",
-      "url": "https://www.businessinsider.com/ai-midterm-elections-spending-super-pacs-greg-brockman-anthropic-2026-7",
-      "source": "Business Insider",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-07-26T09:28:25.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "China’s New AI Alliance: Why WAICO Could Reshape Global AI Governance",
-      "summary": "Discover how China's new WAICO initiative aims to reshape global AI governance, empower the Global South, and challenge Western leadership in AI policy.",
-      "url": "https://moderndiplomacy.eu/2026/07/26/chinas-new-ai-alliance-why-waico-could-reshape-global-ai-governance/",
-      "source": "Modern Diplomacy",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-07-26T07:33:40.000Z",
-      "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Did OpenAI's models just breach its own risk 'red line'? Outside safety experts think so",
-      "summary": "AI safety experts say the OpenAI models that carried out the autonomous hack of another company earlier this month may have crossed into a risk category so dangerous that OpenAI’s own internal risk control policies were supposed to require the company to temporarily pause development of those models.",
-      "url": "https://fortune.com/2026/07/25/ai-safety-experts-say-openais-rogue-models-may-mean-the-company-has-already-blown-past-its-own-internal-red-lines/",
-      "source": "Fortune",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-07-25T17:05:00.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "11 小時前"
     }
   ],
   "errors": []
