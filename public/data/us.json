@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-07-27T06:33:33.698Z",
-  "updatedLocal": "2026/7/27 14:33:33",
+  "updated": "2026-07-27T07:23:17.048Z",
+  "updatedLocal": "2026/7/27 15:23:17",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-07-27T03:36:08.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "4 小時前"
     },
     {
       "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-07-26T19:30:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-07-26T19:15:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-07-26T18:30:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
@@ -117,21 +117,5 @@
       "ago": "18 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "財報",
-      "url": "https://news.google.com/rss/search?q=earnings%20beat%20OR%20earnings%20miss%20guidance%20S%26P%20500&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "Bloomberg",
-      "url": "https://news.google.com/rss/search?q=site%3Abloomberg.com%20markets%20OR%20earnings&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "Reuters 財經",
-      "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20stock%20market%20OR%20Federal%20Reserve&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    }
-  ]
+  "errors": []
 }

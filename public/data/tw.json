@@ -1,8 +1,8 @@
 {
   "domain": "tw",
   "title": "台股",
-  "updated": "2026-07-27T06:33:33.698Z",
-  "updatedLocal": "2026/7/27 14:33:33",
+  "updated": "2026-07-27T07:23:17.048Z",
+  "updatedLocal": "2026/7/27 15:23:17",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-07-27T06:21:40.000Z",
       "why": null,
-      "ago": "12 分鐘前"
+      "ago": "1 小時前"
     },
     {
       "title": "台灣虎航看好航空市場強勁成長 再釋出空服職缺",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-07-27T05:53:25.000Z",
       "why": null,
-      "ago": "40 分鐘前"
+      "ago": "1 小時前"
     },
     {
       "title": "擁擠交易退燒！避險新寵貝萊德009826下周掛牌 用新台幣輕鬆布局40國",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-07-27T05:41:42.000Z",
       "why": null,
-      "ago": "52 分鐘前"
+      "ago": "2 小時前"
     },
     {
       "title": "無懼台股震盪！主動式ETF買氣續熱 00403A單周狂增2.5萬人奪人氣王",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-07-27T04:43:08.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "3 小時前"
     },
     {
       "title": "〈焦點股〉輝達進軍暗光纖 光通訊加把勁持續反彈逆勢堅挺",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-07-27T04:18:14.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "3 小時前"
     },
     {
       "title": "〈焦點股〉泰宗新藥期中分析與市場期望不同 再吞第二根跌停",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-07-27T04:07:45.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "3 小時前"
     },
     {
       "title": "台灣無人機聯盟參與法茵堡航展 與英國ADS簽MOU",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-07-27T03:35:36.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "4 小時前"
     },
     {
       "title": "台股震盪越跌越買！十大人氣ETF受益人數逆勢狂飆 這檔月增363%居冠",
@@ -103,7 +103,7 @@
       "group": null,
       "published": "2026-07-27T03:27:35.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "4 小時前"
     },
     {
       "title": "〈房產〉青安3.0 8月登場 北市申貸總價門檻3500萬元以下以文山區最好買",
@@ -114,24 +114,8 @@
       "group": null,
       "published": "2026-07-27T03:11:27.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "4 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "外資籌碼",
-      "url": "https://news.google.com/rss/search?q=%E5%A4%96%E8%B3%87%20%E8%B2%B7%E8%B6%85%20OR%20%E8%B3%A3%E8%B6%85%20%E5%8F%B0%E8%82%A1%20%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "MoneyDJ",
-      "url": "https://news.google.com/rss/search?q=site%3Amoneydj.com%20%E5%8F%B0%E8%82%A1&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "台積電動向",
-      "url": "https://news.google.com/rss/search?q=%E5%8F%B0%E7%A9%8D%E9%9B%BB%20OR%202330%20%E6%B3%95%E4%BA%BA%20OR%20%E7%9B%AE%E6%A8%99%E5%83%B9&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    }
-  ]
+  "errors": []
 }
