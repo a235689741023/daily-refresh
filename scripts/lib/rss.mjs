@@ -96,9 +96,11 @@ const norm = (s) =>
 
 /**
  * 過濾近 N 小時、去除重複、依「權重 + 新鮮度」排序，取前 keep 則。
- * 若近 N 小時的量不足（假日、來源異常），自動放寬時間窗。
+ * 若近 N 小時的量不足（假日、來源異常），自動放寬時間窗，但無論如何都不放行
+ * 超過 maxAgeDays 的條目 —— 這是硬性上限，避免來源異常時把好幾年前的頁面
+ * （例如 Google News 查到的常駐產品頁）當成新聞漏出來。
  */
-export function curate(items, { hours = 30, keep = 10, minItems = 4 } = {}) {
+export function curate(items, { hours = 30, keep = 10, minItems = 4, maxAgeDays = 7 } = {}) {
   const seenUrl = new Set();
   const seenTitle = new Set();
 
@@ -125,6 +127,13 @@ export function curate(items, { hours = 30, keep = 10, minItems = 4 } = {}) {
     pool = within(h);
   }
   if (pool.length < minItems) pool = items;
+
+  // 硬性新鮮度上限：任何路徑（含上面的最終備援）都不放行過舊的條目。
+  // 無日期的條目視為未知、放行；有日期且超過 maxAgeDays 的一律擋掉。
+  const maxAgeMs = maxAgeDays * 86400 * 1000;
+  pool = pool.filter(
+    (it) => !it.published || Date.now() - new Date(it.published).getTime() <= maxAgeMs
+  );
 
   const now = Date.now();
   const scored = dedupe(pool).map((it) => {

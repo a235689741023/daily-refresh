@@ -43,7 +43,10 @@ export const DOMAINS = {
     groups: ["gis", "ai"],
     feeds: [
       // 空間資訊
-      { name: "ArcGIS Blog",        url: gnewsEN("site:esri.com arcgis"),                 tag: "平台", group: "gis", weight: 9 },
+      // 注意：查詢一定要鎖在 /arcgis-blog 路徑。只寫 site:esri.com arcgis 會抓到
+      // Esri 的常駐產品／行銷頁（登入、定價、軟體介紹），那些日期停在 2017–2022、
+      // 根本不是新聞。鎖 blog 路徑才拿得到真正的部落格文章。
+      { name: "ArcGIS Blog",        url: gnewsEN("site:esri.com/arcgis-blog"),            tag: "平台", group: "gis", weight: 9 },
       { name: "Geospatial World",   url: "https://geospatialworld.net/feed/",             tag: "產業", group: "gis", weight: 6 },
       { name: "Google Maps Blog",   url: "https://blog.google/products/maps/rss/",        tag: "平台", group: "gis", weight: 7 },
       { name: "GIS Lounge",         url: "https://www.gislounge.com/feed/",               tag: "應用", group: "gis", weight: 5 },
@@ -56,7 +59,9 @@ export const DOMAINS = {
       { name: "Google AI Blog",     url: "https://blog.google/technology/ai/rss/",        tag: "模型", group: "ai", weight: 7 },
       { name: "MIT Tech Review",    url: "https://www.technologyreview.com/topic/artificial-intelligence/feed/", tag: "趨勢", group: "ai", weight: 8 },
       { name: "NVIDIA Blog",        url: "https://blogs.nvidia.com/feed/",                tag: "基建", group: "ai", weight: 6 },
-      { name: "AI 政策",            url: gnewsEN("AI regulation OR \"AI Act\" OR AI policy"), tag: "政策", group: "ai", weight: 6 },
+      // 只寫 "AI policy" 會抓到大量地方政府新聞（某某郡議會通過 AI 使用規範）。
+      // 鎖在國家／區域級的重大立法與監管，來源才會是 EU AI Act、監管報告這類權威內容。
+      { name: "AI 政策",            url: gnewsEN("\"AI Act\" OR \"frontier AI\" OR \"AI safety\" OR \"export controls\" AI regulation"), tag: "政策", group: "ai", weight: 6 },
     ],
   },
 

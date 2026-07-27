@@ -25,7 +25,7 @@ npm run serve     # 本機預覽，手機連同一個 Wi-Fi 即可開
 
 1. 把這個資料夾推到一個 GitHub repo。
 2. repo 的 **Settings → Pages → Source** 選 **GitHub Actions**。
-3. 完成。`.github/workflows/daily.yml` 會在台北時間 **每天 06:30 與 12:30** 自動抓取並重新部署，也可以在 Actions 頁面手動觸發。
+3. 完成。`.github/workflows/daily.yml` 會在台北時間 **每天 06:30、11:00、21:00** 自動抓取並重新部署，也可以在 Actions 頁面手動觸發。
 
 抓下來的資料會 commit 回 repo，一方面留下歷史，一方面當作下次抓取失敗時的備援。
 
@@ -141,6 +141,9 @@ console.log("檢查完成");'
 ---
 
 ## 已知限制
+
+- **新鮮度硬上限 7 天**：`curate()` 無論如何都不會放行超過 7 天的條目，避免來源異常時把常駐頁面（例如 Google News 查到的產品／定價頁）當成新聞漏出來。代價是發文頻率低的來源（例如 ArcGIS Blog 約雙週更新）常常落在窗外，GIS 這類來源少的分組因此可能只有 3～4 則——寧可少而真，不要多而舊。要放寬改 `rss.mjs` 中 `curate()` 的 `maxAgeDays`。
+- 沒有官方 feed 的來源改走 Google News `site:` 查詢時，**路徑要盡量鎖精確**：`site:esri.com arcgis` 會抓到 Esri 常駐產品頁，`site:esri.com/arcgis-blog` 才是真正的部落格文章。
 
 - 顯示用的字體目前走系統襯線字（Palatino／宋體），還沒把 Cinzel 這類雕刻感字型打包進 repo。要換的話把字型檔放進 `public/fonts/`，在 `styles.css` 的 `--serif` 前面加上 `@font-face`。
 - 解剖圖的座標是手工繪製的 SVG 路徑，比例若要微調，改 `app.js` 中 `MUSCLES` 陣列的 `d` 與 `fib`。
