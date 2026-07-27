@@ -1,143 +1,164 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-26T23:26:06.715Z",
-  "updatedLocal": "2026/7/27 07:26:06",
+  "updated": "2026-07-27T06:33:33.698Z",
+  "updatedLocal": "2026/7/27 14:33:33",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "My Esri - Login",
-      "summary": "Use this self-service portal as your single destination for managing your ArcGIS picks from the ArcGIS suite.",
-      "url": "https://www.esri.com/en-us/my-esri-login",
-      "source": "Esri",
+      "title": "A fresh look at Albania, Montenegro, North Macedonia and Serbia on Street View",
+      "summary": "Albania, Montenegro, North Macedonia and Serbia — lands of deep history, natural beauty and cultural richness — are now easier to explore with Google Street View.",
+      "url": "https://blog.google/products-and-platforms/products/maps/street-view-albania-montenegro-north-macedonia-serbia/",
+      "source": "Google Maps Blog",
       "tag": "平台",
       "group": "gis",
-      "published": "2022-01-28T06:20:59.000Z",
+      "published": "2026-07-08T08:00:00.000Z",
       "why": null,
-      "ago": "1641 天前"
+      "ago": "19 天前"
     },
     {
-      "title": "GIS Software for Mapping and Spatial Analytics | Esri",
-      "summary": "Get free access to recordings from the Esri UC Plenary Session featuring Esri president Jack Dangermond and special guests.",
-      "url": "https://www.esri.com/en-us/home",
-      "source": "Esri",
+      "title": "Maps has an authentic new voice in New Zealand",
+      "summary": "The new voice, which speaks English with a Kiwi accent while accurately pronouncing indigenous place names, makes navigation feel genuinely local for New Zealanders.",
+      "url": "https://blog.google/products-and-platforms/products/maps/te-reo-maori/",
+      "source": "Google Maps Blog",
       "tag": "平台",
       "group": "gis",
-      "published": "2017-08-25T19:22:28.000Z",
+      "published": "2026-07-01T17:00:00.000Z",
       "why": null,
-      "ago": "3257 天前"
+      "ago": "26 天前"
     },
     {
-      "title": "Web GIS Mapping Software | Create Web Maps with ArcGIS Online",
-      "summary": "Explore Esri with the new AI-powered assistant, now in beta. Ask questions and get answers faster.",
-      "url": "https://www.esri.com/en-us/arcgis/products/arcgis-online/overview",
-      "source": "Esri",
+      "title": "Street View opens a new window into Georgia",
+      "summary": "Explore some of Georgia’s unique cultural and geographic landmarks on Google Maps. You can now explore Georgia’s diverse landscapes and historic landmarks through Google Street View.",
+      "url": "https://blog.google/products-and-platforms/products/maps/georgia-street-view/",
+      "source": "Google Maps Blog",
       "tag": "平台",
       "group": "gis",
-      "published": "2018-06-23T12:14:02.000Z",
+      "published": "2026-06-22T06:00:00.000Z",
       "why": null,
-      "ago": "2955 天前"
+      "ago": "35 天前"
     },
     {
-      "title": "ArcGIS Online Pricing & Licensing Options",
-      "summary": "Different levels of access ensure your team can use ArcGIS Online to collaborate efficiently. Consider who needs core GIS capabilities, including mapping, analyzing, and managing data.",
-      "url": "https://www.esri.com/en-us/arcgis/products/arcgis-online/buy",
-      "source": "Esri",
+      "title": "4 ways soccer fans can catch every moment of the tournament",
+      "summary": "Google tools like AI Mode in Search, Maps, Waze and the Gemini app can help guide you from the first whistle to the final goal.",
+      "url": "https://blog.google/products-and-platforms/products/search/soccer-tournament-google-tools-2026/",
+      "source": "Google Maps Blog",
       "tag": "平台",
       "group": "gis",
-      "published": "2020-03-12T07:10:56.000Z",
+      "published": "2026-06-08T13:00:00.000Z",
       "why": null,
-      "ago": "2328 天前"
+      "ago": "49 天前"
     },
     {
-      "title": "ArcGIS Pro",
-      "summary": "Review the software and hardware requirements. Access the software through your user type in an ArcGIS organization.",
-      "url": "https://doc.esri.com/en/arcgis-pro/latest/",
-      "source": "doc.esri.com",
+      "title": "Travel the world like Dua Lipa with Google Maps",
+      "summary": "12 shared lists are packed with Dua’s favorite spots for food, shopping, culture and more.",
+      "url": "https://blog.google/products-and-platforms/products/maps/dua-lipa/",
+      "source": "Google Maps Blog",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-05-14T07:40:56.000Z",
+      "published": "2026-05-28T14:00:00.000Z",
       "why": null,
-      "ago": "74 天前"
+      "ago": "60 天前"
     },
     {
-      "title": "Online Form Builder for Smart Forms & Surveys | ArcGIS Survey123",
-      "summary": "Design smart forms and surveys with ArcGIS Survey123—a dynamic form builder. Accelerate data collection and enhance the quality of results.",
-      "url": "https://www.esri.com/en-us/arcgis/products/arcgis-survey123/overview",
-      "source": "Esri",
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "summary": "Genie is our general-purpose world model capable of generating diverse, interactive environments.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie-expands/",
+      "source": "Google Maps Blog",
       "tag": "平台",
       "group": "gis",
-      "published": "2020-07-01T21:58:04.000Z",
+      "published": "2026-05-19T17:45:00.000Z",
       "why": null,
-      "ago": "2216 天前"
+      "ago": "69 天前"
     },
     {
-      "title": "Microsoft just took sides in AI policy fight",
-      "summary": null,
-      "url": "https://sg.finance.yahoo.com/news/microsoft-just-took-sides-ai-213600979.html",
-      "source": "Yahoo Finance Singapore",
-      "tag": "政策",
+      "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+      "summary": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems.",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
       "group": "ai",
-      "published": "2026-07-26T21:36:00.000Z",
+      "published": "2026-07-27T00:45:42.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "6 小時前"
     },
     {
-      "title": "RS Council approves AI policy for housing authority",
-      "summary": "The Rock Springs City Council accepted Resolution 2026-95, which sets an AI usage policy for the Rock Springs Housing Authority, during its July 21 meeting.",
-      "url": "https://www.wyomingnews.com/rocketminer/rs-council-approves-ai-policy-for-housing-authority/article_ca8db74c-676d-486f-893d-d36daecf0c0f.html",
-      "source": "WyomingNews.com",
-      "tag": "政策",
+      "title": "Launching Health in ChatGPT",
+      "summary": "Rolling out to U.S. users, you can securely connect your health information to help you better understand and navigate your health.",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-07-26T21:30:00.000Z",
+      "published": "2026-07-23T00:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "4 天前"
     },
     {
-      "title": "How AI wealth could be distributed to all Americans",
-      "summary": "Bernie Sanders' recent proposal that the public should own half of artificial intelligence is unlikely to become policy anytime soon, but it reflects a broader debate that is gaining momentum among economists, technology researchers, and policymakers: How can Americans benefit if AI creates trillions of dollars in new economic value?",
-      "url": "https://www.cnbc.com/2026/07/26/how-can-ai-wealth-be-shared-with-all-americans.html",
-      "source": "CNBC",
-      "tag": "政策",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "summary": "Project Camellia is a long-term datacenter project that OpenAI is designing and developing in Effingham County, Georgia.",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "source": "OpenAI",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-07-26T14:06:53.000Z",
+      "published": "2026-07-22T13:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "5 天前"
     },
     {
-      "title": "In \"Questioner,\" rogue AI imposes its own rules on the legal system that employs it",
-      "summary": "Editor’s note: In Steve C. Posner’s thriller, Q is the AI that runs America’s courts, its defense contractors, and its most immersive gaming systems.",
-      "url": "https://coloradosun.com/2026/07/26/sunlit-questioner-steve-posner/",
-      "source": "The Colorado Sun",
-      "tag": "政策",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "summary": "Over the past year, we’ve continued working with news organizations to explore how AI can be most useful—helping with time-consuming tasks, enabling new reader experiences, and supporting stronger, more sustainable businesses.",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "source": "OpenAI",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-07-26T08:15:00.000Z",
+      "published": "2026-07-22T13:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "5 天前"
     },
     {
-      "title": "Illinois delays rules to limit AI use in employment decisions",
-      "summary": null,
-      "url": "https://www.ourquadcities.com/news/4-the-record/illinois-delays-rules-to-limit-ai-use-in-employment-decisions/",
-      "source": "OurQuadCities",
-      "tag": "政策",
+      "title": "Advancing the next era of national science",
+      "summary": "American leadership has always been driven by scientific leadership.",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "source": "OpenAI",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-07-26T15:16:00.000Z",
+      "published": "2026-07-22T12:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "5 天前"
     },
     {
-      "title": "Unionized workers are bargaining with the bots",
-      "summary": null,
-      "url": "https://www.axios.com/2026/07/26/union-contracts-ai-workplace-disruption",
-      "source": "Axios",
-      "tag": "政策",
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "summary": "VP for Science and Strategic Initiatives, Google DeepMind, and Chief Scientist, Google Cloud Chief Product and Business Officer, Google Cloud Empowering an Adaptive, Responsible, Secure, and Intelligent way forward Scientists today face challenges of extraordinary scale and complexity.",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "source": "Google DeepMind",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-07-26T12:24:50.000Z",
+      "published": "2026-07-22T13:38:54.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "5 天前"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "GIS × AI 研究",
+      "url": "https://news.google.com/rss/search?q=geospatial%20AI%20OR%20%22spatial%20AI%22%20OR%20%22remote%20sensing%22%20foundation%20model&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "AI 政策",
+      "url": "https://news.google.com/rss/search?q=AI%20regulation%20OR%20%22AI%20Act%22%20OR%20AI%20policy&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "Anthropic",
+      "url": "https://news.google.com/rss/search?q=site%3Aanthropic.com&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "ArcGIS Blog",
+      "url": "https://news.google.com/rss/search?q=site%3Aesri.com%20arcgis&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    }
+  ]
 }

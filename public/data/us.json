@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-07-26T23:26:06.715Z",
-  "updatedLocal": "2026/7/27 07:26:06",
+  "updated": "2026-07-27T06:33:33.698Z",
+  "updatedLocal": "2026/7/27 14:33:33",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
+      "summary": "Singapore on Monday unexpectedly tightened its monetary policy for a second consecutive time, moving preemptively against a renewed oil price surge even as inflation at home stays subdued.",
+      "url": "https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-07-27T03:36:08.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
       "summary": null,
@@ -13,9 +24,9 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-26T22:42:00.000Z",
+      "published": "2026-07-27T03:02:00.000Z",
       "why": null,
-      "ago": "44 分鐘前"
+      "ago": "4 小時前"
     },
     {
       "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-07-26T20:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "‘It’s nothing personal’: Should I tell my 96-year-old stepmother that I don’t want her inheritance?",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-07-26T19:30:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-07-26T19:15:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-07-26T19:01:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-07-26T18:30:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-07-26T15:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "The S&P 500’s earnings growth has gone bonkers thanks to one company",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-07-26T14:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
@@ -103,19 +114,24 @@
       "group": null,
       "published": "2026-07-26T13:00:00.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-26T12:30:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "財報",
+      "url": "https://news.google.com/rss/search?q=earnings%20beat%20OR%20earnings%20miss%20guidance%20S%26P%20500&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/search?q=site%3Abloomberg.com%20markets%20OR%20earnings&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "Reuters 財經",
+      "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20stock%20market%20OR%20Federal%20Reserve&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    }
+  ]
 }
