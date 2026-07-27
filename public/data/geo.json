@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-27T07:23:17.048Z",
-  "updatedLocal": "2026/7/27 15:23:17",
+  "updated": "2026-07-27T15:34:28.247Z",
+  "updatedLocal": "2026/7/27 23:34:28",
   "digest": null,
   "watch": [],
   "items": [
@@ -37,7 +37,62 @@
       "group": "gis",
       "published": "2026-07-23T23:21:00.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
+    },
+    {
+      "title": "How AI is expanding what people do at work",
+      "summary": "OpenAI Economic Research’s new Work at the Frontier series shows how workers cross over into work beyond the traditional boundaries of their roles.",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-27T03:30:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
+    },
+    {
+      "title": "The path to artificial superintelligence",
+      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-07-27T12:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage.",
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-07-27T11:40:16.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Building the enterprise environment for agentic AI",
+      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-07-27T11:32:58.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+      "summary": "Open source software is a critical pillar of the global economy.",
+      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
+      "group": "ai",
+      "published": "2026-07-27T09:00:07.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
@@ -48,40 +103,7 @@
       "group": "ai",
       "published": "2026-07-27T00:45:42.000Z",
       "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Google signs EU AI Act Code of Practice on AI-generated content transparency",
-      "summary": "Google has announced that it is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content to support responsible AI use and transparency around AI-generated content in Europe.",
-      "url": "https://www.fonearena.com/blog/488290/google-signs-eu-ai-act-code-of-practice.html",
-      "source": "FoneArena.com",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-07-27T06:14:43.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "BSI sets AI quality standard for EU high-risk systems",
-      "summary": "BSI has published a standard for quality management systems under the EU AI Act, aimed at organisations placing high-risk AI systems on the EU market.",
-      "url": "https://itbrief.com.au/story/bsi-sets-ai-quality-standard-for-eu-high-risk-systems",
-      "source": "IT Brief Australia",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-07-26T23:30:00.000Z",
-      "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "Google signs EU AI Act transparency code, backs AI content labelling while warning against regulatory complexity",
-      "summary": "Google has signed the European Union's AI Act Code of Practice on Transparency of AI-Generated Content, reaffirming its commitment to responsible AI deployment while raising concerns that overly complex regulatory requirements could hinder innovation and create confusion for users.",
-      "url": "https://www.storyboard18.com/amp/digital/google-signs-eu-ai-act-transparency-code-backs-ai-content-labelling-while-warning-against-regulatory-complexity-105636.htm",
-      "source": "Storyboard18",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-07-27T04:12:34.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "15 小時前"
     }
   ],
   "errors": []

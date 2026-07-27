@@ -1,11 +1,88 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-07-27T07:23:17.048Z",
-  "updatedLocal": "2026/7/27 15:23:17",
+  "updated": "2026-07-27T15:34:28.247Z",
+  "updatedLocal": "2026/7/27 23:34:28",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "This tracker ranks AI data center leaders on emissions",
+      "summary": "New data centers purpose-built for artificial intelligence are stoking a natural gas generation boom, forcing double-digit emissions increases at Amazon, Google and Microsoft .",
+      "url": "https://trellis.net/article/tracker-ranks-ai-data-center-emissions/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-27T10:00:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "More fluff in sustainability reports, study finds",
+      "summary": "Do annual sustainability reports matter?",
+      "url": "https://trellis.net/article/fluff-sustainability-reports-university-chicago-study/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-27T10:00:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "The other side of the meter: Who’s financing the AI buildout and why it matters",
+      "summary": "The opinions expressed here by Trellis expert contributors are their own, not those of Trellis or its editors .",
+      "url": "https://trellis.net/article/other-side-meter-whos-financing-ai-buildout/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-27T09:44:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Britain’s diet is overshooting planetary boundaries, says Lidl",
+      "summary": "Britain reached its 2026 Planetary Health Diet Overshoot Day on 25 July, meaning the country has already exceeded its annual recommended balance of foods for a healthy and sustainable diet.",
+      "url": "https://www.edie.net/britains-diet-is-overshooting-planetary-boundaries-says-lidl/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-27T13:01:12.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "China to grow renewable generation by 50% by 2030",
+      "summary": "China has set out a new energy transition plan that would see non-fossil fuel sources contribute to 50% of total power generation by 2030 alongside a peak in fossil fuel consumption.",
+      "url": "https://www.edie.net/china-to-grow-renewable-generation-by-50-by-2030/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-27T12:27:39.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Don’t go quiet: Why leaders need to double down on sustainability",
+      "summary": "With some companies retreating from public sustainability commitments amid growing ESG scepticism, Martina Donohoe, sustainability and safety director at Bidvest Noonan, explains why 'greenhushing' is actually a reputational risk.",
+      "url": "https://www.edie.net/why-some-companies-go-silent-on-sustainability-and-why-leaders-need-to-double-down/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-27T12:06:19.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Silverstone’s DRS rollout at British GP and Virgin Media O2’s nature finance commitment: The sustainability success stories of the week",
+      "summary": "As part of our Mission Possible campaign, edie delivers this member-exclusive weekly round-up of five of the best sustainable business success stories of the week.",
+      "url": "https://www.edie.net/silverstones-drs-rollout-at-british-gp-and-virgin-media-o2s-nature-finance-commitment-the-sustainability-success-stories-of-the-week/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-27T07:36:26.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
     {
       "title": "污水處理漏洞讓大西洋鮭染上「古柯鹼」 科學家揭：游得更快更遠",
       "summary": null,
@@ -13,7 +90,18 @@
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-07-27T01:41:15.000Z",
+      "published": "2026-07-27T01:46:21.000Z",
+      "why": null,
+      "ago": "14 小時前"
+    },
+    {
+      "title": "環評淪社會爭議「大怪獸」？ 民團針對環評制度總體檢、提11項改革",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243700",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-07-27T09:06:42.000Z",
       "why": null,
       "ago": "6 小時前"
     },
@@ -24,53 +112,9 @@
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-07-27T02:47:07.000Z",
+      "published": "2026-07-27T07:26:38.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Acra proposes sustainability disclosure standards for Singapore",
-      "summary": "Public consultation on the draft standards will take place from Jul 27 to Oct 25, 2026 [SINGAPORE] The Accounting and Corporate Regulatory Authority (Acra) has proposed a set of sustainability disclosure standards tailored to Singapore’s context, and is seeking public feedback.",
-      "url": "https://www.businesstimes.com.sg/esg/acra-proposes-sustainability-disclosure-standards-singapore",
-      "source": "The Business Times",
-      "tag": "法規",
-      "group": null,
-      "published": "2026-07-27T02:00:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "AI淨零／台科大攜手文曄科技開半導體AI應用課 業師指導| 生活",
-      "summary": "數位轉型已是產業進行式，人工智慧、淨零碳排更是政府與企業面對的兩大挑戰，攸關台灣未來競爭力。中央社第一線採訪團隊，深入報導政府與百工百業如何運用AI優化生產流程、驅動綠色創新，見證台灣產業再一次躍升。（中央社記者 許秩維 台北27日電）台科大和半導體電子零組件通路商文曄科技合開「半導體人工智慧商務應用」課程，期末由文曄科技10名業師授課並指導期末專案，讓修課學生學習將AI應用於產業、創造商業價值。",
-      "url": "https://www.cna.com.tw/news/ahel/202607270036.aspx",
-      "source": "中央社 CNA",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-07-27T02:14:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "全國觀光淨零轉型論壇台南登場「觀光淨零轉型」從概念成實際- 瘋台灣",
-      "summary": "「全國觀光淨零轉型論壇暨台南低碳工藝行旅體驗」2026年6∕25、26在台南福爾摩沙遊艇酒店舉行。這場由交通部觀光署指導，台南市政府觀光旅遊局、文化部國立臺灣工藝研究發展中心合辦，台灣區觀光協會聯合會主辦的活動，集結中央、地方、旅宿、旅行、醫療健康、工藝與地方產業等來自全台近300人產業菁英與會，聚焦「淨零觀光政策」與「場域落地」等核心命題，並以實際行動探索可能性。",
-      "url": "https://truemii.chinatimes.com/content/20260727000012-265001",
-      "source": "觸mii",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-07-27T04:00:30.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "ClassNK2026台灣技術研討會 全球淨零減碳一大焦點",
-      "summary": "▲ 日本海事協會 （ClassNK）高雄事務所所長劉怡（左起）、台北事務所所長陳建良、台灣總經理鷹見賢司、經理許財福、助理經理李永業。（記者陳維強攝） 日本海事協會（ClassNK）為提供航運界有關航運、造船，特別是檢驗與船舶管理方面的專門知識，「二○二六台灣技術研討會」繼二十三日在高雄漢來大飯店舉辦後，二十四日於台北晶華酒店登場。",
-      "url": "https://tw.news.yahoo.com/classnk2026%E5%8F%B0%E7%81%A3%E6%8A%80%E8%A1%93%E7%A0%94%E8%A8%8E%E6%9C%83-%E5%85%A8%E7%90%83%E6%B7%A8%E9%9B%B6%E6%B8%9B%E7%A2%B3-%E5%A4%A7%E7%84%A6%E9%BB%9E-104152266.html",
-      "source": "Yahoo新聞",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-07-26T10:41:52.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "8 小時前"
     }
   ],
   "errors": []
