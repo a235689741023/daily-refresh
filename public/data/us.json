@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-07-27T15:34:28.247Z",
-  "updatedLocal": "2026/7/27 23:34:28",
+  "updated": "2026-07-27T23:31:52.221Z",
+  "updatedLocal": "2026/7/28 07:31:52",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
+      "summary": "Investors looking to wager on stocks such as SpaceX and Micron Technology now have a new tool: single-stock futures that trade for nearly 24 hours a day.",
+      "url": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-27T18:06:35.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
     {
       "title": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
       "summary": "Singapore on Monday unexpectedly tightened its monetary policy for a second consecutive time, moving preemptively against a renewed oil price surge even as inflation at home stays subdued.",
@@ -15,104 +26,93 @@
       "group": null,
       "published": "2026-07-27T14:22:15.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
-      "title": "Should you get paid to care for a family member?",
+      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/should-you-get-paid-to-care-for-a-family-member-70958828?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-27T15:28:00.000Z",
-      "why": null,
-      "ago": "6 分鐘前"
-    },
-    {
-      "title": "The AI boom shows no sign of slowing — and the U.S. economy is reaping the benefits",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-ai-boom-shows-no-sign-of-slowing-and-the-u-s-economy-is-reaping-the-benefits-1728c4e5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-27T15:22:00.000Z",
-      "why": null,
-      "ago": "12 分鐘前"
-    },
-    {
-      "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-27T15:09:00.000Z",
-      "why": null,
-      "ago": "25 分鐘前"
-    },
-    {
-      "title": "This small-cap stock strategy shines by riding the beat-and-raise trend",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/this-small-cap-stock-strategy-shines-by-riding-the-beat-and-raise-trend-24bee883?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-27T15:08:00.000Z",
-      "why": null,
-      "ago": "26 分鐘前"
-    },
-    {
-      "title": "Do I need to hire a broker to find an apartment in New York City?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/do-i-need-to-hire-a-broker-to-find-an-apartment-in-new-york-city-f5f9cf34?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-27T14:51:00.000Z",
-      "why": null,
-      "ago": "43 分鐘前"
-    },
-    {
-      "title": "For 44 years, this investor held aces in the long-bond game. He just folded.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/for-44-years-this-investor-held-aces-in-the-long-bond-game-he-just-folded-dcd39375?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-27T14:26:00.000Z",
+      "published": "2026-07-27T22:30:00.000Z",
       "why": null,
       "ago": "1 小時前"
     },
     {
-      "title": "Could voter rage over AI data centers tank your utility stocks? Run this 5-part risk test to find out.",
+      "title": "‘It’s a high price to pay’: My adviser says I don’t need a withdrawal plan for my $2.3 million portfolio. Is he right?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-27T22:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-feel-lucky-im-71-and-inherited-20-000-what-should-i-do-with-this-money-1ab90925?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-27T21:46:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-27T21:46:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Stop snacking. Restricting eating for only 8 or 9 hours a day may keep your mind sharp.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/stop-snacking-restricting-eating-for-only-8-or-9-hours-a-day-may-keep-your-mind-sharp-1dc7e495?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-27T21:37:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-27T21:35:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Big Tech is forcing consumers to pay for its AI boom. Voters are pushing back.",
       "summary": null,
       "url": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-27T14:15:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Policy uncertainty is making it hard to plan for retirement — and advisers are just as confused",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/policy-uncertainty-is-muddling-retirement-planning-and-advisers-are-just-as-confused-3381f10e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-27T14:00:00.000Z",
+      "published": "2026-07-27T21:03:00.000Z",
       "why": null,
       "ago": "2 小時前"
     },
     {
-      "title": "Investors are playing it safe — just like in 2021. Here’s how AI makes this time different.",
+      "title": "He brought AI to Wall Street in 1994 — but won’t trust ChatGPT with his money",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-s-p-500-is-echoing-its-2021-setup-according-to-morgan-stanley-fe4b61d0?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/he-brought-ai-to-wall-street-in-1994-but-wont-trust-chatgpt-with-his-money-b8abc031?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-27T13:51:00.000Z",
+      "published": "2026-07-27T21:02:00.000Z",
       "why": null,
       "ago": "2 小時前"
     }

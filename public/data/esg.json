@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-07-27T15:34:28.247Z",
-  "updatedLocal": "2026/7/27 23:34:28",
+  "updated": "2026-07-27T23:31:52.221Z",
+  "updatedLocal": "2026/7/28 07:31:52",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-07-27T10:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "More fluff in sustainability reports, study finds",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-07-27T10:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "The other side of the meter: Who’s financing the AI buildout and why it matters",
@@ -37,7 +37,40 @@
       "group": null,
       "published": "2026-07-27T09:44:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
+    },
+    {
+      "title": "Indigenous leaders present UN with roadmap to protect communities",
+      "summary": "At the latest session of the Expert Mechanism on the rights of Indigenous Peoples (EMRIP), members proposed a 12-step plan to help protect Indigenous communities from mounting threats.",
+      "url": "https://www.edie.net/indigenous-leaders-present-un-with-roadmap-to-protect-communities/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-27T21:43:36.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Ed Miliband to lead UK engagement at World Bank on climate and development",
+      "summary": "The UK Government has announced that the Foreign Secretary, Ed Miliband, will take on the role of UK Governor to the World Bank, taking personal leadership of the UK’s engagement on international development and climate finance.",
+      "url": "https://www.edie.net/ed-miliband-to-lead-uk-engagement-at-world-bank-on-climate-and-development/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-27T16:38:17.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "What do the Government’s new drought plans mean for businesses?",
+      "summary": "Drought has been declared in parts of the UK for the first time this year as hosepipe bans spread and water shortages intensify.",
+      "url": "https://www.edie.net/what-do-the-governments-new-drought-plans-mean-for-businesses/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-27T16:30:16.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "Britain’s diet is overshooting planetary boundaries, says Lidl",
@@ -48,7 +81,7 @@
       "group": null,
       "published": "2026-07-27T13:01:12.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "China to grow renewable generation by 50% by 2030",
@@ -59,7 +92,7 @@
       "group": null,
       "published": "2026-07-27T12:27:39.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Don’t go quiet: Why leaders need to double down on sustainability",
@@ -70,7 +103,7 @@
       "group": null,
       "published": "2026-07-27T12:06:19.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Silverstone’s DRS rollout at British GP and Virgin Media O2’s nature finance commitment: The sustainability success stories of the week",
@@ -81,40 +114,7 @@
       "group": null,
       "published": "2026-07-27T07:36:26.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "污水處理漏洞讓大西洋鮭染上「古柯鹼」 科學家揭：游得更快更遠",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243515",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-07-27T01:46:21.000Z",
-      "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "環評淪社會爭議「大怪獸」？ 民團針對環評制度總體檢、提11項改革",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243700",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-07-27T09:06:42.000Z",
-      "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "屏東後灣陸寄居蟹遭獵捕販售、雲林驗出戴奧辛羊、寮國禁燃油車成東協首例",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243697",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-07-27T07:26:38.000Z",
-      "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     }
   ],
   "errors": []

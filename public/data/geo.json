@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-27T15:34:28.247Z",
-  "updatedLocal": "2026/7/27 23:34:28",
+  "updated": "2026-07-27T23:31:52.221Z",
+  "updatedLocal": "2026/7/28 07:31:52",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Spatial Resolution Matters: Choosing the Right Imagery for Geospatial AI Models",
+      "summary": "Artificial intelligence has transformed how we analyse imagery.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/spatial-resolution-matters-choosing-the-right-imagery-for-geospatial-ai-models",
+      "source": "Esri",
+      "tag": "研究",
+      "group": "gis",
+      "published": "2026-07-24T07:02:18.000Z",
+      "why": null,
+      "ago": "4 天前"
+    },
     {
       "title": "Strengthening Sovereignty, Economy, and Society",
       "summary": null,
@@ -26,7 +37,7 @@
       "group": "gis",
       "published": "2026-07-22T06:03:33.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
       "title": "Alaska’s Coastline is Longer Than All the Other 49 States Combined",
@@ -40,6 +51,28 @@
       "ago": "4 天前"
     },
     {
+      "title": "Our position on open-weights models",
+      "summary": "Over the last few days there has been a lot of discussion about open-weights models, especially those from China.",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-27T22:05:11.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Expanding our partnership with Cognizant",
+      "summary": "We're expanding our partnership with Cognizant , one of the world's largest technology services companies.",
+      "url": "https://www.anthropic.com/news/cognizant-anthropic",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-27T15:39:43.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
       "title": "How AI is expanding what people do at work",
       "summary": "OpenAI Economic Research’s new Work at the Frontier series shows how workers cross over into work beyond the traditional boundaries of their roles.",
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
@@ -48,7 +81,18 @@
       "group": "ai",
       "published": "2026-07-27T03:30:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
+    },
+    {
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "summary": "Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face , another AI company, was the first time I got genuine chills about what large language models are now able to do.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-07-27T18:00:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "The path to artificial superintelligence",
@@ -59,7 +103,7 @@
       "group": "ai",
       "published": "2026-07-27T12:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Closing the data loop in AI-driven drug discovery",
@@ -70,40 +114,7 @@
       "group": "ai",
       "published": "2026-07-27T11:40:16.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "Building the enterprise environment for agentic AI",
-      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems.",
-      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-07-27T11:32:58.000Z",
-      "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-      "summary": "Open source software is a critical pillar of the global economy.",
-      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-07-27T09:00:07.000Z",
-      "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
-      "summary": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems.",
-      "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-07-27T00:45:42.000Z",
-      "why": null,
-      "ago": "15 小時前"
+      "ago": "12 小時前"
     }
   ],
   "errors": []
