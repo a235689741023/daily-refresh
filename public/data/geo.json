@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-27T23:31:52.221Z",
-  "updatedLocal": "2026/7/28 07:31:52",
+  "updated": "2026-07-28T05:49:42.304Z",
+  "updatedLocal": "2026/7/28 13:49:42",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-07-22T11:55:40.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
       "title": "Mapping Urban Heat Islands in Ahemedabad",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-07-27T22:05:11.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Expanding our partnership with Cognizant",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-07-27T15:39:43.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "How AI is expanding what people do at work",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-07-27T03:30:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
@@ -92,7 +92,7 @@
       "group": "ai",
       "published": "2026-07-27T18:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "The path to artificial superintelligence",
@@ -103,7 +103,7 @@
       "group": "ai",
       "published": "2026-07-27T12:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Closing the data loop in AI-driven drug discovery",
@@ -114,7 +114,7 @@
       "group": "ai",
       "published": "2026-07-27T11:40:16.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "18 小時前"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-07-27T23:31:52.221Z",
-  "updatedLocal": "2026/7/28 07:31:52",
+  "updated": "2026-07-28T05:49:42.304Z",
+  "updatedLocal": "2026/7/28 13:49:42",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-07-27T18:06:35.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
@@ -26,7 +26,18 @@
       "group": null,
       "published": "2026-07-27T14:22:15.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "15 小時前"
+    },
+    {
+      "title": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-28T01:19:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-07-27T22:30:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "‘It’s a high price to pay’: My adviser says I don’t need a withdrawal plan for my $2.3 million portfolio. Is he right?",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-07-27T22:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?",
@@ -59,18 +70,7 @@
       "group": null,
       "published": "2026-07-27T21:46:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-27T21:46:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Stop snacking. Restricting eating for only 8 or 9 hours a day may keep your mind sharp.",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-07-27T21:37:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-07-27T21:35:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Big Tech is forcing consumers to pay for its AI boom. Voters are pushing back.",
@@ -103,7 +103,7 @@
       "group": null,
       "published": "2026-07-27T21:03:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "He brought AI to Wall Street in 1994 — but won’t trust ChatGPT with his money",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-07-27T21:02:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     }
   ],
   "errors": []
