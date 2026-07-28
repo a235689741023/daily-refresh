@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-07-28T05:49:42.304Z",
-  "updatedLocal": "2026/7/28 13:49:42",
+  "updated": "2026-07-28T15:09:24.290Z",
+  "updatedLocal": "2026/7/28 23:09:24",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Is incrementalism enough in a systems-change world?",
+      "summary": "Here’s a question that’s been keeping me up at night: Are sustainability professionals — all of us, individually and collectively — working at the wrong level?",
+      "url": "https://trellis.net/article/is-incrementalism-enough-in-a-systems-change-world/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-28T10:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
     {
       "title": "This tracker ranks AI data center leaders on emissions",
       "summary": "New data centers purpose-built for artificial intelligence are stoking a natural gas generation boom, forcing double-digit emissions increases at Amazon, Google and Microsoft .",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-07-27T10:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "More fluff in sustainability reports, study finds",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-07-27T10:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "The other side of the meter: Who’s financing the AI buildout and why it matters",
@@ -37,7 +48,40 @@
       "group": null,
       "published": "2026-07-27T09:44:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "NGOs call on PM to tackle inequality amid North Sea drilling rumours",
+      "summary": "Almost 100 charity leaders, including from Oxfam, ActionAid and WaterAid, have urged Prime Minister (PM) Andy Burnham to help address the root causes of poverty, including climate change.",
+      "url": "https://www.edie.net/ngos-call-on-pm-to-tackle-inequality-at-home-and-abroad/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-28T14:57:31.000Z",
+      "why": null,
+      "ago": "12 分鐘前"
+    },
+    {
+      "title": "Getting ahead: Five ways to future-proof supply chains",
+      "summary": "From climate shocks and water scarcity to geopolitical tensions and resource constraints, supply chain disruption has become a defining business risk.",
+      "url": "https://www.edie.net/getting-ahead-five-ways-to-future-proof-supply-chains/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-28T12:44:09.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Fossil fuel giants to double profits as emissions spike, research finds",
+      "summary": "Fossil fuel firms including BP, Chevron, and Shell are expected to double their combined net income to $45bn this quarter, with research stating that emissions from the world’s largest oil and gas businesses were sufficient to cause one quarter of heatwaves experienced in the last 20 years.",
+      "url": "https://www.edie.net/fossil-fuel-giants-to-double-profits-as-emissions-spike-research-finds/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-28T10:03:19.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "Indigenous leaders present UN with roadmap to protect communities",
@@ -48,7 +92,7 @@
       "group": null,
       "published": "2026-07-27T21:43:36.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Ed Miliband to lead UK engagement at World Bank on climate and development",
@@ -59,7 +103,7 @@
       "group": null,
       "published": "2026-07-27T16:38:17.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "What do the Government’s new drought plans mean for businesses?",
@@ -70,51 +114,7 @@
       "group": null,
       "published": "2026-07-27T16:30:16.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Britain’s diet is overshooting planetary boundaries, says Lidl",
-      "summary": "Britain reached its 2026 Planetary Health Diet Overshoot Day on 25 July, meaning the country has already exceeded its annual recommended balance of foods for a healthy and sustainable diet.",
-      "url": "https://www.edie.net/britains-diet-is-overshooting-planetary-boundaries-says-lidl/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-27T13:01:12.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "China to grow renewable generation by 50% by 2030",
-      "summary": "China has set out a new energy transition plan that would see non-fossil fuel sources contribute to 50% of total power generation by 2030 alongside a peak in fossil fuel consumption.",
-      "url": "https://www.edie.net/china-to-grow-renewable-generation-by-50-by-2030/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-27T12:27:39.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Don’t go quiet: Why leaders need to double down on sustainability",
-      "summary": "With some companies retreating from public sustainability commitments amid growing ESG scepticism, Martina Donohoe, sustainability and safety director at Bidvest Noonan, explains why 'greenhushing' is actually a reputational risk.",
-      "url": "https://www.edie.net/why-some-companies-go-silent-on-sustainability-and-why-leaders-need-to-double-down/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-27T12:06:19.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Silverstone’s DRS rollout at British GP and Virgin Media O2’s nature finance commitment: The sustainability success stories of the week",
-      "summary": "As part of our Mission Possible campaign, edie delivers this member-exclusive weekly round-up of five of the best sustainable business success stories of the week.",
-      "url": "https://www.edie.net/silverstones-drs-rollout-at-british-gp-and-virgin-media-o2s-nature-finance-commitment-the-sustainability-success-stories-of-the-week/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-27T07:36:26.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "23 小時前"
     }
   ],
   "errors": []
