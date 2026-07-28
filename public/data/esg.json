@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-07-28T15:09:24.290Z",
-  "updatedLocal": "2026/7/28 23:09:24",
+  "updated": "2026-07-28T23:27:52.399Z",
+  "updatedLocal": "2026/7/29 07:27:52",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,40 +15,40 @@
       "group": null,
       "published": "2026-07-28T10:00:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
-      "title": "This tracker ranks AI data center leaders on emissions",
-      "summary": "New data centers purpose-built for artificial intelligence are stoking a natural gas generation boom, forcing double-digit emissions increases at Amazon, Google and Microsoft .",
-      "url": "https://trellis.net/article/tracker-ranks-ai-data-center-emissions/",
-      "source": "Trellis",
+      "title": "Report: Global battery energy storage set to grow six-fold by 2030",
+      "summary": "To support ongoing renewables expansion, the battery energy storage market is expected to grow six-fold worldwide by the end of the decade, with China and the US leading the charge.",
+      "url": "https://www.edie.net/report-global-battery-energy-storage-set-to-grow-six-fold-by-2030/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-07-27T10:00:00.000Z",
+      "published": "2026-07-28T17:09:26.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
     },
     {
-      "title": "More fluff in sustainability reports, study finds",
-      "summary": "Do annual sustainability reports matter?",
-      "url": "https://trellis.net/article/fluff-sustainability-reports-university-chicago-study/",
-      "source": "Trellis",
+      "title": "How are tighter budgets reshaping the sustainability profession?",
+      "summary": "The sustainability profession is entering a period of change as organisations rethink how dedicated sustainability functions are structured and funded, new research suggests.",
+      "url": "https://www.edie.net/how-are-tighter-budgets-reshaping-the-sustainability-profession/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-07-27T10:00:00.000Z",
+      "published": "2026-07-28T15:25:26.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "8 小時前"
     },
     {
-      "title": "The other side of the meter: Who’s financing the AI buildout and why it matters",
-      "summary": "The opinions expressed here by Trellis expert contributors are their own, not those of Trellis or its editors .",
-      "url": "https://trellis.net/article/other-side-meter-whos-financing-ai-buildout/",
-      "source": "Trellis",
+      "title": "Virgin Media O2 launches interactive pilot to encourage tech reuse",
+      "summary": "Virgin Media O2 is piloting the ‘O2 Tech Refab Lab’ at its flagship Westfield Stratford City store, featuring discovery zones where customers can learn how devices can receive a second life.",
+      "url": "https://www.edie.net/virgin-media-o2-launches-interactive-pilot-to-encourage-tech-reuse/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-07-27T09:44:00.000Z",
+      "published": "2026-07-28T15:21:45.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "8 小時前"
     },
     {
       "title": "NGOs call on PM to tackle inequality amid North Sea drilling rumours",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-07-28T14:57:31.000Z",
       "why": null,
-      "ago": "12 分鐘前"
+      "ago": "9 小時前"
     },
     {
       "title": "Getting ahead: Five ways to future-proof supply chains",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-07-28T12:44:09.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Fossil fuel giants to double profits as emissions spike, research finds",
@@ -81,40 +81,40 @@
       "group": null,
       "published": "2026-07-28T10:03:19.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
-      "title": "Indigenous leaders present UN with roadmap to protect communities",
-      "summary": "At the latest session of the Expert Mechanism on the rights of Indigenous Peoples (EMRIP), members proposed a 12-step plan to help protect Indigenous communities from mounting threats.",
-      "url": "https://www.edie.net/indigenous-leaders-present-un-with-roadmap-to-protect-communities/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "Analysis: Wind and solar power overtake fossil fuels in Germany for first time ever",
+      "summary": "More of Germany’s electricity came from wind and solar power than fossil fuels for the first time ever in 2025.",
+      "url": "https://www.carbonbrief.org/analysis-wind-and-solar-power-overtake-fossil-fuels-in-germany-for-first-time-ever",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-07-27T21:43:36.000Z",
+      "published": "2026-07-28T11:49:20.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "Ed Miliband to lead UK engagement at World Bank on climate and development",
-      "summary": "The UK Government has announced that the Foreign Secretary, Ed Miliband, will take on the role of UK Governor to the World Bank, taking personal leadership of the UK’s engagement on international development and climate finance.",
-      "url": "https://www.edie.net/ed-miliband-to-lead-uk-engagement-at-world-bank-on-climate-and-development/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "Analysis: 84% of nations miss deadline to identify ‘nature-harming’ subsidies by 2025",
+      "summary": "Most countries failed to meet a 2025 target to identify all of their subsidies that could be “harmful” to biodiversity, according to Carbon Brief analysis.",
+      "url": "https://www.carbonbrief.org/analysis-84-of-nations-miss-deadline-to-identify-nature-harming-subsidies-by-2025",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-07-27T16:38:17.000Z",
+      "published": "2026-07-28T11:41:55.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "What do the Government’s new drought plans mean for businesses?",
-      "summary": "Drought has been declared in parts of the UK for the first time this year as hosepipe bans spread and water shortages intensify.",
-      "url": "https://www.edie.net/what-do-the-governments-new-drought-plans-mean-for-businesses/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "「我們用熱水散熱」輝達Rubin創45°C高溫液冷 冷卻用水近乎歸零",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243638",
+      "source": "環境資訊中心",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-07-27T16:30:16.000Z",
+      "published": "2026-07-28T01:07:13.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "22 小時前"
     }
   ],
   "errors": []

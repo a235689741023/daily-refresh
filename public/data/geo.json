@@ -1,22 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-28T15:09:24.290Z",
-  "updatedLocal": "2026/7/28 23:09:24",
+  "updated": "2026-07-28T23:27:52.399Z",
+  "updatedLocal": "2026/7/29 07:27:52",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Simplifying ArcGIS Over The Years",
-      "summary": "The past five years represent the most sustained and systematic simplification effort in ArcGIS history.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis/announcements/simplifying-arcgis-over-the-years",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-07-21T19:30:36.000Z",
-      "why": null,
-      "ago": "7 天前"
-    },
     {
       "title": "Spatial Resolution Matters: Choosing the Right Imagery for Geospatial AI Models",
       "summary": "Artificial intelligence has transformed how we analyse imagery.",
@@ -26,7 +15,7 @@
       "group": "gis",
       "published": "2026-07-24T07:02:18.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
     },
     {
       "title": "Strengthening Sovereignty, Economy, and Society",
@@ -48,7 +37,7 @@
       "group": "gis",
       "published": "2026-07-22T06:03:33.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
     },
     {
       "title": "Alaska’s Coastline is Longer Than All the Other 49 States Combined",
@@ -62,6 +51,28 @@
       "ago": "5 天前"
     },
     {
+      "title": "Discovering cryptographic weaknesses with Claude",
+      "summary": "Using Claude Mythos Preview, researchers at Anthropic have discovered improved ways to attack cryptographic algorithms (the mathematical methods used to keep online data private).",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-28T17:17:10.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Scientific computing in the age of agentic AI",
+      "summary": "A field report shows how scientists are using coding agents to modernize scientific software for genomics and other data-rich fields.",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-28T17:00:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
       "title": "Our position on open-weights models",
       "summary": "Over the last few days there has been a lot of discussion about open-weights models, especially those from China.",
       "url": "https://www.anthropic.com/news/position-open-weights-models",
@@ -70,18 +81,7 @@
       "group": "ai",
       "published": "2026-07-27T22:05:11.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Expanding our partnership with Cognizant",
-      "summary": "We're expanding our partnership with Cognizant , one of the world's largest technology services companies.",
-      "url": "https://www.anthropic.com/news/cognizant-anthropic",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-27T15:39:43.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
@@ -92,7 +92,7 @@
       "group": "ai",
       "published": "2026-07-28T09:18:57.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
@@ -103,29 +103,18 @@
       "group": "ai",
       "published": "2026-07-27T18:00:00.000Z",
       "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "The path to artificial superintelligence",
-      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy.",
-      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-07-27T12:00:00.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Closing the data loop in AI-driven drug discovery",
-      "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage.",
-      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "summary": "Managed Agents in Gemini API now default to Gemini 3.6 Flash. New environment hooks let you block, lint, or audit tool calls inside the sandbox.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "source": "Google AI Blog",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-07-27T11:40:16.000Z",
+      "published": "2026-07-28T16:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "7 小時前"
     }
   ],
   "errors": []

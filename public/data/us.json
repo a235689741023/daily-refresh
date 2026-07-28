@@ -1,11 +1,44 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-07-28T15:09:24.290Z",
-  "updatedLocal": "2026/7/28 23:09:24",
+  "updated": "2026-07-28T23:27:52.399Z",
+  "updatedLocal": "2026/7/29 07:27:52",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
+      "summary": "The letter was sent as the public comment period for the CFTC's first proposed rule on prediction market regulation expired Monday evening.",
+      "url": "https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-28T18:27:43.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say",
+      "summary": "Meta is set to report earnings after the market close Wednesday, and traders on prediction market platform Kalshi think the Instagram parent will use its conference call to highlight its Ray-Ban Meta smart glasses and push into the cloud market, while steering clear of social media policy debates.",
+      "url": "https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-28T17:40:03.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
+      "summary": "Imagine telling an AI agent how much risk you're willing to take, your retirement goals and when your kids will start college — then letting it manage your portfolio while you sleep.",
+      "url": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-28T16:16:25.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
       "summary": "Visa , which runs the world's largest payments network, plans to cut about 7% of its workforce as CEO Ryan McInerney moves to streamline the company and invest more in growth areas, according to a memo confirmed by CNBC.",
@@ -13,9 +46,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-28T14:42:56.000Z",
+      "published": "2026-07-28T15:35:48.000Z",
       "why": null,
-      "ago": "26 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
@@ -26,40 +59,29 @@
       "group": null,
       "published": "2026-07-27T18:06:35.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Tech fund manager says the market is misreading Alphabet’s second-quarter earnings",
+      "title": "Seagate’s earnings are welcome news for the battered AI trade",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/tech-fund-manager-says-the-market-is-misreading-second-quarter-earnings-9823461b?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/seagates-earnings-are-welcome-news-for-the-battered-ai-trade-92dfc30f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-28T14:59:00.000Z",
+      "published": "2026-07-28T22:17:00.000Z",
       "why": null,
-      "ago": "10 分鐘前"
+      "ago": "1 小時前"
     },
     {
-      "title": "PayPal delivers an earnings beat — and suggests it’s not against a merger deal",
+      "title": "Medicare is about to change a drug program that held down the cost of premiums. Here’s what to know.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/paypal-delivers-an-earnings-beat-as-investors-await-updates-on-possible-merger-105930b7?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-28T14:47:00.000Z",
+      "published": "2026-07-28T22:06:00.000Z",
       "why": null,
-      "ago": "22 分鐘前"
-    },
-    {
-      "title": "The Fed isn’t your biggest worry. The central-bank decision that actually impacts your 401(k) lands in Tokyo.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-fed-isnt-your-biggest-worry-the-central-bank-decision-that-actually-impacts-your-401-k-lands-in-tokyo-fc9d22c8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-28T14:30:00.000Z",
-      "why": null,
-      "ago": "39 分鐘前"
+      "ago": "1 小時前"
     },
     {
       "title": "Micron’s stock sinks toward worst monthly drop in 11 years as China fears escalate",
@@ -68,53 +90,31 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-28T14:25:00.000Z",
+      "published": "2026-07-28T21:56:00.000Z",
       "why": null,
-      "ago": "44 分鐘前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Roth conversions as early as your 20s and 30s? It’s not a crazy idea.",
+      "title": "Bloom Energy sees sales top $1 billion as AI proves a validation moment for fuel-cell technology",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/roth-conversions-as-early-as-your-20s-and-30s-its-not-a-crazy-idea-1f028e24?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/bloom-energy-sees-sales-top-1-billion-as-ai-proves-a-validation-moment-for-fuel-cell-technology-5cb69476?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-28T14:15:00.000Z",
+      "published": "2026-07-28T21:17:00.000Z",
       "why": null,
-      "ago": "54 分鐘前"
+      "ago": "2 小時前"
     },
     {
-      "title": "As chips sell off, rattled investors should heed this Cisco Systems lesson from the last millennium",
+      "title": "Leveraged ETFs tied to SK Hynix are getting hammered as chip wreck deepens",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/as-semis-sell-off-rattled-investors-should-heed-last-millenniums-lesson-from-cisco-systems-4bb53304?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/leveraged-etfs-tied-to-sk-hynix-are-getting-hammered-as-chip-wreck-deepens-5303c33c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-28T14:14:00.000Z",
+      "published": "2026-07-28T21:08:00.000Z",
       "why": null,
-      "ago": "55 分鐘前"
-    },
-    {
-      "title": "Las Vegas home prices post largest drop in the nation",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/las-vegas-home-prices-post-largest-drop-in-the-nation-d39d6ecd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-28T14:02:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "How coordinating 401(k) contributions with your spouse can unlock thousands in retirement wealth",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/how-coordinating-401-k-contributions-with-your-spouse-can-unlock-thousands-in-retirement-wealth-b5c5d733?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-28T14:00:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
+      "ago": "2 小時前"
     }
   ],
   "errors": []
