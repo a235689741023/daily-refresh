@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-29T15:02:38.087Z",
-  "updatedLocal": "2026/7/29 23:02:38",
+  "updated": "2026-07-29T23:28:26.958Z",
+  "updatedLocal": "2026/7/30 07:28:26",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Esri's approach to responsible AI",
+      "summary": "Organizations are making real progress with AI. Workflows are faster. Repetitive tasks that once absorbed days of analyst time now get done in minutes.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis/geoai/esris-approach-responsible-ai-enterprise",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-07-28T16:18:00.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
     {
       "title": "Spatial Resolution Matters: Choosing the Right Imagery for Geospatial AI Models",
       "summary": "Artificial intelligence has transformed how we analyse imagery.",
@@ -15,80 +26,85 @@
       "group": "gis",
       "published": "2026-07-24T07:02:18.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
-      "title": "Discovering cryptographic weaknesses with Claude",
-      "summary": "Using Claude Mythos Preview, researchers at Anthropic have discovered improved ways to attack cryptographic algorithms (the mathematical methods used to keep online data private).",
-      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-28T17:17:10.000Z",
+      "title": "Alaska’s Coastline is Longer Than All the Other 49 States Combined",
+      "summary": "Alaska is a land of geographic extremes. It contains the nation’s highest mountain, more lakes than any other state, and more than 100,000 glaciers and ice fields.",
+      "url": "https://www.geographyrealm.com/alaskas-coastline-is-longer-than-all-the-other-49-states-combined/",
+      "source": "GIS Lounge",
+      "tag": "應用",
+      "group": "gis",
+      "published": "2026-07-23T23:21:00.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "6 天前"
     },
     {
-      "title": "Scientific computing in the age of agentic AI",
-      "summary": "A field report shows how scientists are using coding agents to modernize scientific software for genomics and other data-rich fields.",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "summary": "A sped-up video of GPT‑5.6 Sol attempting to solve puzzles in the ARC-AGI-3 benchmark, with the official harness (left) and our Responses API harness (right), which retains reasoning and enables compaction.",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-07-28T17:00:00.000Z",
+      "published": "2026-07-29T15:00:00.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "8 小時前"
     },
     {
-      "title": "The AI Hype Index: Unsexy AI",
-      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner?",
-      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-07-29T08:42:57.000Z",
-      "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-      "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects.",
-      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-07-28T09:18:57.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "summary": "Managed Agents in Gemini API now default to Gemini 3.6 Flash. New environment hooks let you block, lint, or audit tool calls inside the sandbox.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "source": "Google AI Blog",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "summary": "We’re putting our frontier models and tools in the hands of 100,000 scientists, mathematicians, and engineers—at no cost.",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-07-28T16:00:00.000Z",
+      "published": "2026-07-29T10:00:00.000Z",
+      "why": null,
+      "ago": "13 小時前"
+    },
+    {
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "summary": "We designed the GPT‑5.6 model family to balance capability and cost across the spectrum of tasks people use our m odels for.",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-29T00:00:00.000Z",
       "why": null,
       "ago": "23 小時前"
     },
     {
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "summary": "Here’s how Search's AI tools can help you make the most of your time offline, whether you want to book concert tickets or find the perfect hiking boots.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "source": "Google AI Blog",
+      "title": "Cryptanalysis of 7-Round AES via the Algebraic Structure of its S-box - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/c88771e1bf5ee8885349eed05e5484c0e5f7e02b/aes_mobius_bridge.pdf",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-07-28T13:00:00.000Z",
+      "published": "2026-07-28T18:50:35.000Z",
       "why": null,
       "ago": "昨日"
+    },
+    {
+      "title": "HAWK-n Key Recovery Reduces to SVP in Dimension n/2+1 - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/e8d50c167ad47beeb03d6109a4a484be95cb38ea/hawk_key_recovery.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-28T17:38:37.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "summary": "Our newest music generation model, Lyria 3.5, delivers significant advancements across musicality, lyrics, and vocal quality, empowering you to craft richer tracks.",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "source": "Google DeepMind",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-29T16:02:10.000Z",
+      "why": null,
+      "ago": "7 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "GIS Lounge",
-      "url": "https://www.gislounge.com/feed/",
-      "message": "HTTP 403 Forbidden"
-    }
-  ]
+  "errors": []
 }

@@ -1,11 +1,77 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-07-29T15:02:38.087Z",
-  "updatedLocal": "2026/7/29 23:02:38",
+  "updated": "2026-07-29T23:28:26.958Z",
+  "updatedLocal": "2026/7/30 07:28:26",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
+      "summary": "BEIJING — The artificial intelligence race between the U.S. and China is heating up in the world's largest continent: Asia.",
+      "url": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-29T23:10:46.000Z",
+      "why": null,
+      "ago": "18 分鐘前"
+    },
+    {
+      "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
+      "summary": "The Dow Jones Industrial Average fell more than 1,000 points on Wednesday after the Federal Reserve decided to keep interest rates steady while U.S. oil neared $85 per barrel.",
+      "url": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-29T21:43:50.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Here are the five big takeaways from this week's Fed meeting",
+      "summary": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change, and Chairman Kevin Warsh offered little direction in his news conference.",
+      "url": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-29T22:54:09.000Z",
+      "why": null,
+      "ago": "34 分鐘前"
+    },
+    {
+      "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
+      "summary": "DoubleLine Capital CEO Jeffrey Gundlach said the Treasury market is signaling that the Federal Reserve will need to do more than talk tough if policymakers are serious about reaching their 2% inflation target.",
+      "url": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-29T22:20:18.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Here's what changed in the second Fed statement under Warsh",
+      "summary": "Economists and investors got their latest look at the Federal Reserve 's new era of communication with Wednesday's Federal Open Market Committee statement.",
+      "url": "https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-29T18:48:02.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Divided Fed holds interest rates steady, but three members voted to hike",
+      "summary": "WASHINGTON – The Federal Reserve on Wednesday voted to hold its key interest rate steady but not without opposition from three officials who have expressed concern over inflation and wanted to hike.",
+      "url": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-29T18:58:16.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
     {
       "title": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
       "summary": "The letter was sent as the public comment period for the CFTC's first proposed rule on prediction market regulation expired Monday evening.",
@@ -15,7 +81,7 @@
       "group": null,
       "published": "2026-07-28T18:27:43.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say",
@@ -26,95 +92,29 @@
       "group": null,
       "published": "2026-07-28T17:40:03.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
-      "summary": "Imagine telling an AI agent how much risk you're willing to take, your retirement goals and when your kids will start college — then letting it manage your portfolio while you sleep.",
-      "url": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "What a divided Fed means for investors",
+      "summary": "Wall Street has a clear takeaway from this week's Federal Reserve decision: A hike is likely on the horizon as inflation remains a top priority.",
+      "url": "https://www.cnbc.com/2026/07/29/fed-meeting-interest-rates-warsh-stocks-bonds.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-07-28T16:16:25.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
-      "summary": "Visa , which runs the world's largest payments network, plans to cut about 7% of its workforce as CEO Ryan McInerney moves to streamline the company and invest more in growth areas, according to a memo confirmed by CNBC.",
-      "url": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-28T15:35:48.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "‘We already have wills’: We’re in our 60s with $1.5 million. Should we set up a trust to prevent conflict among our heirs?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-29T15:00:00.000Z",
-      "why": null,
-      "ago": "3 分鐘前"
-    },
-    {
-      "title": "Medicare is about to change a drug program that held down the cost of premiums. Here’s what to know.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-29T14:31:00.000Z",
-      "why": null,
-      "ago": "32 分鐘前"
-    },
-    {
-      "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-29T14:27:00.000Z",
-      "why": null,
-      "ago": "36 分鐘前"
-    },
-    {
-      "title": "This country is buying up the most homes in America right now, even as international sales dry up",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/this-country-is-buying-up-the-most-homes-in-america-right-now-even-as-international-sales-dry-up-c8b2afbb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-29T14:20:00.000Z",
+      "published": "2026-07-29T22:45:18.000Z",
       "why": null,
       "ago": "43 分鐘前"
     },
     {
-      "title": "My stepdad is in the military and dying of cancer. Will my mom automatically get his money?",
+      "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/my-stepdad-is-dying-from-cancer-how-can-i-help-my-mom-find-out-if-shell-get-his-assets-8a10bad2?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-29T14:12:00.000Z",
+      "published": "2026-07-29T23:00:00.000Z",
       "why": null,
-      "ago": "51 分鐘前"
-    },
-    {
-      "title": "Economy is poised to show strong second-quarter growth — but only after a look under the hood",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/economy-is-poised-to-show-strong-second-quarter-growth-but-only-after-a-look-under-the-hood-8fd3615d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-29T14:09:00.000Z",
-      "why": null,
-      "ago": "54 分鐘前"
+      "ago": "28 分鐘前"
     }
   ],
   "errors": []

@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-07-29T15:02:38.087Z",
-  "updatedLocal": "2026/7/29 23:02:38",
+  "updated": "2026-07-29T23:28:26.958Z",
+  "updatedLocal": "2026/7/30 07:28:26",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "What’s next: Key climate and nature standards in 2026",
+      "summary": "Welcome to the Trellis timeline of updates and public consultations regarding voluntary net zero, carbon accounting, nature and circular economy standards — both established guidance and emerging frameworks.",
+      "url": "https://trellis.net/article/timeline-key-climate-nature-methodologies/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-29T21:51:39.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "Walmart delivers mixed results on mid-decade sustainability goals",
       "summary": "Walmart fell short on many of its environmental pledges for 2025, an outcome it foreshadowed in December 2024.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-07-29T13:59:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "GHG Protocol adjusts standards update timelines",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-07-29T12:15:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "9 must-read books for sustainability pros (2026 edition)",
@@ -37,18 +48,29 @@
       "group": null,
       "published": "2026-07-29T10:00:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
-      "title": "Is incrementalism enough in a systems-change world?",
-      "summary": "Here’s a question that’s been keeping me up at night: Are sustainability professionals — all of us, individually and collectively — working at the wrong level?",
-      "url": "https://trellis.net/article/is-incrementalism-enough-in-a-systems-change-world/",
-      "source": "Trellis",
+      "title": "Can Europe’s insurers keep up as wildfires drive rising climate losses?",
+      "summary": "Wildfires across France and Spain this summer are expected to increase demand for reinsurance, according to Swiss Re.",
+      "url": "https://www.edie.net/can-europes-insurers-keep-up-as-wildfires-drive-rising-climate-losses/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-07-28T10:00:00.000Z",
+      "published": "2026-07-29T16:18:34.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "7 小時前"
+    },
+    {
+      "title": "AstraZeneca electrifies 80% of global fleet in push for net-zero",
+      "summary": "AstraZeneca has confirmed that by the end of 2025, over 80% of its global fleet had made the switch to zero-emissions, battery electric vehicles (BEVs).",
+      "url": "https://www.edie.net/astrazeneca-electrifies-80-of-global-fleet-in-push-for-net-zero/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-29T15:04:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Ofgem targets speculative data centres to unlock grid capacity",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-07-29T14:33:35.000Z",
       "why": null,
-      "ago": "29 分鐘前"
+      "ago": "9 小時前"
     },
     {
       "title": "GHG Protocol outlines next phase of carbon accounting standards",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-07-29T13:58:18.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Why better data is leading to more companies making sustainability metric adjustments",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-07-29T13:24:29.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Most countries failed to meet target on nature-harming subsidies, study finds",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-07-29T12:37:03.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "The hidden risk in waiting to buy carbon credits",
-      "summary": "Most companies have spent the past decade building climate strategies. The next challenge isn't setting the target – it's securing the resources needed to achieve it.",
-      "url": "https://www.edie.net/the-hidden-risk-in-waiting-to-buy-carbon-credits/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-29T10:38:23.000Z",
-      "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "Report: Global battery energy storage set to grow six-fold by 2030",
-      "summary": "To support ongoing renewables expansion, the battery energy storage market is expected to grow six-fold worldwide by the end of the decade, with China and the US leading the charge.",
-      "url": "https://www.edie.net/report-global-battery-energy-storage-set-to-grow-six-fold-by-2030/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-28T17:09:26.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "11 小時前"
     }
   ],
   "errors": []
