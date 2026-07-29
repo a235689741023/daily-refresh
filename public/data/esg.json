@@ -1,11 +1,44 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-07-29T05:55:40.717Z",
-  "updatedLocal": "2026/7/29 13:55:40",
+  "updated": "2026-07-29T15:02:38.087Z",
+  "updatedLocal": "2026/7/29 23:02:38",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Walmart delivers mixed results on mid-decade sustainability goals",
+      "summary": "Walmart fell short on many of its environmental pledges for 2025, an outcome it foreshadowed in December 2024.",
+      "url": "https://trellis.net/article/walmart-progress-2025-sustainability-goals/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-29T13:59:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "GHG Protocol adjusts standards update timelines",
+      "summary": "The Greenhouse Gas (GHG) Protocol is extending the timeline for big updates to its corporate carbon accounting standards, which haven’t seen major revisions for more than a decade.",
+      "url": "https://trellis.net/article/ghg-protocol-adjusts-standards-update-timelines/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-29T12:15:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "9 must-read books for sustainability pros (2026 edition)",
+      "summary": "In 1962, marine biologist Rachel Carson published “Silent Spring,” her meticulously documented case against the indiscriminate use of pesticides.",
+      "url": "https://trellis.net/article/9-must-read-books-sustainability-pros/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-29T10:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
     {
       "title": "Is incrementalism enough in a systems-change world?",
       "summary": "Here’s a question that’s been keeping me up at night: Are sustainability professionals — all of us, individually and collectively — working at the wrong level?",
@@ -15,7 +48,62 @@
       "group": null,
       "published": "2026-07-28T10:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Ofgem targets speculative data centres to unlock grid capacity",
+      "summary": "The regulator aims to free up more space in the grid connections queue for investment-ready, viable projects, as MPs launch an inquiry into the UK's data centre future.",
+      "url": "https://www.edie.net/ofgem-targets-speculative-data-centres-to-unlock-grid-capacity/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-29T14:33:35.000Z",
+      "why": null,
+      "ago": "29 分鐘前"
+    },
+    {
+      "title": "GHG Protocol outlines next phase of carbon accounting standards",
+      "summary": "The Greenhouse Gas (GHG) Protocol has announced key updates to its standards overhaul, including confirming plans to create a harmonised framework with the International Organization for Standardization (ISO).",
+      "url": "https://www.edie.net/ghg-protocol-outlines-next-phase-of-carbon-accounting-standards/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-29T13:58:18.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Why better data is leading to more companies making sustainability metric adjustments",
+      "summary": "Research from Deloitte has found that more than two-thirds of FTSE 100 companies adjusted their climate and sustainability metrics last year, pointing to better data, rather than a step back in ambitions.",
+      "url": "https://www.edie.net/why-better-data-is-leading-to-more-companies-making-sustainability-metric-adjustments/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-29T13:24:29.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Most countries failed to meet target on nature-harming subsidies, study finds",
+      "summary": "According to new research from Carbon Brief, 84% of nations failed to identify all of their subsidies that could be “harmful” to biodiversity by the 2025 deadline.",
+      "url": "https://www.edie.net/most-countries-failed-to-meet-target-on-nature-harming-subsidies-study-finds/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-29T12:37:03.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "The hidden risk in waiting to buy carbon credits",
+      "summary": "Most companies have spent the past decade building climate strategies. The next challenge isn't setting the target – it's securing the resources needed to achieve it.",
+      "url": "https://www.edie.net/the-hidden-risk-in-waiting-to-buy-carbon-credits/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-07-29T10:38:23.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "Report: Global battery energy storage set to grow six-fold by 2030",
@@ -26,95 +114,7 @@
       "group": null,
       "published": "2026-07-28T17:09:26.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "How are tighter budgets reshaping the sustainability profession?",
-      "summary": "The sustainability profession is entering a period of change as organisations rethink how dedicated sustainability functions are structured and funded, new research suggests.",
-      "url": "https://www.edie.net/how-are-tighter-budgets-reshaping-the-sustainability-profession/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-28T15:25:26.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Virgin Media O2 launches interactive pilot to encourage tech reuse",
-      "summary": "Virgin Media O2 is piloting the ‘O2 Tech Refab Lab’ at its flagship Westfield Stratford City store, featuring discovery zones where customers can learn how devices can receive a second life.",
-      "url": "https://www.edie.net/virgin-media-o2-launches-interactive-pilot-to-encourage-tech-reuse/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-28T15:21:45.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "NGOs call on PM to tackle inequality amid North Sea drilling rumours",
-      "summary": "Almost 100 charity leaders, including from Oxfam, ActionAid and WaterAid, have urged Prime Minister (PM) Andy Burnham to help address the root causes of poverty, including climate change.",
-      "url": "https://www.edie.net/ngos-call-on-pm-to-tackle-inequality-at-home-and-abroad/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-28T14:57:31.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Getting ahead: Five ways to future-proof supply chains",
-      "summary": "From climate shocks and water scarcity to geopolitical tensions and resource constraints, supply chain disruption has become a defining business risk.",
-      "url": "https://www.edie.net/getting-ahead-five-ways-to-future-proof-supply-chains/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-28T12:44:09.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Fossil fuel giants to double profits as emissions spike, research finds",
-      "summary": "Fossil fuel firms including BP, Chevron, and Shell are expected to double their combined net income to $45bn this quarter, with research stating that emissions from the world’s largest oil and gas businesses were sufficient to cause one quarter of heatwaves experienced in the last 20 years.",
-      "url": "https://www.edie.net/fossil-fuel-giants-to-double-profits-as-emissions-spike-research-finds/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-28T10:03:19.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Analysis: Wind and solar power overtake fossil fuels in Germany for first time ever",
-      "summary": "More of Germany’s electricity came from wind and solar power than fossil fuels for the first time ever in 2025.",
-      "url": "https://www.carbonbrief.org/analysis-wind-and-solar-power-overtake-fossil-fuels-in-germany-for-first-time-ever",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-07-28T11:49:20.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Analysis: 84% of nations miss deadline to identify ‘nature-harming’ subsidies by 2025",
-      "summary": "Most countries failed to meet a 2025 target to identify all of their subsidies that could be “harmful” to biodiversity, according to Carbon Brief analysis.",
-      "url": "https://www.carbonbrief.org/analysis-84-of-nations-miss-deadline-to-identify-nature-harming-subsidies-by-2025",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-07-28T11:41:55.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "7月「熱帶夜」頻率逾八成、冰島航空布局綠能機隊、日本熊本規模7.1強震",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243705",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-07-29T03:23:22.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "22 小時前"
     }
   ],
   "errors": []

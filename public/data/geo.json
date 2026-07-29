@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-29T05:55:40.717Z",
-  "updatedLocal": "2026/7/29 13:55:40",
+  "updated": "2026-07-29T15:02:38.087Z",
+  "updatedLocal": "2026/7/29 23:02:38",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,39 +18,6 @@
       "ago": "5 天前"
     },
     {
-      "title": "Strengthening Sovereignty, Economy, and Society",
-      "summary": null,
-      "url": "https://geospatialworld.net/prime/interviews/strengthening-sovereignty-economy-and-society/",
-      "source": "Geospatial World",
-      "tag": "產業",
-      "group": "gis",
-      "published": "2026-07-22T11:55:40.000Z",
-      "why": null,
-      "ago": "7 天前"
-    },
-    {
-      "title": "Mapping Urban Heat Islands in Ahemedabad",
-      "summary": null,
-      "url": "https://geospatialworld.net/videos/mapping-urban-heat-islands-ahmedabad/",
-      "source": "Geospatial World",
-      "tag": "產業",
-      "group": "gis",
-      "published": "2026-07-22T06:03:33.000Z",
-      "why": null,
-      "ago": "7 天前"
-    },
-    {
-      "title": "Alaska’s Coastline is Longer Than All the Other 49 States Combined",
-      "summary": "Alaska is a land of geographic extremes. It contains the nation’s highest mountain, more lakes than any other state, and more than 100,000 glaciers and ice fields.",
-      "url": "https://www.geographyrealm.com/alaskas-coastline-is-longer-than-all-the-other-49-states-combined/",
-      "source": "GIS Lounge",
-      "tag": "應用",
-      "group": "gis",
-      "published": "2026-07-23T23:21:00.000Z",
-      "why": null,
-      "ago": "5 天前"
-    },
-    {
       "title": "Discovering cryptographic weaknesses with Claude",
       "summary": "Using Claude Mythos Preview, researchers at Anthropic have discovered improved ways to attack cryptographic algorithms (the mathematical methods used to keep online data private).",
       "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
@@ -59,7 +26,7 @@
       "group": "ai",
       "published": "2026-07-28T17:17:10.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Scientific computing in the age of agentic AI",
@@ -70,7 +37,18 @@
       "group": "ai",
       "published": "2026-07-28T17:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
+    },
+    {
+      "title": "The AI Hype Index: Unsexy AI",
+      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner?",
+      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-07-29T08:42:57.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
@@ -81,7 +59,7 @@
       "group": "ai",
       "published": "2026-07-28T09:18:57.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
@@ -92,7 +70,7 @@
       "group": "ai",
       "published": "2026-07-28T16:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "5 ways AI Mode in Search helps you enjoy the real world",
@@ -103,19 +81,14 @@
       "group": "ai",
       "published": "2026-07-28T13:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "source": "Google AI Blog",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-28T13:00:00.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "GIS Lounge",
+      "url": "https://www.gislounge.com/feed/",
+      "message": "HTTP 403 Forbidden"
+    }
+  ]
 }
