@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-28T23:27:52.399Z",
-  "updatedLocal": "2026/7/29 07:27:52",
+  "updated": "2026-07-29T05:55:40.717Z",
+  "updatedLocal": "2026/7/29 13:55:40",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-07-22T11:55:40.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
     },
     {
       "title": "Mapping Urban Heat Islands in Ahemedabad",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-07-28T17:17:10.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Scientific computing in the age of agentic AI",
@@ -70,18 +70,7 @@
       "group": "ai",
       "published": "2026-07-28T17:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "Our position on open-weights models",
-      "summary": "Over the last few days there has been a lot of discussion about open-weights models, especially those from China.",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-27T22:05:11.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "13 小時前"
     },
     {
       "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
@@ -92,18 +81,7 @@
       "group": "ai",
       "published": "2026-07-28T09:18:57.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-      "summary": "Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face , another AI company, was the first time I got genuine chills about what large language models are now able to do.",
-      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-07-27T18:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "21 小時前"
     },
     {
       "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
@@ -114,7 +92,29 @@
       "group": "ai",
       "published": "2026-07-28T16:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
+    },
+    {
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "summary": "Here’s how Search's AI tools can help you make the most of your time offline, whether you want to book concert tickets or find the perfect hiking boots.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "source": "Google AI Blog",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-28T13:00:00.000Z",
+      "why": null,
+      "ago": "17 小時前"
+    },
+    {
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "source": "Google AI Blog",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-28T13:00:00.000Z",
+      "why": null,
+      "ago": "17 小時前"
     }
   ],
   "errors": []
