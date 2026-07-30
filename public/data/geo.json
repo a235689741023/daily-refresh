@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-30T05:44:19.111Z",
-  "updatedLocal": "2026/7/30 13:44:19",
+  "updated": "2026-07-30T14:59:04.879Z",
+  "updatedLocal": "2026/7/30 22:59:04",
   "digest": null,
   "watch": [],
   "items": [
@@ -10,12 +10,34 @@
       "title": "Esri's approach to responsible AI",
       "summary": "Organizations are making real progress with AI. Workflows are faster. Repetitive tasks that once absorbed days of analyst time now get done in minutes.",
       "url": "https://www.esri.com/arcgis-blog/products/arcgis/geoai/esris-approach-responsible-ai-enterprise",
-      "source": "esri.com",
+      "source": "Esri",
       "tag": "平台",
       "group": "gis",
       "published": "2026-07-28T16:18:00.000Z",
       "why": null,
       "ago": "2 天前"
+    },
+    {
+      "title": "Infrastructure Isn’t Just Built Anymore. It Thinks",
+      "summary": null,
+      "url": "https://geospatialworld.net/videos/intelligent-infrastructure-aec-summit-gwf-2026/",
+      "source": "Geospatial World",
+      "tag": "產業",
+      "group": "gis",
+      "published": "2026-07-30T06:50:27.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Spatial Resolution Matters: Choosing the Right Imagery for Geospatial AI Models",
+      "summary": "Artificial intelligence has transformed how we analyse imagery.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/spatial-resolution-matters-choosing-the-right-imagery-for-geospatial-ai-models",
+      "source": "Esri",
+      "tag": "研究",
+      "group": "gis",
+      "published": "2026-07-24T07:02:18.000Z",
+      "why": null,
+      "ago": "6 天前"
     },
     {
       "title": "Alaska’s Coastline is Longer Than All the Other 49 States Combined",
@@ -26,7 +48,7 @@
       "group": "gis",
       "published": "2026-07-23T23:21:00.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
     },
     {
       "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
@@ -37,7 +59,7 @@
       "group": "ai",
       "published": "2026-07-29T15:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
@@ -47,17 +69,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-07-29T10:00:00.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "summary": "We designed the GPT‑5.6 model family to balance capability and cost across the spectrum of tasks people use our m odels for.",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-29T00:00:00.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -70,29 +81,40 @@
       "group": "ai",
       "published": "2026-07-29T16:02:10.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "The AI Hype Index: Unsexy AI",
-      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner?",
-      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning , a top AI conference, this month.",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
       "source": "MIT Tech Review",
       "tag": "趨勢",
       "group": "ai",
-      "published": "2026-07-29T08:42:57.000Z",
+      "published": "2026-07-30T10:15:19.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "5 小時前"
     },
     {
-      "title": "Finance Media Analysis: EU AI Act Sets Global Compliance Benchmark but Risks Widening Europe's AI Investment Gap",
-      "summary": null,
-      "url": "https://www.einnews.com/pr_news/930221234/finance-media-analysis-eu-ai-act-sets-global-compliance-benchmark-but-risks-widening-europe-s-ai-investment-gap",
-      "source": "EIN News",
+      "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
+      "summary": "Back to school means balancing assignments, deadlines and downtime. GeForce NOW makes it easy to have it all.",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
+      "group": "ai",
+      "published": "2026-07-30T13:00:20.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Brussels Gains New AI Act Enforcement Powers as Autonomous AI Tests Regulators",
+      "summary": "Brussels gains new enforcement powers under the AI Act on Aug. 2, when the European Commission can begin fully enforcing the rules for providers of general-purpose AI (GPAI) models .",
+      "url": "https://www.techpolicy.press/-brussels-gains-new-ai-act-enforcement-powers-as-autonomous-ai-tests-regulators/",
+      "source": "Tech Policy Press",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-07-29T13:35:00.000Z",
+      "published": "2026-07-30T07:59:49.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "7 小時前"
     }
   ],
   "errors": []

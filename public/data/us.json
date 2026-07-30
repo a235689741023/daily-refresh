@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-07-30T05:44:19.111Z",
-  "updatedLocal": "2026/7/30 13:44:19",
+  "updated": "2026-07-30T14:59:04.879Z",
+  "updatedLocal": "2026/7/30 22:59:04",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-07-30T02:52:30.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-07-29T23:10:46.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
@@ -35,9 +35,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-29T21:43:50.000Z",
+      "published": "2026-07-30T13:39:36.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "1 小時前"
     },
     {
       "title": "Here are the five big takeaways from this week's Fed meeting",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-07-29T22:54:09.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-07-29T22:20:18.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Here's what changed in the second Fed statement under Warsh",
@@ -68,9 +68,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-29T18:48:02.000Z",
+      "published": "2026-07-30T13:42:07.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "1 小時前"
     },
     {
       "title": "Divided Fed holds interest rates steady, but three members voted to hike",
@@ -81,7 +81,18 @@
       "group": null,
       "published": "2026-07-29T18:58:16.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "20 小時前"
+    },
+    {
+      "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+      "summary": "Economic growth was weaker than expected in the second quarter though underlying drivers were mostly solid.",
+      "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-07-30T14:03:08.000Z",
+      "why": null,
+      "ago": "56 分鐘前"
     },
     {
       "title": "What a divided Fed means for investors",
@@ -92,29 +103,18 @@
       "group": null,
       "published": "2026-07-29T23:36:34.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "15 小時前"
     },
     {
-      "title": "Ford’s big-truck bet is paying off — and Wall Street is taking notice",
+      "title": "Americans are spending plenty — but they’re saving much less",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/fords-big-truck-bet-is-paying-off-and-wall-street-is-taking-notice-6a1de0fb?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/americans-are-spending-plenty-but-theyre-saving-much-less-ffb995d2?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-30T01:02:00.000Z",
+      "published": "2026-07-30T14:40:00.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Why SoFi’s stock drops, even after its earnings beat expectations",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-30T01:01:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
+      "ago": "19 分鐘前"
     }
   ],
   "errors": []
