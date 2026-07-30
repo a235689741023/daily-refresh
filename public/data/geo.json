@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-30T14:59:04.879Z",
-  "updatedLocal": "2026/7/30 22:59:04",
+  "updated": "2026-07-30T23:31:17.511Z",
+  "updatedLocal": "2026/7/31 07:31:17",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-07-30T06:50:27.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Spatial Resolution Matters: Choosing the Right Imagery for Geospatial AI Models",
@@ -37,51 +37,40 @@
       "group": "gis",
       "published": "2026-07-24T07:02:18.000Z",
       "why": null,
-      "ago": "6 天前"
-    },
-    {
-      "title": "Alaska’s Coastline is Longer Than All the Other 49 States Combined",
-      "summary": "Alaska is a land of geographic extremes. It contains the nation’s highest mountain, more lakes than any other state, and more than 100,000 glaciers and ice fields.",
-      "url": "https://www.geographyrealm.com/alaskas-coastline-is-longer-than-all-the-other-49-states-combined/",
-      "source": "GIS Lounge",
-      "tag": "應用",
-      "group": "gis",
-      "published": "2026-07-23T23:21:00.000Z",
-      "why": null,
       "ago": "7 天前"
     },
     {
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "summary": "A sped-up video of GPT‑5.6 Sol attempting to solve puzzles in the ARC-AGI-3 benchmark, with the official harness (left) and our Responses API harness (right), which retains reasoning and enables compaction.",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "summary": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-30T23:03:16.000Z",
+      "why": null,
+      "ago": "28 分鐘前"
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "summary": "By making every layer more efficient, OpenAI is delivering stronger performance per dollar across more enterprise workloads.",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-07-29T15:00:00.000Z",
+      "published": "2026-07-30T10:00:00.000Z",
       "why": null,
-      "ago": "24 小時前"
+      "ago": "14 小時前"
     },
     {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "summary": "We’re putting our frontier models and tools in the hands of 100,000 scientists, mathematicians, and engineers—at no cost.",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-29T10:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "summary": "Our newest music generation model, Lyria 3.5, delivers significant advancements across musicality, lyrics, and vocal quality, empowering you to craft richer tracks.",
-      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "summary": "Gemini Robotics ER 2 represents a step change in powering robots with video understanding, task orchestration, and multi-robot collaboration — making it possible for robots to be more helpful in the physical world.",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
       "source": "Google DeepMind",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-07-29T16:02:10.000Z",
+      "published": "2026-07-30T15:00:59.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
@@ -92,7 +81,7 @@
       "group": "ai",
       "published": "2026-07-30T10:15:19.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
@@ -103,18 +92,18 @@
       "group": "ai",
       "published": "2026-07-30T13:00:20.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "Brussels Gains New AI Act Enforcement Powers as Autonomous AI Tests Regulators",
-      "summary": "Brussels gains new enforcement powers under the AI Act on Aug. 2, when the European Commission can begin fully enforcing the rules for providers of general-purpose AI (GPAI) models .",
-      "url": "https://www.techpolicy.press/-brussels-gains-new-ai-act-enforcement-powers-as-autonomous-ai-tests-regulators/",
-      "source": "Tech Policy Press",
+      "title": "Designing a FINRA for Frontier AI",
+      "summary": "A recent idea for governing frontier artificial intelligence (AI) has moved quickly.",
+      "url": "https://www.lawfaremedia.org/article/designing-a-finra-for-frontier-ai",
+      "source": "Lawfare",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-07-30T07:59:49.000Z",
+      "published": "2026-07-30T22:07:30.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "1 小時前"
     }
   ],
   "errors": []

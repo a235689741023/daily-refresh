@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-07-30T14:59:04.879Z",
-  "updatedLocal": "2026/7/30 22:59:04",
+  "updated": "2026-07-30T23:31:17.511Z",
+  "updatedLocal": "2026/7/31 07:31:17",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "China’s U.S.-bound shipments fall in July after brief recovery, survey shows",
+      "summary": "BEIJING — One of the Chinese economy's few growth drivers lost steam in July, according to the latest survey of businesses by China Beige Book.",
+      "url": "https://www.cnbc.com/2026/07/30/china-us-exports-drop.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-30T22:01:01.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
       "summary": "BEIJING — The U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance on product bans, China's commerce ministry said Thursday, threatening retaliation.",
@@ -15,18 +26,7 @@
       "group": null,
       "published": "2026-07-30T02:52:30.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
-      "summary": "BEIJING — The artificial intelligence race between the U.S. and China is heating up in the world's largest continent: Asia.",
-      "url": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-29T23:10:46.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
@@ -37,29 +37,7 @@
       "group": null,
       "published": "2026-07-30T13:39:36.000Z",
       "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Here are the five big takeaways from this week's Fed meeting",
-      "summary": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change, and Chairman Kevin Warsh offered little direction in his news conference.",
-      "url": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-29T22:54:09.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
-      "summary": "DoubleLine Capital CEO Jeffrey Gundlach said the Treasury market is signaling that the Federal Reserve will need to do more than talk tough if policymakers are serious about reaching their 2% inflation target.",
-      "url": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-29T22:20:18.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Here's what changed in the second Fed statement under Warsh",
@@ -70,7 +48,40 @@
       "group": null,
       "published": "2026-07-30T13:42:07.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "10 小時前"
+    },
+    {
+      "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
+      "summary": "BEIJING — The artificial intelligence race between the U.S. and China is heating up in the world's largest continent: Asia.",
+      "url": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-29T23:10:46.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Here are the five big takeaways from this week's Fed meeting",
+      "summary": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change, and Chairman Kevin Warsh offered little direction in his news conference.",
+      "url": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-29T22:54:09.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
+      "summary": "DoubleLine Capital CEO Jeffrey Gundlach said the Treasury market is signaling that the Federal Reserve will need to do more than talk tough if policymakers are serious about reaching their 2% inflation target.",
+      "url": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-29T22:20:18.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Divided Fed holds interest rates steady, but three members voted to hike",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-07-29T18:58:16.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
@@ -90,9 +101,9 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-07-30T14:03:08.000Z",
+      "published": "2026-07-30T15:04:43.000Z",
       "why": null,
-      "ago": "56 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "What a divided Fed means for investors",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-07-29T23:36:34.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Americans are spending plenty — but they’re saving much less",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/americans-are-spending-plenty-but-theyre-saving-much-less-ffb995d2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-30T14:40:00.000Z",
-      "why": null,
-      "ago": "19 分鐘前"
+      "ago": "24 小時前"
     }
   ],
   "errors": []
