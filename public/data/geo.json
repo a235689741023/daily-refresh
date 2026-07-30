@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-29T23:28:26.958Z",
-  "updatedLocal": "2026/7/30 07:28:26",
+  "updated": "2026-07-30T05:44:19.111Z",
+  "updatedLocal": "2026/7/30 13:44:19",
   "digest": null,
   "watch": [],
   "items": [
@@ -10,23 +10,12 @@
       "title": "Esri's approach to responsible AI",
       "summary": "Organizations are making real progress with AI. Workflows are faster. Repetitive tasks that once absorbed days of analyst time now get done in minutes.",
       "url": "https://www.esri.com/arcgis-blog/products/arcgis/geoai/esris-approach-responsible-ai-enterprise",
-      "source": "Esri",
+      "source": "esri.com",
       "tag": "平台",
       "group": "gis",
       "published": "2026-07-28T16:18:00.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Spatial Resolution Matters: Choosing the Right Imagery for Geospatial AI Models",
-      "summary": "Artificial intelligence has transformed how we analyse imagery.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/spatial-resolution-matters-choosing-the-right-imagery-for-geospatial-ai-models",
-      "source": "Esri",
-      "tag": "研究",
-      "group": "gis",
-      "published": "2026-07-24T07:02:18.000Z",
-      "why": null,
-      "ago": "6 天前"
+      "ago": "2 天前"
     },
     {
       "title": "Alaska’s Coastline is Longer Than All the Other 49 States Combined",
@@ -48,7 +37,7 @@
       "group": "ai",
       "published": "2026-07-29T15:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
@@ -59,7 +48,7 @@
       "group": "ai",
       "published": "2026-07-29T10:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
@@ -69,28 +58,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-07-29T00:00:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Cryptanalysis of 7-Round AES via the Algebraic Structure of its S-box - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/c88771e1bf5ee8885349eed05e5484c0e5f7e02b/aes_mobius_bridge.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-28T18:50:35.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "HAWK-n Key Recovery Reduces to SVP in Dimension n/2+1 - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/e8d50c167ad47beeb03d6109a4a484be95cb38ea/hawk_key_recovery.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-28T17:38:37.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -103,7 +70,29 @@
       "group": "ai",
       "published": "2026-07-29T16:02:10.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
+    },
+    {
+      "title": "The AI Hype Index: Unsexy AI",
+      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner?",
+      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-07-29T08:42:57.000Z",
+      "why": null,
+      "ago": "21 小時前"
+    },
+    {
+      "title": "Finance Media Analysis: EU AI Act Sets Global Compliance Benchmark but Risks Widening Europe's AI Investment Gap",
+      "summary": null,
+      "url": "https://www.einnews.com/pr_news/930221234/finance-media-analysis-eu-ai-act-sets-global-compliance-benchmark-but-risks-widening-europe-s-ai-investment-gap",
+      "source": "EIN News",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-07-29T13:35:00.000Z",
+      "why": null,
+      "ago": "16 小時前"
     }
   ],
   "errors": []

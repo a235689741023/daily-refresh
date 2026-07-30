@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-07-29T23:28:26.958Z",
-  "updatedLocal": "2026/7/30 07:28:26",
+  "updated": "2026-07-30T05:44:19.111Z",
+  "updatedLocal": "2026/7/30 13:44:19",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
+      "summary": "BEIJING — The U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance on product bans, China's commerce ministry said Thursday, threatening retaliation.",
+      "url": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-30T02:52:30.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
       "summary": "BEIJING — The artificial intelligence race between the U.S. and China is heating up in the world's largest continent: Asia.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-07-29T23:10:46.000Z",
       "why": null,
-      "ago": "18 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-07-29T21:43:50.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Here are the five big takeaways from this week's Fed meeting",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-07-29T22:54:09.000Z",
       "why": null,
-      "ago": "34 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-07-29T22:20:18.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Here's what changed in the second Fed statement under Warsh",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-07-29T18:48:02.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Divided Fed holds interest rates steady, but three members voted to hike",
@@ -70,29 +81,7 @@
       "group": null,
       "published": "2026-07-29T18:58:16.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
-      "summary": "The letter was sent as the public comment period for the CFTC's first proposed rule on prediction market regulation expired Monday evening.",
-      "url": "https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-28T18:27:43.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say",
-      "summary": "Meta is set to report earnings after the market close Wednesday, and traders on prediction market platform Kalshi think the Instagram parent will use its conference call to highlight its Ray-Ban Meta smart glasses and push into the cloud market, while steering clear of social media policy debates.",
-      "url": "https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-28T17:40:03.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "11 小時前"
     },
     {
       "title": "What a divided Fed means for investors",
@@ -101,20 +90,31 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-07-29T22:45:18.000Z",
+      "published": "2026-07-29T23:36:34.000Z",
       "why": null,
-      "ago": "43 分鐘前"
+      "ago": "6 小時前"
     },
     {
-      "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
+      "title": "Ford’s big-truck bet is paying off — and Wall Street is taking notice",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/fords-big-truck-bet-is-paying-off-and-wall-street-is-taking-notice-6a1de0fb?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-29T23:00:00.000Z",
+      "published": "2026-07-30T01:02:00.000Z",
       "why": null,
-      "ago": "28 分鐘前"
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Why SoFi’s stock drops, even after its earnings beat expectations",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-30T01:01:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     }
   ],
   "errors": []
