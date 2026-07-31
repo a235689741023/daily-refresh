@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-31T06:16:50.501Z",
-  "updatedLocal": "2026/7/31 14:16:50",
+  "updated": "2026-07-31T15:11:47.442Z",
+  "updatedLocal": "2026/7/31 23:11:47",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Experience the magic of Kosovo from anywhere with Street View",
+      "summary": "From unique modern architecture to a UNESCO World Heritage site, Kosovo's rich heritage and dynamic cityscapes are now available for anyone to explore with Google Street View.",
+      "url": "https://blog.google/products-and-platforms/products/maps/google-street-view-kosovo/",
+      "source": "Google Maps Blog",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-07-31T08:00:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "Infrastructure Isn’t Just Built Anymore. It Thinks",
       "summary": null,
@@ -15,7 +26,7 @@
       "group": "gis",
       "published": "2026-07-30T06:50:27.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Esri's approach to responsible AI",
@@ -29,15 +40,15 @@
       "ago": "3 天前"
     },
     {
-      "title": "Spatial Resolution Matters: Choosing the Right Imagery for Geospatial AI Models",
-      "summary": "Artificial intelligence has transformed how we analyse imagery.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/spatial-resolution-matters-choosing-the-right-imagery-for-geospatial-ai-models",
+      "title": "Action Required: ArcGIS Online and Location Platform SAML Customers",
+      "summary": "ArcGIS Online (and Location Platform) Organization administrators that have enabled Signed and/or Encrypted SAML Assertions in alignment with ArcGIS Online Best Practices for SAML Security must obtain the latest ArcGIS Online Service Provider metadata file + certificate and associate it with their Enterprise (SAML) Identity Provider (e.g. Entra ID Enterprise Applications ) before August 28, 2026 to ensure continued (SAML) login operations with ArcGIS Online.",
+      "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/action-required-arcgis-online-saml-customers",
       "source": "Esri",
-      "tag": "研究",
+      "tag": "平台",
       "group": "gis",
-      "published": "2026-07-24T07:02:18.000Z",
+      "published": "2026-07-28T07:00:00.000Z",
       "why": null,
-      "ago": "7 天前"
+      "ago": "3 天前"
     },
     {
       "title": "Investigating three real-world incidents in our cybersecurity evaluations",
@@ -48,7 +59,40 @@
       "group": "ai",
       "published": "2026-07-30T23:03:16.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "16 小時前"
+    },
+    {
+      "title": "Advancing responsible AI across Europe",
+      "summary": "Every day, millions of people across Europe use OpenAI’s tools to learn, create, work and manage everyday tasks.",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-31T15:00:00.000Z",
+      "why": null,
+      "ago": "12 分鐘前"
+    },
+    {
+      "title": "Building abundant intelligence",
+      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful. AI infrastructure is not valuable because it is large.",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-31T15:00:00.000Z",
+      "why": null,
+      "ago": "12 分鐘前"
+    },
+    {
+      "title": "Univé builds an AI-ready workforce",
+      "summary": "Univé is building an AI-ready workforce by combining strong leadership, responsible governance, and employee-led innovation with ChatGPT.",
+      "url": "https://openai.com/index/unive",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-31T07:00:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Advancing the price-performance frontier with GPT-5.6",
@@ -59,7 +103,7 @@
       "group": "ai",
       "published": "2026-07-30T10:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
@@ -70,47 +114,8 @@
       "group": "ai",
       "published": "2026-07-30T15:00:59.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning , a top AI conference, this month.",
-      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-07-30T10:15:19.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
-      "summary": "Back to school means balancing assignments, deadlines and downtime. GeForce NOW makes it easy to have it all.",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-07-30T13:00:20.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Designing a FINRA for Frontier AI",
-      "summary": "A recent idea for governing frontier artificial intelligence (AI) has moved quickly.",
-      "url": "https://www.lawfaremedia.org/article/designing-a-finra-for-frontier-ai",
-      "source": "Lawfare",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-07-30T22:13:46.000Z",
-      "why": null,
-      "ago": "8 小時前"
+      "ago": "昨日"
     }
   ],
-  "errors": [
-    {
-      "source": "GIS Lounge",
-      "url": "https://www.gislounge.com/feed/",
-      "message": "HTTP 403 Forbidden"
-    }
-  ]
+  "errors": []
 }

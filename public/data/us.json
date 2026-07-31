@@ -1,11 +1,55 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-07-31T06:16:50.501Z",
-  "updatedLocal": "2026/7/31 14:16:50",
+  "updated": "2026-07-31T15:11:47.442Z",
+  "updatedLocal": "2026/7/31 23:11:47",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
+      "summary": "Two years ago, Leopold Aschenbrenner argued he was one of few people in the world who saw the future clearly.",
+      "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-31T14:44:44.000Z",
+      "why": null,
+      "ago": "27 分鐘前"
+    },
+    {
+      "title": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
+      "summary": "New York state sued prediction market platform Kalshi on Friday, alleging that the company is running an \"illegal gambling operation.\"",
+      "url": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-31T15:00:58.000Z",
+      "why": null,
+      "ago": "11 分鐘前"
+    },
+    {
+      "title": "Fed officials who voted to hike rates say action is needed now against inflation",
+      "summary": "Federal Reserve officials who voted this week against the decision to hold interest rates steady said Friday they favor hiking now as a way to stave off inflation.",
+      "url": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-31T14:35:52.000Z",
+      "why": null,
+      "ago": "36 分鐘前"
+    },
+    {
+      "title": "More consumer companies are staying private for longer, avoiding the IPO road",
+      "summary": "Five years after the initial public offering boom of 2021, public markets look a lot different as more companies are choosing to stay private for longer.",
+      "url": "https://www.cnbc.com/2026/07/31/private-consumer-companies-ipo.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-31T11:30:01.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "China’s U.S.-bound shipments fall in July after brief recovery, survey shows",
       "summary": "BEIJING — One of the Chinese economy's few growth drivers lost steam in July, according to the latest survey of businesses by China Beige Book.",
@@ -14,17 +58,6 @@
       "tag": "大盤",
       "group": null,
       "published": "2026-07-30T22:01:01.000Z",
-      "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
-      "summary": "The Dow Jones Industrial Average fell more than 1,000 points on Wednesday after the Federal Reserve decided to keep interest rates steady while U.S. oil neared $85 per barrel.",
-      "url": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-30T13:39:36.000Z",
       "why": null,
       "ago": "17 小時前"
     },
@@ -37,16 +70,16 @@
       "group": null,
       "published": "2026-07-30T13:42:07.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
-      "summary": "BEIJING — The U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance on product bans, China's commerce ministry said Thursday, threatening retaliation.",
-      "url": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+      "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
+      "summary": "The Dow Jones Industrial Average fell more than 1,000 points on Wednesday after the Federal Reserve decided to keep interest rates steady while U.S. oil neared $85 per barrel.",
+      "url": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-30T02:52:30.000Z",
+      "published": "2026-07-30T13:39:36.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -59,62 +92,29 @@
       "group": null,
       "published": "2026-07-31T03:49:55.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
-      "summary": "Economic growth was weaker than expected in the second quarter though underlying drivers were mostly solid.",
-      "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-07-30T15:04:43.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Corporate insiders are sending warning signals about the stock market",
+      "title": "I’m 75 and afraid to let my retirement fund dip below $1 million. Am I being too conservative?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-warning-signal-insiders-are-sending-f0538ddf?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/im-75-and-afraid-to-let-my-retirement-fund-dip-below-1-million-am-i-being-too-aggressive-6b780ef9?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-31T00:31:00.000Z",
+      "published": "2026-07-31T14:55:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "17 分鐘前"
     },
     {
-      "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
+      "title": "6 crucial money lessons Gen Z isn’t getting from their parents",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/congrats-gen-z-youre-turning-30-here-are-the-most-important-money-moves-to-make-next-9e30bb0a?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-31T00:24:00.000Z",
+      "published": "2026-07-31T14:52:00.000Z",
       "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "My friend and her husband own real estate. How can her children from a previous marriage get their fair share?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-friend-and-her-husband-own-extensive-real-estate-how-can-her-children-from-a-previous-marriage-get-their-fair-share-3eb17c20?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-31T00:16:00.000Z",
-      "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "Empty seats? Concert giant Live Nation says ticket sales are actually at record levels.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/empty-seats-concert-giant-live-nation-says-ticket-sales-are-actually-at-record-levels-461252db?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-31T00:14:00.000Z",
-      "why": null,
-      "ago": "6 小時前"
+      "ago": "20 分鐘前"
     }
   ],
   "errors": []
