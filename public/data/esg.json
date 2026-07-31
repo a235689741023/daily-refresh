@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-07-30T23:31:17.511Z",
-  "updatedLocal": "2026/7/31 07:31:17",
+  "updated": "2026-07-31T06:16:50.501Z",
+  "updatedLocal": "2026/7/31 14:16:50",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-07-30T17:19:10.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "What’s next: Key climate and nature standards in 2026",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-07-30T16:23:25.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Here are the right reasons to buy carbon removal credits",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-07-30T09:42:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "AI-optimised cooling and enhanced microplastic removal: The best green innovations of July 2026",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-07-30T12:23:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "New edie Extra podcast: What can business leaders learn from Formula E’s B Corp journey?",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-07-30T09:10:45.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Cooked? Why cutting food waste is key to a climate-ready food system",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-07-30T08:17:04.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "edie 27 launches Supply Chains Zone for partners helping businesses transform value chains",
@@ -81,18 +81,7 @@
       "group": null,
       "published": "2026-07-30T08:00:57.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Textile manufacturing releases 92,000 tonnes of microfibre pollution each year, report finds",
-      "summary": "Textile manufacturing generates around 92,000 tonnes of microfibre pollution annually, with 63% of those fibres entering the environment, according to new research from Earth Action.",
-      "url": "https://www.edie.net/textile-manufacturing-releases-92000-tonnes-of-microfibre-pollution-each-year-report-finds/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-07-30T06:00:22.000Z",
-      "why": null,
-      "ago": "18 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Correcting climate ‘misperceptions’ may not boost climate action",
@@ -103,7 +92,7 @@
       "group": null,
       "published": "2026-07-30T15:30:11.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Factcheck: No, Europe is not having its ‘quietest’ year for wildfires",
@@ -114,7 +103,18 @@
       "group": null,
       "published": "2026-07-30T14:51:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "15 小時前"
+    },
+    {
+      "title": "「不能每次都靠鏟子超人」 環境部推災害廢棄物源頭管理",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243710",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-07-30T07:56:10.000Z",
+      "why": null,
+      "ago": "22 小時前"
     }
   ],
   "errors": []
