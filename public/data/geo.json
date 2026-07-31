@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-31T15:11:47.442Z",
-  "updatedLocal": "2026/7/31 23:11:47",
+  "updated": "2026-07-31T23:28:14.857Z",
+  "updatedLocal": "2026/8/1 07:28:14",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-07-31T08:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Infrastructure Isn’t Just Built Anymore. It Thinks",
@@ -26,13 +26,13 @@
       "group": "gis",
       "published": "2026-07-30T06:50:27.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Esri's approach to responsible AI",
       "summary": "Organizations are making real progress with AI. Workflows are faster. Repetitive tasks that once absorbed days of analyst time now get done in minutes.",
       "url": "https://www.esri.com/arcgis-blog/products/arcgis/geoai/esris-approach-responsible-ai-enterprise",
-      "source": "Esri",
+      "source": "esri.com",
       "tag": "平台",
       "group": "gis",
       "published": "2026-07-28T16:18:00.000Z",
@@ -43,23 +43,12 @@
       "title": "Action Required: ArcGIS Online and Location Platform SAML Customers",
       "summary": "ArcGIS Online (and Location Platform) Organization administrators that have enabled Signed and/or Encrypted SAML Assertions in alignment with ArcGIS Online Best Practices for SAML Security must obtain the latest ArcGIS Online Service Provider metadata file + certificate and associate it with their Enterprise (SAML) Identity Provider (e.g. Entra ID Enterprise Applications ) before August 28, 2026 to ensure continued (SAML) login operations with ArcGIS Online.",
       "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/action-required-arcgis-online-saml-customers",
-      "source": "Esri",
+      "source": "esri.com",
       "tag": "平台",
       "group": "gis",
       "published": "2026-07-28T07:00:00.000Z",
       "why": null,
-      "ago": "3 天前"
-    },
-    {
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "summary": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-30T23:03:16.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "4 天前"
     },
     {
       "title": "Advancing responsible AI across Europe",
@@ -70,7 +59,7 @@
       "group": "ai",
       "published": "2026-07-31T15:00:00.000Z",
       "why": null,
-      "ago": "12 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "Building abundant intelligence",
@@ -81,7 +70,7 @@
       "group": "ai",
       "published": "2026-07-31T15:00:00.000Z",
       "why": null,
-      "ago": "12 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "Univé builds an AI-ready workforce",
@@ -92,29 +81,40 @@
       "group": "ai",
       "published": "2026-07-31T07:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "summary": "By making every layer more efficient, OpenAI is delivering stronger performance per dollar across more enterprise workloads.",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "title": "Disrupting a Criminal Scam Operation",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-07-30T10:00:00.000Z",
+      "published": "2026-07-31T00:00:00.000Z",
+      "why": null,
+      "ago": "23 小時前"
+    },
+    {
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "summary": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-07-30T23:03:16.000Z",
       "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "summary": "Gemini Robotics ER 2 represents a step change in powering robots with video understanding, task orchestration, and multi-robot collaboration — making it possible for robots to be more helpful in the physical world.",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "source": "Google DeepMind",
-      "tag": "模型",
+      "title": "Inside Europe's lessons on AI safety as U.S. rules loom",
+      "summary": null,
+      "url": "https://www.axios.com/2026/07/31/inside-europe-lessons-ai-safety-trump-rules-loom",
+      "source": "Axios",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-07-30T15:00:59.000Z",
+      "published": "2026-07-31T09:10:01.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "14 小時前"
     }
   ],
   "errors": []

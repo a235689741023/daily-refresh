@@ -1,11 +1,44 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-07-31T15:11:47.442Z",
-  "updatedLocal": "2026/7/31 23:11:47",
+  "updated": "2026-07-31T23:28:14.857Z",
+  "updatedLocal": "2026/8/1 07:28:14",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
+      "summary": "Bond market investors may want to shift their focus toward the front of the yield curve, according to Allspring Global Investments' Noah Wise.",
+      "url": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-31T18:46:45.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+      "summary": "Clear Street, the prime brokerage startup that recently shelved plans for its own IPO, is now aiming to give investors access to some of Silicon Valley's hottest private companies before they go public.",
+      "url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-31T21:49:40.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Why Situational Awareness hedge fund imploded, even in a tame stock market",
+      "summary": "The stock market looked unusually tranquil. Beneath the surface, one of Wall Street's fastest-growing funds devoted to artificial intelligence investments was unraveling.",
+      "url": "https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-07-31T16:14:54.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
       "summary": "Two years ago, Leopold Aschenbrenner argued he was one of few people in the world who saw the future clearly.",
@@ -13,9 +46,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-31T14:44:44.000Z",
+      "published": "2026-07-31T20:19:03.000Z",
       "why": null,
-      "ago": "27 分鐘前"
+      "ago": "3 小時前"
     },
     {
       "title": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
@@ -24,9 +57,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-31T15:00:58.000Z",
+      "published": "2026-07-31T15:31:24.000Z",
       "why": null,
-      "ago": "11 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "Fed officials who voted to hike rates say action is needed now against inflation",
@@ -37,7 +70,7 @@
       "group": null,
       "published": "2026-07-31T14:35:52.000Z",
       "why": null,
-      "ago": "36 分鐘前"
+      "ago": "9 小時前"
     },
     {
       "title": "More consumer companies are staying private for longer, avoiding the IPO road",
@@ -48,7 +81,7 @@
       "group": null,
       "published": "2026-07-31T11:30:01.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "China’s U.S.-bound shipments fall in July after brief recovery, survey shows",
@@ -59,29 +92,18 @@
       "group": null,
       "published": "2026-07-30T22:01:01.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Here's what changed in the second Fed statement under Warsh",
-      "summary": "Economists and investors got their latest look at the Federal Reserve 's new era of communication with Wednesday's Federal Open Market Committee statement.",
-      "url": "https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-30T13:42:07.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
-      "summary": "The Dow Jones Industrial Average fell more than 1,000 points on Wednesday after the Federal Reserve decided to keep interest rates steady while U.S. oil neared $85 per barrel.",
-      "url": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years",
+      "summary": "Pricing data from June indicated that outside of some select items where costs continue to grow, inflation is trending back towards the Federal Reserve's inflation goal.",
+      "url": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-07-30T13:39:36.000Z",
+      "published": "2026-07-31T16:51:30.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "7 小時前"
     },
     {
       "title": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-07-31T03:49:55.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "I’m 75 and afraid to let my retirement fund dip below $1 million. Am I being too conservative?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-75-and-afraid-to-let-my-retirement-fund-dip-below-1-million-am-i-being-too-aggressive-6b780ef9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-31T14:55:00.000Z",
-      "why": null,
-      "ago": "17 分鐘前"
-    },
-    {
-      "title": "6 crucial money lessons Gen Z isn’t getting from their parents",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/congrats-gen-z-youre-turning-30-here-are-the-most-important-money-moves-to-make-next-9e30bb0a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-31T14:52:00.000Z",
-      "why": null,
-      "ago": "20 分鐘前"
+      "ago": "20 小時前"
     }
   ],
   "errors": []
