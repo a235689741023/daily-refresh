@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-01T14:19:22.981Z",
-  "updatedLocal": "2026/8/1 22:19:22",
+  "updated": "2026-08-01T23:27:12.713Z",
+  "updatedLocal": "2026/8/2 07:27:12",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,6 +18,17 @@
       "ago": "昨日"
     },
     {
+      "title": "Next steps for Non-EU Groups in Scope of the CSRD | Proskauer - Regulatory & Compliance",
+      "summary": null,
+      "url": "https://www.jdsupra.com/legalnews/next-steps-for-non-eu-groups-in-scope-7496827/",
+      "source": "JD Supra",
+      "tag": "法規",
+      "group": null,
+      "published": "2026-07-31T17:08:26.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
       "title": "In numbers: How the UK’s energy mix is changing",
       "summary": "For the second year in a row, renewables accounted for over half of the UK's energy mix, with fossil fuels making up less than a third of total generation according to new figures from the Government.",
       "url": "https://www.edie.net/in-numbers-how-the-uks-energy-mix-is-changing/",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-07-31T16:43:37.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Tesco, Danone and WWF join calls for PM to back ‘Good Food Billl’",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-07-31T15:24:11.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     },
     {
       "title": "SBTi launches consultation to shape revised FLAG Standard",
@@ -48,18 +59,7 @@
       "group": null,
       "published": "2026-07-31T14:52:12.000Z",
       "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Next steps for Non-EU Groups in Scope of the CSRD | Proskauer - Regulatory & Compliance",
-      "summary": null,
-      "url": "https://www.jdsupra.com/legalnews/next-steps-for-non-eu-groups-in-scope-7496827/",
-      "source": "JD Supra",
-      "tag": "法規",
-      "group": null,
-      "published": "2026-07-31T17:08:26.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
       "title": "建物光電義務化上路前突轉彎 排除新建住宅 民團：綠電潛力恐減六成",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-07-31T10:07:07.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "發電之外，離岸風電還帶來什麼？ 沃旭：每發一度電創造6元社會價值",
@@ -92,29 +92,29 @@
       "group": null,
       "published": "2026-07-31T08:47:04.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
-      "title": "Schneider Electric Acquires Grid Resilience Solutions Provider AiDASH for $350 Million",
-      "summary": "Global energy technology company Schneider Electric announced that it has acquired satellite data and AI-powered risk intelligence provider AiDASH, in a transaction valuing the company at an enterprise value of $350 million.",
-      "url": "https://www.esgtoday.com/schneider-electric-acquires-grid-resilience-solutions-provider-aidash-for-350-million/",
-      "source": "esgtoday.com",
-      "tag": "國際",
+      "title": "從海生館的兩個故事 看保育觀念如何在我們心中養成",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243711",
+      "source": "環境資訊中心",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-07-31T17:11:46.000Z",
+      "published": "2026-07-31T07:07:02.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "2 天前"
     },
     {
-      "title": "Thermal Battery Provider Antora Raises $550 Million to Power Industry, Data Centers",
-      "summary": "Energy Transition / Private Equity & Venture Capital Energy storage company Antora Energy announced that it has raised $550 million in a Series C funding round, with proceeds aimed at expanding production of its thermal battery technology and accelerating large-scale deployment across the U.S. Founded in 2017, California-based Antora Energy provides thermal batteries that convert low-cost, intermittent renewable electricity into reliable industrial energy.",
-      "url": "https://www.esgtoday.com/thermal-battery-provider-antora-raises-550-million-to-power-industry-data-centers/",
-      "source": "esgtoday.com",
-      "tag": "國際",
+      "title": "為螢火蟲蓋餐廳、種回魔芋 屏東禁山保安林公私協力復育淺山生態",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243715",
+      "source": "環境資訊中心",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-07-31T17:11:46.000Z",
+      "published": "2026-07-31T05:47:00.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "2 天前"
     }
   ],
   "errors": []

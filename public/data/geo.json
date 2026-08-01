@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-01T14:19:22.981Z",
-  "updatedLocal": "2026/8/1 22:19:22",
+  "updated": "2026-08-01T23:27:12.713Z",
+  "updatedLocal": "2026/8/2 07:27:12",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,18 @@
       "group": "gis",
       "published": "2026-07-31T08:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
+    },
+    {
+      "title": "ArcGIS Utility Network migration reading list",
+      "summary": "Each piece of content includes a title, description, type of content, and targeted experience level.",
+      "url": "https://www.esri.com/arcgis-blog/products/utility-network/data-management/arcgis-utility-network-migration-reading-list",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-07-30T07:00:00.000Z",
+      "why": null,
+      "ago": "3 天前"
     },
     {
       "title": "Esri's approach to responsible AI",
@@ -37,7 +48,7 @@
       "group": "gis",
       "published": "2026-07-28T07:00:00.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
     },
     {
       "title": "Infrastructure Isn’t Just Built Anymore. It Thinks",
@@ -48,7 +59,7 @@
       "group": "gis",
       "published": "2026-07-30T06:50:27.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "Ten advances in mathematics and theoretical computer science",
@@ -58,28 +69,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-08-01T00:00:00.000Z",
-      "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "Advancing responsible AI across Europe",
-      "summary": "Every day, millions of people across Europe use OpenAI’s tools to learn, create, work and manage everyday tasks.",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-31T15:00:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Building abundant intelligence",
-      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful. AI infrastructure is not valuable because it is large.",
-      "url": "https://openai.com/index/building-abundant-intelligence",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-31T15:00:00.000Z",
       "why": null,
       "ago": "23 小時前"
     },
@@ -92,29 +81,51 @@
       "group": "ai",
       "published": "2026-08-01T12:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Inside Europe's lessons on AI safety as U.S. rules loom",
-      "summary": null,
-      "url": "https://www.axios.com/2026/07/31/inside-europe-lessons-ai-safety-trump-rules-loom",
-      "source": "Axios",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-07-31T18:10:01.000Z",
-      "why": null,
-      "ago": "20 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "EU AI Act: Next level applies as of 2 August 2026",
       "summary": "A date worth marking in the calendar: 2 August 2026 is a key milestone for the EU AI Act, though it is not quite the case that \\\"the whole Act applies now.",
       "url": "https://www.reedsmith.com/our-insights/blogs/technology-law-dispatch/102nfi5/eu-ai-act-next-level-applies-as-of-2-august-2026/",
-      "source": "reedsmith.com",
+      "source": "Reed Smith LLP",
       "tag": "政策",
       "group": "ai",
       "published": "2026-08-01T04:10:06.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 小時前"
+    },
+    {
+      "title": "EU AI Act Enters Its Main Phase",
+      "summary": "Most of Europe’s landmark AI rulebook applies from 2 August, shifting attention from legislation to enforcement The European Union’s Artificial Intelligenc The European Union’s Artificial Intelligence Act reaches its main application date on Sunday, bringing most of the bloc’s rules for high-risk systems, transparency and accountability into effect.",
+      "url": "https://europeantimes.news/2026/08/eu-ai-act-enters-its-main-phase/",
+      "source": "The European Times",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-01T14:48:48.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "EU to begin enforcing AI Act from Sunday with hefty fines for rule breakers",
+      "summary": "The European Union will take a major step in regulating artificial intelligence from Sunday, when authorities gain the power to enforce key provisions of the bloc s landmark AI Act.",
+      "url": "https://www.firstpost.com/world/eu-to-begin-enforcing-ai-act-from-sunday-with-hefty-fines-for-rule-breakers-ws-e-14035286.html",
+      "source": "firstpost.com",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-01T05:41:36.000Z",
+      "why": null,
+      "ago": "18 小時前"
+    },
+    {
+      "title": "EU AI Act Chatbot Disclosure Reaches API Builders Sunday: Vendors Cannot Comply for You",
+      "summary": "If your company calls the ChatGPT API, the Claude API, or the Gemini API and shows that output to users, you became a regulated entity under EU law one year ago but Sunday, August 2, 2026, is the day the fines become possible.",
+      "url": "https://www.techtimes.com/articles/322563/20260731/eu-ai-act-chatbot-disclosure-reaches-api-builders-sunday-vendors-cannot-comply-you.htm",
+      "source": "Tech Times",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-07-31T21:11:05.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []

@@ -1,21 +1,21 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-01T14:19:22.981Z",
-  "updatedLocal": "2026/8/1 22:19:22",
+  "updated": "2026-08-01T23:27:12.713Z",
+  "updatedLocal": "2026/8/2 07:27:12",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
-      "summary": "Bond market investors may want to shift their focus toward the front of the yield curve, according to Allspring Global Investments' Noah Wise.",
-      "url": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
+      "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
+      "summary": "In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank’s equities desk fuels its growth.",
+      "url": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-31T18:46:45.000Z",
+      "published": "2026-08-01T20:22:15.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "3 小時前"
     },
     {
       "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
@@ -26,18 +26,7 @@
       "group": null,
       "published": "2026-07-31T21:49:40.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Why Situational Awareness hedge fund imploded, even in a tame stock market",
-      "summary": "The stock market looked unusually tranquil. Beneath the surface, one of Wall Street's fastest-growing funds devoted to artificial intelligence investments was unraveling.",
-      "url": "https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-31T16:14:54.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     },
     {
       "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
@@ -48,73 +37,84 @@
       "group": null,
       "published": "2026-07-31T20:19:03.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
-      "summary": "New York state sued prediction market platform Kalshi on Friday, alleging that the company is running an \"illegal gambling operation.\"",
-      "url": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html",
+      "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
+      "summary": "Bond market investors may want to shift their focus toward the front of the yield curve, according to Allspring Global Investments' Noah Wise.",
+      "url": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-07-31T15:31:24.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Fed officials who voted to hike rates say action is needed now against inflation",
-      "summary": "Federal Reserve officials who voted this week against the decision to hold interest rates steady said Friday they favor hiking now as a way to stave off inflation.",
-      "url": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-31T14:35:52.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "More consumer companies are staying private for longer, avoiding the IPO road",
-      "summary": "Five years after the initial public offering boom of 2021, public markets look a lot different as more companies are choosing to stay private for longer.",
-      "url": "https://www.cnbc.com/2026/07/31/private-consumer-companies-ipo.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-07-31T11:30:01.000Z",
+      "published": "2026-07-31T18:46:45.000Z",
       "why": null,
       "ago": "昨日"
     },
     {
-      "title": "As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years",
-      "summary": "Pricing data from June indicated that outside of some select items where costs continue to grow, inflation is trending back towards the Federal Reserve's inflation goal.",
-      "url": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-07-31T16:51:30.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
+      "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-01T14:04:00.000Z",
+      "published": "2026-08-01T22:00:00.000Z",
       "why": null,
-      "ago": "15 分鐘前"
+      "ago": "1 小時前"
     },
     {
-      "title": "They spent tens of thousands of dollars on home remodels — only to regret it",
+      "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/they-spent-tens-of-thousands-of-dollars-on-home-remodels-only-to-regret-it-8cfa23e6?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-01T14:00:00.000Z",
+      "published": "2026-08-01T21:15:00.000Z",
       "why": null,
-      "ago": "19 分鐘前"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-01T21:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Let’s elect candidates who will make the wealthy pay taxes",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/lets-elect-candidates-who-will-make-the-wealthy-pay-taxes-15f53a4a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-01T18:30:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-01T18:15:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Rising Medicare Part D premiums could drive more people into Medicare Advantage plans",
+      "summary": "Medicare Advantage plans could be the winners of a decision by the Trump administration to put an early end to a program that kept the cost of Medicare prescription-drug plans lower.",
+      "url": "https://www.marketwatch.com/story/rising-part-d-premiums-could-drive-more-people-into-medicare-advantage-plans-32c2a392?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-01T18:06:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     }
   ],
   "errors": []
