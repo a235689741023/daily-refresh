@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-01T05:57:39.507Z",
-  "updatedLocal": "2026/8/1 13:57:39",
+  "updated": "2026-08-01T14:19:22.981Z",
+  "updatedLocal": "2026/8/1 22:19:22",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,7 @@
       "group": "gis",
       "published": "2026-07-31T08:00:00.000Z",
       "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Infrastructure Isn’t Just Built Anymore. It Thinks",
-      "summary": null,
-      "url": "https://geospatialworld.net/videos/intelligent-infrastructure-aec-summit-gwf-2026/",
-      "source": "Geospatial World",
-      "tag": "產業",
-      "group": "gis",
-      "published": "2026-07-30T06:50:27.000Z",
-      "why": null,
-      "ago": "2 天前"
+      "ago": "昨日"
     },
     {
       "title": "Esri's approach to responsible AI",
@@ -51,6 +40,28 @@
       "ago": "4 天前"
     },
     {
+      "title": "Infrastructure Isn’t Just Built Anymore. It Thinks",
+      "summary": null,
+      "url": "https://geospatialworld.net/videos/intelligent-infrastructure-aec-summit-gwf-2026/",
+      "source": "Geospatial World",
+      "tag": "產業",
+      "group": "gis",
+      "published": "2026-07-30T06:50:27.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "summary": "We want to empower scientists and mathematicians with tools that accelerate discovery.",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-01T00:00:00.000Z",
+      "why": null,
+      "ago": "14 小時前"
+    },
+    {
       "title": "Advancing responsible AI across Europe",
       "summary": "Every day, millions of people across Europe use OpenAI’s tools to learn, create, work and manage everyday tasks.",
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-07-31T15:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Building abundant intelligence",
@@ -70,29 +81,18 @@
       "group": "ai",
       "published": "2026-07-31T15:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Univé builds an AI-ready workforce",
-      "summary": "Univé is building an AI-ready workforce by combining strong leadership, responsible governance, and employee-led innovation with ChatGPT.",
-      "url": "https://openai.com/index/unive",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-31T07:00:00.000Z",
-      "why": null,
       "ago": "23 小時前"
     },
     {
-      "title": "Disrupting a Criminal Scam Operation",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "Frontier AI models escaped testing safeguards as Trump weighs regulations",
+      "summary": "Just as the smoke from OpenAI’s hack of Hugging Face was beginning to clear, another frontier artificial intelligence company revealed its systems had unintentionally hacked multiple companies.",
+      "url": "https://san.com/cc/frontier-ai-models-escaped-testing-safeguards-as-trump-weighs-regulations/",
+      "source": "Straight Arrow",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-07-31T00:00:00.000Z",
+      "published": "2026-08-01T12:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 小時前"
     },
     {
       "title": "Inside Europe's lessons on AI safety as U.S. rules loom",
@@ -101,20 +101,20 @@
       "source": "Axios",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-07-31T09:10:01.000Z",
+      "published": "2026-07-31T18:10:01.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "The EU AI Act requires AI transparency. What does it mean for CX?",
-      "summary": "Companies that want to do business in the European Union will now have to disclose when customers interact with AI and when content is AI generated.",
-      "url": "https://www.customerexperiencedive.com/news/the-eu-ai-act-requires-ai-transparency-what-does-it-mean-for-cx/826749/",
-      "source": "Customer Experience Dive",
+      "title": "EU AI Act: Next level applies as of 2 August 2026",
+      "summary": "A date worth marking in the calendar: 2 August 2026 is a key milestone for the EU AI Act, though it is not quite the case that \\\"the whole Act applies now.",
+      "url": "https://www.reedsmith.com/our-insights/blogs/technology-law-dispatch/102nfi5/eu-ai-act-next-level-applies-as-of-2-august-2026/",
+      "source": "reedsmith.com",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-07-31T18:49:48.000Z",
+      "published": "2026-08-01T04:10:06.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "10 小時前"
     }
   ],
   "errors": []
