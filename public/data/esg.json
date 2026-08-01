@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-07-31T23:28:14.857Z",
-  "updatedLocal": "2026/8/1 07:28:14",
+  "updated": "2026-08-01T05:57:39.507Z",
+  "updatedLocal": "2026/8/1 13:57:39",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-07-31T12:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "In numbers: How the UK’s energy mix is changing",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-07-31T16:43:37.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Tesco, Danone and WWF join calls for PM to back ‘Good Food Billl’",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-07-31T15:24:11.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "SBTi launches consultation to shape revised FLAG Standard",
@@ -48,18 +48,7 @@
       "group": null,
       "published": "2026-07-31T14:52:12.000Z",
       "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "大肚山及海岸濕地拍到草鴞、肯亞15頭大象離奇暴斃疑、熊本強震增至34死",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243714",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-07-31T02:26:50.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "冷媒、半導體製程都有它 環境部審議高暖化潛勢「含氟氣體」最終銷毀方法學",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-07-31T10:07:07.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "建物光電義務化上路前突轉彎 排除新建住宅 民團：綠電潛力恐減六成",
@@ -81,29 +70,7 @@
       "group": null,
       "published": "2026-07-31T13:17:12.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "為螢火蟲蓋餐廳、種回魔芋 屏東禁山保安林公私協力復育淺山生態",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243715",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-07-31T05:47:00.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "AI吃掉減碳進度 Google坦言：2025年用電增37%",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243696",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-07-31T01:36:48.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "發電之外，離岸風電還帶來什麼？ 沃旭：每發一度電創造6元社會價值",
@@ -114,7 +81,40 @@
       "group": null,
       "published": "2026-07-31T08:47:04.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "從海生館的兩個故事 看保育觀念如何在我們心中養成",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243711",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-07-31T07:07:02.000Z",
+      "why": null,
+      "ago": "23 小時前"
+    },
+    {
+      "title": "Next steps for Non-EU Groups in Scope of the CSRD | Proskauer - Regulatory & Compliance",
+      "summary": null,
+      "url": "https://www.jdsupra.com/legalnews/next-steps-for-non-eu-groups-in-scope-7496827/",
+      "source": "JD Supra",
+      "tag": "法規",
+      "group": null,
+      "published": "2026-07-31T17:08:26.000Z",
+      "why": null,
+      "ago": "13 小時前"
+    },
+    {
+      "title": "為螢火蟲蓋餐廳、種回魔芋 屏東禁山保安林公私協力復育淺山生態",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243715",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-07-31T05:47:00.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-07-31T23:28:14.857Z",
-  "updatedLocal": "2026/8/1 07:28:14",
+  "updated": "2026-08-01T05:57:39.507Z",
+  "updatedLocal": "2026/8/1 13:57:39",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-07-31T08:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Infrastructure Isn’t Just Built Anymore. It Thinks",
@@ -32,18 +32,18 @@
       "title": "Esri's approach to responsible AI",
       "summary": "Organizations are making real progress with AI. Workflows are faster. Repetitive tasks that once absorbed days of analyst time now get done in minutes.",
       "url": "https://www.esri.com/arcgis-blog/products/arcgis/geoai/esris-approach-responsible-ai-enterprise",
-      "source": "esri.com",
+      "source": "Esri",
       "tag": "平台",
       "group": "gis",
       "published": "2026-07-28T16:18:00.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
       "title": "Action Required: ArcGIS Online and Location Platform SAML Customers",
       "summary": "ArcGIS Online (and Location Platform) Organization administrators that have enabled Signed and/or Encrypted SAML Assertions in alignment with ArcGIS Online Best Practices for SAML Security must obtain the latest ArcGIS Online Service Provider metadata file + certificate and associate it with their Enterprise (SAML) Identity Provider (e.g. Entra ID Enterprise Applications ) before August 28, 2026 to ensure continued (SAML) login operations with ArcGIS Online.",
       "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/action-required-arcgis-online-saml-customers",
-      "source": "esri.com",
+      "source": "Esri",
       "tag": "平台",
       "group": "gis",
       "published": "2026-07-28T07:00:00.000Z",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-07-31T15:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Building abundant intelligence",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-07-31T15:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Univé builds an AI-ready workforce",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-07-31T07:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Disrupting a Criminal Scam Operation",
@@ -91,17 +91,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-07-31T00:00:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "summary": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-07-30T23:03:16.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -114,7 +103,18 @@
       "group": "ai",
       "published": "2026-07-31T09:10:01.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "The EU AI Act requires AI transparency. What does it mean for CX?",
+      "summary": "Companies that want to do business in the European Union will now have to disclose when customers interact with AI and when content is AI generated.",
+      "url": "https://www.customerexperiencedive.com/news/the-eu-ai-act-requires-ai-transparency-what-does-it-mean-for-cx/826749/",
+      "source": "Customer Experience Dive",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-07-31T18:49:48.000Z",
+      "why": null,
+      "ago": "11 小時前"
     }
   ],
   "errors": []
