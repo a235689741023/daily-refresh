@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-01T23:27:12.713Z",
-  "updatedLocal": "2026/8/2 07:27:12",
+  "updated": "2026-08-02T06:05:43.632Z",
+  "updatedLocal": "2026/8/2 14:05:43",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,18 @@
       "group": null,
       "published": "2026-07-31T12:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
+    },
+    {
+      "title": "高雄拚淨零把「碳負擔」變「碳資產」 陳其邁：26案碳權計畫實戰上路",
+      "summary": null,
+      "url": "https://n.yam.com/Article/20260731310415",
+      "source": "蕃新聞",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-01T09:45:26.000Z",
+      "why": null,
+      "ago": "20 小時前"
     },
     {
       "title": "Next steps for Non-EU Groups in Scope of the CSRD | Proskauer - Regulatory & Compliance",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-07-31T17:08:26.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "In numbers: How the UK’s energy mix is changing",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-07-31T16:43:37.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Tesco, Danone and WWF join calls for PM to back ‘Good Food Billl’",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-07-31T15:24:11.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "SBTi launches consultation to shape revised FLAG Standard",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-07-31T14:52:12.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "建物光電義務化上路前突轉彎 排除新建住宅 民團：綠電潛力恐減六成",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-07-31T13:17:12.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "冷媒、半導體製程都有它 環境部審議高暖化潛勢「含氟氣體」最終銷毀方法學",
@@ -102,17 +113,6 @@
       "tag": "台灣",
       "group": null,
       "published": "2026-07-31T07:07:02.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "為螢火蟲蓋餐廳、種回魔芋 屏東禁山保安林公私協力復育淺山生態",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243715",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-07-31T05:47:00.000Z",
       "why": null,
       "ago": "2 天前"
     }
