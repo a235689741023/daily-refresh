@@ -1,22 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-02T06:05:43.632Z",
-  "updatedLocal": "2026/8/2 14:05:43",
+  "updated": "2026-08-02T14:21:18.894Z",
+  "updatedLocal": "2026/8/2 22:21:18",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Experience the magic of Kosovo from anywhere with Street View",
-      "summary": "From unique modern architecture to a UNESCO World Heritage site, Kosovo's rich heritage and dynamic cityscapes are now available for anyone to explore with Google Street View.",
-      "url": "https://blog.google/products-and-platforms/products/maps/google-street-view-kosovo/",
-      "source": "Google Maps Blog",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-07-31T08:00:00.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
     {
       "title": "ArcGIS Utility Network migration reading list",
       "summary": "Each piece of content includes a title, description, type of content, and targeted experience level.",
@@ -62,15 +51,26 @@
       "ago": "3 天前"
     },
     {
-      "title": "Frontier AI models escaped testing safeguards as Trump weighs regulations",
-      "summary": "Just as the smoke from OpenAI’s hack of Hugging Face was beginning to clear, another frontier artificial intelligence company revealed its systems had unintentionally hacked multiple companies.",
-      "url": "https://san.com/cc/frontier-ai-models-escaped-testing-safeguards-as-trump-weighs-regulations/",
-      "source": "Straight Arrow",
+      "title": "EU AI Act Labels Start Aug 2. AI Transparency Rules Explained",
+      "summary": "New EU regulations, which take effect on August 2, now require companies to transparently declare AI use, particularly for AI-generated content.",
+      "url": "https://www.forbes.com/sites/rachelwells/2026/08/02/eu-ai-act-labels-start-aug-2-ai-transparency-rules-explained/",
+      "source": "Forbes",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-08-01T12:00:00.000Z",
+      "published": "2026-08-02T10:48:17.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "4 小時前"
+    },
+    {
+      "title": "EU AI Act enforcement begins today with new transparency rules",
+      "summary": "The European Union’s artificial intelligence regulations enter their most consequential enforcement phase today, with the European Commission’s AI Office and national authorities beginning to enforce Article 50 of the AI Act a transparency mandate affecting millions of AI applications across the bloc and beyond.",
+      "url": "https://eciks.org/17942-ai-act-enforcement-transparency-rules",
+      "source": "eciks.org",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-02T10:46:09.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "Commission tools up for AI Act enforcement as powers kick in",
@@ -79,60 +79,54 @@
       "source": "euractiv.com",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-08-02T02:02:07.000Z",
+      "published": "2026-08-02T02:05:03.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "EU AI Act: creators get no grace period for labeling AI content",
+      "summary": "The transparency rules of the EU AI Act took effect today. We covered what changes for you as a reader last week.",
+      "url": "https://www.notebookcheck.net/EU-AI-Act-creators-get-no-grace-period-for-labeling-AI-content.1358267.0.html",
+      "source": "Notebookcheck",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-02T09:37:29.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "EU rules on AI models become enforceable. What's going to change?",
+      "summary": "As of today, the EU's rules on AI models become enforceable, cementing the European Commission's role as the world's most prominent regulator of this disruptive technology.",
+      "url": "https://www.inkl.com/news/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+      "source": "inkl",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-02T09:35:17.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "EU AI Act Enters Its Main Phase",
       "summary": "Most of Europe’s landmark AI rulebook applies from 2 August, shifting attention from legislation to enforcement The European Union’s Artificial Intelligenc The European Union’s Artificial Intelligence Act reaches its main application date on Sunday, bringing most of the bloc’s rules for high-risk systems, transparency and accountability into effect.",
       "url": "https://europeantimes.news/2026/08/eu-ai-act-enters-its-main-phase/",
-      "source": "The European Times",
+      "source": "europeantimes.news",
       "tag": "政策",
       "group": "ai",
       "published": "2026-08-01T14:48:48.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "European Union begins enforcement of AI Act and new transparency rules from August 2",
-      "summary": "The European Union will begin enforcing key provisions of its Artificial Intelligence (AI) Act from August 2, 2026, introducing new transparency requirements for AI systems and stronger oversight of advanced AI models.",
-      "url": "https://techreviewafrica.com/news/6545/european-union-begins-enforcement-of-ai-act-and-new-transparency-rules-from-august-2",
-      "source": "Tech Review Africa",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-01T11:32:31.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "EU to begin enforcing AI Act from Sunday with hefty fines for rule breakers",
-      "summary": "The European Union will take a major step in regulating artificial intelligence from Sunday, when authorities gain the power to enforce key provisions of the bloc s landmark AI Act.",
-      "url": "https://www.firstpost.com/world/eu-to-begin-enforcing-ai-act-from-sunday-with-hefty-fines-for-rule-breakers-ws-e-14035286.html",
-      "source": "Firstpost",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-01T05:41:36.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "EU AI Act: Next level applies as of 2 August 2026",
-      "summary": "A date worth marking in the calendar: 2 August 2026 is a key milestone for the EU AI Act, though it is not quite the case that \\\"the whole Act applies now.",
-      "url": "https://www.reedsmith.com/our-insights/blogs/technology-law-dispatch/102nfi5/eu-ai-act-next-level-applies-as-of-2-august-2026/",
-      "source": "Reed Smith LLP",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-01T04:10:06.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "24 小時前"
     }
   ],
   "errors": [
     {
-      "source": "GIS Lounge",
-      "url": "https://www.gislounge.com/feed/",
-      "message": "HTTP 403 Forbidden"
+      "source": "Google Maps Blog",
+      "url": "https://blog.google/products/maps/rss/",
+      "message": "HTTP 500 Internal Server Error"
+    },
+    {
+      "source": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/rss/",
+      "message": "HTTP 503 Service Unavailable"
     }
   ]
 }

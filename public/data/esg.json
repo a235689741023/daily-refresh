@@ -1,21 +1,21 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-02T06:05:43.632Z",
-  "updatedLocal": "2026/8/2 14:05:43",
+  "updated": "2026-08-02T14:21:18.894Z",
+  "updatedLocal": "2026/8/2 22:21:18",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "The future of sustainability is more globally distributed",
-      "summary": "Across new research from GlobeScan and BSR, sustainability professionals at large companies have described an environment in which sustainability efforts are becoming more focused — with a deeper emphasis on compliance , tighter resources and a narrower set of priorities .",
-      "url": "https://trellis.net/article/where-future-sustainability-being-shaped/",
-      "source": "Trellis",
+      "title": "UK mattress scheme’s recycling milestone and AstraZeneca’s fleet electrification: The sustainability success stories of the week",
+      "summary": "As part of our Mission Possible campaign, edie delivers this member-exclusive weekly round-up of five of the best sustainable business success stories of the week.",
+      "url": "https://www.edie.net/uk-mattress-schemes-recycling-milestone-and-astrazenecas-fleet-electrification-the-sustainability-success-stories-of-the-week/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-07-31T12:00:00.000Z",
+      "published": "2026-08-02T12:41:57.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "2 小時前"
     },
     {
       "title": "高雄拚淨零把「碳負擔」變「碳資產」 陳其邁：26案碳權計畫實戰上路",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-01T09:45:26.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Next steps for Non-EU Groups in Scope of the CSRD | Proskauer - Regulatory & Compliance",
@@ -73,46 +73,35 @@
       "ago": "2 天前"
     },
     {
-      "title": "建物光電義務化上路前突轉彎 排除新建住宅 民團：綠電潛力恐減六成",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243718",
-      "source": "環境資訊中心",
-      "tag": "台灣",
+      "title": "Schneider Electric Acquires Grid Resilience Solutions Provider AiDASH for $350 Million",
+      "summary": "Global energy technology company Schneider Electric announced that it has acquired satellite data and AI-powered risk intelligence provider AiDASH, in a transaction valuing the company at an enterprise value of $350 million.",
+      "url": "https://www.esgtoday.com/schneider-electric-acquires-grid-resilience-solutions-provider-aidash-for-350-million/",
+      "source": "ESG Today",
+      "tag": "國際",
       "group": null,
-      "published": "2026-07-31T13:17:12.000Z",
+      "published": "2026-07-31T17:11:46.000Z",
       "why": null,
       "ago": "2 天前"
     },
     {
-      "title": "冷媒、半導體製程都有它 環境部審議高暖化潛勢「含氟氣體」最終銷毀方法學",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243717",
-      "source": "環境資訊中心",
-      "tag": "台灣",
+      "title": "Thermal Battery Provider Antora Raises $550 Million to Power Industry, Data Centers",
+      "summary": "Energy Transition / Private Equity & Venture Capital Energy storage company Antora Energy announced that it has raised $550 million in a Series C funding round, with proceeds aimed at expanding production of its thermal battery technology and accelerating large-scale deployment across the U.S. Founded in 2017, California-based Antora Energy provides thermal batteries that convert low-cost, intermittent renewable electricity into reliable industrial energy.",
+      "url": "https://www.esgtoday.com/thermal-battery-provider-antora-raises-550-million-to-power-industry-data-centers/",
+      "source": "ESG Today",
+      "tag": "國際",
       "group": null,
-      "published": "2026-07-31T10:07:07.000Z",
+      "published": "2026-07-31T17:11:46.000Z",
       "why": null,
       "ago": "2 天前"
     },
     {
-      "title": "發電之外，離岸風電還帶來什麼？ 沃旭：每發一度電創造6元社會價值",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243716",
-      "source": "環境資訊中心",
-      "tag": "台灣",
+      "title": "Commonwealth Raises $1 Billion to Accelerate Path to Commercial Fusion Energy",
+      "summary": "Energy Transition / Private Equity & Venture Capital Commonwealth Fusion Energy (CFS) announced that it has raised $1 billion in equity funding in a new financing round aimed at accelerating its progress towards commercialization of its fusion energy technology, with the company targeting putting power on the grid in the early 2030s.",
+      "url": "https://www.esgtoday.com/commonwealth-raises-1-billion-to-accelerate-path-to-commercial-fusion-energy/",
+      "source": "ESG Today",
+      "tag": "國際",
       "group": null,
-      "published": "2026-07-31T08:47:04.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "從海生館的兩個故事 看保育觀念如何在我們心中養成",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243711",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-07-31T07:07:02.000Z",
+      "published": "2026-07-31T17:11:46.000Z",
       "why": null,
       "ago": "2 天前"
     }
