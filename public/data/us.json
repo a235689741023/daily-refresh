@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-02T14:21:18.894Z",
-  "updatedLocal": "2026/8/2 22:21:18",
+  "updated": "2026-08-02T23:25:57.417Z",
+  "updatedLocal": "2026/8/3 07:25:57",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,40 @@
       "group": null,
       "published": "2026-08-02T13:52:33.000Z",
       "why": null,
-      "ago": "29 分鐘前"
+      "ago": "10 小時前"
+    },
+    {
+      "title": "We’re in our 60s with $1.5 million. Would a trust be more effective than a will to prevent conflict among our heirs?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-02T17:00:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-02T16:00:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Here’s what’s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-02T15:19:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
@@ -26,7 +59,7 @@
       "group": null,
       "published": "2026-08-02T14:00:00.000Z",
       "why": null,
-      "ago": "21 分鐘前"
+      "ago": "9 小時前"
     },
     {
       "title": "S&P 500 profit growth is getting even wilder as Amazon makes its mark",
@@ -37,7 +70,7 @@
       "group": null,
       "published": "2026-08-02T14:00:00.000Z",
       "why": null,
-      "ago": "21 分鐘前"
+      "ago": "9 小時前"
     },
     {
       "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
@@ -48,7 +81,7 @@
       "group": null,
       "published": "2026-08-02T13:30:00.000Z",
       "why": null,
-      "ago": "51 分鐘前"
+      "ago": "10 小時前"
     },
     {
       "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
@@ -59,7 +92,7 @@
       "group": null,
       "published": "2026-08-02T13:00:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "How Apple’s cheap MacBook Neo sparked a war in budget laptops",
@@ -70,7 +103,7 @@
       "group": null,
       "published": "2026-08-02T13:00:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.",
@@ -81,40 +114,7 @@
       "group": null,
       "published": "2026-08-02T12:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Financial stocks are crushing it. These charts show why the ‘breakout’ rally may have just begun.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/financial-stocks-are-crushing-it-these-charts-show-why-the-breakout-rally-may-have-just-begun-6db3cc12?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-02T12:00:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Why every tech giant wants to look like a cybersecurity company in the AI era",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/why-every-tech-giant-wants-to-look-like-a-cybersecurity-company-in-the-ai-era-00534525?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-02T11:30:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Tim Cook’s lasting legacy: Keeping Apple’s eye on the ball",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/tim-cooks-lasting-legacy-keeping-apples-eye-on-the-ball-76521035?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-02T11:00:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     }
   ],
   "errors": []

@@ -1,22 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-02T14:21:18.894Z",
-  "updatedLocal": "2026/8/2 22:21:18",
+  "updated": "2026-08-02T23:25:57.417Z",
+  "updatedLocal": "2026/8/3 07:25:57",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "ArcGIS Utility Network migration reading list",
-      "summary": "Each piece of content includes a title, description, type of content, and targeted experience level.",
-      "url": "https://www.esri.com/arcgis-blog/products/utility-network/data-management/arcgis-utility-network-migration-reading-list",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-07-30T07:00:00.000Z",
-      "why": null,
-      "ago": "3 天前"
-    },
     {
       "title": "Esri's approach to responsible AI",
       "summary": "Organizations are making real progress with AI. Workflows are faster. Repetitive tasks that once absorbed days of analyst time now get done in minutes.",
@@ -29,6 +18,17 @@
       "ago": "5 天前"
     },
     {
+      "title": "ArcGIS Utility Network migration reading list",
+      "summary": "Each piece of content includes a title, description, type of content, and targeted experience level.",
+      "url": "https://www.esri.com/arcgis-blog/products/utility-network/data-management/arcgis-utility-network-migration-reading-list",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-07-30T07:00:00.000Z",
+      "why": null,
+      "ago": "4 天前"
+    },
+    {
       "title": "Action Required: ArcGIS Online and Location Platform SAML Customers",
       "summary": "ArcGIS Online (and Location Platform) Organization administrators that have enabled Signed and/or Encrypted SAML Assertions in alignment with ArcGIS Online Best Practices for SAML Security must obtain the latest ArcGIS Online Service Provider metadata file + certificate and associate it with their Enterprise (SAML) Identity Provider (e.g. Entra ID Enterprise Applications ) before August 28, 2026 to ensure continued (SAML) login operations with ArcGIS Online.",
       "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/action-required-arcgis-online-saml-customers",
@@ -37,7 +37,18 @@
       "group": "gis",
       "published": "2026-07-28T07:00:00.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
+    },
+    {
+      "title": "Experience the magic of Kosovo from anywhere with Street View",
+      "summary": "From unique modern architecture to a UNESCO World Heritage site, Kosovo's rich heritage and dynamic cityscapes are now available for anyone to explore with Google Street View.",
+      "url": "https://blog.google/products-and-platforms/products/maps/google-street-view-kosovo/",
+      "source": "Google Maps Blog",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-07-31T08:00:00.000Z",
+      "why": null,
+      "ago": "3 天前"
     },
     {
       "title": "Infrastructure Isn’t Just Built Anymore. It Thinks",
@@ -48,18 +59,18 @@
       "group": "gis",
       "published": "2026-07-30T06:50:27.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
       "title": "EU AI Act Labels Start Aug 2. AI Transparency Rules Explained",
       "summary": "New EU regulations, which take effect on August 2, now require companies to transparently declare AI use, particularly for AI-generated content.",
       "url": "https://www.forbes.com/sites/rachelwells/2026/08/02/eu-ai-act-labels-start-aug-2-ai-transparency-rules-explained/",
-      "source": "Forbes",
+      "source": "forbes.com",
       "tag": "政策",
       "group": "ai",
       "published": "2026-08-02T10:48:17.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "EU AI Act enforcement begins today with new transparency rules",
@@ -70,7 +81,7 @@
       "group": "ai",
       "published": "2026-08-02T10:46:09.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Commission tools up for AI Act enforcement as powers kick in",
@@ -81,7 +92,7 @@
       "group": "ai",
       "published": "2026-08-02T02:05:03.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "EU AI Act: creators get no grace period for labeling AI content",
@@ -92,7 +103,7 @@
       "group": "ai",
       "published": "2026-08-02T09:37:29.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "EU rules on AI models become enforceable. What's going to change?",
@@ -103,30 +114,19 @@
       "group": "ai",
       "published": "2026-08-02T09:35:17.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "14 小時前"
     },
     {
-      "title": "EU AI Act Enters Its Main Phase",
-      "summary": "Most of Europe’s landmark AI rulebook applies from 2 August, shifting attention from legislation to enforcement The European Union’s Artificial Intelligenc The European Union’s Artificial Intelligence Act reaches its main application date on Sunday, bringing most of the bloc’s rules for high-risk systems, transparency and accountability into effect.",
-      "url": "https://europeantimes.news/2026/08/eu-ai-act-enters-its-main-phase/",
-      "source": "europeantimes.news",
+      "title": "EU's New AI Transparency Rules Take Effect, But Enforcement Questions Linger",
+      "summary": "The European Union's landmark artificial intelligence legislation crossed a critical threshold on August 2, 2026, when transparency obligations under Article 50 of the EU AI Act became binding.",
+      "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/eu-s-new-ai-transparency-rules-take-effect-but-enforcement-questions/69910382",
+      "source": "AD HOC NEWS",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-08-01T14:48:48.000Z",
+      "published": "2026-08-02T12:24:09.000Z",
       "why": null,
-      "ago": "24 小時前"
+      "ago": "11 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "Google Maps Blog",
-      "url": "https://blog.google/products/maps/rss/",
-      "message": "HTTP 500 Internal Server Error"
-    },
-    {
-      "source": "Google AI Blog",
-      "url": "https://blog.google/technology/ai/rss/",
-      "message": "HTTP 503 Service Unavailable"
-    }
-  ]
+  "errors": []
 }
