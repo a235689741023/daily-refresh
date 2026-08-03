@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-02T23:25:57.417Z",
-  "updatedLocal": "2026/8/3 07:25:57",
+  "updated": "2026-08-03T06:27:22.480Z",
+  "updatedLocal": "2026/8/3 14:27:22",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-07-28T16:18:00.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
       "title": "ArcGIS Utility Network migration reading list",
@@ -62,15 +62,37 @@
       "ago": "4 天前"
     },
     {
+      "title": "Europe starts enforcing AI Act rules",
+      "summary": "The EU’s landmark AI Act enters a new phase this week, as regulators begin enforcing rules requiring companies to label AI-generated content and disclose when users are interacting with the technology.",
+      "url": "https://sifted.eu/articles/eu-ai-act-new-rules-transparency",
+      "source": "Sifted",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-03T04:00:49.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "EU Begins Enforcing AI Act as Transparency Rules Take Effect",
+      "summary": "The European Union began enforcing key provisions of its Artificial Intelligence Act on Aug. 2, requiring companies to disclose when people are interacting with AI and to label certain AI-generated or manipulated content.",
+      "url": "https://theaiinsider.tech/2026/08/03/eu-begins-enforcing-ai-act-as-transparency-rules-take-effect/",
+      "source": "AI Insider",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-03T03:46:45.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
       "title": "EU AI Act Labels Start Aug 2. AI Transparency Rules Explained",
       "summary": "New EU regulations, which take effect on August 2, now require companies to transparently declare AI use, particularly for AI-generated content.",
       "url": "https://www.forbes.com/sites/rachelwells/2026/08/02/eu-ai-act-labels-start-aug-2-ai-transparency-rules-explained/",
-      "source": "forbes.com",
+      "source": "Forbes",
       "tag": "政策",
       "group": "ai",
       "published": "2026-08-02T10:48:17.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "EU AI Act enforcement begins today with new transparency rules",
@@ -81,18 +103,7 @@
       "group": "ai",
       "published": "2026-08-02T10:46:09.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Commission tools up for AI Act enforcement as powers kick in",
-      "summary": null,
-      "url": "https://www.euractiv.com/news/commission-tools-up-for-ai-act-enforcement-as-powers-kick-in/",
-      "source": "euractiv.com",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-02T02:05:03.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "EU AI Act: creators get no grace period for labeling AI content",
@@ -103,29 +114,18 @@
       "group": "ai",
       "published": "2026-08-02T09:37:29.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "EU rules on AI models become enforceable. What's going to change?",
       "summary": "As of today, the EU's rules on AI models become enforceable, cementing the European Commission's role as the world's most prominent regulator of this disruptive technology.",
-      "url": "https://www.inkl.com/news/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-      "source": "inkl",
+      "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+      "source": "Euronews",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-08-02T09:35:17.000Z",
+      "published": "2026-08-02T05:30:32.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "EU's New AI Transparency Rules Take Effect, But Enforcement Questions Linger",
-      "summary": "The European Union's landmark artificial intelligence legislation crossed a critical threshold on August 2, 2026, when transparency obligations under Article 50 of the EU AI Act became binding.",
-      "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/eu-s-new-ai-transparency-rules-take-effect-but-enforcement-questions/69910382",
-      "source": "AD HOC NEWS",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-02T12:24:09.000Z",
-      "why": null,
-      "ago": "11 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
