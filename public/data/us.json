@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-03T15:34:47.763Z",
-  "updatedLocal": "2026/8/3 23:34:47",
+  "updated": "2026-08-03T23:32:44.210Z",
+  "updatedLocal": "2026/8/4 07:32:44",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions",
+      "summary": "The Bureau of Labor Statistics is set to release the employment picture for July on Friday, and economists are expecting a gain of 85,000 jobs in the month, according to Dow Jones consensus estimates.",
+      "url": "https://www.cnbc.com/2026/08/03/kalshi-traders-think-july-jobs-will-come-in-cooler-than-estimates.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-03T15:59:04.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
     {
       "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
       "summary": "California is home to the highest fuel prices in the U.S. as well as the busiest containership port complex in the nation.",
@@ -13,9 +24,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-03T15:27:52.000Z",
+      "published": "2026-08-03T19:20:25.000Z",
       "why": null,
-      "ago": "7 分鐘前"
+      "ago": "4 小時前"
     },
     {
       "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
@@ -24,9 +35,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-03T14:11:17.000Z",
+      "published": "2026-08-03T16:44:25.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Tourism price wars threaten to dim a rare bright spot in China's consumer spending",
@@ -37,40 +48,18 @@
       "group": null,
       "published": "2026-08-03T10:32:09.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
-      "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
-      "summary": "In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank’s equities desk fuels its growth.",
-      "url": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
+      "summary": "A burst in factory activity shows the U.S. economy may be escaping the burden of tariffs and gaining manufacturing jobs, while at the same time laboring under the geopolitical uncertainty that some industry leaders say is worse than the Covid pandemic.",
+      "url": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-08-02T13:52:33.000Z",
+      "published": "2026-08-03T16:54:19.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Why the U.S. decided to help Japan by boosting the flailing yen",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/joint-u-s-japanese-intervention-boosts-the-yen-but-will-it-be-enough-069451f5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-03T15:20:00.000Z",
-      "why": null,
-      "ago": "15 分鐘前"
-    },
-    {
-      "title": "Disappointed by your skimpy pay raise? Blame your healthcare benefits.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/disappointed-by-your-skimpy-pay-raise-blame-your-healthcare-benefits-8025491b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-03T15:17:00.000Z",
-      "why": null,
-      "ago": "18 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?",
@@ -79,42 +68,53 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-03T15:15:00.000Z",
+      "published": "2026-08-03T23:15:00.000Z",
       "why": null,
-      "ago": "20 分鐘前"
+      "ago": "18 分鐘前"
     },
     {
-      "title": "Why tech stocks are likely to take a back seat for the rest of 2026, according to JPMorgan strategists",
+      "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/why-tech-stocks-are-likely-to-take-a-back-seat-for-the-rest-of-2026-according-to-jpmorgan-strategists-93e1c61f?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-03T15:03:00.000Z",
+      "published": "2026-08-03T22:45:00.000Z",
       "why": null,
-      "ago": "32 分鐘前"
+      "ago": "48 分鐘前"
     },
     {
-      "title": "They spent tens of thousands of dollars on home remodels — only to regret it. ‘It’s just been so much.’",
+      "title": "Microsoft’s stock is on a run not seen in 26 years — erasing its year-to-date losses",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/they-spent-tens-of-thousands-of-dollars-on-home-remodels-only-to-regret-it-8cfa23e6?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/microsofts-stock-is-on-a-run-not-seen-in-26-years-erasing-its-year-to-date-losses-d9827b6c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-03T14:52:00.000Z",
+      "published": "2026-08-03T22:44:00.000Z",
       "why": null,
-      "ago": "43 分鐘前"
+      "ago": "49 分鐘前"
     },
     {
-      "title": "My boss and I work in different cities and she never responds to my messages. What do I do?",
+      "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/my-boss-and-i-work-in-different-cities-and-she-never-responds-to-my-messages-what-do-i-do-45713e98?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-03T14:37:00.000Z",
+      "published": "2026-08-03T22:30:00.000Z",
       "why": null,
-      "ago": "58 分鐘前"
+      "ago": "1 小時前"
+    },
+    {
+      "title": "If I buy a house for $1 million in cash at 70, will I run out of money by 90?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/if-i-buy-a-house-for-1-million-in-cash-at-70-will-i-run-out-of-money-by-90-54afb313?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-03T22:15:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
     }
   ],
   "errors": []

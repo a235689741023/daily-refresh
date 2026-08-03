@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-03T15:34:47.763Z",
-  "updatedLocal": "2026/8/3 23:34:47",
+  "updated": "2026-08-03T23:32:44.210Z",
+  "updatedLocal": "2026/8/4 07:32:44",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-03T12:26:38.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "What’s next: Key climate and nature standards in 2026",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-03T12:23:08.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "New suggested way to estimate AI emissions",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-08-03T12:12:28.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "What’s next for the GHG Protocol’s Scope 2 overhaul",
@@ -48,7 +48,29 @@
       "group": null,
       "published": "2026-08-03T11:45:57.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Report: Over 70% of global fleets made no new petrol or diesel purchases in 2025",
+      "summary": "Most global corporate fleets added no new diesel or petrol vehicles to their stock last year, according to non-profit organisation Climate Group.",
+      "url": "https://www.edie.net/report-over-70-of-global-fleets-made-no-new-petrol-or-diesel-purchases-in-2025/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-03T16:59:58.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "How can brands make green claims without falling foul of the ASA?",
+      "summary": "Following a string of high-profile rulings against brands over environmental claims, the Advertising Standards Authority (ASA) has published updated guidance aimed at helping advertisers avoid greenwashing.",
+      "url": "https://www.edie.net/how-can-brands-make-green-claims-without-falling-foul-of-the-asa/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-03T15:40:18.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Germany’s cleantech rollout behind schedule for 2030 goals",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-08-03T14:44:15.000Z",
       "why": null,
-      "ago": "51 分鐘前"
+      "ago": "9 小時前"
     },
     {
       "title": "Veolia trials new carbon capture technology in ‘UK first’",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-08-03T12:40:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "National Grid pledges £5m to grow future energy workforce",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-08-03T11:24:27.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Q&A: Does the world need ‘carbon capture and storage’ to reach net-zero?",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-08-03T13:05:33.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "「種福電」十周年回顧：一筆捐款撬動20年收益，為何在ESG評分中難被看見？",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243724",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-03T09:49:05.000Z",
-      "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "馬太鞍溪堤防徵地欠溝通 民間成立聯盟籲重視部落參與",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243725",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-03T14:19:11.000Z",
-      "why": null,
-      "ago": "1 小時前"
+      "ago": "10 小時前"
     }
   ],
   "errors": []

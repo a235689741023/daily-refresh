@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-03T15:34:47.763Z",
-  "updatedLocal": "2026/8/3 23:34:47",
+  "updated": "2026-08-03T23:32:44.210Z",
+  "updatedLocal": "2026/8/4 07:32:44",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-07-30T07:00:00.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
     },
     {
       "title": "Action Required: ArcGIS Online and Location Platform SAML Customers",
@@ -37,7 +37,7 @@
       "group": "gis",
       "published": "2026-07-28T07:00:00.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
     },
     {
       "title": "Experience the magic of Kosovo from anywhere with Street View",
@@ -48,7 +48,7 @@
       "group": "gis",
       "published": "2026-07-31T08:00:00.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
       "title": "Infrastructure Isn’t Just Built Anymore. It Thinks",
@@ -59,7 +59,29 @@
       "group": "gis",
       "published": "2026-07-30T06:50:27.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
+    },
+    {
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "summary": "For voice AI, knowing when to speak is harder than it sounds.",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-03T07:00:00.000Z",
+      "why": null,
+      "ago": "17 小時前"
+    },
+    {
+      "title": "Trump’s AI protectionism has come for robotics",
+      "summary": "Humanoid robots usually elicit more cringe than awe: They stumble , kick children , and despite advances are still worse at using their hands than my toddler.",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-08-03T18:43:30.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "Here’s why AI agents lie and cheat to reach their goals",
@@ -70,62 +92,40 @@
       "group": "ai",
       "published": "2026-08-03T08:30:05.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
+    },
+    {
+      "title": "AI & Tech Brief: The Senate’s frontier AI bill",
+      "summary": null,
+      "url": "https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/08/03/ai-tech-brief-senates-frontier-ai-bill/",
+      "source": "The Washington Post",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-03T22:31:40.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "EU AI Act Transparency Rules Put Financial Institutions on Compliance Front Line",
+      "summary": "The European Union’s landmark AI Act entered a new phase on Sunday (Aug. 2) as the regulation’s transparency provisions became enforceable.",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/eu-ai-act-transparency-rules-put-financial-institutions-on-compliance-front-line/",
+      "source": "PYMNTS.com",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-03T17:10:41.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "EU AI Act Transparency Rules Are Now In Effect. Was It A Missed Opportunity?",
       "summary": "Yesterday, the transparency rules in the European Union’s AI Act entered into effect .",
-      "url": "https://www.techpolicy.press/eu-ai-act-transparency-rules-are-now-in-effect-was-it-a-missed-opportunity/",
-      "source": "techpolicy.press",
+      "url": "https://techpolicy.press/eu-ai-act-transparency-rules-are-now-in-effect-was-it-a-missed-opportunity",
+      "source": "Tech Policy Press",
       "tag": "政策",
       "group": "ai",
       "published": "2026-08-03T13:09:03.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "EU AI Act's Next Phase Puts Pressure on Big Tech—and Not Just in Europe",
-      "summary": null,
-      "url": "https://www.law.com/international-edition/2026/08/03/eu-ai-acts-next-phase-puts-pressure-on-big-techand-not-just-in-europe/",
-      "source": "Law.com",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-03T10:35:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "EU Begins Enforcement of Landmark AI Act Rules",
-      "summary": null,
-      "url": "https://impakter.com/eu-enforcement-landmark-ai-act-rules/",
-      "source": "Impakter",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-03T08:09:42.000Z",
-      "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "AI Act enforcement begins as EU introduces new transparency rules for artificial intelligence",
-      "summary": "New transparency requirements also come into force, requiring certain AI systems to clearly inform users when they are interacting with AI rather than a human.",
-      "url": "https://www.innovationnewsnetwork.com/ai-act-enforcement-begins-across-the-eu/72227/",
-      "source": "innovationnewsnetwork.com",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-03T12:30:21.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Three things you need to know about the new EU AI Act rules",
-      "summary": "Aspects of the EU AI Act have come into force, bringing a new set of obligations designed to improve transparency for AI use.",
-      "url": "https://www.itpro.com/business/policy-and-legislation/three-things-you-need-to-know-about-the-new-eu-ai-act-rules",
-      "source": "IT Pro",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-03T09:40:36.000Z",
-      "why": null,
-      "ago": "6 小時前"
+      "ago": "10 小時前"
     }
   ],
   "errors": []
