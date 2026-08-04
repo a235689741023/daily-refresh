@@ -1,22 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-03T23:32:44.210Z",
-  "updatedLocal": "2026/8/4 07:32:44",
+  "updated": "2026-08-04T05:50:47.246Z",
+  "updatedLocal": "2026/8/4 13:50:47",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Esri's approach to responsible AI",
-      "summary": "Organizations are making real progress with AI. Workflows are faster. Repetitive tasks that once absorbed days of analyst time now get done in minutes.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis/geoai/esris-approach-responsible-ai-enterprise",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-07-28T16:18:00.000Z",
-      "why": null,
-      "ago": "6 天前"
-    },
     {
       "title": "ArcGIS Utility Network migration reading list",
       "summary": "Each piece of content includes a title, description, type of content, and targeted experience level.",
@@ -36,6 +25,17 @@
       "tag": "平台",
       "group": "gis",
       "published": "2026-07-28T07:00:00.000Z",
+      "why": null,
+      "ago": "7 天前"
+    },
+    {
+      "title": "Esri's approach to responsible AI",
+      "summary": "Organizations are making real progress with AI. Workflows are faster. Repetitive tasks that once absorbed days of analyst time now get done in minutes.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis/geoai/esris-approach-responsible-ai-enterprise",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-07-28T16:18:00.000Z",
       "why": null,
       "ago": "7 天前"
     },
@@ -62,6 +62,17 @@
       "ago": "5 天前"
     },
     {
+      "title": "Apple is getting this wrong",
+      "summary": "Apple is one of the greatest companies of all time, and built a reputation for obsessing over the smallest details.",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-03T22:00:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
       "title": "How we built a realtime system for responsive voice AI in six months",
       "summary": "For voice AI, knowing when to speak is harder than it sounds.",
       "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
@@ -70,7 +81,29 @@
       "group": "ai",
       "published": "2026-08-03T07:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "- partner-sso.anthropic.com",
+      "summary": null,
+      "url": "https://partner-sso.anthropic.com/",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-03T00:56:20.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "summary": "Circles uses the OpenAI API to personalize support and resolve issues in real time, driving 22% ARPU growth in markets like Singapore.",
+      "url": "https://openai.com/index/circles",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-03T00:00:00.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Trump’s AI protectionism has come for robotics",
@@ -81,7 +114,7 @@
       "group": "ai",
       "published": "2026-08-03T18:43:30.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Here’s why AI agents lie and cheat to reach their goals",
@@ -92,40 +125,7 @@
       "group": "ai",
       "published": "2026-08-03T08:30:05.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "AI & Tech Brief: The Senate’s frontier AI bill",
-      "summary": null,
-      "url": "https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/08/03/ai-tech-brief-senates-frontier-ai-bill/",
-      "source": "The Washington Post",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-03T22:31:40.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "EU AI Act Transparency Rules Put Financial Institutions on Compliance Front Line",
-      "summary": "The European Union’s landmark AI Act entered a new phase on Sunday (Aug. 2) as the regulation’s transparency provisions became enforceable.",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/eu-ai-act-transparency-rules-put-financial-institutions-on-compliance-front-line/",
-      "source": "PYMNTS.com",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-03T17:10:41.000Z",
-      "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "EU AI Act Transparency Rules Are Now In Effect. Was It A Missed Opportunity?",
-      "summary": "Yesterday, the transparency rules in the European Union’s AI Act entered into effect .",
-      "url": "https://techpolicy.press/eu-ai-act-transparency-rules-are-now-in-effect-was-it-a-missed-opportunity",
-      "source": "Tech Policy Press",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-03T13:09:03.000Z",
-      "why": null,
-      "ago": "10 小時前"
+      "ago": "21 小時前"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-03T23:32:44.210Z",
-  "updatedLocal": "2026/8/4 07:32:44",
+  "updated": "2026-08-04T05:50:47.246Z",
+  "updatedLocal": "2026/8/4 13:50:47",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-03T15:59:04.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-03T19:20:25.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-08-03T16:44:25.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Tourism price wars threaten to dim a rare bright spot in China's consumer spending",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-08-03T10:32:09.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
@@ -59,7 +59,18 @@
       "group": null,
       "published": "2026-08-03T16:54:19.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "13 小時前"
+    },
+    {
+      "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-04T00:00:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-08-03T23:15:00.000Z",
       "why": null,
-      "ago": "18 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-08-03T22:45:00.000Z",
       "why": null,
-      "ago": "48 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "Microsoft’s stock is on a run not seen in 26 years — erasing its year-to-date losses",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-08-03T22:44:00.000Z",
       "why": null,
-      "ago": "49 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-08-03T22:30:00.000Z",
       "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "If I buy a house for $1 million in cash at 70, will I run out of money by 90?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/if-i-buy-a-house-for-1-million-in-cash-at-70-will-i-run-out-of-money-by-90-54afb313?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-03T22:15:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
+      "ago": "7 小時前"
     }
   ],
   "errors": []
