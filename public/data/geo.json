@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-04T15:13:49.793Z",
-  "updatedLocal": "2026/8/4 23:13:49",
+  "updated": "2026-08-04T23:30:04.980Z",
+  "updatedLocal": "2026/8/5 07:30:04",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-03T18:56:12.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "ArcGIS Utility Network migration reading list",
@@ -26,18 +26,7 @@
       "group": "gis",
       "published": "2026-07-30T07:00:00.000Z",
       "why": null,
-      "ago": "5 天前"
-    },
-    {
-      "title": "Esri's approach to responsible AI",
-      "summary": "Organizations are making real progress with AI. Workflows are faster. Repetitive tasks that once absorbed days of analyst time now get done in minutes.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis/geoai/esris-approach-responsible-ai-enterprise",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-07-28T16:18:00.000Z",
-      "why": null,
-      "ago": "7 天前"
+      "ago": "6 天前"
     },
     {
       "title": "Experience the magic of Kosovo from anywhere with Street View",
@@ -48,7 +37,7 @@
       "group": "gis",
       "published": "2026-07-31T08:00:00.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
     },
     {
       "title": "Infrastructure Isn’t Just Built Anymore. It Thinks",
@@ -59,7 +48,40 @@
       "group": "gis",
       "published": "2026-07-30T06:50:27.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
+    },
+    {
+      "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
+      "summary": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships worldwide.",
+      "url": "https://www.anthropic.com/news/tino-cuellar",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-04T17:05:54.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "summary": "Independent testing plays an important role in helping us validate and further understand risks before deployment.",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-04T19:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "summary": "Introducing new plugins specifically designed to guide K–12 teachers, college educators, and college students.",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-04T00:00:00.000Z",
+      "why": null,
+      "ago": "24 小時前"
     },
     {
       "title": "Apple is getting this wrong",
@@ -70,7 +92,7 @@
       "group": "ai",
       "published": "2026-08-03T22:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Trump’s AI protectionism has come for robotics",
@@ -81,7 +103,7 @@
       "group": "ai",
       "published": "2026-08-03T18:43:30.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
       "title": "The latest AI news we announced in July 2026",
@@ -92,40 +114,7 @@
       "group": "ai",
       "published": "2026-08-04T13:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Inside our 353,000-person vibe coding course",
-      "summary": "Google and Kaggle’s “AI Agents: Intensive Vibe Coding” course had expert-led sessions, technical whitepapers and notebooks, and capstone projects.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "source": "Google AI Blog",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-03T15:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
-      "summary": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for.",
-      "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-08-04T15:00:49.000Z",
-      "why": null,
-      "ago": "13 分鐘前"
-    },
-    {
-      "title": "As AI Increases Demands on Memory, Storage Steps Up",
-      "summary": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory.",
-      "url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-08-04T15:00:47.000Z",
-      "why": null,
-      "ago": "13 分鐘前"
+      "ago": "11 小時前"
     }
   ],
   "errors": []
