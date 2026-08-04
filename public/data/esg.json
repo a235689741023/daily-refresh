@@ -1,11 +1,33 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-04T05:50:47.246Z",
-  "updatedLocal": "2026/8/4 13:50:47",
+  "updated": "2026-08-04T15:13:49.793Z",
+  "updatedLocal": "2026/8/4 23:13:49",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "9 novels for the sustainability-minded reader",
+      "summary": "Vacation itineraries and long flights have a way of making room for fiction.",
+      "url": "https://trellis.net/article/novels-sustainability-minded-reader/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-04T10:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Why data center companies Equinix and Oracle are buying fuel cells",
+      "summary": "The “speed to power” ambitions of big cloud computing service providers and data center companies are boosting installations of on-site fuel cells, particularly those made by Bloom Energy.",
+      "url": "https://trellis.net/article/why-data-center-companies-equinix-oracle-buying-fuel-cells/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-04T10:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
     {
       "title": "Sustainability tools to use in 2026",
       "summary": "Welcome to the Trellis roundup of new products and services for sustainability professionals, as chosen by our editorial team.",
@@ -15,7 +37,7 @@
       "group": null,
       "published": "2026-08-03T12:26:38.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
       "title": "What’s next: Key climate and nature standards in 2026",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-08-03T12:23:08.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
       "title": "New suggested way to estimate AI emissions",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-08-03T12:12:28.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
       "title": "What’s next for the GHG Protocol’s Scope 2 overhaul",
@@ -48,7 +70,40 @@
       "group": null,
       "published": "2026-08-03T11:45:57.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Defra: Plastic bag charge cut single-use sales by 98% at major retailers",
+      "summary": "Since the bag charge was introduced in October 2015, sales of single-use plastic carrier bags have fallen 98% across leading retailers like Marks and Spencer and Tesco.",
+      "url": "https://www.edie.net/defra-single-use-plastic-bag-sales-cut-98-at-major-retailers-since-levy/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-04T14:53:02.000Z",
+      "why": null,
+      "ago": "21 分鐘前"
+    },
+    {
+      "title": "The new normal: How climate risk is reshaping property value",
+      "summary": "Europe's worsening climate extremes are exposing a new financial risk.",
+      "url": "https://www.edie.net/the-new-normal-how-climate-risk-is-reshaping-property-value/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-04T12:27:17.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "CBAM costs for Indian steelmakers unlikely to be as high as first feared",
+      "summary": "New research has found that fears among Indian policymakers and steel producers regarding cost compliance with the EU’s Carbon Border Adjustment Mechanism (CBAM) could be unfounded, with some producers able to benefit from low-carbon exports.",
+      "url": "https://www.edie.net/cbam-costs-for-indian-steelmakers-unlikely-to-be-as-high-as-first-feared/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-04T08:00:08.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "Report: Over 70% of global fleets made no new petrol or diesel purchases in 2025",
@@ -59,62 +114,7 @@
       "group": null,
       "published": "2026-08-03T16:59:58.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "How can brands make green claims without falling foul of the ASA?",
-      "summary": "Following a string of high-profile rulings against brands over environmental claims, the Advertising Standards Authority (ASA) has published updated guidance aimed at helping advertisers avoid greenwashing.",
-      "url": "https://www.edie.net/how-can-brands-make-green-claims-without-falling-foul-of-the-asa/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-03T15:40:18.000Z",
-      "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "Germany’s cleantech rollout behind schedule for 2030 goals",
-      "summary": "New research has highlighted that rollouts of renewables, heat pumps and electric vehicles (EVs) are progressing in Germany, but are still below the required rates to reach 2030 climate goals.",
-      "url": "https://www.edie.net/germanys-cleantech-rollout-behind-schedule-for-2030-goals/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-03T14:44:15.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Veolia trials new carbon capture technology in ‘UK first’",
-      "summary": "The resource management company has successfully deployed the novel system at is site in Sheffield, which now traps up to one tonne of carbon dioxide (CO2) daily.",
-      "url": "https://www.edie.net/veolia-trials-new-carbon-capture-technology-in-uk-first/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-03T12:40:00.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "National Grid pledges £5m to grow future energy workforce",
-      "summary": "National Grid has unveiled a £5m ‘Power Within Employability Fund’ to help 5,000 unemployed young people kickstart careers in key sectors like infrastructure and energy.",
-      "url": "https://www.edie.net/national-grid-pledges-5m-to-grow-future-energy-workforce/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-03T11:24:27.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Q&A: Does the world need ‘carbon capture and storage’ to reach net-zero?",
-      "summary": "When carbon dioxide (CO2) is released from a factory or power plant, the gas can be captured and permanently stored underground, preventing it from driving climate change.",
-      "url": "https://www.carbonbrief.org/qa-does-the-world-need-carbon-capture-and-storage-to-reach-net-zero",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-08-03T13:05:33.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "22 小時前"
     }
   ],
   "errors": []

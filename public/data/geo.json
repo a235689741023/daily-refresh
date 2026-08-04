@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-04T05:50:47.246Z",
-  "updatedLocal": "2026/8/4 13:50:47",
+  "updated": "2026-08-04T15:13:49.793Z",
+  "updatedLocal": "2026/8/4 23:13:49",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Developer’s Lounge: Demystifying the Esri Developer Experience",
+      "summary": "“ Where do I begin?” and “ What tools are available for building my application?",
+      "url": "https://www.esri.com/arcgis-blog/products/developers/mapping/developers-lounge-demystifying-the-esri-developer-experience",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-08-03T18:56:12.000Z",
+      "why": null,
+      "ago": "20 小時前"
+    },
     {
       "title": "ArcGIS Utility Network migration reading list",
       "summary": "Each piece of content includes a title, description, type of content, and targeted experience level.",
@@ -16,17 +27,6 @@
       "published": "2026-07-30T07:00:00.000Z",
       "why": null,
       "ago": "5 天前"
-    },
-    {
-      "title": "Action Required: ArcGIS Online and Location Platform SAML Customers",
-      "summary": "ArcGIS Online (and Location Platform) Organization administrators that have enabled Signed and/or Encrypted SAML Assertions in alignment with ArcGIS Online Best Practices for SAML Security must obtain the latest ArcGIS Online Service Provider metadata file + certificate and associate it with their Enterprise (SAML) Identity Provider (e.g. Entra ID Enterprise Applications ) before August 28, 2026 to ensure continued (SAML) login operations with ArcGIS Online.",
-      "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/action-required-arcgis-online-saml-customers",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-07-28T07:00:00.000Z",
-      "why": null,
-      "ago": "7 天前"
     },
     {
       "title": "Esri's approach to responsible AI",
@@ -70,40 +70,7 @@
       "group": "ai",
       "published": "2026-08-03T22:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "summary": "For voice AI, knowing when to speak is harder than it sounds.",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-03T07:00:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "- partner-sso.anthropic.com",
-      "summary": null,
-      "url": "https://partner-sso.anthropic.com/",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-03T00:56:20.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "summary": "Circles uses the OpenAI API to personalize support and resolve issues in real time, driving 22% ARPU growth in markets like Singapore.",
-      "url": "https://openai.com/index/circles",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-03T00:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "17 小時前"
     },
     {
       "title": "Trump’s AI protectionism has come for robotics",
@@ -114,18 +81,51 @@
       "group": "ai",
       "published": "2026-08-03T18:43:30.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "21 小時前"
     },
     {
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "summary": "When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers to a test question.",
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
+      "title": "The latest AI news we announced in July 2026",
+      "summary": "Here’s a recap of some of our biggest AI updates from July, including three new Gemini models for building AI agents at scale and Gemini Robotics ER 2 to help robots reason, collaborate, and solve real-world tasks.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "source": "Google AI Blog",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-08-03T08:30:05.000Z",
+      "published": "2026-08-04T13:00:00.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Inside our 353,000-person vibe coding course",
+      "summary": "Google and Kaggle’s “AI Agents: Intensive Vibe Coding” course had expert-led sessions, technical whitepapers and notebooks, and capstone projects.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "source": "Google AI Blog",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-03T15:00:00.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
+      "summary": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for.",
+      "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
+      "group": "ai",
+      "published": "2026-08-04T15:00:49.000Z",
+      "why": null,
+      "ago": "13 分鐘前"
+    },
+    {
+      "title": "As AI Increases Demands on Memory, Storage Steps Up",
+      "summary": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory.",
+      "url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
+      "group": "ai",
+      "published": "2026-08-04T15:00:47.000Z",
+      "why": null,
+      "ago": "13 分鐘前"
     }
   ],
   "errors": []
