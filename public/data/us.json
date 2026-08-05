@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-04T23:30:04.980Z",
-  "updatedLocal": "2026/8/5 07:30:04",
+  "updated": "2026-08-05T05:48:37.604Z",
+  "updatedLocal": "2026/8/5 13:48:37",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-04T21:39:30.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Polymarket in talks for fundraising round at more than $20 billion valuation",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-04T13:31:19.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-08-04T17:49:24.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-08-04T16:14:49.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Kalshi strikes partnership with compliance tech firm to help companies police insider trading",
@@ -59,18 +59,7 @@
       "group": null,
       "published": "2026-08-04T12:05:41.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
-      "summary": "California is home to the highest fuel prices in the U.S. as well as the busiest containership port complex in the nation.",
-      "url": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-03T19:20:25.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "18 小時前"
     },
     {
       "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
@@ -81,7 +70,7 @@
       "group": null,
       "published": "2026-08-04T14:42:39.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.",
@@ -92,7 +81,7 @@
       "group": null,
       "published": "2026-08-04T22:40:00.000Z",
       "why": null,
-      "ago": "50 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "Upstart’s AI upgrades pay off, as a pickup in loan growth helps send the stock higher",
@@ -103,7 +92,7 @@
       "group": null,
       "published": "2026-08-04T22:22:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Chipotle pulls jalapenos from some locations after salmonella investigation. Here’s what to know.",
@@ -114,7 +103,18 @@
       "group": null,
       "published": "2026-08-04T21:54:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Stocks face their weakest seasonal stretch. Why extreme investor pessimism could limit any selling.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/stocks-face-their-weakest-seasonal-stretch-why-extreme-investor-pessimism-could-limit-any-selling-768261e9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-04T21:25:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
     }
   ],
   "errors": []

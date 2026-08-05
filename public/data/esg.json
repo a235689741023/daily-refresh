@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-04T23:30:04.980Z",
-  "updatedLocal": "2026/8/5 07:30:04",
+  "updated": "2026-08-05T05:48:37.604Z",
+  "updatedLocal": "2026/8/5 13:48:37",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-04T10:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Why data center companies Equinix and Oracle are buying fuel cells",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-04T10:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Heatwave and drought cost UK farmers £390m, research suggests",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-08-04T23:02:17.000Z",
       "why": null,
-      "ago": "28 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "Defra: Plastic bag charge cut single-use sales by 98% at major retailers",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-08-04T14:53:02.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "The new normal: How climate risk is reshaping property value",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-08-04T12:27:17.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "CBAM costs for Indian steelmakers unlikely to be as high as first feared",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-08-04T08:00:08.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Factcheck: How nuclear, gas, wind and solar power are affected during heatwaves",
@@ -81,40 +81,40 @@
       "group": null,
       "published": "2026-08-04T15:39:06.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "14 小時前"
     },
     {
-      "title": "中市銷毀364噸回收油轉生質柴油 、歐洲野火災損逾1120億、東京多摩動物園3獅疑熱死",
+      "title": "金門海漂豬檢出非洲豬瘟今年第2例、法國7月高溫寫史上最熱紀錄、美國環孢子蟲病情擴大釀2死",
       "summary": null,
-      "url": "https://e-info.org.tw/node/243728",
+      "url": "https://e-info.org.tw/node/243730",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-08-04T02:29:59.000Z",
+      "published": "2026-08-05T02:40:47.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "歐洲野貓命運大不同：捷克百年重現、德法回升、蘇格蘭告急",
+      "title": "數月窩在沙裡也能生存 圓胖可愛的「沙漠雨蛙」難敵人類開發",
       "summary": null,
-      "url": "https://e-info.org.tw/node/243694",
+      "url": "https://e-info.org.tw/node/243667",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-08-04T01:29:56.000Z",
+      "published": "2026-08-05T01:21:01.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "4 小時前"
     },
     {
-      "title": "馬太鞍之後，萬里溪堰塞湖的防災難題",
+      "title": "想為你打造清潔車：看見問題之後，東海大學師生的實際行動",
       "summary": null,
-      "url": "https://e-info.org.tw/node/243712",
+      "url": "https://e-info.org.tw/node/243713",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-08-04T02:40:00.000Z",
+      "published": "2026-08-05T02:40:47.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "3 小時前"
     }
   ],
   "errors": []
