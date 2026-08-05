@@ -1,11 +1,44 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-05T05:48:37.604Z",
-  "updatedLocal": "2026/8/5 13:48:37",
+  "updated": "2026-08-05T15:05:24.632Z",
+  "updatedLocal": "2026/8/5 23:05:24",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
+      "summary": "Bank of America spends more than $250 million a year covering GLP-1 weight loss drugs for its employees, CEO Brian Moynihan told CNBC on Wednesday, saying the rapidly rising cost is a worthwhile investment in his workforce.",
+      "url": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-05T14:59:45.000Z",
+      "why": null,
+      "ago": "6 分鐘前"
+    },
+    {
+      "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
+      "summary": "Bank of America CEO Brian Moynihan on Wednesday called the recent near-collapse of high-flying AI hedge fund Situational Awareness a warning shot for financial markets that are being fueled by elevated valuations and borrowed money.",
+      "url": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-05T14:29:46.000Z",
+      "why": null,
+      "ago": "36 分鐘前"
+    },
+    {
+      "title": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
+      "summary": "Ken Griffin's Citadel posted strong gains across its major hedge funds in July, helped by a recovery in risk assets and a discounted purchase of assets from the collapse of Leopold Aschenbrenner's Situational Awareness to end the month, according to a person familiar with the firm's performance.",
+      "url": "https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-05T11:13:46.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'",
       "summary": "Michael Burry of \"The Big Short\" fame is sticking with his bearish wagers even as the S&P 500 surges to a record high, warning that the rally could still end in a sharp sell-off reminiscent of the 1987 stock-market crash.",
@@ -15,18 +48,7 @@
       "group": null,
       "published": "2026-08-04T21:39:30.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "Polymarket in talks for fundraising round at more than $20 billion valuation",
-      "summary": "Prediction market platform Polymarket is in talks for a fundraising round that would value the company at north of $20 billion, a person familiar with the matter confirmed to CNBC.",
-      "url": "https://www.cnbc.com/2026/08/04/polymarket-seeks-fundraising-round-at-more-than-20-billion-valuation.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-04T13:31:19.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-08-04T17:49:24.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
@@ -48,7 +70,18 @@
       "group": null,
       "published": "2026-08-04T16:14:49.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "Polymarket in talks for fundraising round at more than $20 billion valuation",
+      "summary": "Prediction market platform Polymarket is in talks for a fundraising round that would value the company at north of $20 billion, a person familiar with the matter confirmed to CNBC.",
+      "url": "https://www.cnbc.com/2026/08/04/polymarket-seeks-fundraising-round-at-more-than-20-billion-valuation.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-04T13:31:19.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Kalshi strikes partnership with compliance tech firm to help companies police insider trading",
@@ -59,60 +92,27 @@
       "group": null,
       "published": "2026-08-04T12:05:41.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
-      "summary": "A burst in factory activity shows the U.S. economy may be escaping the burden of tariffs and gaining manufacturing jobs, while at the same time laboring under the geopolitical uncertainty that some industry leaders say is worse than the Covid pandemic.",
-      "url": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html",
+      "title": "Private companies added just 44,000 workers in July, below expectations, ADP reports",
+      "summary": "Hiring at private companies slowed considerably in July, with most of the job growth coming health care, payrolls processing firm ADP reported Wednesday.",
+      "url": "https://www.cnbc.com/2026/08/05/private-companies-added-just-44000-workers-in-july-below-expectations-adp-reports.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-08-04T14:42:39.000Z",
+      "published": "2026-08-05T13:42:05.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "1 小時前"
     },
     {
-      "title": "Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/stocks-return-to-record-highs-investors-who-sat-tight-during-the-recent-momentum-crash-are-being-rewarded-8c960105?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
+      "title": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
+      "summary": "The drought in Europe is so severe that it is jeopardizing countries' economic growth and forcing them to take extreme measures like blowing up riverbeds.",
+      "url": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-08-04T22:40:00.000Z",
-      "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Upstart’s AI upgrades pay off, as a pickup in loan growth helps send the stock higher",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-04T22:22:00.000Z",
-      "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Chipotle pulls jalapenos from some locations after salmonella investigation. Here’s what to know.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/chipotle-pulls-jalapenos-from-some-locations-after-salmonella-investigation-heres-what-to-know-20d8c66f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-04T21:54:00.000Z",
-      "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "Stocks face their weakest seasonal stretch. Why extreme investor pessimism could limit any selling.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/stocks-face-their-weakest-seasonal-stretch-why-extreme-investor-pessimism-could-limit-any-selling-768261e9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-04T21:25:00.000Z",
+      "published": "2026-08-05T07:15:17.000Z",
       "why": null,
       "ago": "8 小時前"
     }

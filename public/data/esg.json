@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-05T05:48:37.604Z",
-  "updatedLocal": "2026/8/5 13:48:37",
+  "updated": "2026-08-05T15:05:24.632Z",
+  "updatedLocal": "2026/8/5 23:05:24",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "How gamification can nudge employees to act more sustainably",
+      "summary": "AstraZeneca and Amgen are among the winners of a competition that demonstrates how gamification can motivate companies and employees to tackle sustainability challenges.",
+      "url": "https://trellis.net/article/astrazeneca-amgen-2026-freezer-challenge/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-05T14:52:44.000Z",
+      "why": null,
+      "ago": "13 分鐘前"
+    },
     {
       "title": "9 novels for the sustainability-minded reader",
       "summary": "Vacation itineraries and long flights have a way of making room for fiction.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-08-04T10:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Why data center companies Equinix and Oracle are buying fuel cells",
@@ -26,10 +37,65 @@
       "group": null,
       "published": "2026-08-04T10:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Heatwave and drought cost UK farmers £390m, research suggests",
+      "title": "Sustainability loans for palm oil firms linked to deforestation, report warns",
+      "summary": "Banks have been accused of funding palm oil companies linked to deforestation and human rights violations via loans tied to corporate sustainability targets and performance.",
+      "url": "https://www.edie.net/sustainability-loans-for-palm-oil-firms-linked-to-deforestation-report-warns/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-05T13:22:03.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Masterclass: Driving circularity goals through business procurement",
+      "summary": "Event Date: 26/10/2026 | 1:00 pm UK | 9:00 am US East Coast ET | 6:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST Join our 45-minute masterclass on 26 October 2026 to discover how to drive circularity goals through effective business procurement.",
+      "url": "https://www.edie.net/masterclass-driving-circularity-goals-through-business-procurement/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-05T13:01:12.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Masterclass: How finance teams can identify and fund the strongest sustainability projects",
+      "summary": "Event Date: 16/11/2026 | 1:00 pm UK | 8:00 am US East Coast ET | 5:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST Elevate your finance team's role in driving sustainability.",
+      "url": "https://www.edie.net/masterclass-how-finance-teams-can-identify-and-fund-the-strongest-sustainability-projects/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-05T12:56:57.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Government’s procurement reforms prioritise jobs over net-zero",
+      "summary": "The Government has announced a new weighting system for prospective public contracts that assesses whether spending supports UK jobs and communities, while criteria like net-zero requirements have been cut.",
+      "url": "https://www.edie.net/government-strengthens-social-value-rules-for-public-procurement/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-05T11:15:24.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Heineken UK launches regenerative barley programme",
+      "summary": "Heineken UK has launched a regenerative malting barley programme that will pay UK farmers a premium on regenerative barley yields as part of efforts to expand the use of regenerative agriculture across its brewing supply chain.",
+      "url": "https://www.edie.net/heineken-uk-launches-regenerative-barley-programme/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-05T11:06:42.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Heatwaves and drought cost UK farmers £390m, research suggests",
       "summary": "This year's exceptionally hot and dry conditions may have cut UK harvests by almost £400m according to provisional estimates.",
       "url": "https://www.edie.net/heatwave-and-drought-cost-uk-farmers-390m-research-suggests/",
       "source": "edie",
@@ -37,40 +103,7 @@
       "group": null,
       "published": "2026-08-04T23:02:17.000Z",
       "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Defra: Plastic bag charge cut single-use sales by 98% at major retailers",
-      "summary": "Since the bag charge was introduced in October 2015, sales of single-use plastic carrier bags have fallen 98% across leading retailers like Marks and Spencer and Tesco.",
-      "url": "https://www.edie.net/defra-single-use-plastic-bag-sales-cut-98-at-major-retailers-since-levy/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-04T14:53:02.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "The new normal: How climate risk is reshaping property value",
-      "summary": "Europe's worsening climate extremes are exposing a new financial risk.",
-      "url": "https://www.edie.net/the-new-normal-how-climate-risk-is-reshaping-property-value/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-04T12:27:17.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "CBAM costs for Indian steelmakers unlikely to be as high as first feared",
-      "summary": "New research has found that fears among Indian policymakers and steel producers regarding cost compliance with the EU’s Carbon Border Adjustment Mechanism (CBAM) could be unfounded, with some producers able to benefit from low-carbon exports.",
-      "url": "https://www.edie.net/cbam-costs-for-indian-steelmakers-unlikely-to-be-as-high-as-first-feared/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-04T08:00:08.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Factcheck: How nuclear, gas, wind and solar power are affected during heatwaves",
@@ -81,40 +114,7 @@
       "group": null,
       "published": "2026-08-04T15:39:06.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "金門海漂豬檢出非洲豬瘟今年第2例、法國7月高溫寫史上最熱紀錄、美國環孢子蟲病情擴大釀2死",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243730",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-05T02:40:47.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "數月窩在沙裡也能生存 圓胖可愛的「沙漠雨蛙」難敵人類開發",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243667",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-05T01:21:01.000Z",
-      "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "想為你打造清潔車：看見問題之後，東海大學師生的實際行動",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243713",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-05T02:40:47.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "23 小時前"
     }
   ],
   "errors": []
