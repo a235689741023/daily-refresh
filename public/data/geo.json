@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-05T15:05:24.632Z",
-  "updatedLocal": "2026/8/5 23:05:24",
+  "updated": "2026-08-05T23:27:36.755Z",
+  "updatedLocal": "2026/8/6 07:27:36",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-04T20:31:34.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Developer’s Lounge: Demystifying the Esri Developer Experience",
@@ -29,17 +29,6 @@
       "ago": "2 天前"
     },
     {
-      "title": "ArcGIS Utility Network migration reading list",
-      "summary": "Each piece of content includes a title, description, type of content, and targeted experience level.",
-      "url": "https://www.esri.com/arcgis-blog/products/utility-network/data-management/arcgis-utility-network-migration-reading-list",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-07-30T07:00:00.000Z",
-      "why": null,
-      "ago": "6 天前"
-    },
-    {
       "title": "Experience the magic of Kosovo from anywhere with Street View",
       "summary": "From unique modern architecture to a UNESCO World Heritage site, Kosovo's rich heritage and dynamic cityscapes are now available for anyone to explore with Google Street View.",
       "url": "https://blog.google/products-and-platforms/products/maps/google-street-view-kosovo/",
@@ -48,7 +37,7 @@
       "group": "gis",
       "published": "2026-07-31T08:00:00.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
       "title": "Infrastructure Isn’t Just Built Anymore. It Thinks",
@@ -59,29 +48,7 @@
       "group": "gis",
       "published": "2026-07-30T06:50:27.000Z",
       "why": null,
-      "ago": "6 天前"
-    },
-    {
-      "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
-      "summary": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships worldwide.",
-      "url": "https://www.anthropic.com/news/tino-cuellar",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-04T17:05:54.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "- partner-sso.anthropic.com",
-      "summary": null,
-      "url": "https://partner-sso.anthropic.com/",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-05T02:59:52.000Z",
-      "why": null,
-      "ago": "12 小時前"
+      "ago": "7 天前"
     },
     {
       "title": "Third-party cyber evaluations involving OpenAI models",
@@ -92,40 +59,62 @@
       "group": "ai",
       "published": "2026-08-04T19:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "The latest AI news we announced in July 2026",
-      "summary": "Here’s a recap of some of our biggest AI updates from July, including three new Gemini models for building AI agents at scale and Gemini Robotics ER 2 to help robots reason, collaborate, and solve real-world tasks.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "source": "Google AI Blog",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-04T13:00:00.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
-      "summary": "NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education.",
-      "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
+      "title": "NVIDIA and Partners Build in America, for America",
+      "summary": "Updated Aug. 5 (originally published July 1) For 250 years, America has built railroads that connected a continent, power grids that lit up cities, factories that powered prosperity, semiconductors that made the digital age possible and the internet that opened knowledge to the world.",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
       "source": "NVIDIA Blog",
       "tag": "基建",
       "group": "ai",
-      "published": "2026-08-04T16:00:56.000Z",
+      "published": "2026-08-05T13:00:47.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "10 小時前"
     },
     {
-      "title": "AI, Italy goes criminal",
-      "summary": "ROME — Italy’s government has approved the final legislative decrees implementing the European Union’s AI Act, but Rome is doing more than simply transposing the bloc’s landmark regulation.",
-      "url": "https://decode39.com/16012/ai-italy-goes-criminal/",
-      "source": "Decode39",
+      "title": "2026 AI Compliance: Upcoming Laws Every Organization Needs to Know",
+      "summary": "Trump’s AI Executive Order, State AI Laws, Chatbot Disclosure Laws, and More Privacy, Cyber & AI Decoded Alert | 6 min read By: Cathy Mulrow-Peattie , *Elyssa Eisenberg This edition of Hinshaw’s Privacy, Cyber, and AI Decoded highlights several 2026-enacted AI laws as well as Executive Orders that organizations should consider in their compliance planning.",
+      "url": "https://www.hinshawlaw.com/en/insights/privacy-cyber-and-ai-decoded-alert/2026-ai-compliance-upcoming-laws-every-organization-needs-to-know",
+      "source": "Hinshaw & Culbertson LLP",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-08-05T08:30:48.000Z",
+      "published": "2026-08-05T15:16:35.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "8 小時前"
+    },
+    {
+      "title": "AI safety questions grow after testing incident raises concerns about system controls",
+      "summary": "President Donald Trump speaks from the Red Rock Casino Resort and Spa in Las Vegas, Nevada.",
+      "url": "https://bakersfieldnow.com/news/nation-world/ai-safety-questions-grow-after-testing-incident-raises-concerns-about-system-controls-leeza-garber-artificial-intelligence-technology-sam-altman-chatgpt-openai-breach-congress-china-pangram-social-media-constitution",
+      "source": "KBAK",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-05T17:35:55.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "AI regulation is reshaping the HR world faster than most employers realize",
+      "summary": "Artificial intelligence is no longer an experimental layer inside HR.",
+      "url": "https://hrexecutive.com/ai-regulation-is-reshaping-the-hr-world-faster-than-most-employers-realize/",
+      "source": "HR Executive",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-05T11:45:15.000Z",
+      "why": null,
+      "ago": "12 小時前"
+    },
+    {
+      "title": "AI safety warnings mount as frontier models test new limits",
+      "summary": "by AUSTIN DENEAN | The National News Desk WASHINGTON (TNND) — Several major developers of advanced artificial intelligence have had their models break out of testing environments and gain access to outside companies, raising questions about whether the technology is advancing too quickly and without proper oversight.",
+      "url": "https://fox23maine.com/news/nation-world/ai-safety-warnings-mount-as-frontier-models-test-new-limits-artificial-intelligence-model-testing-safety-guidelines-regulations-congress",
+      "source": "fox23maine.com",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-05T18:09:41.000Z",
+      "why": null,
+      "ago": "5 小時前"
     }
   ],
   "errors": []

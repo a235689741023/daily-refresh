@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-05T15:05:24.632Z",
-  "updatedLocal": "2026/8/5 23:05:24",
+  "updated": "2026-08-05T23:27:36.755Z",
+  "updatedLocal": "2026/8/6 07:27:36",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
+      "summary": "Federal Reserve Governor Lisa Cook said Wednesday that she's ready to support an interest rate hike unless the inflation numbers improve.",
+      "url": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-05T20:36:16.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
+      "summary": "Add the possibility of fewer meetings into the mix of how Federal Reserve Chairman Kevin Warsh wants to reduce the central bank's footprint on financial markets, a move that some experts say could introduce both volatility and opportunity for investors.",
+      "url": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-05T22:35:26.000Z",
+      "why": null,
+      "ago": "52 分鐘前"
+    },
     {
       "title": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
       "summary": "Bank of America spends more than $250 million a year covering GLP-1 weight loss drugs for its employees, CEO Brian Moynihan told CNBC on Wednesday, saying the rapidly rising cost is a worthwhile investment in his workforce.",
@@ -13,31 +35,31 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-05T14:59:45.000Z",
+      "published": "2026-08-05T16:18:29.000Z",
       "why": null,
-      "ago": "6 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
-      "summary": "Bank of America CEO Brian Moynihan on Wednesday called the recent near-collapse of high-flying AI hedge fund Situational Awareness a warning shot for financial markets that are being fueled by elevated valuations and borrowed money.",
+      "summary": "Bank of America CEO Brian Moynihan on Wednesday called the recent near collapse of high-flying AI hedge fund Situational Awareness a warning shot for financial markets that are being fueled by elevated valuations and borrowed money.",
       "url": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-05T14:29:46.000Z",
+      "published": "2026-08-05T15:55:01.000Z",
       "why": null,
-      "ago": "36 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
-      "summary": "Ken Griffin's Citadel posted strong gains across its major hedge funds in July, helped by a recovery in risk assets and a discounted purchase of assets from the collapse of Leopold Aschenbrenner's Situational Awareness to end the month, according to a person familiar with the firm's performance.",
+      "summary": "Ken Griffin's Citadel posted strong gains across its major hedge funds in July, helped by a recovery in risk assets and a discounted purchase of assets from the collapse of Leopold Aschenbrenner's Situational Awareness hedge fund to end the month, according to a person familiar with the firm's performance.",
       "url": "https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-05T11:13:46.000Z",
+      "published": "2026-08-05T16:17:55.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-08-04T21:39:30.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
@@ -59,51 +81,18 @@
       "group": null,
       "published": "2026-08-04T17:49:24.000Z",
       "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
-      "summary": "Jeff Bezos filed plans to sell about 15 million Amazon shares worth roughly $4.1 billion, after the dominant e-commerce platform's stronger-than-expected earnings sent the stock to a record high, pushing its market value above $3 trillion.",
-      "url": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-04T16:14:49.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Polymarket in talks for fundraising round at more than $20 billion valuation",
-      "summary": "Prediction market platform Polymarket is in talks for a fundraising round that would value the company at north of $20 billion, a person familiar with the matter confirmed to CNBC.",
-      "url": "https://www.cnbc.com/2026/08/04/polymarket-seeks-fundraising-round-at-more-than-20-billion-valuation.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-04T13:31:19.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Kalshi strikes partnership with compliance tech firm to help companies police insider trading",
-      "summary": "Prediction market platform Kalshi is announcing Tuesday a new partnership with compliance technology company Comply as its push into institutional trading continues, the company told CNBC exclusively.",
-      "url": "https://www.cnbc.com/2026/08/04/kalshi-makes-partnership-with-comply-compliance-tech-company.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-04T12:05:41.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
       "title": "Private companies added just 44,000 workers in July, below expectations, ADP reports",
-      "summary": "Hiring at private companies slowed considerably in July, with most of the job growth coming health care, payrolls processing firm ADP reported Wednesday.",
+      "summary": "Hiring at private companies slowed considerably in July, with most of the job growth coming from healthcare, payrolls processing firm ADP reported Wednesday.",
       "url": "https://www.cnbc.com/2026/08/05/private-companies-added-just-44000-workers-in-july-below-expectations-adp-reports.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-08-05T13:42:05.000Z",
+      "published": "2026-08-05T15:08:46.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
@@ -114,7 +103,18 @@
       "group": null,
       "published": "2026-08-05T07:15:17.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
+    },
+    {
+      "title": "Sandisk’s stock falls as the company’s forecast doesn’t live up to high expectations",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/sandisks-stock-falls-as-the-companys-forecast-doesnt-live-up-to-high-expectations-8fd13d9b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-05T22:25:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
     }
   ],
   "errors": []

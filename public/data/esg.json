@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-05T15:05:24.632Z",
-  "updatedLocal": "2026/8/5 23:05:24",
+  "updated": "2026-08-05T23:27:36.755Z",
+  "updatedLocal": "2026/8/6 07:27:36",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,29 +15,18 @@
       "group": null,
       "published": "2026-08-05T14:52:44.000Z",
       "why": null,
-      "ago": "13 分鐘前"
+      "ago": "9 小時前"
     },
     {
-      "title": "9 novels for the sustainability-minded reader",
-      "summary": "Vacation itineraries and long flights have a way of making room for fiction.",
-      "url": "https://trellis.net/article/novels-sustainability-minded-reader/",
-      "source": "Trellis",
+      "title": "‘We will go full steam ahead on electrification’, says Volkswagen boss",
+      "summary": "Volkswagen will continue its transition to electric vehicles (EVs) despite policy uncertainty and changing market conditions, according to the company's chief sustainability officer, Dirk Voeste, who said chief executive Oliver Blume has made clear the group will not change course.",
+      "url": "https://www.edie.net/we-will-go-full-steam-ahead-on-electrification-says-volkswagen-boss/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-04T10:00:00.000Z",
+      "published": "2026-08-05T16:03:52.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Why data center companies Equinix and Oracle are buying fuel cells",
-      "summary": "The “speed to power” ambitions of big cloud computing service providers and data center companies are boosting installations of on-site fuel cells, particularly those made by Bloom Energy.",
-      "url": "https://trellis.net/article/why-data-center-companies-equinix-oracle-buying-fuel-cells/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-04T10:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "7 小時前"
     },
     {
       "title": "Sustainability loans for palm oil firms linked to deforestation, report warns",
@@ -48,7 +37,7 @@
       "group": null,
       "published": "2026-08-05T13:22:03.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Masterclass: Driving circularity goals through business procurement",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-08-05T13:01:12.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Masterclass: How finance teams can identify and fund the strongest sustainability projects",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-08-05T12:56:57.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Government’s procurement reforms prioritise jobs over net-zero",
@@ -81,7 +70,7 @@
       "group": null,
       "published": "2026-08-05T11:15:24.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Heineken UK launches regenerative barley programme",
@@ -92,29 +81,40 @@
       "group": null,
       "published": "2026-08-05T11:06:42.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "Heatwaves and drought cost UK farmers £390m, research suggests",
-      "summary": "This year's exceptionally hot and dry conditions may have cut UK harvests by almost £400m according to provisional estimates.",
-      "url": "https://www.edie.net/heatwave-and-drought-cost-uk-farmers-390m-research-suggests/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "風機離聚落、學校過近 彰化福漢風電案遭環評判否決",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243732",
+      "source": "環境資訊中心",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-08-04T23:02:17.000Z",
+      "published": "2026-08-05T09:01:01.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "14 小時前"
     },
     {
-      "title": "Factcheck: How nuclear, gas, wind and solar power are affected during heatwaves",
-      "summary": "Heatwaves are becoming more likely and more intense due to climate change, impacting sources of power generation around the world as they work to meet increased demand.",
-      "url": "https://www.carbonbrief.org/factcheck-how-nuclear-gas-wind-and-solar-power-are-affected-during-heatwaves",
-      "source": "Carbon Brief",
-      "tag": "氣候",
+      "title": "金門海漂豬檢出非洲豬瘟今年第2例、法國7月高溫寫史上最熱紀錄、美國環孢子蟲病情擴大釀2死",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243730",
+      "source": "環境資訊中心",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-08-04T15:39:06.000Z",
+      "published": "2026-08-05T02:40:47.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "數月窩在沙裡也能生存 圓胖可愛的「沙漠雨蛙」難敵人類開發",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243667",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-05T02:30:47.000Z",
+      "why": null,
+      "ago": "21 小時前"
     }
   ],
   "errors": []
