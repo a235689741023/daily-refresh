@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-06T05:52:25.676Z",
-  "updatedLocal": "2026/8/6 13:52:25",
+  "updated": "2026-08-06T15:04:06.615Z",
+  "updatedLocal": "2026/8/6 23:04:06",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Google’s best practices for recycled materials",
+      "summary": "Google’s Pixel 10a smartphone, launched in March, contains 36 percent recycled materials, by weight, more than the latest Apple iPhone models.",
+      "url": "https://trellis.net/article/googles-best-practices-recycled-materials/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-06T10:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
     {
       "title": "How gamification can nudge employees to act more sustainably",
       "summary": "AstraZeneca and Amgen are among the winners of a competition that demonstrates how gamification can motivate companies and employees to tackle sustainability challenges.",
@@ -15,7 +26,40 @@
       "group": null,
       "published": "2026-08-05T14:52:44.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "In Practice: Five ways businesses are charging ahead with electrification to combat energy costs",
+      "summary": "With businesses struggling to communicate sustainability endeavours transparently and dealing with short-term budget constraints, edie’s new ‘in practice’ series explores how some organisations are trialling and installing innovative projects to deliver climate action.",
+      "url": "https://www.edie.net/in-practice-five-ways-businesses-are-charging-ahead-with-electrification-to-combat-energy-costs/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-06T13:15:20.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Lidl GB scales Olio surplus food partnership to almost 200 stores",
+      "summary": "Lidl GB and food redistribution platform Neighbourly are scaling up their partnership with food-sharing app Olio to around 200 stores.",
+      "url": "https://www.edie.net/lidl-gb-scales-olio-surplus-food-partnership-to-almost-200-stores/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-06T12:17:32.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "‘Deeply disappointing’: Gatwick to begin second runway development after court rejects legal challenge",
+      "summary": "Gatwick Airport will begin development of its second runway after campaigners lost a legal challenge against the expansion plans.",
+      "url": "https://www.edie.net/deeply-disappointing-gatwick-to-begin-second-runway-development-after-court-rejects-legal-challenge/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-06T11:56:42.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "‘We will go full steam ahead on electrification’, says Volkswagen boss",
@@ -26,62 +70,18 @@
       "group": null,
       "published": "2026-08-05T16:03:52.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "Sustainability loans for palm oil firms linked to deforestation, report warns",
-      "summary": "Banks have been accused of funding palm oil companies linked to deforestation and human rights violations via loans tied to corporate sustainability targets and performance.",
-      "url": "https://www.edie.net/sustainability-loans-for-palm-oil-firms-linked-to-deforestation-report-warns/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "Q&A: What is in China’s new five-year plan for climate change?",
+      "summary": "China has released a five-year plan dedicated to addressing climate change.",
+      "url": "https://www.carbonbrief.org/qa-what-is-in-chinas-new-five-year-plan-for-climate-change",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-08-05T13:22:03.000Z",
+      "published": "2026-08-06T14:48:40.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Masterclass: Driving circularity goals through business procurement",
-      "summary": "Event Date: 26/10/2026 | 1:00 pm UK | 9:00 am US East Coast ET | 6:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST Join our 45-minute masterclass on 26 October 2026 to discover how to drive circularity goals through effective business procurement.",
-      "url": "https://www.edie.net/masterclass-driving-circularity-goals-through-business-procurement/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-05T13:01:12.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Masterclass: How finance teams can identify and fund the strongest sustainability projects",
-      "summary": "Event Date: 16/11/2026 | 1:00 pm UK | 8:00 am US East Coast ET | 5:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST Elevate your finance team's role in driving sustainability.",
-      "url": "https://www.edie.net/masterclass-how-finance-teams-can-identify-and-fund-the-strongest-sustainability-projects/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-05T12:56:57.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Government’s procurement reforms prioritise jobs over net-zero",
-      "summary": "The Government has announced a new weighting system for prospective public contracts that assesses whether spending supports UK jobs and communities, while criteria like net-zero requirements have been cut.",
-      "url": "https://www.edie.net/government-strengthens-social-value-rules-for-public-procurement/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-05T11:15:24.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Heineken UK launches regenerative barley programme",
-      "summary": "Heineken UK has launched a regenerative malting barley programme that will pay UK farmers a premium on regenerative barley yields as part of efforts to expand the use of regenerative agriculture across its brewing supply chain.",
-      "url": "https://www.edie.net/heineken-uk-launches-regenerative-barley-programme/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-05T11:06:42.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "15 分鐘前"
     },
     {
       "title": "台中時隔半世紀再觀測到草鴞 大肚山、高美濕地都現蹤跡",
@@ -92,18 +92,7 @@
       "group": null,
       "published": "2026-08-06T01:16:55.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "風機離聚落、學校過近 彰化福漢風電案遭環評判否決",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243732",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-05T09:01:01.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "台南廢棄蚵棚起火冒黑煙、泰國擬加強資料中心監管、英動物園95年首度成功復育瀕危蛇鷲",
@@ -114,7 +103,18 @@
       "group": null,
       "published": "2026-08-06T02:56:59.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "都蘭ATT案環評初審四度未過 環委要求補正再審",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243736",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-06T09:07:48.000Z",
+      "why": null,
+      "ago": "6 小時前"
     }
   ],
   "errors": []

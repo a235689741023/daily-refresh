@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-06T05:52:25.676Z",
-  "updatedLocal": "2026/8/6 13:52:25",
+  "updated": "2026-08-06T15:04:06.615Z",
+  "updatedLocal": "2026/8/6 23:04:06",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Traders on Kalshi now think it's likely that the S&P 500 will hit 8,000 in 2026",
+      "summary": "The S&P 500 ended its more than 5.5% four-day rally on Wednesday, but the broad index's surge to new records is recalibrating prediction market traders' outlook for how high it can go.",
+      "url": "https://www.cnbc.com/2026/08/06/traders-on-kalshi-say-its-likely-sp-500-will-hit-8000-in-2026.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-06T14:48:42.000Z",
+      "why": null,
+      "ago": "15 分鐘前"
+    },
     {
       "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
       "summary": "Federal Reserve Governor Lisa Cook said Wednesday that she's ready to support an interest rate hike unless the inflation numbers improve.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-08-05T20:36:16.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-08-05T22:35:26.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
@@ -35,9 +46,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-05T16:18:29.000Z",
+      "published": "2026-08-06T13:25:12.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "2 小時前"
     },
     {
       "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-08-05T15:55:01.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-08-05T16:17:55.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Private companies added just 44,000 workers in July, below expectations, ADP reports",
@@ -70,51 +81,40 @@
       "group": null,
       "published": "2026-08-05T15:08:46.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "24 小時前"
     },
     {
-      "title": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
-      "summary": "The drought in Europe is so severe that it is jeopardizing countries' economic growth and forcing them to take extreme measures like blowing up riverbeds.",
-      "url": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-05T07:15:17.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
+      "title": "SpaceX insiders get their first chance to cash out — but the stock’s slide will limit their opportunity",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/spacex-insiders-get-their-first-chance-to-cash-out-but-the-stocks-slide-will-limit-their-opportunity-5c94b0f5?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-06T01:33:00.000Z",
+      "published": "2026-08-06T14:55:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 分鐘前"
     },
     {
-      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+      "title": "As a woman of color who travels alone, is it a waste of money to visit places with zero diversity?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/as-a-woman-of-color-who-travels-alone-is-it-a-waste-of-money-to-visit-places-with-zero-diversity-6de89785?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-06T01:31:00.000Z",
+      "published": "2026-08-06T14:54:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "10 分鐘前"
     },
     {
-      "title": "Sandisk’s stock falls as the company’s forecast doesn’t live up to high expectations",
+      "title": "Missouri voters just rejected a bid to ditch income tax, while other tax votes loom in Florida and California this fall",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/sandisks-stock-falls-as-the-companys-forecast-doesnt-live-up-to-high-expectations-8fd13d9b?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/taxes-are-on-the-ballot-this-fall-as-republicans-and-democrats-grow-further-apart-on-whether-to-raise-them-c7990380?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-05T22:25:00.000Z",
+      "published": "2026-08-06T14:07:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "57 分鐘前"
     }
   ],
   "errors": []

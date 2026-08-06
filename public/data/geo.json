@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-06T05:52:25.676Z",
-  "updatedLocal": "2026/8/6 13:52:25",
+  "updated": "2026-08-06T15:04:06.615Z",
+  "updatedLocal": "2026/8/6 23:04:06",
   "digest": null,
   "watch": [],
   "items": [
@@ -10,23 +10,34 @@
       "title": "ArcGIS: Enterprise-Grade GIS Built to Scale",
       "summary": "ArcGIS provides comprehensive geospatial capabilities for mapping, spatial analysis, and data management across desktop, web, and mobile environments.",
       "url": "https://www.esri.com/arcgis-blog/products/arcgis/announcements/arcgis-enterprise-grade-gis-built-to-scale",
-      "source": "Esri",
+      "source": "esri.com",
       "tag": "平台",
       "group": "gis",
       "published": "2026-08-04T20:31:34.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
+    },
+    {
+      "title": "Ask Maps gets more helpful with food ordering and more",
+      "summary": "From agentic food ordering to real time transit information, the latest Ask Maps improvements make it easier than ever to get more done.",
+      "url": "https://blog.google/products-and-platforms/products/maps/order-food-in-ask-maps/",
+      "source": "Google Maps Blog",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-08-06T12:30:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "Developer’s Lounge: Demystifying the Esri Developer Experience",
       "summary": "“ Where do I begin?” and “ What tools are available for building my application?",
       "url": "https://www.esri.com/arcgis-blog/products/developers/mapping/developers-lounge-demystifying-the-esri-developer-experience",
-      "source": "Esri",
+      "source": "esri.com",
       "tag": "平台",
       "group": "gis",
       "published": "2026-08-03T18:56:12.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "Experience the magic of Kosovo from anywhere with Street View",
@@ -40,48 +51,59 @@
       "ago": "6 天前"
     },
     {
-      "title": "Infrastructure Isn’t Just Built Anymore. It Thinks",
-      "summary": null,
-      "url": "https://geospatialworld.net/videos/intelligent-infrastructure-aec-summit-gwf-2026/",
-      "source": "Geospatial World",
-      "tag": "產業",
-      "group": "gis",
-      "published": "2026-07-30T06:50:27.000Z",
-      "why": null,
-      "ago": "7 天前"
-    },
-    {
-      "title": "NVIDIA and Partners Build in America, for America",
-      "summary": "Updated Aug. 5 (originally published July 1) For 250 years, America has built railroads that connected a continent, power grids that lit up cities, factories that powered prosperity, semiconductors that made the digital age possible and the internet that opened knowledge to the world.",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+      "title": "GeForce NOW Shakes Up August With 26 New Games",
+      "summary": "August is here, bringing 26 new games for GeForce NOW members.",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
       "source": "NVIDIA Blog",
       "tag": "基建",
       "group": "ai",
-      "published": "2026-08-05T13:00:47.000Z",
+      "published": "2026-08-06T13:00:11.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "2026 AI Compliance: Upcoming Laws Every Organization Needs to Know - Trump’s AI Executive Order, State AI Laws, Chatbot Disclosure Laws, and More",
+      "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+      "summary": "Editor’s note: This post is part of Into the Omniverse , a series focused on how developers, 3D practitioners and enterprises can transform their workflows using the latest advancements in OpenUSD and NVIDIA Omniverse .",
+      "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
+      "group": "ai",
+      "published": "2026-08-06T13:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Client Alert- Illinois Raises the Bar for Frontier AI Governance",
+      "summary": "On July 6, 2026, Governor JB Pritzker signed Senate Bill 315, the Artificial Intelligence Safety Measures Act (the \"Act\"), into law.",
+      "url": "https://natlawreview.com/article/client-alert-illinois-raises-bar-frontier-ai-governance",
+      "source": "The National Law Review",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-06T05:35:15.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "Digital AI Omnibus Delays Key Deadlines, Introduces New Rules",
       "summary": null,
-      "url": "https://www.jdsupra.com/legalnews/2026-ai-compliance-upcoming-laws-every-9282574/",
+      "url": "https://www.jdsupra.com/legalnews/digital-ai-omnibus-delays-key-deadlines-1900131/",
       "source": "JD Supra",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-08-05T18:30:09.000Z",
-      "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "AI regulation is reshaping the HR world faster than most employers realize",
-      "summary": "Artificial intelligence is no longer an experimental layer inside HR.",
-      "url": "https://hrexecutive.com/ai-regulation-is-reshaping-the-hr-world-faster-than-most-employers-realize/",
-      "source": "HR Executive",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-05T11:45:15.000Z",
+      "published": "2026-08-05T21:25:27.000Z",
       "why": null,
       "ago": "18 小時前"
+    },
+    {
+      "title": "AI safety questions grow after testing incident raises concerns about system controls",
+      "summary": "Artificial intelligence is becoming part of everyday life, helping users write emails, complete school assignments, screen job applicants and even generate realistic images, audio and video.",
+      "url": "https://thenationaldesk.com/top-videos/ai-safety-questions-grow-after-testing-incident-raises-concerns-about-system-controls-leeza-garber-artificial-intelligence-technology-sam-altman-chatgpt-openai-breach-congress-china-pangram-social-media-constitution",
+      "source": "National News Desk",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-05T17:33:11.000Z",
+      "why": null,
+      "ago": "22 小時前"
     },
     {
       "title": "EU AI Act enforcement reshapes Europe’s technology strategy",
@@ -92,29 +114,7 @@
       "group": "ai",
       "published": "2026-08-05T16:46:00.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "AI safety questions grow after testing incident raises concerns about system controls",
-      "summary": "Artificial intelligence is becoming part of everyday life, helping users write emails, complete school assignments, screen job applicants and even generate realistic images, audio and video.",
-      "url": "https://cbs12.com/news/nation-world/ai-safety-questions-grow-after-testing-incident-raises-concerns-about-system-controls-leeza-garber-artificial-intelligence-technology-sam-altman-chatgpt-openai-breach-congress-china-pangram-social-media-constitution",
-      "source": "WPEC",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-05T17:38:05.000Z",
-      "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "AI safety warnings mount as frontier models test new limits",
-      "summary": "by AUSTIN DENEAN | The National News Desk WASHINGTON (TNND) — Several major developers of advanced artificial intelligence have had their models break out of testing environments and gain access to outside companies, raising questions about whether the technology is advancing too quickly and without proper oversight.",
-      "url": "https://fox23maine.com/news/nation-world/ai-safety-warnings-mount-as-frontier-models-test-new-limits-artificial-intelligence-model-testing-safety-guidelines-regulations-congress",
-      "source": "fox23maine.com",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-05T18:09:54.000Z",
-      "why": null,
-      "ago": "12 小時前"
+      "ago": "22 小時前"
     }
   ],
   "errors": []
