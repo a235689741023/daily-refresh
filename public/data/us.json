@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-05T23:27:36.755Z",
-  "updatedLocal": "2026/8/6 07:27:36",
+  "updated": "2026-08-06T05:52:25.676Z",
+  "updatedLocal": "2026/8/6 13:52:25",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-05T20:36:16.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-05T22:35:26.000Z",
       "why": null,
-      "ago": "52 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-08-05T16:18:29.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-08-05T15:55:01.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
@@ -59,29 +59,7 @@
       "group": null,
       "published": "2026-08-05T16:17:55.000Z",
       "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'",
-      "summary": "Michael Burry of \"The Big Short\" fame is sticking with his bearish wagers even as the S&P 500 surges to a record high, warning that the rally could still end in a sharp sell-off reminiscent of the 1987 stock-market crash.",
-      "url": "https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-04T21:39:30.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
-      "summary": "Philadelphia Federal Reserve President Anna Paulson said Tuesday that she thinks the current level of interest rates is sufficient to keep inflation moving toward the central bank's goal.",
-      "url": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-04T17:49:24.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "14 小時前"
     },
     {
       "title": "Private companies added just 44,000 workers in July, below expectations, ADP reports",
@@ -92,7 +70,7 @@
       "group": null,
       "published": "2026-08-05T15:08:46.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
@@ -103,7 +81,29 @@
       "group": null,
       "published": "2026-08-05T07:15:17.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-06T01:33:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-06T01:31:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "Sandisk’s stock falls as the company’s forecast doesn’t live up to high expectations",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-08-05T22:25:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "7 小時前"
     }
   ],
   "errors": []

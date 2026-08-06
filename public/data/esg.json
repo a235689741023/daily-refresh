@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-05T23:27:36.755Z",
-  "updatedLocal": "2026/8/6 07:27:36",
+  "updated": "2026-08-06T05:52:25.676Z",
+  "updatedLocal": "2026/8/6 13:52:25",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-05T14:52:44.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "‘We will go full steam ahead on electrification’, says Volkswagen boss",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-05T16:03:52.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Sustainability loans for palm oil firms linked to deforestation, report warns",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-08-05T13:22:03.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Masterclass: Driving circularity goals through business procurement",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-08-05T13:01:12.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Masterclass: How finance teams can identify and fund the strongest sustainability projects",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-08-05T12:56:57.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Government’s procurement reforms prioritise jobs over net-zero",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-08-05T11:15:24.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Heineken UK launches regenerative barley programme",
@@ -81,7 +81,18 @@
       "group": null,
       "published": "2026-08-05T11:06:42.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
+    },
+    {
+      "title": "台中時隔半世紀再觀測到草鴞 大肚山、高美濕地都現蹤跡",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243729",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-06T01:16:55.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "風機離聚落、學校過近 彰化福漢風電案遭環評判否決",
@@ -92,29 +103,18 @@
       "group": null,
       "published": "2026-08-05T09:01:01.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "金門海漂豬檢出非洲豬瘟今年第2例、法國7月高溫寫史上最熱紀錄、美國環孢子蟲病情擴大釀2死",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243730",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-05T02:40:47.000Z",
-      "why": null,
       "ago": "21 小時前"
     },
     {
-      "title": "數月窩在沙裡也能生存 圓胖可愛的「沙漠雨蛙」難敵人類開發",
+      "title": "台南廢棄蚵棚起火冒黑煙、泰國擬加強資料中心監管、英動物園95年首度成功復育瀕危蛇鷲",
       "summary": null,
-      "url": "https://e-info.org.tw/node/243667",
+      "url": "https://e-info.org.tw/node/243734",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-08-05T02:30:47.000Z",
+      "published": "2026-08-06T02:56:59.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "3 小時前"
     }
   ],
   "errors": []

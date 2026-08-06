@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-05T23:27:36.755Z",
-  "updatedLocal": "2026/8/6 07:27:36",
+  "updated": "2026-08-06T05:52:25.676Z",
+  "updatedLocal": "2026/8/6 13:52:25",
   "digest": null,
   "watch": [],
   "items": [
@@ -51,17 +51,6 @@
       "ago": "7 天前"
     },
     {
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "summary": "Independent testing plays an important role in helping us validate and further understand risks before deployment.",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-04T19:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
       "title": "NVIDIA and Partners Build in America, for America",
       "summary": "Updated Aug. 5 (originally published July 1) For 250 years, America has built railroads that connected a continent, power grids that lit up cities, factories that powered prosperity, semiconductors that made the digital age possible and the internet that opened knowledge to the world.",
       "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
@@ -70,29 +59,18 @@
       "group": "ai",
       "published": "2026-08-05T13:00:47.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "2026 AI Compliance: Upcoming Laws Every Organization Needs to Know",
-      "summary": "Trump’s AI Executive Order, State AI Laws, Chatbot Disclosure Laws, and More Privacy, Cyber & AI Decoded Alert | 6 min read By: Cathy Mulrow-Peattie , *Elyssa Eisenberg This edition of Hinshaw’s Privacy, Cyber, and AI Decoded highlights several 2026-enacted AI laws as well as Executive Orders that organizations should consider in their compliance planning.",
-      "url": "https://www.hinshawlaw.com/en/insights/privacy-cyber-and-ai-decoded-alert/2026-ai-compliance-upcoming-laws-every-organization-needs-to-know",
-      "source": "Hinshaw & Culbertson LLP",
+      "title": "2026 AI Compliance: Upcoming Laws Every Organization Needs to Know - Trump’s AI Executive Order, State AI Laws, Chatbot Disclosure Laws, and More",
+      "summary": null,
+      "url": "https://www.jdsupra.com/legalnews/2026-ai-compliance-upcoming-laws-every-9282574/",
+      "source": "JD Supra",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-08-05T15:16:35.000Z",
+      "published": "2026-08-05T18:30:09.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "AI safety questions grow after testing incident raises concerns about system controls",
-      "summary": "President Donald Trump speaks from the Red Rock Casino Resort and Spa in Las Vegas, Nevada.",
-      "url": "https://bakersfieldnow.com/news/nation-world/ai-safety-questions-grow-after-testing-incident-raises-concerns-about-system-controls-leeza-garber-artificial-intelligence-technology-sam-altman-chatgpt-openai-breach-congress-china-pangram-social-media-constitution",
-      "source": "KBAK",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-05T17:35:55.000Z",
-      "why": null,
-      "ago": "6 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "AI regulation is reshaping the HR world faster than most employers realize",
@@ -103,6 +81,28 @@
       "group": "ai",
       "published": "2026-08-05T11:45:15.000Z",
       "why": null,
+      "ago": "18 小時前"
+    },
+    {
+      "title": "EU AI Act enforcement reshapes Europe’s technology strategy",
+      "summary": "Most new technologies have a “wild west” period, in which the push for innovation puts products into the market before regulators are even aware of any potential risks.",
+      "url": "https://www.biometricupdate.com/202608/eu-ai-act-enforcement-reshapes-europes-technology-strategy",
+      "source": "Biometric Update",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-05T16:46:00.000Z",
+      "why": null,
+      "ago": "13 小時前"
+    },
+    {
+      "title": "AI safety questions grow after testing incident raises concerns about system controls",
+      "summary": "Artificial intelligence is becoming part of everyday life, helping users write emails, complete school assignments, screen job applicants and even generate realistic images, audio and video.",
+      "url": "https://cbs12.com/news/nation-world/ai-safety-questions-grow-after-testing-incident-raises-concerns-about-system-controls-leeza-garber-artificial-intelligence-technology-sam-altman-chatgpt-openai-breach-congress-china-pangram-social-media-constitution",
+      "source": "WPEC",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-05T17:38:05.000Z",
+      "why": null,
       "ago": "12 小時前"
     },
     {
@@ -112,9 +112,9 @@
       "source": "fox23maine.com",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-08-05T18:09:41.000Z",
+      "published": "2026-08-05T18:09:54.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     }
   ],
   "errors": []
