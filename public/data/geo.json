@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-07T14:03:23.067Z",
-  "updatedLocal": "2026/8/7 22:03:23",
+  "updated": "2026-08-07T23:01:44.789Z",
+  "updatedLocal": "2026/8/8 07:01:44",
   "digest": null,
   "watch": [],
   "items": [
@@ -48,7 +48,18 @@
       "group": "ai",
       "published": "2026-08-07T02:22:29.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "summary": "Cybersecurity is rapidly changing as models become more capable in ways that can both strengthen cyberdefenses and enable attacks at unprecedented speed and scale.",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-07T15:20:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
@@ -59,51 +70,40 @@
       "group": "ai",
       "published": "2026-08-07T09:00:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "14 小時前"
     },
     {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "summary": "Our mission is to ensure that artificial general intelligence benefits all of humanity. We’re introducing updates to ChatGPT that improve everyday conversations while expanding access for Free users.",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-06T10:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "summary": "WeatherNext enables accurate cyclone forecasts that can give an extra day of warning. Now we are open sourcing the model.",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "source": "Google DeepMind",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-06T15:06:15.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "New Government Portal Explains AI Rules and Accepts Complaints",
-      "summary": "In a video accompanying the announcement, Tanács said deepfake content and AI-generated images and videos can be used to damage businesses and individuals.",
-      "url": "https://www.hungarianconservative.com/articles/current/hungary-launches-ai-government-portal/",
-      "source": "Hungarian Conservative",
+      "title": "What the EU AI Act Reveals About AI Governance",
+      "summary": "This month, new transparency requirements under the European Union's AI Act come into effect, marking another milestone in the world's first comprehensive AI regulation.",
+      "url": "https://www.cmswire.com/customer-experience/what-the-eu-ai-act-reveals-about-ai-roi/",
+      "source": "CMSWire",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-08-07T08:35:08.000Z",
+      "published": "2026-08-07T18:37:49.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "4 小時前"
     },
     {
-      "title": "The EU's AI Act has a global reach, but leaves European innovation behind",
-      "summary": "The bloc leads in artificial intelligence regulation rather than breakthroughs THE EU’s status as a laggard on artificial intelligence, compared to powers such as the US and China, has led to much soul-searching within the bloc.",
-      "url": "https://www.businesstimes.com.sg/opinion-features/eus-ai-act-has-global-reach-leaves-european-innovation-behind",
-      "source": "The Business Times",
+      "title": "EU, California Converge on AI Transparency Rules, Shifting Focus to Enterprise Governance",
+      "summary": "A striking convergence is emerging between two of the world’s most influential artificial intelligence (AI) regulatory regimes.",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/eu-california-converge-on-ai-transparency-rules-shifting-focus-to-enterprise-governance/",
+      "source": "PYMNTS.com",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-08-06T23:00:00.000Z",
+      "published": "2026-08-07T17:27:58.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "6 小時前"
+    },
+    {
+      "title": "What the latest EU AI Act milestone means for manufacturers",
+      "summary": null,
+      "url": "https://www.dpaonthenet.net/article/223445/What-the-latest-EU-AI-Act-milestone-means-for-manufacturers.aspx",
+      "source": "DPA Magazine",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-07T20:56:28.000Z",
+      "why": null,
+      "ago": "2 小時前"
     }
   ],
   "errors": []
