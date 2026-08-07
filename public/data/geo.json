@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-07T04:56:57.009Z",
-  "updatedLocal": "2026/8/7 12:56:57",
+  "updated": "2026-08-07T14:03:23.067Z",
+  "updatedLocal": "2026/8/7 22:03:23",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-06T12:30:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
       "title": "ArcGIS: Enterprise-Grade GIS Built to Scale",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-08-04T20:31:34.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "Developer’s Lounge: Demystifying the Esri Developer Experience",
@@ -37,18 +37,7 @@
       "group": "gis",
       "published": "2026-08-03T18:56:12.000Z",
       "why": null,
-      "ago": "3 天前"
-    },
-    {
-      "title": "Experience the magic of Kosovo from anywhere with Street View",
-      "summary": "From unique modern architecture to a UNESCO World Heritage site, Kosovo's rich heritage and dynamic cityscapes are now available for anyone to explore with Google Street View.",
-      "url": "https://blog.google/products-and-platforms/products/maps/google-street-view-kosovo/",
-      "source": "Google Maps Blog",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-07-31T08:00:00.000Z",
-      "why": null,
-      "ago": "7 天前"
+      "ago": "4 天前"
     },
     {
       "title": "Improving Fable 5's biology safeguards",
@@ -59,7 +48,18 @@
       "group": "ai",
       "published": "2026-08-07T02:22:29.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "summary": "Tax professionals use ChatGPT Enterprise to process information faster, improve work quality, and create more capacity for advisory work and client service.",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-07T09:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
@@ -69,28 +69,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-08-06T10:00:00.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "summary": "Young people already use AI to learn, create, ask questions, and seek advice.",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-06T06:00:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "summary": "New country-by-country data reveals how AI adoption is spreading and changing. AI is moving from something people ask to something they put to work.",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-06T00:00:00.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -103,18 +81,29 @@
       "group": "ai",
       "published": "2026-08-06T15:06:15.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "GeForce NOW Shakes Up August With 26 New Games",
-      "summary": "August is here, bringing 26 new games for GeForce NOW members.",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
+      "title": "New Government Portal Explains AI Rules and Accepts Complaints",
+      "summary": "In a video accompanying the announcement, Tanács said deepfake content and AI-generated images and videos can be used to damage businesses and individuals.",
+      "url": "https://www.hungarianconservative.com/articles/current/hungary-launches-ai-government-portal/",
+      "source": "Hungarian Conservative",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-08-06T13:00:11.000Z",
+      "published": "2026-08-07T08:35:08.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "5 小時前"
+    },
+    {
+      "title": "The EU's AI Act has a global reach, but leaves European innovation behind",
+      "summary": "The bloc leads in artificial intelligence regulation rather than breakthroughs THE EU’s status as a laggard on artificial intelligence, compared to powers such as the US and China, has led to much soul-searching within the bloc.",
+      "url": "https://www.businesstimes.com.sg/opinion-features/eus-ai-act-has-global-reach-leaves-european-innovation-behind",
+      "source": "The Business Times",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-06T23:00:00.000Z",
+      "why": null,
+      "ago": "15 小時前"
     }
   ],
   "errors": []

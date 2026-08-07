@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-07T04:56:57.009Z",
-  "updatedLocal": "2026/8/7 12:56:57",
+  "updated": "2026-08-07T14:03:23.067Z",
+  "updatedLocal": "2026/8/7 22:03:23",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Odds the Fed will hike in September tumble following big July jobs miss",
+      "summary": "The U.S. economy surprisingly shed jobs in July , and it's leading investors to think that an interest rate hike by the Federal Reserve in September is increasingly unlikely.",
+      "url": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-07T13:34:44.000Z",
+      "why": null,
+      "ago": "29 分鐘前"
+    },
     {
       "title": "Copper jumps to its highest level ever. What the metal is telling us",
       "summary": "Copper surged to a record high Thursday, but the latest rally comes against a more mixed growth backdrop, making the once-reliable gauge of economic health, \"Dr. Copper,\" harder to read.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-08-06T20:07:51.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "United Wholesale Mortgage plunges 35% after suspending dividend and raising capital",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-08-06T20:37:51.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Traders on Kalshi now think it's likely that the S&P 500 will hit 8,000 in 2026",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-08-06T14:48:42.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
@@ -48,7 +59,18 @@
       "group": null,
       "published": "2026-08-06T13:25:12.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
+      "summary": "The U.S. economy saw an unexpected declined in jobs during July while the unemployment rate edged lower, the Bureau of Labor Statistics reported Friday in a snapshot that showed a slowing employment picture.",
+      "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-08-07T13:40:19.000Z",
+      "why": null,
+      "ago": "23 分鐘前"
     },
     {
       "title": "The July jobs numbers are due out Friday. Here's what to expect",
@@ -57,64 +79,42 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-08-06T20:15:22.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "Micron’s stock falls but is spared the worst of the memory-chip selloff",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/microns-stock-claws-back-to-buck-the-memory-chip-selloff-58af0155?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-07T02:35:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "‘He’s never been good with money’: If I set up an annuity for my brother, 65, would it jeopardize his Supplemental Security Income?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/hes-never-been-good-with-money-if-i-set-up-an-annuity-for-my-brother-65-would-it-jeopardize-his-supplemental-security-income-d2e9f5a0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-07T02:15:00.000Z",
+      "published": "2026-08-07T11:23:07.000Z",
       "why": null,
       "ago": "3 小時前"
     },
     {
-      "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+      "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-07T02:00:00.000Z",
+      "published": "2026-08-07T14:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "3 分鐘前"
     },
     {
-      "title": "Social Security’s funding crisis is the elephant in the room. But don’t ignore the mouse.",
+      "title": "Social Security is celebrating its 91st birthday. Here’s why it’s not  going away anytime soon.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/how-to-wish-social-security-a-happy-91st-birthday-865d71a8?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-07T00:31:00.000Z",
+      "published": "2026-08-07T13:45:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "18 分鐘前"
     },
     {
-      "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
+      "title": "How S&P 500 options action may help explain the rising volatility in memory stocks",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/how-s-p-500-options-action-may-help-explain-volatility-in-memory-stocks-58d95beb?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-07T00:00:00.000Z",
+      "published": "2026-08-07T13:30:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "33 分鐘前"
     }
   ],
   "errors": []
