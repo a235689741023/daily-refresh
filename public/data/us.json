@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-06T15:04:06.615Z",
-  "updatedLocal": "2026/8/6 23:04:06",
+  "updated": "2026-08-07T01:35:34.023Z",
+  "updatedLocal": "2026/8/7 09:35:34",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Copper jumps to its highest level ever. What the metal is telling us",
+      "summary": "Copper surged to a record high Thursday, but the latest rally comes against a more mixed growth backdrop, making the once-reliable gauge of economic health, \"Dr. Copper,\" harder to read.",
+      "url": "https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-06T20:07:51.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "United Wholesale Mortgage plunges 35% after suspending dividend and raising capital",
+      "summary": "Shares in UWM Holdings , parent of United Wholesale Mortgage, plunged 35% on Thursday after the biggest U.S. mortgage lender suspended its dividend and raised fresh capital.",
+      "url": "https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-06T20:37:51.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
     {
       "title": "Traders on Kalshi now think it's likely that the S&P 500 will hit 8,000 in 2026",
       "summary": "The S&P 500 ended its more than 5.5% four-day rally on Wednesday, but the broad index's surge to new records is recalibrating prediction market traders' outlook for how high it can go.",
@@ -15,29 +37,7 @@
       "group": null,
       "published": "2026-08-06T14:48:42.000Z",
       "why": null,
-      "ago": "15 分鐘前"
-    },
-    {
-      "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
-      "summary": "Federal Reserve Governor Lisa Cook said Wednesday that she's ready to support an interest rate hike unless the inflation numbers improve.",
-      "url": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-05T20:36:16.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
-      "summary": "Add the possibility of fewer meetings into the mix of how Federal Reserve Chairman Kevin Warsh wants to reduce the central bank's footprint on financial markets, a move that some experts say could introduce both volatility and opportunity for investors.",
-      "url": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-05T22:35:26.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
@@ -48,73 +48,73 @@
       "group": null,
       "published": "2026-08-06T13:25:12.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
-      "summary": "Bank of America CEO Brian Moynihan on Wednesday called the recent near collapse of high-flying AI hedge fund Situational Awareness a warning shot for financial markets that are being fueled by elevated valuations and borrowed money.",
-      "url": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
+      "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
+      "summary": "Add the possibility of fewer meetings into the mix of how Federal Reserve Chairman Kevin Warsh wants to reduce the central bank's footprint on financial markets, a move that some experts say could introduce both volatility and opportunity for investors.",
+      "url": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-05T15:55:01.000Z",
+      "published": "2026-08-05T22:35:26.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
-      "summary": "Ken Griffin's Citadel posted strong gains across its major hedge funds in July, helped by a recovery in risk assets and a discounted purchase of assets from the collapse of Leopold Aschenbrenner's Situational Awareness hedge fund to end the month, according to a person familiar with the firm's performance.",
-      "url": "https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html",
+      "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
+      "summary": "Federal Reserve Governor Lisa Cook said Wednesday that she's ready to support an interest rate hike unless the inflation numbers improve.",
+      "url": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-05T16:17:55.000Z",
+      "published": "2026-08-05T20:36:16.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Private companies added just 44,000 workers in July, below expectations, ADP reports",
-      "summary": "Hiring at private companies slowed considerably in July, with most of the job growth coming from healthcare, payrolls processing firm ADP reported Wednesday.",
-      "url": "https://www.cnbc.com/2026/08/05/private-companies-added-just-44000-workers-in-july-below-expectations-adp-reports.html",
+      "title": "The July jobs numbers are due out Friday. Here's what to expect",
+      "summary": "Job growth isn't expected to show much improvement in July, with payrolls and the unemployment rate likely holding relatively steady and economists looking through the headline numbers for further clues about labor market health.",
+      "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-08-05T15:08:46.000Z",
+      "published": "2026-08-06T20:15:22.000Z",
       "why": null,
-      "ago": "24 小時前"
+      "ago": "5 小時前"
     },
     {
-      "title": "SpaceX insiders get their first chance to cash out — but the stock’s slide will limit their opportunity",
+      "title": "Social Security’s funding crisis is the elephant in the room. But don’t ignore the mouse.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/spacex-insiders-get-their-first-chance-to-cash-out-but-the-stocks-slide-will-limit-their-opportunity-5c94b0f5?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-06T14:55:00.000Z",
+      "published": "2026-08-07T00:31:00.000Z",
       "why": null,
-      "ago": "9 分鐘前"
+      "ago": "1 小時前"
     },
     {
-      "title": "As a woman of color who travels alone, is it a waste of money to visit places with zero diversity?",
+      "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/as-a-woman-of-color-who-travels-alone-is-it-a-waste-of-money-to-visit-places-with-zero-diversity-6de89785?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-06T14:54:00.000Z",
+      "published": "2026-08-07T00:00:00.000Z",
       "why": null,
-      "ago": "10 分鐘前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Missouri voters just rejected a bid to ditch income tax, while other tax votes loom in Florida and California this fall",
+      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/taxes-are-on-the-ballot-this-fall-as-republicans-and-democrats-grow-further-apart-on-whether-to-raise-them-c7990380?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-06T14:07:00.000Z",
+      "published": "2026-08-06T23:31:00.000Z",
       "why": null,
-      "ago": "57 分鐘前"
+      "ago": "2 小時前"
     }
   ],
   "errors": []

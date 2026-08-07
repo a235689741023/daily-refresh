@@ -1,22 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-06T15:04:06.615Z",
-  "updatedLocal": "2026/8/6 23:04:06",
+  "updated": "2026-08-07T01:35:34.023Z",
+  "updatedLocal": "2026/8/7 09:35:34",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "ArcGIS: Enterprise-Grade GIS Built to Scale",
-      "summary": "ArcGIS provides comprehensive geospatial capabilities for mapping, spatial analysis, and data management across desktop, web, and mobile environments.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis/announcements/arcgis-enterprise-grade-gis-built-to-scale",
-      "source": "esri.com",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-08-04T20:31:34.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
     {
       "title": "Ask Maps gets more helpful with food ordering and more",
       "summary": "From agentic food ordering to real time transit information, the latest Ask Maps improvements make it easier than ever to get more done.",
@@ -26,13 +15,24 @@
       "group": "gis",
       "published": "2026-08-06T12:30:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "13 小時前"
+    },
+    {
+      "title": "ArcGIS: Enterprise-Grade GIS Built to Scale",
+      "summary": "ArcGIS provides comprehensive geospatial capabilities for mapping, spatial analysis, and data management across desktop, web, and mobile environments.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis/announcements/arcgis-enterprise-grade-gis-built-to-scale",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-08-04T20:31:34.000Z",
+      "why": null,
+      "ago": "2 天前"
     },
     {
       "title": "Developer’s Lounge: Demystifying the Esri Developer Experience",
       "summary": "“ Where do I begin?” and “ What tools are available for building my application?",
       "url": "https://www.esri.com/arcgis-blog/products/developers/mapping/developers-lounge-demystifying-the-esri-developer-experience",
-      "source": "esri.com",
+      "source": "Esri",
       "tag": "平台",
       "group": "gis",
       "published": "2026-08-03T18:56:12.000Z",
@@ -48,7 +48,51 @@
       "group": "gis",
       "published": "2026-07-31T08:00:00.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
+    },
+    {
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "summary": "Our mission is to ensure that artificial general intelligence benefits all of humanity. We’re introducing updates to ChatGPT that improve everyday conversations while expanding access for Free users.",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-06T10:00:00.000Z",
+      "why": null,
+      "ago": "16 小時前"
+    },
+    {
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "summary": "Young people already use AI to learn, create, ask questions, and seek advice.",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-06T06:00:00.000Z",
+      "why": null,
+      "ago": "20 小時前"
+    },
+    {
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "summary": null,
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-06T00:00:00.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "summary": "WeatherNext enables accurate cyclone forecasts that can give an extra day of warning. Now we are open sourcing the model.",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "source": "Google DeepMind",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-06T15:06:15.000Z",
+      "why": null,
+      "ago": "10 小時前"
     },
     {
       "title": "GeForce NOW Shakes Up August With 26 New Games",
@@ -59,7 +103,7 @@
       "group": "ai",
       "published": "2026-08-06T13:00:11.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
@@ -70,51 +114,7 @@
       "group": "ai",
       "published": "2026-08-06T13:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Client Alert- Illinois Raises the Bar for Frontier AI Governance",
-      "summary": "On July 6, 2026, Governor JB Pritzker signed Senate Bill 315, the Artificial Intelligence Safety Measures Act (the \"Act\"), into law.",
-      "url": "https://natlawreview.com/article/client-alert-illinois-raises-bar-frontier-ai-governance",
-      "source": "The National Law Review",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-06T05:35:15.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "Digital AI Omnibus Delays Key Deadlines, Introduces New Rules",
-      "summary": null,
-      "url": "https://www.jdsupra.com/legalnews/digital-ai-omnibus-delays-key-deadlines-1900131/",
-      "source": "JD Supra",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-05T21:25:27.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "AI safety questions grow after testing incident raises concerns about system controls",
-      "summary": "Artificial intelligence is becoming part of everyday life, helping users write emails, complete school assignments, screen job applicants and even generate realistic images, audio and video.",
-      "url": "https://thenationaldesk.com/top-videos/ai-safety-questions-grow-after-testing-incident-raises-concerns-about-system-controls-leeza-garber-artificial-intelligence-technology-sam-altman-chatgpt-openai-breach-congress-china-pangram-social-media-constitution",
-      "source": "National News Desk",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-05T17:33:11.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "EU AI Act enforcement reshapes Europe’s technology strategy",
-      "summary": "Most new technologies have a “wild west” period, in which the push for innovation puts products into the market before regulators are even aware of any potential risks.",
-      "url": "https://www.biometricupdate.com/202608/eu-ai-act-enforcement-reshapes-europes-technology-strategy",
-      "source": "Biometric Update",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-05T16:46:00.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "13 小時前"
     }
   ],
   "errors": []
