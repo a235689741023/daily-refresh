@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-07T01:35:34.023Z",
-  "updatedLocal": "2026/8/7 09:35:34",
+  "updated": "2026-08-07T04:56:57.009Z",
+  "updatedLocal": "2026/8/7 12:56:57",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-06T12:30:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "ArcGIS: Enterprise-Grade GIS Built to Scale",
@@ -51,6 +51,17 @@
       "ago": "7 天前"
     },
     {
+      "title": "Improving Fable 5's biology safeguards",
+      "summary": "Fable 5 will thus be able to assist with a wider range of biology tasks.",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-07T02:22:29.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
       "summary": "Our mission is to ensure that artificial general intelligence benefits all of humanity. We’re introducing updates to ChatGPT that improve everyday conversations while expanding access for Free users.",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-08-06T10:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Working with the American Psychological Association on youth mental health and AI",
@@ -70,11 +81,11 @@
       "group": "ai",
       "published": "2026-08-06T06:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "summary": null,
+      "summary": "New country-by-country data reveals how AI adoption is spreading and changing. AI is moving from something people ask to something they put to work.",
       "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
       "source": "OpenAI",
       "tag": "模型",
@@ -92,7 +103,7 @@
       "group": "ai",
       "published": "2026-08-06T15:06:15.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "GeForce NOW Shakes Up August With 26 New Games",
@@ -103,18 +114,7 @@
       "group": "ai",
       "published": "2026-08-06T13:00:11.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
-      "summary": "Editor’s note: This post is part of Into the Omniverse , a series focused on how developers, 3D practitioners and enterprises can transform their workflows using the latest advancements in OpenUSD and NVIDIA Omniverse .",
-      "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-08-06T13:00:00.000Z",
-      "why": null,
-      "ago": "13 小時前"
+      "ago": "16 小時前"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-07T01:35:34.023Z",
-  "updatedLocal": "2026/8/7 09:35:34",
+  "updated": "2026-08-07T04:56:57.009Z",
+  "updatedLocal": "2026/8/7 12:56:57",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-06T10:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "In Practice: Five ways businesses are charging ahead with electrification to combat energy costs",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-06T13:15:20.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Lidl GB scales Olio surplus food partnership to almost 200 stores",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-08-06T12:17:32.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "‘Deeply disappointing’: Gatwick to begin second runway development after court rejects legal challenge",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-08-06T11:56:42.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Q&A: What is in China’s new five-year plan for climate change?",
@@ -59,18 +59,29 @@
       "group": null,
       "published": "2026-08-06T14:48:40.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "14 小時前"
     },
     {
-      "title": "台南廢棄蚵棚起火冒黑煙、泰國擬加強資料中心監管、英動物園95年首度成功復育瀕危蛇鷲",
+      "title": "抗癌研究、去皺功效媲美肉毒桿菌 高價蠍毒加速全球非法貿易潮",
       "summary": null,
-      "url": "https://e-info.org.tw/node/243734",
+      "url": "https://e-info.org.tw/node/243615",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-08-06T02:56:59.000Z",
+      "published": "2026-08-07T01:38:43.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "3 小時前"
+    },
+    {
+      "title": "《災防法》法定天然災害增堰塞湖海嘯、日本最大AI資料中心落腳秋田、加國油氣大省掀獨立風暴",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243741",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-07T02:28:22.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "都蘭ATT案環評初審四度未過 環委要求補正再審",
@@ -81,29 +92,18 @@
       "group": null,
       "published": "2026-08-06T09:10:34.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "住宅光電暫緩無預告期惹議 民團抗議：四年努力不如建商兩天遊說",
+      "title": "建築光電新制最大挑戰是什麼？ 能源業者談「高雄模式」與都市微電網想像",
       "summary": null,
-      "url": "https://e-info.org.tw/node/243735",
+      "url": "https://e-info.org.tw/node/243742",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-08-06T03:57:03.000Z",
+      "published": "2026-08-07T03:58:06.000Z",
       "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "《奧德賽》橡樹還活著？ 希臘千年文化遺址庇護逾4400種珍貴物種",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243731",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-06T01:36:56.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "59 分鐘前"
     },
     {
       "title": "菜園不只是種菜 《走進彼桑拉返》英文版出版 布農族永續智慧走向國際",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-08-06T10:07:17.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "19 小時前"
     }
   ],
   "errors": []
