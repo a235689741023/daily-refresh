@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-08T13:36:17.018Z",
-  "updatedLocal": "2026/8/8 21:36:17",
+  "updated": "2026-08-08T22:53:27.509Z",
+  "updatedLocal": "2026/8/9 06:53:27",
   "digest": null,
   "watch": [],
   "items": [
@@ -29,28 +29,6 @@
       "ago": "5 天前"
     },
     {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "summary": "Cybersecurity is rapidly changing as models become more capable in ways that can both strengthen cyberdefenses and enable attacks at unprecedented speed and scale.",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-07T15:20:00.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "summary": "Tax professionals use ChatGPT Enterprise to process information faster, improve work quality, and create more capacity for advisory work and client service.",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-07T09:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
       "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
       "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure .",
       "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
@@ -59,29 +37,7 @@
       "group": "ai",
       "published": "2026-08-08T10:24:54.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "EU, California Converge on AI Transparency Rules, Shifting Focus to Enterprise Governance",
-      "summary": "A striking convergence is emerging between two of the world’s most influential artificial intelligence (AI) regulatory regimes.",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/eu-california-converge-on-ai-transparency-rules-shifting-focus-to-enterprise-governance/",
-      "source": "PYMNTS.com",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-07T17:27:58.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "What the EU AI Act Reveals About AI Governance",
-      "summary": "This month, new transparency requirements under the European Union's AI Act come into effect, marking another milestone in the world's first comprehensive AI regulation.",
-      "url": "https://www.cmswire.com/customer-experience/what-the-eu-ai-act-reveals-about-ai-roi/",
-      "source": "CMSWire",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-07T18:37:49.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "What the latest EU AI Act milestone means for manufacturers",
@@ -92,7 +48,51 @@
       "group": "ai",
       "published": "2026-08-07T20:56:28.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Legaltech governance latest: New Akerman head, EU AI Act warning, & BARBRI AI adoption findings",
+      "summary": "AI governance and competency are firmly in the spotlight this week.",
+      "url": "https://legaltechnology.com/legaltech-governance-latest-new-akerman-head-eu-ai-act-warning-barbri-ai-adoption-findings/",
+      "source": "Legal IT Insider",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-07T18:39:11.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "What the EU AI Act Reveals About AI ROI",
+      "summary": "This month, new transparency requirements under the European Union's AI Act come into effect, marking another milestone in the world's first comprehensive AI regulation.",
+      "url": "https://www.cmswire.com/customer-experience/what-the-eu-ai-act-reveals-about-ai-roi/",
+      "source": "CMSWire",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-07T18:37:49.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Trump Blocks Mandatory AI Audits: Government Evaluation Shares Exploited Sandbox Flaw",
+      "summary": "President Donald Trump said Congress wants to regulate the artificial intelligence industry \"out of business,\" according to a Punchbowl News interview published Friday the first explicit presidential declaration against binding federal AI oversight and a direct threat to the most ambitious bipartisan AI bill in Congress, even as the AI labs his administration shields from mandatory review have spent the past month demonstrating that voluntary governance cannot contain what they are building.",
+      "url": "https://www.techtimes.com/articles/323562/20260807/trump-blocks-mandatory-ai-audits-government-evaluation-shares-exploited-sandbox-flaw.htm",
+      "source": "Tech Times",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-07T18:07:42.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "EU, California Converge on AI Transparency Rules, Shifting Focus to Enterprise Governance",
+      "summary": "A striking convergence is emerging between two of the world’s most influential artificial intelligence (AI) regulatory regimes.",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/eu-california-converge-on-ai-transparency-rules-shifting-focus-to-enterprise-governance/",
+      "source": "PYMNTS.com",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-07T17:27:58.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []
