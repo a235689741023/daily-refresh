@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-07T23:01:44.789Z",
-  "updatedLocal": "2026/8/8 07:01:44",
+  "updated": "2026-08-08T04:12:23.358Z",
+  "updatedLocal": "2026/8/8 12:12:23",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,7 @@
       "group": "gis",
       "published": "2026-08-06T12:30:00.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "ArcGIS: Enterprise-Grade GIS Built to Scale",
-      "summary": "ArcGIS provides comprehensive geospatial capabilities for mapping, spatial analysis, and data management across desktop, web, and mobile environments.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis/announcements/arcgis-enterprise-grade-gis-built-to-scale",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-08-04T20:31:34.000Z",
-      "why": null,
-      "ago": "3 天前"
+      "ago": "2 天前"
     },
     {
       "title": "Developer’s Lounge: Demystifying the Esri Developer Experience",
@@ -40,17 +29,6 @@
       "ago": "4 天前"
     },
     {
-      "title": "Improving Fable 5's biology safeguards",
-      "summary": "Fable 5 will thus be able to assist with a wider range of biology tasks.",
-      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-07T02:22:29.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
       "title": "Responding to the next frontier of critical cyber capabilities",
       "summary": "Cybersecurity is rapidly changing as models become more capable in ways that can both strengthen cyberdefenses and enable attacks at unprecedented speed and scale.",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
@@ -59,7 +37,7 @@
       "group": "ai",
       "published": "2026-08-07T15:20:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
@@ -70,18 +48,18 @@
       "group": "ai",
       "published": "2026-08-07T09:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "19 小時前"
     },
     {
-      "title": "What the EU AI Act Reveals About AI Governance",
-      "summary": "This month, new transparency requirements under the European Union's AI Act come into effect, marking another milestone in the world's first comprehensive AI regulation.",
-      "url": "https://www.cmswire.com/customer-experience/what-the-eu-ai-act-reveals-about-ai-roi/",
-      "source": "CMSWire",
-      "tag": "政策",
+      "title": "Improving Fable 5's biology safeguards",
+      "summary": "Fable 5 will thus be able to assist with a wider range of biology tasks.",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "source": "Anthropic",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-08-07T18:37:49.000Z",
+      "published": "2026-08-07T02:22:29.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "昨日"
     },
     {
       "title": "EU, California Converge on AI Transparency Rules, Shifting Focus to Enterprise Governance",
@@ -92,18 +70,29 @@
       "group": "ai",
       "published": "2026-08-07T17:27:58.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "11 小時前"
+    },
+    {
+      "title": "What the EU AI Act Reveals About AI Governance",
+      "summary": "This month, new transparency requirements under the European Union's AI Act come into effect, marking another milestone in the world's first comprehensive AI regulation.",
+      "url": "https://www.cmswire.com/customer-experience/what-the-eu-ai-act-reveals-about-ai-roi/",
+      "source": "CMSWire",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-07T18:37:49.000Z",
+      "why": null,
+      "ago": "10 小時前"
     },
     {
       "title": "What the latest EU AI Act milestone means for manufacturers",
       "summary": null,
       "url": "https://www.dpaonthenet.net/article/223445/What-the-latest-EU-AI-Act-milestone-means-for-manufacturers.aspx",
-      "source": "DPA Magazine",
+      "source": "dpaonthenet.net",
       "tag": "政策",
       "group": "ai",
       "published": "2026-08-07T20:56:28.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     }
   ],
   "errors": []

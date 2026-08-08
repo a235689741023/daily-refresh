@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-07T23:01:44.789Z",
-  "updatedLocal": "2026/8/8 07:01:44",
+  "updated": "2026-08-08T04:12:23.358Z",
+  "updatedLocal": "2026/8/8 12:12:23",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-07T10:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Google’s $15bn India data centre project faces water and environmental challenges",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-07T17:59:11.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "All surface water in England polluted by chemicals",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-08-07T14:08:19.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "National Grid purchases 300 BNG units for Yorkshire green grid venture",
@@ -48,18 +48,7 @@
       "group": null,
       "published": "2026-08-07T10:56:00.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "抗癌研究、去皺功效媲美肉毒桿菌 高價蠍毒加速全球非法貿易潮",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243615",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-07T02:30:53.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "《災防法》法定天然災害增堰塞湖海嘯、日本最大AI資料中心落腳秋田、加國油氣大省掀獨立風暴",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-08-07T06:08:09.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "島上的微型濕地",
@@ -81,18 +70,7 @@
       "group": null,
       "published": "2026-08-07T06:38:10.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "建築光電新制最大挑戰是什麼？ 能源業者談「高雄模式」與都市微電網想像",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243742",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-07T03:58:06.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "極地航海歸來 陳懷璞：未來海洋探險的核心是人與自然的重新連結",
@@ -103,7 +81,29 @@
       "group": null,
       "published": "2026-08-07T08:38:14.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "20 小時前"
+    },
+    {
+      "title": "建築光電新制最大挑戰是什麼？ 能源業者談「高雄模式」與都市微電網想像",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243742",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-07T03:58:06.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "抗癌研究、去皺功效媲美肉毒桿菌 高價蠍毒加速全球非法貿易潮",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243615",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-07T02:30:53.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "【永續新聞快訊】企業減碳路徑再調整，低碳原料與碳移除加速布局",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-08-07T09:55:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "18 小時前"
     }
   ],
   "errors": []

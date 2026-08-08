@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-07T23:01:44.789Z",
-  "updatedLocal": "2026/8/8 07:01:44",
+  "updated": "2026-08-08T04:12:23.358Z",
+  "updatedLocal": "2026/8/8 12:12:23",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,29 +15,7 @@
       "group": null,
       "published": "2026-08-07T13:34:44.000Z",
       "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "United Wholesale Mortgage plunges 35% after suspending dividend and raising capital",
-      "summary": "Shares in UWM Holdings , parent of United Wholesale Mortgage, plunged 35% on Thursday after the biggest U.S. mortgage lender suspended its dividend and raised fresh capital.",
-      "url": "https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-06T20:37:51.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Copper jumps to its highest level ever. What the metal is telling us",
-      "summary": "Copper surged to a record high Thursday, but the latest rally comes against a more mixed growth backdrop, making the once-reliable gauge of economic health, \"Dr. Copper,\" harder to read.",
-      "url": "https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-06T20:07:51.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "15 小時前"
     },
     {
       "title": "Here are three key takeaways from the disappointing July jobs report",
@@ -48,7 +26,7 @@
       "group": null,
       "published": "2026-08-07T18:09:18.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
@@ -59,7 +37,7 @@
       "group": null,
       "published": "2026-08-07T19:14:22.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "The July jobs numbers are due out Friday. Here's what to expect",
@@ -70,7 +48,7 @@
       "group": null,
       "published": "2026-08-07T11:23:07.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
@@ -81,7 +59,7 @@
       "group": null,
       "published": "2026-08-07T22:05:00.000Z",
       "why": null,
-      "ago": "57 分鐘前"
+      "ago": "6 小時前"
     },
     {
       "title": "The smart way to invest in gold right now as the dollar slips",
@@ -92,10 +70,10 @@
       "group": null,
       "published": "2026-08-07T21:58:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "6 小時前"
     },
     {
-      "title": "Palantir’s stock stages best week since 2024 — showing it’s no longer an AI loser",
+      "title": "Palantir’s stock stages best week since 2024 — showing it’s no longer an ‘AI loser’",
       "summary": null,
       "url": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -103,7 +81,7 @@
       "group": null,
       "published": "2026-08-07T20:54:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Two reasons why Nvidia’s stock saw its biggest weekly surge in more than a year",
@@ -114,7 +92,29 @@
       "group": null,
       "published": "2026-08-07T20:41:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
+    },
+    {
+      "title": "SpaceX’s stock just had one of its best days ever — with the first lockup expiration now behind it",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-07T20:38:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-07T20:30:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
     }
   ],
   "errors": []
