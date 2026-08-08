@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-08T04:12:23.358Z",
-  "updatedLocal": "2026/8/8 12:12:23",
+  "updated": "2026-08-08T13:36:17.018Z",
+  "updatedLocal": "2026/8/8 21:36:17",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-08-03T18:56:12.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
     },
     {
       "title": "Responding to the next frontier of critical cyber capabilities",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-08-07T15:20:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
@@ -48,18 +48,18 @@
       "group": "ai",
       "published": "2026-08-07T09:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Improving Fable 5's biology safeguards",
-      "summary": "Fable 5 will thus be able to assist with a wider range of biology tasks.",
-      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "source": "Anthropic",
-      "tag": "模型",
+      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+      "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure .",
+      "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
       "group": "ai",
-      "published": "2026-08-07T02:22:29.000Z",
+      "published": "2026-08-08T10:24:54.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "3 小時前"
     },
     {
       "title": "EU, California Converge on AI Transparency Rules, Shifting Focus to Enterprise Governance",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-08-07T17:27:58.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "What the EU AI Act Reveals About AI Governance",
@@ -81,18 +81,18 @@
       "group": "ai",
       "published": "2026-08-07T18:37:49.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "What the latest EU AI Act milestone means for manufacturers",
       "summary": null,
       "url": "https://www.dpaonthenet.net/article/223445/What-the-latest-EU-AI-Act-milestone-means-for-manufacturers.aspx",
-      "source": "dpaonthenet.net",
+      "source": "DPA Magazine",
       "tag": "政策",
       "group": "ai",
       "published": "2026-08-07T20:56:28.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "17 小時前"
     }
   ],
   "errors": []

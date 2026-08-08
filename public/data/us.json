@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-08T04:12:23.358Z",
-  "updatedLocal": "2026/8/8 12:12:23",
+  "updated": "2026-08-08T13:36:17.018Z",
+  "updatedLocal": "2026/8/8 21:36:17",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+      "summary": "Berkshire Hathaway 's operating earnings climbed 16% in the second quarter as strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
+      "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-08T13:28:00.000Z",
+      "why": null,
+      "ago": "8 分鐘前"
+    },
     {
       "title": "Odds the Fed will hike in September tumble following big July jobs miss",
       "summary": "The U.S. economy surprisingly shed jobs in July , and it's leading investors to think that an interest rate hike by the Federal Reserve in September is increasingly unlikely.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-08-07T13:34:44.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Here are three key takeaways from the disappointing July jobs report",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-08-07T18:09:18.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
@@ -37,18 +48,62 @@
       "group": null,
       "published": "2026-08-07T19:14:22.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
     },
     {
-      "title": "The July jobs numbers are due out Friday. Here's what to expect",
-      "summary": "Job growth isn't expected to show much improvement in July, with payrolls and the unemployment rate likely holding relatively steady and economists looking through the headline numbers for further clues about labor market health.",
-      "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
+      "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
       "group": null,
-      "published": "2026-08-07T11:23:07.000Z",
+      "published": "2026-08-08T12:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-08T12:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Here’s why Wendy’s is losing the burger wars",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/heres-why-wendys-is-losing-the-burger-wars-bf79deba?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-08T11:30:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "My brother asked me to sign as his executor, but wouldn’t let me read the document. Should I have refused?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-brother-asked-me-to-sign-as-his-executor-but-wouldnt-let-me-read-the-document-should-i-have-refused-1b53d9bc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-08T11:00:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "SpaceX’s Nvidia deal could be bad news for neoclouds like CoreWeave and Nebius, analysts say",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/spacexs-nvidia-deal-could-be-bad-news-for-neoclouds-like-coreweave-and-nebius-analysts-say-168c9ed1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-08T11:00:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
@@ -59,62 +114,7 @@
       "group": null,
       "published": "2026-08-07T22:05:00.000Z",
       "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "The smart way to invest in gold right now as the dollar slips",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-smart-way-to-invest-in-gold-right-now-as-the-dollar-slips-22fdf3b2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-07T21:58:00.000Z",
-      "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "Palantir’s stock stages best week since 2024 — showing it’s no longer an ‘AI loser’",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-07T20:54:00.000Z",
-      "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Two reasons why Nvidia’s stock saw its biggest weekly surge in more than a year",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/two-reasons-why-nvidias-stock-saw-its-biggest-weekly-surge-in-more-than-a-year-644875c8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-07T20:41:00.000Z",
-      "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "SpaceX’s stock just had one of its best days ever — with the first lockup expiration now behind it",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-07T20:38:00.000Z",
-      "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-07T20:30:00.000Z",
-      "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     }
   ],
   "errors": []
