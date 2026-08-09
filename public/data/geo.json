@@ -1,22 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-08T22:53:27.509Z",
-  "updatedLocal": "2026/8/9 06:53:27",
+  "updated": "2026-08-09T04:19:24.976Z",
+  "updatedLocal": "2026/8/9 12:19:24",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Ask Maps gets more helpful with food ordering and more",
-      "summary": "From agentic food ordering to real time transit information, the latest Ask Maps improvements make it easier than ever to get more done.",
-      "url": "https://blog.google/products-and-platforms/products/maps/order-food-in-ask-maps/",
-      "source": "Google Maps Blog",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-08-06T12:30:00.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
     {
       "title": "Developer’s Lounge: Demystifying the Esri Developer Experience",
       "summary": "“ Where do I begin?” and “ What tools are available for building my application?",
@@ -29,6 +18,39 @@
       "ago": "5 天前"
     },
     {
+      "title": "Ask Maps gets more helpful with food ordering and more",
+      "summary": "From agentic food ordering to real time transit information, the latest Ask Maps improvements make it easier than ever to get more done.",
+      "url": "https://blog.google/products-and-platforms/products/maps/order-food-in-ask-maps/",
+      "source": "Google Maps Blog",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-08-06T12:30:00.000Z",
+      "why": null,
+      "ago": "3 天前"
+    },
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "summary": "Cybersecurity is rapidly changing as models become more capable in ways that can both strengthen cyberdefenses and enable attacks at unprecedented speed and scale.",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-07T15:20:00.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "summary": "Tax professionals use ChatGPT Enterprise to process information faster, improve work quality, and create more capacity for advisory work and client service.",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-07T09:00:00.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
       "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
       "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure .",
       "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
@@ -37,7 +59,7 @@
       "group": "ai",
       "published": "2026-08-08T10:24:54.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "What the latest EU AI Act milestone means for manufacturers",
@@ -69,28 +91,6 @@
       "tag": "政策",
       "group": "ai",
       "published": "2026-08-07T18:37:49.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Trump Blocks Mandatory AI Audits: Government Evaluation Shares Exploited Sandbox Flaw",
-      "summary": "President Donald Trump said Congress wants to regulate the artificial intelligence industry \"out of business,\" according to a Punchbowl News interview published Friday the first explicit presidential declaration against binding federal AI oversight and a direct threat to the most ambitious bipartisan AI bill in Congress, even as the AI labs his administration shields from mandatory review have spent the past month demonstrating that voluntary governance cannot contain what they are building.",
-      "url": "https://www.techtimes.com/articles/323562/20260807/trump-blocks-mandatory-ai-audits-government-evaluation-shares-exploited-sandbox-flaw.htm",
-      "source": "Tech Times",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-07T18:07:42.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "EU, California Converge on AI Transparency Rules, Shifting Focus to Enterprise Governance",
-      "summary": "A striking convergence is emerging between two of the world’s most influential artificial intelligence (AI) regulatory regimes.",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/eu-california-converge-on-ai-transparency-rules-shifting-focus-to-enterprise-governance/",
-      "source": "PYMNTS.com",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-07T17:27:58.000Z",
       "why": null,
       "ago": "昨日"
     }

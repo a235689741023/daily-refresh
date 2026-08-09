@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-08T22:53:27.509Z",
-  "updatedLocal": "2026/8/9 06:53:27",
+  "updated": "2026-08-09T04:19:24.976Z",
+  "updatedLocal": "2026/8/9 12:19:24",
   "digest": null,
   "watch": [],
   "items": [
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-08-07T14:08:19.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "National Grid purchases 300 BNG units for Yorkshire green grid venture",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-08-07T10:56:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "極地航海歸來 陳懷璞：未來海洋探險的核心是人與自然的重新連結",
@@ -84,28 +84,6 @@
       "ago": "2 天前"
     },
     {
-      "title": "建築光電新制最大挑戰是什麼？ 能源業者談「高雄模式」與都市微電網想像",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243742",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-07T03:58:06.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "抗癌研究、去皺功效媲美肉毒桿菌 高價蠍毒加速全球非法貿易潮",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243615",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-07T02:30:53.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
       "title": "台灣用電需求增 彭啓明有信心：2030減碳28%有望達標 | 中央廣播電臺",
       "summary": "您使用的瀏覽器版本較舊，已不再受支援。建議您更新瀏覽器版本，以獲得最佳使用體驗。環境部長彭啓明今天(7日)表示，台灣最新國家自定貢獻(NDC 3.0)將2030年減碳目標由24%提高至28±2%，未來每年減碳幅度更提高至4%至5%，挑戰相當大，但環境部認為，2030年目標仍在既定渠道上，甚至有機會提前達標。",
       "url": "https://today.line.me/tw/v3/article/mWRo0lZ",
@@ -114,7 +92,29 @@
       "group": null,
       "published": "2026-08-07T14:01:44.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
+    },
+    {
+      "title": "台新新光金控淨零論壇 匯聚永續的光與熱",
+      "summary": "永續作為逐漸成為企業基本條件，在面對國際規範升級與市場對永續實績要求的新時代，更該思考如何提升成效，強化競爭及加速成長動能。",
+      "url": "https://news.cnyes.com/news/id/6565138",
+      "source": "news.cnyes.com",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-07T10:32:13.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "台新新光淨零論壇第5年登場 上銀、強茂、宏碁、金寶經驗分享！",
+      "summary": null,
+      "url": "https://www.ftvnews.com.tw/news/detail/2026807W0499",
+      "source": "民視新聞網",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-07T08:26:00.000Z",
+      "why": null,
+      "ago": "2 天前"
     }
   ],
   "errors": []

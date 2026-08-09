@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-08T22:53:27.509Z",
-  "updatedLocal": "2026/8/9 06:53:27",
+  "updated": "2026-08-09T04:19:24.976Z",
+  "updatedLocal": "2026/8/9 12:19:24",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-08T15:00:01.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-08T13:28:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-08-08T20:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-08-08T19:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-08-08T19:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-08-08T18:37:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-08-08T18:30:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-08-08T18:30:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
@@ -103,7 +103,7 @@
       "group": null,
       "published": "2026-08-08T18:30:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes?",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-08-08T17:58:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "10 小時前"
     }
   ],
   "errors": []
