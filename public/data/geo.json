@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-10T04:40:11.846Z",
-  "updatedLocal": "2026/8/10 12:40:11",
+  "updated": "2026-08-10T14:10:16.550Z",
+  "updatedLocal": "2026/8/10 22:10:16",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-03T18:56:12.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
     },
     {
       "title": "Ask Maps gets more helpful with food ordering and more",
@@ -29,6 +29,50 @@
       "ago": "4 天前"
     },
     {
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "summary": "OpenAI sent a letter to Texas Governor Greg Abbott outlining our commitment to responsible AI infrastructure development in Texas.",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-10T14:00:00.000Z",
+      "why": null,
+      "ago": "10 分鐘前"
+    },
+    {
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "summary": "Model ML uses GPT‑5.6 Sol in workflows that create editable PowerPoint and Excel files, with 21% fewer tokens per deck than Fable 5.",
+      "url": "https://openai.com/index/model-ml",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-10T12:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "AI for science needs reasoning, not just data",
+      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-08-10T09:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "These startups are chasing the next big thing in LLMs",
+      "summary": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future.",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-08-10T09:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
       "title": "How to report an AI Act violation in the EU",
       "summary": "The EU’s fight to regulate AI models entered a new chapter on 2 August 2026, when the European Commission’s AI Office and national authorities began enforcing the AI Act.",
       "url": "https://www.helpnetsecurity.com/2026/08/10/eu-ai-act-enforcement-how-to-report-violation/",
@@ -37,29 +81,18 @@
       "group": "ai",
       "published": "2026-08-10T04:00:10.000Z",
       "why": null,
-      "ago": "40 分鐘前"
+      "ago": "10 小時前"
     },
     {
-      "title": "ACHNET Releases AI Act Documentation for Employers Using High-Risk Hiring AI",
-      "summary": "ACHNET published AI hiring compliance documentation following the EU's delay of high-risk AI obligations until December 2027.",
-      "url": "https://markets.businessinsider.com/news/stocks/achnet-releases-ai-act-documentation-for-employers-using-high-risk-hiring-ai-1036432508",
-      "source": "markets.businessinsider.com",
+      "title": "Simpler AI Rules Must Not Mean Weaker Safety for Europe’s Workers",
+      "summary": "The Digital Omnibus strips machinery from the AI Act’s high-risk regime, leaving worker safeguards in limbo.",
+      "url": "https://www.socialeurope.eu/simpler-ai-rules-must-not-mean-weaker-safety-for-europes-workers",
+      "source": "Social Europe",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-08-09T15:27:03.000Z",
+      "published": "2026-08-10T05:18:54.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
-      "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure .",
-      "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-08-08T10:24:54.000Z",
-      "why": null,
-      "ago": "2 天前"
+      "ago": "9 小時前"
     }
   ],
   "errors": []

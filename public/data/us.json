@@ -1,54 +1,65 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-10T04:40:11.846Z",
-  "updatedLocal": "2026/8/10 12:40:11",
+  "updated": "2026-08-10T14:10:16.550Z",
+  "updatedLocal": "2026/8/10 22:10:16",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "U.S. stock futures flat as investors await inflation data, grapple with more Iran uncertainty",
+      "title": "This is the ZIP Code with the hottest housing market in the country right now",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/this-is-the-hottest-zip-code-where-homes-are-selling-fast-2c642716?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-10T03:02:00.000Z",
+      "published": "2026-08-10T14:00:00.000Z",
+      "why": null,
+      "ago": "10 分鐘前"
+    },
+    {
+      "title": "The U.S. economy is shedding jobs. Here’s why that’s good news for stocks.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-u-s-economy-is-shedding-jobs-why-thats-good-news-for-stocks-a7f4773c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-10T13:30:00.000Z",
+      "why": null,
+      "ago": "40 分鐘前"
+    },
+    {
+      "title": "Berkshire Hathaway finally started spending its nearly $400 billion in cash — on one stock it knows very well",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/berkshire-hathaway-finally-started-spending-its-nearly-400-billion-in-cash-on-one-stock-it-knows-very-well-f9d56389?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-10T12:53:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Apple’s stock could underperform, especially without an ‘all-glass’ iPhone, this analyst warns",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/apples-stock-could-underperform-especially-without-an-all-glass-iphone-this-analyst-warns-fc9a750c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-10T12:48:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Intel plans to sell $15 billion worth of stock after it has risen 400% in a year",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/intel-plans-to-sell-15-billion-worth-of-stock-after-it-has-risen-400-in-a-year-395effce?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-10T12:24:00.000Z",
       "why": null,
       "ago": "2 小時前"
-    },
-    {
-      "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-10T00:00:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-09T23:30:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-09T19:11:00.000Z",
-      "why": null,
-      "ago": "9 小時前"
     },
     {
       "title": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
@@ -57,64 +68,53 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-09T16:00:00.000Z",
+      "published": "2026-08-10T12:16:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "S&P 500 sales growth is at a nearly 5-year high. Here’s what’s behind the surge.",
+      "title": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/s-p-500-sales-growth-is-at-a-nearly-5-year-high-heres-whats-behind-the-surge-a4ccf06d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-09T14:00:00.000Z",
+      "published": "2026-08-10T11:36:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+      "title": "How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-09T13:30:00.000Z",
+      "published": "2026-08-10T11:36:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+      "title": "Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-09T13:00:00.000Z",
+      "published": "2026-08-10T11:35:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
+      "title": "‘I want her to choose the best strategy’: My wife’s Social Security is just $900. Should she claim spousal benefit at 62?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-09T12:30:00.000Z",
+      "published": "2026-08-10T11:15:00.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-09T12:30:00.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "3 小時前"
     }
   ],
   "errors": []
