@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-10T14:10:16.550Z",
-  "updatedLocal": "2026/8/10 22:10:16",
+  "updated": "2026-08-10T23:03:17.103Z",
+  "updatedLocal": "2026/8/11 07:03:17",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,18 @@
       "group": null,
       "published": "2026-08-10T10:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
+    },
+    {
+      "title": "Amazon deforestation alerts reach record lows",
+      "summary": "The Amazon has recorded the smallest area under deforestation alerts ever in 2026, a drop of 36% compared to the previous year.",
+      "url": "https://www.edie.net/amazon-deforestation-alerts-reach-record-lows/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-10T15:27:28.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Could Burnham’s cost-of-living measures impede long-term climate and economic resiliency?",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-08-10T13:29:12.000Z",
       "why": null,
-      "ago": "41 分鐘前"
+      "ago": "10 小時前"
     },
     {
       "title": "UK mattress scheme’s recycling milestone and AstraZeneca’s fleet electrification: The sustainability success stories of the week",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-08-10T07:15:57.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "流汗就能發電！日本「汗水電池」重大突破 成本價可降至台幣2元",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-08-10T01:16:11.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "颱風白海豚釀北市75件災情、巴西亞馬遜雨林砍伐量降至10年最低、沖繩培育耐高溫奇蹟珊瑚",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-08-10T04:51:15.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "從在地餐桌到世界舞台 專訪「予島 YuDao」主廚楊柏偉",
@@ -70,18 +81,18 @@
       "group": null,
       "published": "2026-08-10T09:46:28.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
-      "title": "Climate disclosure across the OECD: the US risks becoming the exception",
-      "summary": null,
-      "url": "https://minerva.info/post/climate-disclosure-across-the-oecd-the-us-risks-becoming-the-exception",
-      "source": "Minerva Analytics",
+      "title": "Two boards, one foundation: Why the IASB and ISSB are partners, not rivals",
+      "summary": "请保持评论内容尊重他人。请使用简明英语，避免使用可能被误解为冒犯的措辞。发表评论即表示您同意遵守我们的 社区准则 以及 条款与条件 。我们鼓励您举报不当评论。",
+      "url": "https://thebftonline.com/article/two-boards-one-foundation-why-the-iasb-and-issb-are-partners-not-rivals",
+      "source": "Business & Financial Times",
       "tag": "法規",
       "group": null,
-      "published": "2026-08-10T11:50:26.000Z",
+      "published": "2026-08-10T17:20:04.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "6 小時前"
     },
     {
       "title": "Organisations should test run ISSB reporting in 2026 to avoid surprises",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-08-09T17:45:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "薪水加了，人還是走了？2026永續新魔王：藏在工作設計裡的「心理社會風險」",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-08-10T00:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "2026年ESG評鑑正式上路，「員工意見調查」納入社會面評鑑指標",
-      "summary": null,
-      "url": "https://csrone.com/news/10055",
-      "source": "CSRone 永續智庫",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-10T04:00:00.000Z",
-      "why": null,
-      "ago": "10 小時前"
+      "ago": "23 小時前"
     }
   ],
   "errors": []
