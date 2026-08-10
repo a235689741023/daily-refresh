@@ -1,21 +1,43 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-09T22:56:23.171Z",
-  "updatedLocal": "2026/8/10 06:56:23",
+  "updated": "2026-08-10T04:40:11.846Z",
+  "updatedLocal": "2026/8/10 12:40:11",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "U.S. stock futures dip as investors await inflation data, grapple with more Iran uncertainty",
+      "title": "U.S. stock futures flat as investors await inflation data, grapple with more Iran uncertainty",
       "summary": null,
       "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-09T22:46:00.000Z",
+      "published": "2026-08-10T03:02:00.000Z",
       "why": null,
-      "ago": "10 分鐘前"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-10T00:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-09T23:30:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-08-09T19:11:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-08-09T16:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "S&P 500 sales growth is at a nearly 5-year high. Here’s what’s behind the surge.",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-08-09T14:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-08-09T13:30:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-08-09T13:00:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-08-09T12:30:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-08-09T12:30:00.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-08T19:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-08T19:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "16 小時前"
     }
   ],
   "errors": []
