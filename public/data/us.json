@@ -1,11 +1,55 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-11T14:10:02.100Z",
-  "updatedLocal": "2026/8/11 22:10:02",
+  "updated": "2026-08-11T23:09:23.117Z",
+  "updatedLocal": "2026/8/12 07:09:23",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
+      "summary": "Jensen Huang built the world's most valuable company by pioneering the specialized computer chips behind the artificial intelligence boom.",
+      "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-11T21:01:13.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approach",
+      "summary": "Wisconsin sent prediction market platforms spinning last month when its election commission released a directive reminding voters that betting on elections — including via trades on event contract exchanges — is illegal in the state, based on a more than 175-year-old law.",
+      "url": "https://www.cnbc.com/2026/08/11/do-state-election-betting-bans-apply-to-prediction-markets.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-11T18:44:16.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
+      "summary": "Computing power is emerging as a new tradable asset class, with CME Group set to launch the first futures contracts tied to the cost of running the chips that power artificial intelligence.",
+      "url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-11T18:09:08.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Why JPMorgan is investing big in the 2028 LA Olympics",
+      "summary": "LOS ANGELES — For years, JPMorgan executives have been talking with Olympics organizers about sponsoring the games.",
+      "url": "https://www.cnbc.com/2026/08/11/why-jpmorgan-is-investing-big-in-the-2028-la-olympics.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-11T18:50:37.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "Polymarket makes moves to get house in order before expected boom times for prediction markets this fall",
       "summary": "Prediction market platform Polymarket is preparing for what's expected to be a busy fall season for event contract exchanges by making high-profile hires and restructuring its marketing strategy.",
@@ -13,9 +57,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-11T13:56:28.000Z",
+      "published": "2026-08-11T20:26:22.000Z",
       "why": null,
-      "ago": "14 分鐘前"
+      "ago": "3 小時前"
     },
     {
       "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
@@ -24,9 +68,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-11T14:09:03.000Z",
+      "published": "2026-08-11T14:11:05.000Z",
       "why": null,
-      "ago": "剛剛"
+      "ago": "9 小時前"
     },
     {
       "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
@@ -37,7 +81,7 @@
       "group": null,
       "published": "2026-08-10T22:09:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Three reasons Goldman's co-head of global banking and markets says to stay invested",
@@ -48,7 +92,18 @@
       "group": null,
       "published": "2026-08-10T18:36:26.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
+      "summary": "An important inflation report Wednesday could give the Federal Reserve a little breathing room in its battle against inflation.",
+      "url": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-08-11T18:34:41.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
@@ -57,64 +112,9 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-11T14:00:00.000Z",
+      "published": "2026-08-11T22:30:00.000Z",
       "why": null,
-      "ago": "10 分鐘前"
-    },
-    {
-      "title": "My wife can claim $900 at 62. Should she take it now — or wait for her spousal benefit?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-11T14:00:00.000Z",
-      "why": null,
-      "ago": "10 分鐘前"
-    },
-    {
-      "title": "Airbnb has added thousands of new hotel listings. Will that damage the brand’s identity?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/airbnb-has-added-thousands-of-new-hotel-listings-will-that-ruin-its-charm-0af2d3b0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-11T13:58:00.000Z",
-      "why": null,
-      "ago": "12 分鐘前"
-    },
-    {
-      "title": "I just moved. These 7 tips saved me nearly $1,000.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/i-just-moved-these-7-tips-saved-me-around-1-000-ea3b0ae5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-11T13:52:00.000Z",
-      "why": null,
-      "ago": "18 分鐘前"
-    },
-    {
-      "title": "This fund manager tunes out AI hype to flag the infrastructure stocks to buy now. Think roads, water and telecom towers.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/roads-water-and-telecom-towers-can-beat-the-ai-hype-this-fund-manager-flags-the-infrastructure-stocks-to-buy-now-54c62a77?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-11T13:39:00.000Z",
-      "why": null,
-      "ago": "31 分鐘前"
-    },
-    {
-      "title": "We live on a farm and have $2.2 million saved for retirement. We’re ready to retire abroad. Can we afford it?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/we-live-on-a-farm-and-have-2-2-million-saved-for-retirement-were-ready-to-retire-abroad-can-we-afford-it-85e56105?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-11T13:00:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
+      "ago": "39 分鐘前"
     }
   ],
   "errors": []

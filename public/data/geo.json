@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-11T14:10:02.100Z",
-  "updatedLocal": "2026/8/11 22:10:02",
+  "updated": "2026-08-11T23:09:23.117Z",
+  "updatedLocal": "2026/8/12 07:09:23",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,37 +18,26 @@
       "ago": "5 天前"
     },
     {
-      "title": "Than Two Thirds of the Zeros of the Riemann Zeta Function Lie on the Critical Line - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/564f962e60643842f5fcb4a17c9dbc8f608f1c37.pdf",
-      "source": "Anthropic",
+      "title": "Testing ads in ChatGPT",
+      "summary": "Ads that support free access and don’t change ChatGPT answers. Update on August 11, 2026: ChatGPT Ads has now launched in the United Kingdom, Mexico, Brazil, Japan, and South Korea.",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-10T17:52:56.000Z",
+      "published": "2026-08-11T10:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "13 小時前"
     },
     {
-      "title": "Learning more about Claude's mathematical capabilities",
-      "summary": "Recently, a member of staff at Anthropic gave Claude an unreasonable challenge. It was about one of the most famous unsolved problems in mathematics: Take a real stab at the Riemann hypothesis .",
-      "url": "https://www.anthropic.com/research/riemann-zeta",
-      "source": "Anthropic",
+      "title": "Daybreak models are now available on AWS",
+      "summary": "Earlier this year, OpenAI frontier models and Codex became generally available on AWS, giving enterprises a new path to bring advanced AI into production.",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-10T17:52:56.000Z",
+      "published": "2026-08-11T10:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "How the two-thirds argument was found: two agent runs and their literature - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/d7f3ecf1d01392d887f8bc974ca187e2a121b1ed.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-10T17:55:12.000Z",
-      "why": null,
-      "ago": "20 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "67% of the zeroes are on the line. - www-cdn.anthropic.com",
@@ -59,27 +48,38 @@
       "group": "ai",
       "published": "2026-08-10T17:55:12.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "What building an AI-native finance function taught me",
-      "summary": "Five lessons for CFOs redesigning work around artificial intelligence. Finance has become a real-time function.",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "source": "OpenAI",
+      "title": "How the two-thirds argument was found: two agent runs and their literature - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/d7f3ecf1d01392d887f8bc974ca187e2a121b1ed.pdf",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-10T17:00:00.000Z",
+      "published": "2026-08-10T17:55:12.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "summary": "OpenAI sent a letter to Texas Governor Greg Abbott outlining our commitment to responsible AI infrastructure development in Texas.",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "source": "OpenAI",
+      "title": "Learning more about Claude's mathematical capabilities",
+      "summary": "Recently, a member of staff at Anthropic gave Claude an unreasonable challenge. It was about one of the most famous unsolved problems in mathematics: Take a real stab at the Riemann hypothesis .",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "source": "anthropic.com",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-10T14:00:00.000Z",
+      "published": "2026-08-10T17:52:56.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Than Two Thirds of the Zeros of the Riemann Zeta Function Lie on the Critical Line - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/564f962e60643842f5fcb4a17c9dbc8f608f1c37.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-10T17:52:56.000Z",
       "why": null,
       "ago": "昨日"
     }

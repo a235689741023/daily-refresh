@@ -1,13 +1,13 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-11T14:10:02.100Z",
-  "updatedLocal": "2026/8/11 22:10:02",
+  "updated": "2026-08-11T23:09:23.117Z",
+  "updatedLocal": "2026/8/12 07:09:23",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "The campaign that kick-started the net zero movement is shifting focus",
+      "title": "The campaign that kick-started the net-zero movement is shifting focus",
       "summary": "Race to Zero, an influential campaign that catalyzed support for net zero from thousand of large companies, is winding down as its leaders shift focus to delivery of climate commitments.",
       "url": "https://trellis.net/article/race-to-zero-enters-new-phase/",
       "source": "Trellis",
@@ -15,18 +15,40 @@
       "group": null,
       "published": "2026-08-11T10:00:00.000Z",
       "why": null,
+      "ago": "13 小時前"
+    },
+    {
+      "title": "Slow connections threaten UK industrial electrification, report warns",
+      "summary": "According to a new report from ADE: Demand, factories are giving up on connecting to the UK grid in favour of gas as a result of slow connection timelines.",
+      "url": "https://www.edie.net/slow-connections-threaten-uk-industrial-electrification-report-warns/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-11T19:03:47.000Z",
+      "why": null,
       "ago": "4 小時前"
     },
     {
-      "title": "Simplifying the sustainability certification ecosystem",
-      "summary": "The quest to decarbonize is the most fundamental mission of corporate sustainability, but its language can be confusing.",
-      "url": "https://trellis.net/article/clarifying-language-sustainability/",
-      "source": "Trellis",
+      "title": "The drought aftershock: What water stress means for Europe’s businesses long term",
+      "summary": "With temperatures set to exceed 30C across Europe and the UK again this week, drought conditions are intensifying across the continent.",
+      "url": "https://www.edie.net/the-drought-aftershock-what-water-stress-means-for-europes-businesses-long-term/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-10T10:00:00.000Z",
+      "published": "2026-08-11T15:49:59.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "7 小時前"
+    },
+    {
+      "title": "EU Packaging and Packaging Waste Regulation enters into force: Everything you need to know",
+      "summary": "EU Packaging and Packaging Waste Regulation (PPWR) becomes legally binding for businesses on Wednesday (12 August).",
+      "url": "https://www.edie.net/eu-packaging-and-packaging-waste-regulation-enters-into-force-everything-you-need-to-know/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-11T14:24:12.000Z",
+      "why": null,
+      "ago": "9 小時前"
     },
     {
       "title": "Why investing in biodiversity matters for supply chains and business security",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-08-11T11:53:11.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Government funnels £130m into zero-emission vehicles as Mandate consultation looms",
@@ -48,18 +70,7 @@
       "group": null,
       "published": "2026-08-11T09:58:49.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "Amazon deforestation alerts reach record lows",
-      "summary": "The Amazon has recorded the smallest area under deforestation alerts ever in 2026, a drop of 36% compared to the previous year.",
-      "url": "https://www.edie.net/amazon-deforestation-alerts-reach-record-lows/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-10T15:27:28.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "日月潭魚虎球電撈量寫新高、哥倫比亞規模7.4強震、極圈以外全球平均海溫破紀錄",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-08-11T03:18:47.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "自願承諾不夠！ 美跨黨派推「電價保護法」要求科技巨頭自付資料中心電費",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-08-11T01:38:46.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "學校午餐如何從免費政策邁向永續經營？ 專家倡議盡速立法、與在地供應鏈合作",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-08-11T03:18:47.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "高溫下，棉質衣物對部分印度種姓家庭仍是奢侈品",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-08-11T03:18:47.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Climate disclosure across the OECD: Why the US risks becoming the exception",
-      "summary": "With the comment period on the SEC’s proposal to rescind its 2024 climate disclosure rules now closed, the United States is on course to become the only major OECD market moving to remove, rather than refine, a federal investor-facing climate reporting framework.",
-      "url": "https://minerva.info/post/climate-disclosure-across-the-oecd-us-risks-becoming-the-exception",
-      "source": "Minerva Analytics",
-      "tag": "法規",
-      "group": null,
-      "published": "2026-08-11T10:59:12.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "20 小時前"
     }
   ],
   "errors": []
