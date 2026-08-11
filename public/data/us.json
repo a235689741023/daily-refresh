@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-10T23:03:17.103Z",
-  "updatedLocal": "2026/8/11 07:03:17",
+  "updated": "2026-08-11T04:22:01.762Z",
+  "updatedLocal": "2026/8/11 12:22:01",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-10T22:09:00.000Z",
       "why": null,
-      "ago": "54 分鐘前"
+      "ago": "6 小時前"
     },
     {
       "title": "Three reasons Goldman's co-head of global banking and markets says to stay invested",
@@ -25,6 +25,50 @@
       "tag": "大盤",
       "group": null,
       "published": "2026-08-10T18:36:26.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
+    {
+      "title": "Nvidia teams with Wall Street firms to help finance $500 billion for AI infrastructure",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/nvidia-teams-with-wall-street-firms-to-help-finance-500-billion-for-ai-infrastructure-2c4805a5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-11T02:28:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-11T02:15:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Rocket Lab reveals some big plans, but its stock is dropping on mixed earnings",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/rocket-lab-reveals-some-big-plans-but-its-stock-is-dropping-on-mixed-earnings-4012ba2b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-11T01:03:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "This is the ZIP code with the hottest housing market in the country right now",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/this-is-the-hottest-zip-code-where-homes-are-selling-fast-2c642716?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-11T00:15:00.000Z",
       "why": null,
       "ago": "4 小時前"
     },
@@ -37,7 +81,7 @@
       "group": null,
       "published": "2026-08-10T22:54:00.000Z",
       "why": null,
-      "ago": "9 分鐘前"
+      "ago": "5 小時前"
     },
     {
       "title": "Archer strikes deal with Boeing in latest bid to transform aviation through AI",
@@ -48,7 +92,7 @@
       "group": null,
       "published": "2026-08-10T22:52:00.000Z",
       "why": null,
-      "ago": "11 分鐘前"
+      "ago": "6 小時前"
     },
     {
       "title": "Apple’s stock could underperform, especially without an ‘all-glass’ iPhone, this analyst warns",
@@ -59,7 +103,7 @@
       "group": null,
       "published": "2026-08-10T22:49:00.000Z",
       "why": null,
-      "ago": "14 分鐘前"
+      "ago": "6 小時前"
     },
     {
       "title": "Intel plans to sell $15 billion worth of stock after it has risen 400% in a year",
@@ -70,51 +114,7 @@
       "group": null,
       "published": "2026-08-10T22:46:00.000Z",
       "why": null,
-      "ago": "17 分鐘前"
-    },
-    {
-      "title": "This Nvidia change could spell good news for Micron",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/this-nvidia-change-could-spell-good-news-for-micron-80449e59?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-10T22:42:00.000Z",
-      "why": null,
-      "ago": "21 分鐘前"
-    },
-    {
-      "title": "SpaceX’s stock moves above its IPO price for the first time in almost a month",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/spacexs-stock-moves-above-its-ipo-price-for-the-first-time-in-almost-a-month-fc3f91b7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-10T22:39:00.000Z",
-      "why": null,
-      "ago": "24 分鐘前"
-    },
-    {
-      "title": "Here’s who stands to gain the most from a Jeff Bezos-Liverpool FC deal",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/heres-who-stands-to-gain-the-most-from-a-jeff-bezos-liverpool-fc-deal-24db9b94?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-10T22:33:00.000Z",
-      "why": null,
-      "ago": "30 分鐘前"
-    },
-    {
-      "title": "Rocket Lab reveals some big plans, but its stock is dropping on mixed earnings",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/rocket-lab-reveals-some-big-plans-but-its-stock-is-dropping-on-mixed-earnings-4012ba2b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-10T21:37:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
+      "ago": "6 小時前"
     }
   ],
   "errors": []

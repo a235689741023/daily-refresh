@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-10T23:03:17.103Z",
-  "updatedLocal": "2026/8/11 07:03:17",
+  "updated": "2026-08-11T04:22:01.762Z",
+  "updatedLocal": "2026/8/11 12:22:01",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-10T10:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Amazon deforestation alerts reach record lows",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-10T15:27:28.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Could Burnham’s cost-of-living measures impede long-term climate and economic resiliency?",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-08-10T13:29:12.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "UK mattress scheme’s recycling milestone and AstraZeneca’s fleet electrification: The sustainability success stories of the week",
@@ -48,18 +48,18 @@
       "group": null,
       "published": "2026-08-10T07:15:57.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "21 小時前"
     },
     {
-      "title": "流汗就能發電！日本「汗水電池」重大突破 成本價可降至台幣2元",
+      "title": "日月潭魚虎球電撈量寫新高、哥倫比亞規模7.4強震、極圈以外全球平均海溫破紀錄",
       "summary": null,
-      "url": "https://e-info.org.tw/node/243745",
+      "url": "https://e-info.org.tw/node/243751",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-08-10T01:16:11.000Z",
+      "published": "2026-08-11T03:20:11.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "1 小時前"
     },
     {
       "title": "颱風白海豚釀北市75件災情、巴西亞馬遜雨林砍伐量降至10年最低、沖繩培育耐高溫奇蹟珊瑚",
@@ -70,7 +70,29 @@
       "group": null,
       "published": "2026-08-10T04:51:15.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "24 小時前"
+    },
+    {
+      "title": "自願承諾不夠！ 美跨黨派推「電價保護法」要求科技巨頭自付資料中心電費",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243721",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-11T01:38:46.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "學校午餐如何從免費政策邁向永續經營？ 專家倡議盡速立法、與在地供應鏈合作",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243752",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-11T03:18:47.000Z",
+      "why": null,
+      "ago": "1 小時前"
     },
     {
       "title": "從在地餐桌到世界舞台 專訪「予島 YuDao」主廚楊柏偉",
@@ -81,40 +103,18 @@
       "group": null,
       "published": "2026-08-10T09:46:28.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "19 小時前"
     },
     {
-      "title": "Two boards, one foundation: Why the IASB and ISSB are partners, not rivals",
-      "summary": "请保持评论内容尊重他人。请使用简明英语，避免使用可能被误解为冒犯的措辞。发表评论即表示您同意遵守我们的 社区准则 以及 条款与条件 。我们鼓励您举报不当评论。",
-      "url": "https://thebftonline.com/article/two-boards-one-foundation-why-the-iasb-and-issb-are-partners-not-rivals",
-      "source": "Business & Financial Times",
-      "tag": "法規",
-      "group": null,
-      "published": "2026-08-10T17:20:04.000Z",
-      "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "Organisations should test run ISSB reporting in 2026 to avoid surprises",
-      "summary": "Time flies with great content! Renew in to keep enjoying all our premium content.",
-      "url": "https://www.businessdailyafrica.com/bd/opinion-analysis/columnists/organisations-should-test-run-issb-reporting-in-2026-5552382",
-      "source": "Business Daily",
-      "tag": "法規",
-      "group": null,
-      "published": "2026-08-09T17:45:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "薪水加了，人還是走了？2026永續新魔王：藏在工作設計裡的「心理社會風險」",
+      "title": "高溫下，棉質衣物對部分印度種姓家庭仍是奢侈品",
       "summary": null,
-      "url": "https://csrone.com/topics/10046",
-      "source": "CSRone 永續智庫",
+      "url": "https://e-info.org.tw/node/243727",
+      "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-08-10T00:00:00.000Z",
+      "published": "2026-08-11T03:18:47.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "1 小時前"
     }
   ],
   "errors": []
