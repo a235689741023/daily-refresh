@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-12T04:49:36.550Z",
-  "updatedLocal": "2026/8/12 12:49:36",
+  "updated": "2026-08-12T14:10:30.322Z",
+  "updatedLocal": "2026/8/12 22:10:30",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Shareholders continue to pull back on environmental resolutions",
+      "summary": "The number of shareholder resolutions focused on environmental issues continues to decline, according to a review of proposals filed during the first half of 2026.",
+      "url": "https://trellis.net/article/conference-board-shareholders-pull-back-environmental-resolutions/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-12T10:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "The campaign that kick-started the net-zero movement is shifting focus",
       "summary": "Race to Zero, an influential campaign that catalyzed support for net zero from thousand of large companies, is winding down as its leaders shift focus to delivery of climate commitments.",
@@ -15,7 +26,40 @@
       "group": null,
       "published": "2026-08-11T10:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "From Scope 3 to packaging reforms: edie’s next virtual collaborations open to Members",
+      "summary": "From September to December, edie is hosting bi-weekly virtual discussions on a host of key topics to help sustainability professionals upskill departments, learn from other sectors and promote sustainable actions.",
+      "url": "https://www.edie.net/from-scope-3-to-packaging-reforms-edies-next-virtual-collaborations-open-to-members/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-12T10:25:19.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Fossil fuel gains outweigh AI’s climate benefits, study finds",
+      "summary": "According to new analysis, fossil fuel productivity gains enabled by artificial intelligence (AI) will outweigh any emissions reductions the technology generates across renewable energy applications – a huge carbon reporting blind spot.",
+      "url": "https://www.edie.net/fossil-fuel-gains-outweigh-ais-climate-benefits-study-finds/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-12T10:19:38.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Homes near pylon projects to receive discounted energy bills under Government scheme",
+      "summary": "The Government is offering cheaper energy bills for communities that host grid infrastructure, with savings of up to £2,500 expected over the next 10 years.",
+      "url": "https://www.edie.net/homes-near-pylon-projects-to-receive-discounted-energy-bills-under-government-scheme/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-12T10:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "Slow connections threaten UK industrial electrification, report warns",
@@ -26,7 +70,7 @@
       "group": null,
       "published": "2026-08-11T19:03:47.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "The drought aftershock: What water stress means for Europe’s businesses long term",
@@ -37,40 +81,29 @@
       "group": null,
       "published": "2026-08-11T15:49:59.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "EU Packaging and Packaging Waste Regulation enters into force: Everything you need to know",
-      "summary": "EU Packaging and Packaging Waste Regulation (PPWR) becomes legally binding for businesses on Wednesday (12 August).",
+      "summary": "EU Packaging and Packaging Waste Regulation (PPWR) becomes legally binding for businesses today (12 August).",
       "url": "https://www.edie.net/eu-packaging-and-packaging-waste-regulation-enters-into-force-everything-you-need-to-know/",
       "source": "edie",
       "tag": "國際",
       "group": null,
       "published": "2026-08-11T14:24:12.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "24 小時前"
     },
     {
-      "title": "Why investing in biodiversity matters for supply chains and business security",
-      "summary": "Building resilient supply chains means looking beyond traceability.",
-      "url": "https://www.edie.net/why-investing-in-biodiversity-matters-for-supply-chains-and-business-security/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "能管法修法轉彎 400多家用電大戶免納管 民團要求退回重審",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243758",
+      "source": "環境資訊中心",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-08-11T11:53:11.000Z",
+      "published": "2026-08-12T10:29:27.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Government funnels £130m into zero-emission vehicles as Mandate consultation looms",
-      "summary": "The Government has earmarked £130m to help UK markets ramp up innovative zero-emission vehicle technologies, although reports suggest a consultation will be launched that could lessen the ambition of the Zero Emission Vehicle (ZEV) Mandate.",
-      "url": "https://www.edie.net/government-funnels-130m-into-zero-emission-vehicles-as-mandate-consultation-looms/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-11T09:58:49.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "4 小時前"
     },
     {
       "title": "海保救援網首次成功救援革龜、韓企啟動海上AI資料中心計畫、阿曼海洋保護區油輪漏油",
@@ -79,42 +112,9 @@
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-08-12T02:49:50.000Z",
+      "published": "2026-08-12T08:29:25.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "海審會罕見否決 爭議逾20年滿地富遊樂區「不予許可」",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243754",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-12T02:49:21.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "二戰以來最嚴重野火 啟動歐盟民防機制 法國這次為何災情慘重？",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243753",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-12T02:26:15.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "我們的部落，你們的觀光：東海岸的開發夢 那些海景第一排的渡假村們",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243739",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-12T02:49:21.000Z",
-      "why": null,
-      "ago": "2 小時前"
+      "ago": "6 小時前"
     }
   ],
   "errors": []

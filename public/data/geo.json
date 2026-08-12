@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-12T04:49:36.550Z",
-  "updatedLocal": "2026/8/12 12:49:36",
+  "updated": "2026-08-12T14:10:30.322Z",
+  "updatedLocal": "2026/8/12 22:10:30",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,6 +18,17 @@
       "ago": "6 天前"
     },
     {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "summary": "Two new reports show how AI adoption is spreading across firms and workers—and what frontier organizations are doing differently.",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-12T06:00:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
       "title": "Testing ads in ChatGPT",
       "summary": "Ads that support free access and don’t change ChatGPT answers. Update on August 11, 2026: ChatGPT Ads has now launched in the United Kingdom, Mexico, Brazil, Japan, and South Korea.",
       "url": "https://openai.com/index/testing-ads-in-chatgpt",
@@ -26,7 +37,7 @@
       "group": "ai",
       "published": "2026-08-11T10:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Daybreak models are now available on AWS",
@@ -37,7 +48,18 @@
       "group": "ai",
       "published": "2026-08-11T10:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Putting sign language AI into users’ hands",
+      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "source": "Google DeepMind",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-12T14:01:59.000Z",
+      "why": null,
+      "ago": "9 分鐘前"
     },
     {
       "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
@@ -48,7 +70,7 @@
       "group": "ai",
       "published": "2026-08-11T17:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
@@ -59,29 +81,7 @@
       "group": "ai",
       "published": "2026-08-12T00:38:21.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
-      "summary": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution.",
-      "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-08-11T15:00:06.000Z",
-      "why": null,
       "ago": "14 小時前"
-    },
-    {
-      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-      "summary": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally.",
-      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-08-11T13:00:25.000Z",
-      "why": null,
-      "ago": "16 小時前"
     }
   ],
   "errors": []
