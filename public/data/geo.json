@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-11T23:09:23.117Z",
-  "updatedLocal": "2026/8/12 07:09:23",
+  "updated": "2026-08-12T04:49:36.550Z",
+  "updatedLocal": "2026/8/12 12:49:36",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-06T12:30:00.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
       "title": "Testing ads in ChatGPT",
@@ -26,7 +26,7 @@
       "group": "ai",
       "published": "2026-08-11T10:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Daybreak models are now available on AWS",
@@ -37,51 +37,51 @@
       "group": "ai",
       "published": "2026-08-11T10:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "19 小時前"
     },
     {
-      "title": "67% of the zeroes are on the line. - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/23455459f8832d06bb175cc0f88d019aed962ef8.pdf",
-      "source": "Anthropic",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "summary": "When you visit a doctor, a consultation extends far beyond words — a physician notices a cough, observes gait, or registers visible signs of discomfort.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "source": "Google AI Blog",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-10T17:55:12.000Z",
+      "published": "2026-08-11T17:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "12 小時前"
     },
     {
-      "title": "How the two-thirds argument was found: two agent runs and their literature - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/d7f3ecf1d01392d887f8bc974ca187e2a121b1ed.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
+      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+      "summary": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time.",
+      "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
       "group": "ai",
-      "published": "2026-08-10T17:55:12.000Z",
+      "published": "2026-08-12T00:38:21.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "4 小時前"
     },
     {
-      "title": "Learning more about Claude's mathematical capabilities",
-      "summary": "Recently, a member of staff at Anthropic gave Claude an unreasonable challenge. It was about one of the most famous unsolved problems in mathematics: Take a real stab at the Riemann hypothesis .",
-      "url": "https://www.anthropic.com/research/riemann-zeta",
-      "source": "anthropic.com",
-      "tag": "模型",
+      "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+      "summary": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution.",
+      "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
       "group": "ai",
-      "published": "2026-08-10T17:52:56.000Z",
+      "published": "2026-08-11T15:00:06.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "14 小時前"
     },
     {
-      "title": "Than Two Thirds of the Zeros of the Riemann Zeta Function Lie on the Critical Line - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/564f962e60643842f5fcb4a17c9dbc8f608f1c37.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
+      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "summary": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally.",
+      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
       "group": "ai",
-      "published": "2026-08-10T17:52:56.000Z",
+      "published": "2026-08-11T13:00:25.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "16 小時前"
     }
   ],
   "errors": []
