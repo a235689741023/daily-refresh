@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-12T14:10:30.322Z",
-  "updatedLocal": "2026/8/12 22:10:30",
+  "updated": "2026-08-12T23:08:32.510Z",
+  "updatedLocal": "2026/8/13 07:08:32",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,6 +18,28 @@
       "ago": "6 天前"
     },
     {
+      "title": "How well do job retraining programs work?",
+      "summary": "We're sharing a review of the evidence on worker retraining programs, coauthored by independent researcher David Roodman and Anthropic's Maxim Massenkoff.",
+      "url": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-12T17:33:35.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Introducing the Conceptual Reasoning Index",
+      "summary": "A core hope for managing AI risks is that AIs will help us understand our situation, plan for what lies ahead, and develop risk mitigations.",
+      "url": "https://alignment.anthropic.com/2026/conceptual-reasoning-index/",
+      "source": "Alignment Science Blog",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-12T15:24:45.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
       "title": "From assistance to execution: How enterprises put AI to work",
       "summary": "Two new reports show how AI adoption is spreading across firms and workers—and what frontier organizations are doing differently.",
       "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
@@ -26,29 +48,18 @@
       "group": "ai",
       "published": "2026-08-12T06:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "Testing ads in ChatGPT",
-      "summary": "Ads that support free access and don’t change ChatGPT answers. Update on August 11, 2026: ChatGPT Ads has now launched in the United Kingdom, Mexico, Brazil, Japan, and South Korea.",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "summary": "With ChatGPT Work and Codex, RingCentral builds AI product features faster and centralizes operational intelligence.",
+      "url": "https://openai.com/index/ringcentral",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-11T10:00:00.000Z",
+      "published": "2026-08-12T00:00:00.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Daybreak models are now available on AWS",
-      "summary": "Earlier this year, OpenAI frontier models and Codex became generally available on AWS, giving enterprises a new path to bring advanced AI into production.",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-11T10:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "23 小時前"
     },
     {
       "title": "Putting sign language AI into users’ hands",
@@ -59,29 +70,18 @@
       "group": "ai",
       "published": "2026-08-12T14:01:59.000Z",
       "why": null,
-      "ago": "9 分鐘前"
+      "ago": "9 小時前"
     },
     {
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "summary": "When you visit a doctor, a consultation extends far beyond words — a physician notices a cough, observes gait, or registers visible signs of discomfort.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "source": "Google AI Blog",
-      "tag": "模型",
+      "title": "Scaling AI agents with trustworthy data",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here.",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-08-11T17:00:00.000Z",
+      "published": "2026-08-12T16:51:57.000Z",
       "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
-      "summary": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time.",
-      "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-08-12T00:38:21.000Z",
-      "why": null,
-      "ago": "14 小時前"
+      "ago": "6 小時前"
     }
   ],
   "errors": []
