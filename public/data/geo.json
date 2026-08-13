@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-12T23:08:32.510Z",
-  "updatedLocal": "2026/8/13 07:08:32",
+  "updated": "2026-08-13T04:53:13.392Z",
+  "updatedLocal": "2026/8/13 12:53:13",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-06T12:30:00.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
     },
     {
       "title": "How well do job retraining programs work?",
@@ -26,7 +26,18 @@
       "group": "ai",
       "published": "2026-08-12T17:33:35.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "11 小時前"
+    },
+    {
+      "title": "Patterns and problems in emerging multiagent systems",
+      "summary": "Models are improving and AI agents are taking on more tasks in shared codebases, markets, and other social systems.",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-13T01:21:29.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "Introducing the Conceptual Reasoning Index",
@@ -36,6 +47,17 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-08-12T15:24:45.000Z",
+      "why": null,
+      "ago": "13 小時前"
+    },
+    {
+      "title": "- partner-sso.anthropic.com",
+      "summary": null,
+      "url": "https://partner-sso.anthropic.com/",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-12T21:15:48.000Z",
       "why": null,
       "ago": "8 小時前"
     },
@@ -48,7 +70,7 @@
       "group": "ai",
       "published": "2026-08-12T06:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "How RingCentral builds AI-native work from engineering to ops",
@@ -59,29 +81,7 @@
       "group": "ai",
       "published": "2026-08-12T00:00:00.000Z",
       "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Putting sign language AI into users’ hands",
-      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "source": "Google DeepMind",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-12T14:01:59.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "Scaling AI agents with trustworthy data",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here.",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-08-12T16:51:57.000Z",
-      "why": null,
-      "ago": "6 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

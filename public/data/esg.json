@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-12T23:08:32.510Z",
-  "updatedLocal": "2026/8/13 07:08:32",
+  "updated": "2026-08-13T04:53:13.392Z",
+  "updatedLocal": "2026/8/13 12:53:13",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-12T14:30:43.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Shareholders continue to pull back on environmental resolutions",
@@ -26,7 +26,18 @@
       "group": null,
       "published": "2026-08-12T10:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "19 小時前"
+    },
+    {
+      "title": "Could mortgage lenders help households adapt to heatwaves?",
+      "summary": "As research finds that heatwaves could cost the UK £25.6bn in losses each year by 2030, the UK Sustainable Investment and Finance Association has claimed that green mortgages could be expanded to help households adapt to climate risks.",
+      "url": "https://www.edie.net/could-mortgage-lenders-help-households-adapt-to-heatwaves/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-12T23:07:38.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "Only a minority of UK wants EV transition to slow down, poll finds",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-08-12T17:48:53.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "From Scope 3 to packaging reforms: edie’s next virtual collaborations open to Members",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-08-12T10:25:19.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Fossil fuel gains outweigh AI’s climate benefits, study finds",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-08-12T10:19:38.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Homes near pylon projects to receive discounted energy bills under Government scheme",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-08-12T10:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Analysis: Weaker EV targets could cost UK consumers £3bn a year by 2030",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-08-12T14:50:39.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "能管法修法轉彎 400多家用電大戶免納管 民團要求退回重審",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-08-12T10:29:27.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "海保救援網首次成功救援革龜、韓企進軍海上AI資料中心計畫、阿曼海洋保護區油輪漏油",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-08-12T08:29:25.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "從異鄉人變一家人：劉一峰神父來台60年 《走徑東海岸》出書見證花東歷史",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243756",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-12T08:29:25.000Z",
-      "why": null,
-      "ago": "15 小時前"
+      "ago": "20 小時前"
     }
   ],
   "errors": []
