@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-13T04:53:13.392Z",
-  "updatedLocal": "2026/8/13 12:53:13",
+  "updated": "2026-08-13T14:12:36.761Z",
+  "updatedLocal": "2026/8/13 22:12:36",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "'Big Short' investor Steve Eisman sees an Achilles heel in the AI boom",
+      "summary": "Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.",
+      "url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-13T13:19:00.000Z",
+      "why": null,
+      "ago": "54 分鐘前"
+    },
+    {
+      "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
+      "summary": "Iran is set to join the BRICS New Development Bank, the country's central bank chief said Thursday, as Tehran seeks to shore up its economic alliances almost six months into its war with the U.S. and Israel.",
+      "url": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-13T13:01:37.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
     {
       "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
       "summary": "BEIJING — Yangtze Memory Technologies is rapidly gaining market share in a critical chip sector, according to Counterpoint Research.",
@@ -15,7 +37,7 @@
       "group": null,
       "published": "2026-08-13T02:59:50.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
@@ -26,18 +48,7 @@
       "group": null,
       "published": "2026-08-12T19:15:54.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "New York City Council announces probe into prediction market platforms’ marketing strategies",
-      "summary": "The New York City Council is investigating marketing practices by prediction market platforms, the office of Council Speaker Julie Menin said on Wednesday.",
-      "url": "https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-12T12:08:39.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-08-13T01:31:12.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
@@ -59,7 +70,40 @@
       "group": null,
       "published": "2026-08-12T14:14:10.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "24 小時前"
+    },
+    {
+      "title": "New York City Council announces probe into prediction market platforms’ marketing strategies",
+      "summary": "The New York City Council is investigating marketing practices by prediction market platforms, the office of Council Speaker Julie Menin said on Wednesday.",
+      "url": "https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-12T12:08:39.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Wholesale prices were flat in July, below expectations for 0.2% increase",
+      "summary": "Wholesale costs for goods and services were flat in July, the Bureau of Labor Statistics reported Thursday in the latest positive sign for inflation.",
+      "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-08-13T13:18:36.000Z",
+      "why": null,
+      "ago": "54 分鐘前"
+    },
+    {
+      "title": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
+      "summary": "The U.K. economy is showing further signs of a long-awaited rebound, but the picture is complicated by the fallout from the Iran war and high energy prices.",
+      "url": "https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-08-13T12:42:10.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "U.S. budget deficit surged in July to highest level since March 2021",
@@ -70,51 +114,7 @@
       "group": null,
       "published": "2026-08-12T18:56:15.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers",
-      "summary": "Lettuce prices cratered in July as the multistate cyclospora outbreak pushed diners to shun the leafy green.",
-      "url": "https://www.cnbc.com/2026/08/12/lettuce-prices-cyclospora-cpi.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-12T19:50:29.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "Here are five key takeaways from the July CPI inflation report",
-      "summary": "Readings for July on the prices consumers pay for goods and services came in pretty much on target Wednesday, driving traders to lower odds for a September interest rate hike even though inflation remains well above the Federal Reserve's 2% target.",
-      "url": "https://www.cnbc.com/2026/08/12/here-are-five-key-takeaways-from-the-july-cpi-inflation-report.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-12T17:14:09.000Z",
-      "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
-      "summary": "A key inflation reading Wednesday showed prices moderating across a range of goods and services, possibly taking the urgency out of an imminent interest rate hike.",
-      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-12T14:27:35.000Z",
-      "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "AI’s costly build-out complicates the Fed’s inflation fight",
-      "summary": "Silicon Valley leaders from Elon Musk to OpenAI CEO Sam Altman have hyped the deflationary effects of the artificial intelligence boom.",
-      "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-12T15:23:12.000Z",
-      "why": null,
-      "ago": "14 小時前"
+      "ago": "19 小時前"
     }
   ],
   "errors": []

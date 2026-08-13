@@ -1,21 +1,21 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-13T04:53:13.392Z",
-  "updatedLocal": "2026/8/13 12:53:13",
+  "updated": "2026-08-13T14:12:36.761Z",
+  "updatedLocal": "2026/8/13 22:12:36",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Ask Maps gets more helpful with food ordering and more",
-      "summary": "From agentic food ordering to real time transit information, the latest Ask Maps improvements make it easier than ever to get more done.",
-      "url": "https://blog.google/products-and-platforms/products/maps/order-food-in-ask-maps/",
-      "source": "Google Maps Blog",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-08-06T12:30:00.000Z",
+      "title": "Patterns and problems in emerging multiagent systems",
+      "summary": "Models are improving and AI agents are taking on more tasks in shared codebases, markets, and other social systems.",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-13T01:21:29.000Z",
       "why": null,
-      "ago": "7 天前"
+      "ago": "13 小時前"
     },
     {
       "title": "How well do job retraining programs work?",
@@ -26,18 +26,7 @@
       "group": "ai",
       "published": "2026-08-12T17:33:35.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Patterns and problems in emerging multiagent systems",
-      "summary": "Models are improving and AI agents are taking on more tasks in shared codebases, markets, and other social systems.",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-13T01:21:29.000Z",
-      "why": null,
-      "ago": "4 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Introducing the Conceptual Reasoning Index",
@@ -48,40 +37,40 @@
       "group": "ai",
       "published": "2026-08-12T15:24:45.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "- partner-sso.anthropic.com",
-      "summary": null,
-      "url": "https://partner-sso.anthropic.com/",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-12T21:15:48.000Z",
-      "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "summary": "Two new reports show how AI adoption is spreading across firms and workers—and what frontier organizations are doing differently.",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-12T06:00:00.000Z",
-      "why": null,
       "ago": "23 小時前"
     },
     {
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "summary": "With ChatGPT Work and Codex, RingCentral builds AI product features faster and centralizes operational intelligence.",
-      "url": "https://openai.com/index/ringcentral",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse.",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-08-12T00:00:00.000Z",
+      "published": "2026-08-13T13:41:10.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "31 分鐘前"
+    },
+    {
+      "title": "How kids feel about AI, in their own words",
+      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear.",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-08-13T09:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Scaling AI agents with trustworthy data",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here.",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-08-12T16:51:57.000Z",
+      "why": null,
+      "ago": "21 小時前"
     }
   ],
   "errors": []

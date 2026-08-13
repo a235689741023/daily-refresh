@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-13T04:53:13.392Z",
-  "updatedLocal": "2026/8/13 12:53:13",
+  "updated": "2026-08-13T14:12:36.761Z",
+  "updatedLocal": "2026/8/13 22:12:36",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Sustainability professionals see a divide in how sustainability is viewed internally",
+      "summary": "Recent GlobeScan and BSR research suggests that corporate sustainability may be facing an internal alignment challenge, with sector professionals perceiving a gap between the ways their teams and senior leaders view the role of sustainability within their organizations.",
+      "url": "https://trellis.net/article/sustainability-perception-gap/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-13T10:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "Why SAP screens every AI project for ethical and environmental risks",
       "summary": "SAP isn’t the only enterprise software company with an official artificial intelligence ethics policy, but it’s one of the few that have included explicit criteria covering environmental considerations.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-08-12T14:30:43.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "Shareholders continue to pull back on environmental resolutions",
@@ -26,7 +37,51 @@
       "group": null,
       "published": "2026-08-12T10:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "VodafoneThree seeks UK-based carbon removal projects",
+      "summary": "VodafoneThree has opened a request for proposals (RFP) for UK-based carbon removal projects to account for 24,000 tonnes of carbon dioxide equivalent.",
+      "url": "https://www.edie.net/vodafonethree-seeks-uk-based-carbon-removal-projects/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-13T14:06:55.000Z",
+      "why": null,
+      "ago": "6 分鐘前"
+    },
+    {
+      "title": "Why olive farmers are struggling to survive amid an olive oil boom",
+      "summary": "Olive oil’s rising prices are more than a cost-of-living story.",
+      "url": "https://www.edie.net/why-olive-farmers-are-struggling-to-survive-amid-an-olive-oil-boom/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-13T11:00:51.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "COP17 on desertification: Everything you need to know",
+      "summary": "The 17th Conference of the Parties (COP17) to the United Nations Convention to Combat Desertification (UNCCD) commences on Monday 17 August.",
+      "url": "https://www.edie.net/cop17-on-desertification-everything-you-need-to-know/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-13T09:33:15.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "FIVE WEEKS to go until edie’s Sustainable Supply Chains Summit",
+      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
+      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-13T08:00:03.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "Could mortgage lenders help households adapt to heatwaves?",
@@ -37,7 +92,7 @@
       "group": null,
       "published": "2026-08-12T23:07:38.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Only a minority of UK wants EV transition to slow down, poll finds",
@@ -48,40 +103,7 @@
       "group": null,
       "published": "2026-08-12T17:48:53.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "From Scope 3 to packaging reforms: edie’s next virtual collaborations open to Members",
-      "summary": "From September to December, edie is hosting bi-weekly virtual discussions on a host of key topics to help sustainability professionals upskill departments, learn from other sectors and promote sustainable actions.",
-      "url": "https://www.edie.net/from-scope-3-to-packaging-reforms-edies-next-virtual-collaborations-open-to-members/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-12T10:25:19.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Fossil fuel gains outweigh AI’s climate benefits, study finds",
-      "summary": "According to new analysis, fossil fuel productivity gains enabled by artificial intelligence (AI) will outweigh any emissions reductions the technology generates across renewable energy applications – a huge carbon reporting blind spot.",
-      "url": "https://www.edie.net/fossil-fuel-gains-outweigh-ais-climate-benefits-study-finds/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-12T10:19:38.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Homes near pylon projects to receive discounted energy bills under Government scheme",
-      "summary": "The Government is offering cheaper energy bills for communities that host grid infrastructure, with savings of up to £2,500 expected over the next 10 years.",
-      "url": "https://www.edie.net/homes-near-pylon-projects-to-receive-discounted-energy-bills-under-government-scheme/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-12T10:00:00.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Analysis: Weaker EV targets could cost UK consumers £3bn a year by 2030",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-08-12T14:50:39.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "能管法修法轉彎 400多家用電大戶免納管 民團要求退回重審",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243758",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-12T10:29:27.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "海保救援網首次成功救援革龜、韓企進軍海上AI資料中心計畫、阿曼海洋保護區油輪漏油",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243755",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-12T08:29:25.000Z",
-      "why": null,
-      "ago": "20 小時前"
+      "ago": "23 小時前"
     }
   ],
   "errors": []
