@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-13T14:12:36.761Z",
-  "updatedLocal": "2026/8/13 22:12:36",
+  "updated": "2026-08-13T23:09:46.796Z",
+  "updatedLocal": "2026/8/14 07:09:46",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,40 @@
       "group": "ai",
       "published": "2026-08-13T01:21:29.000Z",
       "why": null,
+      "ago": "22 小時前"
+    },
+    {
+      "title": "The builder’s guide to GPT‑5.6",
+      "summary": "Technical lessons from startups in production The GPT‑5.6 model family makes frontier-level agent performance dramatically more affordable, while also advancing the frontier of what is possible.",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-13T11:00:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "summary": "A new speed class for frontier intelligence, turning speed into a competitive advantage.",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-13T10:00:00.000Z",
+      "why": null,
       "ago": "13 小時前"
+    },
+    {
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "summary": "As enterprise AI deployment accelerates, OpenAI is building on its global scale to grow even faster. Dali Rajic will be joining as Chief Revenue Officer, leading OpenAI’s global revenue organization.",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-13T09:00:00.000Z",
+      "why": null,
+      "ago": "14 小時前"
     },
     {
       "title": "How well do job retraining programs work?",
@@ -26,51 +59,18 @@
       "group": "ai",
       "published": "2026-08-12T17:33:35.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Introducing the Conceptual Reasoning Index",
-      "summary": "A core hope for managing AI risks is that AIs will help us understand our situation, plan for what lies ahead, and develop risk mitigations.",
-      "url": "https://alignment.anthropic.com/2026/conceptual-reasoning-index/",
-      "source": "Alignment Science Blog",
+      "title": "Introducing Gemini 3.7 Flash",
+      "summary": "Our most intelligent workhorse model yet for coding and agents.",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "source": "Google DeepMind",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-12T15:24:45.000Z",
+      "published": "2026-08-13T17:04:18.000Z",
       "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse.",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-08-13T13:41:10.000Z",
-      "why": null,
-      "ago": "31 分鐘前"
-    },
-    {
-      "title": "How kids feel about AI, in their own words",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear.",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-08-13T09:00:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Scaling AI agents with trustworthy data",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here.",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-08-12T16:51:57.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "6 小時前"
     }
   ],
   "errors": []

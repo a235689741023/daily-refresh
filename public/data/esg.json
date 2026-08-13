@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-13T14:12:36.761Z",
-  "updatedLocal": "2026/8/13 22:12:36",
+  "updated": "2026-08-13T23:09:46.796Z",
+  "updatedLocal": "2026/8/14 07:09:46",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Citi refines $1 trillion ‘sustainable finance’ pledge",
+      "summary": "Citi has dedicated close to $650 billion to its goal of investing or lending $1 trillion in “sustainable finance” by 2030.",
+      "url": "https://trellis.net/article/citi-refines-1-trillion-sustainable-finance-pledge/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-13T16:12:19.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "Sustainability professionals see a divide in how sustainability is viewed internally",
       "summary": "Recent GlobeScan and BSR research suggests that corporate sustainability may be facing an internal alignment challenge, with sector professionals perceiving a gap between the ways their teams and senior leaders view the role of sustainability within their organizations.",
@@ -15,29 +26,51 @@
       "group": null,
       "published": "2026-08-13T10:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
-      "title": "Why SAP screens every AI project for ethical and environmental risks",
-      "summary": "SAP isn’t the only enterprise software company with an official artificial intelligence ethics policy, but it’s one of the few that have included explicit criteria covering environmental considerations.",
-      "url": "https://trellis.net/article/why-sap-screens-every-ai-project-for-ethical-and-environmental-risks/",
+      "title": "Why industrial-scale food waste processing is booming",
+      "summary": "Data from a new facility for generating renewable natural gas shows how industrial-scale processing of food waste is experiencing a growth spurt.",
+      "url": "https://trellis.net/article/boom-companies-generate-natural-gas-food-waste/",
       "source": "Trellis",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-12T14:30:43.000Z",
+      "published": "2026-08-12T23:51:52.000Z",
       "why": null,
-      "ago": "24 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "Shareholders continue to pull back on environmental resolutions",
-      "summary": "The number of shareholder resolutions focused on environmental issues continues to decline, according to a review of proposals filed during the first half of 2026.",
-      "url": "https://trellis.net/article/conference-board-shareholders-pull-back-environmental-resolutions/",
-      "source": "Trellis",
+      "title": "Companies face $1.4trn carbon bill over next decade, says BNEF",
+      "summary": "According to new analysis from BloombergNEF, as carbon markets mature, global companies could face $1.4trn in carbon price 'exposure' over the next 10 years.",
+      "url": "https://www.edie.net/companies-face-1-4trn-carbon-bill-over-next-decade-says-bnef/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-12T10:00:00.000Z",
+      "published": "2026-08-13T17:51:57.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "5 小時前"
+    },
+    {
+      "title": "What can the climate movement learn from the student protests in India?",
+      "summary": "The climate movement does not have an apathy problem. It has a communication and culture problem.",
+      "url": "https://www.edie.net/what-can-the-climate-movement-learn-from-the-student-protests-in-india/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-13T16:40:50.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Platform Housing Group unveils roadmap to 2050 net-zero value chain",
+      "summary": "Non-profit housing association Platform has launched the next phase of its plan to reach net-zero greenhouse gas (GHG) emissions by 2050.",
+      "url": "https://www.edie.net/platform-housing-group-unveils-roadmap-to-2050-net-zero-value-chain/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-13T15:41:11.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "VodafoneThree seeks UK-based carbon removal projects",
@@ -48,7 +81,7 @@
       "group": null,
       "published": "2026-08-13T14:06:55.000Z",
       "why": null,
-      "ago": "6 分鐘前"
+      "ago": "9 小時前"
     },
     {
       "title": "Why olive farmers are struggling to survive amid an olive oil boom",
@@ -59,7 +92,7 @@
       "group": null,
       "published": "2026-08-13T11:00:51.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "COP17 on desertification: Everything you need to know",
@@ -70,7 +103,7 @@
       "group": null,
       "published": "2026-08-13T09:33:15.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "FIVE WEEKS to go until edie’s Sustainable Supply Chains Summit",
@@ -81,40 +114,7 @@
       "group": null,
       "published": "2026-08-13T08:00:03.000Z",
       "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "Could mortgage lenders help households adapt to heatwaves?",
-      "summary": "As research finds that heatwaves could cost the UK £25.6bn in losses each year by 2030, the UK Sustainable Investment and Finance Association has claimed that green mortgages could be expanded to help households adapt to climate risks.",
-      "url": "https://www.edie.net/could-mortgage-lenders-help-households-adapt-to-heatwaves/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-12T23:07:38.000Z",
-      "why": null,
       "ago": "15 小時前"
-    },
-    {
-      "title": "Only a minority of UK wants EV transition to slow down, poll finds",
-      "summary": "Research by charging industry association ChargeUK and YouGov has found only a minority of people in the UK think the Government should slow down the electric vehicle (EV) transition.",
-      "url": "https://www.edie.net/only-a-minority-of-uk-wants-ev-transition-to-slow-down-poll-finds/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-12T17:48:53.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Analysis: Weaker EV targets could cost UK consumers £3bn a year by 2030",
-      "summary": "An upcoming UK government consultation on weakening targets for electric vehicles (EVs) could cost consumers as much as £3bn a year by 2030, according to Carbon Brief analysis.",
-      "url": "https://www.carbonbrief.org/analysis-weaker-ev-targets-could-cost-uk-consumers-3bn-a-year-by-2030",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-08-12T14:50:39.000Z",
-      "why": null,
-      "ago": "23 小時前"
     }
   ],
   "errors": []

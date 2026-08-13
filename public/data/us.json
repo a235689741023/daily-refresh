@@ -1,21 +1,32 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-13T14:12:36.761Z",
-  "updatedLocal": "2026/8/13 22:12:36",
+  "updated": "2026-08-13T23:09:46.796Z",
+  "updatedLocal": "2026/8/14 07:09:46",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "'Big Short' investor Steve Eisman sees an Achilles heel in the AI boom",
+      "title": "These charts show why stocks keep rallying. Profit margins are the highest on record",
+      "summary": "S&P 500 companies are keeping more profit from every dollar in sales than ever before, providing another tailwind for stocks.",
+      "url": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-13T20:21:51.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
       "summary": "Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.",
       "url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-13T13:19:00.000Z",
+      "published": "2026-08-13T15:16:00.000Z",
       "why": null,
-      "ago": "54 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
@@ -24,9 +35,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-13T13:01:37.000Z",
+      "published": "2026-08-13T16:38:06.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
@@ -37,18 +48,7 @@
       "group": null,
       "published": "2026-08-13T02:59:50.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
-      "summary": "Short sellers betting against SpaceX are rapidly retreating from the trade, just as the newly public stock rebounds from its post-IPO slump.",
-      "url": "https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-12T19:15:54.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
@@ -59,27 +59,16 @@
       "group": null,
       "published": "2026-08-13T01:31:12.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
-      "summary": "Computing power is emerging as a new tradable asset class, with CME Group set to launch the first futures contracts tied to the cost of running the chips that power artificial intelligence.",
-      "url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
+      "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
+      "summary": "Short sellers betting against SpaceX are rapidly retreating from the trade, just as the newly public stock rebounds from its post-IPO slump.",
+      "url": "https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-12T14:14:10.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "New York City Council announces probe into prediction market platforms’ marketing strategies",
-      "summary": "The New York City Council is investigating marketing practices by prediction market platforms, the office of Council Speaker Julie Menin said on Wednesday.",
-      "url": "https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-12T12:08:39.000Z",
+      "published": "2026-08-12T19:15:54.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -92,7 +81,7 @@
       "group": null,
       "published": "2026-08-13T13:18:36.000Z",
       "why": null,
-      "ago": "54 分鐘前"
+      "ago": "10 小時前"
     },
     {
       "title": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
@@ -103,18 +92,29 @@
       "group": null,
       "published": "2026-08-13T12:42:10.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
-      "title": "U.S. budget deficit surged in July to highest level since March 2021",
-      "summary": "The U.S. budget deficit soared to its highest monthly level in more than five years amid a surge in Medicare costs and as interest on the federal debt continued to weigh on the nation's fiscal picture, the Treasury Department reported Wednesday.",
-      "url": "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html",
+      "title": "AI’s costly build-out complicates the Fed’s inflation fight",
+      "summary": "Silicon Valley leaders from Elon Musk to OpenAI CEO Sam Altman have hyped the deflationary effects of the artificial intelligence boom.",
+      "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-08-12T18:56:15.000Z",
+      "published": "2026-08-13T15:59:16.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Reddit is joining the S&P 500 after months of speculation. Analysts have these concerns.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/reddit-is-joining-the-s-p-500-after-months-of-speculation-analysts-have-these-concerns-21f81f77?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-13T22:40:00.000Z",
+      "why": null,
+      "ago": "30 分鐘前"
     }
   ],
   "errors": []
