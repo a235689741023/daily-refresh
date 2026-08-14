@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-14T14:06:06.257Z",
-  "updatedLocal": "2026/8/14 22:06:06",
+  "updated": "2026-08-14T22:45:59.919Z",
+  "updatedLocal": "2026/8/15 06:45:59",
   "digest": null,
   "watch": [],
   "items": [
@@ -10,45 +10,23 @@
       "title": "Internship with the Spatial Analyst Team at Esri, Summer 2026",
       "summary": "As a student with a strong interest in GIS, transportation, spatial analysis, and cartography, I have always been fascinated by how geospatial technology can help us better understand the world in more meaningful ways.",
       "url": "https://www.esri.com/arcgis-blog/products/spatial-analyst/analytics/internship-with-the-spatial-analyst-team-at-esri-summer-2026",
-      "source": "Esri",
+      "source": "esri.com",
       "tag": "平台",
       "group": "gis",
       "published": "2026-08-13T22:00:16.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "The builder’s guide to GPT‑5.6",
-      "summary": "Technical lessons from startups in production The GPT‑5.6 model family makes frontier-level agent performance dramatically more affordable, while also advancing the frontier of what is possible.",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-13T11:00:00.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "summary": "A new speed class for frontier intelligence, turning speed into a competitive advantage.",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "source": "OpenAI",
+      "title": "How Claude's text watermarking works",
+      "summary": "Future Claude models will generate text that contains a watermark.",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-13T10:00:00.000Z",
+      "published": "2026-08-14T19:22:20.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "summary": "As enterprise AI deployment accelerates, OpenAI is building on its global scale to grow even faster. Dali Rajic will be joining as Chief Revenue Officer, leading OpenAI’s global revenue organization.",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-13T09:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "3 小時前"
     },
     {
       "title": "Introducing Gemini 3.7 Flash",
@@ -59,29 +37,51 @@
       "group": "ai",
       "published": "2026-08-13T17:04:18.000Z",
       "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse.",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-08-13T13:41:10.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "How kids feel about AI, in their own words",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear.",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
+      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+      "summary": "Indonesia is taking charge of its AI future.",
+      "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
       "group": "ai",
-      "published": "2026-08-13T09:00:00.000Z",
+      "published": "2026-08-14T17:13:05.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Toward a Common Supervisory Methodology for AI in Banking",
+      "summary": "EU banks are embedding AI into core operations, but overlapping rules like DORA and the AI Act leave regulators with a headache: supervising it all consistently.",
+      "url": "https://www.therecursive.com/two-banks-one-ai-model-two-entirely-different-regulatory-headaches/",
+      "source": "The Recursive",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-14T10:38:50.000Z",
+      "why": null,
+      "ago": "12 小時前"
+    },
+    {
+      "title": "EU's AI Transparency Rules Now Enforceable: Fines Reach €35 Million",
+      "summary": "European companies deploying artificial intelligence now face hard legal deadlines that arrived on August 2, 2026, when Article 50 of the EU AI Act took full effect.",
+      "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/eu-s-ai-transparency-rules-now-enforceable-fines-reach-35-million/69951113",
+      "source": "AD HOC NEWS",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-14T19:13:02.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Anthropic Adds Invisible Watermarks to Claude AI for EU AI Act",
+      "summary": "Anthropic’s Claude AI now embeds invisible watermarks into all text and code it generates, a feature aimed at complying with the EU AI Act.",
+      "url": "https://www.geeky-gadgets.com/claude-ai-invisible-watermarks/",
+      "source": "Geeky Gadgets",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-14T06:45:35.000Z",
+      "why": null,
+      "ago": "16 小時前"
     }
   ],
   "errors": []

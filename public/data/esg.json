@@ -1,32 +1,43 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-14T14:06:06.257Z",
-  "updatedLocal": "2026/8/14 22:06:06",
+  "updated": "2026-08-14T22:45:59.919Z",
+  "updatedLocal": "2026/8/15 06:45:59",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Citi refines $1 trillion ‘sustainable finance’ pledge",
-      "summary": "Citi has dedicated close to $650 billion to its goal of investing or lending $1 trillion in “sustainable finance” by 2030.",
-      "url": "https://trellis.net/article/citi-refines-1-trillion-sustainable-finance-pledge/",
-      "source": "Trellis",
+      "title": "Government unveils £65m package for farmers as drought pressures mount",
+      "summary": "Prime Minister Andy Burnham has announced a £65m funding package for UK farming to help the industry manage drought impacts and protect yields.",
+      "url": "https://www.edie.net/government-unveils-65m-package-for-farmers-as-drought-pressures-mount/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-13T16:12:19.000Z",
+      "published": "2026-08-14T21:35:14.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "1 小時前"
     },
     {
-      "title": "Sustainability professionals see a divide in how sustainability is viewed internally",
-      "summary": "Recent GlobeScan and BSR research suggests that corporate sustainability may be facing an internal alignment challenge, with sector professionals perceiving a gap between the ways their teams and senior leaders view the role of sustainability within their organizations.",
-      "url": "https://trellis.net/article/sustainability-perception-gap/",
-      "source": "Trellis",
+      "title": "Government launches consultation on ZEV mandate targets and flexibilities",
+      "summary": "The Government has launched a two-month consultation on whether targets for zero-emission vehicle sales in the UK should be weakened.",
+      "url": "https://www.edie.net/government-launches-consultation-on-zev-mandate-targets-and-flexibilities/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-13T10:00:00.000Z",
+      "published": "2026-08-14T15:09:56.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Heatwave spiked EU solar output 17%, research finds",
+      "summary": "Research from energy think tank Ember has found solar output in Europe rose 17% during the heatwaves in June and July 2026.",
+      "url": "https://www.edie.net/heatwave-spiked-eu-solar-output-17-research-finds/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-14T14:38:13.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Sustainability Uncovered episode 47: SAFs, festivals and a sustainable summer",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-08-14T13:31:14.000Z",
       "why": null,
-      "ago": "35 分鐘前"
+      "ago": "9 小時前"
     },
     {
       "title": "45-minute Masterclass: How the UK CBAM will affect sustainability strategies, and how businesses can prepare",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-08-14T12:26:25.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Europe’s hydrogen projects stuck in feasibility stage",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-08-14T11:05:26.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Can Britain deliver net-zero without talking about climate?",
@@ -70,51 +81,40 @@
       "group": null,
       "published": "2026-08-14T09:30:53.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
-      "title": "Companies face $1.4trn carbon bill over next decade, says BNEF",
-      "summary": "According to new analysis from BloombergNEF, as carbon markets mature, global companies could face $1.4trn in carbon price 'exposure' over the next 10 years.",
-      "url": "https://www.edie.net/companies-face-1-4trn-carbon-bill-over-next-decade-says-bnef/",
+      "title": "FIVE WEEKS to go until edie’s Sustainable Supply Chains Summit",
+      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
+      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-13T17:51:57.000Z",
+      "published": "2026-08-14T08:00:03.000Z",
+      "why": null,
+      "ago": "15 小時前"
+    },
+    {
+      "title": "Q&A: What does China’s 15th five-year plan for coal mean for climate action?",
+      "summary": "China has published a new five-year plan for coal, the latest in a slew of important policy documents for the country’s energy transition.",
+      "url": "https://www.carbonbrief.org/qa-what-does-chinas-15th-five-year-plan-for-coal-mean-for-climate-action",
+      "source": "Carbon Brief",
+      "tag": "氣候",
+      "group": null,
+      "published": "2026-08-14T14:09:31.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "黑鳶藍K4飛入新店工地吃便當廚餘、日本千葉遇破紀錄豪雨、特斯拉擬砸101億鎂蓋太陽能廠",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243766",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-14T02:20:45.000Z",
       "why": null,
       "ago": "20 小時前"
-    },
-    {
-      "title": "What can the climate movement learn from the student protests in India?",
-      "summary": "The climate movement does not have an apathy problem. It has a communication and culture problem.",
-      "url": "https://www.edie.net/what-can-the-climate-movement-learn-from-the-student-protests-in-india/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-13T16:40:50.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Platform Housing Group unveils roadmap to 2050 net-zero value chain",
-      "summary": "Non-profit housing association Platform has launched the next phase of its plan to reach net-zero greenhouse gas (GHG) emissions by 2050.",
-      "url": "https://www.edie.net/platform-housing-group-unveils-roadmap-to-2050-net-zero-value-chain/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-13T15:41:11.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "VodafoneThree seeks UK-based carbon removal projects",
-      "summary": "VodafoneThree has opened a request for proposals (RFP) for UK-based carbon removal projects to account for 24,000 tonnes of carbon dioxide equivalent.",
-      "url": "https://www.edie.net/vodafonethree-seeks-uk-based-carbon-removal-projects/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-13T14:06:55.000Z",
-      "why": null,
-      "ago": "24 小時前"
     }
   ],
   "errors": []
