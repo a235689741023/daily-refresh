@@ -1,22 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-13T23:09:46.796Z",
-  "updatedLocal": "2026/8/14 07:09:46",
+  "updated": "2026-08-14T04:50:09.820Z",
+  "updatedLocal": "2026/8/14 12:50:09",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Patterns and problems in emerging multiagent systems",
-      "summary": "Models are improving and AI agents are taking on more tasks in shared codebases, markets, and other social systems.",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-13T01:21:29.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
     {
       "title": "The builder’s guide to GPT‑5.6",
       "summary": "Technical lessons from startups in production The GPT‑5.6 model family makes frontier-level agent performance dramatically more affordable, while also advancing the frontier of what is possible.",
@@ -26,7 +15,7 @@
       "group": "ai",
       "published": "2026-08-13T11:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
@@ -37,7 +26,7 @@
       "group": "ai",
       "published": "2026-08-13T10:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
@@ -48,16 +37,16 @@
       "group": "ai",
       "published": "2026-08-13T09:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "How well do job retraining programs work?",
-      "summary": "We're sharing a review of the evidence on worker retraining programs, coauthored by independent researcher David Roodman and Anthropic's Maxim Massenkoff.",
-      "url": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs",
+      "title": "Patterns and problems in emerging multiagent systems",
+      "summary": "Models are improving and AI agents are taking on more tasks in shared codebases, markets, and other social systems.",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-12T17:33:35.000Z",
+      "published": "2026-08-13T01:21:29.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -70,7 +59,18 @@
       "group": "ai",
       "published": "2026-08-13T17:04:18.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse.",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-08-13T13:41:10.000Z",
+      "why": null,
+      "ago": "15 小時前"
     }
   ],
   "errors": []

@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-13T23:09:46.796Z",
-  "updatedLocal": "2026/8/14 07:09:46",
+  "updated": "2026-08-14T04:50:09.820Z",
+  "updatedLocal": "2026/8/14 12:50:09",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
+      "summary": "BEIJING — U.S. ride-hailing giant Uber is ramping up its global robotaxi coverage with operator Pony.ai.",
+      "url": "https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-14T01:02:39.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "These charts show why stocks keep rallying. Profit margins are the highest on record",
       "summary": "S&P 500 companies are keeping more profit from every dollar in sales than ever before, providing another tailwind for stocks.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-08-13T20:21:51.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-08-13T15:16:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-08-13T16:38:06.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-08-13T02:59:50.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
@@ -58,17 +69,6 @@
       "tag": "大盤",
       "group": null,
       "published": "2026-08-13T01:31:12.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
-      "summary": "Short sellers betting against SpaceX are rapidly retreating from the trade, just as the newly public stock rebounds from its post-IPO slump.",
-      "url": "https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-12T19:15:54.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-08-13T13:18:36.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-08-13T12:42:10.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "AI’s costly build-out complicates the Fed’s inflation fight",
@@ -103,7 +103,7 @@
       "group": null,
       "published": "2026-08-13T15:59:16.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Reddit is joining the S&P 500 after months of speculation. Analysts have these concerns.",
@@ -112,9 +112,9 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-13T22:40:00.000Z",
+      "published": "2026-08-14T00:19:00.000Z",
       "why": null,
-      "ago": "30 分鐘前"
+      "ago": "5 小時前"
     }
   ],
   "errors": []
