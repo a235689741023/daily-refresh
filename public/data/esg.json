@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-14T04:50:09.820Z",
-  "updatedLocal": "2026/8/14 12:50:09",
+  "updated": "2026-08-14T14:06:06.257Z",
+  "updatedLocal": "2026/8/14 22:06:06",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-13T16:12:19.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Sustainability professionals see a divide in how sustainability is viewed internally",
@@ -26,18 +26,51 @@
       "group": null,
       "published": "2026-08-13T10:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Why industrial-scale food waste processing is booming",
-      "summary": "Data from a new facility for generating renewable natural gas shows how industrial-scale processing of food waste is experiencing a growth spurt.",
-      "url": "https://trellis.net/article/boom-companies-generate-natural-gas-food-waste/",
-      "source": "Trellis",
+      "title": "Sustainability Uncovered episode 47: SAFs, festivals and a sustainable summer",
+      "summary": "The latest episode of edie’s long-standing Sustainability Uncovered podcast is now live.",
+      "url": "https://www.edie.net/sustainability-uncovered-episode-47-safs-festivals-and-a-sustainable-summer/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-12T23:51:52.000Z",
+      "published": "2026-08-14T13:31:14.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "35 分鐘前"
+    },
+    {
+      "title": "45-minute Masterclass: How the UK CBAM will affect sustainability strategies, and how businesses can prepare",
+      "summary": "Event Date: 20/10/2026 | 1:00 pm UK | 8:00 am US East Coast ET | 5:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST Join our 45-minute masterclass on 15 September 2026 to understand how the UK CBAM will shape your sustainability strategies.",
+      "url": "https://www.edie.net/45-minute-masterclass-how-the-uk-cbam-will-affect-sustainability-strategies-and-how-businesses-can-prepare/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-14T12:26:25.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Europe’s hydrogen projects stuck in feasibility stage",
+      "summary": "According to the Energy Industries Council (EIC), Europe’s hydrogen market is faltering due to lower demand and projects being stuck in the feasibility stage.",
+      "url": "https://www.edie.net/europes-hydrogen-projects-stuck-in-feasibility-stage/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-14T11:05:26.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Can Britain deliver net-zero without talking about climate?",
+      "summary": "As politicians increasingly frame climate action through housing, health, jobs, energy security and economic growth, the UK may be entering a new era of climate politics – one that risks pushing climate back down the agenda.",
+      "url": "https://www.edie.net/can-britain-deliver-net-zero-without-talking-about-climate/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-14T09:30:53.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "Companies face $1.4trn carbon bill over next decade, says BNEF",
@@ -48,7 +81,7 @@
       "group": null,
       "published": "2026-08-13T17:51:57.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "What can the climate movement learn from the student protests in India?",
@@ -59,7 +92,7 @@
       "group": null,
       "published": "2026-08-13T16:40:50.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Platform Housing Group unveils roadmap to 2050 net-zero value chain",
@@ -70,7 +103,7 @@
       "group": null,
       "published": "2026-08-13T15:41:11.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "VodafoneThree seeks UK-based carbon removal projects",
@@ -81,40 +114,7 @@
       "group": null,
       "published": "2026-08-13T14:06:55.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Why olive farmers are struggling to survive amid an olive oil boom",
-      "summary": "Olive oil’s rising prices are more than a cost-of-living story.",
-      "url": "https://www.edie.net/why-olive-farmers-are-struggling-to-survive-amid-an-olive-oil-boom/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-13T11:00:51.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "COP17 on desertification: Everything you need to know",
-      "summary": "The 17th Conference of the Parties (COP17) to the United Nations Convention to Combat Desertification (UNCCD) commences on Monday 17 August.",
-      "url": "https://www.edie.net/cop17-on-desertification-everything-you-need-to-know/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-13T09:33:15.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "FIVE WEEKS to go until edie’s Sustainable Supply Chains Summit",
-      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
-      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-13T08:00:03.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "24 小時前"
     }
   ],
   "errors": []

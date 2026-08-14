@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-14T04:50:09.820Z",
-  "updatedLocal": "2026/8/14 12:50:09",
+  "updated": "2026-08-14T14:06:06.257Z",
+  "updatedLocal": "2026/8/14 22:06:06",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-14T01:02:39.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "These charts show why stocks keep rallying. Profit margins are the highest on record",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-13T20:21:51.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-08-13T15:16:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
@@ -48,51 +48,7 @@
       "group": null,
       "published": "2026-08-13T16:38:06.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
-      "summary": "BEIJING — Yangtze Memory Technologies is rapidly gaining market share in a critical chip sector, according to Counterpoint Research.",
-      "url": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-13T02:59:50.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
-      "summary": "BEIJING — Survivors have emerged in China's fiercely competitive car market, which is increasingly dominated by electric-powered vehicles.",
-      "url": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-13T01:31:12.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Wholesale prices were flat in July, below expectations for 0.2% increase",
-      "summary": "Wholesale costs for goods and services were flat in July, the Bureau of Labor Statistics reported Thursday in the latest positive sign for inflation.",
-      "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-13T13:18:36.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
-      "summary": "The U.K. economy is showing further signs of a long-awaited rebound, but the picture is complicated by the fallout from the Iran war and high energy prices.",
-      "url": "https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-13T12:42:10.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "AI’s costly build-out complicates the Fed’s inflation fight",
@@ -103,18 +59,62 @@
       "group": null,
       "published": "2026-08-13T15:59:16.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "Reddit is joining the S&P 500 after months of speculation. Analysts have these concerns.",
+      "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/reddit-is-joining-the-s-p-500-after-months-of-speculation-analysts-have-these-concerns-21f81f77?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-14T00:19:00.000Z",
+      "published": "2026-08-14T14:01:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "5 分鐘前"
+    },
+    {
+      "title": "I have a 9-to-5 job and started dating a bartender. Can I have a future with someone who works nights?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-have-a-9-to-5-job-and-started-dating-a-bartender-can-i-have-a-future-with-someone-who-works-nights-500d4320?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-14T13:48:00.000Z",
+      "why": null,
+      "ago": "18 分鐘前"
+    },
+    {
+      "title": "Bond yields are at multiyear highs, yet stocks have hit fresh records. Here’s how long the defiance can last.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/rates-are-at-multiyear-highs-yet-stocks-hit-fresh-records-heres-how-long-the-defiance-may-last-b29a5d14?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-14T13:31:00.000Z",
+      "why": null,
+      "ago": "35 分鐘前"
+    },
+    {
+      "title": "Congress changed the rules around charitable giving. Do it earlier in the year to save money.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/congress-changed-the-rules-around-charitable-giving-do-it-earlier-in-the-year-to-save-money-392e5de3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-14T13:30:00.000Z",
+      "why": null,
+      "ago": "36 分鐘前"
+    },
+    {
+      "title": "Retail sales slump. Cheaper gas and an Amazon Prime hangover are the chief culprits.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/retail-sales-slump-in-july-cheaper-gas-and-amazon-prime-hangover-are-the-chief-culprits-b9db8535?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-14T13:27:00.000Z",
+      "why": null,
+      "ago": "39 分鐘前"
     }
   ],
   "errors": []
