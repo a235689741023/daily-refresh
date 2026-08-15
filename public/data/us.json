@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-14T22:45:59.919Z",
-  "updatedLocal": "2026/8/15 06:45:59",
+  "updated": "2026-08-15T03:41:32.908Z",
+  "updatedLocal": "2026/8/15 11:41:32",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-14T21:06:48.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-14T20:05:57.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Regulators and banks step up scrutiny of prediction markets",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-08-14T19:21:49.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
@@ -47,17 +47,6 @@
       "tag": "大盤",
       "group": null,
       "published": "2026-08-14T01:02:39.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "These charts show why stocks keep rallying. Profit margins are the highest on record",
-      "summary": "S&P 500 companies are keeping more profit from every dollar in sales than ever before, providing another tailwind for stocks.",
-      "url": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-13T20:21:51.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-08-14T14:53:13.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
@@ -81,7 +70,7 @@
       "group": null,
       "published": "2026-08-14T21:34:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "6 小時前"
     },
     {
       "title": "16 beaten-down AI stocks that are beloved by BofA analysts",
@@ -92,7 +81,7 @@
       "group": null,
       "published": "2026-08-14T19:09:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Parents putting money in ‘Trump accounts’ could get a $2,500 tax break. Here’s how.",
@@ -103,7 +92,7 @@
       "group": null,
       "published": "2026-08-14T18:51:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "A plan to save Social Security involves high earners paying more in taxes — without getting more in benefits",
@@ -114,7 +103,18 @@
       "group": null,
       "published": "2026-08-14T18:47:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
+    },
+    {
+      "title": "Congress changed the rules around charitable giving. You’ll now save more money if you donate earlier in the year.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/congress-changed-the-rules-around-charitable-giving-do-it-earlier-in-the-year-to-save-money-392e5de3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-14T18:45:00.000Z",
+      "why": null,
+      "ago": "9 小時前"
     }
   ],
   "errors": []

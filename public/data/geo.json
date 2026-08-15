@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-14T22:45:59.919Z",
-  "updatedLocal": "2026/8/15 06:45:59",
+  "updated": "2026-08-15T03:41:32.908Z",
+  "updatedLocal": "2026/8/15 11:41:32",
   "digest": null,
   "watch": [],
   "items": [
@@ -10,7 +10,7 @@
       "title": "Internship with the Spatial Analyst Team at Esri, Summer 2026",
       "summary": "As a student with a strong interest in GIS, transportation, spatial analysis, and cartography, I have always been fascinated by how geospatial technology can help us better understand the world in more meaningful ways.",
       "url": "https://www.esri.com/arcgis-blog/products/spatial-analyst/analytics/internship-with-the-spatial-analyst-team-at-esri-summer-2026",
-      "source": "esri.com",
+      "source": "Esri",
       "tag": "平台",
       "group": "gis",
       "published": "2026-08-13T22:00:16.000Z",
@@ -26,18 +26,18 @@
       "group": "ai",
       "published": "2026-08-14T19:22:20.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "8 小時前"
     },
     {
-      "title": "Introducing Gemini 3.7 Flash",
-      "summary": "Our most intelligent workhorse model yet for coding and agents.",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-      "source": "Google DeepMind",
+      "title": "Redacted Risk Report August 2026 - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-13T17:04:18.000Z",
+      "published": "2026-08-14T18:20:36.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "9 小時前"
     },
     {
       "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
@@ -48,7 +48,18 @@
       "group": "ai",
       "published": "2026-08-14T17:13:05.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "10 小時前"
+    },
+    {
+      "title": "AI safety needs urgent regulation",
+      "summary": "We are building the engine faster than the brakes.",
+      "url": "https://www.firstpost.com/opinion/ai-safety-needs-urgent-regulation-ws-e-14038336.html",
+      "source": "Firstpost",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-15T03:07:42.000Z",
+      "why": null,
+      "ago": "34 分鐘前"
     },
     {
       "title": "Toward a Common Supervisory Methodology for AI in Banking",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-08-14T10:38:50.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "EU's AI Transparency Rules Now Enforceable: Fines Reach €35 Million",
@@ -70,18 +81,7 @@
       "group": "ai",
       "published": "2026-08-14T19:13:02.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "Anthropic Adds Invisible Watermarks to Claude AI for EU AI Act",
-      "summary": "Anthropic’s Claude AI now embeds invisible watermarks into all text and code it generates, a feature aimed at complying with the EU AI Act.",
-      "url": "https://www.geeky-gadgets.com/claude-ai-invisible-watermarks/",
-      "source": "Geeky Gadgets",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-14T06:45:35.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "8 小時前"
     }
   ],
   "errors": []
