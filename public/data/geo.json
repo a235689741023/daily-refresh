@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-15T03:41:32.908Z",
-  "updatedLocal": "2026/8/15 11:41:32",
+  "updated": "2026-08-15T13:21:12.745Z",
+  "updatedLocal": "2026/8/15 21:21:12",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-13T22:00:16.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "How Claude's text watermarking works",
@@ -26,7 +26,7 @@
       "group": "ai",
       "published": "2026-08-14T19:22:20.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Redacted Risk Report August 2026 - www-cdn.anthropic.com",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-08-14T18:20:36.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-08-14T17:13:05.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "AI safety needs urgent regulation",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-08-15T03:07:42.000Z",
       "why": null,
-      "ago": "34 分鐘前"
+      "ago": "10 小時前"
     },
     {
       "title": "Toward a Common Supervisory Methodology for AI in Banking",
@@ -70,18 +70,7 @@
       "group": "ai",
       "published": "2026-08-14T10:38:50.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "EU's AI Transparency Rules Now Enforceable: Fines Reach €35 Million",
-      "summary": "European companies deploying artificial intelligence now face hard legal deadlines that arrived on August 2, 2026, when Article 50 of the EU AI Act took full effect.",
-      "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/eu-s-ai-transparency-rules-now-enforceable-fines-reach-35-million/69951113",
-      "source": "AD HOC NEWS",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-14T19:13:02.000Z",
-      "why": null,
-      "ago": "8 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
