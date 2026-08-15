@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-15T13:21:12.745Z",
-  "updatedLocal": "2026/8/15 21:21:12",
+  "updated": "2026-08-15T22:44:08.756Z",
+  "updatedLocal": "2026/8/16 06:44:08",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-14T21:06:48.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-14T20:05:57.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Regulators and banks step up scrutiny of prediction markets",
@@ -37,62 +37,7 @@
       "group": null,
       "published": "2026-08-14T19:21:49.000Z",
       "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
-      "summary": "A key inflation reading Wednesday showed prices moderating across a range of goods and services, possibly taking the urgency out of an imminent interest rate hike.",
-      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-14T14:53:13.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Should I tap my home equity or sell stocks to build a $100,000 emergency fund?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-at-odds-should-we-tap-our-home-equity-or-sell-stocks-to-build-a-100-000-emergency-fund-097d36a4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-15T13:00:00.000Z",
-      "why": null,
-      "ago": "21 分鐘前"
-    },
-    {
-      "title": "AI inflation is putting even more pressure on the Fed. Could higher interest rates be next?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/ai-inflation-is-putting-even-more-pressure-on-the-fed-could-higher-interest-rates-be-next-557db399?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-15T13:00:00.000Z",
-      "why": null,
-      "ago": "21 分鐘前"
-    },
-    {
-      "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-15T12:30:00.000Z",
-      "why": null,
-      "ago": "51 分鐘前"
-    },
-    {
-      "title": "A decade of internal AI battles is finally catching up to Google",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/a-decade-of-internal-ai-battles-is-finally-catching-up-to-google-7b3358a1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-15T12:00:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
+      "ago": "昨日"
     },
     {
       "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
@@ -101,9 +46,9 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-15T12:00:00.000Z",
+      "published": "2026-08-15T20:30:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "2 小時前"
     },
     {
       "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
@@ -112,9 +57,64 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-15T12:00:00.000Z",
+      "published": "2026-08-15T20:00:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Think interest rates are high now? These charts offer a different perspective.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-15T19:01:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Owning a home is overrated. Renting is now often a much better money move.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-711288a6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-15T18:23:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-15T18:05:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-15T17:08:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Will Trump accounts and grandparent 529s bring down the price of college in the future?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/will-trump-accounts-and-grandparent-529s-bring-down-the-price-of-college-in-the-future-88459da7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-15T16:52:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
     }
   ],
   "errors": []
