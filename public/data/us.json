@@ -1,44 +1,11 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-15T22:44:08.756Z",
-  "updatedLocal": "2026/8/16 06:44:08",
+  "updated": "2026-08-16T03:50:36.277Z",
+  "updatedLocal": "2026/8/16 11:50:36",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
-      "summary": "Berkshire Hathaway sharply increased its stake in Alphabet in the second quarter, vaulting the Google parent into its three biggest stock holdings.",
-      "url": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-14T21:06:48.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
-      "summary": "Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.",
-      "url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-14T20:05:57.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Regulators and banks step up scrutiny of prediction markets",
-      "summary": "The Commodity Futures Trading Commission is conducting an internal review into \"mention markets\" on prediction platforms , people familiar with the situation told CNBC Friday.",
-      "url": "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-14T19:21:49.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
     {
       "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
       "summary": null,
@@ -48,7 +15,7 @@
       "group": null,
       "published": "2026-08-15T20:30:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
@@ -59,7 +26,7 @@
       "group": null,
       "published": "2026-08-15T20:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Think interest rates are high now? These charts offer a different perspective.",
@@ -70,7 +37,7 @@
       "group": null,
       "published": "2026-08-15T19:01:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Owning a home is overrated. Renting is now often a much better money move.",
@@ -81,7 +48,7 @@
       "group": null,
       "published": "2026-08-15T18:23:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
@@ -92,7 +59,7 @@
       "group": null,
       "published": "2026-08-15T18:05:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
@@ -103,7 +70,7 @@
       "group": null,
       "published": "2026-08-15T17:08:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Will Trump accounts and grandparent 529s bring down the price of college in the future?",
@@ -114,7 +81,40 @@
       "group": null,
       "published": "2026-08-15T16:52:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "11 小時前"
+    },
+    {
+      "title": "Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-15T16:16:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-15T16:00:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Social Security recipients will get more money next year. Here’s how much the COLA may boost benefits.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-15T15:28:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
     }
   ],
   "errors": []
