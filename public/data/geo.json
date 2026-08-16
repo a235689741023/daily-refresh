@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-16T03:50:36.277Z",
-  "updatedLocal": "2026/8/16 11:50:36",
+  "updated": "2026-08-16T13:22:00.938Z",
+  "updatedLocal": "2026/8/16 21:22:00",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-13T22:00:16.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "How Claude's text watermarking works",
@@ -26,7 +26,7 @@
       "group": "ai",
       "published": "2026-08-14T19:22:20.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Redacted Risk Report August 2026 - www-cdn.anthropic.com",
@@ -37,18 +37,7 @@
       "group": "ai",
       "published": "2026-08-14T18:20:36.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "SBP’s Sandbox and EU AI Act: a timing advantage for Pakistani fintechs",
-      "summary": null,
-      "url": "https://www.brecorder.com/news/40434965/sbps-sandbox-and-eu-ai-act-a-timing-advantage-for-pakistani-fintechs",
-      "source": "Business Recorder",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-15T17:08:58.000Z",
-      "why": null,
-      "ago": "11 小時前"
+      "ago": "2 天前"
     },
     {
       "title": "AI safety needs urgent regulation",
@@ -69,17 +58,6 @@
       "tag": "基建",
       "group": "ai",
       "published": "2026-08-14T17:13:05.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Toward a Common Supervisory Methodology for AI in Banking",
-      "summary": "EU banks are embedding AI into core operations, but overlapping rules like DORA and the AI Act leave regulators with a headache: supervising it all consistently.",
-      "url": "https://www.therecursive.com/two-banks-one-ai-model-two-entirely-different-regulatory-headaches/",
-      "source": "The Recursive",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-14T10:38:50.000Z",
       "why": null,
       "ago": "2 天前"
     }

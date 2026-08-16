@@ -1,11 +1,44 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-16T03:50:36.277Z",
-  "updatedLocal": "2026/8/16 11:50:36",
+  "updated": "2026-08-16T13:22:00.938Z",
+  "updatedLocal": "2026/8/16 21:22:00",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Here’s the real reason oil prices aren’t moving higher",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-16T13:00:00.000Z",
+      "why": null,
+      "ago": "22 分鐘前"
+    },
+    {
+      "title": "The Mediterranean diet is the best out there. Here’s why Americans struggle with it.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-16T12:00:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-16T11:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
       "summary": null,
@@ -15,7 +48,7 @@
       "group": null,
       "published": "2026-08-15T20:30:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
@@ -26,7 +59,7 @@
       "group": null,
       "published": "2026-08-15T20:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Think interest rates are high now? These charts offer a different perspective.",
@@ -37,7 +70,7 @@
       "group": null,
       "published": "2026-08-15T19:01:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Owning a home is overrated. Renting is now often a much better money move.",
@@ -48,7 +81,7 @@
       "group": null,
       "published": "2026-08-15T18:23:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
@@ -59,7 +92,7 @@
       "group": null,
       "published": "2026-08-15T18:05:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
@@ -70,7 +103,7 @@
       "group": null,
       "published": "2026-08-15T17:08:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Will Trump accounts and grandparent 529s bring down the price of college in the future?",
@@ -81,40 +114,7 @@
       "group": null,
       "published": "2026-08-15T16:52:00.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-15T16:16:00.000Z",
-      "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-15T16:00:00.000Z",
-      "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Social Security recipients will get more money next year. Here’s how much the COLA may boost benefits.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-15T15:28:00.000Z",
-      "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     }
   ],
   "errors": []
