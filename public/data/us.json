@@ -1,11 +1,66 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-16T13:22:00.938Z",
-  "updatedLocal": "2026/8/16 21:22:00",
+  "updated": "2026-08-16T22:43:15.296Z",
+  "updatedLocal": "2026/8/17 06:43:15",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "U.S. stock futures little changed as investors ponder the Fed’s next move",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-16T22:23:00.000Z",
+      "why": null,
+      "ago": "20 分鐘前"
+    },
+    {
+      "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-16T18:15:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-16T17:30:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-16T17:00:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-16T16:22:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
     {
       "title": "Here’s the real reason oil prices aren’t moving higher",
       "summary": null,
@@ -15,7 +70,7 @@
       "group": null,
       "published": "2026-08-16T13:00:00.000Z",
       "why": null,
-      "ago": "22 分鐘前"
+      "ago": "10 小時前"
     },
     {
       "title": "The Mediterranean diet is the best out there. Here’s why Americans struggle with it.",
@@ -26,7 +81,7 @@
       "group": null,
       "published": "2026-08-16T12:00:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
@@ -37,29 +92,7 @@
       "group": null,
       "published": "2026-08-16T11:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-15T20:30:00.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-15T20:00:00.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Think interest rates are high now? These charts offer a different perspective.",
@@ -70,7 +103,7 @@
       "group": null,
       "published": "2026-08-15T19:01:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Owning a home is overrated. Renting is now often a much better money move.",
@@ -81,41 +114,24 @@
       "group": null,
       "published": "2026-08-15T18:23:00.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-15T18:05:00.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-15T17:08:00.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Will Trump accounts and grandparent 529s bring down the price of college in the future?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/will-trump-accounts-and-grandparent-529s-bring-down-the-price-of-college-in-the-future-88459da7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-15T16:52:00.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/search?q=site%3Abloomberg.com%20markets%20OR%20earnings&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "財報",
+      "url": "https://news.google.com/rss/search?q=earnings%20beat%20OR%20earnings%20miss%20guidance%20S%26P%20500&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "Reuters 財經",
+      "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20stock%20market%20OR%20Federal%20Reserve&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    }
+  ]
 }

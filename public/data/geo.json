@@ -1,54 +1,65 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-16T13:22:00.938Z",
-  "updatedLocal": "2026/8/16 21:22:00",
+  "updated": "2026-08-16T22:43:15.296Z",
+  "updatedLocal": "2026/8/17 06:43:15",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Internship with the Spatial Analyst Team at Esri, Summer 2026",
-      "summary": "As a student with a strong interest in GIS, transportation, spatial analysis, and cartography, I have always been fascinated by how geospatial technology can help us better understand the world in more meaningful ways.",
-      "url": "https://www.esri.com/arcgis-blog/products/spatial-analyst/analytics/internship-with-the-spatial-analyst-team-at-esri-summer-2026",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-08-13T22:00:16.000Z",
+      "title": "The builder’s guide to GPT‑5.6",
+      "summary": "Technical lessons from startups in production The GPT‑5.6 model family makes frontier-level agent performance dramatically more affordable, while also advancing the frontier of what is possible.",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-13T11:00:00.000Z",
       "why": null,
       "ago": "3 天前"
     },
     {
-      "title": "How Claude's text watermarking works",
-      "summary": "Future Claude models will generate text that contains a watermark.",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "source": "Anthropic",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "summary": "A new speed class for frontier intelligence, turning speed into a competitive advantage.",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-14T19:22:20.000Z",
+      "published": "2026-08-13T10:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "4 天前"
     },
     {
-      "title": "Redacted Risk Report August 2026 - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
-      "source": "Anthropic",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "summary": "As enterprise AI deployment accelerates, OpenAI is building on its global scale to grow even faster. Dali Rajic will be joining as Chief Revenue Officer, leading OpenAI’s global revenue organization.",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-14T18:20:36.000Z",
+      "published": "2026-08-13T09:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "4 天前"
     },
     {
-      "title": "AI safety needs urgent regulation",
-      "summary": "We are building the engine faster than the brakes.",
-      "url": "https://www.firstpost.com/opinion/ai-safety-needs-urgent-regulation-ws-e-14038336.html",
-      "source": "Firstpost",
-      "tag": "政策",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "summary": "Two new reports show how AI adoption is spreading across firms and workers—and what frontier organizations are doing differently.",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "OpenAI",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-08-15T03:07:42.000Z",
+      "published": "2026-08-12T06:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "5 天前"
+    },
+    {
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "summary": "With ChatGPT Work and Codex, RingCentral builds AI product features faster and centralizes operational intelligence.",
+      "url": "https://openai.com/index/ringcentral",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-12T00:00:00.000Z",
+      "why": null,
+      "ago": "5 天前"
     },
     {
       "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
@@ -62,5 +73,26 @@
       "ago": "2 天前"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "ArcGIS Blog",
+      "url": "https://news.google.com/rss/search?q=site%3Aesri.com%2Farcgis-blog&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "Anthropic",
+      "url": "https://news.google.com/rss/search?q=site%3Aanthropic.com&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "AI 政策",
+      "url": "https://news.google.com/rss/search?q=%22AI%20Act%22%20OR%20%22frontier%20AI%22%20OR%20%22AI%20safety%22%20OR%20%22export%20controls%22%20AI%20regulation&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "GIS × AI 研究",
+      "url": "https://news.google.com/rss/search?q=geospatial%20AI%20OR%20%22spatial%20AI%22%20OR%20%22remote%20sensing%22%20foundation%20model&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    }
+  ]
 }
