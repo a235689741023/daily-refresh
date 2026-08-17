@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-16T22:43:15.296Z",
-  "updatedLocal": "2026/8/17 06:43:15",
+  "updated": "2026-08-17T03:52:28.247Z",
+  "updatedLocal": "2026/8/17 11:52:28",
   "digest": null,
   "watch": [],
   "items": [
@@ -13,9 +13,9 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-16T22:23:00.000Z",
+      "published": "2026-08-17T03:02:00.000Z",
       "why": null,
-      "ago": "20 分鐘前"
+      "ago": "50 分鐘前"
     },
     {
       "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-16T18:15:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-08-16T17:30:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-08-16T17:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-08-16T16:22:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Here’s the real reason oil prices aren’t moving higher",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-08-16T13:00:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "The Mediterranean diet is the best out there. Here’s why Americans struggle with it.",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-08-16T12:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
@@ -92,46 +92,30 @@
       "group": null,
       "published": "2026-08-16T11:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "Think interest rates are high now? These charts offer a different perspective.",
+      "title": "Asian shares mark time as Gulf war keeps oil prices up",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-17/",
+      "source": "Reuters",
+      "tag": "總經",
       "group": null,
-      "published": "2026-08-15T19:01:00.000Z",
+      "published": "2026-08-17T01:17:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "3 小時前"
     },
     {
-      "title": "Owning a home is overrated. Renting is now often a much better money move.",
+      "title": "Yen edges up as traders push back Fed rate hike bets",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-711288a6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
+      "url": "https://www.reuters.com/world/asia-pacific/yen-edges-up-traders-push-back-fed-rate-hike-bets-2026-08-17/",
+      "source": "Reuters",
+      "tag": "總經",
       "group": null,
-      "published": "2026-08-15T18:23:00.000Z",
+      "published": "2026-08-17T00:42:06.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "3 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "Bloomberg",
-      "url": "https://news.google.com/rss/search?q=site%3Abloomberg.com%20markets%20OR%20earnings&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "財報",
-      "url": "https://news.google.com/rss/search?q=earnings%20beat%20OR%20earnings%20miss%20guidance%20S%26P%20500&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "Reuters 財經",
-      "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20stock%20market%20OR%20Federal%20Reserve&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    }
-  ]
+  "errors": []
 }
