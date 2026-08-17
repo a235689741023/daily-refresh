@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-17T03:52:28.247Z",
-  "updatedLocal": "2026/8/17 11:52:28",
+  "updated": "2026-08-17T13:30:14.693Z",
+  "updatedLocal": "2026/8/17 21:30:14",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,73 +15,73 @@
       "group": "gis",
       "published": "2026-08-13T22:00:16.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
-      "title": "How Claude's text watermarking works",
-      "summary": "Future Claude models will generate text that contains a watermark.",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "title": "- partner-sso.anthropic.com",
+      "summary": null,
+      "url": "https://partner-sso.anthropic.com/",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-14T19:22:20.000Z",
+      "published": "2026-08-17T04:15:01.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "9 小時前"
     },
     {
-      "title": "Redacted Risk Report August 2026 - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
-      "source": "Anthropic",
+      "title": "The Defender’s Window",
+      "summary": "The OpenAI-Hugging Face incident ⁠ (opens in a new window) was a watershed moment for cybersecurity because it gave a peek into how the capabilities of a typical threat actor will evolve in upcoming months.",
+      "url": "https://openai.com/index/the-defenders-window",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-14T18:20:36.000Z",
+      "published": "2026-08-17T05:30:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "8 小時前"
     },
     {
-      "title": "Anthropic CEO Dario Amodei rejects claim AI regulation would concentrate power",
-      "summary": null,
-      "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/anthropic-ceo-dario-amodei-rejects-claim-ai-regulation-would-concentrate-power/133271345",
-      "source": "ET Enterprise AI",
-      "tag": "政策",
+      "title": "OpenAI joins PORTS-Pike project",
+      "summary": "Expanding community investment and supporting thousands of Southern Ohio jobs.",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "source": "OpenAI",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-08-16T06:55:12.000Z",
+      "published": "2026-08-17T05:00:00.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "9 小時前"
     },
     {
-      "title": "AI safety needs urgent regulation",
-      "summary": "We are building the engine faster than the brakes.",
-      "url": "https://www.firstpost.com/opinion/ai-safety-needs-urgent-regulation-ws-e-14038336.html",
-      "source": "Firstpost",
-      "tag": "政策",
+      "title": "New policy ideas for the Intelligence Age",
+      "summary": "Funding independent projects to promote economic opportunity and resilience as AI advances.",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "source": "OpenAI",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-08-15T03:07:42.000Z",
+      "published": "2026-08-17T03:15:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "10 小時前"
     },
     {
-      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
-      "summary": "Indonesia is taking charge of its AI future.",
-      "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
+      "title": "What happens when a kid’s robot best friend dies?",
+      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee.",
+      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-08-14T17:13:05.000Z",
+      "published": "2026-08-17T09:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "5 小時前"
     },
     {
-      "title": "This Week in European HealthTech, MedTech and Health AI: 14th August 2026",
-      "summary": "Major developments across the European HealthTech, MedTech, and Health AI sectors highlight regulatory realignments, venture shifts toward deep-tech diagnostics, and clinical integration.",
-      "url": "https://www.healthcare.digital/single-post/this-week-in-european-healthtech-medtech-and-health-ai-14th-august-2026",
-      "source": "healthcare.digital",
-      "tag": "政策",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "summary": "Gemini and Pixel have announced new long-term partnerships with Arsenal FC, FC Barcelona, FC Bayern München, Liverpool FC, and Paris Saint-Germain to bring fans closer to the game through AI personal intelligence and smartphone technology.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "source": "Google AI Blog",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-08-14T07:22:44.000Z",
+      "published": "2026-08-17T08:00:00.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "6 小時前"
     }
   ],
   "errors": []

@@ -1,11 +1,44 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-17T03:52:28.247Z",
-  "updatedLocal": "2026/8/17 11:52:28",
+  "updated": "2026-08-17T13:30:14.693Z",
+  "updatedLocal": "2026/8/17 21:30:14",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Sustainable AI: Tools, frameworks and best practices in 2026",
+      "summary": "Sustainability professionals are scrambling to understand how AI adoption will impact environmental goals.",
+      "url": "https://trellis.net/article/sustainable-ai-tools-frameworks-best-practices/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-17T10:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Activist short-seller targets environmental failings",
+      "summary": "A new activist investment fund that focuses exclusively on environmental issues has touted its first success after targeting a company that provides emissions-intensive electricity generation to data centers.",
+      "url": "https://trellis.net/article/sunlight-partners-babcock-wilcox-short-seller/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-17T10:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Business concern over El Niño risk hits multi-year high, analysis finds",
+      "summary": "According to a review of major corporate filings and calls, El Niño has rapidly risen up the business agenda for companies across industries like food, chemicals and banking.",
+      "url": "https://www.edie.net/business-concern-over-el-nino-risk-hits-multi-year-high-analysis-finds/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-17T13:08:44.000Z",
+      "why": null,
+      "ago": "22 分鐘前"
+    },
     {
       "title": "easyJet’s efficient refuelling and EU packaging rules: The sustainability success stories of the week",
       "summary": "As part of our Mission Possible campaign, edie delivers this member-exclusive weekly round-up of five of the best sustainable business success stories of the week.",
@@ -15,7 +48,29 @@
       "group": null,
       "published": "2026-08-16T16:56:34.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "Why land-use emissions have fallen by a third this century – in six charts",
+      "summary": "Emissions from land-use change – including deforestation, loss of peatland and forest degradation – have been falling over the course of the 21st century.",
+      "url": "https://www.carbonbrief.org/why-land-use-emissions-have-fallen-by-a-third-this-century-in-six-charts",
+      "source": "Carbon Brief",
+      "tag": "氣候",
+      "group": null,
+      "published": "2026-08-17T12:45:51.000Z",
+      "why": null,
+      "ago": "44 分鐘前"
+    },
+    {
+      "title": "用「碳費」滾「減碳」 首期碳費收入近50億 專家籲完善再投資機制",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243777",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-17T07:38:29.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "大羅東治水防災估拆遷200多棟、印尼7.7強震至少51死、千葉暴雨死亡人數增至10人",
@@ -24,9 +79,20 @@
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-08-17T02:29:14.000Z",
+      "published": "2026-08-17T02:28:24.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "11 小時前"
+    },
+    {
+      "title": "「廢非核家園」交全民決定？ 學者質疑不符《公投法》 恐淪政治動員工具",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243778",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-17T09:56:15.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "研究：極端高溫削弱森林吸碳力 全球81%植被地區受衝擊",
@@ -37,73 +103,18 @@
       "group": null,
       "published": "2026-08-17T01:28:22.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "職安法新制上路，從日、韓、星法規異同看台灣企業治理新課題",
+      "title": "企業如何建立生物多樣性長期策略？ 以國泰人壽海洋保育行動為例",
       "summary": null,
-      "url": "https://csrone.com/topics/10038",
+      "url": "https://csrone.com/topics/10064",
       "source": "CSRone 永續智庫",
       "tag": "台灣",
       "group": null,
-      "published": "2026-08-17T00:00:00.000Z",
+      "published": "2026-08-17T09:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "雲豹能源人才布局獲肯定，拿下亞洲最佳企業雇主、職場永續雙獎",
-      "summary": "雲豹能源 首度參與《HR Asia 亞洲最佳企業雇主獎》評選，即一舉拿下「亞洲最佳企業雇主獎」（HR Asia Best Companies to Work for in Asia）及「職場永續獎」（Sustainable Workplace Awards）雙項肯定。",
-      "url": "https://technews.tw/2026/08/17/clouded-leopard-energy-talent-strategy-recognized-wins-asia-best-employer-workplace-sustainability-awards/",
-      "source": "TechNews 科技新報",
-      "tag": "人才",
-      "group": null,
-      "published": "2026-08-17T02:13:41.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "從國門服務到人才永續昇恆昌獲HR Asia雙獎肯定- 產業",
-      "summary": "亞洲權威人力資源雜誌《HR Asia》公布2026年得獎名單，昇恆昌免稅商店三度榮獲「亞洲最佳企業雇主獎」，並二度摘下「職場永續獎」，展現旅遊零售業在人才培育與永續實踐上的深厚實力。面對旅遊零售產業持續變化，昇恆昌總經理江建廷表示，每一位同仁都是企業最重要的夥伴，也是站在國門第一線、創造旅客美好體驗的關鍵力量。",
-      "url": "https://www.ctee.com.tw/news/20260816700493-430503",
-      "source": "工商時報",
-      "tag": "人才",
-      "group": null,
-      "published": "2026-08-16T06:44:00.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "裕民航運六度榮獲《HR Asia》亞洲最佳企業僱主獎　再摘人才躍升獎",
-      "summary": "▲右起裕民財務副總張宗良、總稽核蔡碧双、營運長黎錫榮、人資經理賴怡瑛、行政副總陳長生。（圖／裕民提供） 裕民航運(2606)今年再度榮獲亞洲知名人資雜誌《HR Asia》頒發「亞洲最佳企業雇主獎」，締造連續六年獲獎的輝煌紀錄！",
-      "url": "https://finance.ettoday.net/news/3220072",
-      "source": "ETtoday財經雲",
-      "tag": "人才",
-      "group": null,
-      "published": "2026-08-16T05:31:00.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "連四年獲亞洲最佳雇主肯定 臺灣港務公司首獲科技賦能獎創雙料佳績",
-      "summary": null,
-      "url": "https://n.yam.com/Article/20260815221591",
-      "source": "蕃新聞",
-      "tag": "人才",
-      "group": null,
-      "published": "2026-08-16T11:11:40.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "醫護缺工潮下的留才新邏輯~ESG為何能成為醫院人才爭奪戰的關鍵",
-      "summary": null,
-      "url": "https://n.yam.com/Article/20260816509341",
-      "source": "蕃新聞",
-      "tag": "人才",
-      "group": null,
-      "published": "2026-08-16T02:43:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "5 小時前"
     }
   ],
   "errors": []
