@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-17T13:30:14.693Z",
-  "updatedLocal": "2026/8/17 21:30:14",
+  "updated": "2026-08-17T22:46:45.625Z",
+  "updatedLocal": "2026/8/18 06:46:45",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,17 +18,6 @@
       "ago": "4 天前"
     },
     {
-      "title": "- partner-sso.anthropic.com",
-      "summary": null,
-      "url": "https://partner-sso.anthropic.com/",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-17T04:15:01.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
       "title": "The Defender’s Window",
       "summary": "The OpenAI-Hugging Face incident ⁠ (opens in a new window) was a watershed moment for cybersecurity because it gave a peek into how the capabilities of a typical threat actor will evolve in upcoming months.",
       "url": "https://openai.com/index/the-defenders-window",
@@ -37,7 +26,7 @@
       "group": "ai",
       "published": "2026-08-17T05:30:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "OpenAI joins PORTS-Pike project",
@@ -48,7 +37,7 @@
       "group": "ai",
       "published": "2026-08-17T05:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "New policy ideas for the Intelligence Age",
@@ -59,7 +48,18 @@
       "group": "ai",
       "published": "2026-08-17T03:15:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "20 小時前"
+    },
+    {
+      "title": "What Flock’s defenders are missing",
+      "summary": "Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday.",
+      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-08-17T19:16:09.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "What happens when a kid’s robot best friend dies?",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-08-17T09:00:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Get closer to the game with Gemini and Pixel",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-08-17T08:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "15 小時前"
     }
   ],
   "errors": []
