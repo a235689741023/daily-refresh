@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-18T13:33:33.292Z",
-  "updatedLocal": "2026/8/18 21:33:33",
+  "updated": "2026-08-18T22:46:46.924Z",
+  "updatedLocal": "2026/8/19 06:46:46",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
+      "summary": "There's something telling in how the smart money on Wall Street has started to think about socialism.",
+      "url": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-18T16:48:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf",
+      "summary": "Prediction market platform Kalshi in a regulatory filing on Tuesday revealed it is seeking to launch perpetual futures tied to equity indexes.",
+      "url": "https://www.cnbc.com/2026/08/18/kalshi-wants-to-launch-perps-tied-to-equity-indexes.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-18T16:49:55.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
     {
       "title": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner",
       "summary": "Los Angeles Lakers governor Jeanie Buss is opposing the potential sale of her family's stake in the NBA team, contradicting an earlier ESPN report about the family's decision to sell to Bob Iger and Joshua Kushner.",
@@ -13,20 +35,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-18T10:53:25.000Z",
+      "published": "2026-08-18T21:29:03.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
-      "summary": "Prediction markets traders still see Paramount Skydance as likely to succeed in its bid to acquire Warner Bros.",
-      "url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-17T17:43:40.000Z",
-      "why": null,
-      "ago": "20 小時前"
+      "ago": "1 小時前"
     },
     {
       "title": "Credit card issuer Synchrony announces partnership with OpenAI",
@@ -37,7 +48,18 @@
       "group": null,
       "published": "2026-08-18T02:48:33.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "20 小時前"
+    },
+    {
+      "title": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
+      "summary": "Prediction markets traders still see Paramount Skydance as likely to succeed in its bid to acquire Warner Bros.",
+      "url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-17T17:43:40.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
@@ -48,73 +70,51 @@
       "group": null,
       "published": "2026-08-18T11:51:15.000Z",
       "why": null,
+      "ago": "11 小時前"
+    },
+    {
+      "title": "‘Too many people go bankrupt’: Should Medicare provide catastrophic coverage?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/too-many-people-go-bankrupt-should-medicare-provide-catastrophic-coverage-f7c653da?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-18T22:31:00.000Z",
+      "why": null,
+      "ago": "16 分鐘前"
+    },
+    {
+      "title": "Meta is facing its ‘Big Tobacco’ moment — and investors can profit",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/meta-is-facing-its-big-tobacco-moment-and-investors-can-profit-e0f27b2d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-18T21:59:00.000Z",
+      "why": null,
+      "ago": "48 分鐘前"
+    },
+    {
+      "title": "AI chip stocks were riding high. Here’s why Micron and others are now pulling back.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-18T21:08:00.000Z",
+      "why": null,
       "ago": "2 小時前"
     },
     {
-      "title": "Stocks keep shrugging off rising Treasury yields. Here’s the level that could finally trigger a selloff.",
+      "title": "Hidden Valley Ranch dressing may be a victim of this summer’s salad scare",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/stocks-keep-shrugging-off-rising-treasury-yields-heres-the-level-that-could-finally-trigger-a-selloff-80c1634c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/hidden-valley-ranch-dressing-may-be-a-victim-of-this-summers-salad-scare-f8537cd5?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-18T13:06:00.000Z",
+      "published": "2026-08-18T20:46:00.000Z",
       "why": null,
-      "ago": "28 分鐘前"
-    },
-    {
-      "title": "Disney sues FCC over Trump’s broadcast-license threat",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/disney-sues-fcc-over-broadcast-license-threat-9fb4745d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-18T12:58:00.000Z",
-      "why": null,
-      "ago": "36 分鐘前"
-    },
-    {
-      "title": "How do I deal with co-workers who constantly complain about the dumbest problems?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/how-do-i-deal-with-co-workers-who-constantly-complain-about-the-dumbest-problems-44060bc7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-18T12:56:00.000Z",
-      "why": null,
-      "ago": "38 分鐘前"
-    },
-    {
-      "title": "Home Depot revenue rises even as customers turn away from bigger projects",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/home-depot-revenue-rises-even-as-customers-turn-away-from-bigger-projects-0798f7fd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-18T12:32:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-18T12:16:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Fund managers have rarely been this bullish about stocks, says a Bank of America survey",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/fund-manager-have-rarely-been-this-bullish-about-stocks-says-bank-of-america-survey-dccd304a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-18T12:07:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
+      "ago": "2 小時前"
     }
   ],
   "errors": []

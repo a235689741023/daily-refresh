@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-18T13:33:33.292Z",
-  "updatedLocal": "2026/8/18 21:33:33",
+  "updated": "2026-08-18T22:46:46.924Z",
+  "updatedLocal": "2026/8/19 06:46:46",
   "digest": null,
   "watch": [],
   "items": [
@@ -13,9 +13,9 @@
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-08-17T21:52:48.000Z",
+      "published": "2026-08-17T07:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "2 天前"
     },
     {
       "title": "Internship with the Spatial Analyst Team at Esri, Summer 2026",
@@ -29,6 +29,17 @@
       "ago": "5 天前"
     },
     {
+      "title": "Strengthening democratic oversight in national security",
+      "summary": "OpenAI is launching a new initiative to help democratic oversight bodies develop the expertise and tools they need to understand and oversee government use of AI for national security.",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-18T19:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
       "title": "Partnering with CodeAI to prepare the first AI generation",
       "summary": "Today’s students will be the first generation to grow up with AI as part of everyday life.",
       "url": "https://openai.com/index/partnering-with-codeai",
@@ -37,7 +48,18 @@
       "group": "ai",
       "published": "2026-08-18T11:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "summary": "Over the past several weeks, two developments have underscored the growing risks associated with increasingly capable AI systems: the OpenAI-Hugging Face incident and, separately, preliminary evidence that one of our upcoming models, Astra, may meet the Critical cybersecurity capability threshold under our Preparedness Framework .",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-18T11:00:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
     },
     {
       "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
@@ -48,7 +70,18 @@
       "group": "ai",
       "published": "2026-08-18T11:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "summary": "Using OpenAI Codex, Asana replaced an outdated testing system in two weeks for about $12K.",
+      "url": "https://openai.com/index/asana",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-18T07:00:00.000Z",
+      "why": null,
+      "ago": "16 小時前"
     },
     {
       "title": "We still don’t know how people are really using AI",
@@ -59,40 +92,7 @@
       "group": "ai",
       "published": "2026-08-18T10:06:43.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-08-18T09:00:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "What Flock’s defenders are missing",
-      "summary": "Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday.",
-      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-08-17T19:16:09.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "What happens when a kid’s robot best friend dies?",
-      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee.",
-      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-08-17T09:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "13 小時前"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-18T13:33:33.292Z",
-  "updatedLocal": "2026/8/18 21:33:33",
+  "updated": "2026-08-18T22:46:46.924Z",
+  "updatedLocal": "2026/8/19 06:46:46",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-18T10:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Kimberly-Clark turns away from ‘natural’ trees to make toilet paper",
@@ -26,40 +26,51 @@
       "group": null,
       "published": "2026-08-18T10:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "For B2B companies, certifications lose their power in turbulent times like these",
-      "summary": "Social and environmental certifications (e.g., fair trade, organic, recyclable) create commercial lift in calm markets.",
+      "summary": "The opinions expressed here by Trellis expert contributors are their own, not those of Trellis or its editors .",
       "url": "https://trellis.net/article/b2b-certifications-lose-power-turbulent-times/",
       "source": "Trellis",
       "tag": "國際",
       "group": null,
       "published": "2026-08-18T09:15:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "14 小時前"
     },
     {
-      "title": "Sustainable AI: Tools, frameworks and best practices in 2026",
-      "summary": "Sustainability professionals are scrambling to understand how AI adoption will impact environmental goals.",
-      "url": "https://trellis.net/article/sustainable-ai-tools-frameworks-best-practices/",
-      "source": "Trellis",
+      "title": "New guide aims to help councils unlock community solar",
+      "summary": "With Great British Energy set to open a new Partnership Fund for joint council and community energy projects soon, a new guide aims to help these collaborations scale.",
+      "url": "https://www.edie.net/new-guide-aims-to-help-councils-unlock-community-solar/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-17T10:00:00.000Z",
+      "published": "2026-08-18T14:57:30.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "8 小時前"
     },
     {
-      "title": "Activist short-seller targets environmental failings",
-      "summary": "A new activist investment fund that focuses exclusively on environmental issues has touted its first success after targeting a company that provides emissions-intensive electricity generation to data centers.",
-      "url": "https://trellis.net/article/sunlight-partners-babcock-wilcox-short-seller/",
-      "source": "Trellis",
+      "title": "edie 27 launches Energy Zone to connect solution providers with businesses investing in efficiency, security and decarbonisation",
+      "summary": "As organisations face rising costs, energy security concerns, regulatory pressure and the need to decarbonise, decision–makers are looking for practical ways to reduce consumption, improve performance, strengthen resilience and prove the return on investment from energy upgrades.",
+      "url": "https://www.edie.net/edie-27-launches-energy-zone-to-connect-solution-providers-with-businesses-investing-in-efficiency-security-and-decarbonisation/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-17T10:00:00.000Z",
+      "published": "2026-08-18T14:17:28.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "8 小時前"
+    },
+    {
+      "title": "FOUR WEEKS to go until edie’s Sustainable Supply Chains Summit",
+      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
+      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-18T14:00:03.000Z",
+      "why": null,
+      "ago": "9 小時前"
     },
     {
       "title": "Honest energy partnerships: The best way to address gridlock and greenwashing",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-08-18T13:29:41.000Z",
       "why": null,
-      "ago": "4 分鐘前"
+      "ago": "9 小時前"
     },
     {
       "title": "Boardroom Briefing: Building the business case to act on water",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-08-18T12:08:49.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "A $278bn funding gap: Who will pay for water security?",
@@ -92,29 +103,18 @@
       "group": null,
       "published": "2026-08-18T11:04:41.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "Scientists and industry clash over GHG Protocol forest carbon rules",
-      "summary": "Another expert has stepped down from the standard-setting process following a dispute over how forests should be accounted for in corporate carbon footprints.",
-      "url": "https://www.edie.net/scientists-and-industry-clash-over-ghg-protocol-forest-carbon-rules/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "Explainer: How the ‘super El Niño’ will reshape the world’s weather",
+      "summary": "The world is currently experiencing what is expected to become the strongest El Niño on record – dubbed a “ super El Niño ” by many.",
+      "url": "https://interactive.carbonbrief.org/el-nino-explainer/index.html",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-08-17T16:16:09.000Z",
+      "published": "2026-08-18T12:58:53.000Z",
       "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "FOUR WEEKS to go until edie’s Sustainable Supply Chains Summit",
-      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
-      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-17T16:00:03.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "10 小時前"
     }
   ],
   "errors": []
