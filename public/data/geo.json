@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-18T03:47:17.539Z",
-  "updatedLocal": "2026/8/18 11:47:17",
+  "updated": "2026-08-18T13:33:33.292Z",
+  "updatedLocal": "2026/8/18 21:33:33",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-17T21:52:48.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Internship with the Spatial Analyst Team at Esri, Summer 2026",
@@ -26,40 +26,51 @@
       "group": "gis",
       "published": "2026-08-13T22:00:16.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
     },
     {
-      "title": "The Defender’s Window",
-      "summary": "The OpenAI-Hugging Face incident ⁠ (opens in a new window) was a watershed moment for cybersecurity because it gave a peek into how the capabilities of a typical threat actor will evolve in upcoming months.",
-      "url": "https://openai.com/index/the-defenders-window",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "summary": "Today’s students will be the first generation to grow up with AI as part of everyday life.",
+      "url": "https://openai.com/index/partnering-with-codeai",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-17T05:30:00.000Z",
+      "published": "2026-08-18T11:00:00.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "OpenAI joins PORTS-Pike project",
-      "summary": "Expanding community investment and supporting thousands of Southern Ohio jobs.",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "summary": "We’re introducing ChatGPT for Teens, an experience designed to help teens learn, think critically, deepen understanding, and use AI with confidence.",
+      "url": "https://openai.com/index/chatgpt-for-teens",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-17T05:00:00.000Z",
+      "published": "2026-08-18T11:00:00.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "New policy ideas for the Intelligence Age",
-      "summary": "Funding independent projects to promote economic opportunity and resilience as AI advances.",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "We still don’t know how people are really using AI",
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-08-17T03:15:00.000Z",
+      "published": "2026-08-18T10:06:43.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "3 小時前"
+    },
+    {
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-08-18T09:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "What Flock’s defenders are missing",
@@ -70,7 +81,7 @@
       "group": "ai",
       "published": "2026-08-17T19:16:09.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "What happens when a kid’s robot best friend dies?",
@@ -81,18 +92,7 @@
       "group": "ai",
       "published": "2026-08-17T09:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Get closer to the game with Gemini and Pixel",
-      "summary": "Gemini and Pixel have announced new long-term partnerships with Arsenal FC, FC Barcelona, FC Bayern München, Liverpool FC, and Paris Saint-Germain to bring fans closer to the game through AI personal intelligence and smartphone technology.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "source": "Google AI Blog",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-17T08:00:00.000Z",
-      "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
