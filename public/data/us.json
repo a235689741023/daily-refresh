@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-17T22:46:45.625Z",
-  "updatedLocal": "2026/8/18 06:46:45",
+  "updated": "2026-08-18T03:47:17.539Z",
+  "updatedLocal": "2026/8/18 11:47:17",
   "digest": null,
   "watch": [],
   "items": [
@@ -13,9 +13,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-17T22:31:32.000Z",
+      "published": "2026-08-17T23:47:54.000Z",
       "why": null,
-      "ago": "15 分鐘前"
+      "ago": "4 小時前"
     },
     {
       "title": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
@@ -26,18 +26,18 @@
       "group": null,
       "published": "2026-08-17T17:43:40.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "10 小時前"
     },
     {
-      "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
-      "summary": "Synchrony Financial , the credit card issuer for brands including Amazon , Walmart and Lowe's , is working with OpenAI to allow shoppers to buy products directly inside ChatGPT using their store cards.",
-      "url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
+      "title": "Credit card issuer Synchrony announces partnership with OpenAI",
+      "summary": "Editor's note: A previous version of this story, based on information provided by a Synchrony Financial executive, mischaracterized the collaboration between Synchrony and OpenAI.",
+      "url": "https://www.cnbc.com/2026/08/17/synchrony-openai.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-17T18:32:54.000Z",
+      "published": "2026-08-18T02:48:33.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "59 分鐘前"
     },
     {
       "title": "Why this popular Treasury-bond ETF is trading at its lowest since 2004",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-08-17T22:33:00.000Z",
       "why": null,
-      "ago": "14 分鐘前"
+      "ago": "5 小時前"
     },
     {
       "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-08-17T21:30:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "6 小時前"
     },
     {
       "title": "There’s a 49% chance the Dow will finish this year up double digits. Here’s why.",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-08-17T21:22:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "6 小時前"
     },
     {
       "title": "The number of ‘negative-beta’ stocks in the S&P 500 just hit a new record high. What that means for investors.",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-08-17T21:15:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-08-17T21:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
@@ -103,7 +103,7 @@
       "group": null,
       "published": "2026-08-17T20:43:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "A new set of Trump tariffs for Canada could take effect Wednesday. Here’s what’s at stake.",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-08-17T20:28:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     }
   ],
   "errors": []

@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-17T22:46:45.625Z",
-  "updatedLocal": "2026/8/18 06:46:45",
+  "updated": "2026-08-18T03:47:17.539Z",
+  "updatedLocal": "2026/8/18 11:47:17",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "ArcGIS Solutions 2026 Product Roadmap",
+      "summary": "ArcGIS Solutions are industry-specific configurations of ArcGIS that align with your business needs, transform your use of ArcGIS, and help you maximize the investment you are making in location-based data and technology.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-solutions/announcements/arcgis-solutions-2026-product-roadmap",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-08-17T21:52:48.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
     {
       "title": "Internship with the Spatial Analyst Team at Esri, Summer 2026",
       "summary": "As a student with a strong interest in GIS, transportation, spatial analysis, and cartography, I have always been fascinated by how geospatial technology can help us better understand the world in more meaningful ways.",
@@ -26,7 +37,7 @@
       "group": "ai",
       "published": "2026-08-17T05:30:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "OpenAI joins PORTS-Pike project",
@@ -37,7 +48,7 @@
       "group": "ai",
       "published": "2026-08-17T05:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "New policy ideas for the Intelligence Age",
@@ -48,7 +59,7 @@
       "group": "ai",
       "published": "2026-08-17T03:15:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "What Flock’s defenders are missing",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-08-17T19:16:09.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "What happens when a kid’s robot best friend dies?",
@@ -70,7 +81,7 @@
       "group": "ai",
       "published": "2026-08-17T09:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Get closer to the game with Gemini and Pixel",
@@ -81,7 +92,7 @@
       "group": "ai",
       "published": "2026-08-17T08:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "20 小時前"
     }
   ],
   "errors": []
