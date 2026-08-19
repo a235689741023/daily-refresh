@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-19T13:34:57.012Z",
-  "updatedLocal": "2026/8/19 21:34:57",
+  "updated": "2026-08-19T22:47:38.567Z",
+  "updatedLocal": "2026/8/20 06:47:38",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-17T07:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "Internship with the Spatial Analyst Team at Esri, Summer 2026",
@@ -29,17 +29,6 @@
       "ago": "6 天前"
     },
     {
-      "title": "How Claude is accelerating protein design and analytical chemistry",
-      "summary": "Summary: In this post, we share two results that show how Claude can help life scientists increase the pace of their research.",
-      "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-18T22:14:57.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
       "title": "Autonomous de novo protein binder design with Claude - www-cdn.anthropic.com",
       "summary": null,
       "url": "https://www-cdn.anthropic.com/30bf50e22a01388bb29bf077ee3f244531594b7a.pdf",
@@ -48,7 +37,7 @@
       "group": "ai",
       "published": "2026-08-18T22:55:40.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "Automated processing of raw NMR and LC-MS data with Claude Opus 5 on Claude Science - www-cdn.anthropic.com",
@@ -59,7 +48,40 @@
       "group": "ai",
       "published": "2026-08-18T23:24:10.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "Offering Zero Data Retention for frontier models",
+      "summary": "Previewing Private Safety Processing, which strengthens safeguards across interactions while remaining compatible with ZDR.",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-19T19:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "summary": "Replit is introducing Free Mode, powered by GPT‑5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "url": "https://openai.com/index/replit",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-19T07:00:00.000Z",
+      "why": null,
+      "ago": "16 小時前"
+    },
+    {
+      "title": "How Claude is accelerating protein design and analytical chemistry",
+      "summary": "Summary: In this post, we share two results that show how Claude can help life scientists increase the pace of their research.",
+      "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-18T22:14:57.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "ChatGPT Ads expands across Europe",
@@ -69,28 +91,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-08-18T22:00:00.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Strengthening democratic oversight in national security",
-      "summary": "OpenAI is launching a new initiative to help democratic oversight bodies develop the expertise and tools they need to understand and oversee government use of AI for national security.",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-18T19:00:00.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "summary": "Today’s students will be the first generation to grow up with AI as part of everyday life.",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-18T11:00:00.000Z",
       "why": null,
       "ago": "昨日"
     }

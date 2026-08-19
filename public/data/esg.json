@@ -1,43 +1,87 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-19T13:34:57.012Z",
-  "updatedLocal": "2026/8/19 21:34:57",
+  "updated": "2026-08-19T22:47:38.567Z",
+  "updatedLocal": "2026/8/20 06:47:38",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Apply now for the Trellis 30 Under 30 climate leaders 2026",
-      "summary": "The annual Trellis 30 Under 30 list honors individuals who have made a specific, direct, measurable impact by addressing climate change through their professional roles.",
-      "url": "https://trellis.net/article/apply-trellis-30-under-30-2026/",
+      "title": "How cruise control and book-and-claim can decarbonize US railroads",
+      "summary": "Shifting freight from road to rail could avoid the release of millions of tons of carbon dioxide and help companies cut shipping emissions.",
+      "url": "https://trellis.net/article/norfolk-southern-emissions-2025/",
       "source": "Trellis",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-18T10:00:00.000Z",
+      "published": "2026-08-19T22:06:10.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "41 分鐘前"
     },
     {
-      "title": "Kimberly-Clark turns away from ‘natural’ trees to make toilet paper",
-      "summary": "Two years after making a “natural forest-free” paper sourcing commitment, Kimberly-Clark is building a manufacturing plant to scale its use of hesperaloe, one of 70 regenerative natural fibers it has tabbed as an alternative to wood pulp.",
-      "url": "https://trellis.net/article/kimberly-clark-turns-away-from-natural-trees-to-make-toilet-paper/",
+      "title": "This new framework measures corporate chemical footprints",
+      "summary": "The Safer Chemistry Impact Fund (SCI Fund), an initiative backed by Google and Apple, has released a framework that companies can tap to measure chemicals used in their products and supply chains, flag potential hazards and track progress in addressing them.",
+      "url": "https://trellis.net/article/this-new-framework-measures-corporate-chemical-footprints/",
       "source": "Trellis",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-18T10:00:00.000Z",
+      "published": "2026-08-19T15:49:35.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "7 小時前"
     },
     {
-      "title": "For B2B companies, certifications lose their power in turbulent times like these",
-      "summary": "The opinions expressed here by Trellis expert contributors are their own, not those of Trellis or its editors .",
-      "url": "https://trellis.net/article/b2b-certifications-lose-power-turbulent-times/",
-      "source": "Trellis",
+      "title": "Green groups debunk Tory claims that ditching net-zero would cut energy bills",
+      "summary": "At the launch of a new report from Conservative-aligned think tank Onward, Shadow Energy Security Claire Coutinho raised questions over the cost of clean power.",
+      "url": "https://www.edie.net/green-groups-debunk-tory-claims-that-ditching-net-zero-would-cut-energy-bills/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-18T09:15:00.000Z",
+      "published": "2026-08-19T21:06:54.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Schott drops ‘climate-neutral’ production goal in favour of SBTi targets",
+      "summary": "The glass manufacturer has announced that it is abandoning its offset-reliant, climate-neutral goal for 2030, focusing instead on newly validated science-based targets.",
+      "url": "https://www.edie.net/schott-drops-climate-neutral-production-goal-in-favour-of-sbti-targets/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-19T16:24:22.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "New Zealand curbs climate harm lawsuits against companies",
+      "summary": "The New Zealand Government has passed controversial legislation to prevent lawsuits from being carried out that hold companies liable for damage due to climate change.",
+      "url": "https://www.edie.net/new-zealand-curbs-legal-claims-against-firms-over-climate-related-harm/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-19T15:18:18.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "US Government wants business exemptions from ‘onerous’ EU CSRD and CSDDD",
+      "summary": "The US Government has called on the European Union to revisit changes to both the Corporate Sustainability Due Diligence Directive (CSDDD) and the Corporate Sustainability Reporting Directive (CSRD), stating that it places ‘costly and onerous’ obligations on US businesses aiming to sell into Europe.",
+      "url": "https://www.edie.net/us-government-wants-business-exemptions-from-onerous-eu-csrd-and-csddd/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-19T14:27:55.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "FOUR WEEKS to go until edie’s Sustainable Supply Chains Summit",
+      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
+      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-19T14:00:03.000Z",
+      "why": null,
+      "ago": "9 小時前"
     },
     {
       "title": "UK’s over-reliance on climate-vulnerable countries threatens fresh food supply",
@@ -48,40 +92,7 @@
       "group": null,
       "published": "2026-08-19T10:23:28.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "New guide aims to help councils unlock community solar",
-      "summary": "With Great British Energy set to open a new Partnership Fund for joint council and community energy projects soon, a new guide aims to help these collaborations scale.",
-      "url": "https://www.edie.net/new-guide-aims-to-help-councils-unlock-community-solar/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-18T14:57:30.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "edie 27 launches Energy Zone to connect solution providers with businesses investing in efficiency, security and decarbonisation",
-      "summary": "As organisations face rising costs, energy security concerns, regulatory pressure and the need to decarbonise, decision–makers are looking for practical ways to reduce consumption, improve performance, strengthen resilience and prove the return on investment from energy upgrades.",
-      "url": "https://www.edie.net/edie-27-launches-energy-zone-to-connect-solution-providers-with-businesses-investing-in-efficiency-security-and-decarbonisation/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-18T14:17:28.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "FOUR WEEKS to go until edie’s Sustainable Supply Chains Summit",
-      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
-      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-18T14:00:03.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Q&A: What is ‘long-duration energy storage’ – and why does the UK need it?",
@@ -92,21 +103,10 @@
       "group": null,
       "published": "2026-08-19T11:18:11.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "想吹更涼又省電，先調溫度還是風量？變頻冷氣一直開才划算？台電解答七大常見冷氣迷思",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243781",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-18T14:24:12.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "台灣最老地下電纜已60年 台電2年砸50億更新六都管線",
+      "title": "台灣最老地下電纜已60年 台電2年砸50億更新六都管線 - e-info.org.tw",
       "summary": null,
       "url": "https://e-info.org.tw/node/243783",
       "source": "環境資訊中心",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-08-19T02:36:29.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "20 小時前"
     }
   ],
   "errors": []
