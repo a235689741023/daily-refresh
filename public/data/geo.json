@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-18T22:46:46.924Z",
-  "updatedLocal": "2026/8/19 06:46:46",
+  "updated": "2026-08-19T03:49:31.363Z",
+  "updatedLocal": "2026/8/19 11:49:31",
   "digest": null,
   "watch": [],
   "items": [
@@ -29,6 +29,17 @@
       "ago": "5 天前"
     },
     {
+      "title": "How Claude is accelerating protein design and analytical chemistry",
+      "summary": "Summary: In this post, we share two results that show how Claude can help life scientists increase the pace of their research.",
+      "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-18T22:14:57.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
       "title": "Strengthening democratic oversight in national security",
       "summary": "OpenAI is launching a new initiative to help democratic oversight bodies develop the expertise and tools they need to understand and oversee government use of AI for national security.",
       "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
@@ -37,7 +48,7 @@
       "group": "ai",
       "published": "2026-08-18T19:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Partnering with CodeAI to prepare the first AI generation",
@@ -48,7 +59,7 @@
       "group": "ai",
       "published": "2026-08-18T11:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Pacing model development in an era of cyber-critical capabilities",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-08-18T11:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
@@ -70,7 +81,7 @@
       "group": "ai",
       "published": "2026-08-18T11:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
@@ -81,18 +92,7 @@
       "group": "ai",
       "published": "2026-08-18T07:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "We still don’t know how people are really using AI",
-      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-08-18T10:06:43.000Z",
-      "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     }
   ],
   "errors": []
