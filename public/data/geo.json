@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-19T03:49:31.363Z",
-  "updatedLocal": "2026/8/19 11:49:31",
+  "updated": "2026-08-19T13:34:57.012Z",
+  "updatedLocal": "2026/8/19 21:34:57",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-08-13T22:00:16.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
       "title": "How Claude is accelerating protein design and analytical chemistry",
@@ -37,7 +37,40 @@
       "group": "ai",
       "published": "2026-08-18T22:14:57.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "15 小時前"
+    },
+    {
+      "title": "Autonomous de novo protein binder design with Claude - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/30bf50e22a01388bb29bf077ee3f244531594b7a.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-18T22:55:40.000Z",
+      "why": null,
+      "ago": "15 小時前"
+    },
+    {
+      "title": "Automated processing of raw NMR and LC-MS data with Claude Opus 5 on Claude Science - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/9f08da5189ac269b3242ca760de9823805c3f5f6.pdf/",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-18T23:24:10.000Z",
+      "why": null,
+      "ago": "14 小時前"
+    },
+    {
+      "title": "ChatGPT Ads expands across Europe",
+      "summary": "Six months after we began testing ads in the U.S., we’re bringing ChatGPT Ads to 31 European markets.",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-18T22:00:00.000Z",
+      "why": null,
+      "ago": "16 小時前"
     },
     {
       "title": "Strengthening democratic oversight in national security",
@@ -48,7 +81,7 @@
       "group": "ai",
       "published": "2026-08-18T19:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Partnering with CodeAI to prepare the first AI generation",
@@ -59,40 +92,7 @@
       "group": "ai",
       "published": "2026-08-18T11:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "summary": "Over the past several weeks, two developments have underscored the growing risks associated with increasingly capable AI systems: the OpenAI-Hugging Face incident and, separately, preliminary evidence that one of our upcoming models, Astra, may meet the Critical cybersecurity capability threshold under our Preparedness Framework .",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-18T11:00:00.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "summary": "We’re introducing ChatGPT for Teens, an experience designed to help teens learn, think critically, deepen understanding, and use AI with confidence.",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-18T11:00:00.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "summary": "Using OpenAI Codex, Asana replaced an outdated testing system in two weeks for about $12K.",
-      "url": "https://openai.com/index/asana",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-18T07:00:00.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
