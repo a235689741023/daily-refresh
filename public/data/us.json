@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-20T03:49:25.658Z",
-  "updatedLocal": "2026/8/20 11:49:25",
+  "updated": "2026-08-20T13:36:30.415Z",
+  "updatedLocal": "2026/8/20 21:36:30",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-20T02:39:14.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-19T18:54:50.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-08-19T21:05:31.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Retail investors aren't entirely giving up on AI trade, but they appear more cautious",
@@ -47,28 +47,6 @@
       "tag": "大盤",
       "group": null,
       "published": "2026-08-19T11:09:33.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Goldman studied where AI is squeezing labor markets. Here's what it found",
-      "summary": "Artificial intelligence is starting to weigh on labor market across major developed economies, with effects varying across industries and seniority levels, according to Goldman Sachs.",
-      "url": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-19T06:55:57.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "What Chinese liquor maker Moutai's slump says about the country's economy",
-      "summary": "BEIJING — Walk down most streets in China and you'll find a liquor store advertising premium spirits brand Moutai, along with posters of resale prices by vintage year.",
-      "url": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-18T23:58:09.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -81,7 +59,7 @@
       "group": null,
       "published": "2026-08-19T22:34:33.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
@@ -92,29 +70,51 @@
       "group": null,
       "published": "2026-08-19T21:29:38.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "16 小時前"
     },
     {
-      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "title": "Treasury’s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here’s its advice for investors.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/treasurys-bond-buyback-blitz-may-end-up-driving-yields-higher-warns-jpmorgan-heres-their-investment-advice-b8f507be?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-19T23:30:00.000Z",
+      "published": "2026-08-20T13:33:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "4 分鐘前"
     },
     {
-      "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have ultimate authority?",
+      "title": "Walmart’s stock slides as U.S. sales are hit by falling drug prices",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-19T23:15:00.000Z",
+      "published": "2026-08-20T13:17:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "20 分鐘前"
+    },
+    {
+      "title": "‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-20T13:15:00.000Z",
+      "why": null,
+      "ago": "22 分鐘前"
+    },
+    {
+      "title": "You’ve all heard AI is remaking the economy. Here’s how it’s changing lives — for better or worse.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/youve-all-heard-ai-is-remaking-the-economy-heres-how-its-changing-lives-for-better-or-worse-447bd086?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-20T13:00:00.000Z",
+      "why": null,
+      "ago": "37 分鐘前"
     }
   ],
   "errors": []

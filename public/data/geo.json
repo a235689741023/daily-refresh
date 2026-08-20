@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-20T03:49:25.658Z",
-  "updatedLocal": "2026/8/20 11:49:25",
+  "updated": "2026-08-20T13:36:30.415Z",
+  "updatedLocal": "2026/8/20 21:36:30",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-08-13T22:00:16.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
     },
     {
       "title": "Offering Zero Data Retention for frontier models",
@@ -37,62 +37,62 @@
       "group": "ai",
       "published": "2026-08-19T19:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "19 小時前"
     },
     {
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "summary": "Replit is introducing Free Mode, powered by GPT‑5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-      "url": "https://openai.com/index/replit",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "Unlocking hidden revenue streams with market models",
+      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections.",
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-08-19T07:00:00.000Z",
+      "published": "2026-08-20T09:47:22.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "4 小時前"
     },
     {
-      "title": "Automated processing of raw NMR and LC-MS data with Claude Opus 5 on Claude Science - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/9f08da5189ac269b3242ca760de9823805c3f5f6.pdf/",
-      "source": "Anthropic",
+      "title": "5 new ways to level up your learning with Search",
+      "summary": "We’re introducing tools to help you learn new concepts, tackle tricky subjects, and organize your study sessions with AI in Search.",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "source": "Google AI Blog",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-18T23:24:10.000Z",
+      "published": "2026-08-19T19:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "19 小時前"
     },
     {
-      "title": "Autonomous de novo protein binder design with Claude - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/30bf50e22a01388bb29bf077ee3f244531594b7a.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
+      "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
+      "summary": "GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today.",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
       "group": "ai",
-      "published": "2026-08-18T22:55:40.000Z",
+      "published": "2026-08-20T13:00:24.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "36 分鐘前"
     },
     {
-      "title": "How Claude is accelerating protein design and analytical chemistry",
-      "summary": "Summary: In this post, we share two results that show how Claude can help life scientists increase the pace of their research.",
-      "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-      "source": "Anthropic",
-      "tag": "模型",
+      "title": "EU AI Act Guard Models Cannot Read Rules: Deleting Policy Leaves Verdicts Unchanged",
+      "summary": "A preprint submitted to arXiv on August 17 documents what enterprises now subject to EU AI Act enforcement cannot afford to hear: the guard models and activation probes they have deployed to demonstrate regulatory compliance cannot actually read the rules those tools are supposed to apply.",
+      "url": "https://www.techtimes.com/articles/324937/20260819/eu-ai-act-guard-models-cannot-read-rules-deleting-policy-leaves-verdicts-unchanged.htm",
+      "source": "Tech Times",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-08-18T22:14:57.000Z",
+      "published": "2026-08-19T13:51:09.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "24 小時前"
     },
     {
-      "title": "ChatGPT Ads expands across Europe",
-      "summary": "Six months after we began testing ads in the U.S., we’re bringing ChatGPT Ads to 31 European markets.",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "Ripple CTO Emeritus: AI Safety Rules and Copyright Laws Pose Threat to Free Speech",
+      "summary": "His argument centers on who gets to decide what AI systems can create, know, and discuss. Schwartz laid out the case in a reply thread on X that started almost by accident.",
+      "url": "https://cryptopotato.com/ripple-cto-emeritus-ai-safety-rules-and-copyright-laws-pose-threat-to-free-speech/",
+      "source": "CryptoPotato",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-08-18T22:00:00.000Z",
+      "published": "2026-08-19T22:08:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "15 小時前"
     }
   ],
   "errors": []
