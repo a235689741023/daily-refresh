@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-20T13:36:30.415Z",
-  "updatedLocal": "2026/8/20 21:36:30",
+  "updated": "2026-08-20T22:51:25.635Z",
+  "updatedLocal": "2026/8/21 06:51:25",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,51 @@
       "group": null,
       "published": "2026-08-19T22:06:10.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "This new framework measures corporate chemical footprints",
-      "summary": "The Safer Chemistry Impact Fund (SCI Fund), an initiative backed by Google and Apple, has released a framework that companies can tap to measure chemicals used in their products and supply chains, flag potential hazards and track progress in addressing them.",
-      "url": "https://trellis.net/article/this-new-framework-measures-corporate-chemical-footprints/",
-      "source": "Trellis",
+      "title": "‘Deeply rooted, delivering value’: The changing role of the CSO",
+      "summary": "The number of chief sustainability officers in US firms has dropped 10% in the past year. Here, edie unpacks what that headline figure could mean and how the role has evolved in recent years.",
+      "url": "https://www.edie.net/deeply-rooted-delivering-value-the-changing-role-of-the-cso/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-19T15:49:35.000Z",
+      "published": "2026-08-20T20:24:36.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Majority of cities and regions using nature to tackle climate change, finds CDP",
+      "summary": "Nature-based solutions are being used by 55% of global cities, states and regions as climate-adaptation measures, environmental disclosure platform CDP has revealed.",
+      "url": "https://www.edie.net/majority-of-cities-and-regions-using-nature-to-tackle-climate-change-finds-cdp/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-20T16:16:09.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "The A-Z of Energy Procurement: Defining and explaining changes to energy markets and reporting",
+      "summary": "With the GHG Protocol set to overhaul reporting requirements for energy reporting, many businesses are exploring new approaches to energy procurement.",
+      "url": "https://www.edie.net/the-a-z-of-energy-procurement-defining-and-explaining-changes-to-energy-markets-and-reporting/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-20T14:23:21.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "FOUR WEEKS to go until edie’s Sustainable Supply Chains Summit",
+      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
+      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-20T14:00:03.000Z",
+      "why": null,
+      "ago": "9 小時前"
     },
     {
       "title": "Scotland’s AI Growth Zone secures £300m investment",
@@ -37,7 +70,7 @@
       "group": null,
       "published": "2026-08-20T11:05:57.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Welsh Government announces new net-zero by 2040 target",
@@ -48,7 +81,7 @@
       "group": null,
       "published": "2026-08-20T10:10:46.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Unlocking the value of bio-based materials in the built environment",
@@ -59,7 +92,18 @@
       "group": null,
       "published": "2026-08-20T09:03:59.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "14 小時前"
+    },
+    {
+      "title": "Factcheck: 10 flaws in the Conservative report on ‘cheap power’",
+      "summary": "In a new report , the opposition Conservatives argue that UK electricity prices are too high and that it would be better for the climate to have cheap electricity, even if that means using more gas.",
+      "url": "https://www.carbonbrief.org/factcheck-10-flaws-in-the-conservative-report-on-cheap-power",
+      "source": "Carbon Brief",
+      "tag": "氣候",
+      "group": null,
+      "published": "2026-08-20T15:56:40.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "Green groups debunk Tory claims that ditching net-zero would cut energy bills",
@@ -70,52 +114,39 @@
       "group": null,
       "published": "2026-08-19T21:06:54.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Schott drops ‘climate-neutral’ production goal in favour of SBTi targets",
-      "summary": "The glass manufacturer has announced that it is abandoning its offset-reliant, climate-neutral goal for 2030, focusing instead on newly validated science-based targets.",
-      "url": "https://www.edie.net/schott-drops-climate-neutral-production-goal-in-favour-of-sbti-targets/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-19T16:24:22.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "New Zealand curbs climate harm lawsuits against companies",
-      "summary": "The New Zealand Government has passed controversial legislation to prevent lawsuits from being carried out that hold companies liable for damage due to climate change.",
-      "url": "https://www.edie.net/new-zealand-curbs-legal-claims-against-firms-over-climate-related-harm/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-19T15:18:18.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "US Government wants business exemptions from ‘onerous’ EU CSRD and CSDDD",
-      "summary": "The US Government has called on the European Union to revisit changes to both the Corporate Sustainability Due Diligence Directive (CSDDD) and the Corporate Sustainability Reporting Directive (CSRD), stating that it places ‘costly and onerous’ obligations on US businesses aiming to sell into Europe.",
-      "url": "https://www.edie.net/us-government-wants-business-exemptions-from-onerous-eu-csrd-and-csddd/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-19T14:27:55.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "FOUR WEEKS to go until edie’s Sustainable Supply Chains Summit",
-      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
-      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-19T14:00:03.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "昨日"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "國際法規",
+      "url": "https://news.google.com/rss/search?q=CSRD%20OR%20CBAM%20OR%20%22IFRS%20S2%22%20OR%20ISSB%20sustainability%20disclosure&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "ESG Today",
+      "url": "https://news.google.com/rss/search?q=site%3Aesgtoday.com&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "環境資訊中心",
+      "url": "https://news.google.com/rss/search?q=site%3Ae-info.org.tw&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "台灣永續政策",
+      "url": "https://news.google.com/rss/search?q=%E7%A2%B3%E8%B2%BB%20OR%20%E7%A2%B3%E4%BA%A4%E6%98%93%20OR%20%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8%20OR%20%E6%B7%A8%E9%9B%B6%20%E5%8F%B0%E7%81%A3&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "CSRone",
+      "url": "https://news.google.com/rss/search?q=site%3Acsrone.com&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "永續人才",
+      "url": "https://news.google.com/rss/search?q=%E6%B0%B8%E7%BA%8C%20%E4%BA%BA%E6%89%8D%20OR%20%E8%81%B7%E7%BC%BA%20OR%20ESG%20%E4%BA%BA%E5%8A%9B&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "message": "HTTP 503 Service Unavailable"
+    }
+  ]
 }
