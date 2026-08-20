@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-19T22:47:38.567Z",
-  "updatedLocal": "2026/8/20 06:47:38",
+  "updated": "2026-08-20T03:49:25.658Z",
+  "updatedLocal": "2026/8/20 11:49:25",
   "digest": null,
   "watch": [],
   "items": [
@@ -29,28 +29,6 @@
       "ago": "6 天前"
     },
     {
-      "title": "Autonomous de novo protein binder design with Claude - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/30bf50e22a01388bb29bf077ee3f244531594b7a.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-18T22:55:40.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "Automated processing of raw NMR and LC-MS data with Claude Opus 5 on Claude Science - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/9f08da5189ac269b3242ca760de9823805c3f5f6.pdf/",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-18T23:24:10.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
       "title": "Offering Zero Data Retention for frontier models",
       "summary": "Previewing Private Safety Processing, which strengthens safeguards across interactions while remaining compatible with ZDR.",
       "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
@@ -59,7 +37,7 @@
       "group": "ai",
       "published": "2026-08-19T19:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Replit expands access to software creation with GPT-5.6 Luna",
@@ -70,7 +48,29 @@
       "group": "ai",
       "published": "2026-08-19T07:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "Automated processing of raw NMR and LC-MS data with Claude Opus 5 on Claude Science - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/9f08da5189ac269b3242ca760de9823805c3f5f6.pdf/",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-18T23:24:10.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Autonomous de novo protein binder design with Claude - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/30bf50e22a01388bb29bf077ee3f244531594b7a.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-18T22:55:40.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "How Claude is accelerating protein design and analytical chemistry",

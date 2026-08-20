@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-19T22:47:38.567Z",
-  "updatedLocal": "2026/8/20 06:47:38",
+  "updated": "2026-08-20T03:49:25.658Z",
+  "updatedLocal": "2026/8/20 11:49:25",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "China is defying the global bond yield surge, boosting its diversification appeal",
+      "summary": "BEIJING — Chinese government bonds can play an important role in portfolio diversification as they are likely to continue behaving differently from other countries' debt, strategists say.",
+      "url": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-20T02:39:14.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
     {
       "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
       "summary": "Federal Reserve officials indicated at their last meeting that they would need to raise interest rates soon unless there was more progress on bringing down inflation, minutes released Wednesday showed.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-08-19T18:54:50.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-08-19T21:05:31.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Retail investors aren't entirely giving up on AI trade, but they appear more cautious",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-08-19T11:09:33.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Goldman studied where AI is squeezing labor markets. Here's what it found",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-08-19T06:55:57.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "What Chinese liquor maker Moutai's slump says about the country's economy",
@@ -58,39 +69,6 @@
       "tag": "大盤",
       "group": null,
       "published": "2026-08-18T23:58:09.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner",
-      "summary": "Los Angeles Lakers governor Jeanie Buss is opposing the potential sale of her family's stake in the NBA team, contradicting an earlier ESPN report about the family's decision to sell to Bob Iger and Joshua Kushner.",
-      "url": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-18T21:29:03.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf",
-      "summary": "Prediction market platform Kalshi in a regulatory filing on Tuesday revealed it is seeking to launch perpetual futures tied to equity indexes.",
-      "url": "https://www.cnbc.com/2026/08/18/kalshi-wants-to-launch-perps-tied-to-equity-indexes.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-18T16:49:55.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
-      "summary": "There's something telling in how the smart money on Wall Street has started to think about socialism.",
-      "url": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-18T16:48:00.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -103,7 +81,7 @@
       "group": null,
       "published": "2026-08-19T22:34:33.000Z",
       "why": null,
-      "ago": "13 分鐘前"
+      "ago": "5 小時前"
     },
     {
       "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
@@ -114,7 +92,29 @@
       "group": null,
       "published": "2026-08-19T21:29:38.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "6 小時前"
+    },
+    {
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-19T23:30:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have ultimate authority?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-19T23:15:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     }
   ],
   "errors": []
