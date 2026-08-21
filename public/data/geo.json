@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-21T03:52:38.236Z",
-  "updatedLocal": "2026/8/21 11:52:38",
+  "updated": "2026-08-21T13:35:41.960Z",
+  "updatedLocal": "2026/8/21 21:35:41",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Deploy an enterprise geodatabase in PostgreSQL",
+      "summary": "PostgreSQL is a popular choice for organizations building flexible, open-source GIS infrastructures.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/data-management/deploy-an-enterprise-geodatabase-in-postgresql",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-08-19T23:35:20.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
     {
       "title": "ArcGIS Solutions 2026 Product Roadmap",
       "summary": "ArcGIS Solutions are industry-specific configurations of ArcGIS that align with your business needs, transform your use of ArcGIS, and help you maximize the investment you are making in location-based data and technology.",
@@ -18,26 +29,15 @@
       "ago": "4 天前"
     },
     {
-      "title": "Introducing AI Futures",
-      "summary": "The post below reflects the views of its author, and not necessarily those of any other OpenAI employees or of the organization as a whole.",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "source": "OpenAI",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "summary": "From Atari to Go to StarCraft, games have driven some of the biggest breakthroughs in AI.",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "Google DeepMind",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-20T07:00:00.000Z",
+      "published": "2026-08-21T11:59:48.000Z",
       "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "url": "https://openai.com/index/stampli",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-20T00:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "2 小時前"
     },
     {
       "title": "Debates over AI consciousness are a trap",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-08-20T15:42:39.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Unlocking hidden revenue streams with market models",
@@ -59,18 +59,18 @@
       "group": "ai",
       "published": "2026-08-20T09:47:22.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
-      "summary": "GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today.",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
+      "title": "Anthropic Watermarks Claude to Meet New EU AI Act Rules",
+      "summary": null,
+      "url": "https://businesschief.com/news/anthropic-watermarks-claude-to-meet-new-eu-ai-act-rules",
+      "source": "Business Chief",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-08-20T13:00:24.000Z",
+      "published": "2026-08-21T03:42:21.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Anthropic and OpenAI Split as Massachusetts Pushes Nation’s Toughest AI Safety Rules",
@@ -81,7 +81,18 @@
       "group": "ai",
       "published": "2026-08-20T14:22:11.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "The EU’s AI Act Now Requires Disclosure — Or a €15M Fine",
+      "summary": "The European Union enacted its AI Act two years ago, but the transparency laws outlined in Article 50 only took effect on August 2, 2026.",
+      "url": "https://sociable.co/government-and-policy/eu-ai-act-disclosure-15m-fine/",
+      "source": "sociable.co",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-20T15:27:51.000Z",
+      "why": null,
+      "ago": "22 小時前"
     }
   ],
   "errors": []

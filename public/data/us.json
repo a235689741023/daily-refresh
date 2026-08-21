@@ -1,32 +1,43 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-21T03:52:38.236Z",
-  "updatedLocal": "2026/8/21 11:52:38",
+  "updated": "2026-08-21T13:35:41.960Z",
+  "updatedLocal": "2026/8/21 21:35:41",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better",
+      "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
+      "summary": "Samsung Electronics has announced a shareholder return package, marking a blockbuster week for shareholder returns among South Korea's chip giants following SK Hynix's share buyback.",
+      "url": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-21T09:08:18.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target",
+      "summary": "Shares of Pop Mart fell over 4% in Hong Kong on Friday after the Labubu maker reported first-half results that showed declining sales in Asia-Pacific and the Americas.",
+      "url": "https://www.cnbc.com/2026/08/21/labubu-maker-pop-mart-shares-fall-after-sales-drop-in-asia-americas-.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-21T07:18:33.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Chinese humanoid robots' biggest obstacle: Humans are still (mostly) better",
       "summary": "BEIJING — The big challenge for humanoid robots is still getting the technology to work well, according to industry leaders speaking alongside the World Robot Conference in Beijing this week.",
       "url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-21T01:56:01.000Z",
+      "published": "2026-08-21T09:30:55.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "China is defying the global bond yield surge, boosting its diversification appeal",
-      "summary": "BEIJING — Chinese government bonds can play an important role in portfolio diversification as they are likely to continue behaving differently from other countries' debt, strategists say.",
-      "url": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-20T02:39:14.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "4 小時前"
     },
     {
       "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
@@ -35,9 +46,9 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-08-20T21:13:14.000Z",
+      "published": "2026-08-21T12:43:04.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "53 分鐘前"
     },
     {
       "title": "Bessent says there's a 'very good chance' U.S. budget deficit under Trump has peaked",
@@ -46,9 +57,9 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-08-20T16:23:57.000Z",
+      "published": "2026-08-21T13:11:41.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "24 分鐘前"
     },
     {
       "title": "Bessent says Treasury buyback operation could be more than $4 billion",
@@ -59,18 +70,29 @@
       "group": null,
       "published": "2026-08-20T15:35:33.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "title": "Here are three key takeaways from the disappointing July jobs report",
+      "summary": "Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals on how to process the latest jobs report.",
+      "url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-08-21T08:36:07.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Nvidia earnings could rescue a stalled-out stock market — if the AI chip maker breaks this trend",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/nvidia-earnings-could-rescue-a-stalling-stock-market-if-the-ai-chip-maker-breaks-this-trend-9b6504bc?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-20T23:00:00.000Z",
+      "published": "2026-08-21T13:33:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "3 分鐘前"
     },
     {
       "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
@@ -79,42 +101,20 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-20T22:45:00.000Z",
+      "published": "2026-08-21T13:30:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "6 分鐘前"
     },
     {
-      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
+      "title": "‘It’s truly a tragedy’: My daughter hasn’t spoken to me for 4 years, but it has nothing to do with politics",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-20T22:00:00.000Z",
+      "published": "2026-08-21T13:15:00.000Z",
       "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-20T21:01:00.000Z",
-      "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Anxious bond market sends troubling message to investors: There’s no easy fix for U.S. debt",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-20T19:40:00.000Z",
-      "why": null,
-      "ago": "8 小時前"
+      "ago": "21 分鐘前"
     }
   ],
   "errors": []
