@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-20T22:51:25.635Z",
-  "updatedLocal": "2026/8/21 06:51:25",
+  "updated": "2026-08-21T03:52:38.236Z",
+  "updatedLocal": "2026/8/21 11:52:38",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "ArcGIS Solutions 2026 Product Roadmap",
+      "summary": "ArcGIS Solutions are industry-specific configurations of ArcGIS that align with your business needs, transform your use of ArcGIS, and help you maximize the investment you are making in location-based data and technology.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-solutions/announcements/arcgis-solutions-2026-product-roadmap",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-08-17T07:00:00.000Z",
+      "why": null,
+      "ago": "4 天前"
+    },
     {
       "title": "Introducing AI Futures",
       "summary": "The post below reflects the views of its author, and not necessarily those of any other OpenAI employees or of the organization as a whole.",
@@ -15,7 +26,7 @@
       "group": "ai",
       "published": "2026-08-20T07:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
@@ -25,17 +36,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-08-20T00:00:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Offering Zero Data Retention for frontier models",
-      "summary": "Previewing Private Safety Processing, which strengthens safeguards across interactions while remaining compatible with ZDR.",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-19T19:00:00.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-08-20T15:42:39.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Unlocking hidden revenue streams with market models",
@@ -59,40 +59,30 @@
       "group": "ai",
       "published": "2026-08-20T09:47:22.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "18 小時前"
     },
     {
-      "title": "5 new ways to level up your learning with Search",
-      "summary": "We’re introducing tools to help you learn new concepts, tackle tricky subjects, and organize your study sessions with AI in Search.",
-      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "source": "Google AI Blog",
-      "tag": "模型",
+      "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
+      "summary": "GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today.",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
       "group": "ai",
-      "published": "2026-08-19T19:00:00.000Z",
+      "published": "2026-08-20T13:00:24.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "15 小時前"
+    },
+    {
+      "title": "Anthropic and OpenAI Split as Massachusetts Pushes Nation’s Toughest AI Safety Rules",
+      "summary": "Anthropic and OpenAI are divided on their views of a Massachusetts proposal that would establish a process in the state for evaluating the safety of artificial intelligence models, Bloomberg reported Thursday (Aug. 20).",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-openai-split-as-massachusetts-pushes-nations-toughest-ai-safety-rules/",
+      "source": "PYMNTS.com",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-20T14:22:11.000Z",
+      "why": null,
+      "ago": "14 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "GIS × AI 研究",
-      "url": "https://news.google.com/rss/search?q=geospatial%20AI%20OR%20%22spatial%20AI%22%20OR%20%22remote%20sensing%22%20foundation%20model&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "AI 政策",
-      "url": "https://news.google.com/rss/search?q=%22AI%20Act%22%20OR%20%22frontier%20AI%22%20OR%20%22AI%20safety%22%20OR%20%22export%20controls%22%20AI%20regulation&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "ArcGIS Blog",
-      "url": "https://news.google.com/rss/search?q=site%3Aesri.com%2Farcgis-blog&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "Anthropic",
-      "url": "https://news.google.com/rss/search?q=site%3Aanthropic.com&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    }
-  ]
+  "errors": []
 }

@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-20T22:51:25.635Z",
-  "updatedLocal": "2026/8/21 06:51:25",
+  "updated": "2026-08-21T03:52:38.236Z",
+  "updatedLocal": "2026/8/21 11:52:38",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better",
+      "summary": "BEIJING — The big challenge for humanoid robots is still getting the technology to work well, according to industry leaders speaking alongside the World Robot Conference in Beijing this week.",
+      "url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-21T01:56:01.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "China is defying the global bond yield surge, boosting its diversification appeal",
       "summary": "BEIJING — Chinese government bonds can play an important role in portfolio diversification as they are likely to continue behaving differently from other countries' debt, strategists say.",
@@ -14,28 +25,6 @@
       "tag": "大盤",
       "group": null,
       "published": "2026-08-20T02:39:14.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
-      "summary": "Carvana shares are headed for about a 7% weekly loss as a federal investigation into billionaire Mark Walter shines a spotlight on his minority stake in the online used-car retailer.",
-      "url": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-19T21:05:31.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
-      "summary": "Federal Reserve officials indicated at their last meeting that they would need to raise interest rates soon unless there was more progress on bringing down inflation, minutes released Wednesday showed.",
-      "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-19T18:54:50.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -48,7 +37,7 @@
       "group": null,
       "published": "2026-08-20T21:13:14.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Bessent says there's a 'very good chance' U.S. budget deficit under Trump has peaked",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-08-20T16:23:57.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Bessent says Treasury buyback operation could be more than $4 billion",
@@ -70,7 +59,18 @@
       "group": null,
       "published": "2026-08-20T15:35:33.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-20T23:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-08-20T22:45:00.000Z",
       "why": null,
-      "ago": "6 分鐘前"
+      "ago": "5 小時前"
     },
     {
       "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-08-20T22:00:00.000Z",
       "why": null,
-      "ago": "51 分鐘前"
+      "ago": "6 小時前"
     },
     {
       "title": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
@@ -103,7 +103,7 @@
       "group": null,
       "published": "2026-08-20T21:01:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Anxious bond market sends troubling message to investors: There’s no easy fix for U.S. debt",
@@ -114,24 +114,8 @@
       "group": null,
       "published": "2026-08-20T19:40:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "8 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "Bloomberg",
-      "url": "https://news.google.com/rss/search?q=site%3Abloomberg.com%20markets%20OR%20earnings&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "Reuters 財經",
-      "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20stock%20market%20OR%20Federal%20Reserve&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "財報",
-      "url": "https://news.google.com/rss/search?q=earnings%20beat%20OR%20earnings%20miss%20guidance%20S%26P%20500&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    }
-  ]
+  "errors": []
 }

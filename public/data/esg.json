@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-20T22:51:25.635Z",
-  "updatedLocal": "2026/8/21 06:51:25",
+  "updated": "2026-08-21T03:52:38.236Z",
+  "updatedLocal": "2026/8/21 11:52:38",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-20T20:24:36.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Majority of cities and regions using nature to tackle climate change, finds CDP",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-08-20T16:16:09.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "The A-Z of Energy Procurement: Defining and explaining changes to energy markets and reporting",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-08-20T14:23:21.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "FOUR WEEKS to go until edie’s Sustainable Supply Chains Summit",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-08-20T14:00:03.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Scotland’s AI Growth Zone secures £300m investment",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-08-20T11:05:57.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Welsh Government announces new net-zero by 2040 target",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-08-20T10:10:46.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Unlocking the value of bio-based materials in the built environment",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-08-20T09:03:59.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Factcheck: 10 flaws in the Conservative report on ‘cheap power’",
@@ -103,50 +103,19 @@
       "group": null,
       "published": "2026-08-20T15:56:40.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "Green groups debunk Tory claims that ditching net-zero would cut energy bills",
-      "summary": "At the launch of a new report from Conservative-aligned think tank Onward, Shadow Energy Security Claire Coutinho raised questions over the cost of clean power.",
-      "url": "https://www.edie.net/green-groups-debunk-tory-claims-that-ditching-net-zero-would-cut-energy-bills/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "馬太鞍在淹沒稻田辦豐年祭、國軍訓練場遭填廢棄物撈13億、澳洲通過立法科技巨頭不談新聞合作就課稅",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243790",
+      "source": "環境資訊中心",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-08-19T21:06:54.000Z",
+      "published": "2026-08-21T03:26:20.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "26 分鐘前"
     }
   ],
-  "errors": [
-    {
-      "source": "國際法規",
-      "url": "https://news.google.com/rss/search?q=CSRD%20OR%20CBAM%20OR%20%22IFRS%20S2%22%20OR%20ISSB%20sustainability%20disclosure&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "ESG Today",
-      "url": "https://news.google.com/rss/search?q=site%3Aesgtoday.com&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "環境資訊中心",
-      "url": "https://news.google.com/rss/search?q=site%3Ae-info.org.tw&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "台灣永續政策",
-      "url": "https://news.google.com/rss/search?q=%E7%A2%B3%E8%B2%BB%20OR%20%E7%A2%B3%E4%BA%A4%E6%98%93%20OR%20%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8%20OR%20%E6%B7%A8%E9%9B%B6%20%E5%8F%B0%E7%81%A3&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "CSRone",
-      "url": "https://news.google.com/rss/search?q=site%3Acsrone.com&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "永續人才",
-      "url": "https://news.google.com/rss/search?q=%E6%B0%B8%E7%BA%8C%20%E4%BA%BA%E6%89%8D%20OR%20%E8%81%B7%E7%BC%BA%20OR%20ESG%20%E4%BA%BA%E5%8A%9B&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    }
-  ]
+  "errors": []
 }
