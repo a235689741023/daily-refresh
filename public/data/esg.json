@@ -1,11 +1,66 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-21T13:35:41.960Z",
-  "updatedLocal": "2026/8/21 21:35:41",
+  "updated": "2026-08-21T22:47:09.833Z",
+  "updatedLocal": "2026/8/22 06:47:09",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "AMD, NVIDIA raise bar on AI energy efficiency",
+      "summary": "Advanced Micro Devices (AMD) plans major progress in the energy efficiency of the computing infrastructure it makes for artificial intelligence data centers.",
+      "url": "https://trellis.net/article/amd-nvidia-raise-bar-ai-energy-efficiency/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-21T20:54:42.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "How PepsiCo redesigned its sustainability reporting for the AI era",
+      "summary": "PepsiCo’s sustainability team has refocused its annual sustainability reporting to meet the needs of the AI bots that are becoming increasingly important consumers of online information.",
+      "url": "https://trellis.net/article/how-pepsico-redesigned-its-sustainability-reporting-for-the-ai-era/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-21T15:30:05.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "COP17 on desertification: Everything you need to know from week one",
+      "summary": "The first week of the the United Nations Convention to Combat Desertification (UNCCD) COP17 is just wrapping up its first week.",
+      "url": "https://www.edie.net/cop17-on-desertification-everything-you-need-to-know-from-week-one/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-21T14:50:26.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "UK Government urged to funnel £1bn into heat networks",
+      "summary": "Government efforts to invest £1bn in heat networks today could unlock £4bn in wider investment opportunities, all while pushing the nation towards its net-zero ambitions by accounting for one-fifth of heating demand.",
+      "url": "https://www.edie.net/uk-government-urged-to-funnel-1bn-into-heat-networks/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-21T14:34:56.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "FOUR WEEKS to go until edie’s Sustainable Supply Chains Summit",
+      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
+      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-21T14:00:03.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
     {
       "title": "Business energy costs have increased by 25% in 2026",
       "summary": "The conflict in the Middle East, recent heatwaves and changes to government policies and levies have all contributed to a 25% increase in business energy costs since February.",
@@ -15,7 +70,7 @@
       "group": null,
       "published": "2026-08-21T11:17:25.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Sustainability Uncovered episode 48: New rules on climate risk and the desertification COP",
@@ -26,62 +81,7 @@
       "group": null,
       "published": "2026-08-21T11:14:29.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "‘Deeply rooted, delivering value’: The changing role of the CSO",
-      "summary": "The number of chief sustainability officers in US firms has dropped 10% in the past year. Here, edie unpacks what that headline figure could mean and how the role has evolved in recent years.",
-      "url": "https://www.edie.net/deeply-rooted-delivering-value-the-changing-role-of-the-cso/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-20T20:24:36.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Majority of cities and regions using nature to tackle climate change, finds CDP",
-      "summary": "Nature-based solutions are being used by 55% of global cities, states and regions as climate-adaptation measures, environmental disclosure platform CDP has revealed.",
-      "url": "https://www.edie.net/majority-of-cities-and-regions-using-nature-to-tackle-climate-change-finds-cdp/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-20T16:16:09.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "The A-Z of Energy Procurement: Defining and explaining changes to energy markets and reporting",
-      "summary": "With the GHG Protocol set to overhaul reporting requirements for energy reporting, many businesses are exploring new approaches to energy procurement.",
-      "url": "https://www.edie.net/the-a-z-of-energy-procurement-defining-and-explaining-changes-to-energy-markets-and-reporting/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-20T14:23:21.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "FOUR WEEKS to go until edie’s Sustainable Supply Chains Summit",
-      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
-      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-20T14:00:03.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "Factcheck: 10 flaws in the Conservative report on ‘cheap power’",
-      "summary": "In a new report , the opposition Conservatives argue that UK electricity prices are too high and that it would be better for the climate to have cheap electricity, even if that means using more gas.",
-      "url": "https://www.carbonbrief.org/factcheck-10-flaws-in-the-conservative-report-on-cheap-power",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-08-20T15:56:40.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "馬太鞍在淹沒稻田辦豐年祭、國軍訓練場遭填廢棄物撈13億、澳洲通過立法科技巨頭不談新聞合作就課稅",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-08-21T03:26:20.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "衣櫃堆滿牛糞、兔子便便 他用縮時攝影拍出真菌奇幻世界",
@@ -103,7 +103,7 @@
       "group": null,
       "published": "2026-08-21T01:56:17.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "三接海岸利用許可遭最高行撤銷 成《海岸管理法》施行後首例",
@@ -112,9 +112,9 @@
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-08-21T12:52:11.000Z",
+      "published": "2026-08-21T12:51:50.000Z",
       "why": null,
-      "ago": "44 分鐘前"
+      "ago": "10 小時前"
     }
   ],
   "errors": []
