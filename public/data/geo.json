@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-21T22:47:09.833Z",
-  "updatedLocal": "2026/8/22 06:47:09",
+  "updated": "2026-08-22T03:43:35.909Z",
+  "updatedLocal": "2026/8/22 11:43:35",
   "digest": null,
   "watch": [],
   "items": [
@@ -37,18 +37,7 @@
       "group": "ai",
       "published": "2026-08-21T11:59:48.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Anthropic Watermarks Claude to Meet New EU AI Act Rules",
-      "summary": null,
-      "url": "https://businesschief.com/news/anthropic-watermarks-claude-to-meet-new-eu-ai-act-rules",
-      "source": "Business Chief",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-21T03:42:21.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "David Sacks Says Dario Amodei's AI Safety Push Is Regulatory Capture — and an Open-Source Ban Is Next",
@@ -59,7 +48,18 @@
       "group": "ai",
       "published": "2026-08-21T16:08:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Anthropic Watermarks Claude to Meet New EU AI Act Rules",
+      "summary": null,
+      "url": "https://businesschief.com/news/anthropic-watermarks-claude-to-meet-new-eu-ai-act-rules",
+      "source": "Business Chief",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-21T03:42:21.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []
