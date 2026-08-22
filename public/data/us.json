@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-22T03:43:35.909Z",
-  "updatedLocal": "2026/8/22 11:43:35",
+  "updated": "2026-08-22T13:22:39.043Z",
+  "updatedLocal": "2026/8/22 21:22:39",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-21T17:43:25.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
@@ -26,29 +26,7 @@
       "group": null,
       "published": "2026-08-21T15:10:31.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
-      "summary": "Samsung Electronics has announced a shareholder return package, marking a blockbuster week for shareholder returns among South Korea's chip giants following SK Hynix's share buyback.",
-      "url": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-21T09:08:18.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target",
-      "summary": "Shares of Pop Mart fell over 4% in Hong Kong on Friday after the Labubu maker reported first-half results that showed declining sales in Asia-Pacific and the Americas.",
-      "url": "https://www.cnbc.com/2026/08/21/labubu-maker-pop-mart-shares-fall-after-sales-drop-in-asia-americas-.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-21T07:18:33.000Z",
-      "why": null,
-      "ago": "20 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Chinese humanoid robots' biggest obstacle: Humans are still (mostly) better",
@@ -59,7 +37,18 @@
       "group": null,
       "published": "2026-08-21T09:30:55.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
+      "summary": "Samsung Electronics has announced a shareholder return package, marking a blockbuster week for shareholder returns among South Korea's chip giants following SK Hynix's share buyback.",
+      "url": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-21T09:08:18.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
@@ -70,51 +59,62 @@
       "group": null,
       "published": "2026-08-21T17:51:10.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
-      "summary": "Treasury Secretary Scott Bessent insisted Thursday that he has multiple weapons at his disposal to quell liquidity problems in the government debt market and restore calm.",
-      "url": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-21T12:43:04.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Bessent says there's a 'very good chance' U.S. budget deficit under Trump has peaked",
-      "summary": "Treasury Secretary Scott Bessent said Thursday there's a \"very good chance\" that the U.S. budget deficit under President Donald Trump has likely peaked.",
-      "url": "https://www.cnbc.com/2026/08/20/bessent-budget-deficit-trump.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-21T13:11:41.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Here are three key takeaways from the disappointing July jobs report",
-      "summary": "Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals on how to process the latest jobs report.",
-      "url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-21T08:36:07.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "You can now Venmo your kid’s college tuition. But should you?",
+      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/should-you-venmo-your-tuition-heres-what-to-know-as-colleges-add-new-payment-options-1a70ae96?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-21T21:20:00.000Z",
+      "published": "2026-08-22T13:01:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "22 分鐘前"
+    },
+    {
+      "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-22T13:00:00.000Z",
+      "why": null,
+      "ago": "23 分鐘前"
+    },
+    {
+      "title": "Move over, credit cards: Social-media stars are tapping magic wands to buy things",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/move-over-credit-cards-social-media-stars-are-tapping-magic-wands-to-buy-things-62e475d4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-22T12:30:00.000Z",
+      "why": null,
+      "ago": "53 分鐘前"
+    },
+    {
+      "title": "‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-22T12:00:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-22T12:00:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
     }
   ],
   "errors": []

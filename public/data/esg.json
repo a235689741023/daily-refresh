@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-22T03:43:35.909Z",
-  "updatedLocal": "2026/8/22 11:43:35",
+  "updated": "2026-08-22T13:22:39.043Z",
+  "updatedLocal": "2026/8/22 21:22:39",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-21T20:54:42.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "How PepsiCo redesigned its sustainability reporting for the AI era",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-21T15:30:05.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "COP17 on desertification: Everything you need to know from week one",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-08-21T14:50:26.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "UK Government urged to funnel £1bn into heat networks",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-08-21T14:34:56.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "FOUR WEEKS to go until edie’s Sustainable Supply Chains Summit",
@@ -59,29 +59,18 @@
       "group": null,
       "published": "2026-08-21T14:00:03.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "Business energy costs have increased by 25% in 2026",
-      "summary": "The conflict in the Middle East, recent heatwaves and changes to government policies and levies have all contributed to a 25% increase in business energy costs since February.",
-      "url": "https://www.edie.net/business-energy-costs-have-increased-by-25-in-2026/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "The gold standard for sustainability reporting",
+      "summary": "SINCE the pandemic, sustainable development reports have been getting thicker, more colorful and broader in scope.",
+      "url": "https://www.manilatimes.net/2026/08/22/business/green-industries/the-gold-standard-for-sustainability-reporting/2409830",
+      "source": "The Manila Times",
+      "tag": "法規",
       "group": null,
-      "published": "2026-08-21T11:17:25.000Z",
+      "published": "2026-08-21T16:02:00.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Sustainability Uncovered episode 48: New rules on climate risk and the desertification COP",
-      "summary": "The latest episode of edie’s long-standing Sustainability Uncovered podcast is now live.",
-      "url": "https://www.edie.net/sustainability-uncovered-episode-48-new-rules-on-climate-risk-and-the-desertification-cop/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-21T11:14:29.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "三接海岸利用許可遭最高行撤銷 成《海岸管理法》施行後首例",
@@ -92,29 +81,40 @@
       "group": null,
       "published": "2026-08-21T12:51:50.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "東方白鸛來台記：從人工巢塔到高壓電塔的保育行動",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243764",
-      "source": "環境資訊中心",
-      "tag": "台灣",
+      "title": "Business energy costs have increased by 25% in 2026",
+      "summary": "The conflict in the Middle East, recent heatwaves and changes to government policies and levies have all contributed to a 25% increase in business energy costs since February.",
+      "url": "https://www.edie.net/business-energy-costs-have-increased-by-25-in-2026/",
+      "source": "edie",
+      "tag": "國際",
       "group": null,
-      "published": "2026-08-21T03:46:21.000Z",
+      "published": "2026-08-21T11:17:25.000Z",
       "why": null,
-      "ago": "24 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "台灣熱壓力曾居東亞之冠 科學家尋找珊瑚礁修復之道",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243791",
-      "source": "環境資訊中心",
-      "tag": "台灣",
+      "title": "Sustainability Uncovered episode 48: New rules on climate risk and the desertification COP",
+      "summary": "The latest episode of edie’s long-standing Sustainability Uncovered podcast is now live.",
+      "url": "https://www.edie.net/sustainability-uncovered-episode-48-new-rules-on-climate-risk-and-the-desertification-cop/",
+      "source": "edie",
+      "tag": "國際",
       "group": null,
-      "published": "2026-08-21T08:31:35.000Z",
+      "published": "2026-08-21T11:14:29.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Oman sets timeline for sustainability disclosure standards in non-banking financial sector - Consultancy-me.com",
+      "summary": "Oman’s Financial Services Authority (FSA) has confirmed that IFRS S1 and IFRS S2, the international sustainability disclosure standards issued by the International Sustainability Standards Board (ISSB), will become mandatory for the Sultanate’s non-banking financial sector from 1 January 2029.",
+      "url": "https://www.consultancy-me.com/news/14213/oman-sets-timeline-for-sustainability-disclosure-standards-in-non-banking-financial-sector",
+      "source": "國際法規",
+      "tag": "法規",
+      "group": null,
+      "published": "2026-08-21T10:48:12.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-22T03:43:35.909Z",
-  "updatedLocal": "2026/8/22 11:43:35",
+  "updated": "2026-08-22T13:22:39.043Z",
+  "updatedLocal": "2026/8/22 21:22:39",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-19T23:35:20.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "ArcGIS Solutions 2026 Product Roadmap",
@@ -37,7 +37,18 @@
       "group": "ai",
       "published": "2026-08-21T11:59:48.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Debates over AI consciousness are a trap",
+      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators.",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-08-20T15:42:39.000Z",
+      "why": null,
+      "ago": "2 天前"
     },
     {
       "title": "David Sacks Says Dario Amodei's AI Safety Push Is Regulatory Capture — and an Open-Source Ban Is Next",
@@ -48,7 +59,7 @@
       "group": "ai",
       "published": "2026-08-21T16:08:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Anthropic Watermarks Claude to Meet New EU AI Act Rules",
@@ -60,6 +71,28 @@
       "published": "2026-08-21T03:42:21.000Z",
       "why": null,
       "ago": "昨日"
+    },
+    {
+      "title": "The EU’s AI Act Now Requires Disclosure — Or a €15M Fine",
+      "summary": "The European Union enacted its AI Act two years ago, but the transparency laws outlined in Article 50 only took effect on August 2, 2026.",
+      "url": "https://sociable.co/government-and-policy/eu-ai-act-disclosure-15m-fine/",
+      "source": "sociable.co",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-20T15:27:51.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "Anthropic and OpenAI Split as Massachusetts Pushes Nation’s Toughest AI Safety Rules",
+      "summary": "Anthropic and OpenAI are divided on their views of a Massachusetts proposal that would establish a process in the state for evaluating the safety of artificial intelligence models, Bloomberg reported Thursday (Aug. 20).",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-openai-split-as-massachusetts-pushes-nations-toughest-ai-safety-rules/",
+      "source": "PYMNTS.com",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-20T14:22:11.000Z",
+      "why": null,
+      "ago": "2 天前"
     }
   ],
   "errors": []
