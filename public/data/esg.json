@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-22T13:22:39.043Z",
-  "updatedLocal": "2026/8/22 21:22:39",
+  "updated": "2026-08-22T22:44:19.807Z",
+  "updatedLocal": "2026/8/23 06:44:19",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-21T20:54:42.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
       "title": "How PepsiCo redesigned its sustainability reporting for the AI era",
@@ -26,40 +26,7 @@
       "group": null,
       "published": "2026-08-21T15:30:05.000Z",
       "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "COP17 on desertification: Everything you need to know from week one",
-      "summary": "The first week of the the United Nations Convention to Combat Desertification (UNCCD) COP17 is just wrapping up its first week.",
-      "url": "https://www.edie.net/cop17-on-desertification-everything-you-need-to-know-from-week-one/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-21T14:50:26.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "UK Government urged to funnel £1bn into heat networks",
-      "summary": "Government efforts to invest £1bn in heat networks today could unlock £4bn in wider investment opportunities, all while pushing the nation towards its net-zero ambitions by accounting for one-fifth of heating demand.",
-      "url": "https://www.edie.net/uk-government-urged-to-funnel-1bn-into-heat-networks/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-21T14:34:56.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "FOUR WEEKS to go until edie’s Sustainable Supply Chains Summit",
-      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
-      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-21T14:00:03.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     },
     {
       "title": "The gold standard for sustainability reporting",
@@ -70,7 +37,40 @@
       "group": null,
       "published": "2026-08-21T16:02:00.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "COP17 on desertification: Everything you need to know from week one",
+      "summary": "The first week of the the United Nations Convention to Combat Desertification (UNCCD) COP17 is just wrapping up its first week.",
+      "url": "https://www.edie.net/cop17-on-desertification-everything-you-need-to-know-from-week-one/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-21T14:50:26.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "UK Government urged to funnel £1bn into heat networks",
+      "summary": "Government efforts to invest £1bn in heat networks today could unlock £4bn in wider investment opportunities, all while pushing the nation towards its net-zero ambitions by accounting for one-fifth of heating demand.",
+      "url": "https://www.edie.net/uk-government-urged-to-funnel-1bn-into-heat-networks/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-21T14:34:56.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "FOUR WEEKS to go until edie’s Sustainable Supply Chains Summit",
+      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
+      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-21T14:00:03.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "三接海岸利用許可遭最高行撤銷 成《海岸管理法》施行後首例",

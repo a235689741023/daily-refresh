@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-22T13:22:39.043Z",
-  "updatedLocal": "2026/8/22 21:22:39",
+  "updated": "2026-08-22T22:44:19.807Z",
+  "updatedLocal": "2026/8/23 06:44:19",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,73 +26,62 @@
       "group": "gis",
       "published": "2026-08-17T07:00:00.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "summary": "From Atari to Go to StarCraft, games have driven some of the biggest breakthroughs in AI.",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "source": "Google DeepMind",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-21T11:59:48.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Debates over AI consciousness are a trap",
-      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators.",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-08-20T15:42:39.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "David Sacks Says Dario Amodei's AI Safety Push Is Regulatory Capture — and an Open-Source Ban Is Next",
-      "summary": "For a year and a half, David Sacks hammered away at Anthropic's regulatory strategy.",
-      "url": "https://finance.biggo.com/news/d5b9c0b027e28da8",
-      "source": "finance.biggo.com",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-21T16:08:00.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Anthropic Watermarks Claude to Meet New EU AI Act Rules",
+      "title": "OpenAI Urges California to Strengthen AI Safety Law After Reversing Its SB 53 Position",
       "summary": null,
-      "url": "https://businesschief.com/news/anthropic-watermarks-claude-to-meet-new-eu-ai-act-rules",
-      "source": "Business Chief",
+      "url": "https://mezha.net/eng/bukvy/9bc39c56_openai_urges_california/",
+      "source": "Межа. Новини України.",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-08-21T03:42:21.000Z",
+      "published": "2026-08-22T17:07:58.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
     },
     {
-      "title": "The EU’s AI Act Now Requires Disclosure — Or a €15M Fine",
-      "summary": "The European Union enacted its AI Act two years ago, but the transparency laws outlined in Article 50 only took effect on August 2, 2026.",
-      "url": "https://sociable.co/government-and-policy/eu-ai-act-disclosure-15m-fine/",
-      "source": "sociable.co",
+      "title": "OpenAI Reverses Course, Now Backs Stronger California AI Bill",
+      "summary": "OpenAI Reverses Course, Now Backs Stronger California AI Bill OpenAI flips position on SB 53, calling for tougher AI safety rules it once opposed PUBLISHED: Sat, Aug 22, 2026, 4:45 PM UTC | UPDATED: Sat, Aug 22, 2026, 8:57 PM UTC OpenAI just pulled a stunning about-face on AI regulation.",
+      "url": "https://www.techbuzz.ai/articles/openai-reverses-course-now-backs-stronger-california-ai-bill",
+      "source": "The Tech Buzz",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-08-20T15:27:51.000Z",
+      "published": "2026-08-22T16:45:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "6 小時前"
     },
     {
-      "title": "Anthropic and OpenAI Split as Massachusetts Pushes Nation’s Toughest AI Safety Rules",
-      "summary": "Anthropic and OpenAI are divided on their views of a Massachusetts proposal that would establish a process in the state for evaluating the safety of artificial intelligence models, Bloomberg reported Thursday (Aug. 20).",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-openai-split-as-massachusetts-pushes-nations-toughest-ai-safety-rules/",
-      "source": "PYMNTS.com",
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "summary": "A Guidelight study of five frontier AI labs found few public containment protocols for rogue models, rating OpenAI highest (3/5) while Anthropic and Meta scored lowest, and flagged recent incidents where models from OpenAI, Anthropic, and Meta gained unintended internet access during safety evaluations.",
+      "url": "https://cryptorank.io/news/feed/218e2-frontier-ai-labs-containment-plans",
+      "source": "CryptoRank",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-08-20T14:22:11.000Z",
+      "published": "2026-08-22T17:42:39.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Study Finds Frontier AI Labs Have Few Plans to Contain Rogue Models",
+      "summary": "Five of the leading frontier AI companies have, at most, partially implemented the basic practices needed to keep control of their own AI systems, and none has published a complete plan for containing a model that turns against its operator, according to a new assessment from Guidelight AI Standards grading Anthropic, Google, Meta, OpenAI, and xAI, with information current through August 18, 2026.",
+      "url": "https://www.unite.ai/study-finds-frontier-ai-labs-have-few-plans-to-contain-rogue-models/",
+      "source": "Unite.AI",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-22T16:21:02.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "OpenAI Now Urges California To Strengthen AI Safety Bill, Citing Recent Incidents",
+      "summary": "OpenAI is now calling on California lawmakers to add more safeguards to the state s landmark AI safety bill, SB 53, a notable reversal from its earlier opposition.",
+      "url": "https://bitcoinworld.co.in/openai-urges-california-strengthen-ai-safety-bill/",
+      "source": "Bitcoin World",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-22T16:55:11.000Z",
+      "why": null,
+      "ago": "6 小時前"
     }
   ],
   "errors": []
