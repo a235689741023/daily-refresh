@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-23T03:52:39.421Z",
-  "updatedLocal": "2026/8/23 11:52:39",
+  "updated": "2026-08-23T13:23:34.079Z",
+  "updatedLocal": "2026/8/23 21:23:34",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-21T20:54:42.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "How PepsiCo redesigned its sustainability reporting for the AI era",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-08-21T16:02:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "COP17 on desertification: Everything you need to know from week one",
@@ -84,35 +84,35 @@
       "ago": "2 天前"
     },
     {
-      "title": "三接海岸利用許可遭最高行撤銷 成《海岸管理法》施行後首例",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243792",
-      "source": "環境資訊中心",
-      "tag": "台灣",
+      "title": "Shanghai Electric Fuels Record 8,000-Ton Bunkering",
+      "summary": "Shanghai Electric has partnered with Shanghai International Port Group and CMA CGM to complete the world’s largest single biomethanol bunkering operation.",
+      "url": "https://esgnews.com/shanghai-electric-fuels-record-8000-ton-bunkering/?utm_source=rss&utm_medium=rss&utm_campaign=shanghai-electric-fuels-record-8000-ton-bunkering",
+      "source": "ESG News",
+      "tag": "國際",
       "group": null,
-      "published": "2026-08-21T12:51:50.000Z",
+      "published": "2026-08-21T15:02:26.000Z",
       "why": null,
       "ago": "2 天前"
     },
     {
-      "title": "Business energy costs have increased by 25% in 2026",
-      "summary": "The conflict in the Middle East, recent heatwaves and changes to government policies and levies have all contributed to a 25% increase in business energy costs since February.",
-      "url": "https://www.edie.net/business-energy-costs-have-increased-by-25-in-2026/",
-      "source": "edie",
+      "title": "Europe’s AI Data Centres Shift Beyond Major Cities",
+      "summary": "Europe’s next wave of artificial intelligence infrastructure is moving away from its traditional urban centres.",
+      "url": "https://esgnews.com/europes-ai-data-centres-shift-beyond-major-cities/?utm_source=rss&utm_medium=rss&utm_campaign=europes-ai-data-centres-shift-beyond-major-cities",
+      "source": "ESG News",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-21T11:17:25.000Z",
+      "published": "2026-08-21T14:52:37.000Z",
       "why": null,
       "ago": "2 天前"
     },
     {
-      "title": "Sustainability Uncovered episode 48: New rules on climate risk and the desertification COP",
-      "summary": "The latest episode of edie’s long-standing Sustainability Uncovered podcast is now live.",
-      "url": "https://www.edie.net/sustainability-uncovered-episode-48-new-rules-on-climate-risk-and-the-desertification-cop/",
-      "source": "edie",
+      "title": "New Zealand Curbs Climate Litigation Against Major Emitters",
+      "summary": "The Climate Change Response Amendment Bill passed its third reading on August 18 by 67 votes to 53. It amends the Climate Change Response Act 2002 and applies to current and future proceedings.",
+      "url": "https://esgnews.com/new-zealand-curbs-climate-litigation-against-major-emitters/?utm_source=rss&utm_medium=rss&utm_campaign=new-zealand-curbs-climate-litigation-against-major-emitters",
+      "source": "ESG News",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-21T11:14:29.000Z",
+      "published": "2026-08-21T14:38:47.000Z",
       "why": null,
       "ago": "2 天前"
     }

@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-23T03:52:39.421Z",
-  "updatedLocal": "2026/8/23 11:52:39",
+  "updated": "2026-08-23T13:23:34.079Z",
+  "updatedLocal": "2026/8/23 21:23:34",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-19T23:35:20.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
       "title": "ArcGIS Solutions 2026 Product Roadmap",
@@ -29,6 +29,17 @@
       "ago": "6 天前"
     },
     {
+      "title": "ANT-2026-VS18SA90 · nginx",
+      "summary": "Severity Claude critical · Security research firm critical · Maintainer - Anthropic's analysis, sealed at approval.",
+      "url": "https://red.anthropic.com/2026/cvd/findings/ANT-2026-VS18SA90",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-23T01:03:28.000Z",
+      "why": null,
+      "ago": "12 小時前"
+    },
+    {
       "title": "OpenAI Urges California to Strengthen AI Safety Law After Reversing Its SB 53 Position",
       "summary": null,
       "url": "https://mezha.net/eng/bukvy/9bc39c56_openai_urges_california/",
@@ -37,7 +48,7 @@
       "group": "ai",
       "published": "2026-08-22T17:07:58.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "OpenAI Joins Forces With Common Sense Media on a California AI Safety Measure",
@@ -48,18 +59,29 @@
       "group": "ai",
       "published": "2026-08-22T18:16:22.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "OpenAI Reverses Course, Now Backs Stronger California AI Bill",
-      "summary": "OpenAI Reverses Course, Now Backs Stronger California AI Bill OpenAI flips position on SB 53, calling for tougher AI safety rules it once opposed PUBLISHED: Sat, Aug 22, 2026, 4:45 PM UTC | UPDATED: Sun, Aug 23, 2026, 2:57 AM UTC OpenAI just pulled a stunning about-face on AI regulation.",
+      "summary": "OpenAI Reverses Course, Now Backs Stronger California AI Bill OpenAI flips position on SB 53, calling for tougher AI safety rules it once opposed PUBLISHED: Sat, Aug 22, 2026, 4:45 PM UTC | UPDATED: Sun, Aug 23, 2026, 5:08 AM UTC OpenAI just pulled a stunning about-face on AI regulation.",
       "url": "https://www.techbuzz.ai/articles/openai-reverses-course-now-backs-stronger-california-ai-bill",
       "source": "The Tech Buzz",
       "tag": "政策",
       "group": "ai",
       "published": "2026-08-22T16:45:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "OpenAI Reverses Course, Calls for Stronger Safeguards in California AI Safety Law",
+      "summary": "OpenAI is calling for California to strengthen a landmark artificial intelligence safety law it previously opposed, saying recent incidents involving frontier AI systems show that additional safeguards are needed as the technology becomes more capable.",
+      "url": "https://www.tekedia.com/openai-reverses-course-calls-for-stronger-safeguards-in-california-ai-safety-law/",
+      "source": "Tekedia",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-23T08:31:08.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
@@ -70,29 +92,7 @@
       "group": "ai",
       "published": "2026-08-22T17:42:39.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "Study Finds Frontier AI Labs Have Few Plans to Contain Rogue Models",
-      "summary": "Five of the leading frontier AI companies have, at most, partially implemented the basic practices needed to keep control of their own AI systems, and none has published a complete plan for containing a model that turns against its operator, according to a new assessment from Guidelight AI Standards grading Anthropic, Google, Meta, OpenAI, and xAI, with information current through August 18, 2026.",
-      "url": "https://www.unite.ai/study-finds-frontier-ai-labs-have-few-plans-to-contain-rogue-models/",
-      "source": "Unite.AI",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-22T16:21:02.000Z",
-      "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "OpenAI Now Urges California To Strengthen AI Safety Bill, Citing Recent Incidents",
-      "summary": "OpenAI is now calling on California lawmakers to add more safeguards to the state s landmark AI safety bill, SB 53, a notable reversal from its earlier opposition.",
-      "url": "https://bitcoinworld.co.in/openai-urges-california-strengthen-ai-safety-bill/",
-      "source": "Bitcoin World",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-22T16:55:11.000Z",
-      "why": null,
-      "ago": "11 小時前"
+      "ago": "20 小時前"
     }
   ],
   "errors": []
