@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-22T22:44:19.807Z",
-  "updatedLocal": "2026/8/23 06:44:19",
+  "updated": "2026-08-23T03:52:39.421Z",
+  "updatedLocal": "2026/8/23 11:52:39",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-21T15:30:05.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "The gold standard for sustainability reporting",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-08-21T14:50:26.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "UK Government urged to funnel £1bn into heat networks",
@@ -58,6 +58,17 @@
       "tag": "國際",
       "group": null,
       "published": "2026-08-21T14:34:56.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "2026全球減碳浪潮下的台灣淨零現況",
+      "summary": "隨著全球氣候變遷加劇，各類極端氣候災害帶來的經濟與社會成本持續攀升。聯合國政府間氣候變化專門委員會（IPCC）在其核心報告中明確指出，人類活動產生的溫室氣體已造成全球平均升溫超過攝氏1度，氣候風險已不再是未來的預測，而是企業當前必須面對的實質成本。",
+      "url": "https://www.seftb.org/cp-15-2747-63794-1.html",
+      "source": "seftb.org",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-22T02:07:53.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-08-21T14:00:03.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "三接海岸利用許可遭最高行撤銷 成《海岸管理法》施行後首例",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-08-21T12:51:50.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Business energy costs have increased by 25% in 2026",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-08-21T11:17:25.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Sustainability Uncovered episode 48: New rules on climate risk and the desertification COP",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-08-21T11:14:29.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Oman sets timeline for sustainability disclosure standards in non-banking financial sector - Consultancy-me.com",
-      "summary": "Oman’s Financial Services Authority (FSA) has confirmed that IFRS S1 and IFRS S2, the international sustainability disclosure standards issued by the International Sustainability Standards Board (ISSB), will become mandatory for the Sultanate’s non-banking financial sector from 1 January 2029.",
-      "url": "https://www.consultancy-me.com/news/14213/oman-sets-timeline-for-sustainability-disclosure-standards-in-non-banking-financial-sector",
-      "source": "國際法規",
-      "tag": "法規",
-      "group": null,
-      "published": "2026-08-21T10:48:12.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     }
   ],
   "errors": []

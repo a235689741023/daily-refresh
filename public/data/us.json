@@ -1,22 +1,11 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-22T22:44:19.807Z",
-  "updatedLocal": "2026/8/23 06:44:19",
+  "updated": "2026-08-23T03:52:39.421Z",
+  "updatedLocal": "2026/8/23 11:52:39",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Kalshi traders think the bitcoin rally could end the year near current levels",
-      "summary": "Bitcoin's more than 20% rally this week has sent the cryptocurrency to heights it hasn't seen since May, but traders on prediction market platform Kalshi see it ending 2026 near current levels.",
-      "url": "https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-21T17:43:25.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
     {
       "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
       "summary": null,
@@ -26,7 +15,7 @@
       "group": null,
       "published": "2026-08-22T20:45:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
@@ -37,7 +26,7 @@
       "group": null,
       "published": "2026-08-22T20:31:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
@@ -48,7 +37,7 @@
       "group": null,
       "published": "2026-08-22T20:30:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-08-22T20:15:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-08-22T17:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
@@ -81,7 +70,7 @@
       "group": null,
       "published": "2026-08-22T16:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
@@ -92,7 +81,7 @@
       "group": null,
       "published": "2026-08-22T13:01:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
@@ -103,7 +92,7 @@
       "group": null,
       "published": "2026-08-22T13:00:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Move over, credit cards: Social-media stars are tapping magic wands to buy things",
@@ -114,7 +103,18 @@
       "group": null,
       "published": "2026-08-22T12:30:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "15 小時前"
+    },
+    {
+      "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-22T12:00:00.000Z",
+      "why": null,
+      "ago": "16 小時前"
     }
   ],
   "errors": []
