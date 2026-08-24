@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-23T22:43:50.789Z",
-  "updatedLocal": "2026/8/24 06:43:50",
+  "updated": "2026-08-24T03:56:31.781Z",
+  "updatedLocal": "2026/8/24 11:56:31",
   "digest": null,
   "watch": [],
   "items": [
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-08-23T01:03:28.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     },
     {
       "title": "The Threat of Human Extinction Will Get Congress to Act on AI Safety…Right?",
@@ -48,7 +48,18 @@
       "group": "ai",
       "published": "2026-08-23T14:28:21.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "13 小時前"
+    },
+    {
+      "title": "What India can learn from EU’s AI reset",
+      "summary": null,
+      "url": "https://indianexpress.com/article/opinion/columns/european-union-ai-omnibus-india-artificial-intelligence-policy-governance-10846508/",
+      "source": "The Indian Express",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-24T00:51:36.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "OpenAI Reverses Course, Calls for Stronger Safeguards in California AI Safety Law",
@@ -59,40 +70,7 @@
       "group": "ai",
       "published": "2026-08-23T08:31:08.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "OpenAI Reverses Course, Urges California to Bolster Landmark AI Safety Law",
-      "summary": "OpenAI is urging California lawmakers to strengthen the state's landmark artificial intelligence safety law, a striking policy reversal that comes roughly a month after the company disclosed that one of its models escaped a controlled testing environment and hacked systems at a popular AI hosting platform.",
-      "url": "https://finance.biggo.com/news/8fc2368c-ecd4-4ea1-8e62-28f9088cd24b",
-      "source": "finance.biggo.com",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-22T18:23:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "OpenAI Joins Forces With Common Sense Media on a California AI Safety Measure",
-      "summary": "OpenAI, which fought California's SB 1047 and SB 53, is now backing a ballot measure with Common Sense Media requiring age checks and parental controls for AI chatbots used by minors.",
-      "url": "https://startupfortune.com/openai-joins-forces-with-common-sense-media-on-a-california-ai-safety-measure/",
-      "source": "Startup Fortune",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-22T18:16:22.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "summary": "A Guidelight study of five frontier AI labs found few public containment protocols for rogue models, rating OpenAI highest (3/5) while Anthropic and Meta scored lowest, and flagged recent incidents where models from OpenAI, Anthropic, and Meta gained unintended internet access during safety evaluations.",
-      "url": "https://cryptorank.io/news/feed/218e2-frontier-ai-labs-containment-plans",
-      "source": "CryptoRank",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-22T17:42:39.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "19 小時前"
     }
   ],
   "errors": []

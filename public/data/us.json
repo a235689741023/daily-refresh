@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-23T22:43:50.789Z",
-  "updatedLocal": "2026/8/24 06:43:50",
+  "updated": "2026-08-24T03:56:31.781Z",
+  "updatedLocal": "2026/8/24 11:56:31",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+      "summary": "Alibaba shares plunged as much as 10% in Hong Kong on Monday after the Chinese tech giant priced an 80 billion Hong Kong dollar ($10.20 billion) placement of newly issued shares to non-U.S. investors.",
+      "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-24T02:55:22.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
     {
       "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
       "summary": "Walk the halls of any major banking conference or listen in on a quarterly earnings call, and one topic keeps coming up: With the window for mergers wide open under the Trump administration, who will take a swing?",
@@ -15,18 +26,18 @@
       "group": null,
       "published": "2026-08-23T12:00:01.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "16 小時前"
     },
     {
-      "title": "Stock futures slip as U.S. and Canada appear headed for trade war",
+      "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
       "summary": null,
       "url": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-23T22:22:00.000Z",
+      "published": "2026-08-24T03:02:00.000Z",
       "why": null,
-      "ago": "22 分鐘前"
+      "ago": "55 分鐘前"
     },
     {
       "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-08-23T19:30:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-08-23T19:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-08-23T18:00:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-08-23T17:30:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-08-23T17:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-08-23T16:45:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-08-23T13:00:00.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "The Treasury’s bond-market intervention isn’t working. So what comes next?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-23T12:00:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
+      "ago": "15 小時前"
     }
   ],
   "errors": []
