@@ -1,11 +1,44 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-24T13:40:18.436Z",
-  "updatedLocal": "2026/8/24 21:40:18",
+  "updated": "2026-08-24T22:49:42.947Z",
+  "updatedLocal": "2026/8/25 06:49:42",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Prediction market traders doubtful Bessent’s bond interventions will push yields lower",
+      "summary": "Treasury Secretary Scott Bessent is seeking to cap rising yields using a variety of tools at his department's disposal.",
+      "url": "https://www.cnbc.com/2026/08/24/prediction-market-traders-skeptical-bessent-will-send-yields-lower.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-24T18:40:41.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+      "summary": "A Goldman Sachs partner leading one of the bank's flagship artificial intelligence projects warned that AI's spread across Wall Street risks hobbling the thinking capabilities of the next generation of financiers.",
+      "url": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-24T15:50:50.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Crypto extends gains after biggest 3-day rally since 2023",
+      "summary": "Bitcoin and crypto stocks extended their rally to start the week after the flagship cryptocurrency broke out of its trading range as investor concern over inflation and the fiscal deficit grew.",
+      "url": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-24T20:02:22.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
       "summary": "Alibaba shares plunged as much as 10% in Hong Kong on Monday after the Chinese tech giant priced an 80 billion Hong Kong dollar ($10.20 billion) placement of newly issued shares to non-U.S. investors.",
@@ -15,7 +48,7 @@
       "group": null,
       "published": "2026-08-24T08:21:17.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
@@ -24,9 +57,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-23T12:00:01.000Z",
+      "published": "2026-08-24T15:22:09.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "7 小時前"
     },
     {
       "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
@@ -37,7 +70,7 @@
       "group": null,
       "published": "2026-08-24T13:17:35.000Z",
       "why": null,
-      "ago": "23 分鐘前"
+      "ago": "10 小時前"
     },
     {
       "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
@@ -48,7 +81,7 @@
       "group": null,
       "published": "2026-08-24T13:35:08.000Z",
       "why": null,
-      "ago": "5 分鐘前"
+      "ago": "9 小時前"
     },
     {
       "title": "Singapore inflation hits highest in nearly two years, but undershoots expectations",
@@ -59,62 +92,29 @@
       "group": null,
       "published": "2026-08-24T05:24:43.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement.",
+      "title": "Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/visa-and-mastercard-shares-hit-fresh-records-underscoring-a-resilient-u-s-consumer-ef328548?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-24T13:35:00.000Z",
+      "published": "2026-08-24T21:55:00.000Z",
       "why": null,
-      "ago": "5 分鐘前"
+      "ago": "55 分鐘前"
     },
     {
-      "title": "Here are two trades to make ahead of a critical week for markets as Nvidia results and Jackson Hole loom",
+      "title": "SpaceX plans to put Nvidia-powered AI satellites in orbit next year",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/here-are-two-trades-to-make-ahead-of-a-critical-week-for-markets-as-nvidia-results-and-jackson-hole-loom-8ac3653c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/spacex-plans-to-put-nvidia-powered-ai-satellites-in-orbit-next-year-ab57083c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-24T13:31:00.000Z",
+      "published": "2026-08-24T21:26:00.000Z",
       "why": null,
-      "ago": "9 分鐘前"
-    },
-    {
-      "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-24T13:15:00.000Z",
-      "why": null,
-      "ago": "25 分鐘前"
-    },
-    {
-      "title": "Yields are the highest they’ve been in years — but are bonds cheap enough to buy? Two strategists disagree.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/theyre-the-highest-theyve-been-in-years-but-are-bonds-cheap-enough-to-buy-here-two-strategists-disagree-348fe330?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-24T13:04:00.000Z",
-      "why": null,
-      "ago": "36 分鐘前"
-    },
-    {
-      "title": "The Treasury’s bond-market intervention isn’t working. So what comes next?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-24T13:02:00.000Z",
-      "why": null,
-      "ago": "38 分鐘前"
+      "ago": "1 小時前"
     }
   ],
   "errors": []

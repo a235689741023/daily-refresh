@@ -1,21 +1,54 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-24T13:40:18.436Z",
-  "updatedLocal": "2026/8/24 21:40:18",
+  "updated": "2026-08-24T22:49:42.947Z",
+  "updatedLocal": "2026/8/25 06:49:42",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Deploy an enterprise geodatabase in PostgreSQL",
-      "summary": "PostgreSQL is a popular choice for organizations building flexible, open-source GIS infrastructures.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/data-management/deploy-an-enterprise-geodatabase-in-postgresql",
-      "source": "Esri",
+      "title": "Celebrate 110 years of national parks with Maps, Search, and Gemini",
+      "summary": "What people are searching in the lead-up to National Parks Week — plus, how Ask Maps, AI Mode, and the Gemini app can help turn your wanderlust into a well-planned adventure.",
+      "url": "https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/",
+      "source": "Google Maps Blog",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-08-19T23:35:20.000Z",
+      "published": "2026-08-24T16:00:00.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Economics",
+      "summary": "The Economic Research team studies how AI is reshaping the economy, including work, productivity, and economic opportunity.",
+      "url": "https://www.anthropic.com/research/team/economics",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-24T17:58:37.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "summary": "T he GPT‑5.6 model family is now available in Kiro, a software development agent that brings engineering rigor and quality to AI-native coding at scale.",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-24T12:00:00.000Z",
+      "why": null,
+      "ago": "11 小時前"
+    },
+    {
+      "title": "How to encourage smarter AI use in the classroom",
+      "summary": "Chatbots took many schools by surprise upon their release a few years ago.",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-08-24T14:20:19.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Kids outlearn AI—and we still don’t know why",
@@ -26,40 +59,29 @@
       "group": "ai",
       "published": "2026-08-24T09:00:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "14 小時前"
     },
     {
-      "title": "OpenAI Now Wants AI Safety Regulations Strengthened",
-      "summary": null,
-      "url": "https://cxotoday.com/governance/openai-now-wants-ai-safety-regulations-strengthened/",
-      "source": "CXOToday.com",
-      "tag": "政策",
+      "title": "How XPUs Meet a World-Class AI Factory",
+      "summary": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.",
+      "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
       "group": "ai",
-      "published": "2026-08-24T06:31:20.000Z",
+      "published": "2026-08-24T15:00:54.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "8 小時前"
     },
     {
-      "title": "What India can learn from EU’s AI reset",
-      "summary": null,
-      "url": "https://indianexpress.com/article/opinion/columns/european-union-ai-omnibus-india-artificial-intelligence-policy-governance-10846508/",
-      "source": "The Indian Express",
-      "tag": "政策",
+      "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+      "summary": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together.",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
       "group": "ai",
-      "published": "2026-08-24T00:51:36.000Z",
+      "published": "2026-08-24T15:00:41.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "OpenAI Reverses Course, Calls for Stronger Safeguards in California AI Safety Law",
-      "summary": "OpenAI is calling for California to strengthen a landmark artificial intelligence safety law it previously opposed, saying recent incidents involving frontier AI systems show that additional safeguards are needed as the technology becomes more capable.",
-      "url": "https://www.tekedia.com/openai-reverses-course-calls-for-stronger-safeguards-in-california-ai-safety-law/",
-      "source": "Tekedia",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-23T08:31:08.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "8 小時前"
     }
   ],
   "errors": []
