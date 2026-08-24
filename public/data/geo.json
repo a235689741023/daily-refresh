@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-24T03:56:31.781Z",
-  "updatedLocal": "2026/8/24 11:56:31",
+  "updated": "2026-08-24T13:40:18.436Z",
+  "updatedLocal": "2026/8/24 21:40:18",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,40 +15,29 @@
       "group": "gis",
       "published": "2026-08-19T23:35:20.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
     },
     {
-      "title": "ArcGIS Solutions 2026 Product Roadmap",
-      "summary": "ArcGIS Solutions are industry-specific configurations of ArcGIS that align with your business needs, transform your use of ArcGIS, and help you maximize the investment you are making in location-based data and technology.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-solutions/announcements/arcgis-solutions-2026-product-roadmap",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-08-17T07:00:00.000Z",
-      "why": null,
-      "ago": "7 天前"
-    },
-    {
-      "title": "ANT-2026-VS18SA90 · nginx",
-      "summary": "Severity Claude critical · Security research firm critical · Maintainer - Anthropic's analysis, sealed at approval.",
-      "url": "https://red.anthropic.com/2026/cvd/findings/ANT-2026-VS18SA90",
-      "source": "Anthropic",
-      "tag": "模型",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell.",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-08-23T01:03:28.000Z",
+      "published": "2026-08-24T09:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "5 小時前"
     },
     {
-      "title": "The Threat of Human Extinction Will Get Congress to Act on AI Safety…Right?",
-      "summary": "AI leaders are raising alarms about their technologies, but don’t expect Congress to act this session.",
-      "url": "https://www.motherjones.com/politics/2026/08/ai-safety-congress-doom/",
-      "source": "Mother Jones",
+      "title": "OpenAI Now Wants AI Safety Regulations Strengthened",
+      "summary": null,
+      "url": "https://cxotoday.com/governance/openai-now-wants-ai-safety-regulations-strengthened/",
+      "source": "CXOToday.com",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-08-23T14:28:21.000Z",
+      "published": "2026-08-24T06:31:20.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "What India can learn from EU’s AI reset",
@@ -59,7 +48,7 @@
       "group": "ai",
       "published": "2026-08-24T00:51:36.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "OpenAI Reverses Course, Calls for Stronger Safeguards in California AI Safety Law",
@@ -70,7 +59,7 @@
       "group": "ai",
       "published": "2026-08-23T08:31:08.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
