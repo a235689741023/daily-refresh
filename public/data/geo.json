@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-25T03:51:01.451Z",
-  "updatedLocal": "2026/8/25 11:51:01",
+  "updated": "2026-08-25T13:38:48.436Z",
+  "updatedLocal": "2026/8/25 21:38:48",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-24T16:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Economics",
@@ -26,7 +26,18 @@
       "group": "ai",
       "published": "2026-08-24T17:58:37.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "20 小時前"
+    },
+    {
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "summary": "Our mission is to ensure that artificial general intelligence benefits all of humanity. We advance this mission by deploying our innovations to build AI tools that help people solve hard problems.",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-25T00:00:00.000Z",
+      "why": null,
+      "ago": "14 小時前"
     },
     {
       "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
@@ -37,7 +48,18 @@
       "group": "ai",
       "published": "2026-08-24T12:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life.",
+      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-08-25T09:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "How to encourage smarter AI use in the classroom",
@@ -48,7 +70,7 @@
       "group": "ai",
       "published": "2026-08-24T14:20:19.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Kids outlearn AI—and we still don’t know why",
@@ -59,29 +81,7 @@
       "group": "ai",
       "published": "2026-08-24T09:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "How XPUs Meet a World-Class AI Factory",
-      "summary": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.",
-      "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-08-24T15:00:54.000Z",
-      "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
-      "summary": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together.",
-      "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-08-24T15:00:41.000Z",
-      "why": null,
-      "ago": "13 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

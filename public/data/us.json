@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-25T03:51:01.451Z",
-  "updatedLocal": "2026/8/25 11:51:01",
+  "updated": "2026-08-25T13:38:48.436Z",
+  "updatedLocal": "2026/8/25 21:38:48",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
+      "summary": "BEIJING — The U.S. is threatening to cut businesses that help Iran evade sanctions off from the American financial system.",
+      "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-25T12:42:15.000Z",
+      "why": null,
+      "ago": "57 分鐘前"
+    },
     {
       "title": "Prediction market traders doubtful Bessent’s bond interventions will push yields lower",
       "summary": "Treasury Secretary Scott Bessent is seeking to cap rising yields using a variety of tools at his department's disposal.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-08-24T18:40:41.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-08-24T15:50:50.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Crypto extends gains after biggest 3-day rally since 2023",
@@ -37,18 +48,7 @@
       "group": null,
       "published": "2026-08-24T20:02:22.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
-      "summary": "Alibaba shares plunged as much as 10% in Hong Kong on Monday after the Chinese tech giant priced an 80 billion Hong Kong dollar ($10.20 billion) placement of newly issued shares to non-U.S. investors.",
-      "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-24T08:21:17.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
@@ -59,40 +59,18 @@
       "group": null,
       "published": "2026-08-24T15:22:09.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
-      "summary": "The Treasury could use its near $1 trillion General Account to help fund its recently announced plans to increase purchases of government bonds, according to two senior Treasury officials.",
-      "url": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-24T13:17:35.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
-      "summary": "The Canadian dollar dropped on Monday morning after trade talks between Ottawa and Washington fell apart, leaving both sides facing higher prices on a wide array of imported goods and threatening Canada's economic growth.",
-      "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-24T13:35:08.000Z",
-      "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "Singapore inflation hits highest in nearly two years, but undershoots expectations",
-      "summary": "Singapore inflation missed estimates even as it accelerated to a near two-year high in July, as higher energy prices due to the Iran war lifted electricity prices.",
-      "url": "https://www.cnbc.com/2026/08/24/singapore-inflation-budget-iran-war.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-24T05:24:43.000Z",
-      "why": null,
       "ago": "22 小時前"
+    },
+    {
+      "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+      "summary": "Alibaba shares plunged as much as 10% in Hong Kong on Monday after the Chinese tech giant priced an 80 billion Hong Kong dollar ($10.20 billion) placement of newly issued shares to non-U.S. investors.",
+      "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-24T08:21:17.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
@@ -101,20 +79,42 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-25T00:15:00.000Z",
+      "published": "2026-08-25T13:15:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "24 分鐘前"
     },
     {
-      "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
+      "title": "Investors poured into Canadian ETFs right before trade talks broke down",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/investors-poured-into-canadian-etfs-right-before-trade-talks-broke-down-c8bea8ee?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-25T00:00:00.000Z",
+      "published": "2026-08-25T12:56:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "43 分鐘前"
+    },
+    {
+      "title": "Stick with value stocks until everyone starts talking about them — they’re still under the radar, this Wall Street firm says",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-25T12:40:00.000Z",
+      "why": null,
+      "ago": "59 分鐘前"
+    },
+    {
+      "title": "Trump’s trade war with Canada could lead the U.S. back to quantitative easing",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/trumps-canada-trade-war-could-lead-the-u-s-back-to-quantitative-easing-eef9be8b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-25T12:33:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
     }
   ],
   "errors": []
