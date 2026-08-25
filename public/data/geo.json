@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-24T22:49:42.947Z",
-  "updatedLocal": "2026/8/25 06:49:42",
+  "updated": "2026-08-25T03:51:01.451Z",
+  "updatedLocal": "2026/8/25 11:51:01",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-24T16:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Economics",
@@ -26,7 +26,7 @@
       "group": "ai",
       "published": "2026-08-24T17:58:37.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-08-24T12:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "How to encourage smarter AI use in the classroom",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-08-24T14:20:19.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Kids outlearn AI—and we still don’t know why",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-08-24T09:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "How XPUs Meet a World-Class AI Factory",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-08-24T15:00:54.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-08-24T15:00:41.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "13 小時前"
     }
   ],
   "errors": []

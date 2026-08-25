@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-24T22:49:42.947Z",
-  "updatedLocal": "2026/8/25 06:49:42",
+  "updated": "2026-08-25T03:51:01.451Z",
+  "updatedLocal": "2026/8/25 11:51:01",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-24T17:24:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Sustainability leadership moves",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-08-24T10:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "COP17 mobilises $1.3bn for land restoration and drought resilience",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-08-24T14:56:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Could Norway’s oil and gas plans pave the way for more UK fossil fuel projects?",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-08-24T13:34:54.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Weakened ZEV Mandate would cut £1.5bn from EV charging sales",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-08-24T11:01:27.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Why every business just got a stake in the High Seas",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-08-24T10:46:04.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "THREE WEEKS to go until edie’s Sustainable Supply Chains Summit",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-08-24T08:00:03.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "演算法幫你算減碳路徑 「Green AI Taiwan」讓中小企業減碳變簡單",
@@ -92,18 +92,7 @@
       "group": null,
       "published": "2026-08-24T10:04:38.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "賽博格蟑螂穿上「潛水裝」 從震災搜救進軍水下任務",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243635",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-24T01:34:20.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "《能管法》修正三讀：新增能源自給義務，400家既有用電大戶不受約束",
@@ -114,7 +103,18 @@
       "group": null,
       "published": "2026-08-24T10:19:39.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "插在土裡就能發電 香菇型「細菌電池」全天候捕捉微生物電子",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243740",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-25T01:25:22.000Z",
+      "why": null,
+      "ago": "2 小時前"
     }
   ],
   "errors": []
