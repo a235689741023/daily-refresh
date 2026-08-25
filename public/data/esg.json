@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-25T13:38:48.436Z",
-  "updatedLocal": "2026/8/25 21:38:48",
+  "updated": "2026-08-25T22:51:25.536Z",
+  "updatedLocal": "2026/8/26 06:51:25",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Sustainability tools to use in 2026",
+      "summary": "Welcome to the Trellis roundup of new products and services for sustainability professionals, as chosen by our editorial team.",
+      "url": "https://trellis.net/article/corporate-sustainability-tools-to-use/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-25T20:48:50.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "The tangible intangibles of sustainability events",
       "summary": "Ask anyone who runs or regularly attends sustainability conferences why they keep doing it, and you’ll get an answer that sounds soft: connection, community, energy in the room — and, of course, professional development.",
@@ -15,18 +26,18 @@
       "group": null,
       "published": "2026-08-25T10:05:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Nature takes its place in SBTi’s net zero standard",
-      "summary": "The Science Based Targets initiative’s (SBTi’s) updated Corporate Net-Zero Standard landed earlier this summer, and it has already drawn a flood of commentary and analysis — including on Trellis — from nearly every angle.",
+      "summary": "The opinions expressed here by Trellis expert contributors are their own, not those of Trellis or its editors .",
       "url": "https://trellis.net/article/nature-takes-its-place-in-sbtis-net-zero-standard/",
       "source": "Trellis",
       "tag": "國際",
       "group": null,
       "published": "2026-08-25T10:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "What’s next: Key climate and nature standards in 2026",
@@ -36,17 +47,6 @@
       "tag": "國際",
       "group": null,
       "published": "2026-08-24T17:24:00.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Sustainability leadership moves",
-      "summary": "As corporate sustainability matures, some long-time leaders are leaving the profession, while others are tackling a broader set of responsibilities following reorganizations or layoffs.",
-      "url": "https://trellis.net/article/sustainability-leadership-moves/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-24T10:00:00.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-08-25T12:05:57.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "THREE WEEKS to go until edie’s Sustainable Supply Chains Summit",
@@ -70,29 +70,18 @@
       "group": null,
       "published": "2026-08-25T09:00:03.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "14 小時前"
     },
     {
-      "title": "COP17 mobilises $1.3bn for land restoration and drought resilience",
-      "summary": "Kicking off week two of the conference, governments, development banks, funds and businesses have announced over $1bn in new and pipeline finance to tackle desertification, with a focus on restoring rangelands.",
-      "url": "https://www.edie.net/cop17-mobilises-1-3bn-for-land-restoration-and-drought-resilience/",
+      "title": "‘A more prosperous UK’: How climate action can combat the cost-of-living crisis",
+      "summary": "Amid claims from Conservative voices that net-zero ambitions are to blame for spiking living costs, new analysis breaks down how smarter policies can cut prices – without the UK backtracking on climate commitments.",
+      "url": "https://www.edie.net/a-more-prosperous-uk-how-climate-action-can-combat-the-cost-of-living-crisis/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-24T14:56:00.000Z",
+      "published": "2026-08-24T23:18:52.000Z",
       "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "豪雨衝擊古蹟台南東門城塌、美國內華達野火9萬人撤離、新加坡砍伐森林擴建公宅",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243800",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-25T08:16:21.000Z",
-      "why": null,
-      "ago": "5 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "插在土裡就能發電 香菇型「細菌電池」全天候捕捉微生物電子",
@@ -103,7 +92,18 @@
       "group": null,
       "published": "2026-08-25T01:25:22.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "豪雨衝擊古蹟台南東門城塌、美國內華達野火9萬人撤離、新加坡砍伐森林擴建公宅",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243800",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-25T08:16:21.000Z",
+      "why": null,
+      "ago": "15 小時前"
     },
     {
       "title": "民間出資籌拍《海洋與臺灣》 盼各界正視海洋面臨的挑戰",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-08-25T03:40:32.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 小時前"
     }
   ],
   "errors": []

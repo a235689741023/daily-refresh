@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-25T13:38:48.436Z",
-  "updatedLocal": "2026/8/25 21:38:48",
+  "updated": "2026-08-25T22:51:25.536Z",
+  "updatedLocal": "2026/8/26 06:51:25",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,40 @@
       "group": "gis",
       "published": "2026-08-24T16:00:00.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Economics",
-      "summary": "The Economic Research team studies how AI is reshaping the economy, including work, productivity, and economic opportunity.",
-      "url": "https://www.anthropic.com/research/team/economics",
+      "title": "Funding better evaluations of AI’s impact on wellbeing",
+      "summary": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.",
+      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-24T17:58:37.000Z",
+      "published": "2026-08-25T16:10:44.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "7 小時前"
+    },
+    {
+      "title": "The full stack behind abundant intelligence",
+      "summary": "Progress in AI compounds fastest when the entire system improves together.",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-25T07:05:00.000Z",
+      "why": null,
+      "ago": "16 小時前"
+    },
+    {
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "summary": "Since announcing Jalapeño, OpenAI’s first custom inference chip, we have been testing the chip and the system built around it.",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-25T07:00:00.000Z",
+      "why": null,
+      "ago": "16 小時前"
     },
     {
       "title": "Disrupting a new covert influence campaign from Russia",
@@ -37,49 +59,27 @@
       "group": "ai",
       "published": "2026-08-25T00:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "summary": "T he GPT‑5.6 model family is now available in Kiro, a software development agent that brings engineering rigor and quality to AI-native coding at scale.",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "summary": "Understand workspace activity, manage access and usage, and take supported admin actions in one conversation.",
+      "url": "https://openai.com/index/introducing-admin-plugin",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-24T12:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life.",
-      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-08-25T09:00:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "How to encourage smarter AI use in the classroom",
-      "summary": "Chatbots took many schools by surprise upon their release a few years ago.",
-      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-08-24T14:20:19.000Z",
+      "published": "2026-08-25T00:00:00.000Z",
       "why": null,
       "ago": "23 小時前"
     },
     {
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell.",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
+      "title": "Economics",
+      "summary": "The Economic Research team studies how AI is reshaping the economy, including work, productivity, and economic opportunity.",
+      "url": "https://www.anthropic.com/research/team/economics",
+      "source": "Anthropic",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-08-24T09:00:00.000Z",
+      "published": "2026-08-24T17:58:37.000Z",
       "why": null,
       "ago": "昨日"
     }

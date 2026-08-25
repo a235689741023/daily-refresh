@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-25T13:38:48.436Z",
-  "updatedLocal": "2026/8/25 21:38:48",
+  "updated": "2026-08-25T22:51:25.536Z",
+  "updatedLocal": "2026/8/26 06:51:25",
   "digest": null,
   "watch": [],
   "items": [
@@ -13,9 +13,20 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-25T12:42:15.000Z",
+      "published": "2026-08-25T16:00:40.000Z",
       "why": null,
-      "ago": "57 分鐘前"
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Crypto extends gains after biggest 3-day rally since 2023",
+      "summary": "Bitcoin and crypto stocks extended their rally to start the week after the flagship cryptocurrency broke out of its trading range as investor concern over inflation and the fiscal deficit grew.",
+      "url": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-25T13:53:13.000Z",
+      "why": null,
+      "ago": "9 小時前"
     },
     {
       "title": "Prediction market traders doubtful Bessent’s bond interventions will push yields lower",
@@ -26,95 +37,84 @@
       "group": null,
       "published": "2026-08-24T18:40:41.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
-      "summary": "A Goldman Sachs partner leading one of the bank's flagship artificial intelligence projects warned that AI's spread across Wall Street risks hobbling the thinking capabilities of the next generation of financiers.",
-      "url": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-24T15:50:50.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Crypto extends gains after biggest 3-day rally since 2023",
-      "summary": "Bitcoin and crypto stocks extended their rally to start the week after the flagship cryptocurrency broke out of its trading range as investor concern over inflation and the fiscal deficit grew.",
-      "url": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-24T20:02:22.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
-      "summary": "Walk the halls of any major banking conference or listen in on a quarterly earnings call, and one topic keeps coming up: With the window for mergers wide open under the Trump administration, who will take a swing?",
-      "url": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-24T15:22:09.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
-      "summary": "Alibaba shares plunged as much as 10% in Hong Kong on Monday after the Chinese tech giant priced an 80 billion Hong Kong dollar ($10.20 billion) placement of newly issued shares to non-U.S. investors.",
-      "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-24T08:21:17.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
+      "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
+      "summary": "Treasury Secretary Scott Bessent's bond market interventions have generated a modest decline in yields along with a growing chorus of derision from those who think they won't work over the long haul and could have dangerous repercussions.",
+      "url": "https://www.cnbc.com/2026/08/25/stanley-druckenmiller-leads-doubters-who-think-bessents-bond-ploys-will-fail.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-08-25T13:15:00.000Z",
+      "published": "2026-08-25T17:15:50.000Z",
       "why": null,
-      "ago": "24 分鐘前"
+      "ago": "6 小時前"
     },
     {
-      "title": "Investors poured into Canadian ETFs right before trade talks broke down",
+      "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/investors-poured-into-canadian-etfs-right-before-trade-talks-broke-down-c8bea8ee?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-25T12:56:00.000Z",
+      "published": "2026-08-25T22:45:00.000Z",
       "why": null,
-      "ago": "43 分鐘前"
+      "ago": "6 分鐘前"
     },
     {
-      "title": "Stick with value stocks until everyone starts talking about them — they’re still under the radar, this Wall Street firm says",
+      "title": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-25T12:40:00.000Z",
+      "published": "2026-08-25T21:01:00.000Z",
       "why": null,
-      "ago": "59 分鐘前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Trump’s trade war with Canada could lead the U.S. back to quantitative easing",
+      "title": "Callaway Golf’s apology for ad showing woman being shoved to the ground exposes a major industry blind spot",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/trumps-canada-trade-war-could-lead-the-u-s-back-to-quantitative-easing-eef9be8b?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/callaway-golfs-apology-for-ad-showing-woman-being-shoved-to-the-ground-exposes-a-major-industry-blind-spot-41101a13?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-25T12:33:00.000Z",
+      "published": "2026-08-25T21:00:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/why-amd-can-beat-rivals-intel-and-nvidia-in-the-market-for-data-center-cpus-e49a53f1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-25T20:59:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/this-driverless-truck-company-could-be-a-long-term-winner-in-a-market-tesla-plans-to-enter-soon-193bc8fe?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-25T20:56:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "SpaceX to build Musk’s vision for a spaceport that until now ‘only existed in science fiction’",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/spacex-to-build-musks-vision-for-a-spaceport-that-until-now-only-existed-in-science-fiction-f8482712?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-25T20:54:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
     }
   ],
   "errors": []
