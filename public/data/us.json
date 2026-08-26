@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-25T22:51:25.536Z",
-  "updatedLocal": "2026/8/26 06:51:25",
+  "updated": "2026-08-26T03:55:28.439Z",
+  "updatedLocal": "2026/8/26 11:55:28",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
+      "summary": "BEIJING — U.S.-based personal computing and printing firm HP has signed a multi-year global agreement for licensing certain WiFi patents from Chinese telecoms giant Huawei, the companies announced Wednesday.",
+      "url": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-26T02:01:01.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
       "summary": "BEIJING — The U.S. is threatening to cut businesses that help Iran evade sanctions off from the American financial system.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-08-25T16:00:40.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Crypto extends gains after biggest 3-day rally since 2023",
@@ -26,18 +37,7 @@
       "group": null,
       "published": "2026-08-25T13:53:13.000Z",
       "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "Prediction market traders doubtful Bessent’s bond interventions will push yields lower",
-      "summary": "Treasury Secretary Scott Bessent is seeking to cap rising yields using a variety of tools at his department's disposal.",
-      "url": "https://www.cnbc.com/2026/08/24/prediction-market-traders-skeptical-bessent-will-send-yields-lower.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-24T18:40:41.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "14 小時前"
     },
     {
       "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
@@ -48,73 +48,73 @@
       "group": null,
       "published": "2026-08-25T17:15:50.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+      "title": "Are older Americans spoiling the economy for everyone else?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/are-older-americans-spoiling-the-economy-for-everyone-else-064b5820?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-25T22:45:00.000Z",
-      "why": null,
-      "ago": "6 分鐘前"
-    },
-    {
-      "title": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-25T21:01:00.000Z",
+      "published": "2026-08-26T01:41:00.000Z",
       "why": null,
       "ago": "2 小時前"
     },
     {
-      "title": "Callaway Golf’s apology for ad showing woman being shoved to the ground exposes a major industry blind spot",
+      "title": "5 cheap U.S. cities to retire in — if you can deal with this one thing",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/callaway-golfs-apology-for-ad-showing-woman-being-shoved-to-the-ground-exposes-a-major-industry-blind-spot-41101a13?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-25T21:00:00.000Z",
+      "published": "2026-08-26T01:35:00.000Z",
       "why": null,
       "ago": "2 小時前"
     },
     {
-      "title": "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs",
+      "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/why-amd-can-beat-rivals-intel-and-nvidia-in-the-market-for-data-center-cpus-e49a53f1?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-25T20:59:00.000Z",
+      "published": "2026-08-26T00:30:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon",
+      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/this-driverless-truck-company-could-be-a-long-term-winner-in-a-market-tesla-plans-to-enter-soon-193bc8fe?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-25T20:56:00.000Z",
+      "published": "2026-08-26T00:01:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "4 小時前"
     },
     {
-      "title": "SpaceX to build Musk’s vision for a spaceport that until now ‘only existed in science fiction’",
+      "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/spacex-to-build-musks-vision-for-a-spaceport-that-until-now-only-existed-in-science-fiction-f8482712?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-25T20:54:00.000Z",
+      "published": "2026-08-25T23:01:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-25T22:57:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-25T22:51:25.536Z",
-  "updatedLocal": "2026/8/26 06:51:25",
+  "updated": "2026-08-26T03:55:28.439Z",
+  "updatedLocal": "2026/8/26 11:55:28",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,7 @@
       "group": "ai",
       "published": "2026-08-25T16:10:44.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "The full stack behind abundant intelligence",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-08-25T07:05:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-08-25T07:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Disrupting a new covert influence campaign from Russia",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-08-25T00:00:00.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
@@ -70,18 +70,18 @@
       "group": "ai",
       "published": "2026-08-25T00:00:00.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Economics",
-      "summary": "The Economic Research team studies how AI is reshaping the economy, including work, productivity, and economic opportunity.",
-      "url": "https://www.anthropic.com/research/team/economics",
-      "source": "Anthropic",
-      "tag": "模型",
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life.",
+      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-08-24T17:58:37.000Z",
+      "published": "2026-08-25T09:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "19 小時前"
     }
   ],
   "errors": []

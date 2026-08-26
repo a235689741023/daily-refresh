@@ -1,11 +1,77 @@
 {
   "domain": "tw",
   "title": "台股",
-  "updated": "2026-08-25T22:51:25.536Z",
-  "updatedLocal": "2026/8/26 06:51:25",
+  "updated": "2026-08-26T03:55:28.439Z",
+  "updatedLocal": "2026/8/26 11:55:28",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "研調：記憶體貢獻成長　估今年全球半導體營收年增92%",
+      "summary": "（中央社記者 張建中 新竹26日電）研調機構顧能（Gartner）預估，2026年全球半導體營收將成長92%，達到1.6兆美元；其中，記憶體營收將達到8370億美元，並於2027年進一步突破1兆美元大關。顧能表示，在人工智慧（AI）基礎設施的持續投資，以及記憶體價格超乎預期強勁推升下，半導體產業正急遽擴張，邁入一個全新的增長階段。",
+      "url": "https://www.cna.com.tw/news/afe/202608260052.aspx",
+      "source": "中央社 財經",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-08-26T02:41:40.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "台股開低震盪　大立光漲停重回6000元",
+      "summary": "（中央社記者 江明晏 台北26日電）台股今天開低震盪，早盤一度跌逾200點，回測45000點關卡，隨後跌勢收斂，台積電下跌15元，至2385元，聯發科、鴻海小漲。指標股方面，CPO族群勁揚，大立光漲停至6290元，股價重回6000元，玉晶光漲逾8%，光聖、聯鈞漲逾2%；此外，PCB族群的台虹拉漲停。",
+      "url": "https://www.cna.com.tw/news/afe/202608260027.aspx",
+      "source": "中央社 財經",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-08-26T01:18:46.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "新台幣開盤升3.8分　為31.83元",
+      "summary": null,
+      "url": "https://www.cna.com.tw/news/afe/202608260022.aspx",
+      "source": "中央社 財經",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-08-26T01:05:35.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "台股開盤跌11.82點",
+      "summary": null,
+      "url": "https://www.cna.com.tw/news/afe/202608260021.aspx",
+      "source": "中央社 財經",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-08-26T01:04:33.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "美股齊揚台積電ADR漲1.78%　投顧：關注輝達財報",
+      "summary": "（中央社記者 江明晏 台北26日電）美股齊揚、台積電ADR漲1.78%，輝達財報公布前，股價終止連7跌，台指期盤後指數上漲405點；台股25日漲407.14點，收在45169.46點，投顧分析，台股量縮，市場關注輝達（NVIDIA）即將公布的財報。",
+      "url": "https://www.cna.com.tw/news/afe/202608260016.aspx",
+      "source": "中央社 財經",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-08-26T00:24:22.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "華爾街日報：Anthropic自估潛在營收超過30兆美元",
+      "summary": "（中央社紐約25日綜合外電報導）「華爾街日報」今天報導，美國人工智慧（AI）開發商Anthropic很可能告訴投資人，其總體潛在市場（TAM）規模可望超過30兆美元，高於SpaceX自估的28.5兆美元。路透社報導，總體潛在市場（total addressable market，TAM）指的是某項產品或服務若在相關市場達到100%市占率時，全年可能獲得的營收規模。",
+      "url": "https://www.cna.com.tw/news/aopl/202608260008.aspx",
+      "source": "中央社 財經",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-08-25T22:24:01.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
     {
       "title": "市場權衡中東局勢　美股收盤齊揚",
       "summary": "（中央社紐約25日綜合外電報導）美國近日宣布對伊朗擴大經濟制裁，但未訂出明確時程，也未點名制裁其他國家，較分析師預期來得溫和，此外美伊也已重啟穿梭外交，市場正權衡局勢發展，華爾街股市今天收紅。費城半導體指數漲164.87點或1.44%，收11588.04點。",
@@ -15,7 +81,7 @@
       "group": null,
       "published": "2026-08-25T21:27:58.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "6 小時前"
     },
     {
       "title": "市場估美再對伊朗軍事打擊風險降低　國際油價收黑",
@@ -26,7 +92,7 @@
       "group": null,
       "published": "2026-08-25T20:53:53.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "SpaceX將斥資千億美元打造新火箭基地　2027年動工",
@@ -37,7 +103,7 @@
       "group": null,
       "published": "2026-08-25T19:43:49.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "加拿大對美國祭對等報復關稅　含鋼鋁家電海鮮等700品項",
@@ -48,72 +114,6 @@
       "group": null,
       "published": "2026-08-25T19:08:47.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "美國對伊朗制裁未見明顯衝擊  歐股收盤漲多跌少",
-      "summary": "（中央社倫敦25日綜合外電報導）美國宣布對伊朗新一輪制裁後，未見其經濟壓力明顯升高，令投資人鬆一口氣；加上德國第2季經濟成長率終值優於初值，歐洲主要股市今天收盤大多應聲上漲，惟法國股市尾盤轉跌。巴黎CAC 40指數小跌13.81點或0.16%，收8439.20點。",
-      "url": "https://www.cna.com.tw/news/afe/202608260002.aspx",
-      "source": "中央社 財經",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-25T16:47:42.000Z",
-      "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "蘋果發表M6及M5 Ultra晶片　強化桌機AI運算能力",
-      "summary": "（中央社記者 吳家豪 台北25日電）蘋果公司（Apple）今天在官網發表新一代自研晶片M6與M5 Ultra，同時推出搭載新晶片的桌上型電腦Mac mini與Mac Studio，全面強化裝置端人工智慧（AI）運算能力與繪圖效能。",
-      "url": "https://www.cna.com.tw/news/ait/202608250371.aspx",
-      "source": "中央社 財經",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-25T15:13:32.000Z",
-      "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "星媒：美施壓伊朗之際  試圖避免與中國爆發更廣泛經濟外交衝突",
-      "summary": "（中央社台北25日電）美國對伊朗發動新一輪制裁，其中涉及數十家中國大陸和香港企業，但是未制裁被指協助伊朗石油貿易的中國大型金融機構。星媒稱，這顯示華盛頓施壓德黑蘭之際，仍試圖避免與北京爆發更廣泛的經濟和外交衝突。",
-      "url": "https://www.cna.com.tw/news/acn/202608250363.aspx",
-      "source": "中央社 財經",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-25T14:18:12.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "今彩539第115206期　頭獎1注中獎",
-      "summary": null,
-      "url": "https://www.cna.com.tw/news/ahel/202608250361.aspx",
-      "source": "中央社 財經",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-25T14:07:08.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "大樂透第115082期　頭獎槓龜",
-      "summary": null,
-      "url": "https://www.cna.com.tw/news/ahel/202608250360.aspx",
-      "source": "中央社 財經",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-25T14:04:05.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "輝達財報前科技股反彈　美股開高",
-      "summary": "（中央社紐約25日綜合外電報導）在人工智慧（AI）巨頭輝達（NVIDIA）公布財報及一項對利率預期具關鍵影響的通膨數據發布前，科技股從前一交易日的拋售中反彈，華爾街股巿主要指數今天開盤走高。以科技股為主的那斯達克指數上漲168.5點或0.65%，報26148.71點。",
-      "url": "https://www.cna.com.tw/news/afe/202608250358.aspx",
-      "source": "中央社 財經",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-25T13:52:01.000Z",
-      "why": null,
       "ago": "9 小時前"
     }
   ],
@@ -121,7 +121,7 @@
     {
       "source": "鉅亨網 台股",
       "url": "https://news.cnyes.com/rss/v1/news/category/tw_stock",
-      "message": "Invalid character in entity name\nLine: 1008\nColumn: 48\nChar:  "
+      "message": "Invalid character in entity name\nLine: 1263\nColumn: 48\nChar:  "
     }
   ]
 }
