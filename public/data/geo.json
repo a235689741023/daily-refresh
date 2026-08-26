@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-26T03:55:28.439Z",
-  "updatedLocal": "2026/8/26 11:55:28",
+  "updated": "2026-08-26T13:43:26.457Z",
+  "updatedLocal": "2026/8/26 21:43:26",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-24T16:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Funding better evaluations of AI’s impact on wellbeing",
@@ -26,62 +26,62 @@
       "group": "ai",
       "published": "2026-08-25T16:10:44.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "The full stack behind abundant intelligence",
-      "summary": "Progress in AI compounds fastest when the entire system improves together.",
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "source": "OpenAI",
+      "title": "What we look for in a wellbeing evaluation - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/5ecb637cb206057cb93cf4a9e72e843fda5e9892.pdf",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-25T07:05:00.000Z",
+      "published": "2026-08-25T16:39:41.000Z",
       "why": null,
       "ago": "21 小時前"
     },
     {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "summary": "Since announcing Jalapeño, OpenAI’s first custom inference chip, we have been testing the chip and the system built around it.",
-      "url": "https://openai.com/index/jalapeno-first-results",
+      "title": "The 2026 State of AI Agents Report",
+      "summary": null,
+      "url": "https://resources.anthropic.com/hubfs/The%202026%20State%20of%20AI%20Agents%20Report.pdf?utm_source\\=Horizonscan\\&utm_medium\\=email\\&utm_campaign\\=ai-pulse-daily-brief-2026-08-25",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-25T21:43:37.000Z",
+      "why": null,
+      "ago": "16 小時前"
+    },
+    {
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "summary": "The online travel company is using Codex to put software development in the hands of teams across the business—while helping engineers focus on harder problems.",
+      "url": "https://openai.com/index/loveholidays",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-25T07:00:00.000Z",
+      "published": "2026-08-26T00:00:00.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "14 小時前"
     },
     {
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "summary": "Our mission is to ensure that artificial general intelligence benefits all of humanity. We advance this mission by deploying our innovations to build AI tools that help people solve hard problems.",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-25T00:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "summary": "Understand workspace activity, manage access and usage, and take supported admin actions in one conversation.",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-25T00:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life.",
-      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "title": "Raised on AI",
+      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms.",
+      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
       "source": "MIT Tech Review",
       "tag": "趨勢",
       "group": "ai",
-      "published": "2026-08-25T09:00:00.000Z",
+      "published": "2026-08-26T09:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "5 小時前"
+    },
+    {
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "summary": "Puzzles and games have been central to AI development since the very beginning.",
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-08-26T09:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     }
   ],
   "errors": []

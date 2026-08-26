@@ -1,11 +1,33 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-26T03:55:28.439Z",
-  "updatedLocal": "2026/8/26 11:55:28",
+  "updated": "2026-08-26T13:43:26.457Z",
+  "updatedLocal": "2026/8/26 21:43:26",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "The hidden water liability of AI data centers",
+      "summary": "Data centers are thirstier than most people realize, but not because of the water pumped into their on-site cooling equipment.",
+      "url": "https://trellis.net/article/the-hidden-water-liability-of-ai-data-centers/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-26T10:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "New rules let PepsiCo integrate emissions certificates into its carbon accounts",
+      "summary": "When the Science Based Targets initiative (SBTi) said in June that it would give companies more flexibility in tackling supply-chain emissions, the decision won applause from businesses that have been struggling to shrink that part of their footprint.",
+      "url": "https://trellis.net/article/pepsico-environmental-attribute-certificates/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-26T10:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "Sustainability tools to use in 2026",
       "summary": "Welcome to the Trellis roundup of new products and services for sustainability professionals, as chosen by our editorial team.",
@@ -15,7 +37,7 @@
       "group": null,
       "published": "2026-08-25T20:48:50.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "The tangible intangibles of sustainability events",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-08-25T10:05:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Nature takes its place in SBTi’s net zero standard",
@@ -37,7 +59,40 @@
       "group": null,
       "published": "2026-08-25T10:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "‘Like patching a leaking pipe’: Energy cap rise sparks calls for reform",
+      "summary": "Today (26 August), Ofgem confirmed a 4% increase on October's energy price cap, bringing bills to a three-year high.",
+      "url": "https://www.edie.net/like-patching-a-leaking-pipe-energy-cap-rise-sparks-calls-for-reform/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-26T10:53:15.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "ONS: Heat linked to more than 40,000 deaths in England since 1988",
+      "summary": "The cold has long been the silent killer. But the data now tells a different story, one where the warmth is claiming more lives than previously understood.",
+      "url": "https://www.edie.net/ons-heat-linked-to-more-than-40000-deaths-in-england-since-1988/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-26T09:58:19.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "TWO WEEKS TO GO: Exploring the role of bio-based materials in lower-carbon buildings",
+      "summary": "In two weeks' time, edie is hosting a new webinar exploring the growing interest in bio-based materials.",
+      "url": "https://www.edie.net/two-weeks-to-go-exploring-the-role-of-bio-based-materials-in-lower-carbon-buildings/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-26T09:39:15.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "TUC calls for bank windfall tax to cut household energy bills",
@@ -48,40 +103,7 @@
       "group": null,
       "published": "2026-08-25T23:21:20.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Türkiye unveils COP31 targets and thematic agenda",
-      "summary": "In its third Letter to Parties, the COP31 Presidency has outlined its top 10 priorities for the summit in November, including electrification and methane reduction.",
-      "url": "https://www.edie.net/turkiye-unveils-cop31-targets-and-thematic-agenda/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-25T12:05:57.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "THREE WEEKS to go until edie’s Sustainable Supply Chains Summit",
-      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
-      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-25T09:00:03.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "豪雨衝擊古蹟台南東門城塌、美國內華達野火9萬人撤離、新加坡砍伐森林擴建公宅",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243800",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-25T08:16:21.000Z",
-      "why": null,
-      "ago": "20 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "台南累積雨量破百年重現期標準、中國爆甲醛白菜、全球平均海面溫度21.1℃創新高",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-08-26T02:51:40.000Z",
       "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "中油砸千億推「新四輕」？ 民團辦石化產業論壇 專家籲先精算這個關鍵",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243803",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-25T10:01:49.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "2026盛夏多瑙河危機：水位探底、航運與發電拉警報、戰艦與長毛象遺骸重現",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243801",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-25T09:51:48.000Z",
-      "why": null,
-      "ago": "18 小時前"
+      "ago": "11 小時前"
     }
   ],
   "errors": []
