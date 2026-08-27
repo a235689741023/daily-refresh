@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-26T13:43:26.457Z",
-  "updatedLocal": "2026/8/26 21:43:26",
+  "updated": "2026-08-27T03:24:19.032Z",
+  "updatedLocal": "2026/8/27 11:24:19",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-26T13:20:34.000Z",
       "why": null,
-      "ago": "23 分鐘前"
+      "ago": "14 小時前"
     },
     {
       "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
@@ -24,31 +24,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-26T04:20:31.000Z",
+      "published": "2026-08-27T00:01:35.000Z",
       "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
-      "summary": "BEIJING — The U.S. is threatening to cut businesses that help Iran evade sanctions off from the American financial system.",
-      "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-25T16:00:40.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Crypto extends gains after biggest 3-day rally since 2023",
-      "summary": "Bitcoin and crypto stocks extended their rally to start the week after the flagship cryptocurrency broke out of its trading range as investor concern over inflation and the fiscal deficit grew.",
-      "url": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-25T13:53:13.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "3 小時前"
     },
     {
       "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
@@ -59,62 +37,84 @@
       "group": null,
       "published": "2026-08-26T13:35:50.000Z",
       "why": null,
-      "ago": "8 分鐘前"
+      "ago": "14 小時前"
     },
     {
-      "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
-      "summary": "Treasury Secretary Scott Bessent's bond market interventions have generated a modest decline in yields along with a growing chorus of derision from those who think they won't work over the long haul and could have dangerous repercussions.",
-      "url": "https://www.cnbc.com/2026/08/25/stanley-druckenmiller-leads-doubters-who-think-bessents-bond-ploys-will-fail.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-25T17:15:50.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Meta’s stock rises as the company settles in social-media addiction trial",
+      "title": "What to know about Hugging Face, the open-source AI startup reportedly catching Nvidia’s eye",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/metas-stock-rises-as-the-company-settles-in-social-media-addiction-trial-78abdfbf?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/what-to-know-about-hugging-face-the-open-source-ai-startup-reportedly-catching-nvidias-eye-243771f8?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-26T13:40:00.000Z",
-      "why": null,
-      "ago": "3 分鐘前"
-    },
-    {
-      "title": "There’s so much betting against long-term bonds that a turnaround could catch investors off guard, says Citadel Securities",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/wall-streets-massive-bet-against-long-term-bonds-is-a-recipe-for-a-painful-bearish-unwind-says-citadel-securities-430dc145?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-26T13:36:00.000Z",
+      "published": "2026-08-27T03:17:00.000Z",
       "why": null,
       "ago": "7 分鐘前"
     },
     {
-      "title": "The renter generation: Young Americans, shut out of homeownership, brace to rent forever",
+      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-renter-generation-young-americans-shut-out-of-homeownership-brace-to-rent-forever-43be0585?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-26T13:34:00.000Z",
+      "published": "2026-08-27T02:41:00.000Z",
       "why": null,
-      "ago": "9 分鐘前"
+      "ago": "43 分鐘前"
     },
     {
-      "title": "‘The relationship quickly deteriorated’: My friend’s lawyer settled his injury case without his consent. What can he do?",
+      "title": "CrowdStrike’s stock soars after AI fuels the cybersecurity company’s ‘best quarter in history’",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-relationship-quickly-deteriorated-my-friends-lawyer-settled-his-injury-case-without-his-consent-what-can-he-do-a289fee9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-26T13:30:00.000Z",
+      "published": "2026-08-27T00:43:00.000Z",
       "why": null,
-      "ago": "13 分鐘前"
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Fed’s Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-27T00:14:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Salesforce’s stock gets an Anthropic boost — and more highlights from earnings",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-26T22:50:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-26T22:30:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "I just had my first baby and don’t want to go back to work. Is quitting for a year a bad idea?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-just-had-my-first-baby-and-dont-want-to-go-back-to-work-is-quitting-for-a-year-a-bad-idea-780122e6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-26T22:30:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     }
   ],
   "errors": []

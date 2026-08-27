@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-26T13:43:26.457Z",
-  "updatedLocal": "2026/8/26 21:43:26",
+  "updated": "2026-08-27T03:24:19.032Z",
+  "updatedLocal": "2026/8/27 11:24:19",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Sustainable AI: Tools, frameworks and best practices in 2026",
+      "summary": "Sustainability professionals are scrambling to understand how AI adoption will impact environmental goals.",
+      "url": "https://trellis.net/article/sustainable-ai-tools-frameworks-best-practices/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-26T20:20:20.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "The hidden water liability of AI data centers",
       "summary": "Data centers are thirstier than most people realize, but not because of the water pumped into their on-site cooling equipment.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-08-26T10:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "New rules let PepsiCo integrate emissions certificates into its carbon accounts",
@@ -26,40 +37,62 @@
       "group": null,
       "published": "2026-08-26T10:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "Sustainability tools to use in 2026",
-      "summary": "Welcome to the Trellis roundup of new products and services for sustainability professionals, as chosen by our editorial team.",
-      "url": "https://trellis.net/article/corporate-sustainability-tools-to-use/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-25T20:48:50.000Z",
-      "why": null,
       "ago": "17 小時前"
     },
     {
-      "title": "The tangible intangibles of sustainability events",
-      "summary": "Ask anyone who runs or regularly attends sustainability conferences why they keep doing it, and you’ll get an answer that sounds soft: connection, community, energy in the room — and, of course, professional development.",
-      "url": "https://trellis.net/article/the-tangible-intangibles-of-sustainability-events/",
-      "source": "Trellis",
+      "title": "Two data centres set to emit more than ExxonMobil’s UK operations, analysis warns",
+      "summary": "Two upcoming data centres will emit 4.5 million tonnes of carbon a year when fully running, analysis by non-profit Foxglove has found, exceeding fossil fuel company ExxonMobil’s entire UK emissions.",
+      "url": "https://www.edie.net/two-data-centres-set-to-emit-more-than-exxonmobils-uk-operations-analysis-warns/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-25T10:05:00.000Z",
+      "published": "2026-08-26T19:42:58.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "8 小時前"
     },
     {
-      "title": "Nature takes its place in SBTi’s net zero standard",
-      "summary": "The opinions expressed here by Trellis expert contributors are their own, not those of Trellis or its editors .",
-      "url": "https://trellis.net/article/nature-takes-its-place-in-sbtis-net-zero-standard/",
-      "source": "Trellis",
+      "title": "How AI can accelerate investment in climate solutions",
+      "summary": "Event Date: 27/10/2026 | 1:00 pm UK | 9:00 am US East Coast ET | 6:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST Join the edie webinar masterclass on 27 October 2026 to discover how AI can significantly boost investment in vital climate solutions.",
+      "url": "https://www.edie.net/how-ai-can-accelerate-investment-in-climate-solutions/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-25T10:00:00.000Z",
+      "published": "2026-08-26T15:45:27.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Study: Climate damage costs from North Sea oil and gas would outweigh productivity boost",
+      "summary": "As more North Sea projects are successfully decommissioned, new research has found that the economic value that the Jackdaw and Rosebank oil and gas fields could bring could be lost six times over due to increased climate damage.",
+      "url": "https://www.edie.net/climate-damage-costs-from-north-sea-oil-and-gas-fields-would-outweigh-productivity-boost/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-26T14:40:31.000Z",
+      "why": null,
+      "ago": "13 小時前"
+    },
+    {
+      "title": "The EU Circular Economy Act could supercharge circular electronics – if it’s built for scale",
+      "summary": "The EU’s upcoming Circular Economy Act (CEA) has a chance to deliver circularity for electronics, but only if it creates the economic, technological and regulatory conditions that enable circularity at scale, argues Global Electronics Association's director of sustainability policy, Dr Diana Radovan.",
+      "url": "https://www.edie.net/the-eu-circular-economy-act-could-supercharge-circular-electronics-if-its-built-for-scale/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-26T14:40:19.000Z",
+      "why": null,
+      "ago": "13 小時前"
+    },
+    {
+      "title": "COP17 advances tools to boost global drought resilience",
+      "summary": "On the conference's dedicated Water Day (26 August), nations announced new progress on global water security, including a pooled fund for vulnerable countries, catalytic financing for drought resilience and the first Drought Resilience Index.",
+      "url": "https://www.edie.net/cop17-advances-tools-to-boost-global-drought-resilience/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-26T14:03:39.000Z",
+      "why": null,
+      "ago": "13 小時前"
     },
     {
       "title": "‘Like patching a leaking pipe’: Energy cap rise sparks calls for reform",
@@ -70,7 +103,7 @@
       "group": null,
       "published": "2026-08-26T10:53:15.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "ONS: Heat linked to more than 40,000 deaths in England since 1988",
@@ -81,40 +114,7 @@
       "group": null,
       "published": "2026-08-26T09:58:19.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "TWO WEEKS TO GO: Exploring the role of bio-based materials in lower-carbon buildings",
-      "summary": "In two weeks' time, edie is hosting a new webinar exploring the growing interest in bio-based materials.",
-      "url": "https://www.edie.net/two-weeks-to-go-exploring-the-role-of-bio-based-materials-in-lower-carbon-buildings/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-26T09:39:15.000Z",
-      "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "TUC calls for bank windfall tax to cut household energy bills",
-      "summary": "The Trades Union Congress (TUC) has renewed calls to tax banks' \"booming\" profits in order to shield households from the rising costs of living.",
-      "url": "https://www.edie.net/tuc-calls-for-bank-windfall-tax-to-cut-household-energy-bills/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-25T23:21:20.000Z",
-      "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "台南累積雨量破百年重現期標準、中國爆甲醛白菜、全球平均海面溫度21.1℃創新高",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243807",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-26T02:51:40.000Z",
-      "why": null,
-      "ago": "11 小時前"
+      "ago": "17 小時前"
     }
   ],
   "errors": []
