@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-27T13:56:27.665Z",
-  "updatedLocal": "2026/8/27 21:56:27",
+  "updated": "2026-08-27T22:39:58.233Z",
+  "updatedLocal": "2026/8/28 06:39:58",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
+      "summary": "The Federal Reserve 's cryptic chairman is set to deliver his much-awaited keynote address Friday in Jackson Hole, with markets trying to anticipate what, if anything, he will have to say on key matters affecting the economy and monetary policy.",
+      "url": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-27T21:03:08.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive",
       "summary": "Kansas City Federal Reserve President Jeffrey Schmid said Thursday that inflation is still too high, though he stopped short of calling for an interest rate hike.",
@@ -13,9 +24,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-27T12:20:30.000Z",
+      "published": "2026-08-27T14:11:29.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-08-27T05:34:13.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "HP inks deal with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
@@ -37,82 +48,71 @@
       "group": null,
       "published": "2026-08-27T03:42:17.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 小時前"
     },
     {
-      "title": "China's short-drama producers flood the market with cheap bets — and let audiences pick the winners",
-      "summary": "Surging artificial-intelligence capabilities and declining attention spans have Chinese producers flooding the zone with short-drama films to see which ones take off.",
-      "url": "https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "Fed's Hammack says 'now is the time to act' on raising interest rates",
+      "summary": "Cleveland Federal Reserve President Beth Hammack on Thursday repeated her call for higher interest rates, saying recent inflation data shows the central bank is still too far from its goal.",
+      "url": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-08-26T13:20:34.000Z",
+      "published": "2026-08-27T17:31:09.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "5 小時前"
     },
     {
-      "title": "Salesforce sparks a software-stock rally — and pushes back on AI doomsday fears",
+      "title": "Good Good Golf ad fallout deepens as Callaway ends partnership, retailers pull gear and Golf Channel delays show",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/salesforce-stock-is-jumping-what-wall-street-is-saying-about-its-earnings-and-its-anthropic-relationship-853ada85?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/good-good-golf-ad-fallout-deepens-as-callaway-ends-partnership-retailers-pull-gear-and-golf-channel-delays-show-33546426?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-27T13:35:00.000Z",
+      "published": "2026-08-27T22:17:00.000Z",
       "why": null,
-      "ago": "21 分鐘前"
+      "ago": "23 分鐘前"
     },
     {
-      "title": "Why these analysts say bitcoin will double by next year — and could reach $500,000 by the end of the decade",
+      "title": "Marvell boosts its forecasts, but the stock slides as Wall Street wonders if there’s more to the story",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/why-these-analysts-say-bitcoin-will-double-by-next-year-and-could-reach-500-000-at-the-end-of-the-decade-23ec78f3?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/marvell-is-boosting-its-forecasts-but-thats-not-enough-to-lift-its-stock-c769556a?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-27T13:32:00.000Z",
+      "published": "2026-08-27T22:13:00.000Z",
       "why": null,
-      "ago": "24 分鐘前"
+      "ago": "27 分鐘前"
     },
     {
-      "title": "Buying 30-year bonds? Locking in today’s rates could hurt your retirement planning.",
+      "title": "The options market is signaling further gains for the S&P 500, but one indicator is flashing a warning",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/buying-30-year-bonds-locking-in-todays-rates-could-hurt-your-retirement-planning-4cdcfaca?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-is-nearing-an-especially-positive-price-and-the-options-market-suggests-a-surge-is-likely-a54d866d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-27T13:30:00.000Z",
+      "published": "2026-08-27T22:12:00.000Z",
       "why": null,
-      "ago": "26 分鐘前"
+      "ago": "28 分鐘前"
     },
     {
-      "title": "CrowdStrike’s stock has jumped after record-breaking earnings. Wall Street is lapping it up.",
+      "title": "20 stocks likely to lose money even if the bull market continues",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/crowdstrikes-stock-has-jumped-after-record-breaking-earnings-wall-street-is-lapping-it-up-dbdaca83?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/20-stocks-likely-to-lose-money-even-if-the-bull-market-continues-3f931608?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-27T13:09:00.000Z",
+      "published": "2026-08-27T20:48:00.000Z",
       "why": null,
-      "ago": "47 分鐘前"
+      "ago": "2 小時前"
     },
     {
-      "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+      "title": "Nvidia is getting too big, and that’s a problem",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/nvidia-is-getting-too-big-and-thats-a-problem-e1edabff?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-27T13:00:00.000Z",
-      "why": null,
-      "ago": "56 分鐘前"
-    },
-    {
-      "title": "‘The relationship quickly deteriorated’: My friend’s lawyer settled his injury case without his consent. What can he do?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-relationship-quickly-deteriorated-my-friends-lawyer-settled-his-injury-case-without-his-consent-what-can-he-do-a289fee9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-27T12:15:00.000Z",
+      "published": "2026-08-27T20:24:00.000Z",
       "why": null,
       "ago": "2 小時前"
     }

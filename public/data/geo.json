@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-27T13:56:27.665Z",
-  "updatedLocal": "2026/8/27 21:56:27",
+  "updated": "2026-08-27T22:39:58.233Z",
+  "updatedLocal": "2026/8/28 06:39:58",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,15 +18,15 @@
       "ago": "3 天前"
     },
     {
-      "title": "Enabling independent research on how people use Claude",
-      "summary": "Earlier this year, we ran a pilot giving external researchers access to aggregate, real-world Claude usage data.",
-      "url": "https://www.anthropic.com/research/enabling-independent-research",
+      "title": "Previewing the Model Hardware Standard",
+      "summary": "We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-26T17:07:12.000Z",
+      "published": "2026-08-27T17:58:11.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "5 小時前"
     },
     {
       "title": "Anthropic’s Economic Policy Framework - www-cdn.anthropic.com",
@@ -37,7 +37,29 @@
       "group": "ai",
       "published": "2026-08-27T13:37:31.000Z",
       "why": null,
-      "ago": "19 分鐘前"
+      "ago": "9 小時前"
+    },
+    {
+      "title": "Beneficial Deployments",
+      "summary": "Powerful AI could compress decades of scientific and economic progress into years and help solve some of the hardest problems we face.",
+      "url": "https://www.anthropic.com/beneficial-deployments",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-27T15:07:20.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "summary": "In a randomized experiment with more than 1,000 students, access to ChatGPT and training in causal reasoning improved student work in complementary ways.",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-27T09:00:00.000Z",
+      "why": null,
+      "ago": "14 小時前"
     },
     {
       "title": "Expanding OpenAI’s presence in Brazil",
@@ -48,40 +70,18 @@
       "group": "ai",
       "published": "2026-08-27T03:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "New partnerships with school districts bring ChatGPT for Teachers to more than 100,000 additional educators and staff.",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "source": "OpenAI",
+      "title": "Enabling independent research on how people use Claude",
+      "summary": "Earlier this year, we ran a pilot giving external researchers access to aggregate, real-world Claude usage data.",
+      "url": "https://www.anthropic.com/research/enabling-independent-research",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-26T10:00:00.000Z",
+      "published": "2026-08-26T17:07:12.000Z",
       "why": null,
       "ago": "昨日"
-    },
-    {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "summary": "As students head back to school, OpenAI is releasing a new report on how students and educators are already using ChatGPT to extend learning beyond the classroom.",
-      "url": "https://openai.com/index/learning-never-stops",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-26T10:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Piloting the world's first double-blind AI evaluations",
-      "summary": "William Isaac, Sol Messing and Kristian Lum Building trust in proprietary model benchmarks using cryptographically secure environments Imagine a student is set to take a high-stakes exam.",
-      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-      "source": "Google DeepMind",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-27T12:59:16.000Z",
-      "why": null,
-      "ago": "57 分鐘前"
     }
   ],
   "errors": []

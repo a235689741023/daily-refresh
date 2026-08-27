@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-27T13:56:27.665Z",
-  "updatedLocal": "2026/8/27 21:56:27",
+  "updated": "2026-08-27T22:39:58.233Z",
+  "updatedLocal": "2026/8/28 06:39:58",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Sustainability leadership moves",
+      "summary": "As corporate sustainability matures, some long-time leaders are leaving the profession, while others are tackling a broader set of responsibilities following reorganizations or layoffs.",
+      "url": "https://trellis.net/article/sustainability-leadership-moves/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-27T17:23:18.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
     {
       "title": "Climate ambition is collective. Our system for delivering it is not",
       "summary": "The opinions expressed here by Trellis expert contributors are their own, not those of Trellis or its editors .",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-08-27T09:37:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Sustainable AI: Tools, frameworks and best practices in 2026",
@@ -26,29 +37,29 @@
       "group": null,
       "published": "2026-08-26T20:20:20.000Z",
       "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "The hidden water liability of AI data centers",
-      "summary": "Data centers are thirstier than most people realize, but not because of the water pumped into their on-site cooling equipment.",
-      "url": "https://trellis.net/article/the-hidden-water-liability-of-ai-data-centers/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-26T10:00:00.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "New rules let PepsiCo integrate emissions certificates into its carbon accounts",
-      "summary": "When the Science Based Targets initiative (SBTi) said in June that it would give companies more flexibility in tackling supply-chain emissions, the decision won applause from businesses that have been struggling to shrink that part of their footprint.",
-      "url": "https://trellis.net/article/pepsico-environmental-attribute-certificates/",
-      "source": "Trellis",
+      "title": "Government launches new air pollution alerts system",
+      "summary": "Under the scheme, people can opt in to text or email alerts for when a specified area is experiencing high levels of air pollution.",
+      "url": "https://www.edie.net/government-launches-new-air-pollution-alerts-system/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-26T10:00:00.000Z",
+      "published": "2026-08-27T17:50:08.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Global emissions in 2026: The numbers behind the climate challenge",
+      "summary": "According to new data from Climate TRACE, global greenhouse gas (GHG) emissions have risen 0.2% year-on-year, largely due to road transportation.",
+      "url": "https://www.edie.net/global-emissions-in-2026-the-numbers-behind-the-climate-challenge/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-27T16:22:19.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "More UK businesses increasing investment in heat adaptation, survey finds",
@@ -59,10 +70,10 @@
       "group": null,
       "published": "2026-08-27T13:14:14.000Z",
       "why": null,
-      "ago": "42 分鐘前"
+      "ago": "9 小時前"
     },
     {
-      "title": "Plug-in solar hits market to help British households cut bills",
+      "title": "Plug-in solar launches to help households cut bills amid a British solar boom",
       "summary": "From today (27 August), the easy-to-use plug-in solar panels are legal to buy and use, potentially helping homes knock £110 of their energy bills.",
       "url": "https://www.edie.net/plug-in-solar-hits-market-to-help-british-households-cut-bills/",
       "source": "edie",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-08-27T11:49:40.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "There is no such thing as ‘sustainable paint’, so why does the industry keep marketing it as eco-friendly?",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-08-27T09:42:37.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "TWO WEEKS TO GO: Exploring the role of bio-based materials in lower-carbon buildings",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-08-27T09:39:15.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "THREE WEEKS to go until edie’s Sustainable Supply Chains Summit",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-08-27T09:00:03.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Two data centres set to emit more than ExxonMobil’s UK operations, analysis warns",
-      "summary": "Two upcoming data centres will emit 4.5 million tonnes of carbon a year when fully running, analysis by non-profit Foxglove has found, exceeding fossil fuel company ExxonMobil’s entire UK emissions.",
-      "url": "https://www.edie.net/two-data-centres-set-to-emit-more-than-exxonmobils-uk-operations-analysis-warns/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-26T19:42:58.000Z",
-      "why": null,
-      "ago": "18 小時前"
+      "ago": "14 小時前"
     }
   ],
   "errors": []
