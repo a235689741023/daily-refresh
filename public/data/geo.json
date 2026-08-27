@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-27T03:24:19.032Z",
-  "updatedLocal": "2026/8/27 11:24:19",
+  "updated": "2026-08-27T13:56:27.665Z",
+  "updatedLocal": "2026/8/27 21:56:27",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-24T16:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "Enabling independent research on how people use Claude",
@@ -26,7 +26,29 @@
       "group": "ai",
       "published": "2026-08-26T17:07:12.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "Anthropic’s Economic Policy Framework - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/9ea607a5dd67c168093829b701f3a0a6d21156d5.pdf?utm_source\\=chatgpt.com",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-27T13:37:31.000Z",
+      "why": null,
+      "ago": "19 分鐘前"
+    },
+    {
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "summary": "With the launch of commercial operations in Brazil, we’re deepening our long-term commitment to the country and helping turn rapid AI adoption into broad economic and social benefits.",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-27T03:00:00.000Z",
+      "why": null,
+      "ago": "11 小時前"
     },
     {
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
@@ -37,7 +59,7 @@
       "group": "ai",
       "published": "2026-08-26T10:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Learning never stops: How AI makes learning continuous",
@@ -48,40 +70,18 @@
       "group": "ai",
       "published": "2026-08-26T10:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "The Hugging Face incident and the road ahead",
-      "summary": "In July 2026, during internal cybersecurity evaluations, OpenAI models circumvented controls designed to isolate them from the internet and compromised parts of OpenAI’s internal research infrastructure and Hugging Face’s systems ⁠ .",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-26T00:00:00.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "summary": "The online travel company is using Codex to put software development in the hands of teams across the business—while helping engineers focus on harder problems.",
-      "url": "https://openai.com/index/loveholidays",
-      "source": "OpenAI",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "summary": "William Isaac, Sol Messing and Kristian Lum Building trust in proprietary model benchmarks using cryptographically secure environments Imagine a student is set to take a high-stakes exam.",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "source": "Google DeepMind",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-26T00:00:00.000Z",
+      "published": "2026-08-27T12:59:16.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "The 2026 State of AI Agents Report",
-      "summary": null,
-      "url": "https://resources.anthropic.com/hubfs/The%202026%20State%20of%20AI%20Agents%20Report.pdf?utm_source\\=Horizonscan\\&utm_medium\\=email\\&utm_campaign\\=ai-pulse-daily-brief-2026-08-25",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-25T21:43:37.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "57 分鐘前"
     }
   ],
   "errors": []

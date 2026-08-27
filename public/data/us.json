@@ -1,11 +1,44 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-27T03:24:19.032Z",
-  "updatedLocal": "2026/8/27 11:24:19",
+  "updated": "2026-08-27T13:56:27.665Z",
+  "updatedLocal": "2026/8/27 21:56:27",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive",
+      "summary": "Kansas City Federal Reserve President Jeffrey Schmid said Thursday that inflation is still too high, though he stopped short of calling for an interest rate hike.",
+      "url": "https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-27T12:20:30.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
+      "summary": "BEIJING — Chinese artificial intelligence company Z.ai released a new model Wednesday that the company claims uses entirely homegrown semiconductors to operate.",
+      "url": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-27T05:34:13.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "HP inks deal with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
+      "summary": "BEIJING — U.S.-based personal computing and printing firm HP has signed a multi-year global agreement for licensing certain WiFi patents from Chinese telecoms giant Huawei, the companies announced Wednesday.",
+      "url": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-27T03:42:17.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
     {
       "title": "China's short-drama producers flood the market with cheap bets — and let audiences pick the winners",
       "summary": "Surging artificial-intelligence capabilities and declining attention spans have Chinese producers flooding the zone with short-drama films to see which ones take off.",
@@ -15,106 +48,73 @@
       "group": null,
       "published": "2026-08-26T13:20:34.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
-      "summary": "BEIJING — U.S.-based personal computing and printing firm HP has signed a multi-year global agreement for licensing certain WiFi patents from Chinese telecoms giant Huawei, the companies announced Wednesday.",
-      "url": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-27T00:01:35.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
-      "summary": "Prices consumers pay for a variety of goods and services rose slightly in July, according to the Federal Reserve's main inflation gauge.",
-      "url": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-26T13:35:50.000Z",
-      "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "What to know about Hugging Face, the open-source AI startup reportedly catching Nvidia’s eye",
+      "title": "Salesforce sparks a software-stock rally — and pushes back on AI doomsday fears",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/what-to-know-about-hugging-face-the-open-source-ai-startup-reportedly-catching-nvidias-eye-243771f8?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/salesforce-stock-is-jumping-what-wall-street-is-saying-about-its-earnings-and-its-anthropic-relationship-853ada85?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-27T03:17:00.000Z",
+      "published": "2026-08-27T13:35:00.000Z",
       "why": null,
-      "ago": "7 分鐘前"
+      "ago": "21 分鐘前"
     },
     {
-      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "title": "Why these analysts say bitcoin will double by next year — and could reach $500,000 by the end of the decade",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/why-these-analysts-say-bitcoin-will-double-by-next-year-and-could-reach-500-000-at-the-end-of-the-decade-23ec78f3?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-27T02:41:00.000Z",
+      "published": "2026-08-27T13:32:00.000Z",
       "why": null,
-      "ago": "43 分鐘前"
+      "ago": "24 分鐘前"
     },
     {
-      "title": "CrowdStrike’s stock soars after AI fuels the cybersecurity company’s ‘best quarter in history’",
+      "title": "Buying 30-year bonds? Locking in today’s rates could hurt your retirement planning.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/buying-30-year-bonds-locking-in-todays-rates-could-hurt-your-retirement-planning-4cdcfaca?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-27T00:43:00.000Z",
+      "published": "2026-08-27T13:30:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "26 分鐘前"
     },
     {
-      "title": "Fed’s Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office",
+      "title": "CrowdStrike’s stock has jumped after record-breaking earnings. Wall Street is lapping it up.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/crowdstrikes-stock-has-jumped-after-record-breaking-earnings-wall-street-is-lapping-it-up-dbdaca83?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-27T00:14:00.000Z",
+      "published": "2026-08-27T13:09:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "47 分鐘前"
     },
     {
-      "title": "Salesforce’s stock gets an Anthropic boost — and more highlights from earnings",
+      "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-26T22:50:00.000Z",
+      "published": "2026-08-27T13:00:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "56 分鐘前"
     },
     {
-      "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+      "title": "‘The relationship quickly deteriorated’: My friend’s lawyer settled his injury case without his consent. What can he do?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-relationship-quickly-deteriorated-my-friends-lawyer-settled-his-injury-case-without-his-consent-what-can-he-do-a289fee9?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-26T22:30:00.000Z",
+      "published": "2026-08-27T12:15:00.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "I just had my first baby and don’t want to go back to work. Is quitting for a year a bad idea?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/i-just-had-my-first-baby-and-dont-want-to-go-back-to-work-is-quitting-for-a-year-a-bad-idea-780122e6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-26T22:30:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
+      "ago": "2 小時前"
     }
   ],
   "errors": []
