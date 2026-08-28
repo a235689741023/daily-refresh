@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-27T22:39:58.233Z",
-  "updatedLocal": "2026/8/28 06:39:58",
+  "updated": "2026-08-28T06:11:53.280Z",
+  "updatedLocal": "2026/8/28 14:11:53",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-27T17:23:18.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Climate ambition is collective. Our system for delivering it is not",
@@ -26,18 +26,7 @@
       "group": null,
       "published": "2026-08-27T09:37:00.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Sustainable AI: Tools, frameworks and best practices in 2026",
-      "summary": "Sustainability professionals are scrambling to understand how AI adoption will impact environmental goals.",
-      "url": "https://trellis.net/article/sustainable-ai-tools-frameworks-best-practices/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-26T20:20:20.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "21 小時前"
     },
     {
       "title": "Government launches new air pollution alerts system",
@@ -48,7 +37,7 @@
       "group": null,
       "published": "2026-08-27T17:50:08.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Global emissions in 2026: The numbers behind the climate challenge",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-08-27T16:22:19.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "More UK businesses increasing investment in heat adaptation, survey finds",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-08-27T13:14:14.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Plug-in solar launches to help households cut bills amid a British solar boom",
@@ -81,7 +70,7 @@
       "group": null,
       "published": "2026-08-27T11:49:40.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "There is no such thing as ‘sustainable paint’, so why does the industry keep marketing it as eco-friendly?",
@@ -92,7 +81,7 @@
       "group": null,
       "published": "2026-08-27T09:42:37.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "TWO WEEKS TO GO: Exploring the role of bio-based materials in lower-carbon buildings",
@@ -103,7 +92,7 @@
       "group": null,
       "published": "2026-08-27T09:39:15.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "THREE WEEKS to go until edie’s Sustainable Supply Chains Summit",
@@ -114,7 +103,18 @@
       "group": null,
       "published": "2026-08-27T09:00:03.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "經濟部回應口湖光電案場淹水、尼泊爾山洪疑因冰河崩塌堰塞湖潰決、日本將首次調查動物咖啡館",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243814",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-28T03:02:36.000Z",
+      "why": null,
+      "ago": "3 小時前"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-27T22:39:58.233Z",
-  "updatedLocal": "2026/8/28 06:39:58",
+  "updated": "2026-08-28T06:11:53.280Z",
+  "updatedLocal": "2026/8/28 14:11:53",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,18 @@
       "group": "gis",
       "published": "2026-08-24T16:00:00.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
+    },
+    {
+      "title": "Expanding our support for scientists",
+      "summary": "As Claude becomes increasingly capable at scientific research, we are focusing on building products and programs to support the research community.",
+      "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-27T19:28:34.000Z",
+      "why": null,
+      "ago": "11 小時前"
     },
     {
       "title": "Previewing the Model Hardware Standard",
@@ -26,18 +37,7 @@
       "group": "ai",
       "published": "2026-08-27T17:58:11.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Anthropic’s Economic Policy Framework - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/9ea607a5dd67c168093829b701f3a0a6d21156d5.pdf?utm_source\\=chatgpt.com",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-27T13:37:31.000Z",
-      "why": null,
-      "ago": "9 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Beneficial Deployments",
@@ -48,7 +48,18 @@
       "group": "ai",
       "published": "2026-08-27T15:07:20.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
+    },
+    {
+      "title": "Anthropic’s Economic Policy Framework - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/9ea607a5dd67c168093829b701f3a0a6d21156d5.pdf?utm_source\\=chatgpt.com",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-27T13:37:31.000Z",
+      "why": null,
+      "ago": "17 小時前"
     },
     {
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-08-27T09:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Expanding OpenAI’s presence in Brazil",
@@ -69,17 +80,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-08-27T03:00:00.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Enabling independent research on how people use Claude",
-      "summary": "Earlier this year, we ran a pilot giving external researchers access to aggregate, real-world Claude usage data.",
-      "url": "https://www.anthropic.com/research/enabling-independent-research",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-26T17:07:12.000Z",
       "why": null,
       "ago": "昨日"
     }

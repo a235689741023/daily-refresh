@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-27T22:39:58.233Z",
-  "updatedLocal": "2026/8/28 06:39:58",
+  "updated": "2026-08-28T06:11:53.280Z",
+  "updatedLocal": "2026/8/28 14:11:53",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
+      "summary": "BEIJING — As the U.S. ramped up pressure this week on China with secondary Iran sanctions, the world's two largest economies have still managed to stay focused on ways to cooperate.",
+      "url": "https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-28T01:35:13.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
     {
       "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
       "summary": "The Federal Reserve 's cryptic chairman is set to deliver his much-awaited keynote address Friday in Jackson Hole, with markets trying to anticipate what, if anything, he will have to say on key matters affecting the economy and monetary policy.",
@@ -13,9 +24,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-27T21:03:08.000Z",
+      "published": "2026-08-27T22:58:01.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-08-27T14:11:29.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-08-27T05:34:13.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
       "title": "HP inks deal with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-08-27T03:42:17.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Fed's Hammack says 'now is the time to act' on raising interest rates",
@@ -59,18 +70,18 @@
       "group": null,
       "published": "2026-08-27T17:31:09.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
-      "title": "Good Good Golf ad fallout deepens as Callaway ends partnership, retailers pull gear and Golf Channel delays show",
+      "title": "Judge says Trump administration’s blacklist of Anthropic was illegal",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/good-good-golf-ad-fallout-deepens-as-callaway-ends-partnership-retailers-pull-gear-and-golf-channel-delays-show-33546426?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/judge-says-trump-administrations-blacklist-of-anthropic-was-illegal-5d3411e7?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-27T22:17:00.000Z",
+      "published": "2026-08-28T03:16:00.000Z",
       "why": null,
-      "ago": "23 分鐘前"
+      "ago": "3 小時前"
     },
     {
       "title": "Marvell boosts its forecasts, but the stock slides as Wall Street wonders if there’s more to the story",
@@ -79,42 +90,31 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-27T22:13:00.000Z",
+      "published": "2026-08-28T00:20:00.000Z",
       "why": null,
-      "ago": "27 分鐘前"
+      "ago": "6 小時前"
     },
     {
-      "title": "The options market is signaling further gains for the S&P 500, but one indicator is flashing a warning",
+      "title": "SpaceX’s $100 billion spaceport plan has investors asking where all the money is coming from",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-s-p-500-is-nearing-an-especially-positive-price-and-the-options-market-suggests-a-surge-is-likely-a54d866d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/spacexs-100-billion-spaceport-plan-has-investors-asking-where-all-the-money-is-coming-from-7395bc51?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-27T22:12:00.000Z",
+      "published": "2026-08-28T00:02:00.000Z",
       "why": null,
-      "ago": "28 分鐘前"
+      "ago": "6 小時前"
     },
     {
-      "title": "20 stocks likely to lose money even if the bull market continues",
+      "title": "Is Nvidia heading for $1 trillion in annual revenue? One analyst now thinks that’s possible.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/20-stocks-likely-to-lose-money-even-if-the-bull-market-continues-3f931608?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/nvidia-stock-is-climbing-after-another-set-of-blockbuster-results-heres-what-wall-street-is-saying-a2260a62?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-27T20:48:00.000Z",
+      "published": "2026-08-27T23:05:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Nvidia is getting too big, and that’s a problem",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/nvidia-is-getting-too-big-and-thats-a-problem-e1edabff?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-27T20:24:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     }
   ],
   "errors": []
