@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-28T06:11:53.280Z",
-  "updatedLocal": "2026/8/28 14:11:53",
+  "updated": "2026-08-28T15:07:44.292Z",
+  "updatedLocal": "2026/8/28 23:07:44",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Planetary prediction engine: Automating global models via Earth AI",
+      "summary": "Rama Pasumarthi, Staff Software Engineer, and Shravya Shetty, Distinguished Engineer, Google Research As part of Google Earth AI , we introduce the planetary prediction engine (PPE), an experimental research capability that autonomously executes the full geospatial modeling workflow — from data discovery to model training — achieving improvements across diverse prediction tasks in public health, food security, environmental risk, and socioeconomics.",
+      "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+      "source": "Google Research",
+      "tag": "研究",
+      "group": "gis",
+      "published": "2026-08-27T17:44:59.000Z",
+      "why": null,
+      "ago": "21 小時前"
+    },
     {
       "title": "Celebrate 110 years of national parks with Maps, Search, and Gemini",
       "summary": "What people are searching in the lead-up to National Parks Week — plus, how Ask Maps, AI Mode, and the Gemini app can help turn your wanderlust into a well-planned adventure.",
@@ -26,7 +37,7 @@
       "group": "ai",
       "published": "2026-08-27T19:28:34.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Previewing the Model Hardware Standard",
@@ -37,7 +48,18 @@
       "group": "ai",
       "published": "2026-08-27T17:58:11.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "summary": "OpenAI and Thailand’s Ministry of Higher Education, Science, Research and Innovation are launching an eight-week accelerator to help startups turn promising ideas into products ready for real-world use.",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-28T02:00:00.000Z",
+      "why": null,
+      "ago": "13 小時前"
     },
     {
       "title": "Beneficial Deployments",
@@ -48,7 +70,7 @@
       "group": "ai",
       "published": "2026-08-27T15:07:20.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Anthropic’s Economic Policy Framework - www-cdn.anthropic.com",
@@ -59,29 +81,18 @@
       "group": "ai",
       "published": "2026-08-27T13:37:31.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "summary": "In a randomized experiment with more than 1,000 students, access to ChatGPT and training in causal reasoning improved student work in complementary ways.",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-27T09:00:00.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "summary": "With the launch of commercial operations in Brazil, we’re deepening our long-term commitment to the country and helping turn rapid AI adoption into broad economic and social benefits.",
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-27T03:00:00.000Z",
-      "why": null,
       "ago": "昨日"
+    },
+    {
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "summary": "Omni now delivers studio-quality video production, including the ability to extend a scene, first and last frame interpolation, crisp 4K upscaling, faster prototyping, and more.",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "source": "Google DeepMind",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-27T16:11:32.000Z",
+      "why": null,
+      "ago": "23 小時前"
     }
   ],
   "errors": []

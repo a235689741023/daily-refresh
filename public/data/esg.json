@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-28T06:11:53.280Z",
-  "updatedLocal": "2026/8/28 14:11:53",
+  "updated": "2026-08-28T15:07:44.292Z",
+  "updatedLocal": "2026/8/28 23:07:44",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-27T17:23:18.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Climate ambition is collective. Our system for delivering it is not",
@@ -26,7 +26,29 @@
       "group": null,
       "published": "2026-08-27T09:37:00.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "‘The biggest investment is time’: Navigating B Corp’s toughest-ever standards",
+      "summary": "In June, the first cohort of companies to certify under B Corporation's new framework were announced.",
+      "url": "https://www.edie.net/the-biggest-investment-is-time-navigating-b-corps-toughest-ever-standards/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-28T14:34:21.000Z",
+      "why": null,
+      "ago": "33 分鐘前"
+    },
+    {
+      "title": "UK dairy sector raises sustainability ambition with new targets",
+      "summary": "The Dairy Roadmap has unveiled fresh targets for dairy processors, including science-based emissions reductions and goals around packaging.",
+      "url": "https://www.edie.net/uk-dairy-sector-raises-sustainability-ambition-with-new-targets/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-28T10:37:03.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "Government launches new air pollution alerts system",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-08-27T17:50:08.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Global emissions in 2026: The numbers behind the climate challenge",
@@ -48,62 +70,7 @@
       "group": null,
       "published": "2026-08-27T16:22:19.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "More UK businesses increasing investment in heat adaptation, survey finds",
-      "summary": "According to Barclays’ latest Business Prosperity Index, 60% of businesses have either already invested or are looking to invest in extreme heat adaptation measures.",
-      "url": "https://www.edie.net/more-uk-businesses-increasing-investment-in-heat-adaptation-survey-finds/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-27T13:14:14.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Plug-in solar launches to help households cut bills amid a British solar boom",
-      "summary": "From today (27 August), the easy-to-use plug-in solar panels are legal to buy and use, potentially helping homes knock £110 of their energy bills.",
-      "url": "https://www.edie.net/plug-in-solar-hits-market-to-help-british-households-cut-bills/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-27T11:49:40.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "There is no such thing as ‘sustainable paint’, so why does the industry keep marketing it as eco-friendly?",
-      "summary": "As regulators tighten greenwashing rules and scrutiny of chemicals such as PFAS grows, Farrow & Ball’s head of R&D Gareth Hayfield argues that paintmakers must move beyond vague environmental claims towards transparency and evidence-based communications.",
-      "url": "https://www.edie.net/there-is-no-such-thing-as-sustainable-paint-so-why-does-the-industry-keep-marketing-it-as-eco-friendly/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-27T09:42:37.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "TWO WEEKS TO GO: Exploring the role of bio-based materials in lower-carbon buildings",
-      "summary": "In two weeks' time, edie is hosting a new webinar exploring the growing interest in bio-based materials.",
-      "url": "https://www.edie.net/two-weeks-to-go-exploring-the-role-of-bio-based-materials-in-lower-carbon-buildings/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-27T09:39:15.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "THREE WEEKS to go until edie’s Sustainable Supply Chains Summit",
-      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
-      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-27T09:00:03.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "經濟部回應口湖光電案場淹水、尼泊爾山洪疑因冰河崩塌堰塞湖潰決、日本將首次調查動物咖啡館",
@@ -112,9 +79,42 @@
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-08-28T03:02:36.000Z",
+      "published": "2026-08-28T08:02:03.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "7 小時前"
+    },
+    {
+      "title": "比利時為護動物「拆路燈」 民眾憂心犯罪與車禍增",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243695",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-28T08:02:03.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "學校午餐大賽看見的不是菜，是專業——免費供餐時代，現場還缺什麼？",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243817",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-28T09:42:33.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "新埤的微光希望：禁山保安林變身生態、文化小秘境",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243812",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-28T02:51:49.000Z",
+      "why": null,
+      "ago": "12 小時前"
     }
   ],
   "errors": []

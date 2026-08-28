@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-28T06:11:53.280Z",
-  "updatedLocal": "2026/8/28 14:11:53",
+  "updated": "2026-08-28T15:07:44.292Z",
+  "updatedLocal": "2026/8/28 23:07:44",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-28T01:35:13.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
@@ -24,9 +24,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-27T22:58:01.000Z",
+      "published": "2026-08-28T11:39:47.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "3 小時前"
     },
     {
       "title": "Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive",
@@ -37,29 +37,18 @@
       "group": null,
       "published": "2026-08-27T14:11:29.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
-      "summary": "BEIJING — Chinese artificial intelligence company Z.ai released a new model Wednesday that the company claims uses entirely homegrown semiconductors to operate.",
-      "url": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-27T05:34:13.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "HP inks deal with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
-      "summary": "BEIJING — U.S.-based personal computing and printing firm HP has signed a multi-year global agreement for licensing certain WiFi patents from Chinese telecoms giant Huawei, the companies announced Wednesday.",
-      "url": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank",
+      "summary": "Federal Reserve Chairman Kevin Warsh expressed concern Friday about elevated inflation while hinting that interest rates could need to move higher if more progress isn't made on easing price pressures.",
+      "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-08-27T03:42:17.000Z",
+      "published": "2026-08-28T15:07:32.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "剛剛"
     },
     {
       "title": "Fed's Hammack says 'now is the time to act' on raising interest rates",
@@ -70,51 +59,62 @@
       "group": null,
       "published": "2026-08-27T17:31:09.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "Judge says Trump administration’s blacklist of Anthropic was illegal",
+      "title": "‘The relationship quickly deteriorated’: My friend’s lawyer settled his injury case without his consent. What can he do?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/judge-says-trump-administrations-blacklist-of-anthropic-was-illegal-5d3411e7?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-relationship-quickly-deteriorated-my-friends-lawyer-settled-his-injury-case-without-his-consent-what-can-he-do-a289fee9?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-28T03:16:00.000Z",
+      "published": "2026-08-28T15:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "8 分鐘前"
     },
     {
-      "title": "Marvell boosts its forecasts, but the stock slides as Wall Street wonders if there’s more to the story",
+      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/marvell-is-boosting-its-forecasts-but-thats-not-enough-to-lift-its-stock-c769556a?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-28T00:20:00.000Z",
+      "published": "2026-08-28T15:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "8 分鐘前"
     },
     {
-      "title": "SpaceX’s $100 billion spaceport plan has investors asking where all the money is coming from",
+      "title": "PayPal’s stock slides as a takeover bid is said to fall through. What’s next for the company?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/spacexs-100-billion-spaceport-plan-has-investors-asking-where-all-the-money-is-coming-from-7395bc51?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/paypals-stock-sinks-as-suitors-reportedly-walk-away-from-their-takeover-bid-b943e5ec?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-28T00:02:00.000Z",
+      "published": "2026-08-28T15:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "8 分鐘前"
     },
     {
-      "title": "Is Nvidia heading for $1 trillion in annual revenue? One analyst now thinks that’s possible.",
+      "title": "The bull market for stocks is defying everything, but Bank of America warns that an autumn reality check is coming",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/nvidia-stock-is-climbing-after-another-set-of-blockbuster-results-heres-what-wall-street-is-saying-a2260a62?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-bull-market-for-stocks-is-defying-everything-but-bank-of-america-warns-that-an-autumn-reality-check-is-coming-8cdf831f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-27T23:05:00.000Z",
+      "published": "2026-08-28T14:39:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "29 分鐘前"
+    },
+    {
+      "title": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-28T14:30:00.000Z",
+      "why": null,
+      "ago": "38 分鐘前"
     }
   ],
   "errors": []
