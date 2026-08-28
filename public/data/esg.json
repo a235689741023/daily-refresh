@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-28T15:07:44.292Z",
-  "updatedLocal": "2026/8/28 23:07:44",
+  "updated": "2026-08-28T22:45:29.305Z",
+  "updatedLocal": "2026/8/29 06:45:29",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,29 @@
       "group": null,
       "published": "2026-08-27T17:23:18.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Climate ambition is collective. Our system for delivering it is not",
-      "summary": "The opinions expressed here by Trellis expert contributors are their own, not those of Trellis or its editors .",
-      "url": "https://trellis.net/article/climate-ambition-is-collective-our-system-for-delivering-it-is-not/",
-      "source": "Trellis",
+      "title": "COP17: What happened at this year’s desertification summit?",
+      "summary": "Today (28 August) marks the end of the seventeenth Conference of the Parties to the United Nations Convention to Combat Desertification (UNCCD COP17).",
+      "url": "https://www.edie.net/cop17-what-happened-at-this-years-desertification-summit/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-27T09:37:00.000Z",
+      "published": "2026-08-28T17:12:05.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
+    },
+    {
+      "title": "UK faces £190m in excess weekly energy bills due to Iran war",
+      "summary": "New analysis by the Energy and Climate Intelligence Unit (ECIU) has found that for every week the conflict continues, a further £190m in excess costs is added to energy bills.",
+      "url": "https://www.edie.net/uk-faces-190m-in-excess-weekly-energy-bills-due-to-iran-war/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-28T15:29:41.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "‘The biggest investment is time’: Navigating B Corp’s toughest-ever standards",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-08-28T14:34:21.000Z",
       "why": null,
-      "ago": "33 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "UK dairy sector raises sustainability ambition with new targets",
@@ -48,29 +59,29 @@
       "group": null,
       "published": "2026-08-28T10:37:03.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "Government launches new air pollution alerts system",
-      "summary": "Under the scheme, people can opt in to text or email alerts for when a specified area is experiencing high levels of air pollution.",
-      "url": "https://www.edie.net/government-launches-new-air-pollution-alerts-system/",
+      "title": "TWO WEEKS TO GO: Exploring the role of bio-based materials in lower-carbon buildings",
+      "summary": "In two weeks' time, edie is hosting a new webinar exploring the growing interest in bio-based materials.",
+      "url": "https://www.edie.net/two-weeks-to-go-exploring-the-role-of-bio-based-materials-in-lower-carbon-buildings/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-27T17:50:08.000Z",
+      "published": "2026-08-28T09:39:15.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "13 小時前"
     },
     {
-      "title": "Global emissions in 2026: The numbers behind the climate challenge",
-      "summary": "According to new data from Climate TRACE, global greenhouse gas (GHG) emissions have risen 0.2% year-on-year, largely due to road transportation.",
-      "url": "https://www.edie.net/global-emissions-in-2026-the-numbers-behind-the-climate-challenge/",
+      "title": "THREE WEEKS to go until edie’s Sustainable Supply Chains Summit",
+      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
+      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-27T16:22:19.000Z",
+      "published": "2026-08-28T09:00:03.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "經濟部回應口湖光電案場淹水、尼泊爾山洪疑因冰河崩塌堰塞湖潰決、日本將首次調查動物咖啡館",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-08-28T08:02:03.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "比利時為護動物「拆路燈」 民眾憂心犯罪與車禍增",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-08-28T08:02:03.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "學校午餐大賽看見的不是菜，是專業——免費供餐時代，現場還缺什麼？",
@@ -101,20 +112,9 @@
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-08-28T09:42:33.000Z",
+      "published": "2026-08-28T09:59:30.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "新埤的微光希望：禁山保安林變身生態、文化小秘境",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243812",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-28T02:51:49.000Z",
-      "why": null,
-      "ago": "12 小時前"
+      "ago": "13 小時前"
     }
   ],
   "errors": []

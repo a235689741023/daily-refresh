@@ -1,11 +1,44 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-28T15:07:44.292Z",
-  "updatedLocal": "2026/8/28 23:07:44",
+  "updated": "2026-08-28T22:45:29.305Z",
+  "updatedLocal": "2026/8/29 06:45:29",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Corn and wheat prices jump to highest prices in more than three years",
+      "summary": "Corn and wheat prices have surged to their highest levels in more than three years. But the forces driving recent rallies for these two crops are notably different.",
+      "url": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-28T20:00:56.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
+      "summary": "The court rejected appeals by Kalshi and Crypto.com , two prediction market platforms, to stop Nevada from halting their operations which the state claims are gambling offerings outside of the gaming control board's framework.",
+      "url": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-28T21:57:47.000Z",
+      "why": null,
+      "ago": "48 分鐘前"
+    },
+    {
+      "title": "September Fed decision is now a coin flip as rate hike odds increase post Warsh",
+      "summary": "Kevin Warsh's keynote speech at the central bank's annual symposium in Jackson Hole, Wyo.",
+      "url": "https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-28T15:22:10.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
       "summary": "BEIJING — As the U.S. ramped up pressure this week on China with secondary Iran sanctions, the world's two largest economies have still managed to stay focused on ways to cooperate.",
@@ -15,7 +48,7 @@
       "group": null,
       "published": "2026-08-28T01:35:13.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
@@ -26,18 +59,7 @@
       "group": null,
       "published": "2026-08-28T11:39:47.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive",
-      "summary": "Kansas City Federal Reserve President Jeffrey Schmid said Thursday that inflation is still too high, though he stopped short of calling for an interest rate hike.",
-      "url": "https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-27T14:11:29.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "11 小時前"
     },
     {
       "title": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank",
@@ -46,75 +68,53 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-08-28T15:07:32.000Z",
+      "published": "2026-08-28T16:11:51.000Z",
       "why": null,
-      "ago": "剛剛"
+      "ago": "7 小時前"
     },
     {
-      "title": "Fed's Hammack says 'now is the time to act' on raising interest rates",
-      "summary": "Cleveland Federal Reserve President Beth Hammack on Thursday repeated her call for higher interest rates, saying recent inflation data shows the central bank is still too far from its goal.",
-      "url": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-27T17:31:09.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "‘The relationship quickly deteriorated’: My friend’s lawyer settled his injury case without his consent. What can he do?",
+      "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-relationship-quickly-deteriorated-my-friends-lawyer-settled-his-injury-case-without-his-consent-what-can-he-do-a289fee9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-28T15:00:00.000Z",
+      "published": "2026-08-28T22:15:00.000Z",
       "why": null,
-      "ago": "8 分鐘前"
+      "ago": "30 分鐘前"
     },
     {
-      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
+      "title": "Microsoft’s stock seals its longest winning streak of the year as AI software fears fade",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/microsofts-stock-seals-its-longest-winning-streak-of-the-year-as-ai-software-fears-fade-e5669f5b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-28T15:00:00.000Z",
+      "published": "2026-08-28T21:34:00.000Z",
       "why": null,
-      "ago": "8 分鐘前"
+      "ago": "1 小時前"
     },
     {
-      "title": "PayPal’s stock slides as a takeover bid is said to fall through. What’s next for the company?",
+      "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/paypals-stock-sinks-as-suitors-reportedly-walk-away-from-their-takeover-bid-b943e5ec?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-28T15:00:00.000Z",
+      "published": "2026-08-28T21:31:00.000Z",
       "why": null,
-      "ago": "8 分鐘前"
+      "ago": "1 小時前"
     },
     {
-      "title": "The bull market for stocks is defying everything, but Bank of America warns that an autumn reality check is coming",
+      "title": "Nvidia’s revenue forecast is so huge that Wall Street wonders if SpaceX is the reason",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-bull-market-for-stocks-is-defying-everything-but-bank-of-america-warns-that-an-autumn-reality-check-is-coming-8cdf831f?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-28T14:39:00.000Z",
+      "published": "2026-08-28T20:58:00.000Z",
       "why": null,
-      "ago": "29 分鐘前"
-    },
-    {
-      "title": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-28T14:30:00.000Z",
-      "why": null,
-      "ago": "38 分鐘前"
+      "ago": "2 小時前"
     }
   ],
   "errors": []
