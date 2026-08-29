@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-28T22:45:29.305Z",
-  "updatedLocal": "2026/8/29 06:45:29",
+  "updated": "2026-08-29T03:45:55.221Z",
+  "updatedLocal": "2026/8/29 11:45:55",
   "digest": null,
   "watch": [],
   "items": [
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-08-28T17:03:08.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "TASTE: Can AI Models Judge AI Safety Research Proposals?",
@@ -48,7 +48,18 @@
       "group": "ai",
       "published": "2026-08-28T14:57:10.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "13 小時前"
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "summary": "Our custom agreement with Cursor gives us a limited time window to cancel it after a change of control.",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-28T06:00:00.000Z",
+      "why": null,
+      "ago": "22 小時前"
     },
     {
       "title": "Supporting Thailand’s next generation of AI startups",
@@ -58,28 +69,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-08-28T02:00:00.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Expanding our support for scientists",
-      "summary": "As Claude becomes increasingly capable at scientific research, we are focusing on building products and programs to support the research community.",
-      "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-27T19:28:34.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Previewing the Model Hardware Standard",
-      "summary": "We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-27T17:58:11.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -92,7 +81,18 @@
       "group": "ai",
       "published": "2026-08-28T09:18:29.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "Colorado Unveils New Proposed Rules Implementing Revamped AI Act",
+      "summary": "Colorado is considering new regulations to implement the state’s revamped artificial intelligence (AI) laws, which would specify requirements for the new multistage notice framework employers must follow when using AI for employment decisions beginning on January 1, 2027.",
+      "url": "https://natlawreview.com/article/colorado-unveils-new-proposed-rules-implementing-revamped-ai-act",
+      "source": "The National Law Review",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-28T22:15:06.000Z",
+      "why": null,
+      "ago": "6 小時前"
     }
   ],
   "errors": []

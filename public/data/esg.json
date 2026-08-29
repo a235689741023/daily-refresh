@@ -1,22 +1,11 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-28T22:45:29.305Z",
-  "updatedLocal": "2026/8/29 06:45:29",
+  "updated": "2026-08-29T03:45:55.221Z",
+  "updatedLocal": "2026/8/29 11:45:55",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Sustainability leadership moves",
-      "summary": "As corporate sustainability matures, some long-time leaders are leaving the profession, while others are tackling a broader set of responsibilities following reorganizations or layoffs.",
-      "url": "https://trellis.net/article/sustainability-leadership-moves/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-27T17:23:18.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
     {
       "title": "COP17: What happened at this year’s desertification summit?",
       "summary": "Today (28 August) marks the end of the seventeenth Conference of the Parties to the United Nations Convention to Combat Desertification (UNCCD COP17).",
@@ -26,7 +15,7 @@
       "group": null,
       "published": "2026-08-28T17:12:05.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "UK faces £190m in excess weekly energy bills due to Iran war",
@@ -37,7 +26,7 @@
       "group": null,
       "published": "2026-08-28T15:29:41.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "‘The biggest investment is time’: Navigating B Corp’s toughest-ever standards",
@@ -48,7 +37,7 @@
       "group": null,
       "published": "2026-08-28T14:34:21.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "UK dairy sector raises sustainability ambition with new targets",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-08-28T10:37:03.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "TWO WEEKS TO GO: Exploring the role of bio-based materials in lower-carbon buildings",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-08-28T09:39:15.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "THREE WEEKS to go until edie’s Sustainable Supply Chains Summit",
@@ -81,7 +70,7 @@
       "group": null,
       "published": "2026-08-28T09:00:03.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "經濟部回應口湖光電案場淹水、尼泊爾山洪疑因冰河崩塌堰塞湖潰決、日本將首次調查動物咖啡館",
@@ -92,7 +81,7 @@
       "group": null,
       "published": "2026-08-28T08:02:03.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "比利時為護動物「拆路燈」 民眾憂心犯罪與車禍增",
@@ -103,7 +92,7 @@
       "group": null,
       "published": "2026-08-28T08:02:03.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "學校午餐大賽看見的不是菜，是專業——免費供餐時代，現場還缺什麼？",
@@ -114,7 +103,18 @@
       "group": null,
       "published": "2026-08-28T09:59:30.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "「廢非核家園」公投今成案 1/4民眾誤認核電是發電主力 民團憂「還沒搞懂就投票」",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243816",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-28T11:02:13.000Z",
+      "why": null,
+      "ago": "17 小時前"
     }
   ],
   "errors": []
