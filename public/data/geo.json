@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-29T03:45:55.221Z",
-  "updatedLocal": "2026/8/29 11:45:55",
+  "updated": "2026-08-29T09:50:31.321Z",
+  "updatedLocal": "2026/8/29 17:50:31",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-27T17:44:59.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Celebrate 110 years of national parks with Maps, Search, and Gemini",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-08-24T16:00:00.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
     },
     {
       "title": "Automated researchers can reliably mitigate alignment failures",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-08-28T17:03:08.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "TASTE: Can AI Models Judge AI Safety Research Proposals?",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-08-28T14:57:10.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
@@ -59,29 +59,7 @@
       "group": "ai",
       "published": "2026-08-28T06:00:00.000Z",
       "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "summary": "OpenAI and Thailand’s Ministry of Higher Education, Science, Research and Innovation are launching an eight-week accelerator to help startups turn promising ideas into products ready for real-world use.",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-28T02:00:00.000Z",
-      "why": null,
       "ago": "昨日"
-    },
-    {
-      "title": "The EU AI Act gets real",
-      "summary": null,
-      "url": "https://www.axios.com/2026/08/28/eu-ai-act-gets-real",
-      "source": "Axios",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-28T09:18:29.000Z",
-      "why": null,
-      "ago": "18 小時前"
     },
     {
       "title": "Colorado Unveils New Proposed Rules Implementing Revamped AI Act",
@@ -92,7 +70,29 @@
       "group": "ai",
       "published": "2026-08-28T22:15:06.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "New US export controls reportedly target Chinese access to remote AI servers — Trump admin's cut-down AI diffusion rule could be shared with industry as soon as September",
+      "summary": "Get started with free access to reviews, badges and discussions. Unlock exclusive tools and insights for enthusiasts who want more.",
+      "url": "https://www.tomshardware.com/tech-industry/policy/new-us-export-controls-reportedly-target-chinese-access-to-remote-ai-servers-trump-admins-cut-down-ai-diffusion-rule-could-be-shared-with-industry-as-soon-as-september",
+      "source": "Tom's Hardware",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-28T15:47:46.000Z",
+      "why": null,
+      "ago": "18 小時前"
+    },
+    {
+      "title": "Trump Administration Working on AI Rule to Curb China’s Remote Access to Chips",
+      "summary": null,
+      "url": "https://www.theinformation.com/articles/trump-administration-working-ai-rule-curb-chinas-remote-access-chips",
+      "source": "The Information",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-28T13:00:00.000Z",
+      "why": null,
+      "ago": "21 小時前"
     }
   ],
   "errors": []
