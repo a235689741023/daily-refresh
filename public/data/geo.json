@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-29T09:50:31.321Z",
-  "updatedLocal": "2026/8/29 17:50:31",
+  "updated": "2026-08-29T16:54:03.614Z",
+  "updatedLocal": "2026/8/30 00:54:03",
   "digest": null,
   "watch": [],
   "items": [
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-08-28T17:03:08.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "TASTE: Can AI Models Judge AI Safety Research Proposals?",
@@ -48,18 +48,18 @@
       "group": "ai",
       "published": "2026-08-28T14:57:10.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "summary": "Our custom agreement with Cursor gives us a limited time window to cancel it after a change of control.",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "The EU AI Act gets real",
+      "summary": null,
+      "url": "https://www.axios.com/2026/08/28/eu-ai-act-gets-real",
+      "source": "Axios",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-08-28T06:00:00.000Z",
+      "published": "2026-08-29T00:18:29.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "17 小時前"
     },
     {
       "title": "Colorado Unveils New Proposed Rules Implementing Revamped AI Act",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-08-28T22:15:06.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "New US export controls reportedly target Chinese access to remote AI servers — Trump admin's cut-down AI diffusion rule could be shared with industry as soon as September",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-08-28T15:47:46.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Trump Administration Working on AI Rule to Curb China’s Remote Access to Chips",
@@ -92,7 +92,7 @@
       "group": "ai",
       "published": "2026-08-28T13:00:00.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
