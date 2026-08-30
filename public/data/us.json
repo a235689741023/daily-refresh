@@ -1,33 +1,11 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-30T00:28:43.373Z",
-  "updatedLocal": "2026/8/30 08:28:43",
+  "updated": "2026-08-30T09:01:32.943Z",
+  "updatedLocal": "2026/8/30 17:01:32",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
-      "summary": "The court rejected appeals by Kalshi and Crypto.com , two prediction market platforms, to stop Nevada from halting their operations which the state claims are gambling offerings outside of the gaming control board's framework.",
-      "url": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-29T02:23:52.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Corn and wheat prices jump to highest prices in more than three years",
-      "summary": "Corn and wheat prices have surged to their highest levels in more than three years. But the forces driving recent rallies for these two crops are notably different.",
-      "url": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-28T20:00:56.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
     {
       "title": "K, C or E? Why economists can’t agree on the shape of today’s economy",
       "summary": "Those aren't initials or Greek life letters. They're some of the terms that economists, corporate leaders and politicians are using as they attempt to define the U.S. current economic moment.",
@@ -37,7 +15,7 @@
       "group": null,
       "published": "2026-08-29T20:22:12.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
@@ -48,7 +26,7 @@
       "group": null,
       "published": "2026-08-29T16:30:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
@@ -59,7 +37,7 @@
       "group": null,
       "published": "2026-08-29T16:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
@@ -70,7 +48,7 @@
       "group": null,
       "published": "2026-08-29T15:31:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Why would someone lock up money by rolling it into a 401(k)?",
@@ -81,7 +59,7 @@
       "group": null,
       "published": "2026-08-29T13:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "5 affordable cities to retire in the U.S. right now",
@@ -92,7 +70,7 @@
       "group": null,
       "published": "2026-08-29T12:50:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Tim Cook wasn’t a ‘product guy’ — so he re-engineered Apple instead",
@@ -103,7 +81,7 @@
       "group": null,
       "published": "2026-08-29T12:30:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Where are all the new jobs? Hiring slows again — and it probably won’t speed up soon.",
@@ -114,7 +92,29 @@
       "group": null,
       "published": "2026-08-29T12:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "I’m managing a pathological liar who never does her work. How do I deal with her?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/im-managing-a-pathological-liar-who-never-does-her-work-how-do-i-deal-with-her-e3c06081?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-29T12:00:00.000Z",
+      "why": null,
+      "ago": "21 小時前"
+    },
+    {
+      "title": "Corporate earnings have been growing at a blistering pace. Here’s why that’s not likely to last.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/corporate-earnings-have-been-growing-at-a-blistering-pace-heres-why-thats-not-likely-to-last-28810eac?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-29T11:30:00.000Z",
+      "why": null,
+      "ago": "22 小時前"
     }
   ],
   "errors": []
