@@ -1,22 +1,11 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-29T16:54:03.614Z",
-  "updatedLocal": "2026/8/30 00:54:03",
+  "updated": "2026-08-30T00:28:43.373Z",
+  "updatedLocal": "2026/8/30 08:28:43",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Corn and wheat prices jump to highest prices in more than three years",
-      "summary": "Corn and wheat prices have surged to their highest levels in more than three years. But the forces driving recent rallies for these two crops are notably different.",
-      "url": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-28T20:00:56.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
     {
       "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
       "summary": "The court rejected appeals by Kalshi and Crypto.com , two prediction market platforms, to stop Nevada from halting their operations which the state claims are gambling offerings outside of the gaming control board's framework.",
@@ -26,27 +15,16 @@
       "group": null,
       "published": "2026-08-29T02:23:52.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "September Fed decision is now a coin flip as rate hike odds increase post Warsh",
-      "summary": "Kevin Warsh's keynote speech at the central bank's annual symposium in Jackson Hole, Wyo.",
-      "url": "https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html",
+      "title": "Corn and wheat prices jump to highest prices in more than three years",
+      "summary": "Corn and wheat prices have surged to their highest levels in more than three years. But the forces driving recent rallies for these two crops are notably different.",
+      "url": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-28T15:22:10.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
-      "summary": "The Federal Reserve 's cryptic chairman is set to deliver his much-awaited keynote address Friday in Jackson Hole, with markets trying to anticipate what, if anything, he will have to say on key matters affecting the economy and monetary policy.",
-      "url": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-28T11:39:47.000Z",
+      "published": "2026-08-28T20:00:56.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -57,9 +35,9 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-08-29T12:22:50.000Z",
+      "published": "2026-08-29T20:22:12.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "4 小時前"
     },
     {
       "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
@@ -70,7 +48,7 @@
       "group": null,
       "published": "2026-08-29T16:30:00.000Z",
       "why": null,
-      "ago": "24 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
@@ -81,7 +59,7 @@
       "group": null,
       "published": "2026-08-29T16:00:00.000Z",
       "why": null,
-      "ago": "54 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
@@ -92,7 +70,7 @@
       "group": null,
       "published": "2026-08-29T15:31:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Why would someone lock up money by rolling it into a 401(k)?",
@@ -103,7 +81,7 @@
       "group": null,
       "published": "2026-08-29T13:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "5 affordable cities to retire in the U.S. right now",
@@ -114,7 +92,29 @@
       "group": null,
       "published": "2026-08-29T12:50:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Tim Cook wasn’t a ‘product guy’ — so he re-engineered Apple instead",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/tim-cook-wasnt-a-product-guy-so-he-re-engineered-apple-instead-03ca53f4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-29T12:30:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Where are all the new jobs? Hiring slows again — and it probably won’t speed up soon.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/where-are-all-the-new-jobs-hiring-slows-again-and-it-probably-wont-speed-up-soon-66920f1d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-29T12:00:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
     }
   ],
   "errors": []

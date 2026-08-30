@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-29T16:54:03.614Z",
-  "updatedLocal": "2026/8/30 00:54:03",
+  "updated": "2026-08-30T00:28:43.373Z",
+  "updatedLocal": "2026/8/30 08:28:43",
   "digest": null,
   "watch": [],
   "items": [
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-08-28T17:03:08.000Z",
       "why": null,
-      "ago": "24 小時前"
+      "ago": "昨日"
     },
     {
       "title": "TASTE: Can AI Models Judge AI Safety Research Proposals?",
@@ -51,15 +51,37 @@
       "ago": "昨日"
     },
     {
-      "title": "The EU AI Act gets real",
-      "summary": null,
-      "url": "https://www.axios.com/2026/08/28/eu-ai-act-gets-real",
-      "source": "Axios",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "summary": "Our custom agreement with Cursor gives us a limited time window to cancel it after a change of control.",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-28T06:00:00.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "summary": "OpenAI and Thailand’s Ministry of Higher Education, Science, Research and Innovation are launching an eight-week accelerator to help startups turn promising ideas into products ready for real-world use.",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-28T02:00:00.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "EU AI Act Moved Into Real Enforcement Phase: New Rules Are Already in Force",
+      "summary": "The European Union’s Artificial Intelligence Act (AI Act) has moved from rulemaking to real-world enforcement: as of August 2, 2026, new transparency and disclosure requirements for chatbots and AI-generated content took effect in the EU.",
+      "url": "https://incrypted.com/en/eu-ai-act-moved-into-real-enforcement-phase-new-rules-are-already-in-force/",
+      "source": "incrypted",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-08-29T00:18:29.000Z",
+      "published": "2026-08-29T11:56:09.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Colorado Unveils New Proposed Rules Implementing Revamped AI Act",
@@ -69,28 +91,6 @@
       "tag": "政策",
       "group": "ai",
       "published": "2026-08-28T22:15:06.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "New US export controls reportedly target Chinese access to remote AI servers — Trump admin's cut-down AI diffusion rule could be shared with industry as soon as September",
-      "summary": "Get started with free access to reviews, badges and discussions. Unlock exclusive tools and insights for enthusiasts who want more.",
-      "url": "https://www.tomshardware.com/tech-industry/policy/new-us-export-controls-reportedly-target-chinese-access-to-remote-ai-servers-trump-admins-cut-down-ai-diffusion-rule-could-be-shared-with-industry-as-soon-as-september",
-      "source": "Tom's Hardware",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-28T15:47:46.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Trump Administration Working on AI Rule to Curb China’s Remote Access to Chips",
-      "summary": null,
-      "url": "https://www.theinformation.com/articles/trump-administration-working-ai-rule-curb-chinas-remote-access-chips",
-      "source": "The Information",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-28T13:00:00.000Z",
       "why": null,
       "ago": "昨日"
     }

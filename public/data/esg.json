@@ -1,55 +1,11 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-29T16:54:03.614Z",
-  "updatedLocal": "2026/8/30 00:54:03",
+  "updated": "2026-08-30T00:28:43.373Z",
+  "updatedLocal": "2026/8/30 08:28:43",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "COP17: What happened at this year’s desertification summit?",
-      "summary": "Today (28 August) marks the end of the seventeenth Conference of the Parties to the United Nations Convention to Combat Desertification (UNCCD COP17).",
-      "url": "https://www.edie.net/cop17-what-happened-at-this-years-desertification-summit/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-28T17:12:05.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "UK faces £190m in excess weekly energy bills due to Iran war",
-      "summary": "New analysis by the Energy and Climate Intelligence Unit (ECIU) has found that for every week the conflict continues, a further £190m in excess costs is added to energy bills.",
-      "url": "https://www.edie.net/uk-faces-190m-in-excess-weekly-energy-bills-due-to-iran-war/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-28T15:29:41.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "‘The biggest investment is time’: Navigating B Corp’s toughest-ever standards",
-      "summary": "In June, the first cohort of companies to certify under B Corporation's new framework were announced.",
-      "url": "https://www.edie.net/the-biggest-investment-is-time-navigating-b-corps-toughest-ever-standards/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-28T14:34:21.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "「廢非核家園」公投今成案 1/4民眾誤認核電是發電主力 民團憂「還沒搞懂就投票」",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243816",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-28T11:02:13.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
     {
       "title": "從智慧路口到城市減碳 台美星實證揭示AI城市治理新進程",
       "summary": null,
@@ -59,7 +15,7 @@
       "group": null,
       "published": "2026-08-29T12:00:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "2026全球減碳浪潮下的台灣淨零現況",
@@ -70,51 +26,7 @@
       "group": null,
       "published": "2026-08-29T07:12:07.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "Deutsche Bank Backs Squadron Energy With $115M",
-      "summary": "Deutsche Bank has committed approximately $115 million to a refinancing package for Squadron Energy, expanding its backing of renewable energy infrastructure in Australia.",
-      "url": "https://esgnews.com/deutsche-bank-backs-squadron-energy-with-115m/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-bank-backs-squadron-energy-with-115m",
-      "source": "ESG News",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-28T15:15:06.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Trump Policies Could Cut 540 GW of U.S. Clean Power: NRDC Says",
-      "summary": "The Trump administration’s energy policies could prevent between 390 GW and 540 GW of new U.S. wind, solar and energy storage capacity from being built over the next decade, according to projections from the Natural Resources Defense Council.",
-      "url": "https://esgnews.com/trump-policies-could-cut-540-gw-of-u-s-clean-power-nrdc-says/?utm_source=rss&utm_medium=rss&utm_campaign=trump-policies-could-cut-540-gw-of-u-s-clean-power-nrdc-says",
-      "source": "ESG News",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-28T15:03:18.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Ben & Jerry’s Appoints Three Directors to Strengthen Social Mission",
-      "summary": "Ben & Jerry’s has appointed three independent directors as it moves to strengthen oversight of its social mission after years of conflict with its corporate owners.",
-      "url": "https://esgnews.com/ben-jerrys-appoints-three-directors-to-strengthen-social-mission/?utm_source=rss&utm_medium=rss&utm_campaign=ben-jerrys-appoints-three-directors-to-strengthen-social-mission",
-      "source": "ESG News",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-28T14:49:29.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Voltalia Wins Approval for $35B Brazil Data Center",
-      "summary": "Brazil has approved French renewable energy company Voltalia’s planned $35.24 billion data center development in Ceará, clearing a major regulatory hurdle for one of the country’s largest digital infrastructure projects.",
-      "url": "https://esgnews.com/voltalia-wins-approval-for-35b-brazil-data-center/?utm_source=rss&utm_medium=rss&utm_campaign=voltalia-wins-approval-for-35b-brazil-data-center",
-      "source": "ESG News",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-08-28T14:37:55.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "17 小時前"
     }
   ],
   "errors": []
