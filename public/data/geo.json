@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-30T09:01:32.943Z",
-  "updatedLocal": "2026/8/30 17:01:32",
+  "updated": "2026-08-30T17:00:46.491Z",
+  "updatedLocal": "2026/8/31 01:00:46",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-29T04:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Planetary prediction engine: Automating global models via Earth AI",
@@ -51,17 +51,6 @@
       "ago": "2 天前"
     },
     {
-      "title": "TASTE: Can AI Models Judge AI Safety Research Proposals?",
-      "summary": "We built TASTE (The AI Safety Taste Evaluation) — a benchmark measuring how well models can judge pairs of AI safety research proposals, scored by agreement with the preferences of experienced human researchers.",
-      "url": "https://alignment.anthropic.com/2026/taste/",
-      "source": "Alignment Science Blog",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-28T14:57:10.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
       "title": "EU AI Act Moved Into Real Enforcement Phase: New Rules Are Already in Force",
       "summary": "The European Union’s Artificial Intelligence Act (AI Act) has moved from rulemaking to real-world enforcement: as of August 2, 2026, new transparency and disclosure requirements for chatbots and AI-generated content took effect in the EU.",
       "url": "https://incrypted.com/en/eu-ai-act-moved-into-real-enforcement-phase-new-rules-are-already-in-force/",
@@ -70,7 +59,7 @@
       "group": "ai",
       "published": "2026-08-29T11:56:09.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Colorado Unveils New Proposed Rules Implementing Revamped AI Act",
@@ -80,28 +69,6 @@
       "tag": "政策",
       "group": "ai",
       "published": "2026-08-28T22:15:06.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "New US export controls reportedly target Chinese access to remote AI servers — Trump admin's cut-down AI diffusion rule could be shared with industry as soon as September",
-      "summary": "Get started with free access to reviews, badges and discussions. Unlock exclusive tools and insights for enthusiasts who want more.",
-      "url": "https://www.tomshardware.com/tech-industry/policy/new-us-export-controls-reportedly-target-chinese-access-to-remote-ai-servers-trump-admins-cut-down-ai-diffusion-rule-could-be-shared-with-industry-as-soon-as-september",
-      "source": "Tom's Hardware",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-28T15:47:46.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Trump Administration Working on AI Rule to Curb China’s Remote Access to Chips",
-      "summary": null,
-      "url": "https://www.theinformation.com/articles/trump-administration-working-ai-rule-curb-chinas-remote-access-chips",
-      "source": "The Information",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-28T13:00:00.000Z",
       "why": null,
       "ago": "2 天前"
     }
