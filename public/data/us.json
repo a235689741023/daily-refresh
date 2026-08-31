@@ -1,21 +1,54 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-30T17:00:46.491Z",
-  "updatedLocal": "2026/8/31 01:00:46",
+  "updated": "2026-08-31T00:41:06.177Z",
+  "updatedLocal": "2026/8/31 08:41:06",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "K, C or E? Why economists can’t agree on the shape of today’s economy",
-      "summary": "Those aren't initials or Greek life letters. They're some of the terms that economists, corporate leaders and politicians are using as they attempt to define the U.S. current economic moment.",
-      "url": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html",
+      "title": "Singapore tackles finances and culture to avert a demographic crisis",
+      "summary": "Tiny Singapore is throwing cash and incentives at its citizens to avoid a long-term demographic crisis, but it may take many years before the level of success becomes clear.",
+      "url": "https://www.cnbc.com/2026/08/31/singapore-ndr-childcare-incentives-demographic-crisis-.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-08-29T20:22:12.000Z",
+      "published": "2026-08-30T23:31:15.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "1 小時前"
+    },
+    {
+      "title": "U.S. stock futures slip as chances of rate hike rise after Warsh’s Jackson Hole comments",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-30T23:52:00.000Z",
+      "why": null,
+      "ago": "49 分鐘前"
+    },
+    {
+      "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-30T22:31:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-30T22:15:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
@@ -24,9 +57,9 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-30T16:30:00.000Z",
+      "published": "2026-08-30T22:15:00.000Z",
       "why": null,
-      "ago": "31 分鐘前"
+      "ago": "2 小時前"
     },
     {
       "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
@@ -37,7 +70,7 @@
       "group": null,
       "published": "2026-08-30T14:30:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
@@ -48,7 +81,7 @@
       "group": null,
       "published": "2026-08-30T14:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
@@ -59,7 +92,7 @@
       "group": null,
       "published": "2026-08-30T13:30:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
@@ -70,7 +103,7 @@
       "group": null,
       "published": "2026-08-30T13:01:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "These charts show how leverage-happy investors are transforming the stock market",
@@ -81,40 +114,7 @@
       "group": null,
       "published": "2026-08-30T13:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "Party balloons could become a ‘luxury’ as the Iran war spurs a helium shortage",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/party-balloons-could-become-a-luxury-as-the-iran-war-spurs-a-helium-shortage-89e3f86e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-30T12:30:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "AI isn’t eating software after all — and the sector’s ‘epic’ rally could run through October",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/ai-isnt-eating-software-after-all-and-the-sectors-epic-rally-could-run-through-october-a4610583?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-30T12:00:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Gulf stocks fall as Fed rate-hike bets rise after Warsh remarks",
-      "summary": null,
-      "url": "https://www.reuters.com/world/middle-east/gulf-stocks-fall-fed-rate-hike-bets-rise-after-warsh-remarks-2026-08-30/",
-      "source": "Reuters",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-30T13:15:45.000Z",
-      "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-30T17:00:46.491Z",
-  "updatedLocal": "2026/8/31 01:00:46",
+  "updated": "2026-08-31T00:41:06.177Z",
+  "updatedLocal": "2026/8/31 08:41:06",
   "digest": null,
   "watch": [],
   "items": [
@@ -40,6 +40,17 @@
       "ago": "6 天前"
     },
     {
+      "title": "Beneficial Deployments",
+      "summary": "Powerful AI could compress decades of scientific and economic progress into years and help solve some of the hardest problems we face.",
+      "url": "https://www.anthropic.com/beneficial-deployments",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-30T23:31:48.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
       "title": "Automated researchers can reliably mitigate alignment failures",
       "summary": "As AI begins to build itself , automating alignment research becomes increasingly important to let safety research keep pace.",
       "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
@@ -51,6 +62,39 @@
       "ago": "2 天前"
     },
     {
+      "title": "TASTE: Can AI Models Judge AI Safety Research Proposals?",
+      "summary": "We built TASTE (The AI Safety Taste Evaluation) — a benchmark measuring how well models can judge pairs of AI safety research proposals, scored by agreement with the preferences of experienced human researchers.",
+      "url": "https://alignment.anthropic.com/2026/taste/",
+      "source": "Alignment Science Blog",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-28T14:57:10.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "summary": "Our custom agreement with Cursor gives us a limited time window to cancel it after a change of control.",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-28T06:00:00.000Z",
+      "why": null,
+      "ago": "3 天前"
+    },
+    {
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "summary": "OpenAI and Thailand’s Ministry of Higher Education, Science, Research and Innovation are launching an eight-week accelerator to help startups turn promising ideas into products ready for real-world use.",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-28T02:00:00.000Z",
+      "why": null,
+      "ago": "3 天前"
+    },
+    {
       "title": "EU AI Act Moved Into Real Enforcement Phase: New Rules Are Already in Force",
       "summary": "The European Union’s Artificial Intelligence Act (AI Act) has moved from rulemaking to real-world enforcement: as of August 2, 2026, new transparency and disclosure requirements for chatbots and AI-generated content took effect in the EU.",
       "url": "https://incrypted.com/en/eu-ai-act-moved-into-real-enforcement-phase-new-rules-are-already-in-force/",
@@ -59,19 +103,14 @@
       "group": "ai",
       "published": "2026-08-29T11:56:09.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Colorado Unveils New Proposed Rules Implementing Revamped AI Act",
-      "summary": "Colorado is considering new regulations to implement the state’s revamped artificial intelligence (AI) laws, which would specify requirements for the new multistage notice framework employers must follow when using AI for employment decisions beginning on January 1, 2027.",
-      "url": "https://natlawreview.com/article/colorado-unveils-new-proposed-rules-implementing-revamped-ai-act",
-      "source": "The National Law Review",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-28T22:15:06.000Z",
-      "why": null,
       "ago": "2 天前"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Geospatial World",
+      "url": "https://geospatialworld.net/feed/",
+      "message": "This operation was aborted"
+    }
+  ]
 }
