@@ -1,11 +1,44 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-08-31T00:41:06.177Z",
-  "updatedLocal": "2026/8/31 08:41:06",
+  "updated": "2026-08-31T09:29:03.440Z",
+  "updatedLocal": "2026/8/31 17:29:03",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
+      "summary": "Chinese President Xi Jinping is set to make rare state visits to Egypt and, likely India, before his expected trip to the U.S. in late September.",
+      "url": "https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-31T04:57:24.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury",
+      "summary": "Federal Reserve Chair Kevin Warsh's stance in his speech at the Jackson Hole meeting was unexpectedly hawkish , boosting market expectations for a rate hike next month.",
+      "url": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-31T03:47:28.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "China's factory activity shrinks for second straight month, contracting less than expected",
+      "summary": "China's manufacturing activity in August shrank for a second straight month, though by less than market estimates, keeping the pressure on Beijing to support the economy as growth loses momentum.",
+      "url": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-08-31T03:15:01.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
     {
       "title": "Singapore tackles finances and culture to avert a demographic crisis",
       "summary": "Tiny Singapore is throwing cash and incentives at its citizens to avoid a long-term demographic crisis, but it may take many years before the level of success becomes clear.",
@@ -15,7 +48,40 @@
       "group": null,
       "published": "2026-08-30T23:31:15.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "10 小時前"
+    },
+    {
+      "title": "Historic $7.5 million L.A. home restored by ‘Rocky Horror’ actor Tim Curry finds a buyer just hours after his death",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/historic-7-5-million-l-a-home-restored-by-rocky-horror-actor-tim-curry-finds-a-buyer-just-hours-after-his-death-4934687a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-31T09:02:00.000Z",
+      "why": null,
+      "ago": "27 分鐘前"
+    },
+    {
+      "title": "Here’s what Prince Harry and Meghan Markle’s California mansion could really be worth, and how much it costs to keep it up",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/heres-what-prince-harry-and-meghan-markles-california-mansion-could-really-be-worth-and-how-much-it-costs-to-keep-it-up-93a3c5fa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-31T08:59:00.000Z",
+      "why": null,
+      "ago": "30 分鐘前"
+    },
+    {
+      "title": "Brent oil tops $90 after first U.S. and Iran fighting in a month",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/brent-oil-tops-90-after-first-u-s-and-iran-fighting-in-a-month-3b818e19?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-31T08:55:00.000Z",
+      "why": null,
+      "ago": "34 分鐘前"
     },
     {
       "title": "U.S. stock futures slip as chances of rate hike rise after Warsh’s Jackson Hole comments",
@@ -24,9 +90,9 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-30T23:52:00.000Z",
+      "published": "2026-08-31T03:03:00.000Z",
       "why": null,
-      "ago": "49 分鐘前"
+      "ago": "6 小時前"
     },
     {
       "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
@@ -37,7 +103,7 @@
       "group": null,
       "published": "2026-08-30T22:31:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
@@ -48,73 +114,7 @@
       "group": null,
       "published": "2026-08-30T22:15:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-30T22:15:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-30T14:30:00.000Z",
-      "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-30T14:00:00.000Z",
-      "why": null,
       "ago": "11 小時前"
-    },
-    {
-      "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-30T13:30:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-30T13:01:00.000Z",
-      "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "These charts show how leverage-happy investors are transforming the stock market",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/these-charts-show-how-leverage-happy-investors-are-transforming-the-stock-market-d4e350c3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-30T13:00:00.000Z",
-      "why": null,
-      "ago": "12 小時前"
     }
   ],
   "errors": []
