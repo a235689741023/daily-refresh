@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-31T09:29:03.440Z",
-  "updatedLocal": "2026/8/31 17:29:03",
+  "updated": "2026-08-31T19:16:41.306Z",
+  "updatedLocal": "2026/9/1 03:16:41",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "What Microsoft learned from purchasing millions of carbon removal credits",
+      "summary": "Microsoft’s appetite for carbon removal far outstrips that of any other company: The tech giant has purchased five times more removal credits than the next 10 largest buyers combined, according to CDR.fyi, a data and analytics provider.",
+      "url": "https://trellis.net/article/microsoft-carbon-removal-learnings/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-08-31T10:00:00.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
     {
       "title": "Retaking control of the sustainability 2.0 agenda",
       "summary": "The opinions expressed here by Trellis expert contributors are their own, not those of Trellis or its editors .",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-08-31T09:00:00.000Z",
       "why": null,
-      "ago": "29 分鐘前"
+      "ago": "10 小時前"
     },
     {
       "title": "Special Olympics’ Deposit Return Scheme and COP17: The sustainability success stories of the week",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-08-30T19:33:34.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "南投分署分享合歡山水鹿AI照惹議、菲律賓連日大雨成災至少40死、北極斑翅冬大蚊入侵南極",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-08-31T02:55:59.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "TaiwanPlus攜手NHK製作，帶世界看見《台灣里山》",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-08-31T09:26:21.000Z",
       "why": null,
-      "ago": "3 分鐘前"
+      "ago": "10 小時前"
     },
     {
       "title": "猛禽進駐林業小棧！ 屏東鳥會：墾丁追鷹前先來看猛禽特展",
@@ -59,7 +70,29 @@
       "group": null,
       "published": "2026-08-31T06:41:15.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "13 小時前"
+    },
+    {
+      "title": "從「犧牲帶」到「鑽石」：高雄30年城市轉型，犧牲帶消失了嗎？公民力量決定下一步",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243829",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-08-31T09:41:22.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
+    {
+      "title": "Shifting the Standard: Akamai’s Transition to the IFRS S2 Climate Disclosure",
+      "summary": null,
+      "url": "https://www.akamai.com/blog/sustainability/shifting-standard-transition-ifrs-s2-climate-disclosure",
+      "source": "Akamai",
+      "tag": "法規",
+      "group": null,
+      "published": "2026-08-31T14:28:43.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "AlchemX Global appointed official ISSB Training Partner to advance sustainability reporting in SL",
@@ -70,7 +103,7 @@
       "group": null,
       "published": "2026-08-31T00:05:16.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "永續下一題聚焦「人」，CSRone攜手BSI：從法遵、ISO 45003到員工體驗，解析心理安全如何走進企業治理",
@@ -79,42 +112,9 @@
       "source": "CSRone 永續智庫",
       "tag": "台灣",
       "group": null,
-      "published": "2026-08-31T07:45:09.000Z",
+      "published": "2026-08-31T05:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "當氣候調適從「環境支出」走向國家投資，財政部門如何把風險寫進預算？",
-      "summary": null,
-      "url": "https://csrone.com/topics/10088",
-      "source": "CSRone 永續智庫",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-31T06:45:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "崑大USR循環經濟邁向淨零 獲台灣永續行動獎銀獎",
-      "summary": null,
-      "url": "https://www.cdns.com.tw/articles/1452532",
-      "source": "中華新聞雲／中華日報",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-31T06:47:33.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "政策實證走向海外 睿田能源成淨零建築輸出樣板",
-      "summary": "(中央社財經訊息服務20260831 16:10:32)內政部建研所實證、中企署G Camp及智慧城市國際鏈結，串起臺灣淨零技術出海路徑 在建築太陽光電新制上路、既有建築淨零轉型需求升溫之際，臺灣彩繪立面光電業者睿田能源（Richten Energy），正由國內公有建築實證進一步走向美國城市需求對接及日本市場拓展，成為政府政策支持新創技術由「場域驗證」邁向「國際輸出」的具體案例。",
-      "url": "https://www.cna.com.tw/business/chinese/442919",
-      "source": "cna.com.tw",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-31T08:07:40.000Z",
-      "why": null,
-      "ago": "1 小時前"
+      "ago": "14 小時前"
     }
   ],
   "errors": []

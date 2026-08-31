@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-31T09:29:03.440Z",
-  "updatedLocal": "2026/8/31 17:29:03",
+  "updated": "2026-08-31T19:16:41.306Z",
+  "updatedLocal": "2026/9/1 03:16:41",
   "digest": null,
   "watch": [],
   "items": [
@@ -10,12 +10,12 @@
       "title": "Planetary prediction engine: Automating global models via Earth AI",
       "summary": "Rama Pasumarthi, Staff Software Engineer, and Shravya Shetty, Distinguished Engineer, Google Research As part of Google Earth AI , we introduce the planetary prediction engine (PPE), an experimental research capability that autonomously executes the full geospatial modeling workflow — from data discovery to model training — achieving improvements across diverse prediction tasks in public health, food security, environmental risk, and socioeconomics.",
       "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
-      "source": "Google Research",
+      "source": "research.google",
       "tag": "研究",
       "group": "gis",
-      "published": "2026-08-31T07:28:43.000Z",
+      "published": "2026-08-31T13:29:36.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "6 小時前"
     },
     {
       "title": "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
@@ -26,62 +26,73 @@
       "group": "gis",
       "published": "2026-08-29T04:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
-      "title": "Celebrate 110 years of national parks with Maps, Search, and Gemini",
-      "summary": "What people are searching in the lead-up to National Parks Week — plus, how Ask Maps, AI Mode, and the Gemini app can help turn your wanderlust into a well-planned adventure.",
-      "url": "https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/",
-      "source": "Google Maps Blog",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-08-24T16:00:00.000Z",
-      "why": null,
-      "ago": "7 天前"
-    },
-    {
-      "title": "Beneficial Deployments",
-      "summary": "Powerful AI could compress decades of scientific and economic progress into years and help solve some of the hardest problems we face.",
-      "url": "https://www.anthropic.com/beneficial-deployments",
-      "source": "Anthropic",
+      "title": "A milestone in expanding access to AI",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and global expansion continues. In less than 200 days after launch, ChatGPT Ads has reached $1 billion in annualized revenue run rate.",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-31T08:35:50.000Z",
+      "published": "2026-08-31T04:00:00.000Z",
       "why": null,
-      "ago": "53 分鐘前"
+      "ago": "15 小時前"
+    },
+    {
+      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "summary": "By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on a test.",
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-08-31T18:00:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "After rogue AI hack, regulating the industry takes on urgency in race to succeed Pelosi",
+      "summary": null,
+      "url": "https://www.sfchronicle.com/politics/article/ai-regulation-pelosi-wiener-chan-22401979.php",
+      "source": "San Francisco Chronicle",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-31T11:04:54.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Navigating Europe's AI regulatory labyrinth: A strategic guide for US pharma innovators",
       "summary": "Artificial intelligence (AI) is quietly reshaping pharmaceutical research.",
       "url": "https://pharmaphorum.com/market-access/navigating-europes-ai-regulatory-labyrinth-strategic-guide-us-pharma-innovators",
-      "source": "pharmaphorum",
+      "source": "Pharmaphorum",
       "tag": "政策",
       "group": "ai",
       "published": "2026-08-31T08:30:00.000Z",
       "why": null,
-      "ago": "59 分鐘前"
+      "ago": "11 小時前"
     },
     {
-      "title": "EU Cyber Rules Tighten: Companies Face New Deadlines, Fines, and Reporting Duties",
-      "summary": "The compliance calendar for European businesses is filling up fast.",
-      "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/eu-cyber-rules-tighten-companies-face-new-deadlines-fines-and-reporting/70027881",
-      "source": "AD HOC NEWS",
+      "title": "Californian law-makers back voluntary AI safety framework with third-party checks",
+      "summary": "Non-profit AI policy advocate Fathom said Californian legislators have voted \"overwhelmingly\" for a law it is sponsoring that would establish a remit for independent verification bodies (IVOs) to probe claims of AI safety.",
+      "url": "https://www.telecompaper.com/news/californian-law-makers-back-voluntary-ai-safety-framework-with-third-party-checks--1581247",
+      "source": "Telecompaper",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-08-31T08:02:47.000Z",
+      "published": "2026-08-31T18:40:40.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "36 分鐘前"
     },
     {
-      "title": "EU AI Act Moved Into Real Enforcement Phase: New Rules Are Already in Force",
-      "summary": "The European Union’s Artificial Intelligence Act (AI Act) has moved from rulemaking to real-world enforcement: as of August 2, 2026, new transparency and disclosure requirements for chatbots and AI-generated content took effect in the EU.",
-      "url": "https://incrypted.com/en/eu-ai-act-moved-into-real-enforcement-phase-new-rules-are-already-in-force/",
-      "source": "incrypted",
+      "title": "California Legislature Passes Independent AI Safety Verification Bill",
+      "summary": "The California Legislature gave final approval on August 30, 2026, to SB 813 , legislation authored by Senator Jerry McNerney that would direct the Government Operations Agency to designate independent verification organizations — outside auditors qualified to assess the safety risks of AI systems and models.",
+      "url": "https://www.unite.ai/california-legislature-passes-independent-ai-safety-verification-bill/",
+      "source": "Unite.AI",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-08-29T11:56:09.000Z",
+      "published": "2026-08-31T13:01:01.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "6 小時前"
     }
   ],
   "errors": []
