@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-08-31T19:16:41.306Z",
-  "updatedLocal": "2026/9/1 03:16:41",
+  "updated": "2026-09-01T01:19:49.404Z",
+  "updatedLocal": "2026/9/1 09:19:49",
   "digest": null,
   "watch": [],
   "items": [
@@ -10,12 +10,12 @@
       "title": "Planetary prediction engine: Automating global models via Earth AI",
       "summary": "Rama Pasumarthi, Staff Software Engineer, and Shravya Shetty, Distinguished Engineer, Google Research As part of Google Earth AI , we introduce the planetary prediction engine (PPE), an experimental research capability that autonomously executes the full geospatial modeling workflow — from data discovery to model training — achieving improvements across diverse prediction tasks in public health, food security, environmental risk, and socioeconomics.",
       "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
-      "source": "research.google",
+      "source": "Google Research",
       "tag": "研究",
       "group": "gis",
-      "published": "2026-08-31T13:29:36.000Z",
+      "published": "2026-09-01T00:10:27.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "1 小時前"
     },
     {
       "title": "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
@@ -29,6 +29,39 @@
       "ago": "3 天前"
     },
     {
+      "title": "Improving our alignment and security practices",
+      "summary": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems.",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-31T22:43:26.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Training a Misaligned Reward Seeker",
+      "summary": "During reinforcement learning (RL), AI models complete tasks and are rewarded based on their results.",
+      "url": "https://alignment.anthropic.com/2026/reward-seeker/",
+      "source": "alignment.anthropic.com",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-31T22:38:19.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "summary": "Polimill built QommonsAI with OpenAI technology to support about 1,050 municipalities and evolve into a next-generation public OS.",
+      "url": "https://openai.com/index/polimill",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-31T07:00:00.000Z",
+      "why": null,
+      "ago": "18 小時前"
+    },
+    {
       "title": "A milestone in expanding access to AI",
       "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and global expansion continues. In less than 200 days after launch, ChatGPT Ads has reached $1 billion in annualized revenue run rate.",
       "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
@@ -37,10 +70,10 @@
       "group": "ai",
       "published": "2026-08-31T04:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "21 小時前"
     },
     {
-      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "summary": "By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on a test.",
       "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
       "source": "MIT Tech Review",
@@ -48,51 +81,18 @@
       "group": "ai",
       "published": "2026-08-31T18:00:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "7 小時前"
     },
     {
-      "title": "After rogue AI hack, regulating the industry takes on urgency in race to succeed Pelosi",
+      "title": "Colorado Unveils New Proposed Rules Implementing Revamped AI Act",
       "summary": null,
-      "url": "https://www.sfchronicle.com/politics/article/ai-regulation-pelosi-wiener-chan-22401979.php",
-      "source": "San Francisco Chronicle",
+      "url": "https://www.jdsupra.com/legalnews/colorado-unveils-new-proposed-rules-7782646/",
+      "source": "JD Supra",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-08-31T11:04:54.000Z",
+      "published": "2026-08-31T22:50:12.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "Navigating Europe's AI regulatory labyrinth: A strategic guide for US pharma innovators",
-      "summary": "Artificial intelligence (AI) is quietly reshaping pharmaceutical research.",
-      "url": "https://pharmaphorum.com/market-access/navigating-europes-ai-regulatory-labyrinth-strategic-guide-us-pharma-innovators",
-      "source": "Pharmaphorum",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-31T08:30:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Californian law-makers back voluntary AI safety framework with third-party checks",
-      "summary": "Non-profit AI policy advocate Fathom said Californian legislators have voted \"overwhelmingly\" for a law it is sponsoring that would establish a remit for independent verification bodies (IVOs) to probe claims of AI safety.",
-      "url": "https://www.telecompaper.com/news/californian-law-makers-back-voluntary-ai-safety-framework-with-third-party-checks--1581247",
-      "source": "Telecompaper",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-31T18:40:40.000Z",
-      "why": null,
-      "ago": "36 分鐘前"
-    },
-    {
-      "title": "California Legislature Passes Independent AI Safety Verification Bill",
-      "summary": "The California Legislature gave final approval on August 30, 2026, to SB 813 , legislation authored by Senator Jerry McNerney that would direct the Government Operations Agency to designate independent verification organizations — outside auditors qualified to assess the safety risks of AI systems and models.",
-      "url": "https://www.unite.ai/california-legislature-passes-independent-ai-safety-verification-bill/",
-      "source": "Unite.AI",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-31T13:01:01.000Z",
-      "why": null,
-      "ago": "6 小時前"
+      "ago": "2 小時前"
     }
   ],
   "errors": []

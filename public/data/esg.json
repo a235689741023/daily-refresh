@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-08-31T19:16:41.306Z",
-  "updatedLocal": "2026/9/1 03:16:41",
+  "updated": "2026-09-01T01:19:49.404Z",
+  "updatedLocal": "2026/9/1 09:19:49",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-08-31T10:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Retaking control of the sustainability 2.0 agenda",
@@ -26,18 +26,18 @@
       "group": null,
       "published": "2026-08-31T09:00:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "16 小時前"
     },
     {
-      "title": "Special Olympics’ Deposit Return Scheme and COP17: The sustainability success stories of the week",
-      "summary": "As part of our Mission Possible campaign, edie delivers this member-exclusive weekly round-up of five of the best sustainable business success stories of the week.",
-      "url": "https://www.edie.net/special-olympics-deposit-return-scheme-and-cop17-the-sustainability-success-stories-of-the-week/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "Explainer: The CMIP7 emissions scenarios – and how they explore future climate change",
+      "summary": "Every six to seven years, climate modelling groups around the world run a coordinated set of simulations that explore how the climate could change in the future.",
+      "url": "https://www.carbonbrief.org/explainer-the-cmip7-emissions-scenarios-and-how-they-explore-future-climate-change",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-08-30T19:33:34.000Z",
+      "published": "2026-08-31T23:01:00.000Z",
       "why": null,
-      "ago": "24 小時前"
+      "ago": "2 小時前"
     },
     {
       "title": "南投分署分享合歡山水鹿AI照惹議、菲律賓連日大雨成災至少40死、北極斑翅冬大蚊入侵南極",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-08-31T02:55:59.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "TaiwanPlus攜手NHK製作，帶世界看見《台灣里山》",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-08-31T09:26:21.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "猛禽進駐林業小棧！ 屏東鳥會：墾丁追鷹前先來看猛禽特展",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-08-31T06:41:15.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "從「犧牲帶」到「鑽石」：高雄30年城市轉型，犧牲帶消失了嗎？公民力量決定下一步",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-08-31T09:41:22.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Shifting the Standard: Akamai’s Transition to the IFRS S2 Climate Disclosure",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-08-31T14:28:43.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "AlchemX Global appointed official ISSB Training Partner to advance sustainability reporting in SL",
@@ -103,18 +103,18 @@
       "group": null,
       "published": "2026-08-31T00:05:16.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "永續下一題聚焦「人」，CSRone攜手BSI：從法遵、ISO 45003到員工體驗，解析心理安全如何走進企業治理",
-      "summary": null,
-      "url": "https://csrone.com/news/10089",
-      "source": "CSRone 永續智庫",
-      "tag": "台灣",
+      "title": "Special Olympics’ Deposit Return Scheme and COP17: The sustainability success stories of the week",
+      "summary": "As part of our Mission Possible campaign, edie delivers this member-exclusive weekly round-up of five of the best sustainable business success stories of the week.",
+      "url": "https://www.edie.net/special-olympics-deposit-return-scheme-and-cop17-the-sustainability-success-stories-of-the-week/",
+      "source": "edie",
+      "tag": "國際",
       "group": null,
-      "published": "2026-08-31T05:00:00.000Z",
+      "published": "2026-08-30T19:33:34.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
