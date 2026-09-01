@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-01T08:25:53.342Z",
-  "updatedLocal": "2026/9/1 16:25:53",
+  "updated": "2026-09-01T17:01:21.111Z",
+  "updatedLocal": "2026/9/2 01:01:21",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Update to ArcGIS Pro Product Life Cycle",
+      "summary": "Beginning with the release of ArcGIS Pro 3.8 (November 2026), we are updating the ArcGIS Pro product life cycle (PLC) to make software support easier to understand, simplify upgrade planning, and improve alignment with the ArcGIS Enterprise life cycle.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/update-to-arcgis-pro-product-life-cycle",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-08-31T13:09:01.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
     {
       "title": "Planetary prediction engine: Automating global models via Earth AI",
       "summary": "Rama Pasumarthi, Staff Software Engineer, and Shravya Shetty, Distinguished Engineer, Google Research As part of Google Earth AI , we introduce the planetary prediction engine (PPE), an experimental research capability that autonomously executes the full geospatial modeling workflow — from data discovery to model training — achieving improvements across diverse prediction tasks in public health, food security, environmental risk, and socioeconomics.",
@@ -13,9 +24,9 @@
       "source": "Google Research",
       "tag": "研究",
       "group": "gis",
-      "published": "2026-09-01T07:40:29.000Z",
+      "published": "2026-08-31T07:00:00.000Z",
       "why": null,
-      "ago": "45 分鐘前"
+      "ago": "昨日"
     },
     {
       "title": "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
@@ -26,7 +37,7 @@
       "group": "gis",
       "published": "2026-08-29T04:00:00.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
       "title": "Improving our alignment and security practices",
@@ -37,7 +48,7 @@
       "group": "ai",
       "published": "2026-08-31T22:43:26.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Training a Misaligned Reward Seeker",
@@ -48,40 +59,7 @@
       "group": "ai",
       "published": "2026-08-31T22:38:19.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "summary": "OpenAI supports California Senate Bill 1119, legislation that establishes meaningful safeguards for how young people use AI while preserving their access to tools that can help them learn, create, and prepare for the future.",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-31T07:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "summary": "Polimill built QommonsAI with OpenAI technology to support about 1,050 municipalities and evolve into a next-generation public OS.",
-      "url": "https://openai.com/index/polimill",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-31T07:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "A milestone in expanding access to AI",
-      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and global expansion continues. In less than 200 days after launch, ChatGPT Ads has reached $1 billion in annualized revenue run rate.",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-08-31T04:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "18 小時前"
     },
     {
       "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
@@ -92,7 +70,40 @@
       "group": "ai",
       "published": "2026-08-31T18:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "summary": "Generate, refine, and co-create images with unparalleled precision. Plus, upcoming Workspace integrations will let you create and edit directly within Google Slides, Docs, and Drive.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "source": "Google AI Blog",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-01T16:00:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Colorado Unveils New Proposed Rules Implementing Revamped AI Act",
+      "summary": null,
+      "url": "https://www.jdsupra.com/legalnews/colorado-unveils-new-proposed-rules-7782646/",
+      "source": "JD Supra",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-31T22:50:12.000Z",
+      "why": null,
+      "ago": "18 小時前"
+    },
+    {
+      "title": "FSB warns of frontier AI threat",
+      "summary": null,
+      "url": "https://www.investmentexecutive.com/news/regulation/fsb-warns-of-frontier-ai-threat/",
+      "source": "Investment Executive",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-08-31T21:22:32.000Z",
+      "why": null,
+      "ago": "20 小時前"
     }
   ],
   "errors": []

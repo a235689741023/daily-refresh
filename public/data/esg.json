@@ -1,32 +1,65 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-01T08:25:53.342Z",
-  "updatedLocal": "2026/9/1 16:25:53",
+  "updated": "2026-09-01T17:01:21.111Z",
+  "updatedLocal": "2026/9/2 01:01:21",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "What Microsoft learned from purchasing millions of carbon removal credits",
-      "summary": "Microsoft’s appetite for carbon removal far outstrips that of any other company: The tech giant has purchased five times more removal credits than the next 10 largest buyers combined, according to CDR.fyi, a data and analytics provider.",
-      "url": "https://trellis.net/article/microsoft-carbon-removal-learnings/",
+      "title": "Making sense of the latest GOP attack on corporate climate action",
+      "summary": "The accusations come in a Aug. 24 letter from Nebraska AG Mike Hilgers and allies that is notable both for bringing a new batch of companies into the campaign and for the legal arguments it contains, which differ from those used in recent campaigns against climate nonprofits.",
+      "url": "https://trellis.net/article/big-four-accountants-republican-attacks-climate/",
       "source": "Trellis",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-31T10:00:00.000Z",
+      "published": "2026-09-01T10:00:00.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "7 小時前"
     },
     {
-      "title": "Retaking control of the sustainability 2.0 agenda",
-      "summary": "The opinions expressed here by Trellis expert contributors are their own, not those of Trellis or its editors .",
-      "url": "https://trellis.net/article/retaking-control-of-the-sustainability-2-0-agenda/",
-      "source": "Trellis",
+      "title": "Onshore wind farms could save UK £3bn a year by 2030",
+      "summary": "As Europe looks on track for a record year of wind deployment, new analysis has estimated that UK taxpayers could save £3bn a year if the country meets its 2030 target for onshore wind.",
+      "url": "https://www.edie.net/onshore-wind-farms-could-save-uk-3bn-a-year-by-2030/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-08-31T09:00:00.000Z",
+      "published": "2026-09-01T16:25:41.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "36 分鐘前"
+    },
+    {
+      "title": "The new NPPF: Good growth needs multi-use land",
+      "summary": "With demand growing for new homes, renewable energy, infrastructure and nature restoration, chief executive of the Chartered Institute of Ecology and Environmental Management (CIEEM), Sally Hayns, argues that the latest planning reforms should have done more to ensure the country's land delivers multiple benefits.",
+      "url": "https://www.edie.net/the-new-nppf-good-growth-needs-multi-use-land/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-01T14:45:22.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "From sustainability to security: Are PPAs becoming a risk mitigation tool?",
+      "summary": "With complaince expected to push businesses towards hourly and local-based energy reporting, many organisations are exploring shorter-length contracts that protect them from ongoing price volatility.",
+      "url": "https://www.edie.net/from-sustainability-to-security-are-ppas-becoming-a-risk-mitigation-tool/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-01T14:29:32.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Report: Fashion industry emissions rise 14% in two years",
+      "summary": "A new report from Apparel Impact Institute (Aii) has estimated that emissions from the fashion sector rose for the second year in a row in 2024, bringing its carbon footprint up 13.8% in two years.",
+      "url": "https://www.edie.net/report-fashion-industry-emissions-rise-14-in-two-years/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-01T13:56:52.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "TWO WEEKS to go until edie’s Sustainable Supply Chains Summit",
@@ -37,7 +70,7 @@
       "group": null,
       "published": "2026-09-01T07:00:03.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "NEXT WEEK: Exploring the role of bio-based materials in lower-carbon buildings",
@@ -48,7 +81,18 @@
       "group": null,
       "published": "2026-09-01T06:39:15.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
+    },
+    {
+      "title": "Guest post: Why tough methane cuts are crucial for keeping warming ‘well-below’ 2C",
+      "summary": "Methane is a powerful greenhouse gas and the second-largest contributor to global warming after carbon dioxide (CO2).",
+      "url": "https://www.carbonbrief.org/guest-post-why-tough-methane-cuts-are-crucial-for-keeping-warming-well-below-2c",
+      "source": "Carbon Brief",
+      "tag": "氣候",
+      "group": null,
+      "published": "2026-09-01T09:00:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Explainer: The CMIP7 emissions scenarios – and how they explore future climate change",
@@ -59,18 +103,7 @@
       "group": null,
       "published": "2026-08-31T23:01:00.000Z",
       "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "新材料循環產業園區環評初審過關 須再降空污 民團籲大林蒲先遷村再動工",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243831",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-01T08:12:33.000Z",
-      "why": null,
-      "ago": "13 分鐘前"
+      "ago": "18 小時前"
     },
     {
       "title": "當你說夜深你睡不著 研究揭：雙北人每年熱到少睡61小時",
@@ -81,40 +114,7 @@
       "group": null,
       "published": "2026-09-01T01:48:28.000Z",
       "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "台灣珊瑚白化頻率縮短學者籲保護、德國遇史上第二炎熱夏天、日本核廢料選址申請調查茨城縣",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243830",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-01T03:12:09.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "TaiwanPlus攜手NHK製作 帶世界看見《台灣里山》",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243828",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-08-31T09:26:21.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "當野生猴子遇上AI：哥斯達黎加森林中的認知實驗",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243776",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-01T06:52:28.000Z",
-      "why": null,
-      "ago": "2 小時前"
+      "ago": "15 小時前"
     }
   ],
   "errors": []

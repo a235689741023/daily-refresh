@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-01T08:25:53.342Z",
-  "updatedLocal": "2026/9/1 16:25:53",
+  "updated": "2026-09-01T17:01:21.111Z",
+  "updatedLocal": "2026/9/2 01:01:21",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
+      "summary": "Federal Reserve Governor Michael Barr said Tuesday he would be prepared to support an interest rate hike if inflation doesn't ease.",
+      "url": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-01T14:01:27.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
       "summary": "BEIJING — A popular new programmable personal robot from a French-American company is powered by a chip from Shanghai-listed Rockchip which in turn uses British company ARM's tech, reflecting how intertwined global tech supply chains remain.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-09-01T07:30:49.000Z",
       "why": null,
-      "ago": "55 分鐘前"
+      "ago": "10 小時前"
     },
     {
       "title": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced",
@@ -26,18 +37,7 @@
       "group": null,
       "published": "2026-08-31T19:38:38.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI",
-      "summary": "Insurance broker Aon announced on Monday it will purchase rival USI Insurance Services from private equity firm KKR .",
-      "url": "https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-31T15:15:22.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Kalshi partners with brokerage Alpaca as it tries to build its international audience",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-08-31T18:22:51.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
@@ -59,7 +59,18 @@
       "group": null,
       "published": "2026-08-31T15:22:43.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI",
+      "summary": "Insurance broker Aon announced on Monday it will purchase rival USI Insurance Services from private equity firm KKR .",
+      "url": "https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-08-31T15:15:22.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed 'at odds' with Treasury",
@@ -70,51 +81,40 @@
       "group": null,
       "published": "2026-08-31T11:28:03.000Z",
       "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
-      "summary": "Chinese President Xi Jinping is set to make rare state visits to Egypt and, likely India, before his expected trip to the U.S. in late September.",
-      "url": "https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-08-31T04:57:24.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "India’s economy expands 7.8% in fiscal first quarter, beating estimates",
-      "summary": "India's economy grew by 7.8% in the quarter to the end of June, mainly driven by strong performance of the financial, real estate, information technology and professional services sectors.",
-      "url": "https://www.cnbc.com/2026/08/31/india-economy-gdp-energy-el-nino.html",
+      "title": "Euro zone inflation is back above 3%. Higher interest rates are likely to follow",
+      "summary": "Energy price pressures drove inflation in the euro zone back above 3% in August, with hard-hit businesses now likely facing a second blow from higher interest rates.",
+      "url": "https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-08-31T11:23:42.000Z",
+      "published": "2026-09-01T10:50:27.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "6 小時前"
     },
     {
-      "title": "Bank of England chief warns new AI models threaten global financial stability",
-      "summary": "The growing threat posed by advanced artificial intelligence models could trigger a disorderly correction in global financial markets, according to Bank of England Governor Andrew Bailey.",
-      "url": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-08-31T13:35:11.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Amazon’s stock slips as the FTC alleges billions of dollars in hidden ad fees",
+      "title": "There’s a disconnect between AI valuations and revenue-growth forecasts, observes this investor",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/amazons-stock-slips-as-the-ftc-alleges-billions-of-dollars-in-hidden-ad-fees-4ae44ee4?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/theres-a-disconnect-between-ai-valuations-and-revenue-growth-forecasts-observes-this-investor-1350d9f7?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-08-31T22:24:00.000Z",
+      "published": "2026-09-01T14:52:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Are rising bond rates really so bad? Maybe not, say these experts.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/are-rising-bond-rates-really-so-bad-maybe-not-say-these-exports-1af9e683?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-01T14:42:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
     }
   ],
   "errors": []
