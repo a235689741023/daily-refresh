@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-01T01:19:49.404Z",
-  "updatedLocal": "2026/9/1 09:19:49",
+  "updated": "2026-09-01T08:25:53.342Z",
+  "updatedLocal": "2026/9/1 16:25:53",
   "digest": null,
   "watch": [],
   "items": [
@@ -13,9 +13,9 @@
       "source": "Google Research",
       "tag": "研究",
       "group": "gis",
-      "published": "2026-09-01T00:10:27.000Z",
+      "published": "2026-09-01T07:40:29.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "45 分鐘前"
     },
     {
       "title": "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
@@ -37,18 +37,29 @@
       "group": "ai",
       "published": "2026-08-31T22:43:26.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Training a Misaligned Reward Seeker",
       "summary": "During reinforcement learning (RL), AI models complete tasks and are rewarded based on their results.",
       "url": "https://alignment.anthropic.com/2026/reward-seeker/",
-      "source": "alignment.anthropic.com",
+      "source": "Alignment Science Blog",
       "tag": "模型",
       "group": "ai",
       "published": "2026-08-31T22:38:19.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
+    },
+    {
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "summary": "OpenAI supports California Senate Bill 1119, legislation that establishes meaningful safeguards for how young people use AI while preserving their access to tools that can help them learn, create, and prepare for the future.",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-08-31T07:00:00.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Polimill builds Japan's next-generation public AI infrastructure",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-08-31T07:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
       "title": "A milestone in expanding access to AI",
@@ -70,7 +81,7 @@
       "group": "ai",
       "published": "2026-08-31T04:00:00.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
       "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
@@ -81,18 +92,7 @@
       "group": "ai",
       "published": "2026-08-31T18:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Colorado Unveils New Proposed Rules Implementing Revamped AI Act",
-      "summary": null,
-      "url": "https://www.jdsupra.com/legalnews/colorado-unveils-new-proposed-rules-7782646/",
-      "source": "JD Supra",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-08-31T22:50:12.000Z",
-      "why": null,
-      "ago": "2 小時前"
+      "ago": "14 小時前"
     }
   ],
   "errors": []
