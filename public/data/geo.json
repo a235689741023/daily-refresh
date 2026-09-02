@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-01T17:01:21.111Z",
-  "updatedLocal": "2026/9/2 01:01:21",
+  "updated": "2026-09-02T00:21:26.358Z",
+  "updatedLocal": "2026/9/2 08:21:26",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,17 +18,6 @@
       "ago": "昨日"
     },
     {
-      "title": "Planetary prediction engine: Automating global models via Earth AI",
-      "summary": "Rama Pasumarthi, Staff Software Engineer, and Shravya Shetty, Distinguished Engineer, Google Research As part of Google Earth AI , we introduce the planetary prediction engine (PPE), an experimental research capability that autonomously executes the full geospatial modeling workflow — from data discovery to model training — achieving improvements across diverse prediction tasks in public health, food security, environmental risk, and socioeconomics.",
-      "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
-      "source": "Google Research",
-      "tag": "研究",
-      "group": "gis",
-      "published": "2026-08-31T07:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
       "title": "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
       "summary": "The U.S. Geographic Names Information System (GNIS) has formally changed the name for \"Lake Ontario\" to \"Lake America\" in the United States.",
       "url": "https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/",
@@ -40,70 +29,81 @@
       "ago": "4 天前"
     },
     {
-      "title": "Improving our alignment and security practices",
-      "summary": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems.",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "title": "Planetary prediction engine: Automating global models via Earth AI",
+      "summary": "Rama Pasumarthi, Staff Software Engineer, and Shravya Shetty, Distinguished Engineer, Google Research As part of Google Earth AI , we introduce the planetary prediction engine (PPE), an experimental research capability that autonomously executes the full geospatial modeling workflow — from data discovery to model training — achieving improvements across diverse prediction tasks in public health, food security, environmental risk, and socioeconomics.",
+      "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+      "source": "Google Research",
+      "tag": "研究",
+      "group": "gis",
+      "published": "2026-08-27T17:44:59.000Z",
+      "why": null,
+      "ago": "5 天前"
+    },
+    {
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "summary": "Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse.",
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-31T22:43:26.000Z",
+      "published": "2026-09-01T18:05:11.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "6 小時前"
     },
     {
-      "title": "Training a Misaligned Reward Seeker",
-      "summary": "During reinforcement learning (RL), AI models complete tasks and are rewarded based on their results.",
-      "url": "https://alignment.anthropic.com/2026/reward-seeker/",
-      "source": "Alignment Science Blog",
+      "title": ":Claude: Fable 5.1 and Mythos 5.1",
+      "summary": "We’re introducing Claude Fable 5.1 and Claude Mythos 5.1.",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-08-31T22:38:19.000Z",
+      "published": "2026-09-01T18:01:25.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "6 小時前"
     },
     {
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "summary": "By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on a test.",
-      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-08-31T18:00:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "summary": "Generate, refine, and co-create images with unparalleled precision. Plus, upcoming Workspace integrations will let you create and edit directly within Google Slides, Docs, and Drive.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "source": "Google AI Blog",
+      "title": "Claude Fable 5.1 & Claude Mythos 5.1 System Card - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20\\&%20Claude%20Mythos%205.1%20System%20Card.pdf",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-01T16:00:00.000Z",
+      "published": "2026-09-01T18:27:06.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "6 小時前"
     },
     {
-      "title": "Colorado Unveils New Proposed Rules Implementing Revamped AI Act",
-      "summary": null,
-      "url": "https://www.jdsupra.com/legalnews/colorado-unveils-new-proposed-rules-7782646/",
-      "source": "JD Supra",
-      "tag": "政策",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "summary": "Basis, Clay, and Exa Labs use agents for onboarding, account management, and developer integrations. Their examples show what enterprise leaders can borrow.",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "source": "OpenAI",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-08-31T22:50:12.000Z",
+      "published": "2026-09-01T17:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "7 小時前"
     },
     {
-      "title": "FSB warns of frontier AI threat",
-      "summary": null,
-      "url": "https://www.investmentexecutive.com/news/regulation/fsb-warns-of-frontier-ai-threat/",
-      "source": "Investment Executive",
-      "tag": "政策",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "summary": "Since our earlier assessment that Astra might reach a critical level of cybersecurity capability, we have gathered more evidence and run additional evaluations to assess the model’s capabilities.",
+      "url": "https://openai.com/index/path-to-astra",
+      "source": "OpenAI",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-08-31T21:22:32.000Z",
+      "published": "2026-09-01T13:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "11 小時前"
+    },
+    {
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "summary": "A new Epic integration and Healthcare Public Data plugin help teams review authorized patient context and work with structured information from official sources in ChatGPT for Healthcare.",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-01T12:00:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
     }
   ],
   "errors": []
