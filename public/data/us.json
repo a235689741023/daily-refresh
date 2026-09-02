@@ -1,11 +1,44 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-02T07:44:16.285Z",
-  "updatedLocal": "2026/9/2 15:44:16",
+  "updated": "2026-09-02T16:54:06.378Z",
+  "updatedLocal": "2026/9/3 00:54:06",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "New York Fed's Williams says yield surge due to strong economic prospects",
+      "summary": "New York Federal Reserve President John Williams said Wednesday that the recent surge in Treasury yields is the product of a strong economy, not market dysfunction.",
+      "url": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-02T15:56:13.000Z",
+      "why": null,
+      "ago": "58 分鐘前"
+    },
+    {
+      "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
+      "summary": "Berkshire Hathaway's CEO Greg Abel said that rising yields in Japan isn't impacting the major trading houses in the country the holding company has stakes in.",
+      "url": "https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-02T11:09:15.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster",
+      "summary": "Nepal's renowned adventure tourism industry faces a sobering reality check, according to local mountain tourist associations and hostel owners, following devastating flooding on Nepal's border with China.",
+      "url": "https://www.cnbc.com/2026/09/02/nepal-tibet-floods-adventure-tourism-economy.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-02T09:23:18.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
     {
       "title": "Prediction market traders think job creation rebounded in August",
       "summary": "After a disappointing July payrolls report that showed the economy lost jobs that month, traders on prediction market platforms think August will show a rebound in hiring, though potentially not as strong as economists think.",
@@ -15,18 +48,7 @@
       "group": null,
       "published": "2026-09-01T18:57:14.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
-      "summary": "Federal Reserve Governor Michael Barr said Tuesday he would be prepared to support an interest rate hike if inflation doesn't ease.",
-      "url": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-01T14:01:27.000Z",
-      "why": null,
-      "ago": "18 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-09-02T00:11:14.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
@@ -48,73 +70,51 @@
       "group": null,
       "published": "2026-09-01T18:51:50.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "Euro zone inflation is back above 3%. Higher interest rates are likely to follow",
-      "summary": "Energy price pressures drove inflation in the euro zone back above 3% in August, with hard-hit businesses now likely facing a second blow from higher interest rates.",
-      "url": "https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html",
+      "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
+      "summary": "Federal Reserve Governor Michael Barr said Tuesday he would be prepared to support an interest rate hike if inflation doesn't ease.",
+      "url": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-01T14:01:27.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Private payrolls rose by 38,000 in August, less than expected, ADP reports",
+      "summary": "Private U.S. companies added jobs at a slightly slower-than-expected pace in August, with gains concentrated heavily in healthcare and a few other industries, ADP reported Wednesday.",
+      "url": "https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-09-01T10:50:27.000Z",
+      "published": "2026-09-02T14:30:10.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "AI capital expenditure forecast to exceed the cost of building railways in both the U.S. and the U.K. — with the internet added on top",
+      "title": "‘I feel tricked’: My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/ai-capital-expenditure-forecasted-to-exceed-the-cost-of-building-railways-in-both-the-u-s-and-the-u-k-with-the-internet-added-on-top-765b927f?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-02T06:36:00.000Z",
+      "published": "2026-09-02T16:30:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "24 分鐘前"
     },
     {
-      "title": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
+      "title": "Here’s how much Americans rely on Social Security — at all income levels",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/heres-how-much-americans-rely-on-social-security-at-all-income-levels-3a767119?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-02T00:19:00.000Z",
+      "published": "2026-09-02T16:20:00.000Z",
       "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-02T00:18:00.000Z",
-      "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-02T00:00:00.000Z",
-      "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-01T23:15:00.000Z",
-      "why": null,
-      "ago": "8 小時前"
+      "ago": "34 分鐘前"
     }
   ],
   "errors": []

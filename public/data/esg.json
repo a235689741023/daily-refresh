@@ -1,32 +1,109 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-02T07:44:16.285Z",
-  "updatedLocal": "2026/9/2 15:44:16",
+  "updated": "2026-09-02T16:54:06.378Z",
+  "updatedLocal": "2026/9/3 00:54:06",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Making sense of the latest GOP attack on corporate climate action",
-      "summary": "The accusations come in a Aug. 24 letter from Nebraska AG Mike Hilgers and allies that is notable both for bringing a new batch of companies into the campaign and for the legal arguments it contains, which differ from those used in recent campaigns against climate nonprofits.",
-      "url": "https://trellis.net/article/big-four-accountants-republican-attacks-climate/",
+      "title": "How asset manager Apollo turns sustainability into financial value",
+      "summary": "Jaycee Pribulsky, chief sustainability officer at Apollo Global Management, credits her early government experience, including at the Agency for International Development, with setting the foundation for her long-term tenure in sustainability and supply chain work at footwear company Nike.",
+      "url": "https://trellis.net/article/how-private-equity-firm-apollo-turns-sustainability-into-financial-value/",
       "source": "Trellis",
       "tag": "國際",
       "group": null,
-      "published": "2026-09-01T10:00:00.000Z",
+      "published": "2026-09-02T10:00:00.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "7 小時前"
     },
     {
-      "title": "EU backs €4.8bn Greece Social Climate Plan as ETS expands to buildings, transport",
-      "summary": "The European Commission has approved Greece’s €4.77bn Social Climate Plan, which aims to support vulnerable households, transport users, and micro-enterprises during the green transition between 2026 and 2032.",
+      "title": "TWO WEEKS to go until edie’s Sustainable Supply Chains Summit",
+      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
+      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-02T15:00:03.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "From ESOS, SECR & TCFD to UK SRS: How to prioritise sustainability information for more efficient reporting",
+      "summary": "Event Date: 13/10/2026 | 1:00 pm UK | 8:00 am US East Coast ET | 5:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST This webinar will provide sustainability professionals with practical guidance on connecting existing ESOS, SECR and TCFD-aligned reporting processes with UK SRS, using materiality filters to prioritise decision-useful information, reduce duplication and develop more efficient, assurance-ready disclosures.",
+      "url": "https://www.edie.net/from-esos-secr-tcfd-to-uk-srs-how-to-prioritise-sustainability-information-for-more-efficient-reporting/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-02T14:26:53.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "TWO WEEKS TO GO: Preparing UK businesses for European sustainability reporting requirements",
+      "summary": "With just two weeks to go, edie’s new webinar will explore what the European Sustainability Reporting Standards for Third-Country Groups (ESRS-TC) could mean for UK-headquartered businesses.",
+      "url": "https://www.edie.net/two-weeks-to-go-preparing-uk-businesses-for-european-sustainability-reporting-requirements/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-02T13:55:08.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Global warming will cross 1.5C even under most optimistic scenario, says UN",
+      "summary": "Global warming is set to cross 1.5C above pre-industrial levels within the next decade under every scenario examined by the UN, including its most optimistic pathway, according to a new report that warns the overshoot will carry lasting consequences.",
+      "url": "https://www.edie.net/global-warming-will-cross-1-5c-even-under-most-optimistic-scenario-says-un/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-02T12:04:37.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Tate & Lyle updates SBTi targets across expanded footprint",
+      "summary": "Following its acquisition of CP Kelco in 2024, Tate & Lyle has this week (2 September) announced an update to its science-based emissions targets.",
+      "url": "https://www.edie.net/tate-lyle-updates-sbti-targets-across-expanded-footprint/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-02T12:00:25.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "NEXT WEEK: Exploring the role of bio-based materials in lower-carbon buildings",
+      "summary": "Next week, edie is hosting a new webinar exploring the growing interest in bio-based materials.",
+      "url": "https://www.edie.net/two-weeks-to-go-exploring-the-role-of-bio-based-materials-in-lower-carbon-buildings/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-02T11:39:15.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Burnham promises to ‘meet the climate challenge’ with COP31 attendance",
+      "summary": "In his first speech to the new parliamentary session, the Prime Minister (PM) has confirmed that he will be attending the climate summit in November, following a summer of extreme weather.",
+      "url": "https://www.edie.net/burnham-promises-to-meet-the-climate-challenge-with-cop31-attendance/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-02T10:31:28.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "EU backs €4.8bn Greece Social Climate Plan as ETS expands to buildings and transport",
+      "summary": "The European Commission has approved Greece’s €4.77bn Social Climate Plan, which aims to support vulnerable households, transport users and micro-enterprises during the green transition between 2026 and 2032.",
       "url": "https://www.edie.net/eu-backs-e4-8bn-greece-social-climate-plan-as-ets-expands-to-buildings-transport/",
       "source": "edie",
       "tag": "國際",
       "group": null,
       "published": "2026-09-02T06:45:02.000Z",
       "why": null,
-      "ago": "59 分鐘前"
+      "ago": "10 小時前"
     },
     {
       "title": "A $450bn challenge: What do rising climate catastrophe losses mean?",
@@ -37,84 +114,7 @@
       "group": null,
       "published": "2026-09-01T21:34:38.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "NEXT WEEK: Exploring the role of bio-based materials in lower-carbon buildings",
-      "summary": "Next week, edie is hosting a new webinar exploring the growing interest in bio-based materials.",
-      "url": "https://www.edie.net/two-weeks-to-go-exploring-the-role-of-bio-based-materials-in-lower-carbon-buildings/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-01T18:39:15.000Z",
-      "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Onshore wind farms could save UK £3bn a year by 2030",
-      "summary": "As Europe looks on track for a record year of wind deployment, new analysis has estimated that UK taxpayers could save £3bn a year if the country meets its 2030 target for onshore wind.",
-      "url": "https://www.edie.net/onshore-wind-farms-could-save-uk-3bn-a-year-by-2030/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-01T16:25:41.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "The new NPPF: Good growth needs multi-use land",
-      "summary": "With demand growing for new homes, renewable energy, infrastructure and nature restoration, chief executive of the Chartered Institute of Ecology and Environmental Management (CIEEM), Sally Hayns, argues that the latest planning reforms should have done more to ensure the country's land delivers multiple benefits.",
-      "url": "https://www.edie.net/the-new-nppf-good-growth-needs-multi-use-land/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-01T14:45:22.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "From sustainability to security: Are PPAs becoming a risk mitigation tool?",
-      "summary": "With compliance expected to push businesses towards hourly and local-based energy reporting, many organisations are exploring shorter-length contracts that protect them from ongoing price volatility.",
-      "url": "https://www.edie.net/from-sustainability-to-security-are-ppas-becoming-a-risk-mitigation-tool/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-01T14:29:32.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Report: Fashion industry emissions rise 14% in two years",
-      "summary": "A new report from Apparel Impact Institute (Aii) has estimated that emissions from the fashion sector rose for the second year in a row in 2024, bringing its carbon footprint up 13.8% in two years.",
-      "url": "https://www.edie.net/report-fashion-industry-emissions-rise-14-in-two-years/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-01T13:56:52.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Guest post: Why tough methane cuts are crucial for keeping warming ‘well-below’ 2C",
-      "summary": "Methane is a powerful greenhouse gas and the second-largest contributor to global warming after carbon dioxide (CO2).",
-      "url": "https://www.carbonbrief.org/guest-post-why-tough-methane-cuts-are-crucial-for-keeping-warming-well-below-2c",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-09-01T09:00:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "新材料循環產業園區環評初審過關 須再降空污 民團籲大林蒲先遷村再動工",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243831",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-01T08:12:33.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "19 小時前"
     }
   ],
   "errors": []
