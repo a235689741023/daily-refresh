@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-02T00:21:26.358Z",
-  "updatedLocal": "2026/9/2 08:21:26",
+  "updated": "2026-09-02T07:44:16.285Z",
+  "updatedLocal": "2026/9/2 15:44:16",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-08-31T13:09:01.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
@@ -37,7 +37,7 @@
       "group": "gis",
       "published": "2026-08-27T17:44:59.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
       "title": "Developing Enterprise Frontier Safeguards with our customers",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-09-01T18:05:11.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": ":Claude: Fable 5.1 and Mythos 5.1",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-09-01T18:01:25.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Claude Fable 5.1 & Claude Mythos 5.1 System Card - www-cdn.anthropic.com",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-09-01T18:27:06.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "How AI-native companies turn workflows into operating capability",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-09-01T17:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Path to Astra: critical capabilities and frontier safeguards",
@@ -92,7 +92,7 @@
       "group": "ai",
       "published": "2026-09-01T13:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
@@ -103,7 +103,7 @@
       "group": "ai",
       "published": "2026-09-01T12:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     }
   ],
   "errors": []

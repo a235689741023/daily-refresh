@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-02T00:21:26.358Z",
-  "updatedLocal": "2026/9/2 08:21:26",
+  "updated": "2026-09-02T07:44:16.285Z",
+  "updatedLocal": "2026/9/2 15:44:16",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,18 @@
       "group": null,
       "published": "2026-09-01T10:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
+    },
+    {
+      "title": "EU backs €4.8bn Greece Social Climate Plan as ETS expands to buildings, transport",
+      "summary": "The European Commission has approved Greece’s €4.77bn Social Climate Plan, which aims to support vulnerable households, transport users, and micro-enterprises during the green transition between 2026 and 2032.",
+      "url": "https://www.edie.net/eu-backs-e4-8bn-greece-social-climate-plan-as-ets-expands-to-buildings-transport/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-02T06:45:02.000Z",
+      "why": null,
+      "ago": "59 分鐘前"
     },
     {
       "title": "A $450bn challenge: What do rising climate catastrophe losses mean?",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-09-01T21:34:38.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "NEXT WEEK: Exploring the role of bio-based materials in lower-carbon buildings",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-09-01T18:39:15.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Onshore wind farms could save UK £3bn a year by 2030",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-09-01T16:25:41.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "The new NPPF: Good growth needs multi-use land",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-09-01T14:45:22.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "From sustainability to security: Are PPAs becoming a risk mitigation tool?",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-09-01T14:29:32.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Report: Fashion industry emissions rise 14% in two years",
@@ -81,18 +92,7 @@
       "group": null,
       "published": "2026-09-01T13:56:52.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "TWO WEEKS to go until edie’s Sustainable Supply Chains Summit",
-      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
-      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-01T07:00:03.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Guest post: Why tough methane cuts are crucial for keeping warming ‘well-below’ 2C",
@@ -103,18 +103,18 @@
       "group": null,
       "published": "2026-09-01T09:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "當你說夜深你睡不著 研究揭：雙北人每年熱到少睡61小時",
+      "title": "新材料循環產業園區環評初審過關 須再降空污 民團籲大林蒲先遷村再動工",
       "summary": null,
-      "url": "https://e-info.org.tw/node/243772",
+      "url": "https://e-info.org.tw/node/243831",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-09-01T01:48:28.000Z",
+      "published": "2026-09-01T08:12:33.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "24 小時前"
     }
   ],
   "errors": []
