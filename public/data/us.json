@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-03T00:24:09.433Z",
-  "updatedLocal": "2026/9/3 08:24:09",
+  "updated": "2026-09-03T07:53:12.583Z",
+  "updatedLocal": "2026/9/3 15:53:12",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-02T17:21:59.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-02T11:09:15.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster",
@@ -37,40 +37,18 @@
       "group": null,
       "published": "2026-09-02T09:23:18.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
-      "summary": "BEIJING — A popular new programmable personal robot from a French-American company is powered by a chip from Shanghai-listed Rockchip which in turn uses British company ARM's tech, reflecting how intertwined global tech supply chains remain.",
-      "url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing?",
+      "summary": "South Korea's semiconductor exports have been an absolute boon for Asia's fourth-largest economy, sending overall numbers to a record.",
+      "url": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-09-02T00:11:14.000Z",
+      "published": "2026-09-03T01:11:41.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Prediction market traders think job creation rebounded in August",
-      "summary": "After a disappointing July payrolls report that showed the economy lost jobs that month, traders on prediction market platforms think August will show a rebound in hiring, though potentially not as strong as economists think.",
-      "url": "https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-01T18:57:14.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
-      "summary": "Chinese President Xi Jinping is set to make rare state visits to Egypt and, likely India, before his expected trip to the U.S. in late September.",
-      "url": "https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-01T18:51:50.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "7 小時前"
     },
     {
       "title": "Private payrolls rose by 38,000 in August, less than expected, ADP reports",
@@ -81,7 +59,29 @@
       "group": null,
       "published": "2026-09-02T14:30:10.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
+    },
+    {
+      "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-03T04:01:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Broadcom’s stock falls despite upbeat earnings, extending a frustrating stretch for investors",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-03T00:25:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "Snowflake’s stock soars as the company blows away estimates with its AI-fueled forecast",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-09-03T00:23:00.000Z",
       "why": null,
-      "ago": "剛剛"
+      "ago": "8 小時前"
     },
     {
       "title": "HPE follows in Dell’s footsteps as it rides the AI server boom to a big earnings beat",
@@ -103,18 +103,18 @@
       "group": null,
       "published": "2026-09-03T00:22:00.000Z",
       "why": null,
-      "ago": "2 分鐘前"
+      "ago": "8 小時前"
     },
     {
-      "title": "Broadcom’s stock falls despite upbeat earnings, extending a frustrating stretch for investors",
+      "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-02T22:28:00.000Z",
+      "published": "2026-09-02T21:45:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     }
   ],
   "errors": []

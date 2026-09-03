@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-03T00:24:09.433Z",
-  "updatedLocal": "2026/9/3 08:24:09",
+  "updated": "2026-09-03T07:53:12.583Z",
+  "updatedLocal": "2026/9/3 15:53:12",
   "digest": null,
   "watch": [],
   "items": [
@@ -10,10 +10,21 @@
       "title": "Update to ArcGIS Pro Product Life Cycle",
       "summary": "Beginning with the release of ArcGIS Pro 3.8 (November 2026), we are updating the ArcGIS Pro product life cycle (PLC) to make software support easier to understand, simplify upgrade planning, and improve alignment with the ArcGIS Enterprise life cycle.",
       "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/update-to-arcgis-pro-product-life-cycle",
-      "source": "esri.com",
+      "source": "Esri",
       "tag": "平台",
       "group": "gis",
       "published": "2026-08-31T13:09:01.000Z",
+      "why": null,
+      "ago": "3 天前"
+    },
+    {
+      "title": "Planetary prediction engine: Automating global models via Earth AI",
+      "summary": "Rama Pasumarthi, Staff Software Engineer, and Shravya Shetty, Distinguished Engineer, Google Research As part of Google Earth AI , we introduce the planetary prediction engine (PPE), an experimental research capability that autonomously executes the full geospatial modeling workflow — from data discovery to model training — achieving improvements across diverse prediction tasks in public health, food security, environmental risk, and socioeconomics.",
+      "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+      "source": "Google Research",
+      "tag": "研究",
+      "group": "gis",
+      "published": "2026-09-01T07:00:00.000Z",
       "why": null,
       "ago": "2 天前"
     },
@@ -37,18 +48,7 @@
       "group": "ai",
       "published": "2026-09-02T12:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Claude Fable 5.1 & Claude Mythos 5.1 System Card - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20\\&%20Claude%20Mythos%205.1%20System%20Card.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-01T18:27:06.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "20 小時前"
     },
     {
       "title": "Proactive cyber defense for governments and enterprises",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-09-02T16:24:24.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-09-02T16:18:31.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Facilitating AI integration with simplicity at scale",
@@ -81,18 +81,7 @@
       "group": "ai",
       "published": "2026-09-02T14:00:00.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "The latest AI news we announced in August 2026",
-      "summary": "Here’s a recap of some of our biggest AI updates from August, including the launch of Gemini 3.7 Flash, Gemini 3.5 Transcribe, and the all-new Pixel 11 series of devices.",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "source": "Google AI Blog",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-01T20:45:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "18 小時前"
     }
   ],
   "errors": []
