@@ -1,21 +1,21 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-02T16:54:06.378Z",
-  "updatedLocal": "2026/9/3 00:54:06",
+  "updated": "2026-09-03T00:24:09.433Z",
+  "updatedLocal": "2026/9/3 08:24:09",
   "digest": null,
   "watch": [],
   "items": [
     {
       "title": "New York Fed's Williams says yield surge due to strong economic prospects",
-      "summary": "New York Federal Reserve President John Williams said Wednesday that the recent surge in Treasury yields is the product of a strong economy, not market dysfunction.",
+      "summary": "New York Federal Reserve President John Williams said Wednesday that the recent surge in Treasury yields is the product of a strong economy , not market dysfunction.",
       "url": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-02T15:56:13.000Z",
+      "published": "2026-09-02T17:21:59.000Z",
       "why": null,
-      "ago": "58 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-02T11:09:15.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster",
@@ -37,18 +37,7 @@
       "group": null,
       "published": "2026-09-02T09:23:18.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "Prediction market traders think job creation rebounded in August",
-      "summary": "After a disappointing July payrolls report that showed the economy lost jobs that month, traders on prediction market platforms think August will show a rebound in hiring, though potentially not as strong as economists think.",
-      "url": "https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-01T18:57:14.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
@@ -59,7 +48,18 @@
       "group": null,
       "published": "2026-09-02T00:11:14.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Prediction market traders think job creation rebounded in August",
+      "summary": "After a disappointing July payrolls report that showed the economy lost jobs that month, traders on prediction market platforms think August will show a rebound in hiring, though potentially not as strong as economists think.",
+      "url": "https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-01T18:57:14.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
@@ -69,17 +69,6 @@
       "tag": "大盤",
       "group": null,
       "published": "2026-09-01T18:51:50.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
-      "summary": "Federal Reserve Governor Michael Barr said Tuesday he would be prepared to support an interest rate hike if inflation doesn't ease.",
-      "url": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-01T14:01:27.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -92,29 +81,40 @@
       "group": null,
       "published": "2026-09-02T14:30:10.000Z",
       "why": null,
+      "ago": "10 小時前"
+    },
+    {
+      "title": "Snowflake’s stock soars as the company blows away estimates with its AI-fueled forecast",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/snowflakes-stock-soars-as-the-company-blows-away-estimates-with-its-ai-fueled-forecast-5b5cf36c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-03T00:23:00.000Z",
+      "why": null,
+      "ago": "剛剛"
+    },
+    {
+      "title": "HPE follows in Dell’s footsteps as it rides the AI server boom to a big earnings beat",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-03T00:22:00.000Z",
+      "why": null,
+      "ago": "2 分鐘前"
+    },
+    {
+      "title": "Broadcom’s stock falls despite upbeat earnings, extending a frustrating stretch for investors",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-02T22:28:00.000Z",
+      "why": null,
       "ago": "2 小時前"
-    },
-    {
-      "title": "‘I feel tricked’: My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-02T16:30:00.000Z",
-      "why": null,
-      "ago": "24 分鐘前"
-    },
-    {
-      "title": "Here’s how much Americans rely on Social Security — at all income levels",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/heres-how-much-americans-rely-on-social-security-at-all-income-levels-3a767119?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-02T16:20:00.000Z",
-      "why": null,
-      "ago": "34 分鐘前"
     }
   ],
   "errors": []
