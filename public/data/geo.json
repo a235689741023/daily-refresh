@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-03T07:53:12.583Z",
-  "updatedLocal": "2026/9/3 15:53:12",
+  "updated": "2026-09-03T16:43:25.347Z",
+  "updatedLocal": "2026/9/4 00:43:25",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,17 +18,6 @@
       "ago": "3 天前"
     },
     {
-      "title": "Planetary prediction engine: Automating global models via Earth AI",
-      "summary": "Rama Pasumarthi, Staff Software Engineer, and Shravya Shetty, Distinguished Engineer, Google Research As part of Google Earth AI , we introduce the planetary prediction engine (PPE), an experimental research capability that autonomously executes the full geospatial modeling workflow — from data discovery to model training — achieving improvements across diverse prediction tasks in public health, food security, environmental risk, and socioeconomics.",
-      "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
-      "source": "Google Research",
-      "tag": "研究",
-      "group": "gis",
-      "published": "2026-09-01T07:00:00.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
       "title": "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
       "summary": "The U.S. Geographic Names Information System (GNIS) has formally changed the name for \"Lake Ontario\" to \"Lake America\" in the United States.",
       "url": "https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/",
@@ -37,7 +26,29 @@
       "group": "gis",
       "published": "2026-08-29T04:00:00.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
+    },
+    {
+      "title": "Planetary prediction engine: Automating global models via Earth AI",
+      "summary": "Rama Pasumarthi, Staff Software Engineer, and Shravya Shetty, Distinguished Engineer, Google Research As part of Google Earth AI , we introduce the planetary prediction engine (PPE), an experimental research capability that autonomously executes the full geospatial modeling workflow — from data discovery to model training — achieving improvements across diverse prediction tasks in public health, food security, environmental risk, and socioeconomics.",
+      "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+      "source": "Google Research",
+      "tag": "研究",
+      "group": "gis",
+      "published": "2026-08-27T17:44:59.000Z",
+      "why": null,
+      "ago": "7 天前"
+    },
+    {
+      "title": "Building Claude Commerce Agents",
+      "summary": "AI is rapidly changing commerce, and consumer brands and platforms are on the move to respond. In today's webinar, Ali Shazal will walk you through our new blueprints for consumer and merchant agents.",
+      "url": "https://www.anthropic.com/webinars/building-claude-commerce-agents",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-02T16:40:31.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
@@ -48,7 +59,18 @@
       "group": "ai",
       "published": "2026-09-02T12:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "summary": "Our flagship AI weather forecasting model now includes real-time satellite data, hourly refreshes, higher resolution, precise precipitation forecasting, and clean energy variables.",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "Google DeepMind",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-03T15:02:08.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "Proactive cyber defense for governments and enterprises",
@@ -59,7 +81,7 @@
       "group": "ai",
       "published": "2026-09-02T16:24:24.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
@@ -70,7 +92,7 @@
       "group": "ai",
       "published": "2026-09-02T16:18:31.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Facilitating AI integration with simplicity at scale",
@@ -81,7 +103,7 @@
       "group": "ai",
       "published": "2026-09-02T14:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

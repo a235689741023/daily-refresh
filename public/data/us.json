@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-03T07:53:12.583Z",
-  "updatedLocal": "2026/9/3 15:53:12",
+  "updated": "2026-09-03T16:43:25.347Z",
+  "updatedLocal": "2026/9/4 00:43:25",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protectionism'",
+      "summary": "BEIJING — China has accused other G20 nations of \"promoting protectionism,\" after they criticized economies that rely heavily on exports.",
+      "url": "https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-03T11:12:54.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
     {
       "title": "New York Fed's Williams says yield surge due to strong economic prospects",
       "summary": "New York Federal Reserve President John Williams said Wednesday that the recent surge in Treasury yields is the product of a strong economy , not market dysfunction.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-09-02T17:21:59.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
@@ -26,18 +37,29 @@
       "group": null,
       "published": "2026-09-02T11:09:15.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster",
-      "summary": "Nepal's renowned adventure tourism industry faces a sobering reality check, according to local mountain tourist associations and hostel owners, following devastating flooding on Nepal's border with China.",
-      "url": "https://www.cnbc.com/2026/09/02/nepal-tibet-floods-adventure-tourism-economy.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
+      "summary": "Federal Reserve Governor Christopher Waller said Thursday he is leaning toward keeping interest rates steady at the central bank's September meeting provided there are no surprises from upcoming inflation data.",
+      "url": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-09-02T09:23:18.000Z",
+      "published": "2026-09-03T14:06:52.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "3 小時前"
+    },
+    {
+      "title": "'Danger zone of extreme weather': UN warns of supersized El Niño set to hit global economy and markets",
+      "summary": "The El Niño climate event is intensifying into a \"supersized\" phenomenon that will persist until February 2027, raising the risk of floods, droughts and extreme heat in many countries, the United Nations warned on Thursday.",
+      "url": "https://www.cnbc.com/2026/09/03/supersized-el-nino-un-economy.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-09-03T12:25:53.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing?",
@@ -48,73 +70,51 @@
       "group": null,
       "published": "2026-09-03T01:11:41.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "16 小時前"
     },
     {
-      "title": "Private payrolls rose by 38,000 in August, less than expected, ADP reports",
-      "summary": "Private U.S. companies added jobs at a slightly slower-than-expected pace in August, with gains concentrated heavily in healthcare and a few other industries, ADP reported Wednesday.",
-      "url": "https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-09-02T14:30:10.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
+      "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-03T04:01:00.000Z",
+      "published": "2026-09-03T16:30:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 分鐘前"
     },
     {
-      "title": "Broadcom’s stock falls despite upbeat earnings, extending a frustrating stretch for investors",
+      "title": "Here’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/heres-what-nvidias-13-billion-hugging-face-deal-means-for-the-world-of-ai-360e9fd1?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-03T00:25:00.000Z",
+      "published": "2026-09-03T16:26:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "17 分鐘前"
     },
     {
-      "title": "Snowflake’s stock soars as the company blows away estimates with its AI-fueled forecast",
+      "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/snowflakes-stock-soars-as-the-company-blows-away-estimates-with-its-ai-fueled-forecast-5b5cf36c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-03T00:23:00.000Z",
+      "published": "2026-09-03T15:39:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "1 小時前"
     },
     {
-      "title": "HPE follows in Dell’s footsteps as it rides the AI server boom to a big earnings beat",
+      "title": "Snowflake has a secret weapon that’s powering its stock toward a huge gain",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-03T00:22:00.000Z",
+      "published": "2026-09-03T15:20:00.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-02T21:45:00.000Z",
-      "why": null,
-      "ago": "10 小時前"
+      "ago": "1 小時前"
     }
   ],
   "errors": []
