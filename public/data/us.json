@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-03T16:43:25.347Z",
-  "updatedLocal": "2026/9/4 00:43:25",
+  "updated": "2026-09-04T00:16:52.204Z",
+  "updatedLocal": "2026/9/4 08:16:52",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,29 +15,18 @@
       "group": null,
       "published": "2026-09-03T11:12:54.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
-      "title": "New York Fed's Williams says yield surge due to strong economic prospects",
-      "summary": "New York Federal Reserve President John Williams said Wednesday that the recent surge in Treasury yields is the product of a strong economy , not market dysfunction.",
-      "url": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
+      "summary": "The August jobs report set to be released Friday is expected to put the final touches on what has been a relatively jobless summer.",
+      "url": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-09-02T17:21:59.000Z",
+      "published": "2026-09-03T19:38:09.000Z",
       "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
-      "summary": "Berkshire Hathaway's CEO Greg Abel said that rising yields in Japan isn't impacting the major trading houses in the country the holding company has stakes in.",
-      "url": "https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-02T11:09:15.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "5 小時前"
     },
     {
       "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
@@ -48,7 +37,7 @@
       "group": null,
       "published": "2026-09-03T14:06:52.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "'Danger zone of extreme weather': UN warns of supersized El Niño set to hit global economy and markets",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-09-03T12:25:53.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing?",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-09-03T01:11:41.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
@@ -79,42 +68,53 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-03T16:30:00.000Z",
-      "why": null,
-      "ago": "13 分鐘前"
-    },
-    {
-      "title": "Here’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/heres-what-nvidias-13-billion-hugging-face-deal-means-for-the-world-of-ai-360e9fd1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-03T16:26:00.000Z",
+      "published": "2026-09-04T00:00:00.000Z",
       "why": null,
       "ago": "17 分鐘前"
     },
     {
-      "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
+      "title": "Tesla investors await updates on Cybercab robotaxi touted as the ‘future of transport’",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/teslas-stock-is-rallying-as-investors-prepare-for-a-storm-of-cybercabs-c738ac98?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-03T15:39:00.000Z",
+      "published": "2026-09-03T23:45:00.000Z",
+      "why": null,
+      "ago": "32 分鐘前"
+    },
+    {
+      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-03T23:36:00.000Z",
+      "why": null,
+      "ago": "41 分鐘前"
+    },
+    {
+      "title": "Lululemon bets on ‘away from body’ pants as customers sour on form-fitting leggings",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/lululemons-sales-drop-raises-deeper-concerns-about-the-companys-turnaround-ddf9256a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-03T22:49:00.000Z",
       "why": null,
       "ago": "1 小時前"
     },
     {
-      "title": "Snowflake has a secret weapon that’s powering its stock toward a huge gain",
+      "title": "Adobe just announced its next CEO. Here’s why its stock is dropping.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-03T15:20:00.000Z",
+      "published": "2026-09-03T22:23:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "2 小時前"
     }
   ],
   "errors": []

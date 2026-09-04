@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-03T16:43:25.347Z",
-  "updatedLocal": "2026/9/4 00:43:25",
+  "updated": "2026-09-04T00:16:52.204Z",
+  "updatedLocal": "2026/9/4 08:16:52",
   "digest": null,
   "watch": [],
   "items": [
@@ -10,7 +10,7 @@
       "title": "Update to ArcGIS Pro Product Life Cycle",
       "summary": "Beginning with the release of ArcGIS Pro 3.8 (November 2026), we are updating the ArcGIS Pro product life cycle (PLC) to make software support easier to understand, simplify upgrade planning, and improve alignment with the ArcGIS Enterprise life cycle.",
       "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/update-to-arcgis-pro-product-life-cycle",
-      "source": "Esri",
+      "source": "esri.com",
       "tag": "平台",
       "group": "gis",
       "published": "2026-08-31T13:09:01.000Z",
@@ -29,35 +29,46 @@
       "ago": "6 天前"
     },
     {
-      "title": "Planetary prediction engine: Automating global models via Earth AI",
-      "summary": "Rama Pasumarthi, Staff Software Engineer, and Shravya Shetty, Distinguished Engineer, Google Research As part of Google Earth AI , we introduce the planetary prediction engine (PPE), an experimental research capability that autonomously executes the full geospatial modeling workflow — from data discovery to model training — achieving improvements across diverse prediction tasks in public health, food security, environmental risk, and socioeconomics.",
-      "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
-      "source": "Google Research",
-      "tag": "研究",
-      "group": "gis",
-      "published": "2026-08-27T17:44:59.000Z",
-      "why": null,
-      "ago": "7 天前"
-    },
-    {
-      "title": "Building Claude Commerce Agents",
-      "summary": "AI is rapidly changing commerce, and consumer brands and platforms are on the move to respond. In today's webinar, Ali Shazal will walk you through our new blueprints for consumer and merchant agents.",
-      "url": "https://www.anthropic.com/webinars/building-claude-commerce-agents",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-02T16:40:31.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "summary": "How a two-person leadership team uses ChatGPT Work to run 26 events nationwide, improve visibility in AI search, and inventory merch in minutes.",
-      "url": "https://openai.com/index/atv-big-air-tour",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "summary": "OpenAI is committing $1 billion in subsidized Daybreak access, training, technical support, and partnerships to help frontline defenders protect essential services.",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-02T12:00:00.000Z",
+      "published": "2026-09-03T13:15:00.000Z",
+      "why": null,
+      "ago": "11 小時前"
+    },
+    {
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "Legora uses Astra to improve accuracy, completeness, and reliability, while keeping final judgment with legal professionals.",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-03T12:00:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "summary": "Using GPT‑6 Astra, Playco built three themed game prototypes from one grey box foundation, with most working on the first take.",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-03T12:00:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Safety overview: GPT-6 Astra",
+      "summary": "Today, we are releasing GPT‑6 Astra, the most capable model we have ever broadly deployed.",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-03T00:00:00.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -70,40 +81,18 @@
       "group": "ai",
       "published": "2026-09-03T15:02:08.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "summary": "Today, we’re launching our Fairwind Program, a limited access program for governments and trusted partners to use our most advanced cyber defense capabilities.",
-      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-      "source": "Google DeepMind",
-      "tag": "模型",
+      "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "summary": "Frontier intelligence is going local.",
+      "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
       "group": "ai",
-      "published": "2026-09-02T16:24:24.000Z",
+      "published": "2026-09-03T16:00:59.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "summary": "Our newest Gemini models deliver next-generation intelligence for agentic workflows and cybersecurity.",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "source": "Google DeepMind",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-02T16:18:31.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Facilitating AI integration with simplicity at scale",
-      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset.",
-      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-09-02T14:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "8 小時前"
     }
   ],
   "errors": []

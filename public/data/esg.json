@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-03T16:43:25.347Z",
-  "updatedLocal": "2026/9/4 00:43:25",
+  "updated": "2026-09-04T00:16:52.204Z",
+  "updatedLocal": "2026/9/4 08:16:52",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-03T10:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Sustainability leadership moves",
@@ -26,7 +26,18 @@
       "group": null,
       "published": "2026-09-02T19:21:03.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "El Niño: A live stress test for UK supply chain resilience",
+      "summary": "With a quarter of UK food imports now exposed to the 'supersized' El Niño, a new report from the Nation Audit Office (NAO) has warned that the country must do more to protect its food supply chain from such shocks.",
+      "url": "https://www.edie.net/el-nino-a-live-stress-test-for-uk-supply-chain-resilience/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-03T23:01:30.000Z",
+      "why": null,
+      "ago": "1 小時前"
     },
     {
       "title": "Companies with climate targets barely outspend peers on green CapEx, study finds",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-09-03T14:53:27.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "45-minute Masterclass: The Future Cost of EV Charging",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-09-03T12:55:09.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "edie launches four insight reports exploring the audiences and opportunities at edie 27",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-09-03T12:19:23.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "REPORT: edie 27 insight report – Energy",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-09-03T12:10:17.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "REPORT: edie 27 insight report – Climate resilience & nature",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-09-03T12:10:16.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "REPORT: edie 27 insight report – Supply chains & circularity",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-09-03T12:10:03.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "REPORT: edie 27 insight report – Reporting & engagement",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-09-03T12:10:02.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Coffee biofuels and seaweed CO2 capture: The best green innovations of August 2026",
-      "summary": "As the summer comes to an end, edie and our sister title Springwise take a look at six of the month's most exciting cleantech innovation stories, from biofuels made from coffee grounds to a carbon-capturing seaweed solution.",
-      "url": "https://www.edie.net/coffee-biofuels-and-seaweed-co2-capture-the-best-green-innovations-of-august-2026/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-03T12:08:15.000Z",
-      "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     }
   ],
   "errors": []
