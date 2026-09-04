@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-04T07:51:02.339Z",
-  "updatedLocal": "2026/9/4 15:51:02",
+  "updated": "2026-09-04T16:38:11.191Z",
+  "updatedLocal": "2026/9/5 00:38:11",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-08-29T04:00:00.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
     },
     {
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-09-03T13:15:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-09-03T12:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
@@ -59,7 +59,18 @@
       "group": "ai",
       "published": "2026-09-03T12:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare.",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-09-04T09:25:19.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
@@ -70,29 +81,18 @@
       "group": "ai",
       "published": "2026-09-03T15:02:08.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
-      "summary": "Frontier intelligence is going local.",
-      "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
+      "title": "Lawmakers behind the strictest state AI laws urge tech companies to slow down",
+      "summary": "DEVELOPING: Judge gives Lindsay Clancy’s defense an hour to appeal his plan to declare a mistrial The architects of the country’s strongest state AI laws are calling on the largest AI companies to rein in the speed of AI development until their safety-focused efforts can match their technological advances.",
+      "url": "https://www.nbcnews.com/tech/security/lawmakers-strictest-us-ai-laws-urge-tech-companies-slow-rcna596027",
+      "source": "NBC News",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-09-03T16:00:59.000Z",
+      "published": "2026-09-04T11:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
-      "summary": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature.",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-09-03T13:00:35.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "6 小時前"
     }
   ],
   "errors": []
