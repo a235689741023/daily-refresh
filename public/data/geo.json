@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-04T00:16:52.204Z",
-  "updatedLocal": "2026/9/4 08:16:52",
+  "updated": "2026-09-04T07:51:02.339Z",
+  "updatedLocal": "2026/9/4 15:51:02",
   "digest": null,
   "watch": [],
   "items": [
@@ -10,12 +10,12 @@
       "title": "Update to ArcGIS Pro Product Life Cycle",
       "summary": "Beginning with the release of ArcGIS Pro 3.8 (November 2026), we are updating the ArcGIS Pro product life cycle (PLC) to make software support easier to understand, simplify upgrade planning, and improve alignment with the ArcGIS Enterprise life cycle.",
       "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/update-to-arcgis-pro-product-life-cycle",
-      "source": "esri.com",
+      "source": "Esri",
       "tag": "平台",
       "group": "gis",
       "published": "2026-08-31T13:09:01.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
       "title": "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-09-03T13:15:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-09-03T12:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
@@ -59,18 +59,7 @@
       "group": "ai",
       "published": "2026-09-03T12:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Safety overview: GPT-6 Astra",
-      "summary": "Today, we are releasing GPT‑6 Astra, the most capable model we have ever broadly deployed.",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-03T00:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "20 小時前"
     },
     {
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
@@ -81,7 +70,7 @@
       "group": "ai",
       "published": "2026-09-03T15:02:08.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
@@ -92,7 +81,18 @@
       "group": "ai",
       "published": "2026-09-03T16:00:59.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
+    },
+    {
+      "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+      "summary": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature.",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
+      "group": "ai",
+      "published": "2026-09-03T13:00:35.000Z",
+      "why": null,
+      "ago": "19 小時前"
     }
   ],
   "errors": []
