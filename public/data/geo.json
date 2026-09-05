@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-05T00:13:00.512Z",
-  "updatedLocal": "2026/9/5 08:13:00",
+  "updated": "2026-09-05T07:30:14.512Z",
+  "updatedLocal": "2026/9/5 15:30:14",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,40 +15,40 @@
       "group": "gis",
       "published": "2026-08-31T13:09:01.000Z",
       "why": null,
-      "ago": "4 天前"
-    },
-    {
-      "title": "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
-      "summary": "The U.S. Geographic Names Information System (GNIS) has formally changed the name for \"Lake Ontario\" to \"Lake America\" in the United States.",
-      "url": "https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/",
-      "source": "Google Maps Blog",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-08-29T04:00:00.000Z",
-      "why": null,
-      "ago": "7 天前"
+      "ago": "5 天前"
     },
     {
       "title": "Formalizing Fermat's Last Theorem",
       "summary": "We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the proof in the Lean programming language.",
       "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "source": "Anthropic",
+      "source": "anthropic.com",
       "tag": "模型",
       "group": "ai",
       "published": "2026-09-04T18:35:51.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
+    },
+    {
+      "title": "Formalizing Fermat’s Last Theorem in Lean - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/9e431dff043da6538d99d6c2d231b670aa3da263.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-04T18:41:11.000Z",
+      "why": null,
+      "ago": "13 小時前"
     },
     {
       "title": "Leadership at Anthropic",
       "summary": "As a public benefit corporation, Anthropic is dedicated to ensuring the world safely makes the transition through transformative AI.",
       "url": "https://www.anthropic.com/company/leadership",
-      "source": "Anthropic",
+      "source": "anthropic.com",
       "tag": "模型",
       "group": "ai",
       "published": "2026-09-04T17:50:34.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Architecting memory and storage in the AI era",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-09-04T18:39:19.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
@@ -70,29 +70,18 @@
       "group": "ai",
       "published": "2026-09-04T09:25:19.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "Lawmakers behind the strictest state AI laws urge tech companies to slow down",
-      "summary": "The architects of the country’s strongest state AI laws are calling on the largest AI companies to rein in the speed of AI development until their safety-focused efforts can match their technological advances.",
-      "url": "https://www.nbcnews.com/tech/security/lawmakers-strictest-us-ai-laws-urge-tech-companies-slow-rcna596027",
-      "source": "NBC News",
+      "title": "EXCLUSIVE: US, China gear up for mid-September AI safety talks",
+      "summary": null,
+      "url": "https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/",
+      "source": "Reuters",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-09-04T11:00:41.000Z",
+      "published": "2026-09-04T22:57:32.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "US, China gear up for mid-September AI safety talks",
-      "summary": "FILE PHOTO: Visitors stand near a sign of artificial intelligence at an AI robot booth at Security China, an exhibition on public safety and security, in Beijing, China June 7, 2023.",
-      "url": "https://www.straitstimes.com/asia/us-china-gear-up-for-mid-september-ai-safety-dialogue",
-      "source": "The Straits Times",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-04T16:31:00.000Z",
-      "why": null,
-      "ago": "8 小時前"
+      "ago": "9 小時前"
     }
   ],
   "errors": []
