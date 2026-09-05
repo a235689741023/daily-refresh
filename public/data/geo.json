@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-05T07:30:14.512Z",
-  "updatedLocal": "2026/9/5 15:30:14",
+  "updated": "2026-09-05T15:40:58.259Z",
+  "updatedLocal": "2026/9/5 23:40:58",
   "digest": null,
   "watch": [],
   "items": [
@@ -21,12 +21,12 @@
       "title": "Formalizing Fermat's Last Theorem",
       "summary": "We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the proof in the Lean programming language.",
       "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "source": "anthropic.com",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
       "published": "2026-09-04T18:35:51.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Formalizing Fermat’s Last Theorem in Lean - www-cdn.anthropic.com",
@@ -37,18 +37,18 @@
       "group": "ai",
       "published": "2026-09-04T18:41:11.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Leadership at Anthropic",
       "summary": "As a public benefit corporation, Anthropic is dedicated to ensuring the world safely makes the transition through transformative AI.",
       "url": "https://www.anthropic.com/company/leadership",
-      "source": "anthropic.com",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
       "published": "2026-09-04T17:50:34.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Architecting memory and storage in the AI era",
@@ -59,18 +59,7 @@
       "group": "ai",
       "published": "2026-09-04T18:39:19.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare.",
-      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-09-04T09:25:19.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "EXCLUSIVE: US, China gear up for mid-September AI safety talks",
@@ -81,8 +70,25 @@
       "group": "ai",
       "published": "2026-09-04T22:57:32.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
+    },
+    {
+      "title": "Lawmakers behind the strictest state AI laws urge tech companies to slow down",
+      "summary": "The architects of the country’s strongest state AI laws are calling on the largest AI companies to rein in the speed of AI development until their safety-focused efforts can match their technological advances.",
+      "url": "https://www.nbcnews.com/tech/security/lawmakers-strictest-us-ai-laws-urge-tech-companies-slow-rcna596027",
+      "source": "NBC News",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-04T11:00:41.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "GIS Lounge",
+      "url": "https://www.gislounge.com/feed/",
+      "message": "HTTP 403 Forbidden"
+    }
+  ]
 }

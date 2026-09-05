@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-05T07:30:14.512Z",
-  "updatedLocal": "2026/9/5 15:30:14",
+  "updated": "2026-09-05T15:40:58.259Z",
+  "updatedLocal": "2026/9/5 23:40:58",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-04T17:53:07.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Bitcoin heads for third winning week in a row as macro pressures mount",
@@ -26,7 +26,18 @@
       "group": null,
       "published": "2026-09-04T14:36:48.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "From ‘mystery vacations’ to hostels, budget travelers get thrifty as prices rise",
+      "summary": "On a recent weekend, Jami Hagerman embarked on the budget- vacation equivalent of a blind date.",
+      "url": "https://www.cnbc.com/2026/09/05/budget-travel-vacation-costs.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-09-05T12:14:21.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "Women accounted for almost all of job gains in August. Here's why",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-09-04T18:27:39.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
@@ -48,73 +59,62 @@
       "group": null,
       "published": "2026-09-04T17:16:37.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "The big business of personal protection: How private security became a $50 billion industry",
-      "summary": "The trendy Hillcrest neighborhood of San Diego, California, was the backdrop for violent acts and hate crimes.",
-      "url": "https://www.cnbc.com/2026/09/04/private-security-spending-crime-allied-universal.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-09-04T14:15:04.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.",
+      "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-04T21:46:00.000Z",
+      "published": "2026-09-05T15:37:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "4 分鐘前"
     },
     {
-      "title": "Tesla’s stock falls as Cybercab launch lands with a thud",
+      "title": "I’m 68. Should I spend half my 401(k) to buy a home with a mortgage?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-1108376b?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/im-68-should-i-spend-half-my-401-k-to-buy-a-home-with-a-mortgage-285e5ada?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-04T20:18:00.000Z",
+      "published": "2026-09-05T15:17:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "24 分鐘前"
     },
     {
-      "title": "Micron is doubling down on AI memory chips. That could pay off big time for investors.",
+      "title": "Here’s how much Americans rely on Social Security — at all income levels",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/heres-how-much-americans-rely-on-social-security-at-all-income-levels-3a767119?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-04T20:12:00.000Z",
+      "published": "2026-09-05T14:33:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "1 小時前"
     },
     {
-      "title": "Will a data center hurt your home’s value? Research says no. Sellers disagree.",
+      "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-04T20:03:00.000Z",
+      "published": "2026-09-05T14:31:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "1 小時前"
     },
     {
-      "title": "Here’s what’s worth streaming in September 2026 on Netflix, Hulu, HBO Max and more",
+      "title": "Medicare Advantage patients who get diagnosed with Alzheimer’s or other serious diseases are ditching their plans — and it can cost them",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/medicare-advantage-patients-who-get-diagnosed-with-alzheimers-or-other-serious-diseases-are-ditching-their-plans-and-it-can-cost-them-b5c42717?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-04T20:00:00.000Z",
+      "published": "2026-09-05T14:15:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "1 小時前"
     }
   ],
   "errors": []
