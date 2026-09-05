@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-04T16:38:11.191Z",
-  "updatedLocal": "2026/9/5 00:38:11",
+  "updated": "2026-09-05T00:13:00.512Z",
+  "updatedLocal": "2026/9/5 08:13:00",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they will be filled",
+      "summary": "The White House has vetted candidates for the four open commissioner positions at the Commodity Futures Trading Commission , three people with knowledge of the matter told CNBC.",
+      "url": "https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-04T17:53:07.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
     {
       "title": "Bitcoin heads for third winning week in a row as macro pressures mount",
       "summary": "Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.",
@@ -15,18 +26,18 @@
       "group": null,
       "published": "2026-09-04T14:36:48.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
-      "title": "China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protectionism'",
-      "summary": "BEIJING — China has accused other G20 nations of \"promoting protectionism,\" after they criticized economies that rely heavily on exports.",
-      "url": "https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "Women accounted for almost all of job gains in August. Here's why",
+      "summary": "There's a group to thank for August's blockbuster jobs report : women.",
+      "url": "https://www.cnbc.com/2026/09/04/jobs-report-women-payrolls.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-09-03T11:12:54.000Z",
+      "published": "2026-09-04T18:27:39.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
     },
     {
       "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
@@ -35,9 +46,9 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-09-04T14:19:02.000Z",
+      "published": "2026-09-04T17:16:37.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "The big business of personal protection: How private security became a $50 billion industry",
@@ -48,73 +59,62 @@
       "group": null,
       "published": "2026-09-04T14:15:04.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
-      "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
-      "summary": "The August jobs report set to be released Friday is expected to put the final touches on what has been a relatively jobless summer.",
-      "url": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-09-03T19:38:09.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Think of Nvidia’s $13 billion deal for Hugging Face as a form of ‘health insurance’",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/think-of-nvidias-13-billion-deal-for-hugging-face-as-a-form-of-health-insurance-04c37535?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-04T16:19:00.000Z",
-      "why": null,
-      "ago": "19 分鐘前"
-    },
-    {
-      "title": "Here’s how people are building their nest eggs using ‘rent and invest’ strategies",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/heres-how-people-are-building-their-nest-eggs-using-rent-and-invest-strategies-253b069e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-04T15:57:00.000Z",
-      "why": null,
-      "ago": "41 分鐘前"
-    },
-    {
-      "title": "Jobs and Iran add to Trump’s midterm headaches. Why that’s good for bonds and bad for energy stocks.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/jobs-and-iran-add-to-trumps-midterm-headaches-why-thats-good-for-bonds-and-bad-for-energy-stocks-551cb765?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-04T15:48:00.000Z",
-      "why": null,
-      "ago": "50 分鐘前"
-    },
-    {
-      "title": "S&P 500 changes are coming soon. These stocks could be named to the index today.",
+      "title": "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.",
       "summary": null,
       "url": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-04T15:39:00.000Z",
+      "published": "2026-09-04T21:46:00.000Z",
       "why": null,
-      "ago": "59 分鐘前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Rising interest rates pose a major threat to stock prices and other assets",
+      "title": "Tesla’s stock falls as Cybercab launch lands with a thud",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/rising-interest-rates-pose-a-major-threat-to-stock-prices-and-other-assets-0f9f3208?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-1108376b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-04T15:05:00.000Z",
+      "published": "2026-09-04T20:18:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Micron is doubling down on AI memory chips. That could pay off big time for investors.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-04T20:12:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Will a data center hurt your home’s value? Research says no. Sellers disagree.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-04T20:03:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Here’s what’s worth streaming in September 2026 on Netflix, Hulu, HBO Max and more",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-04T20:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
     }
   ],
   "errors": []

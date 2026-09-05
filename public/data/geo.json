@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-04T16:38:11.191Z",
-  "updatedLocal": "2026/9/5 00:38:11",
+  "updated": "2026-09-05T00:13:00.512Z",
+  "updatedLocal": "2026/9/5 08:13:00",
   "digest": null,
   "watch": [],
   "items": [
@@ -29,37 +29,37 @@
       "ago": "7 天前"
     },
     {
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "summary": "OpenAI is committing $1 billion in subsidized Daybreak access, training, technical support, and partnerships to help frontline defenders protect essential services.",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "source": "OpenAI",
+      "title": "Formalizing Fermat's Last Theorem",
+      "summary": "We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the proof in the Lean programming language.",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-03T13:15:00.000Z",
+      "published": "2026-09-04T18:35:51.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
     },
     {
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "summary": "Legora uses Astra to improve accuracy, completeness, and reliability, while keeping final judgment with legal professionals.",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "OpenAI",
+      "title": "Leadership at Anthropic",
+      "summary": "As a public benefit corporation, Anthropic is dedicated to ensuring the world safely makes the transition through transformative AI.",
+      "url": "https://www.anthropic.com/company/leadership",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-03T12:00:00.000Z",
+      "published": "2026-09-04T17:50:34.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
     },
     {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "summary": "Using GPT‑6 Astra, Playco built three themed game prototypes from one grey box foundation, with most working on the first take.",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "Architecting memory and storage in the AI era",
+      "summary": "The era of AI inference has arrived.",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-09-03T12:00:00.000Z",
+      "published": "2026-09-04T18:39:19.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
     },
     {
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
@@ -70,29 +70,29 @@
       "group": "ai",
       "published": "2026-09-04T09:25:19.000Z",
       "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "summary": "Our flagship AI weather forecasting model now includes real-time satellite data, hourly refreshes, higher resolution, precise precipitation forecasting, and clean energy variables.",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "source": "Google DeepMind",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-03T15:02:08.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "15 小時前"
     },
     {
       "title": "Lawmakers behind the strictest state AI laws urge tech companies to slow down",
-      "summary": "DEVELOPING: Judge gives Lindsay Clancy’s defense an hour to appeal his plan to declare a mistrial The architects of the country’s strongest state AI laws are calling on the largest AI companies to rein in the speed of AI development until their safety-focused efforts can match their technological advances.",
+      "summary": "The architects of the country’s strongest state AI laws are calling on the largest AI companies to rein in the speed of AI development until their safety-focused efforts can match their technological advances.",
       "url": "https://www.nbcnews.com/tech/security/lawmakers-strictest-us-ai-laws-urge-tech-companies-slow-rcna596027",
       "source": "NBC News",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-09-04T11:00:00.000Z",
+      "published": "2026-09-04T11:00:41.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
+    },
+    {
+      "title": "US, China gear up for mid-September AI safety talks",
+      "summary": "FILE PHOTO: Visitors stand near a sign of artificial intelligence at an AI robot booth at Security China, an exhibition on public safety and security, in Beijing, China June 7, 2023.",
+      "url": "https://www.straitstimes.com/asia/us-china-gear-up-for-mid-september-ai-safety-dialogue",
+      "source": "The Straits Times",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-04T16:31:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
     }
   ],
   "errors": []
