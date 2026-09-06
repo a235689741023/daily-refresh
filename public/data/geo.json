@@ -1,21 +1,21 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-05T15:40:58.259Z",
-  "updatedLocal": "2026/9/5 23:40:58",
+  "updated": "2026-09-06T00:02:37.109Z",
+  "updatedLocal": "2026/9/6 08:02:37",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Update to ArcGIS Pro Product Life Cycle",
-      "summary": "Beginning with the release of ArcGIS Pro 3.8 (November 2026), we are updating the ArcGIS Pro product life cycle (PLC) to make software support easier to understand, simplify upgrade planning, and improve alignment with the ArcGIS Enterprise life cycle.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/update-to-arcgis-pro-product-life-cycle",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-08-31T13:09:01.000Z",
+      "title": "Formalizing Fermat’s Last Theorem in Lean - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/9e431dff043da6538d99d6c2d231b670aa3da263.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-04T18:41:11.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "昨日"
     },
     {
       "title": "Formalizing Fermat's Last Theorem",
@@ -26,29 +26,7 @@
       "group": "ai",
       "published": "2026-09-04T18:35:51.000Z",
       "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Formalizing Fermat’s Last Theorem in Lean - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/9e431dff043da6538d99d6c2d231b670aa3da263.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-04T18:41:11.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Leadership at Anthropic",
-      "summary": "As a public benefit corporation, Anthropic is dedicated to ensuring the world safely makes the transition through transformative AI.",
-      "url": "https://www.anthropic.com/company/leadership",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-04T17:50:34.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Architecting memory and storage in the AI era",
@@ -59,7 +37,7 @@
       "group": "ai",
       "published": "2026-09-04T18:39:19.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
       "title": "EXCLUSIVE: US, China gear up for mid-September AI safety talks",
@@ -70,25 +48,14 @@
       "group": "ai",
       "published": "2026-09-04T22:57:32.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Lawmakers behind the strictest state AI laws urge tech companies to slow down",
-      "summary": "The architects of the country’s strongest state AI laws are calling on the largest AI companies to rein in the speed of AI development until their safety-focused efforts can match their technological advances.",
-      "url": "https://www.nbcnews.com/tech/security/lawmakers-strictest-us-ai-laws-urge-tech-companies-slow-rcna596027",
-      "source": "NBC News",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-04T11:00:41.000Z",
-      "why": null,
       "ago": "昨日"
     }
   ],
   "errors": [
     {
-      "source": "GIS Lounge",
-      "url": "https://www.gislounge.com/feed/",
-      "message": "HTTP 403 Forbidden"
+      "source": "Geospatial World",
+      "url": "https://geospatialworld.net/feed/",
+      "message": "This operation was aborted"
     }
   ]
 }
