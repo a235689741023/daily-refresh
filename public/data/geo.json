@@ -1,22 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-06T07:43:49.367Z",
-  "updatedLocal": "2026/9/6 15:43:49",
+  "updated": "2026-09-06T15:51:42.207Z",
+  "updatedLocal": "2026/9/6 23:51:42",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "- partner-sso.anthropic.com",
-      "summary": null,
-      "url": "https://partner-sso.anthropic.com/",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-05T15:05:23.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
     {
       "title": "Formalizing Fermat’s Last Theorem in Lean - www-cdn.anthropic.com",
       "summary": null,
@@ -62,13 +51,13 @@
       "ago": "2 天前"
     },
     {
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare.",
-      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
+      "title": "EXCLUSIVE: US, China gear up for mid-September AI safety talks",
+      "summary": null,
+      "url": "https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/",
+      "source": "Reuters",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-09-04T09:25:19.000Z",
+      "published": "2026-09-04T22:57:32.000Z",
       "why": null,
       "ago": "2 天前"
     }
