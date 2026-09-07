@@ -1,11 +1,33 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-07T00:05:48.835Z",
-  "updatedLocal": "2026/9/7 08:05:48",
+  "updated": "2026-09-07T08:03:22.017Z",
+  "updatedLocal": "2026/9/7 16:03:22",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Update to ArcGIS Pro Product Life Cycle",
+      "summary": "Beginning with the release of ArcGIS Pro 3.8 (November 2026), we are updating the ArcGIS Pro product life cycle (PLC) to make software support easier to understand, simplify upgrade planning, and improve alignment with the ArcGIS Enterprise life cycle.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/update-to-arcgis-pro-product-life-cycle",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-08-31T13:09:01.000Z",
+      "why": null,
+      "ago": "7 天前"
+    },
+    {
+      "title": "Supporting independent journalism in Ukraine",
+      "summary": "Working with WAN-IFRA and AIRPPU to protect and rebuild independent journalism through conflict in Ukraine The following was issued as a joint press release on Monday 7th September 2026 from WAN-IFRA, AIRPPU and OpenAI.",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-07T00:00:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
     {
       "title": "An Alien Mind",
       "summary": "Author: Jakub Pachocki, Chief Scientist at OpenAI In mid-2023, within the “RLSlow” research project, we saw the first results that gave us confidence that we will be able to scale the training of reasoning models, unlocking the capability of pretrained models to form their own chains of thought.",
@@ -15,7 +37,7 @@
       "group": "ai",
       "published": "2026-09-06T09:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Research acceleration: The view inside OpenAI",
@@ -26,56 +48,19 @@
       "group": "ai",
       "published": "2026-09-06T08:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Architecting memory and storage in the AI era",
-      "summary": "The era of AI inference has arrived.",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
+      "title": "The EU AI Compliance Stack Is Crystallizing Into Three Layers – and None of Them Talk to Each Other",
+      "summary": "The European Union’s approach to regulating artificial intelligence has moved beyond the singular focus of the EU AI Act , crystallizing instead into an unsynchronized, three-layer compliance stack.",
+      "url": "https://forkast.news/the-eu-ai-compliance-stack-is-crystallizing-into-three-layers-and-none-of-them-talk-to-each-other/",
+      "source": "forkast.news",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-09-04T18:39:19.000Z",
+      "published": "2026-09-06T14:44:26.000Z",
       "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare.",
-      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-09-04T09:25:19.000Z",
-      "why": null,
-      "ago": "3 天前"
+      "ago": "17 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "Anthropic",
-      "url": "https://news.google.com/rss/search?q=site%3Aanthropic.com&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "AI 政策",
-      "url": "https://news.google.com/rss/search?q=%22AI%20Act%22%20OR%20%22frontier%20AI%22%20OR%20%22AI%20safety%22%20OR%20%22export%20controls%22%20AI%20regulation&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "GIS × AI 研究",
-      "url": "https://news.google.com/rss/search?q=geospatial%20AI%20OR%20%22spatial%20AI%22%20OR%20%22remote%20sensing%22%20foundation%20model&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "ArcGIS Blog",
-      "url": "https://news.google.com/rss/search?q=site%3Aesri.com%2Farcgis-blog&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "Geospatial World",
-      "url": "https://geospatialworld.net/feed/",
-      "message": "This operation was aborted"
-    }
-  ]
+  "errors": []
 }

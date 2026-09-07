@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-07T00:05:48.835Z",
-  "updatedLocal": "2026/9/7 08:05:48",
+  "updated": "2026-09-07T08:03:22.017Z",
+  "updatedLocal": "2026/9/7 16:03:22",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "China pulls in Big Tobacco to help with smaller-than-expected finance-industry capital injections",
+      "summary": "China's finance ministry is leading a smaller-than-expected $54 billion capital injection into state-owned banks and insurers, as Beijing seeks to foster growth with restrained stimulus.",
+      "url": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-07T06:27:53.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
       "summary": "Sugar is getting a lot less sweet for buyers. Sugar prices surged 21.5% in August, marking its strongest monthly gain since October 2010, when it rose 24%.",
@@ -15,7 +26,18 @@
       "group": null,
       "published": "2026-09-06T13:19:01.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
+    },
+    {
+      "title": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention",
+      "summary": "Japan's foreign reserves have fallen at their fastest pace since ministry records started in 2000, slumping 6.18% in August.",
+      "url": "https://www.cnbc.com/2026/09/07/japan-foreign-reserves-yen-intervention.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-09-07T07:38:42.000Z",
+      "why": null,
+      "ago": "25 分鐘前"
     },
     {
       "title": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-09-06T21:30:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-09-06T21:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-09-06T20:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-09-06T20:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Why does almost nobody want to befriend older people like me — except scammers?",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-09-06T19:45:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-09-06T13:15:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.",
@@ -92,46 +114,8 @@
       "group": null,
       "published": "2026-09-06T13:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-06T12:55:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "From ‘mystery vacations’ to hostels, budget travelers get thrifty as prices rise",
-      "summary": "On a recent weekend, Jami Hagerman embarked on the budget- vacation equivalent of a blind date.",
-      "url": "https://www.cnbc.com/2026/09/05/budget-travel-vacation-costs.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-09-05T23:55:52.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "19 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "Bloomberg",
-      "url": "https://news.google.com/rss/search?q=site%3Abloomberg.com%20markets%20OR%20earnings&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "財報",
-      "url": "https://news.google.com/rss/search?q=earnings%20beat%20OR%20earnings%20miss%20guidance%20S%26P%20500&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "Reuters 財經",
-      "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20stock%20market%20OR%20Federal%20Reserve&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    }
-  ]
+  "errors": []
 }
