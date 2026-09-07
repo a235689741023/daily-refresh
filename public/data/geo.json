@@ -1,43 +1,32 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-06T15:51:42.207Z",
-  "updatedLocal": "2026/9/6 23:51:42",
+  "updated": "2026-09-07T00:05:48.835Z",
+  "updatedLocal": "2026/9/7 08:05:48",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Formalizing Fermat’s Last Theorem in Lean - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/9e431dff043da6538d99d6c2d231b670aa3da263.pdf",
-      "source": "Anthropic",
+      "title": "An Alien Mind",
+      "summary": "Author: Jakub Pachocki, Chief Scientist at OpenAI In mid-2023, within the “RLSlow” research project, we saw the first results that gave us confidence that we will be able to scale the training of reasoning models, unlocking the capability of pretrained models to form their own chains of thought.",
+      "url": "https://openai.com/index/an-alien-mind",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-04T18:41:11.000Z",
+      "published": "2026-09-06T09:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "15 小時前"
     },
     {
-      "title": "Formalizing Fermat's Last Theorem",
-      "summary": "We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the proof in the Lean programming language.",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "source": "Anthropic",
+      "title": "Research acceleration: The view inside OpenAI",
+      "summary": "For AGI to benefit all of humanity, we believe it must be democratically governed.",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-04T18:35:51.000Z",
+      "published": "2026-09-06T08:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Leadership at Anthropic",
-      "summary": "As a public benefit corporation, Anthropic is dedicated to ensuring the world safely makes the transition through transformative AI.",
-      "url": "https://www.anthropic.com/company/leadership",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-04T17:50:34.000Z",
-      "why": null,
-      "ago": "2 天前"
+      "ago": "16 小時前"
     },
     {
       "title": "Architecting memory and storage in the AI era",
@@ -51,18 +40,38 @@
       "ago": "2 天前"
     },
     {
-      "title": "EXCLUSIVE: US, China gear up for mid-September AI safety talks",
-      "summary": null,
-      "url": "https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/",
-      "source": "Reuters",
-      "tag": "政策",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare.",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-09-04T22:57:32.000Z",
+      "published": "2026-09-04T09:25:19.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     }
   ],
   "errors": [
+    {
+      "source": "Anthropic",
+      "url": "https://news.google.com/rss/search?q=site%3Aanthropic.com&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "AI 政策",
+      "url": "https://news.google.com/rss/search?q=%22AI%20Act%22%20OR%20%22frontier%20AI%22%20OR%20%22AI%20safety%22%20OR%20%22export%20controls%22%20AI%20regulation&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "GIS × AI 研究",
+      "url": "https://news.google.com/rss/search?q=geospatial%20AI%20OR%20%22spatial%20AI%22%20OR%20%22remote%20sensing%22%20foundation%20model&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "ArcGIS Blog",
+      "url": "https://news.google.com/rss/search?q=site%3Aesri.com%2Farcgis-blog&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
     {
       "source": "Geospatial World",
       "url": "https://geospatialworld.net/feed/",

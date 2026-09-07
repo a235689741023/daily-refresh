@@ -1,55 +1,152 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-06T15:51:42.207Z",
-  "updatedLocal": "2026/9/6 23:51:42",
+  "updated": "2026-09-07T00:05:48.835Z",
+  "updatedLocal": "2026/9/7 08:05:48",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "推廣淨零綠生活 南市環保局辦理「循流好市」永續市集 | 台灣好新聞",
-      "summary": "您使用的瀏覽器版本較舊，已不再受支援。建議您更新瀏覽器版本，以獲得最佳使用體驗。為推廣淨零綠生活與環境永續理念，臺南市政府環保局5日於麻豆區總爺藝文中心辦理「循流好市」永續市集，並結合「2026 Mattauw大地藝術季」共同登場。",
-      "url": "https://today.line.me/tw/v3/article/WBRppXL",
-      "source": "LINE TODAY",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-05T10:39:31.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "上千人搶當綠領！淨零測驗到考率破92%企業高管醫師也來考 最小僅17歲",
-      "summary": "環境部推動淨零轉型再邁關鍵一步，環境部淨零綠領人才培育課程今年第2次全國集中測驗於本周5在全國12個考區同步登場。本次測驗共吸引近1000名完成48小時培訓課程的學員報名應試，現場到考率超過92%，顯見產業對綠領人才的殷切需求。",
-      "url": "https://news.cnyes.com/news/id/6598430",
-      "source": "news.cnyes.com",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-05T08:45:08.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "「環境部淨零綠領人才培育課程」測驗近千名應試到考率逾九成| 生活",
-      "summary": "「環境部淨零綠領人才培育課程」今年第2次全國集中測驗於今（5）日舉行。圖：國家環境研究院 提供 「 環境部 淨零綠領人才培育課程」今年第2次全國集中測驗於今（5）日舉行，近千名完成48小時課程的學員應試，到考率超過92%。",
-      "url": "https://newtalk.tw/news/view/2026-09-05/1058003",
-      "source": "newtalk.tw",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-05T07:20:05.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Cypress Creek Reveals Microsoft as Long-term Offtaker for New $180 Million Washington Solar Project",
-      "summary": "Renewables developer and power producer Cypress Creek Energy announced the commercial operation of its Ostrea Solar project, its new $180 million, 104 MWdc renewable energy facility in Yakima County, Washington.",
-      "url": "https://www.esgtoday.com/cypress-creek-reveals-microsoft-as-long-term-offtaker-for-new-180-million-washington-solar-project/",
-      "source": "ESG Today",
+      "title": "TWO WEEKS to go until edie’s Sustainable Supply Chains Summit",
+      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
+      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-09-04T17:59:36.000Z",
+      "published": "2026-09-04T14:00:03.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "ON THURSDAY: Exploring the role of bio-based materials in lower-carbon buildings",
+      "summary": "Next week, edie is hosting a new webinar exploring the growing interest in bio-based materials.",
+      "url": "https://www.edie.net/two-weeks-to-go-exploring-the-role-of-bio-based-materials-in-lower-carbon-buildings/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-04T13:39:15.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "Spain calls for creation of EU climate adaptation fund mobilised by fossil fuel tax",
+      "summary": "Spain’s vice president and minister for Ecological Transition, Sara Aagesen, has spearheaded a call for the creation of an EU climate adaptation fund.",
+      "url": "https://www.edie.net/spain-calls-for-creation-of-eu-climate-adaptation-fund-mobilised-by-fossil-fuel-tax/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-04T13:32:01.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "TWO WEEKS TO GO: Preparing UK businesses for European sustainability reporting requirements",
+      "summary": "With just two weeks to go, edie’s new webinar will explore what the European Sustainability Reporting Standards for Third-Country Groups (ESRS-TC) could mean for UK-headquartered businesses.",
+      "url": "https://www.edie.net/two-weeks-to-go-preparing-uk-businesses-for-european-sustainability-reporting-requirements/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-04T11:55:08.000Z",
+      "why": null,
+      "ago": "3 天前"
+    },
+    {
+      "title": "Analysis: UK solar power hits record high over summer 2026",
+      "summary": "Solar power generation in the UK reached a new record over the summer of 2026, as temperatures across the nation soared, according to new analysis by Carbon Brief.",
+      "url": "https://www.carbonbrief.org/analysis-uk-solar-power-hits-record-high-over-summer-2026",
+      "source": "Carbon Brief",
+      "tag": "氣候",
+      "group": null,
+      "published": "2026-09-04T11:21:35.000Z",
+      "why": null,
+      "ago": "3 天前"
+    },
+    {
+      "title": "How this summer’s heat and drought impacted crops in Europe – in six charts",
+      "summary": "Farmers around Europe are dealing with the aftermath of a summer of extreme heat , drought and wildfires that were exacerbated by climate change.",
+      "url": "https://www.carbonbrief.org/how-this-summers-heat-and-drought-impacted-crops-in-europe-in-six-charts",
+      "source": "Carbon Brief",
+      "tag": "氣候",
+      "group": null,
+      "published": "2026-09-04T10:45:44.000Z",
+      "why": null,
+      "ago": "3 天前"
+    },
+    {
+      "title": "Reusable food and drink packaging: The case for glass",
+      "summary": "As the Government explores the potential of reusable food and drink packaging systems, environment and circularity director at British Glass, Jenni Richards, explains why, with the right investment and support, glass is the perfect candidate.",
+      "url": "https://www.edie.net/reusable-food-and-drink-packaging-the-case-for-glass/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-04T10:37:43.000Z",
+      "why": null,
+      "ago": "3 天前"
+    },
+    {
+      "title": "UK announces £400m loan investment in Tropical Forests Forever Facility",
+      "summary": "The UK Government has announced plans to invest £400m in the Tropical Forests Forever Facility (TFFF), a proposed international financing mechanism that aims to provide long-term funding to countries that protect their tropical forests.",
+      "url": "https://www.edie.net/uk-announces-400m-loan-investment-in-tropical-forests-forever-facility/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-04T08:05:07.000Z",
+      "why": null,
+      "ago": "3 天前"
+    },
+    {
+      "title": "Indonesia Battles Wildfires Near New Capital Nusantara",
+      "summary": "Wildfires have spread into areas surrounding Indonesia’s planned capital Nusantara, forcing authorities to step up emergency measures as the country battles one of its toughest dry seasons in years.",
+      "url": "https://esgnews.com/indonesia-battles-wildfires-near-new-capital-nusantara/?utm_source=rss&utm_medium=rss&utm_campaign=indonesia-battles-wildfires-near-new-capital-nusantara",
+      "source": "ESG News",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-04T15:19:58.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "BBVA Backs Türkiye Wealth Fund Sustainable Finance Framework",
+      "summary": "Türkiye Wealth Fund has established its inaugural Sustainable Finance Framework, creating a formal structure for financing environmental and social projects across the sovereign fund and its portfolio.",
+      "url": "https://esgnews.com/bbva-backs-turkiye-wealth-fund-sustainable-finance-framework/?utm_source=rss&utm_medium=rss&utm_campaign=bbva-backs-turkiye-wealth-fund-sustainable-finance-framework",
+      "source": "ESG News",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-04T15:12:01.000Z",
       "why": null,
       "ago": "2 天前"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "台灣永續政策",
+      "url": "https://news.google.com/rss/search?q=%E7%A2%B3%E8%B2%BB%20OR%20%E7%A2%B3%E4%BA%A4%E6%98%93%20OR%20%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8%20OR%20%E6%B7%A8%E9%9B%B6%20%E5%8F%B0%E7%81%A3&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "CSRone",
+      "url": "https://news.google.com/rss/search?q=site%3Acsrone.com&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "環境資訊中心",
+      "url": "https://news.google.com/rss/search?q=site%3Ae-info.org.tw&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "國際法規",
+      "url": "https://news.google.com/rss/search?q=CSRD%20OR%20CBAM%20OR%20%22IFRS%20S2%22%20OR%20ISSB%20sustainability%20disclosure&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "ESG Today",
+      "url": "https://news.google.com/rss/search?q=site%3Aesgtoday.com&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "永續人才",
+      "url": "https://news.google.com/rss/search?q=%E6%B0%B8%E7%BA%8C%20%E4%BA%BA%E6%89%8D%20OR%20%E8%81%B7%E7%BC%BA%20OR%20ESG%20%E4%BA%BA%E5%8A%9B&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "message": "HTTP 503 Service Unavailable"
+    }
+  ]
 }

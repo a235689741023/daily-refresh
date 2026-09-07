@@ -1,8 +1,8 @@
 {
   "domain": "tw",
   "title": "台股",
-  "updated": "2026-09-06T15:51:42.207Z",
-  "updatedLocal": "2026/9/6 23:51:42",
+  "updated": "2026-09-07T00:05:48.835Z",
+  "updatedLocal": "2026/9/7 08:05:48",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-06T04:20:03.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "廠務工程在手訂單飆近9000億元 劍指兆元產值",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-06T04:09:16.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "群電衛星通訊電源需求強勁 Q4新機種量產",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-09-06T04:06:49.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "聯亞8月營收年增180% 法人估2027產能為今年2.5倍",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-09-06T04:05:07.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "〈熱門股〉磷化銦缺料改善 全新獲外資連3買讚周漲21％",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-09-06T03:52:45.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "房地合一重購退稅踩雷！他因「這原因」賣房百萬稅款全遭追回",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-09-06T02:42:32.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "台股市值重返152兆！法人看AI供應鏈多點開花 長多格局不變",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-09-06T02:32:15.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "台廠Micro LED搶進光通訊生態系 富采、錼創強攻短距光傳輸替代商機",
@@ -92,18 +92,7 @@
       "group": null,
       "published": "2026-09-06T02:00:11.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "聯發科首創包場六福村水陸雙樂園 參與員工及眷屬近2.5萬名",
-      "summary": "聯發科( 2454-TW )今(5)日與明(6)日包場六福村主題樂園及水樂園，盛大舉辦2026家庭日，成為台灣首家於六福村同步舉辦水陸雙園區家庭日的企業。繼去年創下單一企業包場台北大巨蛋觀賞職業棒球賽的規模紀錄後，今年預計再吸引近2.5萬名員工及眷屬熱情參與，共度歡樂難忘的家庭時光。",
-      "url": "https://news.cnyes.com/news/id/6598563",
-      "source": "鉅亨網 台股",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-05T13:56:45.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "22 小時前"
     },
     {
       "title": "OPEC+：10月維持既有產量政策不變",
@@ -114,8 +103,35 @@
       "group": null,
       "published": "2026-09-06T14:02:01.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
+    },
+    {
+      "title": "化解台積電3奈米廠出走危機　陳良基出書談4年入閣心路",
+      "summary": "（中央社記者 謝怡璇 台北6日電）前科技部長陳良基今天舉辦新書分享會，回顧4年入閣心路。他表示，憑藉知識分子的理想與良心，成功在政壇證明理想與現實可以兼得，並曾化解台積電3奈米廠出走危機。他期盼，藉此書向讀者傳遞累積失敗成就奇蹟的理念。",
+      "url": "https://www.cna.com.tw/news/afe/202609060169.aspx",
+      "source": "中央社 財經",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-09-06T11:24:18.000Z",
+      "why": null,
+      "ago": "13 小時前"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "外資籌碼",
+      "url": "https://news.google.com/rss/search?q=%E5%A4%96%E8%B3%87%20%E8%B2%B7%E8%B6%85%20OR%20%E8%B3%A3%E8%B6%85%20%E5%8F%B0%E8%82%A1%20%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "台積電動向",
+      "url": "https://news.google.com/rss/search?q=%E5%8F%B0%E7%A9%8D%E9%9B%BB%20OR%202330%20%E6%B3%95%E4%BA%BA%20OR%20%E7%9B%AE%E6%A8%99%E5%83%B9&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "MoneyDJ",
+      "url": "https://news.google.com/rss/search?q=site%3Amoneydj.com%20%E5%8F%B0%E8%82%A1&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "message": "HTTP 503 Service Unavailable"
+    }
+  ]
 }
