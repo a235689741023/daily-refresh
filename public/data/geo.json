@@ -1,22 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-07T08:03:22.017Z",
-  "updatedLocal": "2026/9/7 16:03:22",
+  "updated": "2026-09-07T17:57:53.387Z",
+  "updatedLocal": "2026/9/8 01:57:53",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Update to ArcGIS Pro Product Life Cycle",
-      "summary": "Beginning with the release of ArcGIS Pro 3.8 (November 2026), we are updating the ArcGIS Pro product life cycle (PLC) to make software support easier to understand, simplify upgrade planning, and improve alignment with the ArcGIS Enterprise life cycle.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/update-to-arcgis-pro-product-life-cycle",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-08-31T13:09:01.000Z",
-      "why": null,
-      "ago": "7 天前"
-    },
     {
       "title": "Supporting independent journalism in Ukraine",
       "summary": "Working with WAN-IFRA and AIRPPU to protect and rebuild independent journalism through conflict in Ukraine The following was issued as a joint press release on Monday 7th September 2026 from WAN-IFRA, AIRPPU and OpenAI.",
@@ -26,7 +15,7 @@
       "group": "ai",
       "published": "2026-09-07T00:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "An Alien Mind",
@@ -37,7 +26,7 @@
       "group": "ai",
       "published": "2026-09-06T09:00:00.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Research acceleration: The view inside OpenAI",
@@ -51,6 +40,17 @@
       "ago": "昨日"
     },
     {
+      "title": "AI safety incident reporting ‘not just a tick box’, warns EU",
+      "summary": null,
+      "url": "https://www.euractiv.com/news/ai-safety-incident-reporting-not-just-a-tick-box-warns-eu/",
+      "source": "euractiv.com",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-07T14:53:25.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
       "title": "The EU AI Compliance Stack Is Crystallizing Into Three Layers – and None of Them Talk to Each Other",
       "summary": "The European Union’s approach to regulating artificial intelligence has moved beyond the singular focus of the EU AI Act , crystallizing instead into an unsynchronized, three-layer compliance stack.",
       "url": "https://forkast.news/the-eu-ai-compliance-stack-is-crystallizing-into-three-layers-and-none-of-them-talk-to-each-other/",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-09-06T14:44:26.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

@@ -1,21 +1,21 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-07T08:03:22.017Z",
-  "updatedLocal": "2026/9/7 16:03:22",
+  "updated": "2026-09-07T17:57:53.387Z",
+  "updatedLocal": "2026/9/8 01:57:53",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "China pulls in Big Tobacco to help with smaller-than-expected finance-industry capital injections",
+      "title": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
       "summary": "China's finance ministry is leading a smaller-than-expected $54 billion capital injection into state-owned banks and insurers, as Beijing seeks to foster growth with restrained stimulus.",
       "url": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-07T06:27:53.000Z",
+      "published": "2026-09-07T09:26:54.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-06T13:19:01.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention",
@@ -37,51 +37,7 @@
       "group": null,
       "published": "2026-09-07T07:38:42.000Z",
       "why": null,
-      "ago": "25 分鐘前"
-    },
-    {
-      "title": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-06T21:30:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-06T21:00:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-06T20:00:00.000Z",
-      "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-06T20:00:00.000Z",
-      "why": null,
-      "ago": "12 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Why does almost nobody want to befriend older people like me — except scammers?",
@@ -90,31 +46,75 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-06T19:45:00.000Z",
+      "published": "2026-09-07T17:30:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "28 分鐘前"
     },
     {
-      "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+      "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-06T13:15:00.000Z",
+      "published": "2026-09-07T16:30:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "1 小時前"
     },
     {
-      "title": "Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.",
+      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-06T13:00:00.000Z",
+      "published": "2026-09-07T16:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Chip stock investors beware — these charts could warn of further weakness ahead",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/chip-stock-investors-beware-these-charts-could-warn-of-further-weakness-ahead-1bd890cc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-07T16:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-07T15:15:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-07T13:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-07T12:16:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
     }
   ],
   "errors": []
