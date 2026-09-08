@@ -1,43 +1,32 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-07T17:57:53.387Z",
-  "updatedLocal": "2026/9/8 01:57:53",
+  "updated": "2026-09-08T00:33:30.134Z",
+  "updatedLocal": "2026/9/8 08:33:30",
   "digest": null,
   "watch": [],
   "items": [
     {
       "title": "Supporting independent journalism in Ukraine",
-      "summary": "Working with WAN-IFRA and AIRPPU to protect and rebuild independent journalism through conflict in Ukraine The following was issued as a joint press release on Monday 7th September 2026 from WAN-IFRA, AIRPPU and OpenAI.",
+      "summary": "Working with WAN-IFRA and AIRPPU to protect and rebuild independent journalism through conflict in Ukraine.",
       "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
       "published": "2026-09-07T00:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "An Alien Mind",
-      "summary": "Author: Jakub Pachocki, Chief Scientist at OpenAI In mid-2023, within the “RLSlow” research project, we saw the first results that gave us confidence that we will be able to scale the training of reasoning models, unlocking the capability of pretrained models to form their own chains of thought.",
-      "url": "https://openai.com/index/an-alien-mind",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-06T09:00:00.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Research acceleration: The view inside OpenAI",
-      "summary": "For AGI to benefit all of humanity, we believe it must be democratically governed.",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "Anthropic has broken with OpenAI and Google over the toughest AI safety bill in America",
+      "summary": "A Massachusetts proposal would require large AI developers to hire independent evaluators to assess catastrophic risk in their models every four months — a cadence stricter than anything else at state level in the United States.",
+      "url": "https://www.wionews.com/world/anthropic-has-broken-with-openai-and-google-over-the-toughest-ai-safety-bill-in-america-1788817317977",
+      "source": "WION",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-09-06T08:00:00.000Z",
+      "published": "2026-09-07T21:45:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "3 小時前"
     },
     {
       "title": "AI safety incident reporting ‘not just a tick box’, warns EU",
@@ -46,20 +35,9 @@
       "source": "euractiv.com",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-09-07T14:53:25.000Z",
+      "published": "2026-09-07T15:06:33.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "The EU AI Compliance Stack Is Crystallizing Into Three Layers – and None of Them Talk to Each Other",
-      "summary": "The European Union’s approach to regulating artificial intelligence has moved beyond the singular focus of the EU AI Act , crystallizing instead into an unsynchronized, three-layer compliance stack.",
-      "url": "https://forkast.news/the-eu-ai-compliance-stack-is-crystallizing-into-three-layers-and-none-of-them-talk-to-each-other/",
-      "source": "forkast.news",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-06T14:44:26.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "9 小時前"
     }
   ],
   "errors": []

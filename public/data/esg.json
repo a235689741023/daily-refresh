@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-07T17:57:53.387Z",
-  "updatedLocal": "2026/9/8 01:57:53",
+  "updated": "2026-09-08T00:33:30.134Z",
+  "updatedLocal": "2026/9/8 08:33:30",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "‘Highly underused’: Why Europe needs to close its green bond gap",
+      "summary": "Despite a maturing market, outstanding green bonds still account for less than 1% of assets across Europe’s 47 largest banks.",
+      "url": "https://www.edie.net/highly-underused-why-europe-needs-to-close-its-green-bond-gap/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-07T18:45:38.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
     {
       "title": "How BAFTA Albert is driving sustainability across the screen industry",
       "summary": "Ahead of the Sustainable Supply Chains Summit, event speaker April Sotomayor, the head of industry sustainability at BAFTA Albert, shares how the organisation is helping to drive supply chain action and industry-wide transformation.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-09-07T17:42:23.000Z",
       "why": null,
-      "ago": "16 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "Bristol City Leap to upgrade council buildings with heat pumps",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-09-07T14:08:12.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Every $1 invested in clean air brings $15 returns, UN finds",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-09-07T13:05:09.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "NINE DAYS to go until edie’s Sustainable Supply Chains Summit",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-09-07T13:00:03.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "ON THURSDAY: Exploring the role of bio-based materials in lower-carbon buildings",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-09-07T12:39:15.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "NEXT WEEK: Preparing UK businesses for European sustainability reporting requirements",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-09-07T11:55:08.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Why courage is the most important competitive advantage for businesses in 2026",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-09-07T11:33:43.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Plastic Overshoot Day: One-third of global plastic waste won’t be properly managed in 2026",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-09-07T11:28:21.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Water Breakthrough Challenge: £50m ringfenced for projects that combat drought and transform water sector",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-09-07T11:04:00.000Z",
       "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Nominations open for edie’s 30 Under 30 Class of 2027",
-      "summary": "edie’s 30 Under 30 is back for 2027, celebrating ambitious young professionals turning sustainability ambition into meaningful action across business.",
-      "url": "https://www.edie.net/nominations-open-for-edies-30-under-30-class-of-2027/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-07T03:00:38.000Z",
-      "why": null,
-      "ago": "15 小時前"
+      "ago": "13 小時前"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-07T17:57:53.387Z",
-  "updatedLocal": "2026/9/8 01:57:53",
+  "updated": "2026-09-08T00:33:30.134Z",
+  "updatedLocal": "2026/9/8 08:33:30",
   "digest": null,
   "watch": [],
   "items": [
@@ -13,20 +13,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-07T09:26:54.000Z",
+      "published": "2026-09-07T23:23:10.000Z",
       "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
-      "summary": "Sugar is getting a lot less sweet for buyers. Sugar prices surged 21.5% in August, marking its strongest monthly gain since October 2010, when it rose 24%.",
-      "url": "https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-06T13:19:01.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "1 小時前"
     },
     {
       "title": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention",
@@ -37,7 +26,18 @@
       "group": null,
       "published": "2026-09-07T07:38:42.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
+    },
+    {
+      "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-08T00:23:00.000Z",
+      "why": null,
+      "ago": "11 分鐘前"
     },
     {
       "title": "Why does almost nobody want to befriend older people like me — except scammers?",
@@ -46,9 +46,31 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-07T17:30:00.000Z",
+      "published": "2026-09-07T22:00:00.000Z",
       "why": null,
-      "ago": "28 分鐘前"
+      "ago": "3 小時前"
+    },
+    {
+      "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-07T22:00:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-07T19:30:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-09-07T16:30:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-09-07T16:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Chip stock investors beware — these charts could warn of further weakness ahead",
@@ -81,18 +103,7 @@
       "group": null,
       "published": "2026-09-07T16:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-07T15:15:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-09-07T13:00:00.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-07T12:16:00.000Z",
-      "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     }
   ],
   "errors": []
