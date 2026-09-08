@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-08T00:33:30.134Z",
-  "updatedLocal": "2026/9/8 08:33:30",
+  "updated": "2026-09-08T07:55:01.113Z",
+  "updatedLocal": "2026/9/8 15:55:01",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,29 @@
       "group": null,
       "published": "2026-09-07T23:23:10.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
-      "title": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention",
-      "summary": "Japan's foreign reserves have fallen at their fastest pace since ministry records started in 2000, slumping 6.18% in August.",
-      "url": "https://www.cnbc.com/2026/09/07/japan-foreign-reserves-yen-intervention.html",
+      "title": "Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens",
+      "summary": "Canada's retaliatory tariffs on a swathe of U.S. goods took effect on Tuesday after trade talks collapsed last month, as relations between Washington and Ottawa continue to sour.",
+      "url": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-09-07T07:38:42.000Z",
+      "published": "2026-09-08T07:00:25.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "55 分鐘前"
+    },
+    {
+      "title": "China's imports in August miss estimates as calls for rebalancing trade grow",
+      "summary": "China's trade growth picked up in August, though imports missed expectations, a sign that domestic demand remains tepid as the world's second-largest economy faces mounting pressure to rebalance trade.",
+      "url": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-09-08T04:45:07.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
@@ -35,9 +46,9 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-08T00:23:00.000Z",
+      "published": "2026-09-08T03:09:00.000Z",
       "why": null,
-      "ago": "11 分鐘前"
+      "ago": "5 小時前"
     },
     {
       "title": "Why does almost nobody want to befriend older people like me — except scammers?",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-09-07T22:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-09-07T22:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-09-07T19:30:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-09-07T16:30:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-09-07T16:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Chip stock investors beware — these charts could warn of further weakness ahead",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-09-07T16:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-07T13:00:00.000Z",
-      "why": null,
-      "ago": "12 小時前"
+      "ago": "16 小時前"
     }
   ],
   "errors": []

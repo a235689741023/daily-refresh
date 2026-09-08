@@ -1,21 +1,32 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-08T00:33:30.134Z",
-  "updatedLocal": "2026/9/8 08:33:30",
+  "updated": "2026-09-08T07:55:01.113Z",
+  "updatedLocal": "2026/9/8 15:55:01",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Supporting independent journalism in Ukraine",
-      "summary": "Working with WAN-IFRA and AIRPPU to protect and rebuild independent journalism through conflict in Ukraine.",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "Where the U.S. and China Stand on AI Safety",
+      "summary": "The two countries will meet this month for an official AI safety bilateral, Reuters reported The U.S. and China will discuss artificial intelligence safety in mid-September, Reuters reported , following up on a May agreement to “start talking” about best practices and guardrails for AI.",
+      "url": "https://dominotheory.com/where-the-u-s-and-china-stand-on-ai-safety/",
+      "source": "dominotheory.com",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-09-07T00:00:00.000Z",
+      "published": "2026-09-08T06:31:49.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Robots Marched On Poland's Digital Ministry To Demand AI Regulation",
+      "summary": "About 30 humanoid and quadruped robots demonstrated outside Poland's Ministry of Digital Affairs in Warsaw on September 7, demanding regulation of the AI and robotics that could replace human workers.",
+      "url": "https://startupfortune.com/robots-marched-on-polands-digital-ministry-to-demand-ai-regulation/",
+      "source": "Startup Fortune",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-08T03:12:31.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "Anthropic has broken with OpenAI and Google over the toughest AI safety bill in America",
@@ -26,7 +37,7 @@
       "group": "ai",
       "published": "2026-09-07T21:45:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "AI safety incident reporting ‘not just a tick box’, warns EU",
@@ -37,7 +48,7 @@
       "group": "ai",
       "published": "2026-09-07T15:06:33.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     }
   ],
   "errors": []
