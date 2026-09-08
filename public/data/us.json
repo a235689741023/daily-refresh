@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-08T07:55:01.113Z",
-  "updatedLocal": "2026/9/8 15:55:01",
+  "updated": "2026-09-08T16:52:46.905Z",
+  "updatedLocal": "2026/9/9 00:52:46",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
+      "summary": "Visa said Tuesday morning it will make more data available to companies lending on the blockchain as stablecoin-linked cards are met with strong demand.",
+      "url": "https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-08T11:30:01.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did security checks",
+      "summary": "Security audits weren't enough to keep many cryptocurrency platforms safe from money-losing hacks, crypto market data site CoinGecko said in a report dated Aug. 27 .",
+      "url": "https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-08T08:16:11.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
     {
       "title": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
       "summary": "China's finance ministry is leading a smaller-than-expected $54 billion capital injection into state-owned banks and insurers, as Beijing seeks to foster growth with restrained stimulus.",
@@ -15,18 +37,29 @@
       "group": null,
       "published": "2026-09-07T23:23:10.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens",
+      "title": "White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they will be filled",
+      "summary": "The White House has vetted candidates for the four open commissioner positions at the Commodity Futures Trading Commission , three people with knowledge of the matter told CNBC.",
+      "url": "https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-08T12:32:19.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens",
       "summary": "Canada's retaliatory tariffs on a swathe of U.S. goods took effect on Tuesday after trade talks collapsed last month, as relations between Washington and Ottawa continue to sour.",
       "url": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-09-08T07:00:25.000Z",
+      "published": "2026-09-08T16:33:56.000Z",
       "why": null,
-      "ago": "55 分鐘前"
+      "ago": "19 分鐘前"
     },
     {
       "title": "China's imports in August miss estimates as calls for rebalancing trade grow",
@@ -37,84 +70,51 @@
       "group": null,
       "published": "2026-09-08T04:45:07.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-08T03:09:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Why does almost nobody want to befriend older people like me — except scammers?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-07T22:00:00.000Z",
-      "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-07T22:00:00.000Z",
-      "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-07T19:30:00.000Z",
-      "why": null,
       "ago": "12 小時前"
     },
     {
-      "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
+      "title": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention",
+      "summary": "Japan's foreign reserves have fallen at their fastest pace since ministry records started in 2000, slumping 6.18% in August.",
+      "url": "https://www.cnbc.com/2026/09/07/japan-foreign-reserves-yen-intervention.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-09-07T16:30:00.000Z",
+      "published": "2026-09-08T14:15:38.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
+      "title": "SpaceX’s stock could jump 43% — if the company is able to accomplish this engineering feat",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/spacexs-stock-could-jump-43-if-the-company-is-able-to-accomplish-this-engineering-feat-e178ed39?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-07T16:00:00.000Z",
+      "published": "2026-09-08T16:39:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "14 分鐘前"
     },
     {
-      "title": "Chip stock investors beware — these charts could warn of further weakness ahead",
+      "title": "These software stocks are in a prime spot to benefit from a rapidly shifting AI landscape",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/chip-stock-investors-beware-these-charts-could-warn-of-further-weakness-ahead-1bd890cc?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/these-software-stocks-are-in-a-prime-spot-to-benefit-from-a-rapidly-shifting-ai-landscape-bc90e45b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-07T16:00:00.000Z",
+      "published": "2026-09-08T16:04:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "49 分鐘前"
+    },
+    {
+      "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump may target next.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-08T15:44:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
     }
   ],
   "errors": []
