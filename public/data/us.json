@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-09T07:57:28.830Z",
-  "updatedLocal": "2026/9/9 15:57:28",
+  "updated": "2026-09-09T16:55:28.563Z",
+  "updatedLocal": "2026/9/10 00:55:28",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-09T06:26:59.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "China's EV makers shift gears to focus on humanoids as car market slows",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-09T04:12:51.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
@@ -37,29 +37,7 @@
       "group": null,
       "published": "2026-09-08T21:59:13.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
-      "summary": "Visa said Tuesday morning it will make more data available to companies lending on the blockchain as stablecoin-linked cards are met with strong demand.",
-      "url": "https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-08T11:30:01.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did security checks",
-      "summary": "Security audits weren't enough to keep many cryptocurrency platforms safe from money-losing hacks, crypto market data site CoinGecko said in a report dated Aug. 27 .",
-      "url": "https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-08T08:16:11.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they will be filled",
@@ -70,7 +48,29 @@
       "group": null,
       "published": "2026-09-08T12:32:19.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
+      "summary": "Visa said Tuesday morning it will make more data available to companies lending on the blockchain as stablecoin-linked cards are met with strong demand.",
+      "url": "https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-08T11:30:01.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
+      "summary": "The White House said it would ban imports of Canadian motorbikes and a slew of other products starting later this month as diplomatic and trade relations with Ottawa continue to fray.",
+      "url": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-09-09T16:17:46.000Z",
+      "why": null,
+      "ago": "38 分鐘前"
     },
     {
       "title": "Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens",
@@ -81,40 +81,40 @@
       "group": null,
       "published": "2026-09-08T17:11:11.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "24 小時前"
     },
     {
-      "title": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention",
-      "summary": "Japan's foreign reserves have fallen at their fastest pace since ministry records started in 2000, slumping 6.18% in August.",
-      "url": "https://www.cnbc.com/2026/09/07/japan-foreign-reserves-yen-intervention.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-09-08T14:15:38.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "The ECB is virtually certain to hike rates Thursday. Here is why Wall Street is bracing for what comes next.",
+      "title": "These are the 10 biggest retirement fears — and what you can do about them",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-ecb-is-virtually-certain-to-hike-rates-thursday-here-is-why-wall-street-is-bracing-for-what-comes-next-7ec46af0?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-09T07:42:00.000Z",
+      "published": "2026-09-09T16:38:00.000Z",
       "why": null,
-      "ago": "15 分鐘前"
+      "ago": "17 分鐘前"
     },
     {
-      "title": "How to create a ‘forever paycheck’ without paying for an annuity",
+      "title": "Oil at $100? Why you should always have energy stocks in your 401(k).",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-09T02:20:00.000Z",
+      "published": "2026-09-09T16:19:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "36 分鐘前"
+    },
+    {
+      "title": "Fed rate hike hinges on two key inflation reports in the next two days",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/fed-rate-hike-hinges-on-two-key-inflation-reports-in-the-next-two-days-09d63bd9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-09T16:18:00.000Z",
+      "why": null,
+      "ago": "37 分鐘前"
     }
   ],
   "errors": []

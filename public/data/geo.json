@@ -1,11 +1,44 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-09T07:57:28.830Z",
-  "updatedLocal": "2026/9/9 15:57:28",
+  "updated": "2026-09-09T16:55:28.563Z",
+  "updatedLocal": "2026/9/10 00:55:28",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Scenarios for our Economic Future",
+      "summary": "We don’t know yet how AI will reshape the economy. Will it lead to unprecedented growth? Widespread unemployment?",
+      "url": "https://www.anthropic.com/institute/econ-scenarios",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-09T13:43:30.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Economic Scenarios for Transformative AI - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/cf58f84d46a4a76bf5a5b039ac695fba6b80041c.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-09T13:43:45.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "- partner-sso.anthropic.com",
+      "summary": null,
+      "url": "https://partner-sso.anthropic.com/",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-09T03:07:00.000Z",
+      "why": null,
+      "ago": "14 小時前"
+    },
     {
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
       "summary": "Connecting GPT‑5.6 Sol to laboratory software to run and refine routine measurements on quantum chips freed Beatriz Yankelevich to focus on experiment design and data analysis.",
@@ -15,7 +48,7 @@
       "group": "ai",
       "published": "2026-09-08T17:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "The Work Now Within Reach",
@@ -26,7 +59,7 @@
       "group": "ai",
       "published": "2026-09-08T13:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Introducing ChatGPT Images 2.5",
@@ -37,40 +70,7 @@
       "group": "ai",
       "published": "2026-09-08T11:30:00.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "summary": "We’re sharing a solution to the Navier–Stokes existence and smoothness problem, one of the Millennium Prize Problems.",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-08T10:00:00.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Funding grants for new research into AI and teen development",
-      "summary": "OpenAI is committing $5 million to support independent research on how generative AI affects the lives and development of young people ages 13–17.",
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-08T09:00:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "summary": "How predicting the molecular impact of every possible single-letter DNA variant in the human genome will help accelerate our understanding of biology.",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "source": "Google DeepMind",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-08T14:00:15.000Z",
-      "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
