@@ -1,22 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-09T00:23:13.655Z",
-  "updatedLocal": "2026/9/9 08:23:13",
+  "updated": "2026-09-09T07:57:28.830Z",
+  "updatedLocal": "2026/9/9 15:57:28",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Claude Sonnet 5",
-      "summary": "Hybrid reasoning model with fast, capable intelligence for real-time agents and high-volume work, featuring a 1M context window Our most agentic Sonnet yet.",
-      "url": "https://www.anthropic.com/claude/sonnet?e45d281a_page\\=4\\&ref\\=dangai",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-08T00:24:41.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
     {
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
       "summary": "Connecting GPT‑5.6 Sol to laboratory software to run and refine routine measurements on quantum chips freed Beatriz Yankelevich to focus on experiment design and data analysis.",
@@ -26,7 +15,7 @@
       "group": "ai",
       "published": "2026-09-08T17:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "The Work Now Within Reach",
@@ -37,7 +26,7 @@
       "group": "ai",
       "published": "2026-09-08T13:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Introducing ChatGPT Images 2.5",
@@ -48,7 +37,7 @@
       "group": "ai",
       "published": "2026-09-08T11:30:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "On the Navier–Stokes Millennium Prize Problem",
@@ -59,7 +48,7 @@
       "group": "ai",
       "published": "2026-09-08T10:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Funding grants for new research into AI and teen development",
@@ -70,7 +59,18 @@
       "group": "ai",
       "published": "2026-09-08T09:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "summary": "How predicting the molecular impact of every possible single-letter DNA variant in the human genome will help accelerate our understanding of biology.",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "Google DeepMind",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-08T14:00:15.000Z",
+      "why": null,
+      "ago": "18 小時前"
     }
   ],
   "errors": []

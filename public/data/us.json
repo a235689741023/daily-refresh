@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-09T00:23:13.655Z",
-  "updatedLocal": "2026/9/9 08:23:13",
+  "updated": "2026-09-09T07:57:28.830Z",
+  "updatedLocal": "2026/9/9 15:57:28",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
+      "summary": "Shares of Adani Enterprises rose nearly 5% Wednesday after its airport unit announced it had entered into a deal to raise about 98.25 billion rupees ($1 billion) from a group of global and domestic investors.",
+      "url": "https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-09T06:26:59.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "China's EV makers shift gears to focus on humanoids as car market slows",
+      "summary": "Chinese companies rushed into electric cars a decade ago, and now they are expanding into humanoid robots as the EV market sees a slowdown amid intense competition.",
+      "url": "https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-09T04:12:51.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
       "summary": "Hedge-fund manager Brian Kelly has his staff working 24/7, yet his payroll costs are a fraction of what they once were.",
@@ -15,7 +37,7 @@
       "group": null,
       "published": "2026-09-08T21:59:13.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-09-08T11:30:01.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did security checks",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-09-08T08:16:11.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they will be filled",
@@ -48,18 +70,7 @@
       "group": null,
       "published": "2026-09-08T12:32:19.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
-      "summary": "China's finance ministry is leading a smaller-than-expected $54 billion capital injection into state-owned banks and insurers, as Beijing seeks to foster growth with restrained stimulus.",
-      "url": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-07T23:23:10.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "19 小時前"
     },
     {
       "title": "Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens",
@@ -70,18 +81,7 @@
       "group": null,
       "published": "2026-09-08T17:11:11.000Z",
       "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "China's imports in August miss estimates as calls for rebalancing trade grow",
-      "summary": "China's trade growth picked up in August, though imports missed expectations, a sign that domestic demand remains tepid as the world's second-largest economy faces mounting pressure to rebalance trade.",
-      "url": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-09-08T04:45:07.000Z",
-      "why": null,
-      "ago": "20 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention",
@@ -92,29 +92,29 @@
       "group": null,
       "published": "2026-09-08T14:15:38.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
-      "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump is targeting next.",
+      "title": "The ECB is virtually certain to hike rates Thursday. Here is why Wall Street is bracing for what comes next.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-ecb-is-virtually-certain-to-hike-rates-thursday-here-is-why-wall-street-is-bracing-for-what-comes-next-7ec46af0?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-09T00:17:00.000Z",
+      "published": "2026-09-09T07:42:00.000Z",
       "why": null,
-      "ago": "6 分鐘前"
+      "ago": "15 分鐘前"
     },
     {
-      "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500",
+      "title": "How to create a ‘forever paycheck’ without paying for an annuity",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-08T22:50:00.000Z",
+      "published": "2026-09-09T02:20:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "6 小時前"
     }
   ],
   "errors": []
