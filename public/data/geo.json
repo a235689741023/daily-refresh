@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-08T16:52:46.905Z",
-  "updatedLocal": "2026/9/9 00:52:46",
+  "updated": "2026-09-09T00:23:13.655Z",
+  "updatedLocal": "2026/9/9 08:23:13",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,18 @@
       "group": "ai",
       "published": "2026-09-08T00:24:41.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "24 小時前"
+    },
+    {
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "summary": "Connecting GPT‑5.6 Sol to laboratory software to run and refine routine measurements on quantum chips freed Beatriz Yankelevich to focus on experiment design and data analysis.",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-08T17:00:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "The Work Now Within Reach",
@@ -26,7 +37,29 @@
       "group": "ai",
       "published": "2026-09-08T13:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
+    },
+    {
+      "title": "Introducing ChatGPT Images 2.5",
+      "summary": "Sharper details, faster generation, more precise editing, and better tools for creating and sharing.",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-08T11:30:00.000Z",
+      "why": null,
+      "ago": "13 小時前"
+    },
+    {
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "summary": "We’re sharing a solution to the Navier–Stokes existence and smoothness problem, one of the Millennium Prize Problems.",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-08T10:00:00.000Z",
+      "why": null,
+      "ago": "14 小時前"
     },
     {
       "title": "Funding grants for new research into AI and teen development",
@@ -37,40 +70,7 @@
       "group": "ai",
       "published": "2026-09-08T09:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "summary": "OpenAI is launching a major, multi-faceted initiative to support the journalism ecosystem with tools, training, partnerships, shared learning, and practical enablement for students, educators, journalists, and news organizations.",
-      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-08T00:00:00.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "summary": "How predicting the molecular impact of every possible single-letter DNA variant in the human genome will help accelerate our understanding of biology.",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "source": "Google DeepMind",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-08T14:00:15.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door.",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-09-08T10:34:00.000Z",
-      "why": null,
-      "ago": "6 小時前"
+      "ago": "15 小時前"
     }
   ],
   "errors": []

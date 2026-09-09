@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-08T16:52:46.905Z",
-  "updatedLocal": "2026/9/9 00:52:46",
+  "updated": "2026-09-09T00:23:13.655Z",
+  "updatedLocal": "2026/9/9 08:23:13",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
+      "summary": "Hedge-fund manager Brian Kelly has his staff working 24/7, yet his payroll costs are a fraction of what they once were.",
+      "url": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-08T21:59:13.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
       "summary": "Visa said Tuesday morning it will make more data available to companies lending on the blockchain as stablecoin-linked cards are met with strong demand.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-09-08T11:30:01.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did security checks",
@@ -26,18 +37,7 @@
       "group": null,
       "published": "2026-09-08T08:16:11.000Z",
       "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
-      "summary": "China's finance ministry is leading a smaller-than-expected $54 billion capital injection into state-owned banks and insurers, as Beijing seeks to foster growth with restrained stimulus.",
-      "url": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-07T23:23:10.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they will be filled",
@@ -48,18 +48,29 @@
       "group": null,
       "published": "2026-09-08T12:32:19.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
+      "summary": "China's finance ministry is leading a smaller-than-expected $54 billion capital injection into state-owned banks and insurers, as Beijing seeks to foster growth with restrained stimulus.",
+      "url": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-07T23:23:10.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens",
-      "summary": "Canada's retaliatory tariffs on a swathe of U.S. goods took effect on Tuesday after trade talks collapsed last month, as relations between Washington and Ottawa continue to sour.",
+      "summary": "Canada's retaliatory tariffs on a wide array of U.S. goods took effect Tuesday, further escalating a feud between Washington and Ottawa that had already boiled over after trade talks collapsed last month.",
       "url": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-09-08T16:33:56.000Z",
+      "published": "2026-09-08T17:11:11.000Z",
       "why": null,
-      "ago": "19 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "China's imports in August miss estimates as calls for rebalancing trade grow",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-09-08T04:45:07.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention",
@@ -81,40 +92,29 @@
       "group": null,
       "published": "2026-09-08T14:15:38.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
-      "title": "SpaceX’s stock could jump 43% — if the company is able to accomplish this engineering feat",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/spacexs-stock-could-jump-43-if-the-company-is-able-to-accomplish-this-engineering-feat-e178ed39?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-08T16:39:00.000Z",
-      "why": null,
-      "ago": "14 分鐘前"
-    },
-    {
-      "title": "These software stocks are in a prime spot to benefit from a rapidly shifting AI landscape",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/these-software-stocks-are-in-a-prime-spot-to-benefit-from-a-rapidly-shifting-ai-landscape-bc90e45b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-08T16:04:00.000Z",
-      "why": null,
-      "ago": "49 分鐘前"
-    },
-    {
-      "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump may target next.",
+      "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump is targeting next.",
       "summary": null,
       "url": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-08T15:44:00.000Z",
+      "published": "2026-09-09T00:17:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "6 分鐘前"
+    },
+    {
+      "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-08T22:50:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
     }
   ],
   "errors": []
