@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-10T07:57:20.542Z",
-  "updatedLocal": "2026/9/10 15:57:20",
+  "updated": "2026-09-10T16:43:07.794Z",
+  "updatedLocal": "2026/9/11 00:43:07",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
+      "summary": "Kalshi has won approval to list perpetual futures tied to precious metals gold and silver in the U.S., in the latest development as the company seeks to grow its trading offerings beyond prediction markets .",
+      "url": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-10T14:00:11.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "Ant International partners with Visa, Mastercard on developing AI payments",
       "summary": "Fintech company Ant International announced Thursday it has signed on Visa and Mastercard to collaborate on a new standard for payments made via AI agents, in a bet that they will be used more and more by consumers and businesses.",
@@ -15,84 +26,84 @@
       "group": null,
       "published": "2026-09-10T01:53:50.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "15 小時前"
     },
     {
-      "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
-      "summary": "Shares of Adani Enterprises rose nearly 5% Wednesday after its airport unit announced it had entered into a deal to raise about 98.25 billion rupees ($1 billion) from a group of global and domestic investors.",
-      "url": "https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-09T06:26:59.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "China's EV makers shift gears to focus on humanoids as car market slows",
-      "summary": "Chinese companies rushed into electric cars a decade ago, and now they are expanding into humanoid robots as the EV market sees a slowdown amid intense competition.",
-      "url": "https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-09T04:12:51.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-      "summary": "The White House said it would ban imports of Canadian motorbikes and a slew of other products starting later this month as diplomatic and trade relations with Ottawa continue to fray.",
-      "url": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
+      "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+      "summary": "A swell of unfriendly factors for inflation likely will push the Federal Reserve to an interest rate hike next week and there's possibly another before the end of the year, judging by market pricing Thursday.",
+      "url": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-09-09T16:17:46.000Z",
+      "published": "2026-09-10T14:51:36.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
+      "title": "Wholesale prices rose 0.4% in August, as expected",
+      "summary": "U.S. wholesale prices rose in August, according to a report Thursday that could play a key role in the Federal Reserve's upcoming interest rate decision.",
+      "url": "https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-09-10T13:23:45.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Treasury yields surge toward the danger zone for stocks, as inflation pressures heat up",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-10T07:29:00.000Z",
+      "published": "2026-09-10T16:20:00.000Z",
       "why": null,
-      "ago": "28 分鐘前"
+      "ago": "23 分鐘前"
     },
     {
-      "title": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.",
+      "title": "Renewable-energy mandates are actually bad for consumers. They’re not great for solar stocks, either.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/renewable-energy-mandates-are-actually-bad-for-consumers-theyre-not-great-for-solar-stocks-either-bdfa13bb?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-10T03:00:00.000Z",
+      "published": "2026-09-10T15:34:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "1 小時前"
     },
     {
-      "title": "Hunter Biden memecoin $LAPTOP loses 95% of market value just hours after launch",
+      "title": "Now’s your chance to make money during the best bond market for yields in decades — if you get over Treasury jitters",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/nows-your-chance-to-make-money-during-the-best-bond-market-for-yields-in-decades-if-you-get-over-treasury-jitters-4209f805?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-10T02:04:00.000Z",
+      "published": "2026-09-10T15:25:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "1 小時前"
     },
     {
-      "title": "Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.",
+      "title": "Meta is winning over Wall Street with its new Muse AI agent",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/meta-is-winning-over-wall-street-with-its-new-muse-ai-agent-0700ca87?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-09T22:51:00.000Z",
+      "published": "2026-09-10T15:23:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Derailing the AI train will be surprisingly difficult, according to Bank of America",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/history-shows-the-bar-to-disrupt-ai-is-surprisingly-high-says-bank-of-america-ddf543d4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-10T15:13:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
@@ -101,20 +112,9 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-09T22:30:00.000Z",
+      "published": "2026-09-10T14:30:00.000Z",
       "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "Home-insurance premiums just hit a record high. Here’s where they spiked the most.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/home-insurance-premiums-just-hit-a-record-high-heres-where-they-spiked-the-most-658ee4d9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-09T22:21:00.000Z",
-      "why": null,
-      "ago": "10 小時前"
+      "ago": "2 小時前"
     }
   ],
   "errors": []

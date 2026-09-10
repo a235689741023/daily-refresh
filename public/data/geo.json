@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-10T07:57:20.542Z",
-  "updatedLocal": "2026/9/10 15:57:20",
+  "updated": "2026-09-10T16:43:07.794Z",
+  "updatedLocal": "2026/9/11 00:43:07",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "NASA, IBM launch open-source lunar foundation AI model to help map ice, craters on moon",
+      "summary": "IBM and NASA release an open-source lunar AI foundation model to map craters, analyze volcanic features, and identify potential ice deposits In recent space technology innovation, IBM and NASA have officially released open-source AI model designed to help scientists analyze decades of lunar observation data and support plans for a sustained human presence on the Moon.",
+      "url": "https://www.thenews.com.pk/latest/1415593-nasa-ibm-launch-open-source-lunar-foundation-ai-model-to-help-map-ice-craters-on-moon",
+      "source": "The News International",
+      "tag": "研究",
+      "group": "gis",
+      "published": "2026-09-10T15:25:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
     {
       "title": "An alignment assessment of recent cybersecurity incidents",
       "summary": "We present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
@@ -15,51 +26,40 @@
       "group": "ai",
       "published": "2026-09-09T19:13:44.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Scenarios for our Economic Future",
-      "summary": "We don’t know yet how AI will reshape the economy. Will it lead to unprecedented growth? Widespread unemployment?",
-      "url": "https://www.anthropic.com/institute/econ-scenarios",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-09T13:43:30.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Economic Scenarios for Transformative AI - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/cf58f84d46a4a76bf5a5b039ac695fba6b80041c.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-09T13:43:45.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "The AI policy window is open. We need to act.",
-      "summary": "We’ve reached a new chapter in AI capabilities, and that demands a new chapter for AI policy. No company, industry, or government can meet this challenge alone.",
-      "url": "https://openai.com/index/ai-policy-window",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-09T13:00:00.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "summary": "Our most capable model, built for all the work businesses need to get done.",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-09T11:00:00.000Z",
-      "why": null,
       "ago": "21 小時前"
+    },
+    {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "summary": "César de la Fuente and his lab probe the genomes of living and extinct organisms for molecules that could help fight drug-resistant infections.",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-10T16:00:00.000Z",
+      "why": null,
+      "ago": "43 分鐘前"
+    },
+    {
+      "title": "Now everyone can put data to work",
+      "summary": "Meet the new Data agent in ChatGPT Work: turn your company’s data into answers, interactive dashboards, and action, just by asking.",
+      "url": "https://openai.com/index/put-data-to-work",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-10T15:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "summary": "A first-of-its-kind agreement will provide free access and 50% off usage for federal, state, local, and tribal governments, alongside expanded support and access for public-sector cyber defenders.",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-10T07:00:00.000Z",
+      "why": null,
+      "ago": "10 小時前"
     },
     {
       "title": "Paul Christiano joins OpenAI Foundation Board",
@@ -70,7 +70,18 @@
       "group": "ai",
       "published": "2026-09-09T17:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "24 小時前"
+    },
+    {
+      "title": "Economic Scenarios for Transformative AI - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/cf58f84d46a4a76bf5a5b039ac695fba6b80041c.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-09T13:43:45.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []
