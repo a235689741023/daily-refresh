@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-10T00:21:49.396Z",
-  "updatedLocal": "2026/9/10 08:21:49",
+  "updated": "2026-09-10T07:57:20.542Z",
+  "updatedLocal": "2026/9/10 15:57:20",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-09T06:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
       "title": "How the right language can convince skeptics to support corporate climate action",
@@ -26,7 +26,29 @@
       "group": null,
       "published": "2026-09-09T04:05:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "WWF launches coffee range with profits directed to nature conservation",
+      "summary": "WWF has launched Earthbrew, a coffee range designed to support nature conservation through the profits generated from sales.",
+      "url": "https://www.edie.net/wwf-launches-coffee-range-with-profits-directed-to-nature-conservation/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-10T03:07:45.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "ECB accused of supporting fossil fuel companies tied to biodiversity loss",
+      "summary": "A French think tank has accused the European Central Bank (ECB) of providing indirect financial support to companies whose fossil fuel operations are linked to biodiversity loss and damage to critical ecosystems.",
+      "url": "https://www.edie.net/ecb-accused-of-supporting-fossil-fuel-companies-tied-to-biodiversity-loss/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-10T01:55:42.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "EU solar power displaced €30bn of gas imports this year",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-09-09T18:31:36.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "TODAY: Exploring the role of bio-based materials in lower-carbon buildings",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-09-09T17:52:15.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "TISFD: Why businesses need a better way to understand people-related risk",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-09-09T11:25:41.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "ASA targets ‘eco’ claims from Thomas Cook, loveholidays and DialAFlight",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-09-09T10:30:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "TWO WEEKS TO GO: Practical actions to drive circularity across the business value chain",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-09-09T10:22:41.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Green groups criticise EU over water law overhaul",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-09-09T09:42:38.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Nominations open for edie’s 30 Under 30 Class of 2027",
-      "summary": "edie’s 30 Under 30 is back for 2027, celebrating ambitious young professionals turning sustainability ambition into meaningful action across business.",
-      "url": "https://www.edie.net/nominations-open-for-edies-30-under-30-class-of-2027/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-09T07:00:38.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "NEXT WEEK: Preparing UK businesses for European sustainability reporting requirements",
-      "summary": "With just two weeks to go, edie’s new webinar will explore what the European Sustainability Reporting Standards for Third-Country Groups (ESRS-TC) could mean for UK-headquartered businesses.",
-      "url": "https://www.edie.net/two-weeks-to-go-preparing-uk-businesses-for-european-sustainability-reporting-requirements/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-09T06:55:08.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "22 小時前"
     }
   ],
   "errors": []

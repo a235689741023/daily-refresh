@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-10T00:21:49.396Z",
-  "updatedLocal": "2026/9/10 08:21:49",
+  "updated": "2026-09-10T07:57:20.542Z",
+  "updatedLocal": "2026/9/10 15:57:20",
   "digest": null,
   "watch": [],
   "items": [
@@ -13,9 +13,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-10T00:00:33.000Z",
+      "published": "2026-09-10T01:53:50.000Z",
       "why": null,
-      "ago": "21 分鐘前"
+      "ago": "6 小時前"
     },
     {
       "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-09T06:26:59.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
       "title": "China's EV makers shift gears to focus on humanoids as car market slows",
@@ -36,17 +36,6 @@
       "tag": "大盤",
       "group": null,
       "published": "2026-09-09T04:12:51.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
-      "summary": "Hedge-fund manager Brian Kelly has his staff working 24/7, yet his payroll costs are a fraction of what they once were.",
-      "url": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-08T21:59:13.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -59,7 +48,40 @@
       "group": null,
       "published": "2026-09-09T16:17:46.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
+    },
+    {
+      "title": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-10T07:29:00.000Z",
+      "why": null,
+      "ago": "28 分鐘前"
+    },
+    {
+      "title": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-10T03:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Hunter Biden memecoin $LAPTOP loses 95% of market value just hours after launch",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-10T02:04:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-09-09T22:51:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-09-09T22:30:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Home-insurance premiums just hit a record high. Here’s where they spiked the most.",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-09-09T22:21:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Hunter Biden’s memecoin flops, falling 95% just hours after launch",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-09T22:02:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-09T22:00:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     }
   ],
   "errors": []
