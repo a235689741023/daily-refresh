@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-09T16:55:28.563Z",
-  "updatedLocal": "2026/9/10 00:55:28",
+  "updated": "2026-09-10T00:21:49.396Z",
+  "updatedLocal": "2026/9/10 08:21:49",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Ant International partners with Visa, Mastercard on developing AI payments",
+      "summary": "Fintech company Ant International announced Thursday it has signed on Visa and Mastercard to collaborate on a new standard for payments made via AI agents, in a bet that they will be used more and more by consumers and businesses.",
+      "url": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-10T00:00:33.000Z",
+      "why": null,
+      "ago": "21 分鐘前"
+    },
     {
       "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
       "summary": "Shares of Adani Enterprises rose nearly 5% Wednesday after its airport unit announced it had entered into a deal to raise about 98.25 billion rupees ($1 billion) from a group of global and domestic investors.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-09-09T06:26:59.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "China's EV makers shift gears to focus on humanoids as car market slows",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-09-09T04:12:51.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
@@ -36,28 +47,6 @@
       "tag": "大盤",
       "group": null,
       "published": "2026-09-08T21:59:13.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they will be filled",
-      "summary": "The White House has vetted candidates for the four open commissioner positions at the Commodity Futures Trading Commission , three people with knowledge of the matter told CNBC.",
-      "url": "https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-08T12:32:19.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
-      "summary": "Visa said Tuesday morning it will make more data available to companies lending on the blockchain as stablecoin-linked cards are met with strong demand.",
-      "url": "https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-08T11:30:01.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -70,51 +59,62 @@
       "group": null,
       "published": "2026-09-09T16:17:46.000Z",
       "why": null,
-      "ago": "38 分鐘前"
+      "ago": "8 小時前"
     },
     {
-      "title": "Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens",
-      "summary": "Canada's retaliatory tariffs on a wide array of U.S. goods took effect Tuesday, further escalating a feud between Washington and Ottawa that had already boiled over after trade talks collapsed last month.",
-      "url": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-09-08T17:11:11.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "These are the 10 biggest retirement fears — and what you can do about them",
+      "title": "Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-09T16:38:00.000Z",
+      "published": "2026-09-09T22:51:00.000Z",
       "why": null,
-      "ago": "17 分鐘前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Oil at $100? Why you should always have energy stocks in your 401(k).",
+      "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-09T16:19:00.000Z",
+      "published": "2026-09-09T22:30:00.000Z",
       "why": null,
-      "ago": "36 分鐘前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Fed rate hike hinges on two key inflation reports in the next two days",
+      "title": "Home-insurance premiums just hit a record high. Here’s where they spiked the most.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/fed-rate-hike-hinges-on-two-key-inflation-reports-in-the-next-two-days-09d63bd9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/home-insurance-premiums-just-hit-a-record-high-heres-where-they-spiked-the-most-658ee4d9?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-09T16:18:00.000Z",
+      "published": "2026-09-09T22:21:00.000Z",
       "why": null,
-      "ago": "37 分鐘前"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Hunter Biden’s memecoin flops, falling 95% just hours after launch",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-09T22:02:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-09T22:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
     }
   ],
   "errors": []

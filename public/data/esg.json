@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-09T16:55:28.563Z",
-  "updatedLocal": "2026/9/10 00:55:28",
+  "updated": "2026-09-10T00:21:49.396Z",
+  "updatedLocal": "2026/9/10 08:21:49",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-09T06:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "How the right language can convince skeptics to support corporate climate action",
@@ -26,7 +26,29 @@
       "group": null,
       "published": "2026-09-09T04:05:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
+    },
+    {
+      "title": "EU solar power displaced €30bn of gas imports this year",
+      "summary": "Solar power has saved Europe more than €30bn since the outbreak of the Iran War in avoided gas imports, SolarPower Europe has announced.",
+      "url": "https://www.edie.net/eu-solar-power-displaced-e30bn-of-gas-imports-this-year/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-09T18:31:36.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "TODAY: Exploring the role of bio-based materials in lower-carbon buildings",
+      "summary": "On 10 September, edie is hosting a new webinar exploring the growing interest in bio-based materials.",
+      "url": "https://www.edie.net/two-weeks-to-go-exploring-the-role-of-bio-based-materials-in-lower-carbon-buildings/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-09T17:52:15.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "TISFD: Why businesses need a better way to understand people-related risk",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-09-09T11:25:41.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "ASA targets ‘eco’ claims from Thomas Cook, loveholidays and DialAFlight",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-09-09T10:30:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "TWO WEEKS TO GO: Practical actions to drive circularity across the business value chain",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-09-09T10:22:41.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Green groups criticise EU over water law overhaul",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-09-09T09:42:38.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Nominations open for edie’s 30 Under 30 Class of 2027",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-09-09T07:00:38.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "NEXT WEEK: Preparing UK businesses for European sustainability reporting requirements",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-09-09T06:55:08.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "Could a Stern-style review on climate adaptation improve the UK’s economic resiliency?",
-      "summary": "The Institution of Civil Engineers (ICE) has called on the UK Government to commission a review of the economic costs and opportunities of promoting climate adaptation, claiming it could have a similar impact of the Stern Review into climate change back in 2006.",
-      "url": "https://www.edie.net/could-a-stern-style-review-on-climate-adaptation-improve-the-uks-economic-resiliency/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-08T23:01:31.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "How is Asia powering its data centre boom?",
-      "summary": "As artificial intelligence (AI) workloads grow and data centre capacity rises, electricity demand across Asia is surging, but analysis has highlighted that countries are diverging in how they meet that demand.",
-      "url": "https://www.edie.net/how-is-asia-powering-its-data-centre-boom/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-08T20:21:32.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "17 小時前"
     }
   ],
   "errors": []
