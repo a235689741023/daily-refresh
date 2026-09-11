@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-11T07:53:20.759Z",
-  "updatedLocal": "2026/9/11 15:53:20",
+  "updated": "2026-09-11T16:47:55.239Z",
+  "updatedLocal": "2026/9/12 00:47:55",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-11T06:02:40.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
@@ -24,9 +24,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-11T02:05:24.000Z",
+      "published": "2026-09-11T14:30:29.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "2 小時前"
     },
     {
       "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
@@ -35,9 +35,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-10T19:02:58.000Z",
+      "published": "2026-09-11T16:06:31.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "41 分鐘前"
     },
     {
       "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
@@ -48,18 +48,40 @@
       "group": null,
       "published": "2026-09-10T14:00:11.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Ant International partners with Visa, Mastercard on developing AI payments",
-      "summary": "Fintech company Ant International announced Thursday it has signed on Visa and Mastercard to collaborate on a new standard for payments made via AI agents, in a bet that they will be used more and more by consumers and businesses.",
-      "url": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "Consumer outlook plunges in September as inflation outlook worsens",
+      "summary": "Consumer sentiment plunged in September amid heightened inflation fears, hitting its second lowest level on record on the University of Michigan's monthly survey released Friday.",
+      "url": "https://www.cnbc.com/2026/09/11/consumer-outlook-plunges-in-september-as-inflation-outlook-worsens.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-09-10T01:53:50.000Z",
+      "published": "2026-09-11T14:28:54.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Record U.S. cyclosporiasis outbreak is over, CDC says",
+      "summary": "The largest-ever outbreak of cyclosporiasis in the U.S. has ended, the Centers for Disease Control and Prevention said Friday.",
+      "url": "https://www.cnbc.com/2026/09/11/cdc-record-cyclosporiasis-outbreak-over.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-09-11T15:36:45.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+      "summary": "Prices for a wide swath of goods and services continued to climb in August, according to a report Friday that raises the specter of a Federal Reserve interest rate hike next week.",
+      "url": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-09-11T13:46:36.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-09-10T19:18:05.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
@@ -81,40 +103,18 @@
       "group": null,
       "published": "2026-09-10T16:55:17.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "24 小時前"
     },
     {
-      "title": "Wholesale prices rose 0.4% in August, as expected",
-      "summary": "U.S. wholesale prices rose in August, according to a report Thursday that could play a key role in the Federal Reserve's upcoming interest rate decision.",
-      "url": "https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-09-10T13:23:45.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Traditional portfolio diversification isn’t cutting it anymore. Here’s where to pivot, says this $624 billion fund manager.",
+      "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/traditional-portfolio-diversification-isnt-cutting-it-anymore-heres-where-to-pivot-says-this-624-billion-fund-manager-0b552566?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-11T07:19:00.000Z",
+      "published": "2026-09-11T16:45:00.000Z",
       "why": null,
-      "ago": "34 分鐘前"
-    },
-    {
-      "title": "Oracle’s AI bet pays off as cloud momentum helps drive a rosier forecast",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-11T00:19:00.000Z",
-      "why": null,
-      "ago": "8 小時前"
+      "ago": "3 分鐘前"
     }
   ],
   "errors": []

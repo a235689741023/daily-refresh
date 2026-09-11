@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-11T07:53:20.759Z",
-  "updatedLocal": "2026/9/11 15:53:20",
+  "updated": "2026-09-11T16:47:55.239Z",
+  "updatedLocal": "2026/9/12 00:47:55",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,18 @@
       "group": "gis",
       "published": "2026-09-10T15:25:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Detecting and countering misuse of AI: September 2026",
-      "summary": "Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity.",
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "title": "Detecting and countering misuse of AI: September 2026 - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-10T17:10:27.000Z",
+      "published": "2026-09-10T17:47:38.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Measuring AI capabilities in intelligence targeting and conventional weapons",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-09-10T17:09:52.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "Scenarios for our Economic Future",
@@ -46,9 +46,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-11T07:51:56.000Z",
+      "published": "2026-09-11T16:36:28.000Z",
       "why": null,
-      "ago": "剛剛"
+      "ago": "11 分鐘前"
     },
     {
       "title": "Threat Intelligence",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-09-10T19:00:36.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-09-10T16:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Now everyone can put data to work",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-09-10T15:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

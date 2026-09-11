@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-11T07:53:20.759Z",
-  "updatedLocal": "2026/9/11 15:53:20",
+  "updated": "2026-09-11T16:47:55.239Z",
+  "updatedLocal": "2026/9/12 00:47:55",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,29 +15,40 @@
       "group": null,
       "published": "2026-09-10T11:31:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "7 steps toward a future-friendly EPR strategy",
-      "summary": "Understand the legal implications: It’s not just about packaging. Fees can vary widely, so estimate your company’s exposure in order to prioritize.",
-      "url": "https://trellis.net/article/7-steps-future-friendly-epr-strategy/",
-      "source": "Trellis",
+      "title": "Ocado expands ‘future of food’ aisle to promote sustainable brands",
+      "summary": "Ocado has expanded its curated grocery aisle offering to support and spotlight brands that promote healthier and more sustainable food.",
+      "url": "https://www.edie.net/ocado-expands-future-of-food-aisle-to-promote-sustainable-brands/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-09-10T10:00:00.000Z",
+      "published": "2026-09-11T14:40:52.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "First-of-a-kind label focuses on compact products",
-      "summary": "Companies wanting to trumpet the environmental benefits associated with using less packaging can now apply for a new “compact product” certification that its creators say is the first of its kind.",
-      "url": "https://trellis.net/article/nsf-compact-product-certification/",
-      "source": "Trellis",
+      "title": "TPE invests £1bn in battery trains amid push to decarbonise UK transport",
+      "summary": "TransPennine Express (TPE) has confirmed that the £1bn investment will help to deliver Britain's first mainline battery-electric trains.",
+      "url": "https://www.edie.net/tpe-invests-1bn-in-battery-trains-amid-push-to-decarbonise-uk-transport/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-09-10T10:00:00.000Z",
+      "published": "2026-09-11T12:14:57.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "5 小時前"
+    },
+    {
+      "title": "‘Buy less, buy better, buy different’: How NHS Supply Chain is tackling Scope 3",
+      "summary": "With the Sustainable Supply Chains Summit around the corner, edie sat down with the head of sustainability at NHS Supply Chain, Heidi Barnard, to find out how the organisation approaches sustainability for its 650,000-product catalogue.",
+      "url": "https://www.edie.net/buy-less-buy-better-buy-different-how-nhs-supply-chain-is-tackling-scope-3/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-11T07:59:11.000Z",
+      "why": null,
+      "ago": "9 小時前"
     },
     {
       "title": "TWO WEEKS TO GO: Practical actions to drive circularity across the business value chain",
@@ -48,73 +59,62 @@
       "group": null,
       "published": "2026-09-11T07:22:41.000Z",
       "why": null,
-      "ago": "31 分鐘前"
+      "ago": "9 小時前"
     },
     {
-      "title": "UN climate chief urges EU to ‘throw itself behind’ COP31",
-      "summary": "In an address to a European Parliament committee, executive secretary of the United Nations Framework Convention on Climate Change (UNFCCC), Simon Stiell, has called on countries to drive greater progress ahead of this year's summit.",
-      "url": "https://www.edie.net/un-climate-chief-urges-eu-to-throw-itself-behind-cop31/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "El Niño: Indonesia fire emissions in 2026 ‘on track’ to match record for this century",
+      "summary": "Wildfires currently burning large swathes of land in Indonesia are on track to produce emissions on a par with the country’s most-intense fire season this century, according to experts.",
+      "url": "https://www.carbonbrief.org/el-nino-indonesia-fire-emissions-in-2026-on-track-to-match-record-for-this-century",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-09-10T16:41:42.000Z",
+      "published": "2026-09-11T14:06:49.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "Boardroom Briefing: Building the business case on packaging reforms",
-      "summary": "edie's Boardroom Briefing series provides senior business leaders with authoritative analysis of key sustainability issues and the material impacts that inaction will have on the bottom line.",
-      "url": "https://www.edie.net/boardroom-briefing-building-the-business-case-on-packaging-reforms/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "Factcheck: Reform UK’s 45 false or misleading claims about climate and energy",
+      "summary": "Reform UK, led by Nigel Farage, has emerged as a major force in UK politics in recent years – pushing anti-net-zero policies, alongside vehement opposition to immigration.",
+      "url": "https://www.carbonbrief.org/factcheck-reform-uks-45-false-or-misleading-claims-about-climate-and-energy",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-09-10T14:27:30.000Z",
+      "published": "2026-09-11T10:12:49.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "7 小時前"
     },
     {
-      "title": "Welsh Government unveils plans for new publicly owned energy company",
-      "summary": "The Welsh Government is consulting on plans to create a single publicly owned energy company for Wales, bringing together existing energy delivery functions under one organisation.",
-      "url": "https://www.edie.net/welsh-government-unveils-plans-for-new-publicly-owned-energy-company/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "Revealed: More than 1,000 NHS operations cancelled due to record UK heatwaves",
+      "summary": "More than 1,000 operations at NHS hospitals were cancelled due to heat during the UK’s record May and June heatwaves , Carbon Brief can reveal.",
+      "url": "https://www.carbonbrief.org/revealed-more-than-1000-nhs-operations-cancelled-due-to-record-uk-heatwaves",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-09-10T13:10:36.000Z",
+      "published": "2026-09-11T07:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "10 小時前"
     },
     {
-      "title": "ONE WEEK to go until edie’s Sustainable Supply Chains Summit",
-      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
-      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "沒有毒又愛吃的紅斑蛇",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243864",
+      "source": "環境資訊中心",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-09-10T12:00:03.000Z",
+      "published": "2026-09-11T08:36:59.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "8 小時前"
     },
     {
-      "title": "Government confirms £1.5bn to boost NHS climate adaptation",
-      "summary": "With August confirmed as the world's joint warmest month on record, the UK Government has announced that it is investing over £1.5bn to improve the NHS' resilience.",
-      "url": "https://www.edie.net/government-confirms-1-5bn-to-boost-nhs-climate-adaptation/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "不只看天災 更要比「韌性」全球城市氣候韌性評比台北倒數第十",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243866",
+      "source": "環境資訊中心",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-09-10T11:37:44.000Z",
+      "published": "2026-09-11T05:26:54.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Google’s €13bn AI data centre plan in Finland to be supported by nuclear power",
-      "summary": "Google has unveiled its largest single investment in Europe, a €13bn plan to support AI and digital infrastructure investments in Finland, that will be powered by a variety of clean energy projects and a major nuclear supply deal.",
-      "url": "https://www.edie.net/googles-e13bn-ai-data-centre-plan-in-finland-to-be-supported-by-nuclear-power/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-10T10:31:09.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "11 小時前"
     }
   ],
   "errors": []
