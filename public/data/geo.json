@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-10T16:43:07.794Z",
-  "updatedLocal": "2026/9/11 00:43:07",
+  "updated": "2026-09-11T00:17:23.220Z",
+  "updatedLocal": "2026/9/11 08:17:23",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,29 @@
       "group": "gis",
       "published": "2026-09-10T15:25:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
-      "title": "An alignment assessment of recent cybersecurity incidents",
-      "summary": "We present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
-      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-      "source": "Anthropic",
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "summary": "Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity.",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "source": "anthropic.com",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-09T19:13:44.000Z",
+      "published": "2026-09-10T17:10:27.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Measuring AI capabilities in intelligence targeting and conventional weapons",
+      "summary": "Anthropic’s Frontier Red Team developed new evaluations to measure AI capabilities in tactical intelligence targeting (like finding where people are based on fragmentary information) and conventional weapons development (like engineering drones to strike a moving target).",
+      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "source": "anthropic.com",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-10T17:09:52.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
@@ -37,7 +48,7 @@
       "group": "ai",
       "published": "2026-09-10T16:00:00.000Z",
       "why": null,
-      "ago": "43 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "Now everyone can put data to work",
@@ -48,7 +59,18 @@
       "group": "ai",
       "published": "2026-09-10T15:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
+    },
+    {
+      "title": "Introducing ChatGPT for Financial Services",
+      "summary": "Frontier intelligence, built for financial services.",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-10T07:00:00.000Z",
+      "why": null,
+      "ago": "17 小時前"
     },
     {
       "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
@@ -59,29 +81,7 @@
       "group": "ai",
       "published": "2026-09-10T07:00:00.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "summary": "Paul Christiano will also join the Foundation’s Safety and Security Committee. We’re announcing the appointment of Paul Christiano to the OpenAI Foundation Board.",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-09T17:00:00.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "Economic Scenarios for Transformative AI - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/cf58f84d46a4a76bf5a5b039ac695fba6b80041c.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-09T13:43:45.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "17 小時前"
     }
   ],
   "errors": []

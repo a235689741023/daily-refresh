@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-10T16:43:07.794Z",
-  "updatedLocal": "2026/9/11 00:43:07",
+  "updated": "2026-09-11T00:17:23.220Z",
+  "updatedLocal": "2026/9/11 08:17:23",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+      "summary": "OpenAI is taking aim at some of Wall Street's most labor-intensive tasks with a new version of ChatGPT designed to research companies, analyze financial data and generate the presentations that investment bankers rely on.",
+      "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-10T19:02:58.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
     {
       "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
       "summary": "Kalshi has won approval to list perpetual futures tied to precious metals gold and silver in the U.S., in the latest development as the company seeks to grow its trading offerings beyond prediction markets .",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-09-10T14:00:11.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Ant International partners with Visa, Mastercard on developing AI payments",
@@ -26,7 +37,18 @@
       "group": null,
       "published": "2026-09-10T01:53:50.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
+    },
+    {
+      "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
+      "summary": "A report due out Friday morning will be the last piece of the inflation puzzle the Federal Reserve will get before making its decision on interest rates next week.",
+      "url": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-09-10T19:18:05.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
@@ -35,9 +57,9 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-09-10T14:51:36.000Z",
+      "published": "2026-09-10T16:55:17.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Wholesale prices rose 0.4% in August, as expected",
@@ -48,71 +70,49 @@
       "group": null,
       "published": "2026-09-10T13:23:45.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "Treasury yields surge toward the danger zone for stocks, as inflation pressures heat up",
+      "title": "All the ways record-high diesel and rising gas prices are about to make your life more expensive — from commuting to grocery shopping",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-10T16:20:00.000Z",
-      "why": null,
-      "ago": "23 分鐘前"
-    },
-    {
-      "title": "Renewable-energy mandates are actually bad for consumers. They’re not great for solar stocks, either.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/renewable-energy-mandates-are-actually-bad-for-consumers-theyre-not-great-for-solar-stocks-either-bdfa13bb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-10T15:34:00.000Z",
+      "published": "2026-09-10T22:54:00.000Z",
       "why": null,
       "ago": "1 小時前"
     },
     {
-      "title": "Now’s your chance to make money during the best bond market for yields in decades — if you get over Treasury jitters",
+      "title": "Want Apple’s $1,999 foldable iPhone Duo? Here’s what T-Mobile, AT&T and Verizon are doing to lower the cost.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/nows-your-chance-to-make-money-during-the-best-bond-market-for-yields-in-decades-if-you-get-over-treasury-jitters-4209f805?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-10T15:25:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Meta is winning over Wall Street with its new Muse AI agent",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/meta-is-winning-over-wall-street-with-its-new-muse-ai-agent-0700ca87?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-10T15:23:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Derailing the AI train will be surprisingly difficult, according to Bank of America",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/history-shows-the-bar-to-disrupt-ai-is-surprisingly-high-says-bank-of-america-ddf543d4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-10T15:13:00.000Z",
+      "published": "2026-09-10T22:25:00.000Z",
       "why": null,
       "ago": "2 小時前"
     },
     {
-      "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+      "title": "SpaceX is inching closer to this lofty $100 billion milestone",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/spacex-is-inching-closer-to-this-lofty-100-billion-milestone-11536cfc?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-10T14:30:00.000Z",
+      "published": "2026-09-10T22:19:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Here are the stocks to favor in the fourth quarter — and those you should avoid",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/here-are-the-stocks-to-favor-in-the-fourth-quarter-and-those-you-should-avoid-cf2dd10b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-10T22:02:00.000Z",
       "why": null,
       "ago": "2 小時前"
     }
