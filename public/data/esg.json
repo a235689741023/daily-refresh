@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-11T00:17:23.220Z",
-  "updatedLocal": "2026/9/11 08:17:23",
+  "updated": "2026-09-11T07:53:20.759Z",
+  "updatedLocal": "2026/9/11 15:53:20",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-10T11:31:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "7 steps toward a future-friendly EPR strategy",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-10T10:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "First-of-a-kind label focuses on compact products",
@@ -37,7 +37,18 @@
       "group": null,
       "published": "2026-09-10T10:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
+    },
+    {
+      "title": "TWO WEEKS TO GO: Practical actions to drive circularity across the business value chain",
+      "summary": "In two weeks’ time, edie will hold its new webinar exploring how organisations can turn circular economy commitments into practical, measurable action across the business value chain.",
+      "url": "https://www.edie.net/two-weeks-to-go-practical-actions-to-drive-circularity-across-the-business-value-chain/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-11T07:22:41.000Z",
+      "why": null,
+      "ago": "31 分鐘前"
     },
     {
       "title": "UN climate chief urges EU to ‘throw itself behind’ COP31",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-09-10T16:41:42.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Boardroom Briefing: Building the business case on packaging reforms",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-09-10T14:27:30.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Welsh Government unveils plans for new publicly owned energy company",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-09-10T13:10:36.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "ONE WEEK to go until edie’s Sustainable Supply Chains Summit",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-09-10T12:00:03.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Government confirms £1.5bn to boost NHS climate adaptation",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-09-10T11:37:44.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Google’s €13bn AI data centre plan in Finland to be supported by nuclear power",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-09-10T10:31:09.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "Nominations open for edie’s 30 Under 30 Class of 2027",
-      "summary": "edie’s 30 Under 30 is back for 2027, celebrating ambitious young professionals turning sustainability ambition into meaningful action across business.",
-      "url": "https://www.edie.net/nominations-open-for-edies-30-under-30-class-of-2027/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-10T07:00:38.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "21 小時前"
     }
   ],
   "errors": []

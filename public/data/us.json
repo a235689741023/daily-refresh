@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-11T00:17:23.220Z",
-  "updatedLocal": "2026/9/11 08:17:23",
+  "updated": "2026-09-11T07:53:20.759Z",
+  "updatedLocal": "2026/9/11 15:53:20",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+      "summary": "The CEO of an Ant-backed humanoid robotics startup has published a letter to OpenAI in Chinese that raises questions about technical and design similarities between the two companies' recent models.",
+      "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-11T06:02:40.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
+      "summary": "Apple 's first folding phone is getting a tepid response Chinese consumers that are focused more on how much it costs versus existing foldables from domestic rivals.",
+      "url": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-11T02:05:24.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
     {
       "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
       "summary": "OpenAI is taking aim at some of Wall Street's most labor-intensive tasks with a new version of ChatGPT designed to research companies, analyze financial data and generate the presentations that investment bankers rely on.",
@@ -15,7 +37,7 @@
       "group": null,
       "published": "2026-09-10T19:02:58.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-09-10T14:00:11.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Ant International partners with Visa, Mastercard on developing AI payments",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-09-10T01:53:50.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-09-10T19:18:05.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-09-10T16:55:17.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Wholesale prices rose 0.4% in August, as expected",
@@ -70,51 +92,29 @@
       "group": null,
       "published": "2026-09-10T13:23:45.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
-      "title": "All the ways record-high diesel and rising gas prices are about to make your life more expensive — from commuting to grocery shopping",
+      "title": "Traditional portfolio diversification isn’t cutting it anymore. Here’s where to pivot, says this $624 billion fund manager.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/traditional-portfolio-diversification-isnt-cutting-it-anymore-heres-where-to-pivot-says-this-624-billion-fund-manager-0b552566?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-10T22:54:00.000Z",
+      "published": "2026-09-11T07:19:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "34 分鐘前"
     },
     {
-      "title": "Want Apple’s $1,999 foldable iPhone Duo? Here’s what T-Mobile, AT&T and Verizon are doing to lower the cost.",
+      "title": "Oracle’s AI bet pays off as cloud momentum helps drive a rosier forecast",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-10T22:25:00.000Z",
+      "published": "2026-09-11T00:19:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "SpaceX is inching closer to this lofty $100 billion milestone",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/spacex-is-inching-closer-to-this-lofty-100-billion-milestone-11536cfc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-10T22:19:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Here are the stocks to favor in the fourth quarter — and those you should avoid",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/here-are-the-stocks-to-favor-in-the-fourth-quarter-and-those-you-should-avoid-cf2dd10b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-10T22:02:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     }
   ],
   "errors": []
