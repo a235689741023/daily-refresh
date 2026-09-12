@@ -1,22 +1,11 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-11T16:47:55.239Z",
-  "updatedLocal": "2026/9/12 00:47:55",
+  "updated": "2026-09-12T00:24:58.970Z",
+  "updatedLocal": "2026/9/12 08:24:58",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Target delays key emissions goals",
-      "summary": "Target has become the latest major company to downgrade its emission goals.",
-      "url": "https://trellis.net/article/target-2025-sustainability-report/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-10T11:31:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
     {
       "title": "Ocado expands ‘future of food’ aisle to promote sustainable brands",
       "summary": "Ocado has expanded its curated grocery aisle offering to support and spotlight brands that promote healthier and more sustainable food.",
@@ -26,7 +15,7 @@
       "group": null,
       "published": "2026-09-11T14:40:52.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "TPE invests £1bn in battery trains amid push to decarbonise UK transport",
@@ -37,7 +26,7 @@
       "group": null,
       "published": "2026-09-11T12:14:57.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "‘Buy less, buy better, buy different’: How NHS Supply Chain is tackling Scope 3",
@@ -48,7 +37,7 @@
       "group": null,
       "published": "2026-09-11T07:59:11.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "TWO WEEKS TO GO: Practical actions to drive circularity across the business value chain",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-09-11T07:22:41.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "El Niño: Indonesia fire emissions in 2026 ‘on track’ to match record for this century",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-09-11T14:06:49.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Factcheck: Reform UK’s 45 false or misleading claims about climate and energy",
@@ -81,7 +70,7 @@
       "group": null,
       "published": "2026-09-11T10:12:49.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Revealed: More than 1,000 NHS operations cancelled due to record UK heatwaves",
@@ -92,7 +81,7 @@
       "group": null,
       "published": "2026-09-11T07:00:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "沒有毒又愛吃的紅斑蛇",
@@ -103,7 +92,7 @@
       "group": null,
       "published": "2026-09-11T08:36:59.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "不只看天災 更要比「韌性」全球城市氣候韌性評比台北倒數第十",
@@ -114,7 +103,18 @@
       "group": null,
       "published": "2026-09-11T05:26:54.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
+    },
+    {
+      "title": "Kenya expects phased adoption of ISSB sustainability disclosure standards",
+      "summary": "The author of the article notes that climate events, water shortages, regulatory changes, technological shifts and supply chain disruptions are increasingly closely linked to businesses' financial results.",
+      "url": "https://ua.news/en/world/u-keniyi-ochikuiut-poetapnogo-zastosuvannia-standartiv-stalogo-rozkrittia-issb",
+      "source": "UA.NEWS",
+      "tag": "法規",
+      "group": null,
+      "published": "2026-09-10T21:17:57.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []

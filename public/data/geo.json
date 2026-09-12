@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-11T16:47:55.239Z",
-  "updatedLocal": "2026/9/12 00:47:55",
+  "updated": "2026-09-12T00:24:58.970Z",
+  "updatedLocal": "2026/9/12 08:24:58",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,37 +18,48 @@
       "ago": "昨日"
     },
     {
-      "title": "Detecting and countering misuse of AI: September 2026 - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-10T17:47:38.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Measuring AI capabilities in intelligence targeting and conventional weapons",
-      "summary": "Anthropic’s Frontier Red Team developed new evaluations to measure AI capabilities in tactical intelligence targeting (like finding where people are based on fragmentary information) and conventional weapons development (like engineering drones to strike a moving target).",
-      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-10T17:09:52.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
       "title": "Scenarios for our Economic Future",
       "summary": "We don’t know yet how AI will reshape the economy. Will it lead to unprecedented growth? Widespread unemployment?",
       "url": "https://www.anthropic.com/institute/econ-scenarios",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-11T16:36:28.000Z",
+      "published": "2026-09-11T22:53:42.000Z",
       "why": null,
-      "ago": "11 分鐘前"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-14T00:00:00.000Z",
+      "why": null,
+      "ago": "剛剛"
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary": "How we adapted our application storage platform, Habitat, in Python to manage unprecedented growth.",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-11T10:00:00.000Z",
+      "why": null,
+      "ago": "14 小時前"
+    },
+    {
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-11T16:00:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Threat Intelligence",
@@ -59,29 +70,18 @@
       "group": "ai",
       "published": "2026-09-10T19:00:36.000Z",
       "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "summary": "César de la Fuente and his lab probe the genomes of living and extinct organisms for molecules that could help fight drug-resistant infections.",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-10T16:00:00.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Now everyone can put data to work",
-      "summary": "Meet the new Data agent in ChatGPT Work: turn your company’s data into answers, interactive dashboards, and action, just by asking.",
-      "url": "https://openai.com/index/put-data-to-work",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "Roundtables: AI’s apocalypse crisis",
+      "summary": "Employees at the world's leading AI labs are saying there's a real possibility that advanced AI could destroy humanity.",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-09-10T15:00:00.000Z",
+      "published": "2026-09-11T20:05:06.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "4 小時前"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-11T16:47:55.239Z",
-  "updatedLocal": "2026/9/12 00:47:55",
+  "updated": "2026-09-12T00:24:58.970Z",
+  "updatedLocal": "2026/9/12 08:24:58",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-11T06:02:40.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-11T14:30:29.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
@@ -37,29 +37,18 @@
       "group": null,
       "published": "2026-09-11T16:06:31.000Z",
       "why": null,
-      "ago": "41 分鐘前"
-    },
-    {
-      "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
-      "summary": "Kalshi has won approval to list perpetual futures tied to precious metals gold and silver in the U.S., in the latest development as the company seeks to grow its trading offerings beyond prediction markets .",
-      "url": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-10T14:00:11.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "8 小時前"
     },
     {
       "title": "Consumer outlook plunges in September as inflation outlook worsens",
-      "summary": "Consumer sentiment plunged in September amid heightened inflation fears, hitting its second lowest level on record on the University of Michigan's monthly survey released Friday.",
+      "summary": "Consumer sentiment plunged in September amid heightened inflation fears, hitting its second-lowest level on record in the University of Michigan's monthly survey released Friday.",
       "url": "https://www.cnbc.com/2026/09/11/consumer-outlook-plunges-in-september-as-inflation-outlook-worsens.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-09-11T14:28:54.000Z",
+      "published": "2026-09-11T16:53:23.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Record U.S. cyclosporiasis outbreak is over, CDC says",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-09-11T15:36:45.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
@@ -81,29 +70,18 @@
       "group": null,
       "published": "2026-09-11T13:46:36.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
-      "summary": "A report due out Friday morning will be the last piece of the inflation puzzle the Federal Reserve will get before making its decision on interest rates next week.",
-      "url": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
+      "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
       "group": null,
-      "published": "2026-09-10T19:18:05.000Z",
+      "published": "2026-09-11T23:54:00.000Z",
       "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
-      "summary": "A swell of unfriendly factors for inflation likely will push the Federal Reserve to an interest rate hike next week and there's possibly another before the end of the year, judging by market pricing Thursday.",
-      "url": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-09-10T16:55:17.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "31 分鐘前"
     },
     {
       "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
@@ -112,9 +90,31 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-11T16:45:00.000Z",
+      "published": "2026-09-11T22:06:00.000Z",
       "why": null,
-      "ago": "3 分鐘前"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Marvell is sitting on an incredibly ‘sticky’ business that could help it unlock a $30 billion opportunity",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-11T21:16:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-11T21:00:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
     }
   ],
   "errors": []
