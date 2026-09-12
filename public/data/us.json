@@ -1,22 +1,11 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-12T00:24:58.970Z",
-  "updatedLocal": "2026/9/12 08:24:58",
+  "updated": "2026-09-12T07:46:00.672Z",
+  "updatedLocal": "2026/9/12 15:46:00",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
-      "summary": "The CEO of an Ant-backed humanoid robotics startup has published a letter to OpenAI in Chinese that raises questions about technical and design similarities between the two companies' recent models.",
-      "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-11T06:02:40.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
     {
       "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
       "summary": "Apple 's first folding phone is getting a tepid response Chinese consumers that are focused more on how much it costs versus existing foldables from domestic rivals.",
@@ -26,7 +15,7 @@
       "group": null,
       "published": "2026-09-11T14:30:29.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
@@ -37,7 +26,18 @@
       "group": null,
       "published": "2026-09-11T16:06:31.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
+    },
+    {
+      "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+      "summary": "The CEO of an Ant-backed humanoid robotics startup has published a letter to OpenAI in Chinese that raises questions about technical and design similarities between the two companies' recent models.",
+      "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-11T06:02:40.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Consumer outlook plunges in September as inflation outlook worsens",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-09-11T16:53:23.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Record U.S. cyclosporiasis outbreak is over, CDC says",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-09-11T15:36:45.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-09-11T13:46:36.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-09-11T23:54:00.000Z",
       "why": null,
-      "ago": "31 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-09-11T22:06:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Marvell is sitting on an incredibly ‘sticky’ business that could help it unlock a $30 billion opportunity",
@@ -103,7 +103,7 @@
       "group": null,
       "published": "2026-09-11T21:16:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-09-11T21:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     }
   ],
   "errors": []

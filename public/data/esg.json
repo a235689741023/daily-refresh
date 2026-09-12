@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-12T00:24:58.970Z",
-  "updatedLocal": "2026/9/12 08:24:58",
+  "updated": "2026-09-12T07:46:00.672Z",
+  "updatedLocal": "2026/9/12 15:46:00",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-11T14:40:52.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "TPE invests £1bn in battery trains amid push to decarbonise UK transport",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-11T12:14:57.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "‘Buy less, buy better, buy different’: How NHS Supply Chain is tackling Scope 3",
@@ -37,18 +37,7 @@
       "group": null,
       "published": "2026-09-11T07:59:11.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "TWO WEEKS TO GO: Practical actions to drive circularity across the business value chain",
-      "summary": "In two weeks’ time, edie will hold its new webinar exploring how organisations can turn circular economy commitments into practical, measurable action across the business value chain.",
-      "url": "https://www.edie.net/two-weeks-to-go-practical-actions-to-drive-circularity-across-the-business-value-chain/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-11T07:22:41.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "El Niño: Indonesia fire emissions in 2026 ‘on track’ to match record for this century",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-09-11T14:06:49.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Factcheck: Reform UK’s 45 false or misleading claims about climate and energy",
@@ -70,18 +59,7 @@
       "group": null,
       "published": "2026-09-11T10:12:49.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "Revealed: More than 1,000 NHS operations cancelled due to record UK heatwaves",
-      "summary": "More than 1,000 operations at NHS hospitals were cancelled due to heat during the UK’s record May and June heatwaves , Carbon Brief can reveal.",
-      "url": "https://www.carbonbrief.org/revealed-more-than-1000-nhs-operations-cancelled-due-to-record-uk-heatwaves",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-09-11T07:00:00.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "沒有毒又愛吃的紅斑蛇",
@@ -92,7 +70,40 @@
       "group": null,
       "published": "2026-09-11T08:36:59.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "SGC launches inaugural sustainability report as first Nigerian agric firm to adopt IFRS S1, S2 standards",
+      "summary": null,
+      "url": "https://www.citinewsroom.com/2026/09/sgc-launches-inaugural-sustainability-report-as-first-nigerian-agric-firm-to-adopt-ifrs-s1-s2-standards/",
+      "source": "CitiNewsroom.com",
+      "tag": "法規",
+      "group": null,
+      "published": "2026-09-11T21:18:58.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
+    {
+      "title": "TWO WEEKS TO GO: Practical actions to drive circularity across the business value chain",
+      "summary": "In two weeks’ time, edie will hold its new webinar exploring how organisations can turn circular economy commitments into practical, measurable action across the business value chain.",
+      "url": "https://www.edie.net/two-weeks-to-go-practical-actions-to-drive-circularity-across-the-business-value-chain/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-11T07:22:41.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Revealed: More than 1,000 NHS operations cancelled due to record UK heatwaves",
+      "summary": "More than 1,000 operations at NHS hospitals were cancelled due to heat during the UK’s record May and June heatwaves , Carbon Brief can reveal.",
+      "url": "https://www.carbonbrief.org/revealed-more-than-1000-nhs-operations-cancelled-due-to-record-uk-heatwaves",
+      "source": "Carbon Brief",
+      "tag": "氣候",
+      "group": null,
+      "published": "2026-09-11T07:00:00.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "不只看天災 更要比「韌性」全球城市氣候韌性評比台北倒數第十",
@@ -102,17 +113,6 @@
       "tag": "台灣",
       "group": null,
       "published": "2026-09-11T05:26:54.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Kenya expects phased adoption of ISSB sustainability disclosure standards",
-      "summary": "The author of the article notes that climate events, water shortages, regulatory changes, technological shifts and supply chain disruptions are increasingly closely linked to businesses' financial results.",
-      "url": "https://ua.news/en/world/u-keniyi-ochikuiut-poetapnogo-zastosuvannia-standartiv-stalogo-rozkrittia-issb",
-      "source": "UA.NEWS",
-      "tag": "法規",
-      "group": null,
-      "published": "2026-09-10T21:17:57.000Z",
       "why": null,
       "ago": "昨日"
     }
