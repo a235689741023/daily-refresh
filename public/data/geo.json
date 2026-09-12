@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-12T07:46:00.672Z",
-  "updatedLocal": "2026/9/12 15:46:00",
+  "updated": "2026-09-12T15:54:32.738Z",
+  "updatedLocal": "2026/9/12 23:54:32",
   "digest": null,
   "watch": [],
   "items": [
@@ -24,9 +24,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-12T07:09:36.000Z",
+      "published": "2026-09-12T13:57:13.000Z",
       "why": null,
-      "ago": "36 分鐘前"
+      "ago": "2 小時前"
     },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -40,17 +40,6 @@
       "ago": "剛剛"
     },
     {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "summary": "How we adapted our application storage platform, Habitat, in Python to manage unprecedented growth.",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-11T10:00:00.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
       "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
       "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
       "url": "https://openai.com/index/cognition-devin-testing-with-astra",
@@ -59,7 +48,18 @@
       "group": "ai",
       "published": "2026-09-11T16:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "24 小時前"
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary": "How we adapted our application storage platform, Habitat, in Python to manage unprecedented growth.",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-11T10:00:00.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Roundtables: AI’s apocalypse crisis",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-09-11T20:05:06.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Illinois AI Law Could Test Emerging Federal Approach to Frontier AI",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-09-11T22:27:57.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     }
   ],
   "errors": []
