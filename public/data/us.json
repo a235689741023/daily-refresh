@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-12T15:54:32.738Z",
-  "updatedLocal": "2026/9/12 23:54:32",
+  "updated": "2026-09-13T00:04:47.009Z",
+  "updatedLocal": "2026/9/13 08:04:47",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,40 +15,40 @@
       "group": null,
       "published": "2026-09-12T12:49:15.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-      "summary": "OpenAI is taking aim at some of Wall Street's most labor-intensive tasks with a new version of ChatGPT designed to research companies, analyze financial data and generate the presentations that investment bankers rely on.",
-      "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-      "source": "CNBC Markets",
+      "title": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-11T16:06:31.000Z",
+      "published": "2026-09-12T21:50:00.000Z",
       "why": null,
-      "ago": "24 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
-      "summary": "Apple 's first folding phone is getting a tepid response Chinese consumers that are focused more on how much it costs versus existing foldables from domestic rivals.",
-      "url": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
-      "source": "CNBC Markets",
+      "title": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-11T14:30:29.000Z",
+      "published": "2026-09-12T17:20:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "7 小時前"
     },
     {
-      "title": "Consumer outlook plunges in September as inflation outlook worsens",
-      "summary": "Consumer sentiment plunged in September amid heightened inflation fears, hitting its second-lowest level on record in the University of Michigan's monthly survey released Friday.",
-      "url": "https://www.cnbc.com/2026/09/11/consumer-outlook-plunges-in-september-as-inflation-outlook-worsens.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
+      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
       "group": null,
-      "published": "2026-09-11T16:53:23.000Z",
+      "published": "2026-09-12T16:01:00.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-09-12T15:00:00.000Z",
       "why": null,
-      "ago": "55 分鐘前"
+      "ago": "9 小時前"
     },
     {
       "title": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-09-12T14:01:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Could this backfire?",
@@ -81,18 +81,29 @@
       "group": null,
       "published": "2026-09-12T13:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+      "title": "India's HDFC Bank submits two candidates to RBI for next CEO",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
+      "url": "https://www.reuters.com/world/india/indias-hdfc-bank-submits-two-candidates-rbi-next-ceo-2026-09-12/",
+      "source": "Reuters",
+      "tag": "總經",
       "group": null,
-      "published": "2026-09-12T12:00:00.000Z",
+      "published": "2026-09-12T11:59:43.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "The evolution of BRICS and its challenges today",
+      "summary": null,
+      "url": "https://www.reuters.com/business/finance/evolution-brics-its-challenges-today-2026-09-12/",
+      "source": "Reuters",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-09-12T02:04:00.000Z",
+      "why": null,
+      "ago": "22 小時前"
     },
     {
       "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-09-11T23:54:00.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-11T22:06:00.000Z",
-      "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

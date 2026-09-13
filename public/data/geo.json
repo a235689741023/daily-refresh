@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-12T15:54:32.738Z",
-  "updatedLocal": "2026/9/12 23:54:32",
+  "updated": "2026-09-13T00:04:47.009Z",
+  "updatedLocal": "2026/9/13 08:04:47",
   "digest": null,
   "watch": [],
   "items": [
@@ -10,7 +10,7 @@
       "title": "NASA, IBM launch open-source lunar foundation AI model to help map ice, craters on moon",
       "summary": "IBM and NASA release an open-source lunar AI foundation model to map craters, analyze volcanic features, and identify potential ice deposits In recent space technology innovation, IBM and NASA have officially released open-source AI model designed to help scientists analyze decades of lunar observation data and support plans for a sustained human presence on the Moon.",
       "url": "https://www.thenews.com.pk/latest/1415593-nasa-ibm-launch-open-source-lunar-foundation-ai-model-to-help-map-ice-craters-on-moon",
-      "source": "The News International",
+      "source": "thenews.com.pk",
       "tag": "研究",
       "group": "gis",
       "published": "2026-09-10T15:25:00.000Z",
@@ -24,9 +24,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-12T13:57:13.000Z",
+      "published": "2026-09-13T00:03:02.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "2 分鐘前"
     },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -40,29 +40,7 @@
       "ago": "剛剛"
     },
     {
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-11T16:00:00.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "summary": "How we adapted our application storage platform, Habitat, in Python to manage unprecedented growth.",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-11T10:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Roundtables: AI’s apocalypse crisis",
+      "title": "Roundtables: Could AI really kill us all?",
       "summary": "Employees at the world's leading AI labs are saying there's a real possibility that advanced AI could destroy humanity.",
       "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "source": "MIT Tech Review",
@@ -70,18 +48,40 @@
       "group": "ai",
       "published": "2026-09-11T20:05:06.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Illinois AI Law Could Test Emerging Federal Approach to Frontier AI",
-      "summary": "Illinois’ frontier AI audit requirements arrive as the Trump administration takes a more active approach to advanced AI risks.",
-      "url": "https://govciomedia.com/illinois-ai-law-could-test-emerging-federal-approach-to-frontier-ai/",
-      "source": "GovCIO Media & Research",
+      "title": "After a decade of failed bills and three years of resignations, Washington finally discovers it cares about AI safety",
+      "summary": "This week, Jacob Coxon, who worked at both OpenAI and, more recently, Anthropic, resigned from the latter, warning that the company and its rival were “gambling with our lives” in the race toward superintelligence, with no real plan for controlling systems more capable than the humans building them.",
+      "url": "https://fortune.com/2026/09/12/after-three-years-of-silence-washington-discovers-it-finally-cares-about-ai-safety/",
+      "source": "Fortune",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-09-11T22:27:57.000Z",
+      "published": "2026-09-12T10:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "14 小時前"
+    },
+    {
+      "title": "3 Stocks Retail Investors Are Screening As AI Safety Rules Start To Matter",
+      "summary": null,
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-spt/sprout-social/news/3-stocks-retail-investors-are-screening-as-ai-safety-rules-s",
+      "source": "simplywall.st",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-12T18:26:58.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "US Senate Weighs Granting Feds Power to Block Risky Frontier AI Releases",
+      "summary": "A bipartisan group of US senators is negotiating legislation that would impose a legal \"duty of care\" on developers of the most advanced artificial intelligence systems, requiring them to design products that minimize catastrophic risks and empowering the federal government to block the release of models deemed unsafe.",
+      "url": "https://finance.biggo.com/news/811c7d82-a59f-4a89-a23b-c80f233b04e2",
+      "source": "finance.biggo.com",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-12T08:35:00.000Z",
+      "why": null,
+      "ago": "15 小時前"
     }
   ],
   "errors": []
