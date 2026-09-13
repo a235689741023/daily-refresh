@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-13T00:04:47.009Z",
-  "updatedLocal": "2026/9/13 08:04:47",
+  "updated": "2026-09-13T08:06:49.561Z",
+  "updatedLocal": "2026/9/13 16:06:49",
   "digest": null,
   "watch": [],
   "items": [
@@ -10,12 +10,12 @@
       "title": "NASA, IBM launch open-source lunar foundation AI model to help map ice, craters on moon",
       "summary": "IBM and NASA release an open-source lunar AI foundation model to map craters, analyze volcanic features, and identify potential ice deposits In recent space technology innovation, IBM and NASA have officially released open-source AI model designed to help scientists analyze decades of lunar observation data and support plans for a sustained human presence on the Moon.",
       "url": "https://www.thenews.com.pk/latest/1415593-nasa-ibm-launch-open-source-lunar-foundation-ai-model-to-help-map-ice-craters-on-moon",
-      "source": "thenews.com.pk",
+      "source": "The News International",
       "tag": "研究",
       "group": "gis",
       "published": "2026-09-10T15:25:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "Scenarios for our Economic Future",
@@ -24,9 +24,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-13T00:03:02.000Z",
+      "published": "2026-09-13T08:02:24.000Z",
       "why": null,
-      "ago": "2 分鐘前"
+      "ago": "4 分鐘前"
     },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -40,17 +40,6 @@
       "ago": "剛剛"
     },
     {
-      "title": "Roundtables: Could AI really kill us all?",
-      "summary": "Employees at the world's leading AI labs are saying there's a real possibility that advanced AI could destroy humanity.",
-      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-09-11T20:05:06.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
       "title": "After a decade of failed bills and three years of resignations, Washington finally discovers it cares about AI safety",
       "summary": "This week, Jacob Coxon, who worked at both OpenAI and, more recently, Anthropic, resigned from the latter, warning that the company and its rival were “gambling with our lives” in the race toward superintelligence, with no real plan for controlling systems more capable than the humans building them.",
       "url": "https://fortune.com/2026/09/12/after-three-years-of-silence-washington-discovers-it-finally-cares-about-ai-safety/",
@@ -59,7 +48,29 @@
       "group": "ai",
       "published": "2026-09-12T10:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
+    },
+    {
+      "title": "OpenAI’s Altman rules out 2026 IPO as AI safety takes priority - report",
+      "summary": null,
+      "url": "https://www.investing.com/news/stock-market-news/openais-altman-rules-out-2026-ipo-as-ai-safety-takes-priority--report-4898691",
+      "source": "Investing.com",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-12T21:31:57.000Z",
+      "why": null,
+      "ago": "11 小時前"
+    },
+    {
+      "title": "OpenAI Rules Out 2026 IPO as Sam Altman Says Going Public Now Would Be ‘Ill-Advised’ Amid AI Safety Fears",
+      "summary": null,
+      "url": "https://www.benzinga.com/markets/tech/26/09/61754670/openai-ipo-delay-safety-alignment-ai",
+      "source": "Benzinga",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-13T02:10:12.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "3 Stocks Retail Investors Are Screening As AI Safety Rules Start To Matter",
@@ -70,18 +81,7 @@
       "group": "ai",
       "published": "2026-09-12T18:26:58.000Z",
       "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "US Senate Weighs Granting Feds Power to Block Risky Frontier AI Releases",
-      "summary": "A bipartisan group of US senators is negotiating legislation that would impose a legal \"duty of care\" on developers of the most advanced artificial intelligence systems, requiring them to design products that minimize catastrophic risks and empowering the federal government to block the release of models deemed unsafe.",
-      "url": "https://finance.biggo.com/news/811c7d82-a59f-4a89-a23b-c80f233b04e2",
-      "source": "finance.biggo.com",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-12T08:35:00.000Z",
-      "why": null,
-      "ago": "15 小時前"
+      "ago": "14 小時前"
     }
   ],
   "errors": []
