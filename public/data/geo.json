@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-14T08:40:48.842Z",
-  "updatedLocal": "2026/9/14 16:40:48",
+  "updated": "2026-09-14T18:14:04.931Z",
+  "updatedLocal": "2026/9/15 02:14:04",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-09-13T09:02:11.000Z",
       "why": null,
-      "ago": "24 小時前"
+      "ago": "昨日"
     },
     {
       "title": "NASA, IBM launch open-source lunar foundation AI model to help map ice, craters on moon",
@@ -35,9 +35,20 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-14T08:37:17.000Z",
+      "published": "2026-09-14T18:03:49.000Z",
       "why": null,
-      "ago": "4 分鐘前"
+      "ago": "10 分鐘前"
+    },
+    {
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "summary": "Fyxer pairs OpenAI models with 500,000+ hours of EA workflows and real user feedback to draft replies in each person’s voice.",
+      "url": "https://openai.com/index/fyxer",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-14T12:00:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -48,51 +59,40 @@
       "group": "ai",
       "published": "2026-09-14T00:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
     },
     {
-      "title": "Lawmakers push for urgent AI action after alarming warnings from researchers",
-      "summary": null,
-      "url": "https://www.newsnationnow.com/politics/congress-ai-regulation-house-democrats-recess-warning/",
-      "source": "NewsNation",
-      "tag": "政策",
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them.",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-09-14T04:01:43.000Z",
+      "published": "2026-09-14T16:00:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "AI CEOs say they need to slow the pace of development. But will they?",
-      "summary": "After apocalyptic warnings about the threats posed by AI, leaders like Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s calls to ‘slow the pace’ F acing a public uproar over Anthropic researchers’ repeated warnings that artificial intelligence could kill all of humanity by 2030, the AI company’s CEO Dario Amodei issued a proposal at the weekend to slow down the technology’s advancement to ensure public safety.",
-      "url": "https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown",
-      "source": "The Guardian",
-      "tag": "政策",
+      "title": "DevFest is back",
+      "summary": "DevFest 2026 is here, and from October 1 – December 31, 2026, you can join the nearly 1 million developers expected to participate to build, secure, and scale in the agentic era.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "source": "Google AI Blog",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-09-14T05:01:00.000Z",
+      "published": "2026-09-14T16:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Johnson on AI regulation: ‘We don’t need everybody to panic right now’",
-      "summary": null,
-      "url": "https://thehill.com/policy/technology/6086745-johnson-advocates-ai-regulation-balance/",
-      "source": "The Hill",
-      "tag": "政策",
+      "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+      "summary": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device.",
+      "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
       "group": "ai",
-      "published": "2026-09-13T15:11:00.000Z",
+      "published": "2026-09-14T15:00:52.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Johnson calls for AI solutions but says Congress won't take the lead",
-      "summary": null,
-      "url": "https://www.axios.com/2026/09/13/ai-safety-congress-law-mike-johnson",
-      "source": "Axios",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-13T16:22:56.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "3 小時前"
     }
   ],
   "errors": []
