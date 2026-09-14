@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-14T00:17:50.260Z",
-  "updatedLocal": "2026/9/14 08:17:50",
+  "updated": "2026-09-14T08:40:48.842Z",
+  "updatedLocal": "2026/9/14 16:40:48",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Prediction markets are becoming more professionalized, but also harder to beat",
+      "summary": "Prediction-market platforms' courtship of Wall Street stands to bring in deeper professional liquidity and intensify competition, but will also mean it's harder for many traders to make money.",
+      "url": "https://www.cnbc.com/2026/09/14/prediction-markets-efficient-win-lose-beat.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-14T01:37:44.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "NFL and midterm elections set up prediction markets for a critical fall season",
       "summary": "Prediction markets that rode politics and sports to new heights the past two years are betting on their convergence this autumn to drive even more adoption.",
@@ -15,7 +26,29 @@
       "group": null,
       "published": "2026-09-13T11:52:33.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-14T01:30:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-14T01:00:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "These are the 10 biggest retirement fears — and what you can do about them",
@@ -26,7 +59,7 @@
       "group": null,
       "published": "2026-09-13T21:10:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "I’m locked into a 10-year annuity and now I’m strapped for cash. What are my options?",
@@ -37,7 +70,7 @@
       "group": null,
       "published": "2026-09-13T20:59:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Your Social Security COLA could go up another $71 per month in 2027. That’s not necessarily good news.",
@@ -48,7 +81,7 @@
       "group": null,
       "published": "2026-09-13T20:40:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "This simple mistake can give your money to the wrong person when you die. Here’s how to protect your estate.",
@@ -59,7 +92,7 @@
       "group": null,
       "published": "2026-09-13T20:30:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "How to trade a well-paying job for more work-life balance — without going broke",
@@ -70,7 +103,7 @@
       "group": null,
       "published": "2026-09-13T20:17:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "The future of retirement? Work until you die.",
@@ -81,40 +114,7 @@
       "group": null,
       "published": "2026-09-13T19:56:00.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-13T19:55:00.000Z",
-      "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-13T19:00:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-13T16:30:00.000Z",
-      "why": null,
-      "ago": "8 小時前"
+      "ago": "13 小時前"
     }
   ],
   "errors": []
