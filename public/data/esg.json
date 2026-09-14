@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-13T16:42:00.338Z",
-  "updatedLocal": "2026/9/14 00:42:00",
+  "updated": "2026-09-14T00:17:50.260Z",
+  "updatedLocal": "2026/9/14 08:17:50",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-12T08:00:03.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "THIS WEEK: Preparing UK businesses for European sustainability reporting requirements",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-12T06:55:08.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "NEXT WEEK: Practical actions to drive circularity across the business value chain",
@@ -37,13 +37,13 @@
       "group": null,
       "published": "2026-09-12T05:22:41.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "淨零城市新時代：臺灣綠建築與都市更新策略 - 房產新聞 - PChome Online 新聞",
-      "summary": null,
+      "summary": "臺灣城市發展正從過去強調「重建與開發」，逐步走向「安全、節能、減碳與韌性」並重的新階段。面對2050淨零轉型目標，建築部門因涉及住宅、商辦、公共建築與大量既有建物，已成為城市減碳的重要戰場。政府目前透過跨部會合作推動住商部門淨零轉型，並以**2030年減碳35%**作為重要階段目標。",
       "url": "https://news.pchome.com.tw/realestate/housetube/20260912/index-78922018304603228101.html",
-      "source": "PChome Online新聞",
+      "source": "news.pchome.com.tw",
       "tag": "台灣",
       "group": null,
       "published": "2026-09-12T13:36:23.000Z",
@@ -51,21 +51,10 @@
       "ago": "昨日"
     },
     {
-      "title": "土城醫院攜手台北長庚及長青護家 推廣淨零落實生態環保與健康永續 | 台灣好新聞",
-      "summary": "您使用的瀏覽器版本較舊，已不再受支援。建議您更新瀏覽器版本，以獲得最佳使用體驗。長庚醫療財團法人與內政部國家公園署於2025年12月15日簽署「永續環境行銷宣傳與保育趨勢交流合作意向備忘錄」，雙方正式展開生態保育與永續健康領域的跨界連結，以長庚醫療的健康照護專業，結合國家公園的自然綠色療癒力，共同推廣淨零排放與永續健康典範。",
-      "url": "https://today.line.me/tw/v3/article/ML7967a",
-      "source": "LINE TODAY",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-12T06:49:59.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
       "title": "AI淨零／ 環境部淨零綠領人才測驗成績公布 及格率6成",
       "summary": "數位轉型已是產業進行式，人工智慧、淨零碳排更是政府與企業面對的兩大挑戰，攸關台灣未來競爭力。中央社第一線採訪團隊，深入報導政府與百工百業如何運用AI優化生產流程、驅動綠色創新，見證台灣產業再一次躍升。（中央社記者 吳欣紜 台北12日電）環境部推動淨零綠領人才培育課程，集中測驗日前落幕，環境部今天表示，成績公布，這次測驗整體平均成績為60分，及格率為6成，學員今天起可下載成績單等。",
       "url": "https://www.cna.com.tw/news/ahel/202609120038.aspx",
-      "source": "cna.com.tw",
+      "source": "中央社 CNA",
       "tag": "台灣",
       "group": null,
       "published": "2026-09-12T02:31:00.000Z",
@@ -76,7 +65,7 @@
       "title": "「環境部淨零綠領人才培育課程」第2次集中測驗成績公布 6成學員通過 國環院今天開放下載成績單及電子合格證明",
       "summary": null,
       "url": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14099",
-      "source": "enews.moenv.gov.tw",
+      "source": "環境部新聞專區",
       "tag": "台灣",
       "group": null,
       "published": "2026-09-12T01:30:00.000Z",
@@ -84,7 +73,7 @@
       "ago": "2 天前"
     },
     {
-      "title": "AI重寫人才定義，ESG重塑留才邏輯 台積電、清華大學、采鈺科技共創人才永續新解方 - 墨新聞-MORE News",
+      "title": "AI重寫人才定義，ESG重塑留才邏輯 台積電、清華大學、采鈺科技共創人才永續新解方 - more-news.tw",
       "summary": "隨著生成式AI快速改變知識取得、工作分工與人才能力的邊界，ESG也同步重新定義企業與員工、社會及地方之間的關係。當兩股力量同時發生，企業面對的已不只是人才短缺，而是更根本的問題：未來什麼樣的人才最有價值？企業又該如何讓人才持續成長、願意投入，並與組織共同走得更遠？",
       "url": "https://more-news.tw/718485/",
       "source": "永續人才",
@@ -92,7 +81,7 @@
       "group": null,
       "published": "2026-09-13T02:49:24.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
     }
   ],
   "errors": []

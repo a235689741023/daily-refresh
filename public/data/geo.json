@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-13T16:42:00.338Z",
-  "updatedLocal": "2026/9/14 00:42:00",
+  "updated": "2026-09-14T00:17:50.260Z",
+  "updatedLocal": "2026/9/14 08:17:50",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-09-13T09:02:11.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "NASA, IBM launch open-source lunar foundation AI model to help map ice, craters on moon",
@@ -32,12 +32,12 @@
       "title": "Scenarios for our Economic Future",
       "summary": "We don’t know yet how AI will reshape the economy. Will it lead to unprecedented growth? Widespread unemployment?",
       "url": "https://www.anthropic.com/institute/econ-scenarios",
-      "source": "Anthropic",
+      "source": "anthropic.com",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-13T16:38:58.000Z",
+      "published": "2026-09-14T00:15:28.000Z",
       "why": null,
-      "ago": "3 分鐘前"
+      "ago": "2 分鐘前"
     },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-09-14T00:00:00.000Z",
       "why": null,
-      "ago": "剛剛"
+      "ago": "18 分鐘前"
     },
     {
       "title": "OpenAI Calls for Mandatory National AI Safety Rules",
@@ -57,40 +57,40 @@
       "source": "BankInfoSecurity",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-09-13T16:36:44.000Z",
+      "published": "2026-09-13T22:36:45.000Z",
       "why": null,
-      "ago": "5 分鐘前"
+      "ago": "2 小時前"
     },
     {
       "title": "Johnson calls for AI solutions but says Congress won't take the lead",
       "summary": null,
       "url": "https://www.axios.com/2026/09/13/ai-safety-congress-law-mike-johnson",
-      "source": "Axios",
+      "source": "axios.com",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-09-13T14:03:59.000Z",
+      "published": "2026-09-13T16:19:20.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Lawmakers push for urgent AI action after alarming warnings from researchers",
       "summary": null,
       "url": "https://www.newsnationnow.com/politics/congress-ai-regulation-house-democrats-recess-warning/",
-      "source": "NewsNation",
+      "source": "newsnationnow.com",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-09-13T12:10:22.000Z",
+      "published": "2026-09-13T21:25:06.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "Former Anthropic, Google researchers sound alarm over AI safety",
-      "summary": "F ormer researchers from Anthropic and Google DeepMind are warning that rapid advances in artificial intelligence could outpace human control, calling for stronger regulation, transparency and coordinated efforts to slow development.",
-      "url": "https://www.turkiyetoday.com/business/former-anthropic-google-researchers-sound-alarm-over-ai-safety-3228025",
-      "source": "Türkiye Today",
+      "title": "Johnson on AI regulation: ‘We don’t need everybody to panic right now’",
+      "summary": null,
+      "url": "https://thehill.com/policy/technology/6086745-johnson-advocates-ai-regulation-balance/",
+      "source": "The Hill",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-09-13T08:06:53.000Z",
+      "published": "2026-09-13T15:11:00.000Z",
       "why": null,
       "ago": "9 小時前"
     }
