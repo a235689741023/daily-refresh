@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-15T00:44:18.877Z",
-  "updatedLocal": "2026/9/15 08:44:18",
+  "updated": "2026-09-15T08:29:15.373Z",
+  "updatedLocal": "2026/9/15 16:29:15",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-09-10T15:25:00.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
     },
     {
       "title": "Inside Claude for Financial Advisors",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-09-14T17:51:53.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Scenarios for our Economic Future",
@@ -46,7 +46,7 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-15T00:41:12.000Z",
+      "published": "2026-09-15T08:26:12.000Z",
       "why": null,
       "ago": "3 分鐘前"
     },
@@ -59,18 +59,7 @@
       "group": "ai",
       "published": "2026-09-14T12:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-14T00:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "20 小時前"
     },
     {
       "title": "The AI industry has taken a doomer turn. What now?",
@@ -81,7 +70,7 @@
       "group": "ai",
       "published": "2026-09-14T17:54:22.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "AI agents blew the whistle on their cheating colleagues",
@@ -92,7 +81,18 @@
       "group": "ai",
       "published": "2026-09-14T16:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
+    },
+    {
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "summary": "In the latest episode of our Dialogues on Technology and Society series, NASA astronaut, engineer, and scientist Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "source": "Google AI Blog",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-14T19:00:00.000Z",
+      "why": null,
+      "ago": "13 小時前"
     }
   ],
   "errors": []

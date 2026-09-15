@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-15T00:44:18.877Z",
-  "updatedLocal": "2026/9/15 08:44:18",
+  "updated": "2026-09-15T08:29:15.373Z",
+  "updatedLocal": "2026/9/15 16:29:15",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+      "summary": "China's investment slump deepened and retail sales growth slowed further in August, while industrial output topped estimates with authorities warning of acute supply-demand imbalance at home.",
+      "url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-15T05:41:14.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
       "summary": "Bank of America is seeing a far more subdued few months for its Wall Street advisory and trading businesses after a blockbuster second quarter, CEO Brian Moynihan told analysts Monday.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-09-14T20:34:23.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-09-14T20:49:03.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Prediction market traders think gas prices will hit new highs for the year",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-09-14T15:49:39.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
@@ -48,18 +59,7 @@
       "group": null,
       "published": "2026-09-14T20:56:15.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "Prediction markets are becoming more professionalized, but also harder to beat",
-      "summary": "Prediction-market platforms' courtship of Wall Street stands to bring in deeper professional liquidity and intensify competition, but will also mean it's harder for many traders to make money.",
-      "url": "https://www.cnbc.com/2026/09/14/prediction-markets-efficient-win-lose-beat.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-14T01:37:44.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "NFL and midterm elections set up prediction markets for a critical fall season",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-09-14T12:16:52.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
@@ -81,7 +81,18 @@
       "group": null,
       "published": "2026-09-14T19:47:42.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
+    },
+    {
+      "title": "The Fed may be on the verge of a serious mistake, prominent economists warn",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-15T07:29:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
     },
     {
       "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-09-15T00:15:00.000Z",
       "why": null,
-      "ago": "29 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-09-15T00:01:00.000Z",
       "why": null,
-      "ago": "43 分鐘前"
-    },
-    {
-      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-14T23:19:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     }
   ],
   "errors": []
