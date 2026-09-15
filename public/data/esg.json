@@ -1,21 +1,65 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-15T08:29:15.373Z",
-  "updatedLocal": "2026/9/15 16:29:15",
+  "updated": "2026-09-15T17:20:58.872Z",
+  "updatedLocal": "2026/9/16 01:20:58",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "TODAY: Preparing UK businesses for European sustainability reporting requirements",
-      "summary": "Happening on 15 September, edie’s new webinar will explore what the European Sustainability Reporting Standards for Third-Country Groups (ESRS-TC) could mean for UK-headquartered businesses.",
-      "url": "https://www.edie.net/two-weeks-to-go-preparing-uk-businesses-for-european-sustainability-reporting-requirements/",
+      "title": "45-minute Masterclass: Making Scope 3 actionable: Scaling renewable electricity across the value chain",
+      "summary": "Event Date: 03/11/2026 | 1:00 pm UK | 8:00 am US East Coast ET | 5:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST Join the edie webinar on 3 November 2026 to learn how to make Scope 3 emissions actionable by scaling renewable electricity across your value chain.",
+      "url": "https://www.edie.net/45-minute-masterclass-making-scope-3-actionable-scaling-renewable-electricity-across-the-value-chain/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-09-15T05:55:08.000Z",
+      "published": "2026-09-15T15:56:14.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "ONE DAY to go until edie’s Sustainable Supply Chains Summit",
+      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
+      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-15T15:00:03.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "From Nepal to corporate boardrooms: The climate cases reshaping accountability",
+      "summary": "The Paris Agreement set a global benchmark for climate action. Now, courts are wrestling with who must pay when that benchmark is missed.",
+      "url": "https://www.edie.net/from-nepal-to-corporate-boardrooms-the-climate-cases-reshaping-accountability/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-15T14:49:54.000Z",
       "why": null,
       "ago": "3 小時前"
+    },
+    {
+      "title": "EU truck manufacturers call for adjusted compliance time for EV production",
+      "summary": "Leading truck manufacturers across Europe have stated that the shift to zero-emission heavy-duty vehicles is at risk due to poor charging and refuelling infrastructure, grid connections and high energy prices.",
+      "url": "https://www.edie.net/eu-truck-manufacturers-call-for-adjusted-compliance-time-for-ev-production/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-15T14:34:32.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "edie 27 launches Climate Resilience & Nature Zone as demand for adaptation and resilience solutions accelerates",
+      "summary": "As climate risks intensify, nature loss accelerates and disruption becomes a growing reality for organisations, businesses are under pressure to adapt faster, protect operations, manage risk and build long–term resilience.",
+      "url": "https://www.edie.net/edie-27-launches-climate-resilience-nature-zone-as-demand-for-adaptation-and-resilience-solutions-accelerates/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-15T08:49:58.000Z",
+      "why": null,
+      "ago": "9 小時前"
     },
     {
       "title": "Waitrose and Novo Nordisk validate new science-based nature targets",
@@ -26,51 +70,7 @@
       "group": null,
       "published": "2026-09-15T04:01:56.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "TWO DAYS to go until edie’s Sustainable Supply Chains Summit",
-      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
-      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-14T15:00:03.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "UK and US deepen partnership to catalyse commercial fusion",
-      "summary": "The UK Government has confirmed two agreements with the US to accelerate clean energy roll-out, which should also help deliver over 10,000 UK jobs by 2030.",
-      "url": "https://www.edie.net/uk-and-us-deepen-partnership-to-catalyse-commercial-fusion/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-14T12:10:12.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Energy UK, Which? and Greenpeace join call for electricity levy overhaul",
-      "summary": "More than 120 businesses, trade bodies, charities, unions and campaign groups have written to Chancellor John Healey, calling for levies to be moved off electricity bills and onto general taxation.",
-      "url": "https://www.edie.net/energy-uk-which-and-greenpeace-join-call-for-electricity-levy-overhaul/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-14T09:23:06.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "彷彿怪獸一口吃掉積雪 科學家定義新詞「吃雪者熱浪」",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243821",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-14T09:53:18.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "華航示範航班使用40%永續航空燃油、川普政府廢除電廠碳排放限制、芬蘭加入法國核威懾倡議",
@@ -79,20 +79,20 @@
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-09-15T02:39:26.000Z",
+      "published": "2026-09-15T02:51:38.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
-      "title": "氣候團體拋三大政見鎖定候選人 IH爐、電動車、屋頂光電入列",
+      "title": "台灣前進推六大環境韌性政見 村里熱風險公開、避難所建微電網",
       "summary": null,
-      "url": "https://e-info.org.tw/node/243873",
+      "url": "https://e-info.org.tw/node/243877",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-09-14T10:03:18.000Z",
+      "published": "2026-09-15T09:49:31.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "原來南庄橙有這麼多好處！ 從果醬、保健到專利，還把惠益分享回部落",
@@ -101,9 +101,9 @@
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-09-15T08:15:14.000Z",
+      "published": "2026-09-15T08:19:21.000Z",
       "why": null,
-      "ago": "14 分鐘前"
+      "ago": "9 小時前"
     },
     {
       "title": "伊朗戰爭打亂海灣綠色煉鋼 印度綠氫進程被排擠",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-09-15T02:08:57.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "15 小時前"
     }
   ],
   "errors": []

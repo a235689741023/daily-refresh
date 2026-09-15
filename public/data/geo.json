@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-15T08:29:15.373Z",
-  "updatedLocal": "2026/9/15 16:29:15",
+  "updated": "2026-09-15T17:20:58.872Z",
+  "updatedLocal": "2026/9/16 01:20:58",
   "digest": null,
   "watch": [],
   "items": [
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-09-14T17:51:53.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Scenarios for our Economic Future",
@@ -46,9 +46,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-15T08:26:12.000Z",
+      "published": "2026-09-15T17:16:24.000Z",
       "why": null,
-      "ago": "3 分鐘前"
+      "ago": "5 分鐘前"
     },
     {
       "title": "How Fyxer built an AI executive assistant people trust",
@@ -59,7 +59,29 @@
       "group": "ai",
       "published": "2026-09-14T12:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "summary": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet.",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-15T17:05:57.000Z",
+      "why": null,
+      "ago": "15 分鐘前"
+    },
+    {
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
+      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties.",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-09-15T10:00:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "The AI industry has taken a doomer turn. What now?",
@@ -70,29 +92,7 @@
       "group": "ai",
       "published": "2026-09-14T17:54:22.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them.",
-      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-09-14T16:00:00.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "summary": "In the latest episode of our Dialogues on Technology and Society series, NASA astronaut, engineer, and scientist Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-      "source": "Google AI Blog",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-14T19:00:00.000Z",
-      "why": null,
-      "ago": "13 小時前"
+      "ago": "23 小時前"
     }
   ],
   "errors": []

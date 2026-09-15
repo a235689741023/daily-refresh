@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-15T08:29:15.373Z",
-  "updatedLocal": "2026/9/15 16:29:15",
+  "updated": "2026-09-15T17:20:58.872Z",
+  "updatedLocal": "2026/9/16 01:20:58",
   "digest": null,
   "watch": [],
   "items": [
@@ -13,9 +13,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-15T05:41:14.000Z",
+      "published": "2026-09-15T09:46:14.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-14T20:34:23.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
@@ -37,18 +37,7 @@
       "group": null,
       "published": "2026-09-14T20:49:03.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Prediction market traders think gas prices will hit new highs for the year",
-      "summary": "U.S. oil prices are again above $100 per barrel , sending gasoline prices to multi-month highs.",
-      "url": "https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-14T15:49:39.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
@@ -59,7 +48,18 @@
       "group": null,
       "published": "2026-09-14T20:56:15.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
+    },
+    {
+      "title": "Prediction market traders think gas prices will hit new highs for the year",
+      "summary": "U.S. oil prices are again above $100 per barrel , sending gasoline prices to multi-month highs.",
+      "url": "https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-14T15:49:39.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "NFL and midterm elections set up prediction markets for a critical fall season",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-09-14T12:16:52.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
@@ -81,40 +81,40 @@
       "group": null,
       "published": "2026-09-14T19:47:42.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "The Fed may be on the verge of a serious mistake, prominent economists warn",
+      "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-15T07:29:00.000Z",
+      "published": "2026-09-15T17:18:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "3 分鐘前"
     },
     {
-      "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
+      "title": "Why investors need to learn the difference between uncertainty and risk in today’s market",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/what-investors-need-to-do-and-mistakes-not-to-make-in-todays-uncertain-world-8eb74333?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-15T00:15:00.000Z",
+      "published": "2026-09-15T17:09:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "12 分鐘前"
     },
     {
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "title": "Is the two-decade era of low interest rates over? The Fed has to decide.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/is-the-two-decade-era-of-low-interest-rates-over-the-fed-has-to-decide-0520f458?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-15T00:01:00.000Z",
+      "published": "2026-09-15T17:08:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "13 分鐘前"
     }
   ],
   "errors": []
