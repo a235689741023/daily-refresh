@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-14T18:14:04.931Z",
-  "updatedLocal": "2026/9/15 02:14:04",
+  "updated": "2026-09-15T00:44:18.877Z",
+  "updatedLocal": "2026/9/15 08:44:18",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
+      "summary": "Bank of America is seeing a far more subdued few months for its Wall Street advisory and trading businesses after a blockbuster second quarter, CEO Brian Moynihan told analysts Monday.",
+      "url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-14T20:34:23.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
       "summary": "Before President Donald Trump reels off angry Truth Social posts if the Federal Reserve hikes rates this week, he should look in the mirror: His policies are a big reason the central bank has to consider a rate increase.",
@@ -13,9 +24,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-14T17:26:21.000Z",
+      "published": "2026-09-14T20:49:03.000Z",
       "why": null,
-      "ago": "48 分鐘前"
+      "ago": "4 小時前"
     },
     {
       "title": "Prediction market traders think gas prices will hit new highs for the year",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-09-14T15:49:39.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
@@ -35,9 +46,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-14T13:18:23.000Z",
+      "published": "2026-09-14T20:56:15.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "4 小時前"
     },
     {
       "title": "Prediction markets are becoming more professionalized, but also harder to beat",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-09-14T01:37:44.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "NFL and midterm elections set up prediction markets for a critical fall season",
@@ -59,51 +70,18 @@
       "group": null,
       "published": "2026-09-14T12:16:52.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "AI companies say they want to slow down. Here’s how Washington might help apply the brakes.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/ai-companies-say-they-want-to-slow-down-heres-how-washington-might-help-apply-the-brakes-7db9dabb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
+      "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
+      "summary": "Federal Reserve Chairman Kevin Warsh faces a tricky head count this week when he and his fellow policymakers decide on both the immediate and future path of interest rates.",
+      "url": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-09-14T18:08:00.000Z",
+      "published": "2026-09-14T19:47:42.000Z",
       "why": null,
-      "ago": "6 分鐘前"
-    },
-    {
-      "title": "Inflation is sinking your high-yield savings account’s returns. Here’s one way to fight it.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/inflation-is-sinking-your-high-yield-savings-accounts-returns-heres-one-way-to-fight-it-6aa798e9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-14T17:46:00.000Z",
-      "why": null,
-      "ago": "28 分鐘前"
-    },
-    {
-      "title": "Why the Social Security COLA is much ado about nothing",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/why-the-social-security-cola-is-much-ado-about-nothing-cf9b90d4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-14T17:36:00.000Z",
-      "why": null,
-      "ago": "38 分鐘前"
-    },
-    {
-      "title": "There’s every reason to slow AI development. But here’s why it probably won’t happen.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/theres-every-reason-to-slow-ai-development-but-heres-why-it-probably-wont-happen-80be6ad6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-14T17:22:00.000Z",
-      "why": null,
-      "ago": "52 分鐘前"
+      "ago": "5 小時前"
     },
     {
       "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
@@ -112,9 +90,31 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-14T16:30:00.000Z",
+      "published": "2026-09-15T00:15:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "29 分鐘前"
+    },
+    {
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-15T00:01:00.000Z",
+      "why": null,
+      "ago": "43 分鐘前"
+    },
+    {
+      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-14T23:19:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
     }
   ],
   "errors": []

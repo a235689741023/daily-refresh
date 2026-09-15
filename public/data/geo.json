@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-14T18:14:04.931Z",
-  "updatedLocal": "2026/9/15 02:14:04",
+  "updated": "2026-09-15T00:44:18.877Z",
+  "updatedLocal": "2026/9/15 08:44:18",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-09-13T09:02:11.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "NASA, IBM launch open-source lunar foundation AI model to help map ice, craters on moon",
@@ -29,15 +29,26 @@
       "ago": "4 天前"
     },
     {
+      "title": "Inside Claude for Financial Advisors",
+      "summary": "Most advisors spend more of their week getting ready for client meetings and following up on them than sitting with clients.",
+      "url": "https://www.anthropic.com/webinars/inside-claude-for-financial-advisors",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-14T17:51:53.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
       "title": "Scenarios for our Economic Future",
       "summary": "We don’t know yet how AI will reshape the economy. Will it lead to unprecedented growth? Widespread unemployment?",
       "url": "https://www.anthropic.com/institute/econ-scenarios",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-14T18:03:49.000Z",
+      "published": "2026-09-15T00:41:12.000Z",
       "why": null,
-      "ago": "10 分鐘前"
+      "ago": "3 分鐘前"
     },
     {
       "title": "How Fyxer built an AI executive assistant people trust",
@@ -48,7 +59,7 @@
       "group": "ai",
       "published": "2026-09-14T12:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -59,7 +70,18 @@
       "group": "ai",
       "published": "2026-09-14T00:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "summary": "This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs .",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-09-14T17:54:22.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "AI agents blew the whistle on their cheating colleagues",
@@ -70,29 +92,7 @@
       "group": "ai",
       "published": "2026-09-14T16:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "DevFest is back",
-      "summary": "DevFest 2026 is here, and from October 1 – December 31, 2026, you can join the nearly 1 million developers expected to participate to build, secure, and scale in the agentic era.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "source": "Google AI Blog",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-14T16:00:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-      "summary": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device.",
-      "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-09-14T15:00:52.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "9 小時前"
     }
   ],
   "errors": []
