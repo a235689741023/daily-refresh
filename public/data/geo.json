@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-15T17:20:58.872Z",
-  "updatedLocal": "2026/9/16 01:20:58",
+  "updated": "2026-09-16T00:34:46.091Z",
+  "updatedLocal": "2026/9/16 08:34:46",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-09-13T09:02:11.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "NASA, IBM launch open-source lunar foundation AI model to help map ice, craters on moon",
@@ -29,37 +29,15 @@
       "ago": "5 天前"
     },
     {
-      "title": "Inside Claude for Financial Advisors",
-      "summary": "Most advisors spend more of their week getting ready for client meetings and following up on them than sitting with clients.",
-      "url": "https://www.anthropic.com/webinars/inside-claude-for-financial-advisors",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-14T17:51:53.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
       "title": "Scenarios for our Economic Future",
       "summary": "We don’t know yet how AI will reshape the economy. Will it lead to unprecedented growth? Widespread unemployment?",
       "url": "https://www.anthropic.com/institute/econ-scenarios",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-15T17:16:24.000Z",
+      "published": "2026-09-16T00:32:11.000Z",
       "why": null,
-      "ago": "5 分鐘前"
-    },
-    {
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "summary": "Fyxer pairs OpenAI models with 500,000+ hours of EA workflows and real user feedback to draft replies in each person’s voice.",
-      "url": "https://openai.com/index/fyxer",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-14T12:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "3 分鐘前"
     },
     {
       "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
@@ -70,7 +48,18 @@
       "group": "ai",
       "published": "2026-09-15T17:05:57.000Z",
       "why": null,
-      "ago": "15 分鐘前"
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Roundtables: Could AI really kill us all?",
+      "summary": "Employees at the world's leading AI labs are saying there's a real possibility that advanced AI could destroy humanity.",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-09-15T17:47:51.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "What’s at stake in AI’s trillion-dollar gamble",
@@ -81,18 +70,29 @@
       "group": "ai",
       "published": "2026-09-15T10:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "summary": "This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs .",
-      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
+      "title": "AI for Societal Impact",
+      "summary": "For over a decade, we’ve seen artificial intelligence steadily advance scientific discovery, shifting from theoretical research to real-world impact.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "source": "Google AI Blog",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-09-14T17:54:22.000Z",
+      "published": "2026-09-15T16:00:00.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "9 小時前"
+    },
+    {
+      "title": "Building AI to accelerate science and improve lives",
+      "summary": "We’re asking what’s possible for health, natural disaster and weather resilience, learning, and economic opportunity.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "source": "Google AI Blog",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-15T16:00:00.000Z",
+      "why": null,
+      "ago": "9 小時前"
     }
   ],
   "errors": []
