@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-16T00:34:46.091Z",
-  "updatedLocal": "2026/9/16 08:34:46",
+  "updated": "2026-09-16T08:23:12.042Z",
+  "updatedLocal": "2026/9/16 16:23:12",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
+      "summary": "BEIJING — While frontier U.S. labs have sounded the alarm on artificial intelligence in recent high-profile speeches, Chinese companies have largely kept quiet.",
+      "url": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-16T04:01:59.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
       "summary": "China's investment slump deepened and retail sales growth slowed further in August, while industrial output topped estimates with authorities warning of acute supply-demand imbalance at home.",
@@ -15,40 +26,29 @@
       "group": null,
       "published": "2026-09-15T09:46:14.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
-      "summary": "BEIJING — China on Monday pushed back on calls by U.S. AI executives for companies to slow down the development of the cutting-edge technology.",
-      "url": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "UK inflation jumps to 3.1% as energy costs soar",
+      "summary": "The U.K.'s annual inflation rate jumped to 3.1% in August, pushed up by surging gasoline and diesel prices.",
+      "url": "https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-09-14T20:56:15.000Z",
+      "published": "2026-09-16T07:18:23.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "1 小時前"
     },
     {
-      "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
-      "summary": "Before President Donald Trump reels off angry Truth Social posts if the Federal Reserve hikes rates this week, he should look in the mirror: His policies are a big reason the central bank has to consider a rate increase.",
-      "url": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "Indonesia's new finance minister faces an uphill battle on fiscal credibility",
+      "summary": "Indonesia just got its third third finance minister in two years, putting the spotlight on concerns plaguing Southeast Asia's largest economy , with analysts flagging the need for fiscal prudence and a shift away from \"interventionist\" policy.",
+      "url": "https://www.cnbc.com/2026/09/16/indonesia-finance-minister-msci-prabowo-.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-09-14T20:49:03.000Z",
+      "published": "2026-09-16T01:53:52.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
-      "summary": "Bank of America is seeing a far more subdued few months for its Wall Street advisory and trading businesses after a blockbuster second quarter, CEO Brian Moynihan told analysts Monday.",
-      "url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-14T20:34:23.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
     },
     {
       "title": "Why de-dollarization discussions are more talk, less action",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-09-15T23:28:01.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-09-15T23:09:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-09-15T22:15:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-09-15T22:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
@@ -103,7 +103,7 @@
       "group": null,
       "published": "2026-09-15T21:40:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-09-15T21:34:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     }
   ],
   "errors": []

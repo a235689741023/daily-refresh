@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-16T00:34:46.091Z",
-  "updatedLocal": "2026/9/16 08:34:46",
+  "updated": "2026-09-16T08:23:12.042Z",
+  "updatedLocal": "2026/9/16 16:23:12",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-15T21:57:30.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Busting the myth that newer carbon credits are superior",
@@ -26,7 +26,18 @@
       "group": null,
       "published": "2026-09-15T18:43:24.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
+    },
+    {
+      "title": "Report: UK clean energy transition faces £511bn investment challenge by 2040",
+      "summary": "The UK will need at least £511bn of investment between 2026 and 2040 to deliver its clean energy transition, according to a report commissioned by Standard Life and Santander.",
+      "url": "https://www.edie.net/report-uk-clean-energy-transition-faces-511bn-investment-challenge-by-2040/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-16T01:02:34.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "CCC warns Heathrow expansion has no credible climate pathway under current policies",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-09-16T00:34:32.000Z",
       "why": null,
-      "ago": "剛剛"
+      "ago": "8 小時前"
     },
     {
       "title": "How to cut through the noise at New York Climate Week",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-09-15T18:45:11.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "45-minute Masterclass: Making Scope 3 actionable: Scaling renewable electricity across the value chain",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-09-15T15:56:14.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "ONE DAY to go until edie’s Sustainable Supply Chains Summit",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-09-15T15:00:03.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "From Nepal to corporate boardrooms: The climate cases reshaping accountability",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-09-15T14:49:54.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "EU truck manufacturers call for adjusted compliance time for EV production",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-09-15T14:34:32.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "edie 27 launches Climate Resilience & Nature Zone as demand for adaptation and resilience solutions accelerates",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-09-15T08:49:58.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Waitrose and Novo Nordisk validate new science-based nature targets",
-      "summary": "The Science Based Targets Network (SBTN) has announced a wave of new companies that have validated progress on science-based targets for nature, including Waitrose and healthcare giant Novo Nordisk.",
-      "url": "https://www.edie.net/waitrose-and-novo-nordisk-validate-new-science-based-nature-targets/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-15T04:01:56.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "24 小時前"
     }
   ],
   "errors": []

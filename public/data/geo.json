@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-16T00:34:46.091Z",
-  "updatedLocal": "2026/9/16 08:34:46",
+  "updated": "2026-09-16T08:23:12.042Z",
+  "updatedLocal": "2026/9/16 16:23:12",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-09-10T15:25:00.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
       "title": "Scenarios for our Economic Future",
@@ -35,7 +35,7 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-16T00:32:11.000Z",
+      "published": "2026-09-16T08:20:28.000Z",
       "why": null,
       "ago": "3 分鐘前"
     },
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-09-15T17:05:57.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Roundtables: Could AI really kill us all?",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-09-15T17:47:51.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "What’s at stake in AI’s trillion-dollar gamble",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-09-15T10:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "AI for Societal Impact",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-09-15T16:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Building AI to accelerate science and improve lives",
@@ -92,7 +92,7 @@
       "group": "ai",
       "published": "2026-09-15T16:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     }
   ],
   "errors": []
