@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-16T08:23:12.042Z",
-  "updatedLocal": "2026/9/16 16:23:12",
+  "updated": "2026-09-16T17:20:35.444Z",
+  "updatedLocal": "2026/9/17 01:20:35",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Support for nature-based climate pledges builds slowly",
+      "summary": "Novo Nordisk’s new commitment , announced Sept. 15, calls for the company to source commodities such as wheat, corn, soy, cattle, sugar beets and wood from locations that are “conversion-free” — meaning natural habitat wasn’t destroyed for the sake of new production.",
+      "url": "https://trellis.net/article/corporate-support-sbtn-builds-slowly/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-16T09:00:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
     {
       "title": "Project developers can now sign up for Verra’s Scope 3 registry",
       "summary": "The world’s largest issuer of voluntary carbon market credits is gearing up to launch a registry for an emerging type of credit that’s used to decarbonize supply chains.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-09-15T21:57:30.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Busting the myth that newer carbon credits are superior",
@@ -26,7 +37,51 @@
       "group": null,
       "published": "2026-09-15T18:43:24.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "Top 20 private equity firms’ portfolios pollute more than most countries, research finds",
+      "summary": "The energy portfolios of the top 20 private equity firms emit more pollution than every country except the US, China, India and Russia, a report from the Private Equity Climate Risks Consortium has found.",
+      "url": "https://www.edie.net/top-20-private-equity-firms-portfolios-pollute-more-than-most-countries-research-finds/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-16T14:11:35.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Bristol bans high-carbon advertising on council-owned sites",
+      "summary": "Bristol City Council will no longer allow advertising for petrol and diesel cars, hybrid vehicles, SUVs, flights, fossil fuel companies and certain fast fashion campaigns on council-owned advertising sites.",
+      "url": "https://www.edie.net/bristol-bans-high-carbon-advertising-on-council-owned-sites/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-16T14:09:28.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "NEXT WEEK: Practical actions to drive circularity across the business value chain",
+      "summary": "In a week's time, edie will hold its new webinar exploring how organisations can turn circular economy commitments into practical, measurable action across the business value chain.",
+      "url": "https://www.edie.net/two-weeks-to-go-practical-actions-to-drive-circularity-across-the-business-value-chain/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-16T05:22:41.000Z",
+      "why": null,
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Nominations open for edie’s 30 Under 30 Class of 2027",
+      "summary": "edie’s 30 Under 30 is back for 2027, celebrating ambitious young professionals turning sustainability ambition into meaningful action across business.",
+      "url": "https://www.edie.net/nominations-open-for-edies-30-under-30-class-of-2027/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-16T04:00:38.000Z",
+      "why": null,
+      "ago": "13 小時前"
     },
     {
       "title": "Report: UK clean energy transition faces £511bn investment challenge by 2040",
@@ -37,7 +92,7 @@
       "group": null,
       "published": "2026-09-16T01:02:34.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "CCC warns Heathrow expansion has no credible climate pathway under current policies",
@@ -48,7 +103,7 @@
       "group": null,
       "published": "2026-09-16T00:34:32.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "How to cut through the noise at New York Climate Week",
@@ -59,62 +114,7 @@
       "group": null,
       "published": "2026-09-15T18:45:11.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "45-minute Masterclass: Making Scope 3 actionable: Scaling renewable electricity across the value chain",
-      "summary": "Event Date: 03/11/2026 | 1:00 pm UK | 8:00 am US East Coast ET | 5:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST Join the edie webinar on 3 November 2026 to learn how to make Scope 3 emissions actionable by scaling renewable electricity across your value chain.",
-      "url": "https://www.edie.net/45-minute-masterclass-making-scope-3-actionable-scaling-renewable-electricity-across-the-value-chain/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-15T15:56:14.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "ONE DAY to go until edie’s Sustainable Supply Chains Summit",
-      "summary": "Join us on 17 September for a unique opportunity to gain expert-led insights through thought leadership and industry panels featuring top professionals in sustainability, supply chain and procurement.",
-      "url": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-15T15:00:03.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "From Nepal to corporate boardrooms: The climate cases reshaping accountability",
-      "summary": "The Paris Agreement set a global benchmark for climate action. Now, courts are wrestling with who must pay when that benchmark is missed.",
-      "url": "https://www.edie.net/from-nepal-to-corporate-boardrooms-the-climate-cases-reshaping-accountability/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-15T14:49:54.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "EU truck manufacturers call for adjusted compliance time for EV production",
-      "summary": "Leading truck manufacturers across Europe have stated that the shift to zero-emission heavy-duty vehicles is at risk due to poor charging and refuelling infrastructure, grid connections and high energy prices.",
-      "url": "https://www.edie.net/eu-truck-manufacturers-call-for-adjusted-compliance-time-for-ev-production/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-15T14:34:32.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "edie 27 launches Climate Resilience & Nature Zone as demand for adaptation and resilience solutions accelerates",
-      "summary": "As climate risks intensify, nature loss accelerates and disruption becomes a growing reality for organisations, businesses are under pressure to adapt faster, protect operations, manage risk and build long–term resilience.",
-      "url": "https://www.edie.net/edie-27-launches-climate-resilience-nature-zone-as-demand-for-adaptation-and-resilience-solutions-accelerates/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-15T08:49:58.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "23 小時前"
     }
   ],
   "errors": []
