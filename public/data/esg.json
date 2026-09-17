@@ -1,32 +1,65 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-17T08:29:13.036Z",
-  "updatedLocal": "2026/9/17 16:29:13",
+  "updated": "2026-09-17T17:20:24.973Z",
+  "updatedLocal": "2026/9/18 01:20:24",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Support for nature-based climate pledges builds slowly",
-      "summary": "Novo Nordisk’s new commitment , announced Sept. 15, calls for the company to source commodities such as wheat, corn, soy, cattle, sugar beets and wood from locations that are “conversion-free” — meaning natural habitat wasn’t destroyed for the sake of new production.",
-      "url": "https://trellis.net/article/corporate-support-sbtn-builds-slowly/",
-      "source": "Trellis",
+      "title": "45-minute Masterclass: What SMEs need to know before investing in solar",
+      "summary": "Event Date: 05/11/2026 | 1:00 pm UK | 8:00 am US East Coast ET | 5:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST This webinar, delivered in partnership with British Gas, will explore how SMEs can overcome the key investment and deployment challenges surrounding onsite solar power, and maximise the returns on investment.",
+      "url": "https://www.edie.net/45-minute-masterclass-what-smes-need-to-know-before-investing-in-solar/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-09-16T09:00:00.000Z",
+      "published": "2026-09-17T14:29:22.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "3 小時前"
+    },
+    {
+      "title": "MPs warn inconsistent Government messaging could undermine energy transition",
+      "summary": "MPs have urged the UK Government to change how it communicates the energy transition, with current messaging described as inconsistent, overly technical and too heavily focused on the “net-zero” target.",
+      "url": "https://www.edie.net/mps-warn-inconsistent-government-messaging-could-undermine-energy-transition/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-17T12:14:06.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Growing through M&A without losing sight of sustainability",
+      "summary": "Acquisitions can complicate sustainability targets and data, but they also offer opportunities to strengthen environmental programmes and build more resilient businesses, says Tate & Lyle chief executive Nick Hampton.",
+      "url": "https://www.edie.net/growing-through-ma-without-losing-sight-of-sustainability/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-17T09:36:46.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Report: Businesses increase climate adaptation spending as net-zero progress slows",
-      "summary": "This is according to a new Capgemini Research Institute report , which surveyed 2,100 executives at 701 organisations with annual revenue above $1bn across 13 countries and 12 industries.",
+      "summary": "Executives increasingly view climate adaptation not as a secondary concern, but as essential to business survival.",
       "url": "https://www.edie.net/report-businesses-increase-climate-adaptation-spending-as-net-zero-progress-slows/",
       "source": "edie",
       "tag": "國際",
       "group": null,
       "published": "2026-09-17T08:00:46.000Z",
       "why": null,
-      "ago": "28 分鐘前"
+      "ago": "9 小時前"
+    },
+    {
+      "title": "NEXT WEEK: Practical actions to drive circularity across the business value chain",
+      "summary": "In a week's time, edie will hold its new webinar exploring how organisations can turn circular economy commitments into practical, measurable action across the business value chain.",
+      "url": "https://www.edie.net/two-weeks-to-go-practical-actions-to-drive-circularity-across-the-business-value-chain/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-17T05:22:41.000Z",
+      "why": null,
+      "ago": "12 小時前"
     },
     {
       "title": "Technology briefing: Will second-life EV batteries unlock on-site energy optimisation?",
@@ -37,29 +70,7 @@
       "group": null,
       "published": "2026-09-17T04:00:23.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "Top 20 private equity firms’ portfolios pollute more than most countries, research finds",
-      "summary": "The energy portfolios of the top 20 private equity firms emit more pollution than every country except the US, China, India and Russia, a report from the Private Equity Climate Risks Consortium has found.",
-      "url": "https://www.edie.net/top-20-private-equity-firms-portfolios-pollute-more-than-most-countries-research-finds/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-16T14:11:35.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Bristol bans high-carbon advertising on council-owned sites",
-      "summary": "Bristol City Council will no longer allow advertising for petrol and diesel cars, hybrid vehicles, SUVs, flights, fossil fuel companies and certain fast fashion campaigns on council-owned advertising sites.",
-      "url": "https://www.edie.net/bristol-bans-high-carbon-advertising-on-council-owned-sites/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-16T14:09:28.000Z",
-      "why": null,
-      "ago": "18 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Analysis: India’s power-sector emissions flat for two years due to clean-energy surge",
@@ -70,29 +81,18 @@
       "group": null,
       "published": "2026-09-16T23:01:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
     },
     {
-      "title": "Analysis: Global fossil-fuel emissions set to fall in 2026 amid Hormuz crisis",
-      "summary": "Global fossil-fuel emissions are set to fall by around 0.5% in 2026 amid the fallout from the Hormuz crisis, according to Carbon Brief analysis.",
-      "url": "https://www.carbonbrief.org/analysis-global-fossil-fuel-emissions-set-to-fall-in-2026-amid-hormuz-crisis",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-09-16T13:34:02.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "台版ETS年底啟動試行 首波納台積電等18家碳排前段班企業",
+      "title": "52檔ESG與永續基金七檔持有高碳排企業 民團揭金管會評鑑漏洞",
       "summary": null,
-      "url": "https://e-info.org.tw/node/243882",
+      "url": "https://e-info.org.tw/node/243886",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-09-16T10:29:23.000Z",
+      "published": "2026-09-17T09:07:53.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "水價凍漲32年、台水今年估虧63億 台水：選舉、油電價格都是考量",
@@ -103,7 +103,7 @@
       "group": null,
       "published": "2026-09-17T02:57:40.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "桃園男網購33隻保育龜闖關、北海道十勝嶽噴發可能性提高、美眾院要求資料中心自付更多電費",
@@ -112,9 +112,9 @@
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-09-17T03:18:30.000Z",
+      "published": "2026-09-17T04:10:07.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     }
   ],
   "errors": []

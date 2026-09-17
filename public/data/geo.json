@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-17T08:29:13.036Z",
-  "updatedLocal": "2026/9/17 16:29:13",
+  "updated": "2026-09-17T17:20:24.973Z",
+  "updatedLocal": "2026/9/18 01:20:24",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,15 +18,15 @@
       "ago": "4 天前"
     },
     {
-      "title": "NASA, IBM launch open-source lunar foundation AI model to help map ice, craters on moon",
-      "summary": "IBM and NASA release an open-source lunar AI foundation model to map craters, analyze volcanic features, and identify potential ice deposits In recent space technology innovation, IBM and NASA have officially released open-source AI model designed to help scientists analyze decades of lunar observation data and support plans for a sustained human presence on the Moon.",
-      "url": "https://www.thenews.com.pk/latest/1415593-nasa-ibm-launch-open-source-lunar-foundation-ai-model-to-help-map-ice-craters-on-moon",
-      "source": "The News International",
-      "tag": "研究",
-      "group": "gis",
-      "published": "2026-09-10T15:25:00.000Z",
+      "title": "Inside Claude for Financial Advisors",
+      "summary": "Most advisors spend more of their week getting ready for client meetings and following up on them than sitting with clients.",
+      "url": "https://www.anthropic.com/webinars/inside-claude-for-financial-advisors",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-17T14:44:49.000Z",
       "why": null,
-      "ago": "7 天前"
+      "ago": "3 小時前"
     },
     {
       "title": "Claude Camp for Customers",
@@ -37,18 +37,7 @@
       "group": "ai",
       "published": "2026-09-16T19:32:41.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Inside Claude for Financial Advisors",
-      "summary": "Most advisors spend more of their week getting ready for client meetings and following up on them than sitting with clients.",
-      "url": "https://www.anthropic.com/webinars/inside-claude-for-financial-advisors",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-17T05:39:40.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Scenarios for our Economic Future",
@@ -57,9 +46,20 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-17T08:23:45.000Z",
+      "published": "2026-09-17T12:06:30.000Z",
       "why": null,
-      "ago": "5 分鐘前"
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Our framework for reporting model misalignment",
+      "summary": "We are sharing a new framework for tracking, investigating, and disclosing instances of model misalignment at OpenAI, along with six reports on unexpected or concerning model behavior we’ve observed in the last six months.",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-16T17:00:00.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Helping older adults use AI in everyday life",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-09-16T16:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Reimagining advertising with AI",
@@ -81,18 +81,7 @@
       "group": "ai",
       "published": "2026-09-16T13:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "How to connect AI usage to business value",
-      "summary": "Understand how teams use ChatGPT Work and Codex, see the work behind the spend, and connect it to measurable outcomes.",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-16T12:00:00.000Z",
-      "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
