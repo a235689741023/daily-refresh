@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-17T00:42:30.653Z",
-  "updatedLocal": "2026/9/17 08:42:30",
+  "updated": "2026-09-17T08:29:13.036Z",
+  "updatedLocal": "2026/9/17 16:29:13",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,18 @@
       "group": "gis",
       "published": "2026-09-10T15:25:00.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
+    },
+    {
+      "title": "Claude Camp for Customers",
+      "summary": "A week of sessions just for APAC customers to learn, explore, and get to value more quickly with Claude.",
+      "url": "https://www.anthropic.com/events/claude-camp-for-customers",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-16T19:32:41.000Z",
+      "why": null,
+      "ago": "13 小時前"
     },
     {
       "title": "Inside Claude for Financial Advisors",
@@ -35,9 +46,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-16T23:33:54.000Z",
+      "published": "2026-09-17T05:39:40.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "3 小時前"
     },
     {
       "title": "Scenarios for our Economic Future",
@@ -46,9 +57,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-17T00:36:18.000Z",
+      "published": "2026-09-17T08:23:45.000Z",
       "why": null,
-      "ago": "6 分鐘前"
+      "ago": "5 分鐘前"
     },
     {
       "title": "Helping older adults use AI in everyday life",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-09-16T16:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Reimagining advertising with AI",
@@ -70,7 +81,7 @@
       "group": "ai",
       "published": "2026-09-16T13:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "How to connect AI usage to business value",
@@ -81,18 +92,7 @@
       "group": "ai",
       "published": "2026-09-16T12:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Our framework for reporting model misalignment",
-      "summary": "We are sharing a new framework for tracking, investigating, and disclosing instances of model misalignment at OpenAI, along with six reports on unexpected or concerning model behavior we’ve observed in the last six months.",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-16T17:00:00.000Z",
-      "why": null,
-      "ago": "8 小時前"
+      "ago": "20 小時前"
     }
   ],
   "errors": []
