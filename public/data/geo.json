@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-16T17:20:35.444Z",
-  "updatedLocal": "2026/9/17 01:20:35",
+  "updated": "2026-09-17T00:42:30.653Z",
+  "updatedLocal": "2026/9/17 08:42:30",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-09-13T09:02:11.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
       "title": "NASA, IBM launch open-source lunar foundation AI model to help map ice, craters on moon",
@@ -35,9 +35,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-16T14:27:33.000Z",
+      "published": "2026-09-16T23:33:54.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "1 小時前"
     },
     {
       "title": "Scenarios for our Economic Future",
@@ -46,9 +46,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-16T17:12:18.000Z",
+      "published": "2026-09-17T00:36:18.000Z",
       "why": null,
-      "ago": "8 分鐘前"
+      "ago": "6 分鐘前"
     },
     {
       "title": "Helping older adults use AI in everyday life",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-09-16T16:00:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Reimagining advertising with AI",
@@ -70,29 +70,29 @@
       "group": "ai",
       "published": "2026-09-16T13:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "How workers are unlocking new ways of working",
-      "summary": "New OpenAI Economic Research shows how workers use AI to do tasks outside their typical occupation and which new tasks they build into their workflow.",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "title": "How to connect AI usage to business value",
+      "summary": "Understand how teams use ChatGPT Work and Codex, see the work behind the spend, and connect it to measurable outcomes.",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-16T09:00:00.000Z",
+      "published": "2026-09-16T12:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "13 小時前"
     },
     {
-      "title": "Building the materials foundation for AI",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it.",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
+      "title": "Our framework for reporting model misalignment",
+      "summary": "We are sharing a new framework for tracking, investigating, and disclosing instances of model misalignment at OpenAI, along with six reports on unexpected or concerning model behavior we’ve observed in the last six months.",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-09-16T12:47:34.000Z",
+      "published": "2026-09-16T17:00:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "8 小時前"
     }
   ],
   "errors": []

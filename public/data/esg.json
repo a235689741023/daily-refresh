@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-16T17:20:35.444Z",
-  "updatedLocal": "2026/9/17 01:20:35",
+  "updated": "2026-09-17T00:42:30.653Z",
+  "updatedLocal": "2026/9/17 08:42:30",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-16T09:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Project developers can now sign up for Verra’s Scope 3 registry",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-15T21:57:30.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Busting the myth that newer carbon credits are superior",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-09-15T18:43:24.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Top 20 private equity firms’ portfolios pollute more than most countries, research finds",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-09-16T14:11:35.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Bristol bans high-carbon advertising on council-owned sites",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-09-16T14:09:28.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "NEXT WEEK: Practical actions to drive circularity across the business value chain",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-09-16T05:22:41.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Nominations open for edie’s 30 Under 30 Class of 2027",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-09-16T04:00:38.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Report: UK clean energy transition faces £511bn investment challenge by 2040",
@@ -92,29 +92,29 @@
       "group": null,
       "published": "2026-09-16T01:02:34.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "24 小時前"
     },
     {
-      "title": "CCC warns Heathrow expansion has no credible climate pathway under current policies",
-      "summary": "Heathrow Airport expansion cannot be reconciled with the UK's climate commitments under current policies, according to advice from the Climate Change Committee (CCC).",
-      "url": "https://www.edie.net/ccc-warns-heathrow-expansion-has-no-credible-climate-pathway-under-current-policies/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "Analysis: India’s power-sector emissions flat for two years due to clean-energy surge",
+      "summary": "A surge in clean energy has kept carbon dioxide (CO2) emissions in check across India’s power sector, with no growth from the first half of 2024 to the same period in 2026.",
+      "url": "https://www.carbonbrief.org/analysis-indias-power-sector-emissions-flat-for-two-years-due-to-clean-energy-surge",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-09-16T00:34:32.000Z",
+      "published": "2026-09-16T23:01:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "How to cut through the noise at New York Climate Week",
-      "summary": "Happening on 20-27 September, Climate Week NYC is just around the corner.",
-      "url": "https://www.edie.net/how-to-cut-through-the-noise-at-new-york-climate-week/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "Analysis: Global fossil-fuel emissions set to fall in 2026 amid Hormuz crisis",
+      "summary": "Global fossil-fuel emissions are set to fall by around 0.5% in 2026 amid the fallout from the Hormuz crisis, according to Carbon Brief analysis.",
+      "url": "https://www.carbonbrief.org/analysis-global-fossil-fuel-emissions-set-to-fall-in-2026-amid-hormuz-crisis",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-09-15T18:45:11.000Z",
+      "published": "2026-09-16T13:34:02.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "11 小時前"
     }
   ],
   "errors": []
