@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-18T08:03:29.262Z",
-  "updatedLocal": "2026/9/18 16:03:29",
+  "updated": "2026-09-18T16:45:49.225Z",
+  "updatedLocal": "2026/9/19 00:45:49",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+      "summary": "With a few carefully chosen words, Federal Reserve Chairman Kevin Warsh both explained this week's decision to hike interest rates and raised vexing questions about what comes next.",
+      "url": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-18T16:33:43.000Z",
+      "why": null,
+      "ago": "12 分鐘前"
+    },
+    {
+      "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
+      "summary": "Warren Buffett is stepping down as chairman of Berkshire Hathaway , the sprawling conglomerate worth $1 trillion that he has led since 1965.",
+      "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-18T12:04:02.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
     {
       "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
       "summary": "Securitize surged Thursday after federal regulators greenlit the issuing of tokenized stocks on some trading platforms in the U.S. The tokenization name was last up 14%.",
@@ -15,7 +37,7 @@
       "group": null,
       "published": "2026-09-17T17:59:51.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
@@ -24,20 +46,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-17T14:30:25.000Z",
+      "published": "2026-09-18T08:41:11.000Z",
       "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
-      "summary": "BEIJING — China's artificial intelligence models may be enjoying rapid adoption but that isn't yet translating into revenue, raising questions about company valuations.",
-      "url": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-17T09:00:01.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
@@ -48,73 +59,62 @@
       "group": null,
       "published": "2026-09-18T07:40:29.000Z",
       "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "Why investors’ best move in reaction to Fed’s rate hike is doing nothing at all",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/why-investors-best-move-in-reaction-to-feds-rate-hike-is-doing-nothing-at-all-6ff56b4c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-18T16:39:00.000Z",
+      "why": null,
+      "ago": "7 分鐘前"
+    },
+    {
+      "title": "Two signs investors don’t have to fear an AI slowdown",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-18T16:33:00.000Z",
+      "why": null,
+      "ago": "13 分鐘前"
+    },
+    {
+      "title": "Netflix is too focused on podcasts and not enough on good shows, analysts say",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/netflix-is-too-focused-on-podcasts-and-not-enough-on-good-shows-analysts-say-be758c93?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-18T16:23:00.000Z",
+      "why": null,
       "ago": "23 分鐘前"
     },
     {
-      "title": "Bank of England defies Fed’s rate-hike lead, leaving rates unchanged",
-      "summary": "The Bank of England left interest rates unchanged on Thursday, despite inflation rising well above its 2% target, but warned a hike was becoming increasingly likely.",
-      "url": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-09-17T12:27:10.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
+      "title": "These fast-growing ETFs aim for yields as high as 17.5%. But here’s the catch.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/these-fast-growing-etfs-aim-for-yields-as-high-as-17-5-but-heres-the-catch-6f0a3d43?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-17T21:22:00.000Z",
+      "published": "2026-09-18T16:11:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "35 分鐘前"
     },
     {
-      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+      "title": "A happier retirement contains these 3 elements",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-17T21:22:00.000Z",
+      "published": "2026-09-18T15:35:00.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-17T21:09:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Tesla’s upcoming product frenzy could leave investors disappointed",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-17T20:23:00.000Z",
-      "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Pet insurance or savings account: What’s the best way to plan for a big vet bill?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-17T20:19:00.000Z",
-      "why": null,
-      "ago": "12 小時前"
+      "ago": "1 小時前"
     }
   ],
   "errors": []

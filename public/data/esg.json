@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-18T08:03:29.262Z",
-  "updatedLocal": "2026/9/18 16:03:29",
+  "updated": "2026-09-18T16:45:49.225Z",
+  "updatedLocal": "2026/9/19 00:45:49",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-17T20:14:22.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "How Royal Mail will use AI to calculate supplier emissions",
@@ -26,7 +26,73 @@
       "group": null,
       "published": "2026-09-17T19:30:51.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "THIS WEEK: Practical actions to drive circularity across the business value chain",
+      "summary": "This week, edie will hold its new webinar exploring how organisations can turn circular economy commitments into practical, measurable action across the business value chain.",
+      "url": "https://www.edie.net/two-weeks-to-go-practical-actions-to-drive-circularity-across-the-business-value-chain/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-18T15:00:41.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Sustainability Uncovered episode 49: Bio-based materials and building with nature",
+      "summary": "The latest episode of edie’s long-standing Sustainability Uncovered podcast is now live.",
+      "url": "https://www.edie.net/sustainability-uncovered-episode-49-bio-based-materials-and-building-with-nature/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-18T14:57:16.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Pharmaceutical giants collaborate on supply chain clean heat initiative",
+      "summary": "Pharmaceutical companies Sanofi, UCB and Opella have joined AstraZeneca as founding members of the Clean Heat Program to help organisations across the value chain switch to low-carbon heating alternatives.",
+      "url": "https://www.edie.net/pharmaceutical-giants-collaborate-on-supply-chain-clean-heat-initiative/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-18T13:34:32.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Hitachi’s data storage subsidiary has 2040 net-zero target validated by SBTi",
+      "summary": "Hitachi’s data storage and AI subsidiary has had near- and long-term targets to reduce emissions and reach net-zero by 2040 validated by the Science Based Targets initiative (SBTi).",
+      "url": "https://www.edie.net/hitachis-data-storage-subsidiary-has-2040-net-zero-target-validated-by-sbti/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-18T10:56:56.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Masterclass: UK SRS: How your business can prepare now",
+      "summary": "Event Date: 10/11/2026 | 1:00 pm UK | 8:00 am US East Coast ET | 5:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST Join the Edie webinar Masterclass on 10 November 2026 to learn how your business can prepare for UK SRS.",
+      "url": "https://www.edie.net/masterclass-uk-srs-how-your-business-can-prepare-now/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-18T10:00:57.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Implementation of global agreements needs deeper integration – the UNCCD COP17 provides a pathway",
+      "summary": "At a time when our global order appears increasingly fragile, the recent UN summit in Mongolia addressing land health and drought made clear that multilateral cooperation is more necessary than ever, says WWF's global food and agriculture leader, João Campari.",
+      "url": "https://www.edie.net/implementation-of-global-agreements-needs-deeper-integration-the-unccd-cop17-provides-a-pathway/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-18T08:28:11.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "COP31 Action Tracker: Crossing 1.5C, co-host controversy and Burnham’s first summit",
@@ -37,84 +103,18 @@
       "group": null,
       "published": "2026-09-18T04:00:26.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "edie launches Countdown to COP31 ahead of UN climate summit in Türkiye",
-      "summary": "With less than two months until COP31 begins in Antalya, edie is hosting a series of exclusive digital content and events to set the scene and keep readers informed of key climate diplomacy news COP31 is the UN’s 31st annual climate summit.",
+      "summary": "With less than two months until COP31 begins in Antalya, edie is hosting a series of exclusive digital content and events to set the scene and keep readers informed of key climate diplomacy news.",
       "url": "https://www.edie.net/edie-launches-countdown-to-cop31-ahead-of-un-climate-summit-in-turkiye/",
       "source": "edie",
       "tag": "國際",
       "group": null,
       "published": "2026-09-18T02:00:09.000Z",
       "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "45-minute Masterclass: What SMEs need to know before investing in solar",
-      "summary": "Event Date: 05/11/2026 | 1:00 pm UK | 8:00 am US East Coast ET | 5:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST This webinar, delivered in partnership with British Gas, will explore how SMEs can overcome the key investment and deployment challenges surrounding onsite solar power, and maximise the returns on investment.",
-      "url": "https://www.edie.net/45-minute-masterclass-what-smes-need-to-know-before-investing-in-solar/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-17T14:29:22.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "MPs warn inconsistent Government messaging could undermine energy transition",
-      "summary": "MPs have urged the UK Government to change how it communicates the energy transition, with current messaging described as inconsistent, overly technical and too heavily focused on the “net-zero” target.",
-      "url": "https://www.edie.net/mps-warn-inconsistent-government-messaging-could-undermine-energy-transition/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-17T12:14:06.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Growing through M&A without losing sight of sustainability",
-      "summary": "Acquisitions can complicate sustainability targets and data, but they also offer opportunities to strengthen environmental programmes and build more resilient businesses, says Tate & Lyle chief executive Nick Hampton.",
-      "url": "https://www.edie.net/growing-through-ma-without-losing-sight-of-sustainability/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-17T09:36:46.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "52檔ESG與永續基金七檔持有高碳排企業 民團揭金管會評鑑漏洞",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243886",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-17T09:07:53.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "「冰川婚禮」：巴基斯坦村民在4000公尺高山「種冰」延續社區命脈",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243870",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-18T05:31:08.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "光纖無人機飛過留下滿林纜線 「光纖鳥巢」看見戰爭與生命的糾纏",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243868",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-18T01:21:01.000Z",
-      "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     }
   ],
   "errors": []

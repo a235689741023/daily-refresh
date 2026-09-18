@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-18T08:03:29.262Z",
-  "updatedLocal": "2026/9/18 16:03:29",
+  "updated": "2026-09-18T16:45:49.225Z",
+  "updatedLocal": "2026/9/19 00:45:49",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,7 @@
       "group": "ai",
       "published": "2026-09-18T00:09:23.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "How Claude is uplifting biomolecular modeling",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-09-17T19:28:17.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-09-17T17:34:30.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Inside Claude for Financial Advisors",
@@ -57,7 +57,7 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-18T05:49:01.000Z",
+      "published": "2026-09-18T14:58:18.000Z",
       "why": null,
       "ago": "2 小時前"
     },
@@ -70,18 +70,18 @@
       "group": "ai",
       "published": "2026-09-17T12:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Making global data easier to explore",
-      "summary": "UN System Data Commons is an open, AI-ready platform integrating critical global statistics into a single searchable resource.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "source": "Google AI Blog",
-      "tag": "模型",
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "summary": "But attendees had so many more questions than we had time to answer in the 30 minute session.",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-09-17T20:00:00.000Z",
+      "published": "2026-09-18T11:29:22.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "5 小時前"
     }
   ],
   "errors": []
