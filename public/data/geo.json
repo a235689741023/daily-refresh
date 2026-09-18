@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-17T17:20:24.973Z",
-  "updatedLocal": "2026/9/18 01:20:24",
+  "updated": "2026-09-18T00:30:57.848Z",
+  "updatedLocal": "2026/9/18 08:30:57",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,40 @@
       "group": "gis",
       "published": "2026-09-13T09:02:11.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
+    },
+    {
+      "title": "Measurements for understanding the pace of AI development inside frontier labs",
+      "summary": "Measurements for understanding the pace of AI development inside frontier labs AI systems are becoming exponentially more powerful and have begun to automate more of the process of building themselves.",
+      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-18T00:00:00.000Z",
+      "why": null,
+      "ago": "31 分鐘前"
+    },
+    {
+      "title": "Introducing the Life Sciences Verification Program",
+      "summary": "The LSVP is designed to enable life science professionals to use our models across a wide range of tasks that are currently blocked in our generally available Fable models, like drug discovery, research biology, clinical development, and manufacturing.",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-17T17:34:30.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "How Claude is uplifting biomolecular modeling",
+      "summary": "In this post, we share how Claude made the open-source models that scientists use to predict and design biomolecules faster and more memory-efficient.",
+      "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-17T19:28:17.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "Inside Claude for Financial Advisors",
@@ -24,62 +57,29 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-17T14:44:49.000Z",
+      "published": "2026-09-17T23:45:27.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "46 分鐘前"
     },
     {
-      "title": "Claude Camp for Customers",
-      "summary": "A week of sessions just for APAC customers to learn, explore, and get to value more quickly with Claude.",
-      "url": "https://www.anthropic.com/events/claude-camp-for-customers",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-16T19:32:41.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Scenarios for our Economic Future",
-      "summary": "We don’t know yet how AI will reshape the economy. Will it lead to unprecedented growth? Widespread unemployment?",
-      "url": "https://www.anthropic.com/institute/econ-scenarios",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-17T12:06:30.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Our framework for reporting model misalignment",
-      "summary": "We are sharing a new framework for tracking, investigating, and disclosing instances of model misalignment at OpenAI, along with six reports on unexpected or concerning model behavior we’ve observed in the last six months.",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "summary": "Cooley’s GO Public offering uses ChatGPT Work to surface issues earlier, focus expertise, and help clients reach market faster.",
+      "url": "https://openai.com/index/cooley-gopublic",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-16T17:00:00.000Z",
+      "published": "2026-09-17T12:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "13 小時前"
     },
     {
-      "title": "Helping older adults use AI in everyday life",
-      "summary": "In collaboration with OATS, bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities AI should be useful and accessible to everyone.",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "title": "Introducing Astra for Law",
+      "summary": "Our most powerful model, configured into a new AI foundation for law.",
+      "url": "https://openai.com/index/astra-for-law",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-16T16:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Reimagining advertising with AI",
-      "summary": "Introducing new AI-powered experiences for ChatGPT Ads. Today, we’re introducing new AI-powered experiences to make ads more useful for people and advertising easier for businesses.",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-16T13:00:00.000Z",
+      "published": "2026-09-17T00:00:00.000Z",
       "why": null,
       "ago": "昨日"
     }

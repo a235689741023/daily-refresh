@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-17T17:20:24.973Z",
-  "updatedLocal": "2026/9/18 01:20:24",
+  "updated": "2026-09-18T00:30:57.848Z",
+  "updatedLocal": "2026/9/18 08:30:57",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
+      "summary": "Securitize surged Thursday after federal regulators greenlit the issuing of tokenized stocks on some trading platforms in the U.S. The tokenization name was last up 14%.",
+      "url": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-17T17:59:51.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
       "summary": "BEIJING — The Chinese artificial intelligence startup behind the Kimi model said Thursday that financial industry giants, including investment banks, funds and venture capital firms are using its Kimi models on AI tools.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-09-17T14:30:25.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-09-17T09:00:01.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Here are five key takeaways from Wednesday's Fed rate hike",
@@ -37,18 +48,7 @@
       "group": null,
       "published": "2026-09-16T21:23:51.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Here is what changed in the new Fed statement under Warsh",
-      "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in July.",
-      "url": "https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-16T18:18:54.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Fed approves interest rate hike, signals one more to come this year",
@@ -58,17 +58,6 @@
       "tag": "大盤",
       "group": null,
       "published": "2026-09-16T21:07:51.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Senate is still a toss-up, but Democrats now have slight edge, prediction market traders think",
-      "summary": "The battle for the U.S. Senate is still tight, but prediction market traders think Democrats have close to their best chances yet of taking the upper chamber.",
-      "url": "https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-16T16:26:41.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -81,29 +70,7 @@
       "group": null,
       "published": "2026-09-17T12:27:10.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
-      "summary": "Transportation companies, the lifeblood of the U.S. economy , are flashing warning signs as diesel costs hit records.",
-      "url": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-09-16T20:22:24.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
-      "summary": "Consumers are facing a double-whammy of jumping oil prices and Treasury yields amid the U.S. war with Iran that is leaving them increasingly cash-strapped.",
-      "url": "https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-09-16T17:32:22.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "UK inflation jumps to 3.1% as energy costs soar",
@@ -114,7 +81,40 @@
       "group": null,
       "published": "2026-09-17T07:36:04.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
+    },
+    {
+      "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-17T21:22:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-17T21:22:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-17T21:09:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
     }
   ],
   "errors": []
