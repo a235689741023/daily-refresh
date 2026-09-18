@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-18T00:30:57.848Z",
-  "updatedLocal": "2026/9/18 08:30:57",
+  "updated": "2026-09-18T08:03:29.262Z",
+  "updatedLocal": "2026/9/18 16:03:29",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-17T20:14:22.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "How Royal Mail will use AI to calculate supplier emissions",
@@ -26,7 +26,29 @@
       "group": null,
       "published": "2026-09-17T19:30:51.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
+    },
+    {
+      "title": "COP31 Action Tracker: Crossing 1.5C, co-host controversy and Burnham’s first summit",
+      "summary": "With COP31 in Türkiye less than two months away, this regular members-only series from edie will provide a temperature check on global climate action, including news from businesses, governments and other key organisations ahead of the summit.",
+      "url": "https://www.edie.net/cop31-action-tracker-crossing-1-5c-co-host-controversy-and-burnhams-first-summit/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-18T04:00:26.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "edie launches Countdown to COP31 ahead of UN climate summit in Türkiye",
+      "summary": "With less than two months until COP31 begins in Antalya, edie is hosting a series of exclusive digital content and events to set the scene and keep readers informed of key climate diplomacy news COP31 is the UN’s 31st annual climate summit.",
+      "url": "https://www.edie.net/edie-launches-countdown-to-cop31-ahead-of-un-climate-summit-in-turkiye/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-18T02:00:09.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "45-minute Masterclass: What SMEs need to know before investing in solar",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-09-17T14:29:22.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "MPs warn inconsistent Government messaging could undermine energy transition",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-09-17T12:14:06.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Growing through M&A without losing sight of sustainability",
@@ -59,43 +81,10 @@
       "group": null,
       "published": "2026-09-17T09:36:46.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "Report: Businesses increase climate adaptation spending as net-zero progress slows",
-      "summary": "Executives increasingly view climate adaptation not as a secondary concern, but as essential to business survival.",
-      "url": "https://www.edie.net/report-businesses-increase-climate-adaptation-spending-as-net-zero-progress-slows/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-17T08:00:46.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "NEXT WEEK: Practical actions to drive circularity across the business value chain",
-      "summary": "In a week's time, edie will hold its new webinar exploring how organisations can turn circular economy commitments into practical, measurable action across the business value chain.",
-      "url": "https://www.edie.net/two-weeks-to-go-practical-actions-to-drive-circularity-across-the-business-value-chain/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-17T05:22:41.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Technology briefing: Will second-life EV batteries unlock on-site energy optimisation?",
-      "summary": "Millions of EV batteries will reach the end of their useful life in the coming decades. Innovators are putting them to new uses, yet challenges remain.",
-      "url": "https://www.edie.net/technology-briefing-will-second-life-ev-batteries-unlock-on-site-energy-optimisation/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-17T04:00:23.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "52檔ESG與永續基金七檔持有高碳排企業 民團揭金管會評鑑漏洞 - e-info.org.tw",
+      "title": "52檔ESG與永續基金七檔持有高碳排企業 民團揭金管會評鑑漏洞",
       "summary": null,
       "url": "https://e-info.org.tw/node/243886",
       "source": "環境資訊中心",
@@ -103,18 +92,29 @@
       "group": null,
       "published": "2026-09-17T09:07:53.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "水價凍漲32年、台水今年估虧63億 台水：選舉、油電價格都是考量 - e-info.org.tw",
+      "title": "「冰川婚禮」：巴基斯坦村民在4000公尺高山「種冰」延續社區命脈",
       "summary": null,
-      "url": "https://e-info.org.tw/node/243883",
+      "url": "https://e-info.org.tw/node/243870",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-09-17T02:57:40.000Z",
+      "published": "2026-09-18T05:31:08.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "3 小時前"
+    },
+    {
+      "title": "光纖無人機飛過留下滿林纜線 「光纖鳥巢」看見戰爭與生命的糾纏",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243868",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-09-18T01:21:01.000Z",
+      "why": null,
+      "ago": "7 小時前"
     }
   ],
   "errors": []

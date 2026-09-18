@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-18T00:30:57.848Z",
-  "updatedLocal": "2026/9/18 08:30:57",
+  "updated": "2026-09-18T08:03:29.262Z",
+  "updatedLocal": "2026/9/18 16:03:29",
   "digest": null,
   "watch": [],
   "items": [
@@ -24,20 +24,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-18T00:00:00.000Z",
+      "published": "2026-09-18T00:09:23.000Z",
       "why": null,
-      "ago": "31 分鐘前"
-    },
-    {
-      "title": "Introducing the Life Sciences Verification Program",
-      "summary": "The LSVP is designed to enable life science professionals to use our models across a wide range of tasks that are currently blocked in our generally available Fable models, like drug discovery, research biology, clinical development, and manufacturing.",
-      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-17T17:34:30.000Z",
-      "why": null,
-      "ago": "7 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "How Claude is uplifting biomolecular modeling",
@@ -48,7 +37,18 @@
       "group": "ai",
       "published": "2026-09-17T19:28:17.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
+    },
+    {
+      "title": "Introducing the Life Sciences Verification Program",
+      "summary": "The LSVP is designed to enable life science professionals to use our models across a wide range of tasks that are currently blocked in our generally available Fable models, like drug discovery, research biology, clinical development, and manufacturing.",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-17T17:34:30.000Z",
+      "why": null,
+      "ago": "14 小時前"
     },
     {
       "title": "Inside Claude for Financial Advisors",
@@ -57,9 +57,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-17T23:45:27.000Z",
+      "published": "2026-09-18T05:49:01.000Z",
       "why": null,
-      "ago": "46 分鐘前"
+      "ago": "2 小時前"
     },
     {
       "title": "How Cooley is accelerating IPO work with ChatGPT",
@@ -70,18 +70,18 @@
       "group": "ai",
       "published": "2026-09-17T12:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "Introducing Astra for Law",
-      "summary": "Our most powerful model, configured into a new AI foundation for law.",
-      "url": "https://openai.com/index/astra-for-law",
-      "source": "OpenAI",
+      "title": "Making global data easier to explore",
+      "summary": "UN System Data Commons is an open, AI-ready platform integrating critical global statistics into a single searchable resource.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "source": "Google AI Blog",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-17T00:00:00.000Z",
+      "published": "2026-09-17T20:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "12 小時前"
     }
   ],
   "errors": []
