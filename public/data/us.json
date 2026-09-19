@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-18T16:45:49.225Z",
-  "updatedLocal": "2026/9/19 00:45:49",
+  "updated": "2026-09-19T00:26:31.429Z",
+  "updatedLocal": "2026/9/19 08:26:31",
   "digest": null,
   "watch": [],
   "items": [
@@ -13,9 +13,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-18T16:33:43.000Z",
+      "published": "2026-09-18T18:28:31.000Z",
       "why": null,
-      "ago": "12 分鐘前"
+      "ago": "6 小時前"
     },
     {
       "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
@@ -26,18 +26,7 @@
       "group": null,
       "published": "2026-09-18T12:04:02.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
-      "summary": "Securitize surged Thursday after federal regulators greenlit the issuing of tokenized stocks on some trading platforms in the U.S. The tokenization name was last up 14%.",
-      "url": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-17T17:59:51.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
@@ -48,7 +37,7 @@
       "group": null,
       "published": "2026-09-18T08:41:11.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
@@ -59,62 +48,73 @@
       "group": null,
       "published": "2026-09-18T07:40:29.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "Why investors’ best move in reaction to Fed’s rate hike is doing nothing at all",
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/why-investors-best-move-in-reaction-to-feds-rate-hike-is-doing-nothing-at-all-6ff56b4c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-18T16:39:00.000Z",
+      "published": "2026-09-18T23:30:00.000Z",
       "why": null,
-      "ago": "7 分鐘前"
+      "ago": "57 分鐘前"
     },
     {
-      "title": "Two signs investors don’t have to fear an AI slowdown",
+      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-18T16:33:00.000Z",
-      "why": null,
-      "ago": "13 分鐘前"
-    },
-    {
-      "title": "Netflix is too focused on podcasts and not enough on good shows, analysts say",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/netflix-is-too-focused-on-podcasts-and-not-enough-on-good-shows-analysts-say-be758c93?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-18T16:23:00.000Z",
-      "why": null,
-      "ago": "23 分鐘前"
-    },
-    {
-      "title": "These fast-growing ETFs aim for yields as high as 17.5%. But here’s the catch.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/these-fast-growing-etfs-aim-for-yields-as-high-as-17-5-but-heres-the-catch-6f0a3d43?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-18T16:11:00.000Z",
-      "why": null,
-      "ago": "35 分鐘前"
-    },
-    {
-      "title": "A happier retirement contains these 3 elements",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-18T15:35:00.000Z",
+      "published": "2026-09-18T23:00:00.000Z",
       "why": null,
       "ago": "1 小時前"
+    },
+    {
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-18T22:45:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Why investors shouldn’t be spooked by fears of an October stock-market crash",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-18T22:41:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-18T21:16:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-18T21:14:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
     }
   ],
   "errors": []
