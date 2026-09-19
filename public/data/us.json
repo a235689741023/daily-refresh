@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-19T00:26:31.429Z",
-  "updatedLocal": "2026/9/19 08:26:31",
+  "updated": "2026-09-19T07:53:56.912Z",
+  "updatedLocal": "2026/9/19 15:53:56",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-18T18:28:31.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-18T12:04:02.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
@@ -37,18 +37,7 @@
       "group": null,
       "published": "2026-09-18T08:41:11.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
-      "summary": "Japanese markets reacted in a seemingly counterintuitive fashion on Friday after the country's central bank hiked benchmark interest rates to their highest in 31 years.",
-      "url": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-09-18T07:40:29.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-09-18T23:30:00.000Z",
       "why": null,
-      "ago": "57 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-09-18T23:00:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
@@ -81,7 +70,7 @@
       "group": null,
       "published": "2026-09-18T22:45:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Why investors shouldn’t be spooked by fears of an October stock-market crash",
@@ -92,7 +81,7 @@
       "group": null,
       "published": "2026-09-18T22:41:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
@@ -103,7 +92,7 @@
       "group": null,
       "published": "2026-09-18T21:16:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
@@ -114,7 +103,18 @@
       "group": null,
       "published": "2026-09-18T21:14:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
+    },
+    {
+      "title": "Stocks are failing the ‘breadth’ test, but options traders still see reason to buy",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-18T20:48:00.000Z",
+      "why": null,
+      "ago": "11 小時前"
     }
   ],
   "errors": []

@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-19T00:26:31.429Z",
-  "updatedLocal": "2026/9/19 08:26:31",
+  "updated": "2026-09-19T07:53:56.912Z",
+  "updatedLocal": "2026/9/19 15:53:56",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "USRA Contributes Planetary Science Expertise to NASA-IBM Lunar Foundation Model",
+      "summary": null,
+      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+      "source": "USRA",
+      "tag": "研究",
+      "group": "gis",
+      "published": "2026-09-18T12:47:00.000Z",
+      "why": null,
+      "ago": "19 小時前"
+    },
     {
       "title": "NASA and IBM Launch Lunar AI Model, Space Brief 13 Sep 2026",
       "summary": "NASA and IBM have released a new AI model designed for lunar research.",
@@ -20,13 +31,24 @@
     {
       "title": "Partnering with Accenture on embedded evaluation",
       "summary": "We're partnering with Accenture on independent evaluation of frontier AI.",
-      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation?\\=",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-18T23:26:15.000Z",
+      "published": "2026-09-18T20:10:07.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Measurements for understanding the pace of AI development inside frontier labs",
+      "summary": "Measurements for understanding the pace of AI development inside frontier labs AI systems are becoming exponentially more powerful and have begun to automate more of the process of building themselves.",
+      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-19T07:45:41.000Z",
+      "why": null,
+      "ago": "8 分鐘前"
     },
     {
       "title": "Inside Claude for Financial Advisors",
@@ -37,29 +59,29 @@
       "group": "ai",
       "published": "2026-09-18T15:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "Measurements for understanding the pace of AI development inside frontier labs",
-      "summary": "Measurements for understanding the pace of AI development inside frontier labs AI systems are becoming exponentially more powerful and have begun to automate more of the process of building themselves.",
-      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "title": "- partner-sso.anthropic.com",
+      "summary": null,
+      "url": "https://partner-sso.anthropic.com/",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-18T00:09:23.000Z",
+      "published": "2026-09-19T02:00:02.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
     },
     {
-      "title": "How Claude is uplifting biomolecular modeling",
-      "summary": "In this post, we share how Claude made the open-source models that scientists use to predict and design biomolecules faster and more memory-efficient.",
-      "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-      "source": "Anthropic",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "summary": "OpenAI’s approach to protecting, empowering, and creating safer experiences for young people.",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-17T19:28:17.000Z",
+      "published": "2026-09-18T12:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "20 小時前"
     },
     {
       "title": "Could AI really kill us all? Your questions, answered.",
@@ -70,18 +92,7 @@
       "group": "ai",
       "published": "2026-09-18T11:29:22.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "New experts join Google’s AI & Economy team",
-      "summary": "Nobel Laureate Philippe Aghion, Professor Ajay Agrawal, and leading researchers join Google’s AI & Economy program to expand our scientific understanding of AI’s impact on economic activity worldwide.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "source": "Google AI Blog",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-18T14:00:00.000Z",
-      "why": null,
-      "ago": "10 小時前"
+      "ago": "20 小時前"
     }
   ],
   "errors": []
