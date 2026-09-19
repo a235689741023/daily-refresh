@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-19T07:53:56.912Z",
-  "updatedLocal": "2026/9/19 15:53:56",
+  "updated": "2026-09-19T16:07:27.761Z",
+  "updatedLocal": "2026/9/20 00:07:27",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-18T18:28:31.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
@@ -26,29 +26,18 @@
       "group": null,
       "published": "2026-09-18T12:04:02.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
-      "summary": "BEIJING — The Chinese artificial intelligence startup behind the Kimi model said Thursday that financial industry giants, including investment banks, funds and venture capital firms are using its Kimi models on AI tools.",
-      "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+      "summary": "Goldman Sachs identified a potential culprit for sour consumer sentiment readings: A decline in happiness. The consumer sentiment index tracked by the University of Michigan hit record lows this year.",
+      "url": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-09-18T08:41:11.000Z",
+      "published": "2026-09-19T12:50:49.000Z",
       "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-18T23:30:00.000Z",
-      "why": null,
-      "ago": "8 小時前"
+      "ago": "3 小時前"
     },
     {
       "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
@@ -57,9 +46,42 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-18T23:00:00.000Z",
+      "published": "2026-09-19T16:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "7 分鐘前"
+    },
+    {
+      "title": "Like Costco, Walmart will sell Medicare Advantage plans",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-19T15:57:00.000Z",
+      "why": null,
+      "ago": "10 分鐘前"
+    },
+    {
+      "title": "Couples with a big age gap need more money — they have to plan for two retirements",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/couples-with-a-big-age-gap-need-more-money-they-have-to-plan-for-two-retirements-1454b8c2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-19T15:47:00.000Z",
+      "why": null,
+      "ago": "20 分鐘前"
+    },
+    {
+      "title": "Want to land more job interviews? Stop letting AI write your résumé.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/are-ai-written-resumes-more-likely-to-get-you-a-job-the-answer-may-surprise-you-ae408827?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-19T15:20:00.000Z",
+      "why": null,
+      "ago": "47 分鐘前"
     },
     {
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
@@ -68,53 +90,31 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-18T22:45:00.000Z",
+      "published": "2026-09-19T15:15:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "52 分鐘前"
     },
     {
-      "title": "Why investors shouldn’t be spooked by fears of an October stock-market crash",
+      "title": "How to create a ‘forever paycheck’ without paying for an annuity",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-18T22:41:00.000Z",
+      "published": "2026-09-19T15:14:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "53 分鐘前"
     },
     {
-      "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
+      "title": "15 stocks that have grown dividends the most — and nearly all have beaten the S&P 500",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/15-stocks-that-have-grown-dividends-the-most-and-nearly-all-have-beaten-the-s-p-500-6d8923fc?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-18T21:16:00.000Z",
+      "published": "2026-09-19T14:57:00.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-18T21:14:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Stocks are failing the ‘breadth’ test, but options traders still see reason to buy",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-18T20:48:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
+      "ago": "1 小時前"
     }
   ],
   "errors": []

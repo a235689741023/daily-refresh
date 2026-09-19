@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-19T07:53:56.912Z",
-  "updatedLocal": "2026/9/19 15:53:56",
+  "updated": "2026-09-19T16:07:27.761Z",
+  "updatedLocal": "2026/9/20 00:07:27",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-18T15:00:41.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Sustainability Uncovered episode 49: Bio-based materials and building with nature",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-18T14:57:16.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Pharmaceutical giants collaborate on supply chain clean heat initiative",
@@ -37,62 +37,29 @@
       "group": null,
       "published": "2026-09-18T13:34:32.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Hitachi’s data storage subsidiary has 2040 net-zero target validated by SBTi",
-      "summary": "Hitachi’s data storage and AI subsidiary has had near- and long-term targets to reduce emissions and reach net-zero by 2040 validated by the Science Based Targets initiative (SBTi).",
-      "url": "https://www.edie.net/hitachis-data-storage-subsidiary-has-2040-net-zero-target-validated-by-sbti/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-18T10:56:56.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Masterclass: UK SRS: How your business can prepare now",
-      "summary": "Event Date: 10/11/2026 | 1:00 pm UK | 8:00 am US East Coast ET | 5:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST Join the Edie webinar Masterclass on 10 November 2026 to learn how your business can prepare for UK SRS.",
-      "url": "https://www.edie.net/masterclass-uk-srs-how-your-business-can-prepare-now/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-18T10:00:57.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Implementation of global agreements needs deeper integration – the UNCCD COP17 provides a pathway",
-      "summary": "At a time when our global order appears increasingly fragile, the recent UN summit in Mongolia addressing land health and drought made clear that multilateral cooperation is more necessary than ever, says WWF's global food and agriculture leader, João Campari.",
-      "url": "https://www.edie.net/implementation-of-global-agreements-needs-deeper-integration-the-unccd-cop17-provides-a-pathway/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-18T08:28:11.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "國際人權兩公約國家報告審查開跑 民團批不見居住權改革",
+      "title": "中科四期二階環評完成 十年纏鬥終結",
       "summary": null,
-      "url": "https://www.e-info.org.tw/node/202492",
+      "url": "https://www.e-info.org.tw/node/211777",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-09-18T12:21:13.000Z",
+      "published": "2026-09-18T12:59:16.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "環境資訊電子報 2016/10/26",
+      "title": "南迴藝術計劃，《在屾》用廢棄鋼筋水泥，打造一座鏤空山",
       "summary": null,
-      "url": "https://www.e-info.org.tw/node/200758",
+      "url": "https://www.e-info.org.tw/node/212104",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-09-18T12:02:20.000Z",
+      "published": "2026-09-18T12:55:13.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "受夠跟收音機一起爬山？國家級「寂靜山徑」 傾聽自己的內在森林",
@@ -103,7 +70,7 @@
       "group": null,
       "published": "2026-09-18T12:49:20.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "「讓小熊健康回家」 黃美秀：民眾自我克制是關鍵",
@@ -114,7 +81,40 @@
       "group": null,
       "published": "2026-09-18T12:39:21.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "0709電子報│世界最大核融合設施在南法 施工進度55%",
+      "summary": null,
+      "url": "https://www.e-info.org.tw/node/212633",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-09-18T12:31:17.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "0612電子報│不只是裝不裝冷（暖）氣的問題 德國十年前就做到老建築大翻修 省下40%電力",
+      "summary": null,
+      "url": "https://www.e-info.org.tw/node/212160",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-09-18T12:27:15.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "發電前注意！ 減少風機鳥擊不是夢 夜間「遷徙預報」全美上線",
+      "summary": null,
+      "url": "https://www.e-info.org.tw/node/211874",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-09-18T12:23:14.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []

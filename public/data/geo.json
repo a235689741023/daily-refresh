@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-19T07:53:56.912Z",
-  "updatedLocal": "2026/9/19 15:53:56",
+  "updated": "2026-09-19T16:07:27.761Z",
+  "updatedLocal": "2026/9/20 00:07:27",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-09-18T12:47:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "NASA and IBM Launch Lunar AI Model, Space Brief 13 Sep 2026",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-09-18T20:10:07.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Measurements for understanding the pace of AI development inside frontier labs",
@@ -46,9 +46,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-19T07:45:41.000Z",
+      "published": "2026-09-19T16:00:04.000Z",
       "why": null,
-      "ago": "8 分鐘前"
+      "ago": "7 分鐘前"
     },
     {
       "title": "Inside Claude for Financial Advisors",
@@ -59,18 +59,7 @@
       "group": "ai",
       "published": "2026-09-18T15:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "- partner-sso.anthropic.com",
-      "summary": null,
-      "url": "https://partner-sso.anthropic.com/",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-19T02:00:02.000Z",
-      "why": null,
-      "ago": "6 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Introducing the Australian Youth Safety Blueprint",
@@ -81,7 +70,7 @@
       "group": "ai",
       "published": "2026-09-18T12:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Could AI really kill us all? Your questions, answered.",
@@ -92,7 +81,18 @@
       "group": "ai",
       "published": "2026-09-18T11:29:22.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "New experts join Google’s AI & Economy team",
+      "summary": "Nobel Laureate Philippe Aghion, Professor Ajay Agrawal, and leading researchers join Google’s AI & Economy program to expand our scientific understanding of AI’s impact on economic activity worldwide.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "source": "Google AI Blog",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-18T14:00:00.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []
