@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-19T16:07:27.761Z",
-  "updatedLocal": "2026/9/20 00:07:27",
+  "updated": "2026-09-20T00:11:35.538Z",
+  "updatedLocal": "2026/9/20 08:11:35",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,18 @@
       "group": "gis",
       "published": "2026-09-13T09:02:11.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
+    },
+    {
+      "title": "Measurements for understanding the pace of AI development inside frontier labs",
+      "summary": "Measurements for understanding the pace of AI development inside frontier labs AI systems are becoming exponentially more powerful and have begun to automate more of the process of building themselves.",
+      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-19T23:59:38.000Z",
+      "why": null,
+      "ago": "12 分鐘前"
     },
     {
       "title": "Partnering with Accenture on embedded evaluation",
@@ -37,62 +48,51 @@
       "group": "ai",
       "published": "2026-09-18T20:10:07.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Measurements for understanding the pace of AI development inside frontier labs",
-      "summary": "Measurements for understanding the pace of AI development inside frontier labs AI systems are becoming exponentially more powerful and have begun to automate more of the process of building themselves.",
-      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-19T16:00:04.000Z",
-      "why": null,
-      "ago": "7 分鐘前"
-    },
-    {
-      "title": "Inside Claude for Financial Advisors",
-      "summary": "Most advisors spend more of their week getting ready for client meetings and following up on them than sitting with clients.",
-      "url": "https://www.anthropic.com/webinars/inside-claude-for-financial-advisors",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-18T15:00:00.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "summary": "OpenAI’s approach to protecting, empowering, and creating safer experiences for young people.",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "2028 Democrats like Newsom and Pritzker lean in on AI safety as Washington stalls",
+      "summary": null,
+      "url": "https://www.axios.com/2026/09/18/newsom-ai-2028-focus",
+      "source": "Axios",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-09-18T12:00:00.000Z",
+      "published": "2026-09-19T19:22:08.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "5 小時前"
     },
     {
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "summary": "But attendees had so many more questions than we had time to answer in the 30 minute session.",
-      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
+      "title": "Can Democrats Unite on AI Regulation?",
+      "summary": "Alex Bores has a plan to make AI safeguards a central issue in the 2028 Democratic presidential primaries.",
+      "url": "https://www.levernews.com/can-democrats-unite-on-ai-regulation/",
+      "source": "The Lever",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-09-18T11:29:22.000Z",
+      "published": "2026-09-19T17:45:58.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
     },
     {
-      "title": "New experts join Google’s AI & Economy team",
-      "summary": "Nobel Laureate Philippe Aghion, Professor Ajay Agrawal, and leading researchers join Google’s AI & Economy program to expand our scientific understanding of AI’s impact on economic activity worldwide.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "source": "Google AI Blog",
-      "tag": "模型",
+      "title": "Clip: Why Trump is quick to dismiss concerns about AI safety",
+      "summary": "Just as AI’s threats to humanity reached a fever pitch with tech CEOs publicly calling for government regulation, Congress left Washington to return to the campaign trail six weeks before Election Day.",
+      "url": "https://www.pbs.org/weta/washingtonweek/video/2026/09/why-trump-is-quick-to-dismiss-concerns-about-ai-safety",
+      "source": "PBS",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-09-18T14:00:00.000Z",
+      "published": "2026-09-19T01:15:14.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "Mom Urges Congress to Pass AI Safety Laws After Teen’s Fatal Overdose",
+      "summary": null,
+      "url": "https://people.com/mom-urges-congress-to-pass-ai-safety-laws-after-teens-fatal-overdose-12129442",
+      "source": "People.com",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-19T21:34:32.000Z",
+      "why": null,
+      "ago": "3 小時前"
     }
   ],
   "errors": []
