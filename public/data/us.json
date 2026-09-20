@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-20T08:23:44.016Z",
-  "updatedLocal": "2026/9/20 16:23:44",
+  "updated": "2026-09-20T16:34:10.251Z",
+  "updatedLocal": "2026/9/21 00:34:10",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
+      "summary": "Fewer, pricier flights. Freight surcharges. Manufacturers hoarding inventory. Even bankruptcy.",
+      "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-20T12:47:23.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "France’s wine production nears a 70-year low, leaving winemakers with tough choices",
       "summary": "Florent Latour, CEO of the largest owner of Grand Cru vineyards in Burgundy, spent the summer praying for rain.",
@@ -15,18 +26,40 @@
       "group": null,
       "published": "2026-09-20T05:00:01.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
-      "summary": "Goldman Sachs identified a potential culprit for sour consumer sentiment readings: A decline in happiness. The consumer sentiment index tracked by the University of Michigan hit record lows this year.",
-      "url": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
+      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
       "group": null,
-      "published": "2026-09-19T12:50:49.000Z",
+      "published": "2026-09-20T16:30:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "4 分鐘前"
+    },
+    {
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-20T15:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Snoopy cups at Starbucks and McDonald’s SpongeBob toys are commanding huge markups on eBay",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-20T14:08:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
@@ -35,9 +68,42 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-20T01:45:00.000Z",
+      "published": "2026-09-20T14:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "3 小時前"
+    },
+    {
+      "title": "China is chasing SpaceX and setting its sights on the global space economy",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-20T13:53:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-20T13:16:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Record diesel prices are exposing pain points in the stock market and economy",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-20T13:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
@@ -46,92 +112,10 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-20T01:30:00.000Z",
+      "published": "2026-09-20T12:46:00.000Z",
       "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-20T01:03:00.000Z",
-      "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-19T18:57:00.000Z",
-      "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "90% of retirees are making this miscalculation with their savings",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-19T18:40:00.000Z",
-      "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "Many young investors can’t afford to invest without their parents’ help",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-19T18:22:00.000Z",
-      "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "The future of retirement? Work until you die.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-19T17:53:00.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "These are the 10 biggest retirement fears — and what you can do about them",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-19T17:21:00.000Z",
-      "why": null,
-      "ago": "15 小時前"
+      "ago": "4 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "財報",
-      "url": "https://news.google.com/rss/search?q=earnings%20beat%20OR%20earnings%20miss%20guidance%20S%26P%20500&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "Reuters 財經",
-      "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20stock%20market%20OR%20Federal%20Reserve&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "Bloomberg",
-      "url": "https://news.google.com/rss/search?q=site%3Abloomberg.com%20markets%20OR%20earnings&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    }
-  ]
+  "errors": []
 }
