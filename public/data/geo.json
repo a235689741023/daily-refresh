@@ -1,88 +1,76 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-21T00:19:52.163Z",
-  "updatedLocal": "2026/9/21 08:19:52",
+  "updated": "2026-09-21T08:42:31.894Z",
+  "updatedLocal": "2026/9/21 16:42:31",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "USRA Contributes Planetary Science Expertise to NASA-IBM Lunar Foundation Model",
-      "summary": null,
-      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-      "source": "USRA",
-      "tag": "研究",
-      "group": "gis",
-      "published": "2026-09-18T12:47:00.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Measurements for understanding the pace of AI development inside frontier labs",
-      "summary": "Measurements for understanding the pace of AI development inside frontier labs AI systems are becoming exponentially more powerful and have begun to automate more of the process of building themselves.",
-      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-      "source": "Anthropic",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "summary": "OpenAI’s approach to protecting, empowering, and creating safer experiences for young people.",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-21T00:06:39.000Z",
+      "published": "2026-09-18T12:00:00.000Z",
       "why": null,
-      "ago": "13 分鐘前"
+      "ago": "3 天前"
     },
     {
-      "title": "The AI safety paradox | Op-Ed",
-      "summary": null,
-      "url": "https://www.seattletimes.com/opinion/the-ai-safety-paradox/",
-      "source": "The Seattle Times",
-      "tag": "政策",
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "summary": "But attendees had so many more questions than we had time to answer in the 30 minute session.",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-09-20T15:00:00.000Z",
+      "published": "2026-09-18T11:29:22.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "3 天前"
     },
     {
-      "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
-      "summary": "With the debate about regulating artificial intelligence raging in Washington this week, President Donald Trump picked up the phone to call his top ally on the subject: Nvidia CEO Jensen Huang.",
-      "url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
-      "source": "CNBC",
-      "tag": "政策",
+      "title": "New experts join Google’s AI & Economy team",
+      "summary": "Nobel Laureate Philippe Aghion, Professor Ajay Agrawal, and leading researchers join Google’s AI & Economy program to expand our scientific understanding of AI’s impact on economic activity worldwide.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "source": "Google AI Blog",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-09-20T11:00:01.000Z",
+      "published": "2026-09-18T14:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "3 天前"
     },
     {
-      "title": "Newsom sets November 16 deadline to study frontier AI kill switch",
-      "summary": "California Governor Gavin Newsom on September 18, 2026 signed Executive Order N-9-26, giving the state's Government Operations Agency until November 16, 2026 to deliver recommendations on whether California law should require a \"kill switch\" for frontier AI models, embed independent auditors inside the labs of the largest developers, and expand the list of safety incidents those companies must report to include loss-of-control events.",
-      "url": "https://ppc.land/newsom-sets-november-16-deadline-to-study-frontier-ai-kill-switch/",
-      "source": "ppc.land",
-      "tag": "政策",
+      "title": "Co-creating the future of fashion with Google",
+      "summary": "Two fashion designers created custom tools in Google Flow to help with set design and styling for New York Fashion Week.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "source": "Google AI Blog",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-09-20T08:18:08.000Z",
+      "published": "2026-09-18T13:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Jensen Huang Becomes Trump's Key AI Safety Advisor",
-      "summary": "Jensen Huang Becomes Trump's Key AI Safety Advisor Nvidia CEO's influence grows as world's most valuable company shapes policy PUBLISHED: Sun, Sep 20, 2026, 12:04 PM UTC | UPDATED: Sun, Sep 20, 2026, 11:51 PM UTC The Tech Buzz may earn a commission when you buy through links on this page.",
-      "url": "https://www.techbuzz.ai/articles/jensen-huang-becomes-trump-s-key-ai-safety-advisor",
-      "source": "The Tech Buzz",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-20T12:04:00.000Z",
-      "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "The AI safety debate: Why ‘pacing the frontier’ comes with pitfalls",
-      "summary": null,
-      "url": "https://indianexpress.com/article/explained/explained-ai/ai-safety-debate-frontier-development-regulation-china-explained-10885343/",
-      "source": "The Indian Express",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-20T01:30:09.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "3 天前"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "ArcGIS Blog",
+      "url": "https://news.google.com/rss/search?q=site%3Aesri.com%2Farcgis-blog&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "GIS × AI 研究",
+      "url": "https://news.google.com/rss/search?q=geospatial%20AI%20OR%20%22spatial%20AI%22%20OR%20%22remote%20sensing%22%20foundation%20model&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "Anthropic",
+      "url": "https://news.google.com/rss/search?q=site%3Aanthropic.com&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "AI 政策",
+      "url": "https://news.google.com/rss/search?q=%22AI%20Act%22%20OR%20%22frontier%20AI%22%20OR%20%22AI%20safety%22%20OR%20%22export%20controls%22%20AI%20regulation&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    }
+  ]
 }

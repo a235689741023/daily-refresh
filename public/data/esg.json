@@ -1,11 +1,33 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-21T00:19:52.163Z",
-  "updatedLocal": "2026/9/21 08:19:52",
+  "updated": "2026-09-21T08:42:31.894Z",
+  "updatedLocal": "2026/9/21 16:42:31",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "How Google, McKinsey and others got finance to say “yes” on nature-based carbon removals",
+      "summary": "Carbon markets have transformed over the past five years, with updated standards and rigorous due diligence frameworks giving sustainability leaders much more confidence in project design.",
+      "url": "https://trellis.net/article/google-mckinsey-symbiosis-coalition-offtakes/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-21T07:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "UKGBC’s regenerative housing framework and Nissan’s £170m hybrid EV investment: The sustainability success stories of the week",
+      "summary": "As part of our Mission Possible campaign, edie delivers this member-exclusive weekly round-up of five of the best sustainable business success stories of the week.",
+      "url": "https://www.edie.net/ukgbcs-regenerative-housing-framework-and-nissans-170m-hybrid-ev-investment-the-sustainability-success-stories-of-the-week/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-21T01:45:07.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "MPs call for flood insurance scheme reform over insurers’ fossil fuel links",
       "summary": "Cross-party MPs have called for changes to the UK’s Flood Re scheme after an investigation found that insurers benefiting from the public-private flood protection programme are also underwriting and investing in fossil fuel projects linked to rising climate risks.",
@@ -15,96 +37,116 @@
       "group": null,
       "published": "2026-09-20T23:01:45.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "10 小時前"
     },
     {
-      "title": "【破五】雞年可以積福，但千萬不可以積垃圾",
-      "summary": null,
-      "url": "https://www.e-info.org.tw/node/205798",
-      "source": "環境資訊中心",
-      "tag": "台灣",
+      "title": "THIS WEEK: Practical actions to drive circularity across the business value chain",
+      "summary": "This week, edie will hold its new webinar exploring how organisations can turn circular economy commitments into practical, measurable action across the business value chain.",
+      "url": "https://www.edie.net/two-weeks-to-go-practical-actions-to-drive-circularity-across-the-business-value-chain/",
+      "source": "edie",
+      "tag": "國際",
       "group": null,
-      "published": "2026-09-20T08:06:21.000Z",
+      "published": "2026-09-18T15:00:41.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "3 天前"
     },
     {
-      "title": "藻礁延長賽 第三接收站環現差初審 還需補件再審",
-      "summary": null,
-      "url": "https://www.e-info.org.tw/node/209642",
-      "source": "環境資訊中心",
-      "tag": "台灣",
+      "title": "Sustainability Uncovered episode 49: Bio-based materials and building with nature",
+      "summary": "The latest episode of edie’s long-standing Sustainability Uncovered podcast is now live.",
+      "url": "https://www.edie.net/sustainability-uncovered-episode-49-bio-based-materials-and-building-with-nature/",
+      "source": "edie",
+      "tag": "國際",
       "group": null,
-      "published": "2026-09-20T05:58:04.000Z",
+      "published": "2026-09-18T14:57:16.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "3 天前"
     },
     {
-      "title": "要直要彎惹爭議 新竹公道三將展開聽證",
-      "summary": null,
-      "url": "https://www.e-info.org.tw/node/208601",
-      "source": "環境資訊中心",
-      "tag": "台灣",
+      "title": "Pharmaceutical giants collaborate on supply chain clean heat initiative",
+      "summary": "Pharmaceutical companies Sanofi, UCB and Opella have joined AstraZeneca as founding members of the Clean Heat Program to help organisations across the value chain switch to low-carbon heating alternatives.",
+      "url": "https://www.edie.net/pharmaceutical-giants-collaborate-on-supply-chain-clean-heat-initiative/",
+      "source": "edie",
+      "tag": "國際",
       "group": null,
-      "published": "2026-09-20T06:08:56.000Z",
+      "published": "2026-09-18T13:34:32.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "3 天前"
     },
     {
-      "title": "北非供電歐盟有譜 突尼西亞啟動超級太陽能計畫",
-      "summary": null,
-      "url": "https://www.e-info.org.tw/node/206725",
-      "source": "環境資訊中心",
-      "tag": "台灣",
+      "title": "Hitachi’s data storage subsidiary has 2040 net-zero target validated by SBTi",
+      "summary": "Hitachi’s data storage and AI subsidiary has had near- and long-term targets to reduce emissions and reach net-zero by 2040 validated by the Science Based Targets initiative (SBTi).",
+      "url": "https://www.edie.net/hitachis-data-storage-subsidiary-has-2040-net-zero-target-validated-by-sbti/",
+      "source": "edie",
+      "tag": "國際",
       "group": null,
-      "published": "2026-09-20T04:48:40.000Z",
+      "published": "2026-09-18T10:56:56.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "3 天前"
     },
     {
-      "title": "離岸風電遴選制度重大調整 開發商回應多語帶保留",
-      "summary": null,
-      "url": "https://www.e-info.org.tw/node/209082",
-      "source": "環境資訊中心",
-      "tag": "台灣",
+      "title": "Masterclass: UK SRS: How your business can prepare now",
+      "summary": "Event Date: 10/11/2026 | 1:00 pm UK | 8:00 am US East Coast ET | 5:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST Join the Edie webinar Masterclass on 10 November 2026 to learn how your business can prepare for UK SRS.",
+      "url": "https://www.edie.net/masterclass-uk-srs-how-your-business-can-prepare-now/",
+      "source": "edie",
+      "tag": "國際",
       "group": null,
-      "published": "2026-09-20T07:26:52.000Z",
+      "published": "2026-09-18T10:00:57.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "3 天前"
     },
     {
-      "title": "《土壤的救贖》光與暗的結合",
-      "summary": null,
-      "url": "https://www.e-info.org.tw/node/205788",
-      "source": "環境資訊中心",
-      "tag": "台灣",
+      "title": "Oracle Backs 1.7 GW of Texas Wind for AI Growth",
+      "summary": "Oracle is investing in more than 1.7 gigawatts of wind generation as it expands energy-intensive artificial intelligence infrastructure across Texas.",
+      "url": "https://esgnews.com/oracle-backs-1-7-gw-of-texas-wind-for-ai-growth/?utm_source=rss&utm_medium=rss&utm_campaign=oracle-backs-1-7-gw-of-texas-wind-for-ai-growth",
+      "source": "ESG News",
+      "tag": "國際",
       "group": null,
-      "published": "2026-09-19T20:43:35.000Z",
+      "published": "2026-09-18T13:15:31.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "3 天前"
     },
     {
-      "title": "致癌風險超標！民團2月就訴願獲勝 高市府今才公開報告",
-      "summary": null,
-      "url": "https://www.e-info.org.tw/node/210783",
-      "source": "環境資訊中心",
-      "tag": "台灣",
+      "title": "GE Vernova Wins 29.4 MW Japan Wind Order",
+      "summary": "Eurus Energy Holdings Corporation has selected GE Vernova to supply turbines for a new 29.4 MW onshore wind farm in northern Japan.",
+      "url": "https://esgnews.com/ge-vernova-wins-29-4-mw-japan-wind-order/?utm_source=rss&utm_medium=rss&utm_campaign=ge-vernova-wins-29-4-mw-japan-wind-order",
+      "source": "ESG News",
+      "tag": "國際",
       "group": null,
-      "published": "2026-09-19T18:41:02.000Z",
+      "published": "2026-09-18T13:07:47.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "台灣碳定價新制曝光 碳費＋ETS 雙軌、碳交易市場將成形 | 政經焦點 | 要聞",
-      "summary": "碳費上路後，台灣下一階段的碳定價制度將往哪裡走？環境部日前召開記者會，公布總量管制交易（ETS）未來的路徑，未來確定將走上碳費與ETS雙軌制。面對未來政策逐步導入ETS，也代表台灣減碳政策將從「價格確定」進一步走向「數量確定」，預料將帶動碳交易、碳資產管理及碳金融等新市場發展。",
-      "url": "https://money.udn.com/money/story/7307/9766494",
-      "source": "money.udn.com",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-20T10:13:08.000Z",
-      "why": null,
-      "ago": "14 小時前"
+      "ago": "3 天前"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "台灣永續政策",
+      "url": "https://news.google.com/rss/search?q=%E7%A2%B3%E8%B2%BB%20OR%20%E7%A2%B3%E4%BA%A4%E6%98%93%20OR%20%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8%20OR%20%E6%B7%A8%E9%9B%B6%20%E5%8F%B0%E7%81%A3&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "ESG Today",
+      "url": "https://news.google.com/rss/search?q=site%3Aesgtoday.com&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "CSRone",
+      "url": "https://news.google.com/rss/search?q=site%3Acsrone.com&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "環境資訊中心",
+      "url": "https://news.google.com/rss/search?q=site%3Ae-info.org.tw&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "國際法規",
+      "url": "https://news.google.com/rss/search?q=CSRD%20OR%20CBAM%20OR%20%22IFRS%20S2%22%20OR%20ISSB%20sustainability%20disclosure&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "永續人才",
+      "url": "https://news.google.com/rss/search?q=%E6%B0%B8%E7%BA%8C%20%E4%BA%BA%E6%89%8D%20OR%20%E8%81%B7%E7%BC%BA%20OR%20ESG%20%E4%BA%BA%E5%8A%9B&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "message": "HTTP 503 Service Unavailable"
+    }
+  ]
 }
