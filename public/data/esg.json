@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-20T16:34:10.251Z",
-  "updatedLocal": "2026/9/21 00:34:10",
+  "updated": "2026-09-21T00:19:52.163Z",
+  "updatedLocal": "2026/9/21 08:19:52",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "MPs call for flood insurance scheme reform over insurers’ fossil fuel links",
+      "summary": "Cross-party MPs have called for changes to the UK’s Flood Re scheme after an investigation found that insurers benefiting from the public-private flood protection programme are also underwriting and investing in fossil fuel projects linked to rising climate risks.",
+      "url": "https://www.edie.net/mps-call-for-flood-insurance-scheme-reform-over-insurers-fossil-fuel-links/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-20T23:01:45.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
     {
       "title": "【破五】雞年可以積福，但千萬不可以積垃圾",
       "summary": null,
@@ -15,29 +26,7 @@
       "group": null,
       "published": "2026-09-20T08:06:21.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "迷霧中的王者：大雪山不是養雞場！",
-      "summary": null,
-      "url": "https://www.e-info.org.tw/node/205795",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-19T17:40:13.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "《土壤的救贖》光與暗的結合",
-      "summary": null,
-      "url": "https://www.e-info.org.tw/node/205788",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-19T20:43:35.000Z",
-      "why": null,
-      "ago": "20 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "藻礁延長賽 第三接收站環現差初審 還需補件再審",
@@ -48,18 +37,7 @@
       "group": null,
       "published": "2026-09-20T05:58:04.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "「2020前的野望」 COP23主要談判成果逐條看",
-      "summary": null,
-      "url": "https://www.e-info.org.tw/node/208618",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-19T17:57:27.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "要直要彎惹爭議 新竹公道三將展開聽證",
@@ -70,7 +48,7 @@
       "group": null,
       "published": "2026-09-20T06:08:56.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "北非供電歐盟有譜 突尼西亞啟動超級太陽能計畫",
@@ -81,18 +59,51 @@
       "group": null,
       "published": "2026-09-20T04:48:40.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
+    },
+    {
+      "title": "離岸風電遴選制度重大調整 開發商回應多語帶保留",
+      "summary": null,
+      "url": "https://www.e-info.org.tw/node/209082",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-09-20T07:26:52.000Z",
+      "why": null,
+      "ago": "17 小時前"
+    },
+    {
+      "title": "《土壤的救贖》光與暗的結合",
+      "summary": null,
+      "url": "https://www.e-info.org.tw/node/205788",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-09-19T20:43:35.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "致癌風險超標！民團2月就訴願獲勝 高市府今才公開報告",
+      "summary": null,
+      "url": "https://www.e-info.org.tw/node/210783",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-09-19T18:41:02.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "台灣碳定價新制曝光 碳費＋ETS 雙軌、碳交易市場將成形 | 政經焦點 | 要聞",
       "summary": "碳費上路後，台灣下一階段的碳定價制度將往哪裡走？環境部日前召開記者會，公布總量管制交易（ETS）未來的路徑，未來確定將走上碳費與ETS雙軌制。面對未來政策逐步導入ETS，也代表台灣減碳政策將從「價格確定」進一步走向「數量確定」，預料將帶動碳交易、碳資產管理及碳金融等新市場發展。",
       "url": "https://money.udn.com/money/story/7307/9766494",
-      "source": "經濟日報",
+      "source": "money.udn.com",
       "tag": "台灣",
       "group": null,
       "published": "2026-09-20T10:13:08.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     }
   ],
   "errors": []

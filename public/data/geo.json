@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-20T16:34:10.251Z",
-  "updatedLocal": "2026/9/21 00:34:10",
+  "updated": "2026-09-21T00:19:52.163Z",
+  "updatedLocal": "2026/9/21 08:19:52",
   "digest": null,
   "watch": [],
   "items": [
@@ -24,12 +24,12 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-20T15:50:13.000Z",
+      "published": "2026-09-21T00:06:39.000Z",
       "why": null,
-      "ago": "44 分鐘前"
+      "ago": "13 分鐘前"
     },
     {
-      "title": "The AI safety paradox",
+      "title": "The AI safety paradox | Op-Ed",
       "summary": null,
       "url": "https://www.seattletimes.com/opinion/the-ai-safety-paradox/",
       "source": "The Seattle Times",
@@ -37,40 +37,40 @@
       "group": "ai",
       "published": "2026-09-20T15:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
       "summary": "With the debate about regulating artificial intelligence raging in Washington this week, President Donald Trump picked up the phone to call his top ally on the subject: Nvidia CEO Jensen Huang.",
       "url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "tag": "政策",
       "group": "ai",
       "published": "2026-09-20T11:00:01.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Newsom sets November 16 deadline to study frontier AI kill switch",
       "summary": "California Governor Gavin Newsom on September 18, 2026 signed Executive Order N-9-26, giving the state's Government Operations Agency until November 16, 2026 to deliver recommendations on whether California law should require a \"kill switch\" for frontier AI models, embed independent auditors inside the labs of the largest developers, and expand the list of safety incidents those companies must report to include loss-of-control events.",
       "url": "https://ppc.land/newsom-sets-november-16-deadline-to-study-frontier-ai-kill-switch/",
-      "source": "PPC Land",
+      "source": "ppc.land",
       "tag": "政策",
       "group": "ai",
       "published": "2026-09-20T08:18:08.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Jensen Huang Becomes Trump's Key AI Safety Advisor",
-      "summary": "Jensen Huang Becomes Trump's Key AI Safety Advisor Nvidia CEO's influence grows as world's most valuable company shapes policy PUBLISHED: Sun, Sep 20, 2026, 12:04 PM UTC | UPDATED: Sun, Sep 20, 2026, 4:28 PM UTC The Tech Buzz may earn a commission when you buy through links on this page.",
+      "summary": "Jensen Huang Becomes Trump's Key AI Safety Advisor Nvidia CEO's influence grows as world's most valuable company shapes policy PUBLISHED: Sun, Sep 20, 2026, 12:04 PM UTC | UPDATED: Sun, Sep 20, 2026, 11:51 PM UTC The Tech Buzz may earn a commission when you buy through links on this page.",
       "url": "https://www.techbuzz.ai/articles/jensen-huang-becomes-trump-s-key-ai-safety-advisor",
       "source": "The Tech Buzz",
       "tag": "政策",
       "group": "ai",
       "published": "2026-09-20T12:04:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "The AI safety debate: Why ‘pacing the frontier’ comes with pitfalls",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-09-20T01:30:09.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     }
   ],
   "errors": []

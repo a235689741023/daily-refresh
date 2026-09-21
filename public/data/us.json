@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-20T16:34:10.251Z",
-  "updatedLocal": "2026/9/21 00:34:10",
+  "updated": "2026-09-21T00:19:52.163Z",
+  "updatedLocal": "2026/9/21 08:19:52",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-20T12:47:23.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "France’s wine production nears a 70-year low, leaving winemakers with tough choices",
@@ -26,7 +26,18 @@
       "group": null,
       "published": "2026-09-20T05:00:01.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
+    },
+    {
+      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-20T17:30:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-09-20T16:30:00.000Z",
       "why": null,
-      "ago": "4 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-09-20T15:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Snoopy cups at Starbucks and McDonald’s SpongeBob toys are commanding huge markups on eBay",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-09-20T14:08:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-09-20T14:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "China is chasing SpaceX and setting its sights on the global space economy",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-09-20T13:53:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-09-20T13:16:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Record diesel prices are exposing pain points in the stock market and economy",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-09-20T13:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-20T12:46:00.000Z",
-      "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     }
   ],
   "errors": []
