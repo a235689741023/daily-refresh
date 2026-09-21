@@ -1,76 +1,88 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-21T08:42:31.894Z",
-  "updatedLocal": "2026/9/21 16:42:31",
+  "updated": "2026-09-21T18:21:15.235Z",
+  "updatedLocal": "2026/9/22 02:21:15",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "summary": "OpenAI’s approach to protecting, empowering, and creating safer experiences for young people.",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "title": "USRA Contributes Planetary Science Expertise to NASA-IBM Lunar Foundation Model",
+      "summary": null,
+      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+      "source": "newsroom.usra.edu",
+      "tag": "研究",
+      "group": "gis",
+      "published": "2026-09-18T12:47:00.000Z",
+      "why": null,
+      "ago": "3 天前"
+    },
+    {
+      "title": "Measurements for understanding the pace of AI development inside frontier labs",
+      "summary": "Measurements for understanding the pace of AI development inside frontier labs AI systems are becoming exponentially more powerful and have begun to automate more of the process of building themselves.",
+      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-21T18:21:01.000Z",
+      "why": null,
+      "ago": "剛剛"
+    },
+    {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "summary": "On August 28, we began training a new internal model.",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-18T12:00:00.000Z",
+      "published": "2026-09-21T12:00:00.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "6 小時前"
     },
     {
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "summary": "But attendees had so many more questions than we had time to answer in the 30 minute session.",
-      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "title": "Building standards for the next phase of AI",
+      "summary": "Our mission is to ensure that artificial general intelligence benefits all of humanity.",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-21T10:00:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "summary": "Role-based learning helps employees, developers, leaders, educators, and students build practical AI skills and demonstrate what they’ve learned.",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-21T07:00:00.000Z",
+      "why": null,
+      "ago": "11 小時前"
+    },
+    {
+      "title": "How V7 gives AI agents institutional memory",
+      "summary": "V7 turns company files into agent context, with GPT‑6 Astra reaching 89% accuracy on its hardest graph-query tests.",
+      "url": "https://openai.com/index/v7",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-21T00:00:00.000Z",
+      "why": null,
+      "ago": "18 小時前"
+    },
+    {
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them?",
+      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
       "source": "MIT Tech Review",
       "tag": "趨勢",
       "group": "ai",
-      "published": "2026-09-18T11:29:22.000Z",
+      "published": "2026-09-21T12:00:00.000Z",
       "why": null,
-      "ago": "3 天前"
-    },
-    {
-      "title": "New experts join Google’s AI & Economy team",
-      "summary": "Nobel Laureate Philippe Aghion, Professor Ajay Agrawal, and leading researchers join Google’s AI & Economy program to expand our scientific understanding of AI’s impact on economic activity worldwide.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "source": "Google AI Blog",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-18T14:00:00.000Z",
-      "why": null,
-      "ago": "3 天前"
-    },
-    {
-      "title": "Co-creating the future of fashion with Google",
-      "summary": "Two fashion designers created custom tools in Google Flow to help with set design and styling for New York Fashion Week.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "source": "Google AI Blog",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-18T13:00:00.000Z",
-      "why": null,
-      "ago": "3 天前"
+      "ago": "6 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "ArcGIS Blog",
-      "url": "https://news.google.com/rss/search?q=site%3Aesri.com%2Farcgis-blog&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "GIS × AI 研究",
-      "url": "https://news.google.com/rss/search?q=geospatial%20AI%20OR%20%22spatial%20AI%22%20OR%20%22remote%20sensing%22%20foundation%20model&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "Anthropic",
-      "url": "https://news.google.com/rss/search?q=site%3Aanthropic.com&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "AI 政策",
-      "url": "https://news.google.com/rss/search?q=%22AI%20Act%22%20OR%20%22frontier%20AI%22%20OR%20%22AI%20safety%22%20OR%20%22export%20controls%22%20AI%20regulation&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    }
-  ]
+  "errors": []
 }

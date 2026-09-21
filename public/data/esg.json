@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-21T08:42:31.894Z",
-  "updatedLocal": "2026/9/21 16:42:31",
+  "updated": "2026-09-21T18:21:15.235Z",
+  "updatedLocal": "2026/9/22 02:21:15",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "U.S. companies are dropping climate targets, Harvard data reveals",
+      "summary": "The number of U.S. companies with climate targets peaked in 2022 and has fallen since, according to a newly released database compiled by Harvard University researchers.",
+      "url": "https://trellis.net/article/corporate-climate-targets-harvard-study/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-21T09:05:00.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
     {
       "title": "How Google, McKinsey and others got finance to say “yes” on nature-based carbon removals",
       "summary": "Carbon markets have transformed over the past five years, with updated standards and rigorous due diligence frameworks giving sustainability leaders much more confidence in project design.",
@@ -15,7 +26,40 @@
       "group": null,
       "published": "2026-09-21T07:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
+    },
+    {
+      "title": "Action Agenda: COP31 Presidency sets 35-by-35 global electrification pledge and AI climate action initiative",
+      "summary": "The COP31 Presidency has formally unveiled a pledge to increase the share of final energy demand met by electricity to 35% by 2035, as well as launching an initiative to ensure AI is harnessed in a way that can assist with climate action.",
+      "url": "https://www.edie.net/action-agenda-cop31-presidency-sets-35-by-35-global-electrification-pledge-and-sets-ai-climate-action-initiative/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-21T13:46:13.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Companies brace for $400bn future water risk costs",
+      "summary": "Companies are signalling nearly half a trillion dollars in future financial pain from water disruption. Yet, analysis of thousands of corporate disclosures reveals a striking gap in preparedness.",
+      "url": "https://www.edie.net/companies-brace-for-400bn-future-water-risk-costs/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-21T12:22:35.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Corporates warn of renewables shortfall in meeting clean energy goals",
+      "summary": "Global businesses have warned that market and procurement barriers are hindering progress towards 100% renewables commitments and are failing to shield organisations from volatile energy prices.",
+      "url": "https://www.edie.net/corporates-warn-of-renewables-shortfall-in-meeting-clean-energy-goals/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-21T08:57:51.000Z",
+      "why": null,
+      "ago": "9 小時前"
     },
     {
       "title": "UKGBC’s regenerative housing framework and Nissan’s £170m hybrid EV investment: The sustainability success stories of the week",
@@ -26,7 +70,7 @@
       "group": null,
       "published": "2026-09-21T01:45:07.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "MPs call for flood insurance scheme reform over insurers’ fossil fuel links",
@@ -37,116 +81,41 @@
       "group": null,
       "published": "2026-09-20T23:01:45.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 小時前"
     },
     {
-      "title": "THIS WEEK: Practical actions to drive circularity across the business value chain",
-      "summary": "This week, edie will hold its new webinar exploring how organisations can turn circular economy commitments into practical, measurable action across the business value chain.",
-      "url": "https://www.edie.net/two-weeks-to-go-practical-actions-to-drive-circularity-across-the-business-value-chain/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "Analysis: ‘Super El Niño’ reaches ‘remarkable’ all-time record",
+      "summary": "This year’s so-called “super El Niño” is entering into record-breaking territory.",
+      "url": "https://www.carbonbrief.org/analysis-super-el-nino-reaches-remarkable-all-time-record",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-09-18T15:00:41.000Z",
+      "published": "2026-09-21T15:41:10.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "3 小時前"
     },
     {
-      "title": "Sustainability Uncovered episode 49: Bio-based materials and building with nature",
-      "summary": "The latest episode of edie’s long-standing Sustainability Uncovered podcast is now live.",
-      "url": "https://www.edie.net/sustainability-uncovered-episode-49-bio-based-materials-and-building-with-nature/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "紐約氣候週登場！氣候悲觀情緒升溫、轉型資金卻創新高",
+      "summary": null,
+      "url": "https://csrone.com/news/10122",
+      "source": "CSRone 永續智庫",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-09-18T14:57:16.000Z",
+      "published": "2026-09-21T06:10:00.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "12 小時前"
     },
     {
-      "title": "Pharmaceutical giants collaborate on supply chain clean heat initiative",
-      "summary": "Pharmaceutical companies Sanofi, UCB and Opella have joined AstraZeneca as founding members of the Clean Heat Program to help organisations across the value chain switch to low-carbon heating alternatives.",
-      "url": "https://www.edie.net/pharmaceutical-giants-collaborate-on-supply-chain-clean-heat-initiative/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "1.5°C 恐失守，UNEP 解析氣候新現實：「過衝、達峰、下降路徑」",
+      "summary": null,
+      "url": "https://csrone.com/topics/10121",
+      "source": "CSRone 永續智庫",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-09-18T13:34:32.000Z",
+      "published": "2026-09-21T04:55:00.000Z",
       "why": null,
-      "ago": "3 天前"
-    },
-    {
-      "title": "Hitachi’s data storage subsidiary has 2040 net-zero target validated by SBTi",
-      "summary": "Hitachi’s data storage and AI subsidiary has had near- and long-term targets to reduce emissions and reach net-zero by 2040 validated by the Science Based Targets initiative (SBTi).",
-      "url": "https://www.edie.net/hitachis-data-storage-subsidiary-has-2040-net-zero-target-validated-by-sbti/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-18T10:56:56.000Z",
-      "why": null,
-      "ago": "3 天前"
-    },
-    {
-      "title": "Masterclass: UK SRS: How your business can prepare now",
-      "summary": "Event Date: 10/11/2026 | 1:00 pm UK | 8:00 am US East Coast ET | 5:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST Join the Edie webinar Masterclass on 10 November 2026 to learn how your business can prepare for UK SRS.",
-      "url": "https://www.edie.net/masterclass-uk-srs-how-your-business-can-prepare-now/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-18T10:00:57.000Z",
-      "why": null,
-      "ago": "3 天前"
-    },
-    {
-      "title": "Oracle Backs 1.7 GW of Texas Wind for AI Growth",
-      "summary": "Oracle is investing in more than 1.7 gigawatts of wind generation as it expands energy-intensive artificial intelligence infrastructure across Texas.",
-      "url": "https://esgnews.com/oracle-backs-1-7-gw-of-texas-wind-for-ai-growth/?utm_source=rss&utm_medium=rss&utm_campaign=oracle-backs-1-7-gw-of-texas-wind-for-ai-growth",
-      "source": "ESG News",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-18T13:15:31.000Z",
-      "why": null,
-      "ago": "3 天前"
-    },
-    {
-      "title": "GE Vernova Wins 29.4 MW Japan Wind Order",
-      "summary": "Eurus Energy Holdings Corporation has selected GE Vernova to supply turbines for a new 29.4 MW onshore wind farm in northern Japan.",
-      "url": "https://esgnews.com/ge-vernova-wins-29-4-mw-japan-wind-order/?utm_source=rss&utm_medium=rss&utm_campaign=ge-vernova-wins-29-4-mw-japan-wind-order",
-      "source": "ESG News",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-18T13:07:47.000Z",
-      "why": null,
-      "ago": "3 天前"
+      "ago": "13 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "台灣永續政策",
-      "url": "https://news.google.com/rss/search?q=%E7%A2%B3%E8%B2%BB%20OR%20%E7%A2%B3%E4%BA%A4%E6%98%93%20OR%20%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8%20OR%20%E6%B7%A8%E9%9B%B6%20%E5%8F%B0%E7%81%A3&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "ESG Today",
-      "url": "https://news.google.com/rss/search?q=site%3Aesgtoday.com&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "CSRone",
-      "url": "https://news.google.com/rss/search?q=site%3Acsrone.com&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "環境資訊中心",
-      "url": "https://news.google.com/rss/search?q=site%3Ae-info.org.tw&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "國際法規",
-      "url": "https://news.google.com/rss/search?q=CSRD%20OR%20CBAM%20OR%20%22IFRS%20S2%22%20OR%20ISSB%20sustainability%20disclosure&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "永續人才",
-      "url": "https://news.google.com/rss/search?q=%E6%B0%B8%E7%BA%8C%20%E4%BA%BA%E6%89%8D%20OR%20%E8%81%B7%E7%BC%BA%20OR%20ESG%20%E4%BA%BA%E5%8A%9B&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    }
-  ]
+  "errors": []
 }
