@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-22T08:21:00.627Z",
-  "updatedLocal": "2026/9/22 16:21:00",
+  "updated": "2026-09-22T17:23:56.992Z",
+  "updatedLocal": "2026/9/23 01:23:56",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds",
+      "summary": "Prediction market platform Kalshi filed on Tuesday with federal regulators to seek approval to offer leverage on event contracts, a prevalent practice already on Wall Street for stocks and futures.",
+      "url": "https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-22T12:28:51.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
     {
       "title": "Here's who we know is going to the Trump-Xi dinner so far",
       "summary": "BEIJING — With two days to go before Chinese President Xi Jinping is expected to land in the U.S., very little is known about which Chinese executives will join him.",
@@ -13,9 +24,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-22T02:41:10.000Z",
+      "published": "2026-09-22T16:13:06.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "1 小時前"
     },
     {
       "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-09-22T01:30:01.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -37,84 +48,73 @@
       "group": null,
       "published": "2026-09-21T15:04:04.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1.",
+      "title": "How to avoid the ‘widow tax’ and other financial headaches if your spouse dies",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/how-to-avoid-the-widow-tax-and-other-financial-headaches-if-your-spouse-dies-e51f2af6?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-22T04:02:00.000Z",
+      "published": "2026-09-22T17:09:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "15 分鐘前"
     },
     {
-      "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
+      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-21T22:01:00.000Z",
+      "published": "2026-09-22T17:00:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "24 分鐘前"
     },
     {
-      "title": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
+      "title": "Want to retire with more money? Leave the country for work early in your career.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-21T21:57:00.000Z",
+      "published": "2026-09-22T16:40:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "44 分鐘前"
     },
     {
-      "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
+      "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-21T21:47:00.000Z",
+      "published": "2026-09-22T16:24:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "60 分鐘前"
     },
     {
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-21T21:30:00.000Z",
+      "published": "2026-09-22T16:15:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "1 小時前"
     },
     {
-      "title": "As the S&P 500 nears a new record high, there are signs of weakness below the surface",
+      "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-21T21:17:00.000Z",
+      "published": "2026-09-22T15:48:00.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "These beaten-down stocks could bounce back in January, if history is any guide",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/these-beaten-down-stocks-could-bounce-back-in-january-if-history-is-any-guide-865a3f6b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-21T21:06:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
+      "ago": "2 小時前"
     }
   ],
   "errors": []
