@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-22T00:58:04.232Z",
-  "updatedLocal": "2026/9/22 08:58:04",
+  "updated": "2026-09-22T08:21:00.627Z",
+  "updatedLocal": "2026/9/22 16:21:00",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Here's who we know is going to the Trump-Xi dinner so far",
+      "summary": "BEIJING — With two days to go before Chinese President Xi Jinping is expected to land in the U.S., very little is known about which Chinese executives will join him.",
+      "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-22T02:41:10.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+      "summary": "The artificial intelligence spending boom is showing little sign of slowing, with investment across the hyperscaler ecosystem potentially reaching $1 trillion next year, according to JPMorgan Chase CEO Jamie Dimon .",
+      "url": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-22T01:30:01.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
       "summary": "Fewer, pricier flights. Freight surcharges. Manufacturers hoarding inventory. Even bankruptcy.",
@@ -15,18 +37,18 @@
       "group": null,
       "published": "2026-09-21T15:04:04.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
-      "summary": "Japanese markets reacted in a seemingly counterintuitive fashion on Friday after the country's central bank hiked benchmark interest rates to their highest in 31 years.",
-      "url": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
+      "title": "Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
       "group": null,
-      "published": "2026-09-21T01:02:25.000Z",
+      "published": "2026-09-22T04:02:00.000Z",
       "why": null,
-      "ago": "24 小時前"
+      "ago": "4 小時前"
     },
     {
       "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-09-21T22:01:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-09-21T21:57:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-09-21T21:47:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-09-21T21:30:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "As the S&P 500 nears a new record high, there are signs of weakness below the surface",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-09-21T21:17:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "These beaten-down stocks could bounce back in January, if history is any guide",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-09-21T21:06:00.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-21T21:00:00.000Z",
-      "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s strategy",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-21T20:23:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
+      "ago": "11 小時前"
     }
   ],
   "errors": []

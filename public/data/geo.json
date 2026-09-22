@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-22T00:58:04.232Z",
-  "updatedLocal": "2026/9/22 08:58:04",
+  "updated": "2026-09-22T08:21:00.627Z",
+  "updatedLocal": "2026/9/22 16:21:00",
   "digest": null,
   "watch": [],
   "items": [
@@ -24,9 +24,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-22T00:25:42.000Z",
+      "published": "2026-09-22T06:26:16.000Z",
       "why": null,
-      "ago": "32 分鐘前"
+      "ago": "2 小時前"
     },
     {
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-09-21T12:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-09-21T12:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Building standards for the next phase of AI",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-09-21T10:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Expanding OpenAI Academy with new learning paths",
@@ -70,18 +70,18 @@
       "group": "ai",
       "published": "2026-09-21T07:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "How V7 gives AI agents institutional memory",
-      "summary": "V7 turns company files into agent context, with GPT‑6 Astra reaching 89% accuracy on its hardest graph-query tests.",
-      "url": "https://openai.com/index/v7",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them?",
+      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-09-21T00:00:00.000Z",
+      "published": "2026-09-21T12:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "20 小時前"
     }
   ],
   "errors": []

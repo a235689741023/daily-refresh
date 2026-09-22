@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-22T00:58:04.232Z",
-  "updatedLocal": "2026/9/22 08:58:04",
+  "updated": "2026-09-22T08:21:00.627Z",
+  "updatedLocal": "2026/9/22 16:21:00",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,10 +15,10 @@
       "group": null,
       "published": "2026-09-21T09:05:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "How Google, McKinsey and others got finance to say “yes” on nature-based carbon removals",
+      "title": "How leading buyers got finance to say “yes” on nature-based carbon removals",
       "summary": "Carbon markets have transformed over the past five years, with updated standards and rigorous due diligence frameworks giving sustainability leaders much more confidence in project design.",
       "url": "https://trellis.net/article/google-mckinsey-symbiosis-coalition-offtakes/",
       "source": "Trellis",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-21T07:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
       "title": "£4bn added to UK electricity costs as gas power profits surged during energy crisis, research finds",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-09-21T23:05:02.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Action Agenda: COP31 Presidency sets 35-by-35 global electrification pledge and AI climate action initiative",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-09-21T13:46:13.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Companies brace for $400bn future water risk costs",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-09-21T12:22:35.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Corporates warn of renewables shortfall in meeting clean energy goals",
@@ -69,17 +69,6 @@
       "tag": "國際",
       "group": null,
       "published": "2026-09-21T08:57:51.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "UKGBC’s regenerative housing framework and Nissan’s £170m hybrid EV investment: The sustainability success stories of the week",
-      "summary": "As part of our Mission Possible campaign, edie delivers this member-exclusive weekly round-up of five of the best sustainable business success stories of the week.",
-      "url": "https://www.edie.net/ukgbcs-regenerative-housing-framework-and-nissans-170m-hybrid-ev-investment-the-sustainability-success-stories-of-the-week/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-21T01:45:07.000Z",
       "why": null,
       "ago": "23 小時前"
     },
@@ -92,18 +81,29 @@
       "group": null,
       "published": "2026-09-21T15:41:10.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "太陽能、風電比化石燃料便宜 30多國做到了",
+      "title": "台北東門市場附近茄苳樹遭誤砍、新加坡婦等車遭野豬拋摔三次致殘、歐盟首座商規碳封存設施啟用",
       "summary": null,
-      "url": "https://www.e-info.org.tw/newsletter/5919",
+      "url": "https://e-info.org.tw/node/243905",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-09-21T03:53:00.000Z",
+      "published": "2026-09-22T03:06:08.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "5 小時前"
+    },
+    {
+      "title": "今年估超強聖嬰、冬季偏暖 2016「霸王級寒流」會重演？ 氣象署來解答",
+      "summary": null,
+      "url": "https://www.e-info.org.tw/node/243904",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-09-21T09:54:37.000Z",
+      "why": null,
+      "ago": "22 小時前"
     },
     {
       "title": "Unlocking a single sustainability report for ESRS and ISSB Standards",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-09-21T21:37:28.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     }
   ],
   "errors": []
