@@ -1,21 +1,21 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-21T18:21:15.235Z",
-  "updatedLocal": "2026/9/22 02:21:15",
+  "updated": "2026-09-22T00:58:04.232Z",
+  "updatedLocal": "2026/9/22 08:58:04",
   "digest": null,
   "watch": [],
   "items": [
     {
       "title": "USRA Contributes Planetary Science Expertise to NASA-IBM Lunar Foundation Model",
-      "summary": null,
+      "summary": "Open-source artificial intelligence model combines diverse lunar datasets to support scientific analysis of the Moon The NASA-IBM model reproduces patterns of lunar ice prospectivity (scaled from blue to yellow), shown at four locations (left) near the Moon’s pole.",
       "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-      "source": "newsroom.usra.edu",
+      "source": "USRA",
       "tag": "研究",
       "group": "gis",
       "published": "2026-09-18T12:47:00.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
       "title": "Measurements for understanding the pace of AI development inside frontier labs",
@@ -24,9 +24,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-21T18:21:01.000Z",
+      "published": "2026-09-22T00:25:42.000Z",
       "why": null,
-      "ago": "剛剛"
+      "ago": "32 分鐘前"
     },
     {
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
@@ -37,7 +37,18 @@
       "group": "ai",
       "published": "2026-09-21T12:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
+    },
+    {
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "summary": "With GPT‑6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-21T12:00:00.000Z",
+      "why": null,
+      "ago": "13 小時前"
     },
     {
       "title": "Building standards for the next phase of AI",
@@ -48,7 +59,7 @@
       "group": "ai",
       "published": "2026-09-21T10:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Expanding OpenAI Academy with new learning paths",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-09-21T07:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "How V7 gives AI agents institutional memory",
@@ -70,18 +81,7 @@
       "group": "ai",
       "published": "2026-09-21T00:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them?",
-      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-09-21T12:00:00.000Z",
-      "why": null,
-      "ago": "6 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

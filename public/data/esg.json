@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-21T18:21:15.235Z",
-  "updatedLocal": "2026/9/22 02:21:15",
+  "updated": "2026-09-22T00:58:04.232Z",
+  "updatedLocal": "2026/9/22 08:58:04",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-21T09:05:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "How Google, McKinsey and others got finance to say “yes” on nature-based carbon removals",
@@ -26,7 +26,18 @@
       "group": null,
       "published": "2026-09-21T07:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "£4bn added to UK electricity costs as gas power profits surged during energy crisis, research finds",
+      "summary": "New research has found that gas-fired power stations made £4.1bn in additional profits during the 2021 and 2022 energy crisis, while higher gas prices pushed up electricity bills for consumers.",
+      "url": "https://www.edie.net/4bn-added-to-uk-electricity-costs-as-gas-power-profits-surged-during-energy-crisis-research-finds/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-21T23:05:02.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "Action Agenda: COP31 Presidency sets 35-by-35 global electrification pledge and AI climate action initiative",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-09-21T13:46:13.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Companies brace for $400bn future water risk costs",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-09-21T12:22:35.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Corporates warn of renewables shortfall in meeting clean energy goals",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-09-21T08:57:51.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "UKGBC’s regenerative housing framework and Nissan’s £170m hybrid EV investment: The sustainability success stories of the week",
@@ -70,18 +81,7 @@
       "group": null,
       "published": "2026-09-21T01:45:07.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "MPs call for flood insurance scheme reform over insurers’ fossil fuel links",
-      "summary": "Cross-party MPs have called for changes to the UK’s Flood Re scheme after an investigation found that insurers benefiting from the public-private flood protection programme are also underwriting and investing in fossil fuel projects linked to rising climate risks.",
-      "url": "https://www.edie.net/mps-call-for-flood-insurance-scheme-reform-over-insurers-fossil-fuel-links/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-20T23:01:45.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Analysis: ‘Super El Niño’ reaches ‘remarkable’ all-time record",
@@ -92,29 +92,29 @@
       "group": null,
       "published": "2026-09-21T15:41:10.000Z",
       "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "太陽能、風電比化石燃料便宜 30多國做到了",
+      "summary": null,
+      "url": "https://www.e-info.org.tw/newsletter/5919",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-09-21T03:53:00.000Z",
+      "why": null,
+      "ago": "21 小時前"
+    },
+    {
+      "title": "Unlocking a single sustainability report for ESRS and ISSB Standards",
+      "summary": "Discover the insights you need to make better decisions today, to shape the future with confidence. How can PE teams guide portfolio companies to be exit-ready, not exit-reactive?",
+      "url": "https://www.ey.com/en_th/insights/ifrs/unlocking-a-single-sustainability-report-esrs-and-issb-standards",
+      "source": "EY",
+      "tag": "法規",
+      "group": null,
+      "published": "2026-09-21T21:37:28.000Z",
+      "why": null,
       "ago": "3 小時前"
-    },
-    {
-      "title": "紐約氣候週登場！氣候悲觀情緒升溫、轉型資金卻創新高",
-      "summary": null,
-      "url": "https://csrone.com/news/10122",
-      "source": "CSRone 永續智庫",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-21T06:10:00.000Z",
-      "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "1.5°C 恐失守，UNEP 解析氣候新現實：「過衝、達峰、下降路徑」",
-      "summary": null,
-      "url": "https://csrone.com/topics/10121",
-      "source": "CSRone 永續智庫",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-21T04:55:00.000Z",
-      "why": null,
-      "ago": "13 小時前"
     }
   ],
   "errors": []

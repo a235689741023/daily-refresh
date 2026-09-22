@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-21T18:21:15.235Z",
-  "updatedLocal": "2026/9/22 02:21:15",
+  "updated": "2026-09-22T00:58:04.232Z",
+  "updatedLocal": "2026/9/22 08:58:04",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-21T15:04:04.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
@@ -26,18 +26,7 @@
       "group": null,
       "published": "2026-09-21T01:02:25.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-21T18:00:00.000Z",
-      "why": null,
-      "ago": "21 分鐘前"
+      "ago": "24 小時前"
     },
     {
       "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
@@ -46,75 +35,86 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-21T17:45:00.000Z",
-      "why": null,
-      "ago": "36 分鐘前"
-    },
-    {
-      "title": "The future of retirement? Work until you die.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-21T17:16:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "A happier retirement contains these 3 elements",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-21T17:12:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-21T16:30:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "AMD hits a major milestone as AI stocks blaze higher",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-21T15:58:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "This is the ‘most underappreciated’ driver for Microsoft’s business, according to one analyst",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/this-is-the-most-underappreciated-driver-for-microsoft-according-to-one-analyst-f9a5e4eb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-21T15:39:00.000Z",
+      "published": "2026-09-21T22:01:00.000Z",
       "why": null,
       "ago": "3 小時前"
     },
     {
-      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "title": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-21T15:30:00.000Z",
+      "published": "2026-09-21T21:57:00.000Z",
       "why": null,
       "ago": "3 小時前"
+    },
+    {
+      "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-21T21:47:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-21T21:30:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "As the S&P 500 nears a new record high, there are signs of weakness below the surface",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-21T21:17:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "These beaten-down stocks could bounce back in January, if history is any guide",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/these-beaten-down-stocks-could-bounce-back-in-january-if-history-is-any-guide-865a3f6b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-21T21:06:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-21T21:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s strategy",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-21T20:23:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     }
   ],
   "errors": []
