@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-23T00:46:07.281Z",
-  "updatedLocal": "2026/9/23 08:46:07",
+  "updated": "2026-09-23T08:23:03.573Z",
+  "updatedLocal": "2026/9/23 16:23:03",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-09-18T12:47:00.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
     },
     {
       "title": "Introducing Claude Opus 5.5",
@@ -26,7 +26,7 @@
       "group": "ai",
       "published": "2026-09-22T23:25:46.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Claude Opus 5.5 System Card - www-cdn.anthropic.com",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-09-22T16:59:06.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Measurements for understanding the pace of AI development inside frontier labs",
@@ -46,9 +46,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-23T00:37:36.000Z",
+      "published": "2026-09-23T06:46:09.000Z",
       "why": null,
-      "ago": "9 分鐘前"
+      "ago": "2 小時前"
     },
     {
       "title": "Anthropic’s Responsible Scaling Policy (version 3.2) - www-cdn.anthropic.com",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-09-22T19:58:19.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Better prompt caching for GPT-6",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-09-22T21:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Introducing GPT-6 Sol and Luna",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-09-22T18:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     }
   ],
   "errors": []

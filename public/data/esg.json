@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-23T00:46:07.281Z",
-  "updatedLocal": "2026/9/23 08:46:07",
+  "updated": "2026-09-23T08:23:03.573Z",
+  "updatedLocal": "2026/9/23 16:23:03",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "How FedEx’s CSO engineers sustainability into long-term strategy",
+      "summary": "FedEx has significantly expanded its purchases of unblended sustainable aviation fuel (SAF) with contracts to buy more than 20 million gallons for use at five major U.S. airports in California, Florida, New Jersey, New York and Texas through 2027.",
+      "url": "https://trellis.net/article/how-fedexs-cso-engineers-sustainability-into-long-term-strategy/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-23T07:15:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
     {
       "title": "What’s next for the 100% renewable energy movement",
       "summary": "Ten years ago, HP Inc. pledged to match 100 percent of its global electricity with renewables by 2025, as part of an early wave of corporate commitments inspired by the Climate Group’s RE100 campaign.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-09-22T09:01:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Government backs £90m heat network expansion to cut energy bills",
@@ -26,18 +37,18 @@
       "group": null,
       "published": "2026-09-22T23:02:55.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Nature-related disclosures double year on year, TNFD report finds",
-      "summary": "The report draws on a survey of more than 500 market participants conducted in July and August 2026, as well as analysis of corporate reporting and data from market data providers.",
+      "summary": "Yet, disclosure quality remains uneven. As companies grapple with reporting frameworks, a significant appetite for mandatory standards is emerging.",
       "url": "https://www.edie.net/nature-related-disclosures-double-year-on-year-tnfd-report-finds/",
       "source": "edie",
       "tag": "國際",
       "group": null,
       "published": "2026-09-22T19:08:42.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "From simplification to segmentation: Why ESRS-40a matters for UK businesses",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-09-22T16:45:04.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "NEXT WEEK: What does a revised ISO 14001 mean for sustainability professionals?",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-09-22T15:30:29.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Road to COP31: World must double renewable build-out to hit 2030 goal",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-09-22T15:10:31.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "EU consults on minimum energy and water standards for data centres",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-09-22T14:22:18.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "How can supply chains be designed for resilience in an increasingly disrupted world?",
@@ -92,18 +103,7 @@
       "group": null,
       "published": "2026-09-22T13:14:51.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "THIS WEEK: Practical actions to drive circularity across the business value chain",
-      "summary": "This week, edie will hold its new webinar exploring how organisations can turn circular economy commitments into practical, measurable action across the business value chain.",
-      "url": "https://www.edie.net/two-weeks-to-go-practical-actions-to-drive-circularity-across-the-business-value-chain/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-22T08:00:41.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Explainer: How sea level rise poses an ‘existential threat’ to humans, heritage and nature",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-09-22T15:14:21.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     }
   ],
   "errors": []
