@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-23T08:23:03.573Z",
-  "updatedLocal": "2026/9/23 16:23:03",
+  "updated": "2026-09-23T17:31:33.473Z",
+  "updatedLocal": "2026/9/24 01:31:33",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "ISO members send net-zero draft back for revisions",
+      "summary": "The International Organization for Standardization (ISO) is reviewing suggested changes to its corporate net-zero standard after a vote on the first draft fell short of the approval threshold.",
+      "url": "https://trellis.net/article/iso-members-send-net-zero-draft-back-for-revisions/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-23T11:54:16.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
     {
       "title": "How FedEx’s CSO engineers sustainability into long-term strategy",
       "summary": "FedEx has significantly expanded its purchases of unblended sustainable aviation fuel (SAF) with contracts to buy more than 20 million gallons for use at five major U.S. airports in California, Florida, New Jersey, New York and Texas through 2027.",
@@ -15,18 +26,84 @@
       "group": null,
       "published": "2026-09-23T07:15:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "10 小時前"
     },
     {
-      "title": "What’s next for the 100% renewable energy movement",
-      "summary": "Ten years ago, HP Inc. pledged to match 100 percent of its global electricity with renewables by 2025, as part of an early wave of corporate commitments inspired by the Climate Group’s RE100 campaign.",
-      "url": "https://trellis.net/article/whats-next-100-renewable-energy-movement/",
-      "source": "Trellis",
+      "title": "TODAY: Practical actions to drive circularity across the business value chain",
+      "summary": "Tomorrow, edie is holding a new webinar exploring how organisations can turn circular economy commitments into practical, measurable action across the business value chain.",
+      "url": "https://www.edie.net/two-weeks-to-go-practical-actions-to-drive-circularity-across-the-business-value-chain/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-09-22T09:01:00.000Z",
+      "published": "2026-09-23T15:00:41.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Defra’s sustainable farming application runs dry in just six hours",
+      "summary": "Access to more than £230m in government-led, sustainable farming funding was available for just six hours before it closed, with future funding streams not available until next year.",
+      "url": "https://www.edie.net/defras-sustainable-farming-application-runs-dry-in-just-six-hours/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-23T14:26:13.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "New Look, M&S, Sainsbury’s and Oxfam join forces to scale textile recycling",
+      "summary": "The organisations have partnered with textile recycling firm Circle-8 to launch a new initiative that aims to accelerate circular fashion solutions.",
+      "url": "https://www.edie.net/new-look-ms-sainsburys-and-oxfam-join-forces-to-scale-textile-recycling/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-23T14:02:22.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Report: World not on track to meet 2030 ocean protection goal",
+      "summary": "New research has found that existing government commitments globally are set to protect and conserve almost 30% of the world’s land by 2030; however, progress on ocean protection is severely lagging.",
+      "url": "https://www.edie.net/report-world-not-on-track-to-meet-its-ocean-protection-goal-by-2030/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-23T14:00:36.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "In practice: Sustainability supplier engagement schemes that work",
+      "summary": "With businesses struggling to communicate sustainability endeavours transparently and dealing with short-term budget constraints, edie’s new ‘in practice’ series explores how some organisations are trialling and installing innovative projects to deliver climate action.",
+      "url": "https://www.edie.net/in-practice-sustainability-supplier-engagement-schemes-that-work/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-23T12:14:16.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Beyond compliance: Turning climate risk insights into practical adaptation",
+      "summary": "Event Date: 19/11/2026 | 1:00 pm UK | 8:00 am US East Coast ET | 5:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST This webinar will explore why and how leading organisations are moving from simply measuring risk to actively adapting in order to protect their operations, assets and supply chains.",
+      "url": "https://www.edie.net/beyond-compliance-turning-climate-risk-insights-into-practical-adaptation/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-23T09:37:45.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "NEXT WEEK: What does a revised ISO 14001 mean for sustainability professionals?",
+      "summary": "On 29 September, edie is hosting a webinar in partnership with BSI to explore changes to the ISO 14001 standard addressing environmental management.",
+      "url": "https://www.edie.net/next-week-what-does-a-revised-iso-14001-mean-for-sustainability-professionals/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-23T08:30:29.000Z",
+      "why": null,
+      "ago": "9 小時前"
     },
     {
       "title": "Government backs £90m heat network expansion to cut energy bills",
@@ -37,84 +114,7 @@
       "group": null,
       "published": "2026-09-22T23:02:55.000Z",
       "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "Nature-related disclosures double year on year, TNFD report finds",
-      "summary": "Yet, disclosure quality remains uneven. As companies grapple with reporting frameworks, a significant appetite for mandatory standards is emerging.",
-      "url": "https://www.edie.net/nature-related-disclosures-double-year-on-year-tnfd-report-finds/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-22T19:08:42.000Z",
-      "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "From simplification to segmentation: Why ESRS-40a matters for UK businesses",
-      "summary": "Over the past year, many organisations have welcomed headlines suggesting sustainability reporting is becoming simpler.",
-      "url": "https://www.edie.net/from-simplification-to-segmentation-why-esrs-40a-matters-for-uk-businesses/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-22T16:45:04.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "NEXT WEEK: What does a revised ISO 14001 mean for sustainability professionals?",
-      "summary": "On 29 September, edie is hosting a webinar in partnership with BSI to explore changes to the ISO 14001 standard addressing environmental management.",
-      "url": "https://www.edie.net/next-week-what-does-a-revised-iso-14001-mean-for-sustainability-professionals/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-22T15:30:29.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Road to COP31: World must double renewable build-out to hit 2030 goal",
-      "summary": "Despite record-high deployment, a new report from the COP31 Presidency, the International Renewable Energy Agency (IRENA) and the Global Renewables Alliance (GRA) has concluded that annual build-out must virtually double to meet 2030 targets.",
-      "url": "https://www.edie.net/road-to-cop31-world-must-double-renewable-build-out-to-hit-2030-goal/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-22T15:10:31.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "EU consults on minimum energy and water standards for data centres",
-      "summary": "The European Commission is consulting on proposals to introduce a rating scheme for data centres similar to how buildings have minimum performance standards on energy efficiency.",
-      "url": "https://www.edie.net/eu-consults-on-minimum-energy-and-water-standards-for-data-centres/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-22T14:22:18.000Z",
-      "why": null,
       "ago": "18 小時前"
-    },
-    {
-      "title": "How can supply chains be designed for resilience in an increasingly disrupted world?",
-      "summary": "Resilience is becoming a design challenge for supply chains as climate disruption, geopolitical instability, energy volatility and resource constraints compete for attention at board level, according to Maxfield Weiss, global head of sustainability at the Chartered Institute of Procurement and Supply (CIPS).",
-      "url": "https://www.edie.net/how-can-supply-chains-be-designed-for-resilience-in-an-increasingly-disrupted-world/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-22T13:14:51.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Explainer: How sea level rise poses an ‘existential threat’ to humans, heritage and nature",
-      "summary": "For millions of people around the world, rising sea levels are already reshaping economies, livelihoods and cultures.",
-      "url": "https://www.carbonbrief.org/explainer-how-sea-level-rise-poses-an-existential-threat-to-humans-heritage-and-nature",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-09-22T15:14:21.000Z",
-      "why": null,
-      "ago": "17 小時前"
     }
   ],
   "errors": []

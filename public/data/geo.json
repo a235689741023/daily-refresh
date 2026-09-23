@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-23T08:23:03.573Z",
-  "updatedLocal": "2026/9/23 16:23:03",
+  "updated": "2026-09-23T17:31:33.473Z",
+  "updatedLocal": "2026/9/24 01:31:33",
   "digest": null,
   "watch": [],
   "items": [
@@ -21,34 +21,23 @@
       "title": "Introducing Claude Opus 5.5",
       "summary": "We’re introducing Claude Opus 5.5, the first model in our new Claude 5.5 family. It performs at the level of Claude Fable 5.1 on most work and costs 40% less to run than Opus 5.",
       "url": "https://www.anthropic.com/claude-opus-5-5",
-      "source": "Anthropic",
+      "source": "anthropic.com",
       "tag": "模型",
       "group": "ai",
       "published": "2026-09-22T23:25:46.000Z",
       "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "Claude Opus 5.5 System Card - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/fc1b44717c85dc068bc6ba5024219938094694bd/Claude%20Opus%205.5%20System%20Card.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-22T16:59:06.000Z",
-      "why": null,
-      "ago": "15 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Measurements for understanding the pace of AI development inside frontier labs",
       "summary": "Measurements for understanding the pace of AI development inside frontier labs AI systems are becoming exponentially more powerful and have begun to automate more of the process of building themselves.",
       "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-      "source": "Anthropic",
+      "source": "anthropic.com",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-23T06:46:09.000Z",
+      "published": "2026-09-23T16:26:57.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "1 小時前"
     },
     {
       "title": "Anthropic’s Responsible Scaling Policy (version 3.2) - www-cdn.anthropic.com",
@@ -59,29 +48,40 @@
       "group": "ai",
       "published": "2026-09-22T19:58:19.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "Better prompt caching for GPT-6",
-      "summary": "Higher cache hit rates and new tools to help persistent agents run faster and cost less.",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "summary": "Using GPT‑5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT‑4.1.",
+      "url": "https://openai.com/index/ringg",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-22T21:00:00.000Z",
+      "published": "2026-09-24T12:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "剛剛"
     },
     {
-      "title": "Introducing GPT-6 Sol and Luna",
-      "summary": "More ways to bring frontier intelligence into the work you do every day. Earlier this month, we introduced GPT‑6 Astra , the most intelligent and aligned model in the world.",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "title": "Two years of OpenAI Academy",
+      "summary": "Building on our work to help people develop practical AI skills, with plans to bring training to more communities.",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-22T18:00:00.000Z",
+      "published": "2026-09-23T16:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "summary": "OpenAI today announced it will offer the Government of Ukraine access to its Daybreak program to support the cyber defense of civilian infrastructure.",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-23T13:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     }
   ],
   "errors": []

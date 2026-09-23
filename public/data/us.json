@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-23T08:23:03.573Z",
-  "updatedLocal": "2026/9/23 16:23:03",
+  "updated": "2026-09-23T17:31:33.473Z",
+  "updatedLocal": "2026/9/24 01:31:33",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
+      "summary": "BEIJING — The trade deficit that escalated tensions between China and the U.S. in recent years has yet to shrink significantly, and the world's second-largest economy faces deep challenges.",
+      "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-23T13:29:08.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation",
       "summary": "The Commodity Futures Trading Commission advised some of its regulated entities on Tuesday that prediction markets' \"mentions\" contracts are at greater risk of manipulation.",
@@ -15,18 +26,7 @@
       "group": null,
       "published": "2026-09-23T00:58:16.000Z",
       "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds",
-      "summary": "Prediction market platform Kalshi filed on Tuesday with federal regulators to seek approval to offer leverage on event contracts, a prevalent practice already on Wall Street for stocks and futures.",
-      "url": "https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-22T12:28:51.000Z",
-      "why": null,
-      "ago": "20 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Here's who we know is going to the Trump-Xi dinner so far",
@@ -37,7 +37,40 @@
       "group": null,
       "published": "2026-09-22T23:43:43.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds",
+      "summary": "Prediction market platform Kalshi filed on Tuesday with federal regulators to seek approval to offer leverage on event contracts, a prevalent practice already on Wall Street for stocks and futures.",
+      "url": "https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-22T12:28:51.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-23T17:16:00.000Z",
+      "why": null,
+      "ago": "16 分鐘前"
+    },
+    {
+      "title": "Bond yields surge as Wall Street fears more potential Federal Reserve rate hikes",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-23T17:16:00.000Z",
+      "why": null,
+      "ago": "16 分鐘前"
     },
     {
       "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
@@ -46,75 +79,42 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-23T02:15:00.000Z",
+      "published": "2026-09-23T17:15:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "17 分鐘前"
     },
     {
-      "title": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
+      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
       "summary": null,
       "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-23T02:00:00.000Z",
+      "published": "2026-09-23T17:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "32 分鐘前"
     },
     {
-      "title": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
+      "title": "Microsoft has ‘clearly turned the corner.’ How its stock can chart more gains.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/microsoft-has-clearly-turned-the-corner-how-its-stock-can-chart-more-gains-b6156467?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-22T21:44:00.000Z",
+      "published": "2026-09-23T16:58:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "34 分鐘前"
     },
     {
-      "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
+      "title": "10 places where thousands of homeowners face higher insurance bills after FEMA updated its flood maps",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/10-places-where-thousands-of-homeowners-face-higher-insurance-bills-after-fema-updated-its-flood-maps-ff779184?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-22T21:30:00.000Z",
+      "published": "2026-09-23T16:50:00.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Want to bet on risky, high-beta stocks? Why you should wait for mid-October.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-22T21:27:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-22T21:26:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/why-apple-could-soon-join-nvidia-in-the-exclusive-5-trillion-club-4e7724e7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-22T20:54:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
+      "ago": "42 分鐘前"
     }
   ],
   "errors": []
