@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-22T17:23:56.992Z",
-  "updatedLocal": "2026/9/23 01:23:56",
+  "updated": "2026-09-23T00:46:07.281Z",
+  "updatedLocal": "2026/9/23 08:46:07",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation",
+      "summary": "The Commodity Futures Trading Commission advised some of its regulated entities on Tuesday that prediction markets' \"mentions\" contracts are at greater risk of manipulation.",
+      "url": "https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-22T22:13:27.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds",
       "summary": "Prediction market platform Kalshi filed on Tuesday with federal regulators to seek approval to offer leverage on event contracts, a prevalent practice already on Wall Street for stocks and futures.",
@@ -15,16 +26,16 @@
       "group": null,
       "published": "2026-09-22T12:28:51.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Here's who we know is going to the Trump-Xi dinner so far",
-      "summary": "BEIJING — With two days to go before Chinese President Xi Jinping is expected to land in the U.S., very little is known about which Chinese executives will join him.",
+      "summary": "BEIJING — With two days to go before Chinese President Xi Jinping is expected to land in the U.S., very little is known about which, if any, Chinese executives will join him.",
       "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-22T16:13:06.000Z",
+      "published": "2026-09-22T23:43:43.000Z",
       "why": null,
       "ago": "1 小時前"
     },
@@ -37,73 +48,18 @@
       "group": null,
       "published": "2026-09-22T01:30:01.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-      "summary": "Fewer, pricier flights. Freight surcharges. Manufacturers hoarding inventory. Even bankruptcy.",
-      "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-21T15:04:04.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "How to avoid the ‘widow tax’ and other financial headaches if your spouse dies",
+      "title": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/how-to-avoid-the-widow-tax-and-other-financial-headaches-if-your-spouse-dies-e51f2af6?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-22T17:09:00.000Z",
+      "published": "2026-09-22T21:44:00.000Z",
       "why": null,
-      "ago": "15 分鐘前"
-    },
-    {
-      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-22T17:00:00.000Z",
-      "why": null,
-      "ago": "24 分鐘前"
-    },
-    {
-      "title": "Want to retire with more money? Leave the country for work early in your career.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-22T16:40:00.000Z",
-      "why": null,
-      "ago": "44 分鐘前"
-    },
-    {
-      "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-22T16:24:00.000Z",
-      "why": null,
-      "ago": "60 分鐘前"
-    },
-    {
-      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-22T16:15:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
+      "ago": "3 小時前"
     },
     {
       "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
@@ -112,9 +68,53 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-22T15:48:00.000Z",
+      "published": "2026-09-22T21:30:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Want to bet on risky, high-beta stocks? Why you should wait for mid-October.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-22T21:27:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-22T21:26:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/why-apple-could-soon-join-nvidia-in-the-exclusive-5-trillion-club-4e7724e7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-22T20:54:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-22T20:46:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
     }
   ],
   "errors": []

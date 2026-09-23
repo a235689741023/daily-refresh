@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-22T17:23:56.992Z",
-  "updatedLocal": "2026/9/23 01:23:56",
+  "updated": "2026-09-23T00:46:07.281Z",
+  "updatedLocal": "2026/9/23 08:46:07",
   "digest": null,
   "watch": [],
   "items": [
@@ -24,9 +24,20 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-22T16:28:32.000Z",
+      "published": "2026-09-22T23:25:46.000Z",
       "why": null,
-      "ago": "55 分鐘前"
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Claude Opus 5.5 System Card - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/fc1b44717c85dc068bc6ba5024219938094694bd/Claude%20Opus%205.5%20System%20Card.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-22T16:59:06.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Measurements for understanding the pace of AI development inside frontier labs",
@@ -35,53 +46,42 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-22T15:32:34.000Z",
+      "published": "2026-09-23T00:37:36.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 分鐘前"
     },
     {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "On August 28, we began training a new internal model.",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "title": "Anthropic’s Responsible Scaling Policy (version 3.2) - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/28c6241900d90410628a8a2003a5572faae4365a.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-22T19:58:19.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Better prompt caching for GPT-6",
+      "summary": "Higher cache hit rates and new tools to help persistent agents run faster and cost less.",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-21T12:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "summary": "With GPT‑6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-21T12:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives.",
-      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-09-22T13:42:05.000Z",
+      "published": "2026-09-22T21:00:00.000Z",
       "why": null,
       "ago": "4 小時前"
     },
     {
-      "title": "Don’t be fooled by this summer of AI hype",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts.",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "summary": "More ways to bring frontier intelligence into the work you do every day. Earlier this month, we introduced GPT‑6 Astra , the most intelligent and aligned model in the world.",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "source": "OpenAI",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-09-22T11:04:51.000Z",
+      "published": "2026-09-22T18:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "7 小時前"
     }
   ],
   "errors": []

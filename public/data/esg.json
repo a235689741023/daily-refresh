@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-22T17:23:56.992Z",
-  "updatedLocal": "2026/9/23 01:23:56",
+  "updated": "2026-09-23T00:46:07.281Z",
+  "updatedLocal": "2026/9/23 08:46:07",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,29 @@
       "group": null,
       "published": "2026-09-22T09:01:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
+    },
+    {
+      "title": "Government backs £90m heat network expansion to cut energy bills",
+      "summary": "The UK Government has announced a £90m investment to support new and upgraded heat networks, helping to bring bills down for over 750,000 homes.",
+      "url": "https://www.edie.net/government-backs-90m-heat-network-expansion-to-cut-energy-bills/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-22T23:02:55.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Nature-related disclosures double year on year, TNFD report finds",
+      "summary": "The report draws on a survey of more than 500 market participants conducted in July and August 2026, as well as analysis of corporate reporting and data from market data providers.",
+      "url": "https://www.edie.net/nature-related-disclosures-double-year-on-year-tnfd-report-finds/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-22T19:08:42.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "From simplification to segmentation: Why ESRS-40a matters for UK businesses",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-09-22T16:45:04.000Z",
       "why": null,
-      "ago": "39 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "NEXT WEEK: What does a revised ISO 14001 mean for sustainability professionals?",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-09-22T15:30:29.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Road to COP31: World must double renewable build-out to hit 2030 goal",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-09-22T15:10:31.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "EU consults on minimum energy and water standards for data centres",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-09-22T14:22:18.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "How can supply chains be designed for resilience in an increasingly disrupted world?",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-09-22T13:14:51.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "THIS WEEK: Practical actions to drive circularity across the business value chain",
@@ -81,18 +103,7 @@
       "group": null,
       "published": "2026-09-22T08:00:41.000Z",
       "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "£4bn added to UK electricity costs as gas power profits surged during energy crisis, research finds",
-      "summary": "New research has found that gas-fired power stations made £4.1bn in additional profits during the 2021 and 2022 energy crisis, while higher gas prices pushed up electricity bills for consumers.",
-      "url": "https://www.edie.net/4bn-added-to-uk-electricity-costs-as-gas-power-profits-surged-during-energy-crisis-research-finds/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-21T23:05:02.000Z",
-      "why": null,
-      "ago": "18 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Explainer: How sea level rise poses an ‘existential threat’ to humans, heritage and nature",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-09-22T15:14:21.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Analysis: Nepal’s $20m ‘loss-and-damage’ claim only covers 0.7% of flood costs",
-      "summary": "The Nepali government has requested $20m from the UN fund for “ loss and damage ”, following the devastating floods that hit the country in late August.",
-      "url": "https://www.carbonbrief.org/analysis-nepals-20m-loss-and-damage-claim-only-covers-0-7-of-flood-costs",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-09-22T14:43:30.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     }
   ],
   "errors": []
