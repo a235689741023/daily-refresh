@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-24T08:15:13.051Z",
-  "updatedLocal": "2026/9/24 16:15:13",
+  "updated": "2026-09-24T17:36:41.030Z",
+  "updatedLocal": "2026/9/25 01:36:41",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,51 @@
       "group": null,
       "published": "2026-09-23T11:54:16.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "How FedEx’s CSO engineers sustainability into long-term strategy",
-      "summary": "FedEx has significantly expanded its purchases of unblended sustainable aviation fuel (SAF) with contracts to buy more than 20 million gallons for use at five major U.S. airports in California, Florida, New Jersey, New York and Texas through 2027.",
-      "url": "https://trellis.net/article/how-fedexs-cso-engineers-sustainability-into-long-term-strategy/",
-      "source": "Trellis",
+      "title": "How UK is moving climate security up the international agenda",
+      "summary": "The package includes £330m for the Global Environment Facility, the main global multilateral fund for protecting nature and tackling environmental threats.",
+      "url": "https://www.edie.net/how-uk-is-moving-climate-security-up-the-international-agenda/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-09-23T07:15:00.000Z",
+      "published": "2026-09-24T17:14:24.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "22 分鐘前"
+    },
+    {
+      "title": "UK’s largest dairy farms face calls for tighter environmental controls",
+      "summary": "The Wildlife Trusts is calling for policy reform to bring the most intensive dairy operations under stronger environmental regulation, after research found that more than 40-mega dairies are not subjected to the same level of monitoring as intensive pig and poultry units.",
+      "url": "https://www.edie.net/uks-largest-dairy-farms-face-calls-for-tighter-environmental-controls/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-24T15:03:41.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Germany unveils roadmap to quit fossil fuels by 2045",
+      "summary": "At the 81st Session of the United Nations General Assembly (UNGA) in New York, Germany announced its roadmap to transition away from fossil fuels \"no later than 2045\".",
+      "url": "https://www.edie.net/germany-unveils-roadmap-to-quit-fossil-fuels-by-2045/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-24T14:18:33.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "NEXT WEEK: What does a revised ISO 14001 mean for sustainability professionals?",
+      "summary": "On 29 September, edie is hosting a webinar in partnership with BSI to explore changes to the ISO 14001 standard addressing environmental management.",
+      "url": "https://www.edie.net/next-week-what-does-a-revised-iso-14001-mean-for-sustainability-professionals/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-24T12:30:29.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "Saving $500m a year: The business case for regenerative agriculture",
@@ -37,7 +70,7 @@
       "group": null,
       "published": "2026-09-24T08:13:10.000Z",
       "why": null,
-      "ago": "2 分鐘前"
+      "ago": "9 小時前"
     },
     {
       "title": "ISO net-zero standard stalls following member feedback",
@@ -48,105 +81,41 @@
       "group": null,
       "published": "2026-09-23T18:28:42.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "TODAY: Practical actions to drive circularity across the business value chain",
-      "summary": "Tomorrow, edie is holding a new webinar exploring how organisations can turn circular economy commitments into practical, measurable action across the business value chain.",
-      "url": "https://www.edie.net/two-weeks-to-go-practical-actions-to-drive-circularity-across-the-business-value-chain/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-23T15:00:41.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Defra’s sustainable farming application runs dry in just six hours",
-      "summary": "Access to more than £230m in government-led, sustainable farming funding was available for just six hours before it closed, with future funding streams not available until next year.",
-      "url": "https://www.edie.net/defras-sustainable-farming-application-runs-dry-in-just-six-hours/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-23T14:26:13.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "New Look, M&S, Sainsbury’s and Oxfam join forces to scale textile recycling",
-      "summary": "The organisations have partnered with textile recycling firm Circle-8 to launch a new initiative that aims to accelerate circular fashion solutions.",
-      "url": "https://www.edie.net/new-look-ms-sainsburys-and-oxfam-join-forces-to-scale-textile-recycling/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-23T14:02:22.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Report: World not on track to meet 2030 ocean protection goal",
-      "summary": "New research has found that existing government commitments globally are set to protect and conserve almost 30% of the world’s land by 2030; however, progress on ocean protection is severely lagging.",
-      "url": "https://www.edie.net/report-world-not-on-track-to-meet-its-ocean-protection-goal-by-2030/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-23T14:00:36.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "In practice: Sustainability supplier engagement schemes that work",
-      "summary": "With businesses struggling to communicate sustainability endeavours transparently and dealing with short-term budget constraints, edie’s new ‘in practice’ series explores how some organisations are trialling and installing innovative projects to deliver climate action.",
-      "url": "https://www.edie.net/in-practice-sustainability-supplier-engagement-schemes-that-work/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-23T12:14:16.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Beyond compliance: Turning climate risk insights into practical adaptation",
-      "summary": "Event Date: 19/11/2026 | 1:00 pm UK | 8:00 am US East Coast ET | 5:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST This webinar will explore why and how leading organisations are moving from simply measuring risk to actively adapting in order to protect their operations, assets and supply chains.",
-      "url": "https://www.edie.net/beyond-compliance-turning-climate-risk-insights-into-practical-adaptation/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-23T09:37:45.000Z",
-      "why": null,
       "ago": "23 小時前"
+    },
+    {
+      "title": "Interactive: What China’s dozens of ‘five-year plans’ say about climate and energy",
+      "summary": "Five-year plans are an important part of China’s policymaking process, signalling key priorities and setting targets for the coming years.",
+      "url": "https://interactive.carbonbrief.org/china-plan-tracker/index.html",
+      "source": "Carbon Brief",
+      "tag": "氣候",
+      "group": null,
+      "published": "2026-09-24T14:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in the UK",
+      "summary": "The latest surge in fossil-fuel prices means it is now up to nine times cheaper in the UK to drive an electric vehicle (EV) than a petrol or diesel car, shows Carbon Brief analysis.",
+      "url": "https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk",
+      "source": "Carbon Brief",
+      "tag": "氣候",
+      "group": null,
+      "published": "2026-09-24T11:49:03.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "《我家沒垃圾》 打造零廢棄衣櫥從簡化開始",
+      "summary": null,
+      "url": "https://www.e-info.org.tw/newsletter/6196",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-09-24T08:40:04.000Z",
+      "why": null,
+      "ago": "9 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "CSRone",
-      "url": "https://news.google.com/rss/search?q=site%3Acsrone.com&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "環境資訊中心",
-      "url": "https://news.google.com/rss/search?q=site%3Ae-info.org.tw&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "ESG Today",
-      "url": "https://news.google.com/rss/search?q=site%3Aesgtoday.com&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "國際法規",
-      "url": "https://news.google.com/rss/search?q=CSRD%20OR%20CBAM%20OR%20%22IFRS%20S2%22%20OR%20ISSB%20sustainability%20disclosure&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "台灣永續政策",
-      "url": "https://news.google.com/rss/search?q=%E7%A2%B3%E8%B2%BB%20OR%20%E7%A2%B3%E4%BA%A4%E6%98%93%20OR%20%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8%20OR%20%E6%B7%A8%E9%9B%B6%20%E5%8F%B0%E7%81%A3&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "永續人才",
-      "url": "https://news.google.com/rss/search?q=%E6%B0%B8%E7%BA%8C%20%E4%BA%BA%E6%89%8D%20OR%20%E8%81%B7%E7%BC%BA%20OR%20ESG%20%E4%BA%BA%E5%8A%9B&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    }
-  ]
+  "errors": []
 }

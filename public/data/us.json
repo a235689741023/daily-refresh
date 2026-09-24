@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-24T08:15:13.051Z",
-  "updatedLocal": "2026/9/24 16:15:13",
+  "updated": "2026-09-24T17:36:41.030Z",
+  "updatedLocal": "2026/9/25 01:36:41",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
+      "summary": "Philadelphia Federal Reserve President Anna Paulson said Thursday that she and her colleagues may need to raise interest rates further to bring inflation back to target.",
+      "url": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-24T17:12:04.000Z",
+      "why": null,
+      "ago": "25 分鐘前"
+    },
+    {
+      "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
+      "summary": "BEIJING—China's Commerce Ministry confirmed Thursday that its senior trade negotiators had held their first talks with the U.S. on artificial intelligence.",
+      "url": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-24T14:16:27.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
       "summary": "The U.S. and China have extended a truce to keep tariffs lower for longer and rare earths flowing, U.S. Treasury Secretary Scott Bessent said Wednesday local time.",
@@ -15,7 +37,7 @@
       "group": null,
       "published": "2026-09-24T04:55:59.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-09-24T01:44:14.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Here's who we know is going to the Trump-Xi dinner so far",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-09-24T01:54:35.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-09-24T08:13:01.000Z",
       "why": null,
-      "ago": "2 分鐘前"
+      "ago": "9 小時前"
     },
     {
       "title": "Switzerland is keeping rates at 0% — for now",
@@ -57,9 +79,9 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-09-24T07:58:08.000Z",
+      "published": "2026-09-24T11:34:56.000Z",
       "why": null,
-      "ago": "17 分鐘前"
+      "ago": "6 小時前"
     },
     {
       "title": "France's fresh budget battle threatens to topple another government",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-09-24T06:21:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-09-24T04:02:26.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Here's what happens to the economy when Treasury yields soar like they are now",
@@ -90,48 +112,10 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-09-24T02:50:12.000Z",
+      "published": "2026-09-24T14:37:14.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-23T23:15:00.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-23T22:15:00.000Z",
-      "why": null,
-      "ago": "10 小時前"
+      "ago": "3 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "Reuters 財經",
-      "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20stock%20market%20OR%20Federal%20Reserve&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "財報",
-      "url": "https://news.google.com/rss/search?q=earnings%20beat%20OR%20earnings%20miss%20guidance%20S%26P%20500&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "Bloomberg",
-      "url": "https://news.google.com/rss/search?q=site%3Abloomberg.com%20markets%20OR%20earnings&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    }
-  ]
+  "errors": []
 }
