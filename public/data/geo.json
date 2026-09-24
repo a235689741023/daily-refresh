@@ -1,55 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-24T00:38:05.950Z",
-  "updatedLocal": "2026/9/24 08:38:05",
+  "updated": "2026-09-24T08:15:13.051Z",
+  "updatedLocal": "2026/9/24 16:15:13",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "USRA Contributes Planetary Science Expertise to NASA-IBM Lunar Foundation Model",
-      "summary": "Open-source artificial intelligence model combines diverse lunar datasets to support scientific analysis of the Moon The NASA-IBM model reproduces patterns of lunar ice prospectivity (scaled from blue to yellow), shown at four locations (left) near the Moon’s pole.",
-      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-      "source": "USRA",
-      "tag": "研究",
-      "group": "gis",
-      "published": "2026-09-18T12:47:00.000Z",
-      "why": null,
-      "ago": "5 天前"
-    },
-    {
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "summary": "We’re introducing a new life sciences research group and laboratory at Anthropic.",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-23T18:14:17.000Z",
-      "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "Autonomous AI agents discover reverse transcriptases with tandem repeat arrays - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/22573675ada52a8ca8a97a1a4b4326b2f208a071.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-23T18:29:59.000Z",
-      "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "Measurements for understanding the pace of AI development inside frontier labs",
-      "summary": "Measurements for understanding the pace of AI development inside frontier labs AI systems are becoming exponentially more powerful and have begun to automate more of the process of building themselves.",
-      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-23T21:59:24.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
     {
       "title": "Two years of OpenAI Academy",
       "summary": "Building on our work to help people develop practical AI skills, with plans to bring training to more communities.",
@@ -59,7 +15,7 @@
       "group": "ai",
       "published": "2026-09-23T16:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "OpenAI extends cyber access to Ukraine for civilian defense",
@@ -70,7 +26,7 @@
       "group": "ai",
       "published": "2026-09-23T13:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Sam Altman’s remarks at the United Nations Security Council",
@@ -81,8 +37,62 @@
       "group": "ai",
       "published": "2026-09-23T12:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
+    },
+    {
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "summary": "GPT‑6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-23T12:00:00.000Z",
+      "why": null,
+      "ago": "20 小時前"
+    },
+    {
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-23T12:00:00.000Z",
+      "why": null,
+      "ago": "20 小時前"
+    },
+    {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "summary": "Using GPT‑5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT‑4.1.",
+      "url": "https://openai.com/index/ringg",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-23T12:00:00.000Z",
+      "why": null,
+      "ago": "20 小時前"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Anthropic",
+      "url": "https://news.google.com/rss/search?q=site%3Aanthropic.com&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "GIS × AI 研究",
+      "url": "https://news.google.com/rss/search?q=geospatial%20AI%20OR%20%22spatial%20AI%22%20OR%20%22remote%20sensing%22%20foundation%20model&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "ArcGIS Blog",
+      "url": "https://news.google.com/rss/search?q=site%3Aesri.com%2Farcgis-blog&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "AI 政策",
+      "url": "https://news.google.com/rss/search?q=%22AI%20Act%22%20OR%20%22frontier%20AI%22%20OR%20%22AI%20safety%22%20OR%20%22export%20controls%22%20AI%20regulation&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    }
+  ]
 }

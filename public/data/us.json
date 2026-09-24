@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-24T00:38:05.950Z",
-  "updatedLocal": "2026/9/24 08:38:05",
+  "updated": "2026-09-24T08:15:13.051Z",
+  "updatedLocal": "2026/9/24 16:15:13",
   "digest": null,
   "watch": [],
   "items": [
@@ -13,9 +13,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-23T23:59:39.000Z",
+      "published": "2026-09-24T04:55:59.000Z",
       "why": null,
-      "ago": "38 分鐘前"
+      "ago": "3 小時前"
     },
     {
       "title": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
@@ -24,20 +24,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-23T21:26:36.000Z",
+      "published": "2026-09-24T01:44:14.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation",
-      "summary": "The Commodity Futures Trading Commission advised some of its regulated entities on Tuesday that prediction markets' \"mentions\" contracts are at greater risk of manipulation.",
-      "url": "https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-23T00:58:16.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Here's who we know is going to the Trump-Xi dinner so far",
@@ -46,9 +35,53 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-22T23:43:43.000Z",
+      "published": "2026-09-24T01:54:35.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
+      "summary": "Ever-higher costs to service mounting debt loads pose a major risk to governments around the world, economists have warned.",
+      "url": "https://www.cnbc.com/2026/09/24/global-debt-bond-yields-inflation.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-09-24T08:13:01.000Z",
+      "why": null,
+      "ago": "2 分鐘前"
+    },
+    {
+      "title": "Switzerland is keeping rates at 0% — for now",
+      "summary": "Switzerland's central bank kept its key interest rate at 0% on Thursday, defying the tightening cycle that has begun among many of its major peers.",
+      "url": "https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-09-24T07:58:08.000Z",
+      "why": null,
+      "ago": "17 分鐘前"
+    },
+    {
+      "title": "France's fresh budget battle threatens to topple another government",
+      "summary": "France is paying an ever-higher risk premium on its debt as investors brace for a third straight year of drama over its annual budget, which threatens to topple yet another leader.",
+      "url": "https://www.cnbc.com/2026/09/24/france-budget-debt-deficit-government.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-09-24T06:21:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+      "summary": "SINGAPORE — Other nations will have to fill the funding gap at the UN Food and Agriculture Organization as Washington pulls back, according to Phil Hogan, a former European Union commissioner who is now running to lead the world's biggest food agency.",
+      "url": "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-09-24T04:02:26.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "Here's what happens to the economy when Treasury yields soar like they are now",
@@ -57,9 +90,9 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-09-23T21:11:28.000Z",
+      "published": "2026-09-24T02:50:12.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "5 小時前"
     },
     {
       "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
@@ -70,7 +103,7 @@
       "group": null,
       "published": "2026-09-23T23:15:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
@@ -81,41 +114,24 @@
       "group": null,
       "published": "2026-09-23T22:15:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-23T22:00:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-23T21:59:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Micron’s stock has become a ‘battleground’ as the AI narrative shifts",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-23T21:51:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Reuters 財經",
+      "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20stock%20market%20OR%20Federal%20Reserve&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "財報",
+      "url": "https://news.google.com/rss/search?q=earnings%20beat%20OR%20earnings%20miss%20guidance%20S%26P%20500&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/search?q=site%3Abloomberg.com%20markets%20OR%20earnings&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    }
+  ]
 }
