@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-23T17:31:33.473Z",
-  "updatedLocal": "2026/9/24 01:31:33",
+  "updated": "2026-09-24T00:38:05.950Z",
+  "updatedLocal": "2026/9/24 08:38:05",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+      "summary": "The U.S. and China have extended a truce to keep tariffs lower for longer and rare earths flowing, U.S. Treasury Secretary Scott Bessent said Wednesday local time.",
+      "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-23T23:59:39.000Z",
+      "why": null,
+      "ago": "38 分鐘前"
+    },
     {
       "title": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
       "summary": "BEIJING — The trade deficit that escalated tensions between China and the U.S. in recent years has yet to shrink significantly, and the world's second-largest economy faces deep challenges.",
@@ -13,9 +24,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-23T13:29:08.000Z",
+      "published": "2026-09-23T21:26:36.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "3 小時前"
     },
     {
       "title": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-09-23T00:58:16.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "Here's who we know is going to the Trump-Xi dinner so far",
@@ -37,40 +48,18 @@
       "group": null,
       "published": "2026-09-22T23:43:43.000Z",
       "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds",
-      "summary": "Prediction market platform Kalshi filed on Tuesday with federal regulators to seek approval to offer leverage on event contracts, a prevalent practice already on Wall Street for stocks and futures.",
-      "url": "https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-22T12:28:51.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
+      "title": "Here's what happens to the economy when Treasury yields soar like they are now",
+      "summary": "Soaring Treasury yields aren't just bad for the government and its $40 trillion debt.",
+      "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-09-23T17:16:00.000Z",
+      "published": "2026-09-23T21:11:28.000Z",
       "why": null,
-      "ago": "16 分鐘前"
-    },
-    {
-      "title": "Bond yields surge as Wall Street fears more potential Federal Reserve rate hikes",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-23T17:16:00.000Z",
-      "why": null,
-      "ago": "16 分鐘前"
+      "ago": "3 小時前"
     },
     {
       "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
@@ -79,9 +68,9 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-23T17:15:00.000Z",
+      "published": "2026-09-23T23:15:00.000Z",
       "why": null,
-      "ago": "17 分鐘前"
+      "ago": "1 小時前"
     },
     {
       "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
@@ -90,31 +79,42 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-23T17:00:00.000Z",
+      "published": "2026-09-23T22:15:00.000Z",
       "why": null,
-      "ago": "32 分鐘前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Microsoft has ‘clearly turned the corner.’ How its stock can chart more gains.",
+      "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/microsoft-has-clearly-turned-the-corner-how-its-stock-can-chart-more-gains-b6156467?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-23T16:58:00.000Z",
+      "published": "2026-09-23T22:00:00.000Z",
       "why": null,
-      "ago": "34 分鐘前"
+      "ago": "3 小時前"
     },
     {
-      "title": "10 places where thousands of homeowners face higher insurance bills after FEMA updated its flood maps",
+      "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/10-places-where-thousands-of-homeowners-face-higher-insurance-bills-after-fema-updated-its-flood-maps-ff779184?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-23T16:50:00.000Z",
+      "published": "2026-09-23T21:59:00.000Z",
       "why": null,
-      "ago": "42 分鐘前"
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Micron’s stock has become a ‘battleground’ as the AI narrative shifts",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-23T21:51:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
     }
   ],
   "errors": []

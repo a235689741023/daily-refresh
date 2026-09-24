@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-23T17:31:33.473Z",
-  "updatedLocal": "2026/9/24 01:31:33",
+  "updated": "2026-09-24T00:38:05.950Z",
+  "updatedLocal": "2026/9/24 08:38:05",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-23T11:54:16.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "How FedEx’s CSO engineers sustainability into long-term strategy",
@@ -26,7 +26,18 @@
       "group": null,
       "published": "2026-09-23T07:15:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
+    },
+    {
+      "title": "ISO net-zero standard stalls following member feedback",
+      "summary": "After attracting nearly 5,000 comments, members have sent the International Organization for Standardization's (ISO's) proposed standard back for revisions.",
+      "url": "https://www.edie.net/iso-net-zero-standard-stalls-following-member-feedback/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-23T18:28:42.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "TODAY: Practical actions to drive circularity across the business value chain",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-09-23T15:00:41.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Defra’s sustainable farming application runs dry in just six hours",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-09-23T14:26:13.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "New Look, M&S, Sainsbury’s and Oxfam join forces to scale textile recycling",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-09-23T14:02:22.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Report: World not on track to meet 2030 ocean protection goal",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-09-23T14:00:36.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "In practice: Sustainability supplier engagement schemes that work",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-09-23T12:14:16.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Beyond compliance: Turning climate risk insights into practical adaptation",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-09-23T09:37:45.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "NEXT WEEK: What does a revised ISO 14001 mean for sustainability professionals?",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-09-23T08:30:29.000Z",
       "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "Government backs £90m heat network expansion to cut energy bills",
-      "summary": "The UK Government has announced a £90m investment to support new and upgraded heat networks, helping to bring bills down for over 750,000 homes.",
-      "url": "https://www.edie.net/government-backs-90m-heat-network-expansion-to-cut-energy-bills/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-22T23:02:55.000Z",
-      "why": null,
-      "ago": "18 小時前"
+      "ago": "16 小時前"
     }
   ],
   "errors": []

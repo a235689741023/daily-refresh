@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-23T17:31:33.473Z",
-  "updatedLocal": "2026/9/24 01:31:33",
+  "updated": "2026-09-24T00:38:05.950Z",
+  "updatedLocal": "2026/9/24 08:38:05",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,48 +18,37 @@
       "ago": "5 天前"
     },
     {
-      "title": "Introducing Claude Opus 5.5",
-      "summary": "We’re introducing Claude Opus 5.5, the first model in our new Claude 5.5 family. It performs at the level of Claude Fable 5.1 on most work and costs 40% less to run than Opus 5.",
-      "url": "https://www.anthropic.com/claude-opus-5-5",
-      "source": "anthropic.com",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "summary": "We’re introducing a new life sciences research group and laboratory at Anthropic.",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-22T23:25:46.000Z",
+      "published": "2026-09-23T18:14:17.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Autonomous AI agents discover reverse transcriptases with tandem repeat arrays - www-cdn.anthropic.com",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/22573675ada52a8ca8a97a1a4b4326b2f208a071.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-23T18:29:59.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "Measurements for understanding the pace of AI development inside frontier labs",
       "summary": "Measurements for understanding the pace of AI development inside frontier labs AI systems are becoming exponentially more powerful and have begun to automate more of the process of building themselves.",
       "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-      "source": "anthropic.com",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-23T16:26:57.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Anthropic’s Responsible Scaling Policy (version 3.2) - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/28c6241900d90410628a8a2003a5572faae4365a.pdf",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-22T19:58:19.000Z",
+      "published": "2026-09-23T21:59:24.000Z",
       "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "summary": "Using GPT‑5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT‑4.1.",
-      "url": "https://openai.com/index/ringg",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-24T12:00:00.000Z",
-      "why": null,
-      "ago": "剛剛"
+      "ago": "3 小時前"
     },
     {
       "title": "Two years of OpenAI Academy",
@@ -70,7 +59,7 @@
       "group": "ai",
       "published": "2026-09-23T16:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "OpenAI extends cyber access to Ukraine for civilian defense",
@@ -81,7 +70,18 @@
       "group": "ai",
       "published": "2026-09-23T13:00:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "summary": "Today, OpenAI CEO Sam Altman addressed the United Nations Security Council on artificial intelligence.",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-23T12:00:00.000Z",
+      "why": null,
+      "ago": "13 小時前"
     }
   ],
   "errors": []
