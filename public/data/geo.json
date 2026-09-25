@@ -1,22 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-25T08:37:50.305Z",
-  "updatedLocal": "2026/9/25 16:37:50",
+  "updated": "2026-09-25T17:36:16.034Z",
+  "updatedLocal": "2026/9/26 01:36:16",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "USRA Contributes Planetary Science Expertise to NASA-IBM Lunar Foundation Model",
-      "summary": "Open-source artificial intelligence model combines diverse lunar datasets to support scientific analysis of the Moon The NASA-IBM model reproduces patterns of lunar ice prospectivity (scaled from blue to yellow), shown at four locations (left) near the Moon’s pole.",
-      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-      "source": "USRA",
-      "tag": "研究",
-      "group": "gis",
-      "published": "2026-09-18T12:47:00.000Z",
-      "why": null,
-      "ago": "7 天前"
-    },
     {
       "title": "Project Swap: What happens when agents trade for us?",
       "summary": "Life is full of deals and trades that would leave everyone better off, yet never happen.",
@@ -26,7 +15,7 @@
       "group": "ai",
       "published": "2026-09-24T20:27:02.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Opus 5.5 for Work",
@@ -35,9 +24,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-25T08:04:34.000Z",
+      "published": "2026-09-25T17:00:00.000Z",
       "why": null,
-      "ago": "33 分鐘前"
+      "ago": "36 分鐘前"
     },
     {
       "title": "Measurements for understanding the pace of AI development inside frontier labs",
@@ -46,20 +35,31 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-25T07:20:13.000Z",
+      "published": "2026-09-25T16:26:40.000Z",
       "why": null,
       "ago": "1 小時前"
     },
     {
-      "title": "- partner-sso.anthropic.com",
-      "summary": null,
-      "url": "https://partner-sso.anthropic.com/",
-      "source": "Anthropic",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "summary": "With Codex, GPT‑Live‑1, and GPT‑6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "url": "https://openai.com/index/proaction",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-25T01:52:53.000Z",
+      "published": "2026-09-25T19:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "剛剛"
+    },
+    {
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request .",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-09-25T09:16:25.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Introducing Gemini 3.8 Live with Live Avatar",
@@ -70,18 +70,7 @@
       "group": "ai",
       "published": "2026-09-24T16:20:39.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-      "summary": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time.",
-      "url": "https://blogs.nvidia.com/blog/open-protein-dataset/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-09-24T14:00:50.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
