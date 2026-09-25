@@ -1,22 +1,11 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-24T17:36:41.030Z",
-  "updatedLocal": "2026/9/25 01:36:41",
+  "updated": "2026-09-25T00:38:11.889Z",
+  "updatedLocal": "2026/9/25 08:38:11",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "ISO members send net-zero draft back for revisions",
-      "summary": "The International Organization for Standardization (ISO) is reviewing suggested changes to its corporate net-zero standard after a vote on the first draft fell short of the approval threshold.",
-      "url": "https://trellis.net/article/iso-members-send-net-zero-draft-back-for-revisions/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-23T11:54:16.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
     {
       "title": "How UK is moving climate security up the international agenda",
       "summary": "The package includes £330m for the Global Environment Facility, the main global multilateral fund for protecting nature and tackling environmental threats.",
@@ -26,7 +15,7 @@
       "group": null,
       "published": "2026-09-24T17:14:24.000Z",
       "why": null,
-      "ago": "22 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "UK’s largest dairy farms face calls for tighter environmental controls",
@@ -37,7 +26,7 @@
       "group": null,
       "published": "2026-09-24T15:03:41.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Germany unveils roadmap to quit fossil fuels by 2045",
@@ -48,7 +37,7 @@
       "group": null,
       "published": "2026-09-24T14:18:33.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "NEXT WEEK: What does a revised ISO 14001 mean for sustainability professionals?",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-09-24T12:30:29.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Saving $500m a year: The business case for regenerative agriculture",
@@ -70,18 +59,7 @@
       "group": null,
       "published": "2026-09-24T08:13:10.000Z",
       "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "ISO net-zero standard stalls following member feedback",
-      "summary": "After attracting nearly 5,000 comments, members have sent the International Organization for Standardization's (ISO's) proposed standard back for revisions.",
-      "url": "https://www.edie.net/iso-net-zero-standard-stalls-following-member-feedback/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-23T18:28:42.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Interactive: What China’s dozens of ‘five-year plans’ say about climate and energy",
@@ -92,7 +70,7 @@
       "group": null,
       "published": "2026-09-24T14:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in the UK",
@@ -103,7 +81,7 @@
       "group": null,
       "published": "2026-09-24T11:49:03.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "《我家沒垃圾》 打造零廢棄衣櫥從簡化開始",
@@ -114,7 +92,29 @@
       "group": null,
       "published": "2026-09-24T08:40:04.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
+    },
+    {
+      "title": "201017電子報｜當森林大火燒到饒舌瘦子E-SO甩掉皮囊《OUTTA BODY》唱出全球熱化的世代之聲",
+      "summary": null,
+      "url": "https://www.e-info.org.tw/newsletter/7245",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-09-24T08:03:30.000Z",
+      "why": null,
+      "ago": "17 小時前"
+    },
+    {
+      "title": "環境部金管會聯手調整永續揭露範圍 鎖定資本額20億以上上市櫃公司",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243914",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-09-24T07:53:31.000Z",
+      "why": null,
+      "ago": "17 小時前"
     }
   ],
   "errors": []

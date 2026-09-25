@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-24T17:36:41.030Z",
-  "updatedLocal": "2026/9/25 01:36:41",
+  "updated": "2026-09-25T00:38:11.889Z",
+  "updatedLocal": "2026/9/25 08:38:11",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Here's who is attending the Trump-Xi state dinner",
+      "summary": "U.S. government officials, business leaders and their spouses dominated a list of more than 100 people who will attend a state dinner Thursday, according to a White House press release.",
+      "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-25T00:22:31.000Z",
+      "why": null,
+      "ago": "16 分鐘前"
+    },
     {
       "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
       "summary": "Philadelphia Federal Reserve President Anna Paulson said Thursday that she and her colleagues may need to raise interest rates further to bring inflation back to target.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-09-24T17:12:04.000Z",
       "why": null,
-      "ago": "25 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-09-24T14:16:27.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-09-24T04:55:59.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-09-24T01:44:14.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Here's who we know is going to the Trump-Xi dinner so far",
@@ -59,7 +70,18 @@
       "group": null,
       "published": "2026-09-24T01:54:35.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+      "summary": "The bond market is yelling at the Federal Reserve, but the messages are coming from different directions and pose a dilemma for policymakers as they seek to strike a balance that won't tank the economy.",
+      "url": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-09-24T21:40:19.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-09-24T08:13:01.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Switzerland is keeping rates at 0% — for now",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-09-24T11:34:56.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "France's fresh budget battle threatens to topple another government",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-09-24T06:21:00.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
-      "summary": "SINGAPORE — Other nations will have to fill the funding gap at the UN Food and Agriculture Organization as Washington pulls back, according to Phil Hogan, a former European Union commissioner who is now running to lead the world's biggest food agency.",
-      "url": "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-09-24T04:02:26.000Z",
-      "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "Here's what happens to the economy when Treasury yields soar like they are now",
-      "summary": "Soaring Treasury yields aren't just bad for the government and its $40 trillion debt.",
-      "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-09-24T14:37:14.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "18 小時前"
     }
   ],
   "errors": []

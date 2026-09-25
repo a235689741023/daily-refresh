@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-24T17:36:41.030Z",
-  "updatedLocal": "2026/9/25 01:36:41",
+  "updated": "2026-09-25T00:38:11.889Z",
+  "updatedLocal": "2026/9/25 08:38:11",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,15 +18,15 @@
       "ago": "6 天前"
     },
     {
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "summary": "We’re introducing a new life sciences research group and laboratory at Anthropic.",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "title": "Project Swap: What happens when agents trade for us?",
+      "summary": "Life is full of deals and trades that would leave everyone better off, yet never happen.",
+      "url": "https://www.anthropic.com/research/project-swap",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-23T18:14:17.000Z",
+      "published": "2026-09-24T20:27:02.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "4 小時前"
     },
     {
       "title": "Opus 5.5 for Work",
@@ -35,20 +35,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-24T16:57:53.000Z",
+      "published": "2026-09-24T23:00:44.000Z",
       "why": null,
-      "ago": "39 分鐘前"
-    },
-    {
-      "title": "Autonomous AI agents discover reverse transcriptases with tandem repeat arrays - www-cdn.anthropic.com",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/22573675ada52a8ca8a97a1a4b4326b2f208a071.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-23T18:29:59.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "2 小時前"
     },
     {
       "title": "Measurements for understanding the pace of AI development inside frontier labs",
@@ -57,31 +46,42 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-24T16:12:04.000Z",
+      "published": "2026-09-24T22:16:32.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Two years of OpenAI Academy",
-      "summary": "Building on our work to help people develop practical AI skills, with plans to bring training to more communities.",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "source": "OpenAI",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "summary": "Gemini 3.8 Live with Live Avatar brings real-time visual presence to Gemini’s conversational AI.",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "Google DeepMind",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-23T16:00:00.000Z",
+      "published": "2026-09-24T16:20:39.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "8 小時前"
     },
     {
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "summary": "OpenAI today announced it will offer the Government of Ukraine access to its Daybreak program to support the cyber defense of civilian infrastructure.",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+      "summary": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time.",
+      "url": "https://blogs.nvidia.com/blog/open-protein-dataset/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
       "group": "ai",
-      "published": "2026-09-23T13:00:00.000Z",
+      "published": "2026-09-24T14:00:50.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "11 小時前"
+    },
+    {
+      "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
+      "summary": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch.",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
+      "group": "ai",
+      "published": "2026-09-24T13:00:36.000Z",
+      "why": null,
+      "ago": "12 小時前"
     }
   ],
   "errors": []
