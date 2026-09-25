@@ -1,32 +1,21 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-25T00:38:11.889Z",
-  "updatedLocal": "2026/9/25 08:38:11",
+  "updated": "2026-09-25T08:37:50.305Z",
+  "updatedLocal": "2026/9/25 16:37:50",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "How UK is moving climate security up the international agenda",
-      "summary": "The package includes £330m for the Global Environment Facility, the main global multilateral fund for protecting nature and tackling environmental threats.",
+      "title": "How the UK is moving climate security up the international agenda",
+      "summary": "London is not merely reacting to environmental shifts. It is re-framing them as a direct threat to national stability.",
       "url": "https://www.edie.net/how-uk-is-moving-climate-security-up-the-international-agenda/",
       "source": "edie",
       "tag": "國際",
       "group": null,
       "published": "2026-09-24T17:14:24.000Z",
       "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "UK’s largest dairy farms face calls for tighter environmental controls",
-      "summary": "The Wildlife Trusts is calling for policy reform to bring the most intensive dairy operations under stronger environmental regulation, after research found that more than 40-mega dairies are not subjected to the same level of monitoring as intensive pig and poultry units.",
-      "url": "https://www.edie.net/uks-largest-dairy-farms-face-calls-for-tighter-environmental-controls/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-24T15:03:41.000Z",
-      "why": null,
-      "ago": "10 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Germany unveils roadmap to quit fossil fuels by 2045",
@@ -37,7 +26,7 @@
       "group": null,
       "published": "2026-09-24T14:18:33.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "NEXT WEEK: What does a revised ISO 14001 mean for sustainability professionals?",
@@ -48,18 +37,7 @@
       "group": null,
       "published": "2026-09-24T12:30:29.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Saving $500m a year: The business case for regenerative agriculture",
-      "summary": "With climate risks intensifying, global agrifood supply chains face a host of growing threats and potentially millions in lost yields.",
-      "url": "https://www.edie.net/saving-500m-a-year-the-business-case-for-regenerative-agriculture/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-24T08:13:10.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Interactive: What China’s dozens of ‘five-year plans’ say about climate and energy",
@@ -70,7 +48,7 @@
       "group": null,
       "published": "2026-09-24T14:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in the UK",
@@ -81,7 +59,7 @@
       "group": null,
       "published": "2026-09-24T11:49:03.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "《我家沒垃圾》 打造零廢棄衣櫥從簡化開始",
@@ -92,7 +70,29 @@
       "group": null,
       "published": "2026-09-24T08:40:04.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "24 小時前"
+    },
+    {
+      "title": "Simplified sustainability reporting for companies outside the scope of the CSRD - Voluntary Standard officially enters into force",
+      "summary": "Sustainability reporting in Europe is being recalibrated, moving away from maximum data granularity towards proportionality and manageability across the value chain.",
+      "url": "https://www.ebnerstolz.de/en/what-we-offer/services/auditing/sustainability-reporting/voluntary-standard-109109.html",
+      "source": "RSM Ebner Stolz",
+      "tag": "法規",
+      "group": null,
+      "published": "2026-09-24T18:34:28.000Z",
+      "why": null,
+      "ago": "14 小時前"
+    },
+    {
+      "title": "Saving $500m a year: The business case for regenerative agriculture",
+      "summary": "With climate risks intensifying, global agrifood supply chains face a host of growing threats and potentially millions in lost yields.",
+      "url": "https://www.edie.net/saving-500m-a-year-the-business-case-for-regenerative-agriculture/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-24T08:13:10.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "201017電子報｜當森林大火燒到饒舌瘦子E-SO甩掉皮囊《OUTTA BODY》唱出全球熱化的世代之聲",
@@ -103,18 +103,18 @@
       "group": null,
       "published": "2026-09-24T08:03:30.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "環境部金管會聯手調整永續揭露範圍 鎖定資本額20億以上上市櫃公司",
+      "title": "電動車銷量創新高、搶占市場 國際趨勢顯示：有助降低化石燃料需求",
       "summary": null,
-      "url": "https://e-info.org.tw/node/243914",
+      "url": "https://www.e-info.org.tw/node/202767",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-09-24T07:53:31.000Z",
+      "published": "2026-09-24T06:17:07.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

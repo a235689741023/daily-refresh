@@ -1,21 +1,43 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-25T00:38:11.889Z",
-  "updatedLocal": "2026/9/25 08:38:11",
+  "updated": "2026-09-25T08:37:50.305Z",
+  "updatedLocal": "2026/9/25 16:37:50",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Here's who is attending the Trump-Xi state dinner",
+      "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
+      "summary": "Crypto exchange Bitget suspects North Korean hackers may be behind a security breach that affected about $351.6 million in digital assets, citing preliminary evidence from an ongoing investigation.",
+      "url": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-25T06:13:35.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "China's Xi urges U.S. to cooperate on AI",
+      "summary": "BEIJING — Chinese President Xi Jinping told U.S. President Donald Trump that there is more opportunity for cooperation than competition on artificial intelligence.",
+      "url": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-25T01:22:17.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Here's who attended the Trump-Xi state dinner",
       "summary": "U.S. government officials, business leaders and their spouses dominated a list of more than 100 people who will attend a state dinner Thursday, according to a White House press release.",
       "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-25T00:22:31.000Z",
+      "published": "2026-09-25T06:30:06.000Z",
       "why": null,
-      "ago": "16 分鐘前"
+      "ago": "2 小時前"
     },
     {
       "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-09-24T17:12:04.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-09-24T14:16:27.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
@@ -48,29 +70,7 @@
       "group": null,
       "published": "2026-09-24T04:55:59.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
-      "summary": "BEIJING — The trade deficit that escalated tensions between China and the U.S. in recent years has yet to shrink significantly, and the world's second-largest economy faces deep challenges.",
-      "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-24T01:44:14.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Here's who we know is going to the Trump-Xi dinner so far",
-      "summary": "BEIJING — With two days to go before Chinese President Xi Jinping is expected to land in the U.S., very little is known about which, if any, Chinese executives will join him.",
-      "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-24T01:54:35.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
@@ -79,20 +79,9 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-09-24T21:40:19.000Z",
+      "published": "2026-09-25T02:38:53.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
-      "summary": "Ever-higher costs to service mounting debt loads pose a major risk to governments around the world, economists have warned.",
-      "url": "https://www.cnbc.com/2026/09/24/global-debt-bond-yields-inflation.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-09-24T08:13:01.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "6 小時前"
     },
     {
       "title": "Switzerland is keeping rates at 0% — for now",
@@ -103,18 +92,29 @@
       "group": null,
       "published": "2026-09-24T11:34:56.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
-      "title": "France's fresh budget battle threatens to topple another government",
-      "summary": "France is paying an ever-higher risk premium on its debt as investors brace for a third straight year of drama over its annual budget, which threatens to topple yet another leader.",
-      "url": "https://www.cnbc.com/2026/09/24/france-budget-debt-deficit-government.html",
+      "title": "Here's what happens to the economy when Treasury yields soar like they are now",
+      "summary": "Soaring Treasury yields aren't just bad for the government and its $40 trillion debt.",
+      "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-09-24T06:21:00.000Z",
+      "published": "2026-09-24T14:37:14.000Z",
       "why": null,
       "ago": "18 小時前"
+    },
+    {
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-24T23:35:00.000Z",
+      "why": null,
+      "ago": "9 小時前"
     }
   ],
   "errors": []

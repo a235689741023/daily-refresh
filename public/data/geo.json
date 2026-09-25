@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-25T00:38:11.889Z",
-  "updatedLocal": "2026/9/25 08:38:11",
+  "updated": "2026-09-25T08:37:50.305Z",
+  "updatedLocal": "2026/9/25 16:37:50",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-09-18T12:47:00.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
     },
     {
       "title": "Project Swap: What happens when agents trade for us?",
@@ -26,7 +26,7 @@
       "group": "ai",
       "published": "2026-09-24T20:27:02.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Opus 5.5 for Work",
@@ -35,9 +35,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-24T23:00:44.000Z",
+      "published": "2026-09-25T08:04:34.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "33 分鐘前"
     },
     {
       "title": "Measurements for understanding the pace of AI development inside frontier labs",
@@ -46,9 +46,20 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-24T22:16:32.000Z",
+      "published": "2026-09-25T07:20:13.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "1 小時前"
+    },
+    {
+      "title": "- partner-sso.anthropic.com",
+      "summary": null,
+      "url": "https://partner-sso.anthropic.com/",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-25T01:52:53.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "Introducing Gemini 3.8 Live with Live Avatar",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-09-24T16:20:39.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
@@ -70,18 +81,7 @@
       "group": "ai",
       "published": "2026-09-24T14:00:50.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
-      "summary": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch.",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-09-24T13:00:36.000Z",
-      "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     }
   ],
   "errors": []
