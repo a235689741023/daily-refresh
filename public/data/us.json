@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-26T00:42:46.716Z",
-  "updatedLocal": "2026/9/26 08:42:46",
+  "updated": "2026-09-26T08:24:53.833Z",
+  "updatedLocal": "2026/9/26 16:24:53",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
+      "summary": "BEIJING — China is embracing the idea of competition without confrontation, by invoking an academic concept.",
+      "url": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-26T05:00:01.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms",
       "summary": "\"We hold that Kalshi has not shown that its sports-event contracts satisfy the statutory definition of a 'swap' so as to fall within the scope of the CFTC's 'exclusive jurisdiction,'\" the opinion said.",
@@ -15,29 +26,7 @@
       "group": null,
       "published": "2026-09-25T23:28:42.000Z",
       "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
-      "summary": "Crypto exchange Bitget suspects North Korean hackers may be behind a security breach that affected about $351.6 million in digital assets, citing preliminary evidence from an ongoing investigation.",
-      "url": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-25T06:13:35.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "China's Xi urges U.S. to cooperate on AI",
-      "summary": "BEIJING — Chinese President Xi Jinping told U.S. President Donald Trump that there is more opportunity for cooperation than competition on artificial intelligence.",
-      "url": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-25T01:22:17.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Here's who attended the Trump-Xi state dinner",
@@ -48,7 +37,18 @@
       "group": null,
       "published": "2026-09-25T14:41:24.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
+      "summary": "Crypto exchange Bitget suspects North Korean hackers may be behind a security breach that affected about $351.6 million in digital assets, citing preliminary evidence from an ongoing investigation.",
+      "url": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-25T06:13:35.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-09-25T10:25:01.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-09-25T11:08:05.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Here's what happens to the economy when Treasury yields soar like they are now",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-09-25T13:48:19.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-09-26T00:00:00.000Z",
       "why": null,
-      "ago": "43 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
@@ -103,7 +103,7 @@
       "group": null,
       "published": "2026-09-25T23:30:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-09-25T22:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     }
   ],
   "errors": []

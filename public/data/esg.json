@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-26T00:42:46.716Z",
-  "updatedLocal": "2026/9/26 08:42:46",
+  "updated": "2026-09-26T08:24:53.833Z",
+  "updatedLocal": "2026/9/26 16:24:53",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-25T15:43:58.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Can businesses still meaningfully contribute to the Sustainable Development Goals?",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-25T13:39:37.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "ON TUESDAY: What does a revised ISO 14001 mean for sustainability professionals?",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-09-25T12:30:29.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Governments urged to unlock private investment as Europe faces €500bn climate resilience bill",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-09-25T11:36:16.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak",
@@ -59,7 +59,18 @@
       "group": null,
       "published": "2026-09-25T12:45:39.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
+    },
+    {
+      "title": "AI淨零／台科大助力AI教育高職師巧「刁難」防過度依賴科技| 生活",
+      "summary": "數位轉型已是產業進行式，人工智慧、淨零碳排更是政府與企業面對的兩大挑戰，攸關台灣未來競爭力。中央社第一線採訪團隊，深入報導政府與百工百業如何運用AI優化生產流程、驅動綠色創新，見證台灣產業再一次躍升。（中央社記者 陳至中 台北26日電）國立台灣科技大學近年培養種子教師與辦競賽等，幫高職推動人工智慧（AI）教育。",
+      "url": "https://www.cna.com.tw/news/ahel/202609260025.aspx",
+      "source": "cna.com.tw",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-09-26T01:16:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "Day 4 at Climate Week NYC: Governments and Business Focus on Climate Delivery",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-09-25T13:13:32.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "ADM Plans 800,000-Ton Carbon Removal Credit Offering from Nebraska CCS",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-09-25T12:44:14.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Microsoft, PepsiCo Back Record 2,500-Truck Tesla Semi Order",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-09-25T12:31:54.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "ERM, osapiens Partner to Turn ESG Compliance Data Into Business Action",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-09-25T11:22:14.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "ESB Raises $575 Million in Ireland’s First European Green Bond Deal",
-      "summary": "DUBLIN, Ireland: ESB has raised approximately $575 million through its inaugural European Green Bond, becoming the first Irish corporate issuer to use the EU’s regulated green bond format.",
-      "url": "https://esgnews.com/esb-raises-575-million-in-irelands-first-european-green-bond-deal/?utm_source=rss&utm_medium=rss&utm_campaign=esb-raises-575-million-in-irelands-first-european-green-bond-deal",
-      "source": "ESG News",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-25T11:03:33.000Z",
-      "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
     }
   ],
   "errors": []
