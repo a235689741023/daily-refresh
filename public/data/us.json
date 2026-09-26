@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-25T17:36:16.034Z",
-  "updatedLocal": "2026/9/26 01:36:16",
+  "updated": "2026-09-26T00:42:46.716Z",
+  "updatedLocal": "2026/9/26 08:42:46",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms",
+      "summary": "\"We hold that Kalshi has not shown that its sports-event contracts satisfy the statutory definition of a 'swap' so as to fall within the scope of the CFTC's 'exclusive jurisdiction,'\" the opinion said.",
+      "url": "https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-25T23:28:42.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
     {
       "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
       "summary": "Crypto exchange Bitget suspects North Korean hackers may be behind a security breach that affected about $351.6 million in digital assets, citing preliminary evidence from an ongoing investigation.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-09-25T06:13:35.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "China's Xi urges U.S. to cooperate on AI",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-09-25T01:22:17.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Here's who attended the Trump-Xi state dinner",
@@ -37,29 +48,7 @@
       "group": null,
       "published": "2026-09-25T14:41:24.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
-      "summary": "Philadelphia Federal Reserve President Anna Paulson said Thursday that she and her colleagues may need to raise interest rates further to bring inflation back to target.",
-      "url": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-24T17:12:04.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
-      "summary": "BEIJING—China's Commerce Ministry confirmed Thursday that its senior trade negotiators had held their first talks with the U.S. on artificial intelligence.",
-      "url": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-24T14:16:27.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "10 小時前"
     },
     {
       "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-09-25T10:25:01.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
@@ -81,7 +70,7 @@
       "group": null,
       "published": "2026-09-25T11:08:05.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Here's what happens to the economy when Treasury yields soar like they are now",
@@ -92,29 +81,40 @@
       "group": null,
       "published": "2026-09-25T13:48:19.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
+      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-25T17:30:00.000Z",
+      "published": "2026-09-26T00:00:00.000Z",
       "why": null,
-      "ago": "6 分鐘前"
+      "ago": "43 分鐘前"
     },
     {
-      "title": "This is why you might see 8% mortgage rates soon",
+      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/this-is-why-you-might-see-8-mortgage-rates-soon-6a2e24dd?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-25T17:20:00.000Z",
+      "published": "2026-09-25T23:30:00.000Z",
       "why": null,
-      "ago": "16 分鐘前"
+      "ago": "1 小時前"
+    },
+    {
+      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-25T22:00:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
     }
   ],
   "errors": []

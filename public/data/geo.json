@@ -1,21 +1,21 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-25T17:36:16.034Z",
-  "updatedLocal": "2026/9/26 01:36:16",
+  "updated": "2026-09-26T00:42:46.716Z",
+  "updatedLocal": "2026/9/26 08:42:46",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Project Swap: What happens when agents trade for us?",
-      "summary": "Life is full of deals and trades that would leave everyone better off, yet never happen.",
-      "url": "https://www.anthropic.com/research/project-swap",
+      "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills",
+      "summary": "In this guest post, physicist and science writer Matt von Hippel shares what happened when he issued a challenge to AI companies regarding a problem in his former subfield of theoretical physics.",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-24T20:27:02.000Z",
+      "published": "2026-09-25T17:44:53.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Opus 5.5 for Work",
@@ -26,7 +26,7 @@
       "group": "ai",
       "published": "2026-09-25T17:00:00.000Z",
       "why": null,
-      "ago": "36 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "Measurements for understanding the pace of AI development inside frontier labs",
@@ -35,9 +35,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-25T16:26:40.000Z",
+      "published": "2026-09-25T19:25:19.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "5 小時前"
     },
     {
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -48,7 +48,18 @@
       "group": "ai",
       "published": "2026-09-25T19:00:00.000Z",
       "why": null,
-      "ago": "剛剛"
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Project Swap: What happens when agents trade for us?",
+      "summary": "Life is full of deals and trades that would leave everyone better off, yet never happen.",
+      "url": "https://www.anthropic.com/research/project-swap",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-24T20:27:02.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
@@ -59,18 +70,7 @@
       "group": "ai",
       "published": "2026-09-25T09:16:25.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "summary": "Gemini 3.8 Live with Live Avatar brings real-time visual presence to Gemini’s conversational AI.",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "source": "Google DeepMind",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-24T16:20:39.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "15 小時前"
     }
   ],
   "errors": []
