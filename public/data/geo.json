@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-26T08:24:53.833Z",
-  "updatedLocal": "2026/9/26 16:24:53",
+  "updated": "2026-09-26T16:48:05.947Z",
+  "updatedLocal": "2026/9/27 00:48:05",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "ai",
       "published": "2026-09-25T17:44:53.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Opus 5.5 for Work",
@@ -26,18 +26,7 @@
       "group": "ai",
       "published": "2026-09-25T17:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Anthropic Trust Center - Trust Center",
-      "summary": "Anthropic is an AI safety and research company with a mission of ensuring the world safely makes the transition through transformative AI.",
-      "url": "https://trust.anthropic.com/?939688b5_page\\=3\\&hs_amp\\=true",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-25T09:46:59.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -48,18 +37,7 @@
       "group": "ai",
       "published": "2026-09-25T19:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request .",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-09-25T09:16:25.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Oregon Is Latest State to Move on Frontier AI Regulation",
@@ -70,7 +48,29 @@
       "group": "ai",
       "published": "2026-09-25T22:52:58.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "The AI safety debate is confusing. Here's our guide to the different factions",
+      "summary": "Clockwise from top left: former Google AI research scientist Timnit Gebru, Anthropic Co-founder and CEO Dario Amodei, White House AI and crypto czar David Sacks, Steve Bannon, computer scientist and cognitive psychologist Geoffrey Hinton, researcher Fei-Fei Li.",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
+      "source": "NPR",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-26T09:00:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Deployment of AI Recruitment Tools in the EU: Employer Obligations Under GDPR and EU AI Act",
+      "summary": "The AEPD recently issued a formal preventive warning to an organisation that was preparing to deploy an AI recruitment tool that would screen and evaluate job applications, and existing employee applications for internal mobility.",
+      "url": "https://ogletree.com/insights-resources/blog-posts/deployment-of-ai-recruitment-tools-in-the-eu-employer-obligations-under-gdpr-and-eu-ai-act/",
+      "source": "Ogletree",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-25T19:14:42.000Z",
+      "why": null,
+      "ago": "22 小時前"
     }
   ],
   "errors": []
