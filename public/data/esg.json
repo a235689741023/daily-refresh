@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-26T16:48:05.947Z",
-  "updatedLocal": "2026/9/27 00:48:05",
+  "updated": "2026-09-27T00:44:07.970Z",
+  "updatedLocal": "2026/9/27 08:44:07",
   "digest": null,
   "watch": [],
   "items": [
@@ -40,26 +40,15 @@
       "ago": "昨日"
     },
     {
-      "title": "ON TUESDAY: What does a revised ISO 14001 mean for sustainability professionals?",
-      "summary": "On 29 September, edie is hosting a webinar in partnership with BSI to explore changes to the ISO 14001 standard addressing environmental management.",
-      "url": "https://www.edie.net/next-week-what-does-a-revised-iso-14001-mean-for-sustainability-professionals/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "碳費上路後的真正考驗：從「收錢」邁向「治理」，台灣這筆錢該怎麼花？",
+      "summary": null,
+      "url": "https://www.thenewslens.com/article/270221",
+      "source": "TNL The News Lens 關鍵評論網",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-09-25T12:30:29.000Z",
+      "published": "2026-09-26T23:57:00.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Governments urged to unlock private investment as Europe faces €500bn climate resilience bill",
-      "summary": "At Climate Week NYC, the Taskforce on Net Zero Policy (TNZP) has highlighted the importance of mobilising adaptation investment, with research showing that Europe could require €500bn to adapt through 2035.",
-      "url": "https://www.edie.net/governments-urged-to-unlock-private-investment-as-europe-faces-e500bn-climate-resilience-bill/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-25T11:36:16.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "47 分鐘前"
     },
     {
       "title": "AI淨零／台科大助力AI教育高職師巧「刁難」防過度依賴科技| 生活",
@@ -70,7 +59,29 @@
       "group": null,
       "published": "2026-09-26T01:16:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "ON TUESDAY: What does a revised ISO 14001 mean for sustainability professionals?",
+      "summary": "On 29 September, edie is hosting a webinar in partnership with BSI to explore changes to the ISO 14001 standard addressing environmental management.",
+      "url": "https://www.edie.net/next-week-what-does-a-revised-iso-14001-mean-for-sustainability-professionals/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-25T12:30:29.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "Governments urged to unlock private investment as Europe faces €500bn climate resilience bill",
+      "summary": "At Climate Week NYC, the Taskforce on Net Zero Policy (TNZP) has highlighted the importance of mobilising adaptation investment, with research showing that Europe could require €500bn to adapt through 2035.",
+      "url": "https://www.edie.net/governments-urged-to-unlock-private-investment-as-europe-faces-e500bn-climate-resilience-bill/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-25T11:36:16.000Z",
+      "why": null,
+      "ago": "2 天前"
     },
     {
       "title": "Day 4 at Climate Week NYC: Governments and Business Focus on Climate Delivery",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-09-25T12:31:54.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "ERM, osapiens Partner to Turn ESG Compliance Data Into Business Action",
-      "summary": "Sustainability consultancy ERM has partnered with digital ESG platform provider osapiens to help companies manage increasingly complex sustainability data and regulatory requirements.",
-      "url": "https://esgnews.com/erm-osapiens-partner-to-turn-esg-compliance-data-into-business-action/?utm_source=rss&utm_medium=rss&utm_campaign=erm-osapiens-partner-to-turn-esg-compliance-data-into-business-action",
-      "source": "ESG News",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-25T11:22:14.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     }
   ],
   "errors": []
