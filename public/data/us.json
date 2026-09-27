@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-27T09:02:56.005Z",
-  "updatedLocal": "2026/9/27 17:02:56",
+  "updated": "2026-09-27T17:20:03.420Z",
+  "updatedLocal": "2026/9/28 01:20:03",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+      "summary": "With Treasury yields climbing this week to their highest levels since 2007, companies reliant on debt are poised to see their borrowing costs rise.",
+      "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-27T15:35:34.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
       "summary": "Investors looking to boost their exposure to artificial intelligence should target China, according to Matthews Asia portfolio manager Andrew Mattock.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-09-26T15:00:01.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
       "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
@@ -26,29 +37,62 @@
       "group": null,
       "published": "2026-09-26T13:30:06.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
-      "summary": "BEIJING — China is embracing the idea of competition without confrontation, by invoking an academic concept.",
-      "url": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-26T05:00:01.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-26T20:00:00.000Z",
+      "published": "2026-09-27T16:45:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "35 分鐘前"
+    },
+    {
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-27T16:00:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-27T16:00:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-27T15:15:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+      "summary": "I am 77 years old. I am a retired senior citizen living check-to-check. I live off Social Security.",
+      "url": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-27T15:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
@@ -57,64 +101,20 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-26T19:00:00.000Z",
+      "published": "2026-09-27T14:45:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
+      "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-26T17:54:00.000Z",
+      "published": "2026-09-27T14:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Social Security checks are projected to be cut by $540 a month in just six years",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-26T17:15:00.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "A 10% risk-free yield? For some, yes.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-26T16:51:00.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-26T16:22:00.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-26T15:48:00.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "3 小時前"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-27T09:02:56.005Z",
-  "updatedLocal": "2026/9/27 17:02:56",
+  "updated": "2026-09-27T17:20:03.420Z",
+  "updatedLocal": "2026/9/28 01:20:03",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-27T04:28:58.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "碳費上路後的真正考驗：從「收錢」邁向「治理」，台灣這筆錢該怎麼花？",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-26T23:57:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "2050淨零目標倒數　永續教父揭卡關大魔王",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-09-27T05:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "2026台灣設計展《桃園演算室》　展現淨零城市想像",
@@ -48,7 +48,18 @@
       "group": null,
       "published": "2026-09-27T03:26:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
+    },
+    {
+      "title": "ESG Today: Week in Review",
+      "summary": "This week in ESG news: EU publishes final revised sustainability reporting standards; Glass Lewis merges with Clarity AI to form unified stewardship and sustainability data platform; Bain survey finds rebounding consumer concern on sustainability, increasing sustainable consumption behavior; Schroders launches new framework to identify and assess climate adaptation investment opportunities; EU to launch sustainability criteria, labels for data centers; Germany unveils plan to exit fossil fuels by 2045; New York’s inaugural ESG bond offering; MSCI’s new Head of Sustainability, and more.",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-276/",
+      "source": "esgtoday.com",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-27T08:25:41.000Z",
+      "why": null,
+      "ago": "9 小時前"
     }
   ],
   "errors": []
