@@ -1,43 +1,21 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-27T00:44:07.970Z",
-  "updatedLocal": "2026/9/27 08:44:07",
+  "updated": "2026-09-27T09:02:56.005Z",
+  "updatedLocal": "2026/9/27 17:02:56",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Australia ratifies the High Seas Treaty",
-      "summary": "Joining more than 90 other countries, the Australian Government has officially ratified the High Seas Treaty, (formally the Agreement under the UN Convention on the Law of the Sea on Conservation and Sustainable Use of Marine Biodiversity Beyond National Jurisdiction (BBNJ)).",
-      "url": "https://www.edie.net/australia-ratifies-the-high-seas-treaty/",
+      "title": "EU Directive on Empowering Consumers for the Green Transition enters into force: Everything you need to know",
+      "summary": "The EU Directive on Empowering Consumers for the Green Transition (the ECGT or EmpCo Directive) becomes legally binding for businesses on 27 September.",
+      "url": "https://www.edie.net/eu-directive-on-empowering-consumers-for-the-green-transition-enters-into-force-everything-you-need-to-know/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-09-25T15:43:58.000Z",
+      "published": "2026-09-27T04:28:58.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Can businesses still meaningfully contribute to the Sustainable Development Goals?",
-      "summary": "With a little over three years until 2030, the UN Sustainable Development Goals (SDGs) will not be met.",
-      "url": "https://www.edie.net/can-businesses-still-meaningfully-contribute-to-the-sustainable-development-goals/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-25T13:39:37.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak",
-      "summary": "Antarctic sea ice has recorded its third-smallest winter peak extent since satellite records began 48 years ago, new data reveals.",
-      "url": "https://www.carbonbrief.org/concerning-low-sea-ice-persists-as-antarctic-hits-third-lowest-winter-peak",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-09-25T12:45:39.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "5 小時前"
     },
     {
       "title": "碳費上路後的真正考驗：從「收錢」邁向「治理」，台灣這筆錢該怎麼花？",
@@ -48,73 +26,29 @@
       "group": null,
       "published": "2026-09-26T23:57:00.000Z",
       "why": null,
-      "ago": "47 分鐘前"
+      "ago": "9 小時前"
     },
     {
-      "title": "AI淨零／台科大助力AI教育高職師巧「刁難」防過度依賴科技| 生活",
-      "summary": "數位轉型已是產業進行式，人工智慧、淨零碳排更是政府與企業面對的兩大挑戰，攸關台灣未來競爭力。中央社第一線採訪團隊，深入報導政府與百工百業如何運用AI優化生產流程、驅動綠色創新，見證台灣產業再一次躍升。（中央社記者 陳至中 台北26日電）國立台灣科技大學近年培養種子教師與辦競賽等，幫高職推動人工智慧（AI）教育。",
-      "url": "https://www.cna.com.tw/news/ahel/202609260025.aspx",
-      "source": "中央社 CNA",
+      "title": "2050淨零目標倒數　永續教父揭卡關大魔王",
+      "summary": "▲台灣要在2050年達成建築淨零碳排，真正的難題恐怕不是「新建築怎麼蓋」，而是全台高達97％的既有建築如何改造。（圖／記者陳筱惠攝） 台灣要在2050年達成建築淨零碳排，真正的難題不是「新建築怎麼蓋」，而是高達97％的既有建築如何改造。",
+      "url": "https://house.ettoday.net/news/3235812",
+      "source": "ETtoday房產雲",
       "tag": "台灣",
       "group": null,
-      "published": "2026-09-26T01:16:00.000Z",
+      "published": "2026-09-27T05:00:00.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "4 小時前"
     },
     {
-      "title": "ON TUESDAY: What does a revised ISO 14001 mean for sustainability professionals?",
-      "summary": "On 29 September, edie is hosting a webinar in partnership with BSI to explore changes to the ISO 14001 standard addressing environmental management.",
-      "url": "https://www.edie.net/next-week-what-does-a-revised-iso-14001-mean-for-sustainability-professionals/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "2026台灣設計展《桃園演算室》　展現淨零城市想像",
+      "summary": "2026台灣設計展在桃園，市府環保局於桃園會展中心A9展區推出《桃園演算室TAOYUAN RE:CODE》，以「進入系統，用日常重新編碼城市未來」為主軸，規劃集體演算、動態演算及行動演算三大展區。展覽透過5公尺高藝術裝置、大型環狀即時生成藝術、碳排負重體驗及循環材料咖啡廳，帶領民眾看見生活選擇與城市淨零轉型之間的關係。",
+      "url": "https://www.ettoday.net/news/20260927/3244589.htm",
+      "source": "ETtoday新聞雲",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-09-25T12:30:29.000Z",
+      "published": "2026-09-27T03:26:00.000Z",
       "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Governments urged to unlock private investment as Europe faces €500bn climate resilience bill",
-      "summary": "At Climate Week NYC, the Taskforce on Net Zero Policy (TNZP) has highlighted the importance of mobilising adaptation investment, with research showing that Europe could require €500bn to adapt through 2035.",
-      "url": "https://www.edie.net/governments-urged-to-unlock-private-investment-as-europe-faces-e500bn-climate-resilience-bill/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-25T11:36:16.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Day 4 at Climate Week NYC: Governments and Business Focus on Climate Delivery",
-      "summary": "Across New York, discussions moved from solar investment and building efficiency to sport, insurance and public trust.",
-      "url": "https://esgnews.com/day-4-at-climate-week-nyc-governments-and-business-focus-on-climate-delivery/?utm_source=rss&utm_medium=rss&utm_campaign=day-4-at-climate-week-nyc-governments-and-business-focus-on-climate-delivery",
-      "source": "ESG News",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-25T13:13:32.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "ADM Plans 800,000-Ton Carbon Removal Credit Offering from Nebraska CCS",
-      "summary": "ADM is preparing to enter the voluntary carbon dioxide removal market at significant scale.",
-      "url": "https://esgnews.com/adm-plans-800000-ton-carbon-removal-credit-offering-from-nebraska-ccs/?utm_source=rss&utm_medium=rss&utm_campaign=adm-plans-800000-ton-carbon-removal-credit-offering-from-nebraska-ccs",
-      "source": "ESG News",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-25T12:44:14.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Microsoft, PepsiCo Back Record 2,500-Truck Tesla Semi Order",
-      "summary": "A coalition backed by major cargo owners including Microsoft and PepsiCo has placed the largest electric Class 8 truck order in U.S. history.",
-      "url": "https://esgnews.com/microsoft-pepsico-back-record-2500-truck-tesla-semi-order/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-pepsico-back-record-2500-truck-tesla-semi-order",
-      "source": "ESG News",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-25T12:31:54.000Z",
-      "why": null,
-      "ago": "2 天前"
+      "ago": "6 小時前"
     }
   ],
   "errors": []

@@ -1,43 +1,21 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-27T00:44:07.970Z",
-  "updatedLocal": "2026/9/27 08:44:07",
+  "updated": "2026-09-27T09:02:56.005Z",
+  "updatedLocal": "2026/9/27 17:02:56",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "summary": "With Codex, GPT‑Live‑1, and GPT‑6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "url": "https://openai.com/index/proaction",
-      "source": "OpenAI",
+      "title": "ANT-2026-SB4PHA43 · wolfssl/wolfssl",
+      "summary": "Severity Claude high · Security research firm high · Maintainer medium Anthropic's analysis, sealed at approval.",
+      "url": "https://red.anthropic.com/2026/cvd/findings/ANT-2026-SB4PHA43",
+      "source": "Frontier Red Team",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-25T19:00:00.000Z",
+      "published": "2026-09-27T05:33:19.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Google, OpenAI, and Anthropic just made a move on AI safety",
-      "summary": "Three of the most powerful companies building artificial intelligence are working on something unusual. Rules for themselves, written by themselves.",
-      "url": "https://currently.att.yahoo.com/att/google-openai-anthropic-just-made-174700095.html",
-      "source": "Currently.com",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-26T17:47:00.000Z",
-      "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "The AI safety debate is confusing. Here's our guide to the different factions",
-      "summary": "Clockwise from top left: former Google AI research scientist Timnit Gebru, Anthropic Co-founder and CEO Dario Amodei, White House AI and crypto czar David Sacks, Steve Bannon, computer scientist and cognitive psychologist Geoffrey Hinton, researcher Fei-Fei Li.",
-      "url": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
-      "source": "npr.org",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-26T09:00:00.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "3 小時前"
     },
     {
       "title": "AI leaders say they want better safety. They want more than that.",
@@ -48,7 +26,40 @@
       "group": "ai",
       "published": "2026-09-26T19:17:46.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "14 小時前"
+    },
+    {
+      "title": "Google, OpenAI, and Anthropic just made a move on AI safety",
+      "summary": null,
+      "url": "https://www.thestreet.com/technology/google-openai-anthropic-launch-ai-safety-safa-regulatory-body",
+      "source": "thestreet.com",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-26T14:47:00.000Z",
+      "why": null,
+      "ago": "18 小時前"
+    },
+    {
+      "title": "Martin Casado on AI Safety: \"Pacing\" Is the Wrong Frame, and the Real Innovation Has Left the Labs",
+      "summary": "The most dangerous thing an AI company can do right now is not train a smarter model. It is telling the world the technology might kill everyone, and then asking for more money to build it faster.",
+      "url": "https://finance.biggo.com/news/b0905b9191cf176c",
+      "source": "finance.biggo.com",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-26T16:08:00.000Z",
+      "why": null,
+      "ago": "17 小時前"
+    },
+    {
+      "title": "The AI safety debate is confusing. Here's our guide to the different factions",
+      "summary": "Clockwise from top left: former Google AI research scientist Timnit Gebru, Anthropic Co-founder and CEO Dario Amodei, White House AI and crypto czar David Sacks, Steve Bannon, computer scientist and cognitive psychologist Geoffrey Hinton, researcher Fei-Fei Li.",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
+      "source": "NPR",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-26T09:00:00.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "AI Safety or Market Control? Anthropic Investor Joe Lonsdale Takes Aim at Tech Giants",
@@ -59,18 +70,7 @@
       "group": "ai",
       "published": "2026-09-26T04:55:32.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Martin Casado on AI Safety: \"Pacing\" Is the Wrong Frame, and the Real Innovation Has Left the Labs",
-      "summary": null,
-      "url": "https://finance.biggo.com/news/b0905b9191cf176c",
-      "source": "finance.biggo.com",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-26T16:08:00.000Z",
-      "why": null,
-      "ago": "9 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
