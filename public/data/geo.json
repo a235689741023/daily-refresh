@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-27T17:20:03.420Z",
-  "updatedLocal": "2026/9/28 01:20:03",
+  "updated": "2026-09-28T00:57:37.740Z",
+  "updatedLocal": "2026/9/28 08:57:37",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,62 +15,62 @@
       "group": "ai",
       "published": "2026-09-27T05:33:19.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
-      "title": "Anthropic and OpenAI sound alarm on AI safety — and seek to shape how it’s controlled",
-      "summary": "This is read by an automated voice. Please report any issues or inconsistencies here .",
-      "url": "https://www.latimes.com/world-nation/story/2026-09-27/as-ai-companies-sound-alarm-on-safety-they-seek-to-shape-how-its-controlled",
-      "source": "Los Angeles Times",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-27T15:14:27.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "AI leaders say they want better safety. They want more than that.",
-      "summary": "As anxiety mounts over artificial intelligence safety, a number of leaders who helm frontier labs have made clear that they want and need better industry standards to contain the potentially dangerous technology .",
-      "url": "https://mashable.com/tech/ai-safety-anthropic-openai-google",
-      "source": "Mashable",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-26T19:17:46.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Anthropic, OpenAI Face Pushback Over AI Safety Push as Investor Warns of Oligopoly Risk",
-      "summary": "Joe Lonsdale, an investor in Anthropic and co-founder of technology company Palantir, has accused leading artificial intelligence companies of using warnings about existential AI risks to influence public policy, warning that poorly designed regulation could strengthen the market position of the very companies pushing for greater oversight.",
-      "url": "https://www.tekedia.com/anthropic-openai-face-pushback-over-ai-safety-push-as-investor-warns-of-oligopoly-risk/",
-      "source": "Tekedia",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-27T08:26:57.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "Singapore proposes a UN framework convention on AI safety",
-      "summary": "Singapore Foreign Minister Vivian Balakrishnan delivers Singapore’s national statement at the General Debate of the UN General Assembly in New York on Sept 26.",
-      "url": "https://www.straitstimes.com/world/united-states/singapore-proposes-a-un-framework-convention-on-ai-safety",
-      "source": "The Straits Times",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-27T01:03:00.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Martin Casado on AI Safety: \"Pacing\" Is the Wrong Frame, and the Real Innovation Has Left the Labs",
+      "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
       "summary": null,
-      "url": "https://finance.biggo.com/news/b0905b9191cf176c",
-      "source": "finance.biggo.com",
+      "url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
+      "source": "The New York Times",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-09-26T16:08:00.000Z",
+      "published": "2026-09-27T11:22:48.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "14 小時前"
+    },
+    {
+      "title": "California names experts to examine frontier AI kill switch | ETIH EdTech News",
+      "summary": "California Governor Gavin Newsom has appointed four technology and policy experts to advise the state on tighter oversight of frontier AI, including proposals for independent verification inside AI labs and a potential emergency “kill switch” for advanced models.",
+      "url": "https://www.edtechinnovationhub.com/news/california-names-expert-panel-to-shape-ai-oversight-and-potential-frontier-model-kill-switch",
+      "source": "EdTech Innovation Hub",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-27T23:35:51.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Bill Gates Says AI Safety Concerns Are ‘Not A Hoax,’ Contradicting Trump",
+      "summary": null,
+      "url": "https://www.forbes.com/sites/zacharyfolk/2026/09/27/bill-gates-says-ai-safety-concerns-are-not-a-hoax-contradicting-trump/",
+      "source": "Forbes",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-27T17:38:55.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Bill Gates warns AI could be used to trigger 'a billion deaths,' urges regulation",
+      "summary": "by EMMA KOPPELMAN | The National News Desk (TNND) — Artificial intelligence is now powerful enough to cause catastrophic harm, Bill Gates warned , saying malicious actors could use advanced AI tools to drive events that result in “ a billion deaths .",
+      "url": "https://kmph.com/news/nation-world/bill-gates-warns-ai-could-be-used-to-trigger-a-billion-deaths-urges-regulation",
+      "source": "kmph.com",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-27T20:26:23.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it's controlled",
+      "summary": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?",
+      "url": "https://www.wvtm13.com/article/anthropic-openai-sound-alarm-on-ai-safety/73909542",
+      "source": "WVTM Channel 13",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-27T20:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     }
   ],
   "errors": []

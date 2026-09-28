@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-27T17:20:03.420Z",
-  "updatedLocal": "2026/9/28 01:20:03",
+  "updated": "2026-09-28T00:57:37.740Z",
+  "updatedLocal": "2026/9/28 08:57:37",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "UK’s largest dairy farms face calls for tighter environmental controls",
+      "summary": "The Wildlife Trusts is calling for policy reform to bring the most intensive dairy operations under stronger environmental regulation, after research found that more than 40-mega dairies are not subjected to the same level of monitoring as intensive pig and poultry units.",
+      "url": "https://www.edie.net/uks-largest-dairy-farms-face-calls-for-tighter-environmental-controls/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-27T23:01:41.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "EU Directive on Empowering Consumers for the Green Transition enters into force: Everything you need to know",
       "summary": "The EU Directive on Empowering Consumers for the Green Transition (the ECGT or EmpCo Directive) becomes legally binding for businesses on 27 September.",
@@ -15,18 +26,18 @@
       "group": null,
       "published": "2026-09-27T04:28:58.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "碳費上路後的真正考驗：從「收錢」邁向「治理」，台灣這筆錢該怎麼花？",
-      "summary": null,
-      "url": "https://www.thenewslens.com/article/270221",
-      "source": "TNL The News Lens 關鍵評論網",
-      "tag": "台灣",
+      "title": "Staying the Course: The State of 2026 U.S. Sustainability Reports - The Harvard Law School Forum on Corporate Governance",
+      "summary": "Diana Lee is a Managing Director and Matt Filosa is a Senior Managing Director at Teneo.",
+      "url": "https://corpgov.law.harvard.edu/2026/09/27/staying-the-course-the-state-of-2026-u-s-sustainability-reports/",
+      "source": "國際法規",
+      "tag": "法規",
       "group": null,
-      "published": "2026-09-26T23:57:00.000Z",
+      "published": "2026-09-27T11:30:47.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "2050淨零目標倒數　永續教父揭卡關大魔王",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-09-27T05:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "2026台灣設計展《桃園演算室》　展現淨零城市想像",
@@ -48,18 +59,29 @@
       "group": null,
       "published": "2026-09-27T03:26:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
+    },
+    {
+      "title": "碳費上路後的真正考驗：從「收錢」邁向「治理」，台灣這筆錢該怎麼花？",
+      "summary": null,
+      "url": "https://www.thenewslens.com/article/270221",
+      "source": "thenewslens.com",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-09-26T23:57:00.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "ESG Today: Week in Review",
       "summary": "This week in ESG news: EU publishes final revised sustainability reporting standards; Glass Lewis merges with Clarity AI to form unified stewardship and sustainability data platform; Bain survey finds rebounding consumer concern on sustainability, increasing sustainable consumption behavior; Schroders launches new framework to identify and assess climate adaptation investment opportunities; EU to launch sustainability criteria, labels for data centers; Germany unveils plan to exit fossil fuels by 2045; New York’s inaugural ESG bond offering; MSCI’s new Head of Sustainability, and more.",
       "url": "https://www.esgtoday.com/esg-today-week-in-review-276/",
-      "source": "esgtoday.com",
+      "source": "ESG Today",
       "tag": "國際",
       "group": null,
       "published": "2026-09-27T08:25:41.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     }
   ],
   "errors": []
