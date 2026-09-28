@@ -1,11 +1,33 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-28T00:57:37.740Z",
-  "updatedLocal": "2026/9/28 08:57:37",
+  "updated": "2026-09-28T09:30:36.719Z",
+  "updatedLocal": "2026/9/28 17:30:36",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "What to know about the EU’s updated anti-greenwashing law",
+      "summary": "The job of communicating environmental progress in the European Union just got tougher. The Empowering Consumers for the Green Transition Directive (a.",
+      "url": "https://trellis.net/article/what-to-know-eu-anti-greenwashing-law/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-28T07:31:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "From smart grids to ocean resilience: What happened at NYC Climate Week",
+      "summary": "New York Climate Week has officially concluded, with discussions spanning energy access, electrification, ocean resilience and the transition to zero-emission fuels.",
+      "url": "https://www.edie.net/from-smart-grids-to-ocean-resilience-what-happened-at-nyc-climate-week/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-28T08:00:11.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "UK’s largest dairy farms face calls for tighter environmental controls",
       "summary": "The Wildlife Trusts is calling for policy reform to bring the most intensive dairy operations under stronger environmental regulation, after research found that more than 40-mega dairies are not subjected to the same level of monitoring as intensive pig and poultry units.",
@@ -15,7 +37,18 @@
       "group": null,
       "published": "2026-09-27T23:01:41.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
+    },
+    {
+      "title": "Staying the Course: The State of 2026 U.S. Sustainability Reports",
+      "summary": "Diana Lee is a Managing Director and Matt Filosa is a Senior Managing Director at Teneo.",
+      "url": "https://corpgov.law.harvard.edu/2026/09/27/staying-the-course-the-state-of-2026-u-s-sustainability-reports/",
+      "source": "corpgov.law.harvard.edu",
+      "tag": "法規",
+      "group": null,
+      "published": "2026-09-27T11:30:47.000Z",
+      "why": null,
+      "ago": "22 小時前"
     },
     {
       "title": "EU Directive on Empowering Consumers for the Green Transition enters into force: Everything you need to know",
@@ -26,18 +59,7 @@
       "group": null,
       "published": "2026-09-27T04:28:58.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Staying the Course: The State of 2026 U.S. Sustainability Reports - The Harvard Law School Forum on Corporate Governance",
-      "summary": "Diana Lee is a Managing Director and Matt Filosa is a Senior Managing Director at Teneo.",
-      "url": "https://corpgov.law.harvard.edu/2026/09/27/staying-the-course-the-state-of-2026-u-s-sustainability-reports/",
-      "source": "國際法規",
-      "tag": "法規",
-      "group": null,
-      "published": "2026-09-27T11:30:47.000Z",
-      "why": null,
-      "ago": "13 小時前"
+      "ago": "昨日"
     },
     {
       "title": "2050淨零目標倒數　永續教父揭卡關大魔王",
@@ -47,28 +69,6 @@
       "tag": "台灣",
       "group": null,
       "published": "2026-09-27T05:00:00.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "2026台灣設計展《桃園演算室》　展現淨零城市想像",
-      "summary": "2026台灣設計展在桃園，市府環保局於桃園會展中心A9展區推出《桃園演算室TAOYUAN RE:CODE》，以「進入系統，用日常重新編碼城市未來」為主軸，規劃集體演算、動態演算及行動演算三大展區。展覽透過5公尺高藝術裝置、大型環狀即時生成藝術、碳排負重體驗及循環材料咖啡廳，帶領民眾看見生活選擇與城市淨零轉型之間的關係。",
-      "url": "https://www.ettoday.net/news/20260927/3244589.htm",
-      "source": "ETtoday新聞雲",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-27T03:26:00.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "碳費上路後的真正考驗：從「收錢」邁向「治理」，台灣這筆錢該怎麼花？",
-      "summary": null,
-      "url": "https://www.thenewslens.com/article/270221",
-      "source": "thenewslens.com",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-26T23:57:00.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-09-27T08:25:41.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

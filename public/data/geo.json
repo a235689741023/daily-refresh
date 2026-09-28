@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-28T00:57:37.740Z",
-  "updatedLocal": "2026/9/28 08:57:37",
+  "updated": "2026-09-28T09:30:36.719Z",
+  "updatedLocal": "2026/9/28 17:30:36",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,40 @@
       "group": "ai",
       "published": "2026-09-27T05:33:19.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Who’s liable when AI agents go rogue?",
+      "summary": "Over the past few months, a cascade of cyberattacks by AI agents has stunned the world.",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-09-28T08:06:22.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "States Are Leading the Way on AI Safety Regulation",
+      "summary": null,
+      "url": "https://www.wsj.com/article/states-are-leading-the-way-on-ai-safety-regulation-136e176f",
+      "source": "wsj.com",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-28T08:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "California names expert panel to shape AI oversight and potential frontier model ‘kill switch’",
+      "summary": "California Governor Gavin Newsom has appointed four technology and policy experts to advise the state on tighter oversight of frontier AI, including proposals for independent verification inside AI labs and a potential emergency “kill switch” for advanced models.",
+      "url": "https://www.edtechinnovationhub.com/news/california-names-expert-panel-to-shape-ai-oversight-and-potential-frontier-model-kill-switch",
+      "source": "EdTech Innovation Hub",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-09-27T23:30:27.000Z",
+      "why": null,
+      "ago": "10 小時前"
     },
     {
       "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
@@ -26,18 +59,7 @@
       "group": "ai",
       "published": "2026-09-27T11:22:48.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "California names experts to examine frontier AI kill switch | ETIH EdTech News",
-      "summary": "California Governor Gavin Newsom has appointed four technology and policy experts to advise the state on tighter oversight of frontier AI, including proposals for independent verification inside AI labs and a potential emergency “kill switch” for advanced models.",
-      "url": "https://www.edtechinnovationhub.com/news/california-names-expert-panel-to-shape-ai-oversight-and-potential-frontier-model-kill-switch",
-      "source": "EdTech Innovation Hub",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-27T23:35:51.000Z",
-      "why": null,
-      "ago": "1 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Bill Gates Says AI Safety Concerns Are ‘Not A Hoax,’ Contradicting Trump",
@@ -48,29 +70,7 @@
       "group": "ai",
       "published": "2026-09-27T17:38:55.000Z",
       "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Bill Gates warns AI could be used to trigger 'a billion deaths,' urges regulation",
-      "summary": "by EMMA KOPPELMAN | The National News Desk (TNND) — Artificial intelligence is now powerful enough to cause catastrophic harm, Bill Gates warned , saying malicious actors could use advanced AI tools to drive events that result in “ a billion deaths .",
-      "url": "https://kmph.com/news/nation-world/bill-gates-warns-ai-could-be-used-to-trigger-a-billion-deaths-urges-regulation",
-      "source": "kmph.com",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-27T20:26:23.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it's controlled",
-      "summary": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?",
-      "url": "https://www.wvtm13.com/article/anthropic-openai-sound-alarm-on-ai-safety/73909542",
-      "source": "WVTM Channel 13",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-27T20:00:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
+      "ago": "16 小時前"
     }
   ],
   "errors": []

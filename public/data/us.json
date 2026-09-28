@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-28T00:57:37.740Z",
-  "updatedLocal": "2026/9/28 08:57:37",
+  "updated": "2026-09-28T09:30:36.719Z",
+  "updatedLocal": "2026/9/28 17:30:36",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
+      "summary": "BEIJING — The U.S. and China are planning to reduce tariffs on $30 billion worth of goods from each country, according to government announcements from both sides Monday.",
+      "url": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-28T08:31:33.000Z",
+      "why": null,
+      "ago": "59 分鐘前"
+    },
+    {
+      "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
+      "summary": "BEIJING — In a summit dominated by spectacle , the U.S. and China have essentially agreed to keep talking.",
+      "url": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-28T07:22:06.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "Debt-hungry AI companies face increased risk as bond yields spike",
       "summary": "With Treasury yields climbing this week to their highest levels since 2007, companies reliant on debt are poised to see their borrowing costs rise.",
@@ -15,7 +37,51 @@
       "group": null,
       "published": "2026-09-27T15:35:34.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
+      "summary": "China's industrial profits grew at their weakest pace this year, expanding just 4.2% in August from a year earlier, official data released Monday showed, as manufacturers grapple with persistent weakness in consumer demand and a sustained rise in energy costs.",
+      "url": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-09-28T04:04:16.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "‘I feel like he’s holding me back’: I have $8 million. My husband resents my success. Should I pay for more things?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-28T09:15:00.000Z",
+      "why": null,
+      "ago": "16 分鐘前"
+    },
+    {
+      "title": "Simone Biles and Jonathan Owens list  a $1.2 million Texas home near Houston",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/simone-biles-and-jonathan-owens-list-a-1-2-million-texas-home-near-houston-0c3a7700?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-28T09:02:00.000Z",
+      "why": null,
+      "ago": "29 分鐘前"
+    },
+    {
+      "title": "‘Sex and the City’ star Chris Noth is selling his ‘breathtaking’ Greenwich Village apartment for $1.5 million",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/sex-and-the-city-star-chris-noth-is-selling-his-breathtaking-greenwich-village-apartment-for-1-5-million-e9685111?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-28T08:58:00.000Z",
+      "why": null,
+      "ago": "33 分鐘前"
     },
     {
       "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
@@ -26,7 +92,7 @@
       "group": null,
       "published": "2026-09-27T22:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
@@ -37,7 +103,7 @@
       "group": null,
       "published": "2026-09-27T21:45:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
@@ -48,73 +114,7 @@
       "group": null,
       "published": "2026-09-27T19:21:00.000Z",
       "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-27T16:45:00.000Z",
-      "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-27T16:00:00.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-27T16:00:00.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-27T15:15:00.000Z",
-      "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-27T15:00:00.000Z",
-      "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-27T14:00:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
+      "ago": "14 小時前"
     }
   ],
   "errors": []
