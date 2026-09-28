@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-28T09:30:36.719Z",
-  "updatedLocal": "2026/9/28 17:30:36",
+  "updated": "2026-09-28T19:52:54.809Z",
+  "updatedLocal": "2026/9/29 03:52:54",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
+      "summary": "Nearly half of the stocks in the S&P 500 are moving against the index with a negative beta, an unusual divergence that is becoming increasingly difficult to ignore.",
+      "url": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-28T17:53:31.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
       "summary": "BEIJING — The U.S. and China are planning to reduce tariffs on $30 billion worth of goods from each country, according to government announcements from both sides Monday.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-09-28T08:31:33.000Z",
       "why": null,
-      "ago": "59 分鐘前"
+      "ago": "11 小時前"
     },
     {
       "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-09-28T07:22:06.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Debt-hungry AI companies face increased risk as bond yields spike",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-09-27T15:35:34.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
       "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
@@ -48,40 +59,7 @@
       "group": null,
       "published": "2026-09-28T04:04:16.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "‘I feel like he’s holding me back’: I have $8 million. My husband resents my success. Should I pay for more things?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-28T09:15:00.000Z",
-      "why": null,
-      "ago": "16 分鐘前"
-    },
-    {
-      "title": "Simone Biles and Jonathan Owens list  a $1.2 million Texas home near Houston",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/simone-biles-and-jonathan-owens-list-a-1-2-million-texas-home-near-houston-0c3a7700?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-28T09:02:00.000Z",
-      "why": null,
-      "ago": "29 分鐘前"
-    },
-    {
-      "title": "‘Sex and the City’ star Chris Noth is selling his ‘breathtaking’ Greenwich Village apartment for $1.5 million",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/sex-and-the-city-star-chris-noth-is-selling-his-breathtaking-greenwich-village-apartment-for-1-5-million-e9685111?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-28T08:58:00.000Z",
-      "why": null,
-      "ago": "33 分鐘前"
+      "ago": "16 小時前"
     },
     {
       "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
@@ -90,9 +68,20 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-27T22:00:00.000Z",
+      "published": "2026-09-28T19:45:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "8 分鐘前"
+    },
+    {
+      "title": "PepsiCo plans to raise prices on sodas, chips and dip — and that has Wall Street worried",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/pepsico-plans-to-raise-prices-on-sodas-chips-and-dip-and-that-has-wall-street-worried-0ec355bf?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-28T19:37:00.000Z",
+      "why": null,
+      "ago": "16 分鐘前"
     },
     {
       "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
@@ -101,20 +90,31 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-27T21:45:00.000Z",
+      "published": "2026-09-28T19:30:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "23 分鐘前"
     },
     {
-      "title": "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
+      "title": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/dolly-parton-planned-for-her-estate-the-fight-with-her-nephew-shows-why-that-matters-b7e57c26?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-27T19:21:00.000Z",
+      "published": "2026-09-28T18:56:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "57 分鐘前"
+    },
+    {
+      "title": "Spending $800 to see my family this Thanksgiving is a financial burden. How can I push for a cheaper flight?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/spending-800-to-see-my-family-this-thanksgiving-is-a-financial-burden-how-can-i-push-for-a-cheaper-flight-c6dd1fdf?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-28T18:40:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
     }
   ],
   "errors": []

@@ -1,11 +1,33 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-28T09:30:36.719Z",
-  "updatedLocal": "2026/9/28 17:30:36",
+  "updated": "2026-09-28T19:52:54.809Z",
+  "updatedLocal": "2026/9/29 03:52:54",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "ISO adopts standard for managing SDG commitments",
+      "summary": "ISO/UNDP 53001 , released Sept. 28 during ISO’s annual meeting, establishes a management system that formalizes how companies choose SDGs, set key performance indicators to track progress and make governance decisions that consider them.",
+      "url": "https://trellis.net/article/iso-adopts-standard-for-managing-sdg-commitments/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-28T15:07:50.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "50 years ago, Amory Lovins rewired how we think about energy — and about sustainability itself",
+      "summary": "This week marks the 50th anniversary of one of the more consequential magazine articles in the history of energy and environmental thinking — and, I’d argue, in the trajectory of what we today call corporate sustainability.",
+      "url": "https://trellis.net/article/amory-lovins-essay-energy-sustainability/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-28T10:00:00.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
     {
       "title": "What to know about the EU’s updated anti-greenwashing law",
       "summary": "The job of communicating environmental progress in the European Union just got tougher. The Empowering Consumers for the Green Transition Directive (a.",
@@ -15,7 +37,73 @@
       "group": null,
       "published": "2026-09-28T07:31:00.000Z",
       "why": null,
+      "ago": "12 小時前"
+    },
+    {
+      "title": "UNGA: Guterres calls to triple climate adaptation finance",
+      "summary": "At a high-level event at the United Nations General Assembly (UNGA), the Secretary-General called on leaders to mobilise at least $300bn annually for developing countries.",
+      "url": "https://www.edie.net/unga-guterres-calls-to-triple-climate-adaptation-finance/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-28T18:22:54.000Z",
+      "why": null,
       "ago": "2 小時前"
+    },
+    {
+      "title": "TODAY: What does a revised ISO 14001 mean for sustainability professionals?",
+      "summary": "On 29 September, edie is hosting a webinar in partnership with BSI to explore changes to the ISO 14001 standard addressing environmental management.",
+      "url": "https://www.edie.net/next-week-what-does-a-revised-iso-14001-mean-for-sustainability-professionals/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-28T16:30:29.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "ESRS-TC and UK SRS: Preparing for a changing sustainability reporting landscape",
+      "summary": "Recent changes to CSRD have narrowed the number of organisations needing to report.",
+      "url": "https://www.edie.net/esrs-tc-and-uk-srs-preparing-for-a-changing-sustainability-reporting-landscape/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-28T15:47:55.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Bio-based materials: Improving performance, assessing carbon and scaling delivery",
+      "summary": "As businesses seek to reduce the carbon footprint of the built environment, material choices are becoming increasingly important.",
+      "url": "https://www.edie.net/bio-based-materials-improving-performance-assessing-carbon-and-scaling-delivery/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-28T15:35:16.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "ISO launches ‘world first’ standard aligned with SDGs",
+      "summary": "The International Organization for Standardization (ISO) and the United Nations Development Programme (UNDP) have partnered to launch a new standard that helps businesses and governments align their activities with the Sustainable Development Goals (SDGs).",
+      "url": "https://www.edie.net/iso-launches-world-first-standard-aligned-with-sdgs/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-28T12:41:27.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
+      "summary": "Sustainability professionals have the chance to win six months of access to edie’s digital Membership offering as well as a VIP pass to edie 27 in April by completing a short survey.",
+      "url": "https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-28T10:30:45.000Z",
+      "why": null,
+      "ago": "9 小時前"
     },
     {
       "title": "From smart grids to ocean resilience: What happened at NYC Climate Week",
@@ -26,62 +114,7 @@
       "group": null,
       "published": "2026-09-28T08:00:11.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "UK’s largest dairy farms face calls for tighter environmental controls",
-      "summary": "The Wildlife Trusts is calling for policy reform to bring the most intensive dairy operations under stronger environmental regulation, after research found that more than 40-mega dairies are not subjected to the same level of monitoring as intensive pig and poultry units.",
-      "url": "https://www.edie.net/uks-largest-dairy-farms-face-calls-for-tighter-environmental-controls/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-27T23:01:41.000Z",
-      "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "Staying the Course: The State of 2026 U.S. Sustainability Reports",
-      "summary": "Diana Lee is a Managing Director and Matt Filosa is a Senior Managing Director at Teneo.",
-      "url": "https://corpgov.law.harvard.edu/2026/09/27/staying-the-course-the-state-of-2026-u-s-sustainability-reports/",
-      "source": "corpgov.law.harvard.edu",
-      "tag": "法規",
-      "group": null,
-      "published": "2026-09-27T11:30:47.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "EU Directive on Empowering Consumers for the Green Transition enters into force: Everything you need to know",
-      "summary": "The EU Directive on Empowering Consumers for the Green Transition (the ECGT or EmpCo Directive) becomes legally binding for businesses on 27 September.",
-      "url": "https://www.edie.net/eu-directive-on-empowering-consumers-for-the-green-transition-enters-into-force-everything-you-need-to-know/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-27T04:28:58.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "2050淨零目標倒數　永續教父揭卡關大魔王",
-      "summary": "▲台灣要在2050年達成建築淨零碳排，真正的難題恐怕不是「新建築怎麼蓋」，而是全台高達97％的既有建築如何改造。（圖／記者陳筱惠攝） 台灣要在2050年達成建築淨零碳排，真正的難題不是「新建築怎麼蓋」，而是高達97％的既有建築如何改造。",
-      "url": "https://house.ettoday.net/news/3235812",
-      "source": "ETtoday房產雲",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-09-27T05:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "ESG Today: Week in Review",
-      "summary": "This week in ESG news: EU publishes final revised sustainability reporting standards; Glass Lewis merges with Clarity AI to form unified stewardship and sustainability data platform; Bain survey finds rebounding consumer concern on sustainability, increasing sustainable consumption behavior; Schroders launches new framework to identify and assess climate adaptation investment opportunities; EU to launch sustainability criteria, labels for data centers; Germany unveils plan to exit fossil fuels by 2045; New York’s inaugural ESG bond offering; MSCI’s new Head of Sustainability, and more.",
-      "url": "https://www.esgtoday.com/esg-today-week-in-review-276/",
-      "source": "ESG Today",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-27T08:25:41.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "12 小時前"
     }
   ],
   "errors": []

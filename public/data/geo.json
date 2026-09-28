@@ -1,21 +1,43 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-28T09:30:36.719Z",
-  "updatedLocal": "2026/9/28 17:30:36",
+  "updated": "2026-09-28T19:52:54.809Z",
+  "updatedLocal": "2026/9/29 03:52:54",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "ANT-2026-SB4PHA43 · wolfssl/wolfssl",
-      "summary": "Severity Claude high · Security research firm high · Maintainer medium Anthropic's analysis, sealed at approval.",
-      "url": "https://red.anthropic.com/2026/cvd/findings/ANT-2026-SB4PHA43",
-      "source": "Frontier Red Team",
+      "title": "Introducing Claude Sonnet 5.5",
+      "summary": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It’s a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-27T05:33:19.000Z",
+      "published": "2026-09-28T18:01:59.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "summary": "Video courtesy of the Lenfest Institute for Journalism The following was issued as a joint announcement on Monday, September 28, 2026, from the Lenfest Institute for Journalism and OpenAI.",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-28T07:00:00.000Z",
+      "why": null,
+      "ago": "13 小時前"
+    },
+    {
+      "title": "When can we say AI made a scientific discovery?",
+      "summary": "Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what they report.",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-09-28T17:03:16.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "Who’s liable when AI agents go rogue?",
@@ -26,51 +48,29 @@
       "group": "ai",
       "published": "2026-09-28T08:06:22.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "States Are Leading the Way on AI Safety Regulation",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "summary": "Earlier this year, we partnered with XPRIZE and Range Media Partners to launch the Future Vision XPRIZE, a global competition calling for films that envision a hopeful, technology-enabled future.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "source": "Google AI Blog",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-28T19:00:00.000Z",
+      "why": null,
+      "ago": "53 分鐘前"
+    },
+    {
+      "title": "When Intelligence Becomes a Strategic Asset: Frontier AI, Sandbox Breakouts, and the Case for Independent Oversight",
       "summary": null,
-      "url": "https://www.wsj.com/article/states-are-leading-the-way-on-ai-safety-regulation-136e176f",
-      "source": "wsj.com",
+      "url": "https://www.justsecurity.org/156218/strategic-asset-frontier-ai-sandbox-breakouts/",
+      "source": "Just Security",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-09-28T08:00:00.000Z",
+      "published": "2026-09-28T13:59:59.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "California names expert panel to shape AI oversight and potential frontier model ‘kill switch’",
-      "summary": "California Governor Gavin Newsom has appointed four technology and policy experts to advise the state on tighter oversight of frontier AI, including proposals for independent verification inside AI labs and a potential emergency “kill switch” for advanced models.",
-      "url": "https://www.edtechinnovationhub.com/news/california-names-expert-panel-to-shape-ai-oversight-and-potential-frontier-model-kill-switch",
-      "source": "EdTech Innovation Hub",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-27T23:30:27.000Z",
-      "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
-      "summary": null,
-      "url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
-      "source": "The New York Times",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-27T11:22:48.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Bill Gates Says AI Safety Concerns Are ‘Not A Hoax,’ Contradicting Trump",
-      "summary": null,
-      "url": "https://www.forbes.com/sites/zacharyfolk/2026/09/27/bill-gates-says-ai-safety-concerns-are-not-a-hoax-contradicting-trump/",
-      "source": "Forbes",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-09-27T17:38:55.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "6 小時前"
     }
   ],
   "errors": []
