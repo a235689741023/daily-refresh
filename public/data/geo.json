@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-29T02:06:20.575Z",
-  "updatedLocal": "2026/9/29 10:06:20",
+  "updated": "2026-09-29T09:35:00.774Z",
+  "updatedLocal": "2026/9/29 17:35:00",
   "digest": null,
   "watch": [],
   "items": [
@@ -13,9 +13,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-28T18:01:59.000Z",
+      "published": "2026-09-28T22:47:04.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Claude Sonnet 5.5 System Card",
@@ -26,6 +26,17 @@
       "group": "ai",
       "published": "2026-09-28T18:06:05.000Z",
       "why": null,
+      "ago": "15 小時前"
+    },
+    {
+      "title": "Anthropic Trust Center - Trust Center",
+      "summary": "Anthropic is an AI safety and research company with a mission of ensuring the world safely makes the transition through transformative AI.",
+      "url": "https://trust.anthropic.com/?939688b5_page\\=2\\&8cf10c94_page\\=1\\&q\\=software-co",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-29T01:06:47.000Z",
+      "why": null,
       "ago": "8 小時前"
     },
     {
@@ -35,9 +46,20 @@
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-29T01:00:00.000Z",
+      "published": "2026-09-28T19:00:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "15 小時前"
+    },
+    {
+      "title": "Towards safety cases for frontier AI training",
+      "summary": "We believe we are entering a new era in which structured safety documentation should be required before continuing any frontier reinforcement learning training run.",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-28T19:00:00.000Z",
+      "why": null,
+      "ago": "15 小時前"
     },
     {
       "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
@@ -47,28 +69,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-09-28T07:00:00.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Are you a Codex Original?",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things.",
-      "url": "https://openai.com/form/codex-originals",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-28T00:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "summary": "GPT‑6 Astra took 50% less time to finish complex tasks vs. GPT‑5.6 Sol and showed a deeper understanding of user intent.",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-28T00:00:00.000Z",
       "why": null,
       "ago": "昨日"
     }
