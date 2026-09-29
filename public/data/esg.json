@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-28T19:52:54.809Z",
-  "updatedLocal": "2026/9/29 03:52:54",
+  "updated": "2026-09-29T02:06:20.575Z",
+  "updatedLocal": "2026/9/29 10:06:20",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-28T15:07:50.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "50 years ago, Amory Lovins rewired how we think about energy — and about sustainability itself",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-28T10:00:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "What to know about the EU’s updated anti-greenwashing law",
@@ -37,7 +37,18 @@
       "group": null,
       "published": "2026-09-28T07:31:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
+    },
+    {
+      "title": "M Group unveils first sustainability strategy",
+      "summary": "In its five-year sustainability plan, M Group has set out a roadmap through 2032, including targets to cut Scopes 1 and 2 emissions by 42% and electrify all company cars by 2030.",
+      "url": "https://www.edie.net/m-group-unveils-first-sustainability-strategy/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-28T23:01:31.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "UNGA: Guterres calls to triple climate adaptation finance",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-09-28T18:22:54.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "TODAY: What does a revised ISO 14001 mean for sustainability professionals?",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-09-28T16:30:29.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "ESRS-TC and UK SRS: Preparing for a changing sustainability reporting landscape",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-09-28T15:47:55.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Bio-based materials: Improving performance, assessing carbon and scaling delivery",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-09-28T15:35:16.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "ISO launches ‘world first’ standard aligned with SDGs",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-09-28T12:41:27.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-09-28T10:30:45.000Z",
       "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "From smart grids to ocean resilience: What happened at NYC Climate Week",
-      "summary": "New York Climate Week has officially concluded, with discussions spanning energy access, electrification, ocean resilience and the transition to zero-emission fuels.",
-      "url": "https://www.edie.net/from-smart-grids-to-ocean-resilience-what-happened-at-nyc-climate-week/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-28T08:00:11.000Z",
-      "why": null,
-      "ago": "12 小時前"
+      "ago": "16 小時前"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-28T19:52:54.809Z",
-  "updatedLocal": "2026/9/29 03:52:54",
+  "updated": "2026-09-29T02:06:20.575Z",
+  "updatedLocal": "2026/9/29 10:06:20",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,29 @@
       "group": "ai",
       "published": "2026-09-28T18:01:59.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Claude Sonnet 5.5 System Card",
+      "summary": null,
+      "url": "https://www.anthropic.com/claude-sonnet-5-5-system-card",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-28T18:06:05.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "How we will do better for Australia",
+      "summary": "In June, during internal training and evaluation our models accessed Australian government websites in ways they were not authorised to.",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-29T01:00:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
     },
     {
       "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
@@ -26,51 +48,29 @@
       "group": "ai",
       "published": "2026-09-28T07:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "19 小時前"
     },
     {
-      "title": "When can we say AI made a scientific discovery?",
-      "summary": "Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what they report.",
-      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-09-28T17:03:16.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Who’s liable when AI agents go rogue?",
-      "summary": "Over the past few months, a cascade of cyberattacks by AI agents has stunned the world.",
-      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-09-28T08:06:22.000Z",
-      "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary": "Earlier this year, we partnered with XPRIZE and Range Media Partners to launch the Future Vision XPRIZE, a global competition calling for films that envision a hopeful, technology-enabled future.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "source": "Google AI Blog",
+      "title": "Are you a Codex Original?",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things.",
+      "url": "https://openai.com/form/codex-originals",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-28T19:00:00.000Z",
+      "published": "2026-09-28T00:00:00.000Z",
       "why": null,
-      "ago": "53 分鐘前"
+      "ago": "昨日"
     },
     {
-      "title": "When Intelligence Becomes a Strategic Asset: Frontier AI, Sandbox Breakouts, and the Case for Independent Oversight",
-      "summary": null,
-      "url": "https://www.justsecurity.org/156218/strategic-asset-frontier-ai-sandbox-breakouts/",
-      "source": "Just Security",
-      "tag": "政策",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "summary": "GPT‑6 Astra took 50% less time to finish complex tasks vs. GPT‑5.6 Sol and showed a deeper understanding of user intent.",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "source": "OpenAI",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-09-28T13:59:59.000Z",
+      "published": "2026-09-28T00:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
