@@ -1,11 +1,33 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-29T09:35:00.774Z",
-  "updatedLocal": "2026/9/29 17:35:00",
+  "updated": "2026-09-29T18:21:00.560Z",
+  "updatedLocal": "2026/9/30 02:21:00",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "New tool helps Etsy peer into the ‘black box’ of AI emissions",
+      "summary": "Sustainable AI Group, the company co-founded by former Salesforce sustainability manager Boris Gamazaychikov, has released a resource for measuring the energy and emissions produced by proprietary artificial intelligence models.",
+      "url": "https://trellis.net/article/how-etsy-estimates-ai-emissions/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-29T15:27:35.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "New emissions accounting rules win backing from companies and nonprofits",
+      "summary": "Plans for a major expansion of how companies report emissions have won widespread support from the public and private sector.",
+      "url": "https://trellis.net/article/ghg-protocol-ami-white-paper-consultation/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-29T10:00:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
     {
       "title": "ISO adopts standard for managing SDG commitments",
       "summary": "ISO/UNDP 53001 , released Sept. 28 during ISO’s annual meeting, establishes a management system that formalizes how companies choose SDGs, set key performance indicators to track progress and make governance decisions that consider them.",
@@ -15,29 +37,62 @@
       "group": null,
       "published": "2026-09-28T15:07:50.000Z",
       "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "50 years ago, Amory Lovins rewired how we think about energy — and about sustainability itself",
-      "summary": "This week marks the 50th anniversary of one of the more consequential magazine articles in the history of energy and environmental thinking — and, I’d argue, in the trajectory of what we today call corporate sustainability.",
-      "url": "https://trellis.net/article/amory-lovins-essay-energy-sustainability/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-28T10:00:00.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "What to know about the EU’s updated anti-greenwashing law",
-      "summary": "The job of communicating environmental progress in the European Union just got tougher. The Empowering Consumers for the Green Transition Directive (a.",
-      "url": "https://trellis.net/article/what-to-know-eu-anti-greenwashing-law/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-28T07:31:00.000Z",
-      "why": null,
       "ago": "昨日"
+    },
+    {
+      "title": "ONE WEEK TO GO: The Autumn Budget – How businesses can cut waste, control costs and prepare for 2027",
+      "summary": "In one week edie will host its latest webinar, in partnership with JRP Solutions, exploring how businesses can cut waste, control costs and plan effectively for the year ahead.",
+      "url": "https://www.edie.net/one-week-to-go-the-autumn-budget-how-businesses-can-cut-waste-control-costs-and-prepare-for-2027/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-29T15:55:57.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Recycled polyester to enter Primark clothing from 2029",
+      "summary": "Primark has agreed a multi-year deal with textile recycling company Circ to introduce recycled polyester made from textile waste into its clothing from 2029.",
+      "url": "https://www.edie.net/recycled-polyester-to-enter-primark-clothing-from-2029/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-29T15:51:32.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Government launches Great British Grid to invest in electricity network",
+      "summary": "The UK Government has announced the creation of Great British (GB) Grid, a publicly owned body within GB Energy that will invest in electricity network infrastructure and work with existing network operators to accelerate grid upgrades.",
+      "url": "https://www.edie.net/government-launches-great-british-grid-to-invest-in-electricity-network/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-29T15:34:58.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
+      "summary": "Sustainability professionals have the chance to win six months of access to edie’s digital Membership offering as well as a VIP pass to edie 27 in April by completing a short survey.",
+      "url": "https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-29T10:30:45.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "SPEAKERS ANNOUNCED: What SMEs need to know before investing in solar",
+      "summary": "Two expert speakers have been confirmed for an upcoming edie webinar exploring how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
+      "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-29T09:55:22.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "edie named official media partner of Carbon Accounting Conference 2026",
@@ -48,7 +103,7 @@
       "group": null,
       "published": "2026-09-29T09:23:44.000Z",
       "why": null,
-      "ago": "11 分鐘前"
+      "ago": "9 小時前"
     },
     {
       "title": "What 10 years of locally led innovation has taught Unilever",
@@ -59,63 +114,39 @@
       "group": null,
       "published": "2026-09-29T03:00:59.000Z",
       "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "M Group unveils first sustainability strategy",
-      "summary": "In its five-year sustainability plan, M Group has set out a roadmap through 2032, including targets to cut Scopes 1 and 2 emissions by 42% and electrify all company cars by 2030.",
-      "url": "https://www.edie.net/m-group-unveils-first-sustainability-strategy/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-28T23:01:31.000Z",
-      "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "UNGA: Guterres calls to triple climate adaptation finance",
-      "summary": "At a high-level event at the United Nations General Assembly (UNGA), the Secretary-General called on leaders to mobilise at least $300bn annually for developing countries.",
-      "url": "https://www.edie.net/unga-guterres-calls-to-triple-climate-adaptation-finance/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-28T18:22:54.000Z",
-      "why": null,
       "ago": "15 小時前"
-    },
-    {
-      "title": "TODAY: What does a revised ISO 14001 mean for sustainability professionals?",
-      "summary": "On 29 September, edie is hosting a webinar in partnership with BSI to explore changes to the ISO 14001 standard addressing environmental management.",
-      "url": "https://www.edie.net/next-week-what-does-a-revised-iso-14001-mean-for-sustainability-professionals/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-28T16:30:29.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "ESRS-TC and UK SRS: Preparing for a changing sustainability reporting landscape",
-      "summary": "Recent changes to CSRD have narrowed the number of organisations needing to report.",
-      "url": "https://www.edie.net/esrs-tc-and-uk-srs-preparing-for-a-changing-sustainability-reporting-landscape/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-28T15:47:55.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Bio-based materials: Improving performance, assessing carbon and scaling delivery",
-      "summary": "As businesses seek to reduce the carbon footprint of the built environment, material choices are becoming increasingly important.",
-      "url": "https://www.edie.net/bio-based-materials-improving-performance-assessing-carbon-and-scaling-delivery/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-28T15:35:16.000Z",
-      "why": null,
-      "ago": "18 小時前"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "ESG Today",
+      "url": "https://news.google.com/rss/search?q=site%3Aesgtoday.com&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "CSRone",
+      "url": "https://news.google.com/rss/search?q=site%3Acsrone.com&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "台灣永續政策",
+      "url": "https://news.google.com/rss/search?q=%E7%A2%B3%E8%B2%BB%20OR%20%E7%A2%B3%E4%BA%A4%E6%98%93%20OR%20%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8%20OR%20%E6%B7%A8%E9%9B%B6%20%E5%8F%B0%E7%81%A3&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "環境資訊中心",
+      "url": "https://news.google.com/rss/search?q=site%3Ae-info.org.tw&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "國際法規",
+      "url": "https://news.google.com/rss/search?q=CSRD%20OR%20CBAM%20OR%20%22IFRS%20S2%22%20OR%20ISSB%20sustainability%20disclosure&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "永續人才",
+      "url": "https://news.google.com/rss/search?q=%E6%B0%B8%E7%BA%8C%20%E4%BA%BA%E6%89%8D%20OR%20%E8%81%B7%E7%BC%BA%20OR%20ESG%20%E4%BA%BA%E5%8A%9B&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "message": "HTTP 503 Service Unavailable"
+    }
+  ]
 }

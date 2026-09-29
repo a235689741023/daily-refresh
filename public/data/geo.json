@@ -1,54 +1,43 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-29T09:35:00.774Z",
-  "updatedLocal": "2026/9/29 17:35:00",
+  "updated": "2026-09-29T18:21:00.560Z",
+  "updatedLocal": "2026/9/30 02:21:00",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Introducing Claude Sonnet 5.5",
-      "summary": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It’s a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "source": "Anthropic",
+      "title": "Introducing GPT-6.1 Sol",
+      "summary": "We’re introducing GPT‑6.1 Sol , an upgrade to GPT‑6 Sol that nearly matches GPT‑6 Astra’s intelligence on agentic coding, computer use, and professional work at one-fifth of Astra’s standard input and output token prices.",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-28T22:47:04.000Z",
-      "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Claude Sonnet 5.5 System Card",
-      "summary": null,
-      "url": "https://www.anthropic.com/claude-sonnet-5-5-system-card",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-28T18:06:05.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Anthropic Trust Center - Trust Center",
-      "summary": "Anthropic is an AI safety and research company with a mission of ensuring the world safely makes the transition through transformative AI.",
-      "url": "https://trust.anthropic.com/?939688b5_page\\=2\\&8cf10c94_page\\=1\\&q\\=software-co",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-29T01:06:47.000Z",
+      "published": "2026-09-29T10:00:00.000Z",
       "why": null,
       "ago": "8 小時前"
     },
     {
-      "title": "How we will do better for Australia",
-      "summary": "In June, during internal training and evaluation our models accessed Australian government websites in ways they were not authorised to.",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "title": "DevDay 2026 Recap",
+      "summary": "DevDay 2026 is our biggest yet, with more than 20 major announcements across ChatGPT, Codex, our models, and entirely new forms of working with AI.",
+      "url": "https://openai.com/index/devday-2026-recap",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-28T19:00:00.000Z",
+      "published": "2026-09-29T10:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Introducing dots",
+      "summary": "Dots are remarkably capable, always-on agents built to handle everything.",
+      "url": "https://openai.com/index/introducing-dots",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-29T00:00:00.000Z",
+      "why": null,
+      "ago": "18 小時前"
     },
     {
       "title": "Towards safety cases for frontier AI training",
@@ -59,19 +48,51 @@
       "group": "ai",
       "published": "2026-09-28T19:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "summary": "Video courtesy of the Lenfest Institute for Journalism The following was issued as a joint announcement on Monday, September 28, 2026, from the Lenfest Institute for Journalism and OpenAI.",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "title": "How we will do better for Australia",
+      "summary": "In June, during internal training and evaluation our models accessed Australian government websites in ways they were not authorised to.",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-28T07:00:00.000Z",
+      "published": "2026-09-28T19:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "Making AI an asset, not an expense",
+      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud.",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-09-29T10:43:45.000Z",
+      "why": null,
+      "ago": "8 小時前"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Anthropic",
+      "url": "https://news.google.com/rss/search?q=site%3Aanthropic.com&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "GIS × AI 研究",
+      "url": "https://news.google.com/rss/search?q=geospatial%20AI%20OR%20%22spatial%20AI%22%20OR%20%22remote%20sensing%22%20foundation%20model&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "ArcGIS Blog",
+      "url": "https://news.google.com/rss/search?q=site%3Aesri.com%2Farcgis-blog&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "AI 政策",
+      "url": "https://news.google.com/rss/search?q=%22AI%20Act%22%20OR%20%22frontier%20AI%22%20OR%20%22AI%20safety%22%20OR%20%22export%20controls%22%20AI%20regulation&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    }
+  ]
 }

@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-29T09:35:00.774Z",
-  "updatedLocal": "2026/9/29 17:35:00",
+  "updated": "2026-09-29T18:21:00.560Z",
+  "updatedLocal": "2026/9/30 02:21:00",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
+      "summary": "Prediction market exchange Polymarket has hired a near three-decade Goldman Sachs veteran to help lead its push to attract Wall Street liquidity.",
+      "url": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-29T12:00:33.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
+      "summary": "President Donald Trump is a creditor to hundreds of cities, hospitals, schools, utilities and other public institutions across the country — many of which are directly affected by decisions made by his own administration.",
+      "url": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-29T14:37:07.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
       "summary": "BEIJING — China's securities regulator is raising the bar for public listings of humanoid robot startups, according to three sources familiar with the CSRC's thinking.",
@@ -15,7 +37,7 @@
       "group": null,
       "published": "2026-09-29T07:19:38.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
@@ -26,96 +48,90 @@
       "group": null,
       "published": "2026-09-28T17:53:31.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
-      "summary": "BEIJING — The U.S. and China are planning to reduce tariffs on $30 billion worth of goods from each country, according to government announcements from both sides Monday.",
-      "url": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-28T08:31:33.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
-      "summary": "BEIJING — In a summit dominated by spectacle , the U.S. and China have essentially agreed to keep talking.",
-      "url": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-28T07:22:06.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Here’s where TSMC is reportedly eyeing a second U.S. site for a chip-making hub",
+      "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/heres-where-tsmc-is-reportedly-eyeing-a-second-u-s-site-for-a-chip-making-hub-828e4488?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-29T09:26:00.000Z",
+      "published": "2026-09-29T17:45:00.000Z",
       "why": null,
-      "ago": "9 分鐘前"
+      "ago": "36 分鐘前"
     },
     {
-      "title": "‘I have a low interest rate’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
+      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-29T09:16:00.000Z",
+      "published": "2026-09-29T17:30:00.000Z",
       "why": null,
-      "ago": "19 分鐘前"
+      "ago": "51 分鐘前"
     },
     {
-      "title": "Two-thirds of the revenue needed to justify the AI buildout are still unaccounted for, says major consulting firm",
+      "title": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/two-thirds-of-the-revenue-needed-to-justify-the-ai-buildout-are-still-unaccounted-for-says-major-consulting-firm-8c55ccba?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-29T09:12:00.000Z",
+      "published": "2026-09-29T16:59:00.000Z",
       "why": null,
-      "ago": "23 分鐘前"
+      "ago": "1 小時前"
     },
     {
-      "title": "Celebrity couple Jenny McCarthy and Donnie Wahlberg are selling $2.8 million Illinois home",
+      "title": "Here’s what Netflix skeptics are getting wrong about the stock, according to an analyst",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/celebrity-couple-jenny-mccarthy-and-donnie-wahlberg-are-selling-2-8-million-illinois-home-b48f4191?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/heres-what-netflix-skeptics-are-getting-wrong-about-the-stock-according-to-an-analyst-40436696?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-29T09:00:00.000Z",
+      "published": "2026-09-29T16:45:00.000Z",
       "why": null,
-      "ago": "35 分鐘前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Kris Jenner delists $13.5 million home that was featured in ‘Keeping Up With the Kardashians’",
+      "title": "The hidden messages the bond market is sending about the AI boom and the stock market",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/kris-jenner-delists-13-5-million-home-that-was-featured-in-keeping-up-with-the-kardashians-dd162590?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-hidden-messages-the-bond-market-is-sending-about-the-ai-boom-and-the-stock-market-5c9495ba?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-29T08:58:00.000Z",
+      "published": "2026-09-29T16:44:00.000Z",
       "why": null,
-      "ago": "37 分鐘前"
+      "ago": "2 小時前"
     },
     {
-      "title": "A month ago, this JPMorgan team urged caution on stocks. Now it’s going all in on tech.",
+      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/a-month-ago-this-jpmorgan-team-urged-caution-on-stocks-now-its-going-all-in-on-tech-f2e4b007?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-29T08:56:00.000Z",
+      "published": "2026-09-29T16:30:00.000Z",
       "why": null,
-      "ago": "39 分鐘前"
+      "ago": "2 小時前"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Reuters 財經",
+      "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20stock%20market%20OR%20Federal%20Reserve&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/search?q=site%3Abloomberg.com%20markets%20OR%20earnings&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "財報",
+      "url": "https://news.google.com/rss/search?q=earnings%20beat%20OR%20earnings%20miss%20guidance%20S%26P%20500&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    }
+  ]
 }
