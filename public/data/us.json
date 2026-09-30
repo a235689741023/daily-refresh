@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-09-30T09:27:01.595Z",
-  "updatedLocal": "2026/9/30 17:27:01",
+  "updated": "2026-09-30T18:10:41.401Z",
+  "updatedLocal": "2026/10/1 02:10:41",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Kalshi, Polymarket trading volumes on some products raises questions amid massive growth",
+      "summary": "Trading volumes for certain products on prediction market platforms Kalshi and Polymarket are raising questions from some industry observers, who fear the numbers may be inflated.",
+      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-30T14:31:26.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices",
       "summary": "Singaporean state-owned investor Temasek plans to open offices in Abu Dhabi and Riyadh, expanding its Middle East footprint as the region attracts capital despite the strain of the Iran war.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-09-30T08:45:42.000Z",
       "why": null,
-      "ago": "41 分鐘前"
+      "ago": "9 小時前"
     },
     {
       "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-09-30T03:39:08.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Goldman Sachs CEO succession planning faces one big problem",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-09-29T20:50:10.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
@@ -48,29 +59,7 @@
       "group": null,
       "published": "2026-09-29T20:33:08.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
-      "summary": "Prediction market exchange Polymarket has hired a near three-decade Goldman Sachs veteran to help lead its push to attract Wall Street liquidity.",
-      "url": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-29T12:00:33.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
-      "summary": "President Donald Trump is a creditor to hundreds of cities, hospitals, schools, utilities and other public institutions across the country — many of which are directly affected by decisions made by his own administration.",
-      "url": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-29T14:37:07.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
@@ -81,40 +70,51 @@
       "group": null,
       "published": "2026-09-30T02:50:35.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
-      "title": "One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally.",
+      "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
+      "summary": "President Donald Trump is a creditor to hundreds of cities, hospitals, schools, utilities and other public institutions across the country — many of which are directly affected by decisions made by his own administration.",
+      "url": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-09-29T14:37:07.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-30T09:20:00.000Z",
+      "published": "2026-09-30T18:03:00.000Z",
       "why": null,
-      "ago": "7 分鐘前"
+      "ago": "8 分鐘前"
     },
     {
-      "title": "There’s a new Wall Street TACO index — and this one is saying it’s time for Trump to strike a deal",
+      "title": "Why the ‘Halloween Indicator’ isn’t working — and what smart investors are doing instead",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/why-the-halloween-indicator-isnt-working-and-what-smart-investors-are-doing-instead-6d758662?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-30T09:16:00.000Z",
+      "published": "2026-09-30T17:40:00.000Z",
       "why": null,
-      "ago": "11 分鐘前"
+      "ago": "31 分鐘前"
     },
     {
-      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "title": "These bond strategies can help you get a safe 5% return on your cash",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-30T09:15:00.000Z",
+      "published": "2026-09-30T17:38:00.000Z",
       "why": null,
-      "ago": "12 分鐘前"
+      "ago": "33 分鐘前"
     }
   ],
   "errors": []

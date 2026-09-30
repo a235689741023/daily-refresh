@@ -1,13 +1,46 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-30T09:27:01.595Z",
-  "updatedLocal": "2026/9/30 17:27:01",
+  "updated": "2026-09-30T18:10:41.401Z",
+  "updatedLocal": "2026/10/1 02:10:41",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "What Do You Want from AI?",
+      "title": "Building with the Claude 5.5 Family: Choosing the Right Model and Getting More from Every Token",
+      "summary": "Claude Sonnet 5.5 joins Opus 5.5 on the Claude Platform as a faster, lower-cost complement.",
+      "url": "https://www.anthropic.com/webinars/building-with-the-claude-5-5-family-choosing-the-right-model-and-getting-more-from-every-token",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-30T00:02:28.000Z",
+      "why": null,
+      "ago": "18 小時前"
+    },
+    {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "summary": "We recently identified and disrupted a coordinated campaign designed to extract protected reasoning from our models, with the earliest observed activity occurring in the first week of July.",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-30T10:30:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Helping small businesses put AI to work",
+      "summary": "Partnership with America’s SBDC will expand hands-on training and local guidance, while a new report explores what small teams are accomplishing with AI.",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-09-30T10:00:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "What do you want from AI?",
       "summary": "We’re launching a new study using Anthropic Interviewer to learn from your experiences with AI, and we’d like you to participate.",
       "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
       "source": "Anthropic",
@@ -15,7 +48,7 @@
       "group": "ai",
       "published": "2026-09-29T16:39:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
       "title": "GLM-5.3 and the spread of advanced cyber capabilities",
@@ -26,51 +59,18 @@
       "group": "ai",
       "published": "2026-09-29T15:46:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Building with the Claude 5.5 Family: Choosing the Right Model and Getting More from Every Token",
-      "summary": "Claude Sonnet 5.5 joins Opus 5.5 on the Claude Platform as a faster, lower-cost complement.",
-      "url": "https://www.anthropic.com/webinars/building-with-the-claude-5-5-family-choosing-the-right-model-and-getting-more-from-every-token",
-      "source": "Anthropic",
+      "title": "Introducing SynthID Bio",
+      "summary": "Pushmeet Kohli, David Stutz, Ali Cowen-Rivers and Jeremy Ratcliff Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "source": "Google DeepMind",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-30T00:02:28.000Z",
+      "published": "2026-09-30T15:03:07.000Z",
       "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "Introducing GPT-6.1 Sol",
-      "summary": "We’re introducing GPT‑6.1 Sol , an upgrade to GPT‑6 Sol that nearly matches GPT‑6 Astra’s intelligence on agentic coding, computer use, and professional work at one-fifth of Astra’s standard input and output token prices.",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-29T10:00:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "DevDay 2026 Recap",
-      "summary": "DevDay 2026 is our biggest yet, with more than 20 major announcements across ChatGPT, Codex, our models, and entirely new forms of working with AI.",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-29T10:00:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Making AI an asset, not an expense",
-      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud.",
-      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-09-29T10:43:45.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "3 小時前"
     }
   ],
   "errors": []
