@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-30T01:21:44.294Z",
-  "updatedLocal": "2026/9/30 09:21:44",
+  "updated": "2026-09-30T09:27:01.595Z",
+  "updatedLocal": "2026/9/30 17:27:01",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Business leaders must think like sustainability professionals, whatever their title",
+      "summary": "Job titles will change, but next-gen sustainability thinking still gives professionals in every role an edge. The core skills are making the financial case, tracing policy and reading outside forces.",
+      "url": "https://trellis.net/article/why-business-leaders-must-think-like-sustainability-professionals/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-30T07:42:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "Sustainable AI: Tools, frameworks and best practices in 2026",
       "summary": "Sustainability professionals are scrambling to understand how AI adoption will impact environmental goals.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-09-29T21:42:29.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "New tool helps Etsy peer into the ‘black box’ of AI emissions",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-09-29T15:27:35.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "New emissions accounting rules win backing from companies and nonprofits",
@@ -37,7 +48,51 @@
       "group": null,
       "published": "2026-09-29T10:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "Why ISO 14001’s evolution signals a new era for sustainability professionals",
+      "summary": "For decades, environmental management occupied a defined space within organisations.",
+      "url": "https://www.edie.net/why-iso-14001s-evolution-signals-a-new-era-for-sustainability-professionals/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-30T09:00:22.000Z",
+      "why": null,
+      "ago": "27 分鐘前"
+    },
+    {
+      "title": "Study: UK banks emerge as Europe’s biggest coal financiers",
+      "summary": "UK banks provided $8.3bn in loans and underwriting to coal companies between 2022 and 2025 – more than any other country in Europe.",
+      "url": "https://www.edie.net/study-uk-banks-emerge-as-europes-biggest-coal-financiers/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-30T04:00:41.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "GridEx launches to drive the digital transformation of Europe’s electricity grids",
+      "summary": "GridEx, a new sister brand to edie, will examine the technologies, investment and infrastructure needed to digitalise Europe’s electricity grids and support the continent’s clean energy transition.",
+      "url": "https://www.edie.net/gridex-launches-to-drive-the-digital-transformation-of-europes-electricity-grids/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-30T03:00:35.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Report: Shipping transition falls behind as demand for zero-emission fuels weakens",
+      "summary": "New research has found that shipping is falling behind the pace needed to meet its 2030 climate targets, with demand for zero-emission fuels weakening, orders for compatible vessels declining and international regulation still unresolved.",
+      "url": "https://www.edie.net/report-shipping-transition-falls-behind-as-demand-for-zero-emission-fuels-weakens/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-30T01:48:46.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "ONE WEEK TO GO: The Autumn Budget – How businesses can cut waste, control costs and prepare for 2027",
@@ -48,7 +103,7 @@
       "group": null,
       "published": "2026-09-29T15:55:57.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Recycled polyester to enter Primark clothing from 2029",
@@ -59,62 +114,7 @@
       "group": null,
       "published": "2026-09-29T15:51:32.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "Government launches Great British Grid to invest in electricity network",
-      "summary": "The UK Government has announced the creation of Great British (GB) Grid, a publicly owned body within GB Energy that will invest in electricity network infrastructure and work with existing network operators to accelerate grid upgrades.",
-      "url": "https://www.edie.net/government-launches-great-british-grid-to-invest-in-electricity-network/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-29T15:34:58.000Z",
-      "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
-      "summary": "Sustainability professionals have the chance to win six months of access to edie’s digital Membership offering as well as a VIP pass to edie 27 in April by completing a short survey.",
-      "url": "https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-29T10:30:45.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "SPEAKERS ANNOUNCED: What SMEs need to know before investing in solar",
-      "summary": "Two expert speakers have been confirmed for an upcoming edie webinar exploring how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
-      "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-29T09:55:22.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "edie named official media partner of Carbon Accounting Conference 2026",
-      "summary": "edie is delighted to announce that we are the official media partner of the 2026 Carbon Accounting Conference, taking place on 6 October.",
-      "url": "https://www.edie.net/edie-named-official-media-partner-of-carbon-accounting-conference-2026/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-29T09:23:44.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "What 10 years of locally led innovation has taught Unilever",
-      "summary": "Unilever's vice president of global sustainability, Rianne Buter, explains how working with local impact enterprises can help businesses test and scale solutions that bring both commercial value and positive social impact.",
-      "url": "https://www.edie.net/what-10-years-of-locally-led-innovation-has-taught-unilever/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-29T03:00:59.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "18 小時前"
     }
   ],
   "errors": []

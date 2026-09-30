@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-30T01:21:44.294Z",
-  "updatedLocal": "2026/9/30 09:21:44",
+  "updated": "2026-09-30T09:27:01.595Z",
+  "updatedLocal": "2026/9/30 17:27:01",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "ai",
       "published": "2026-09-29T16:39:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "GLM-5.3 and the spread of advanced cyber capabilities",
@@ -26,7 +26,7 @@
       "group": "ai",
       "published": "2026-09-29T15:46:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Building with the Claude 5.5 Family: Choosing the Right Model and Getting More from Every Token",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-09-30T00:02:28.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Introducing GPT-6.1 Sol",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-09-29T10:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "DevDay 2026 Recap",
@@ -59,18 +59,18 @@
       "group": "ai",
       "published": "2026-09-29T10:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "Anthropic Trust Center - Trust Center",
-      "summary": "Anthropic is an AI safety and research company with a mission of ensuring the world safely makes the transition through transformative AI.",
-      "url": "https://trust.anthropic.com/?939688b5_page\\=2\\&8cf10c94_page\\=1\\&q\\=software-co",
-      "source": "Anthropic",
-      "tag": "模型",
+      "title": "Making AI an asset, not an expense",
+      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud.",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-09-29T01:06:47.000Z",
+      "published": "2026-09-29T10:43:45.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "23 小時前"
     }
   ],
   "errors": []
