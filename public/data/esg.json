@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-09-29T18:21:00.560Z",
-  "updatedLocal": "2026/9/30 02:21:00",
+  "updated": "2026-09-30T01:21:44.294Z",
+  "updatedLocal": "2026/9/30 09:21:44",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Sustainable AI: Tools, frameworks and best practices in 2026",
+      "summary": "Sustainability professionals are scrambling to understand how AI adoption will impact environmental goals.",
+      "url": "https://trellis.net/article/sustainable-ai-tools-frameworks-best-practices/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-09-29T21:42:29.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "New tool helps Etsy peer into the ‘black box’ of AI emissions",
       "summary": "Sustainable AI Group, the company co-founded by former Salesforce sustainability manager Boris Gamazaychikov, has released a resource for measuring the energy and emissions produced by proprietary artificial intelligence models.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-09-29T15:27:35.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "New emissions accounting rules win backing from companies and nonprofits",
@@ -26,18 +37,7 @@
       "group": null,
       "published": "2026-09-29T10:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "ISO adopts standard for managing SDG commitments",
-      "summary": "ISO/UNDP 53001 , released Sept. 28 during ISO’s annual meeting, establishes a management system that formalizes how companies choose SDGs, set key performance indicators to track progress and make governance decisions that consider them.",
-      "url": "https://trellis.net/article/iso-adopts-standard-for-managing-sdg-commitments/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-28T15:07:50.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "15 小時前"
     },
     {
       "title": "ONE WEEK TO GO: The Autumn Budget – How businesses can cut waste, control costs and prepare for 2027",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-09-29T15:55:57.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Recycled polyester to enter Primark clothing from 2029",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-09-29T15:51:32.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Government launches Great British Grid to invest in electricity network",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-09-29T15:34:58.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-09-29T10:30:45.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "SPEAKERS ANNOUNCED: What SMEs need to know before investing in solar",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-09-29T09:55:22.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "edie named official media partner of Carbon Accounting Conference 2026",
@@ -103,7 +103,7 @@
       "group": null,
       "published": "2026-09-29T09:23:44.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "What 10 years of locally led innovation has taught Unilever",
@@ -114,39 +114,8 @@
       "group": null,
       "published": "2026-09-29T03:00:59.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "ESG Today",
-      "url": "https://news.google.com/rss/search?q=site%3Aesgtoday.com&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "CSRone",
-      "url": "https://news.google.com/rss/search?q=site%3Acsrone.com&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "台灣永續政策",
-      "url": "https://news.google.com/rss/search?q=%E7%A2%B3%E8%B2%BB%20OR%20%E7%A2%B3%E4%BA%A4%E6%98%93%20OR%20%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8%20OR%20%E6%B7%A8%E9%9B%B6%20%E5%8F%B0%E7%81%A3&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "環境資訊中心",
-      "url": "https://news.google.com/rss/search?q=site%3Ae-info.org.tw&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "國際法規",
-      "url": "https://news.google.com/rss/search?q=CSRD%20OR%20CBAM%20OR%20%22IFRS%20S2%22%20OR%20ISSB%20sustainability%20disclosure&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "永續人才",
-      "url": "https://news.google.com/rss/search?q=%E6%B0%B8%E7%BA%8C%20%E4%BA%BA%E6%89%8D%20OR%20%E8%81%B7%E7%BC%BA%20OR%20ESG%20%E4%BA%BA%E5%8A%9B&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    }
-  ]
+  "errors": []
 }
