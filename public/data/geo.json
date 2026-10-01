@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-01T09:55:42.355Z",
-  "updatedLocal": "2026/10/1 17:55:42",
+  "updated": "2026-10-01T18:36:15.256Z",
+  "updatedLocal": "2026/10/2 02:36:15",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,62 @@
       "group": "gis",
       "published": "2026-09-30T16:59:42.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "summary": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-01T15:19:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Building with the Claude 5.5 Family: Choosing the Right Model and Getting More from Every Token",
+      "summary": "Claude Sonnet 5.5 joins Opus 5.5 on the Claude Platform as a faster, lower-cost complement.",
+      "url": "https://www.anthropic.com/webinars/building-with-the-claude-5-5-family-choosing-the-right-model-and-getting-more-from-every-token",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-01T12:38:47.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "- partner-sso.anthropic.com",
+      "summary": null,
+      "url": "https://partner-sso.anthropic.com/",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-01T04:37:12.000Z",
+      "why": null,
+      "ago": "14 小時前"
+    },
+    {
+      "title": "The eternal complement",
+      "summary": "Why genius machines might prove their greatest value doing monotonous work.",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-01T17:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "summary": "Albertsons Cos. is expanding its work with OpenAI to improve the retail experience for millions of customers.",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-01T16:00:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "Can we predict the jobs robots will do?",
@@ -26,62 +81,7 @@
       "group": "ai",
       "published": "2026-09-30T16:01:00.000Z",
       "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Building with the Claude 5.5 Family: Choosing the Right Model and Getting More from Every Token",
-      "summary": "Claude Sonnet 5.5 joins Opus 5.5 on the Claude Platform as a faster, lower-cost complement.",
-      "url": "https://www.anthropic.com/webinars/building-with-the-claude-5-5-family-choosing-the-right-model-and-getting-more-from-every-token",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-01T06:37:25.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Barclays scales Claude to upgrade operations and improve client experience",
-      "summary": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
-      "url": "https://www.anthropic.com/news/barclays-scales-claude",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-01T08:26:02.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "summary": "We recently identified and disrupted a coordinated campaign designed to extract protected reasoning from our models, with the earliest observed activity occurring in the first week of July.",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-30T10:30:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Helping small businesses put AI to work",
-      "summary": "Partnership with America’s SBDC will expand hands-on training and local guidance, while a new report explores what small teams are accomplishing with AI.",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-30T10:00:00.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "summary": "Gemini 4 Argon delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense.",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "source": "Google DeepMind",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-30T20:01:45.000Z",
-      "why": null,
-      "ago": "14 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
