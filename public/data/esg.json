@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-01T01:22:29.241Z",
-  "updatedLocal": "2026/10/1 09:22:29",
+  "updated": "2026-10-01T09:55:42.355Z",
+  "updatedLocal": "2026/10/1 17:55:42",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-30T23:49:16.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "What’s next: Key climate and nature standards in 2026",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-30T19:23:49.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Updated: Sustainability tools to use in 2026",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-09-30T18:40:25.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Business leaders must think like sustainability professionals, whatever their title",
@@ -48,18 +48,29 @@
       "group": null,
       "published": "2026-09-30T07:42:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Sustainable AI: Tools, frameworks and best practices in 2026",
-      "summary": "Sustainability professionals are scrambling to understand how AI adoption will impact environmental goals.",
-      "url": "https://trellis.net/article/sustainable-ai-tools-frameworks-best-practices/",
-      "source": "Trellis",
+      "title": "Cooling elephant tiles and lower-carbon concrete: The best green innovations of September 2026",
+      "summary": "As September comes to a close, edie and our sister title Springwise take a look at six of the month's most exciting cleantech innovation stories, from elephant-inspired tiles that keep buildings cool to more sustainable concrete.",
+      "url": "https://www.edie.net/cooling-elephant-tiles-and-lower-carbon-concrete-the-best-green-innovations-of-september-2026/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-09-29T21:42:29.000Z",
+      "published": "2026-10-01T09:29:48.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "26 分鐘前"
+    },
+    {
+      "title": "NEXT WEEK: The Autumn Budget – How businesses can cut waste, control costs and prepare for 2027",
+      "summary": "Next week, edie will host its latest webinar in partnership with JRP Solutions, exploring how businesses can cut waste, control costs and plan effectively for the year ahead.",
+      "url": "https://www.edie.net/one-week-to-go-the-autumn-budget-how-businesses-can-cut-waste-control-costs-and-prepare-for-2027/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-01T09:00:57.000Z",
+      "why": null,
+      "ago": "55 分鐘前"
     },
     {
       "title": "The ‘illusion of resilience’: Why food supply chains need a long-term rethink",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-09-30T23:01:55.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "How has environmental governance changed in the UK since Brexit?",
@@ -81,18 +92,7 @@
       "group": null,
       "published": "2026-09-30T15:40:13.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "ONE WEEK TO GO: The Autumn Budget – How businesses can cut waste, control costs and prepare for 2027",
-      "summary": "Next week, edie will host its latest webinar in partnership with JRP Solutions, exploring how businesses can cut waste, control costs and plan effectively for the year ahead.",
-      "url": "https://www.edie.net/one-week-to-go-the-autumn-budget-how-businesses-can-cut-waste-control-costs-and-prepare-for-2027/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-30T14:00:57.000Z",
-      "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "BSI and ISO launch global standard to tackle food waste",
@@ -103,7 +103,7 @@
       "group": null,
       "published": "2026-09-30T13:21:15.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "‘A step in the right direction’: The green economy reacts to Burnham’s GB Grid",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-09-30T10:04:48.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "24 小時前"
     }
   ],
   "errors": []

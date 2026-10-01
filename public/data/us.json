@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-01T01:22:29.241Z",
-  "updatedLocal": "2026/10/1 09:22:29",
+  "updated": "2026-10-01T09:55:42.355Z",
+  "updatedLocal": "2026/10/1 17:55:42",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-09-30T23:44:28.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-09-30T21:09:42.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices",
@@ -37,51 +37,62 @@
       "group": null,
       "published": "2026-09-30T08:45:42.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
-      "summary": "BEIJING — China's commerce ministry has sent a strong warning to the European Union ahead of expected high-level talks in Beijing next week.",
-      "url": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-30T03:39:08.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
-      "summary": "BEIJING — China's securities regulator is raising the bar for public listings of humanoid robot startups, according to three sources familiar with the CSRC's thinking.",
-      "url": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-30T02:50:35.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Goldman Sachs CEO succession planning faces one big problem",
-      "summary": "Goldman Sachs is on top of Wall Street right now, advising on more than $1 trillion in merger deals and generating more than $12 billion in equities revenue in the first six months of the year alone.",
-      "url": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-29T20:50:10.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
-      "summary": "Prediction market traders are expecting another strong jobs report on Friday.",
-      "url": "https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html",
-      "source": "CNBC Markets",
+      "title": "France’s bond market is stumbling. Should Americans care?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/frances-bond-market-is-stumbling-should-americans-care-202ea2af?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-09-29T20:33:08.000Z",
+      "published": "2026-10-01T09:39:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "17 分鐘前"
+    },
+    {
+      "title": "Retail investors are aggressively piling into this bold contrarian bet through one ETF.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/retail-investors-are-aggressively-piling-into-this-bold-contrarian-bet-through-one-etf-da26f208?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-01T09:23:00.000Z",
+      "why": null,
+      "ago": "33 分鐘前"
+    },
+    {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-01T09:15:00.000Z",
+      "why": null,
+      "ago": "41 分鐘前"
+    },
+    {
+      "title": "Angelina Jolie sells L.A. mansion with illustrious Hollywood history for $24.75 million",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/angelina-jolie-sells-l-a-mansion-with-illustrious-hollywood-history-for-24-75-million-d0e38495?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-01T09:04:00.000Z",
+      "why": null,
+      "ago": "52 分鐘前"
+    },
+    {
+      "title": "Cars have become unaffordable for many Americans. Here’s what the numbers show.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-01T02:35:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-10-01T00:45:00.000Z",
       "why": null,
-      "ago": "37 分鐘前"
+      "ago": "9 小時前"
     },
     {
       "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-10-01T00:20:00.000Z",
       "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-01T00:11:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
+      "ago": "10 小時前"
     }
   ],
   "errors": []

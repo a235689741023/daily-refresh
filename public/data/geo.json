@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-01T01:22:29.241Z",
-  "updatedLocal": "2026/10/1 09:22:29",
+  "updated": "2026-10-01T09:55:42.355Z",
+  "updatedLocal": "2026/10/1 17:55:42",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-09-30T16:59:42.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Can we predict the jobs robots will do?",
@@ -26,7 +26,29 @@
       "group": "ai",
       "published": "2026-09-30T16:01:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "Building with the Claude 5.5 Family: Choosing the Right Model and Getting More from Every Token",
+      "summary": "Claude Sonnet 5.5 joins Opus 5.5 on the Claude Platform as a faster, lower-cost complement.",
+      "url": "https://www.anthropic.com/webinars/building-with-the-claude-5-5-family-choosing-the-right-model-and-getting-more-from-every-token",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-01T06:37:25.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "summary": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-01T08:26:02.000Z",
+      "why": null,
+      "ago": "1 小時前"
     },
     {
       "title": "Disrupting a coordinated model-distillation campaign",
@@ -37,7 +59,7 @@
       "group": "ai",
       "published": "2026-09-30T10:30:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Helping small businesses put AI to work",
@@ -48,18 +70,7 @@
       "group": "ai",
       "published": "2026-09-30T10:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Building with the Claude 5.5 Family: Choosing the Right Model and Getting More from Every Token",
-      "summary": "Claude Sonnet 5.5 joins Opus 5.5 on the Claude Platform as a faster, lower-cost complement.",
-      "url": "https://www.anthropic.com/webinars/building-with-the-claude-5-5-family-choosing-the-right-model-and-getting-more-from-every-token",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-30T00:02:28.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "24 小時前"
     },
     {
       "title": "Gemini 4 Argon: our next era of frontier intelligence",
@@ -70,18 +81,7 @@
       "group": "ai",
       "published": "2026-09-30T20:01:45.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Introducing SynthID Bio",
-      "summary": "Pushmeet Kohli, David Stutz, Ali Cowen-Rivers and Jeremy Ratcliff Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "source": "Google DeepMind",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-09-30T15:03:07.000Z",
-      "why": null,
-      "ago": "10 小時前"
+      "ago": "14 小時前"
     }
   ],
   "errors": []
