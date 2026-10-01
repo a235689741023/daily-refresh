@@ -1,21 +1,32 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-09-30T18:10:41.401Z",
-  "updatedLocal": "2026/10/1 02:10:41",
+  "updated": "2026-10-01T01:22:29.241Z",
+  "updatedLocal": "2026/10/1 09:22:29",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Building with the Claude 5.5 Family: Choosing the Right Model and Getting More from Every Token",
-      "summary": "Claude Sonnet 5.5 joins Opus 5.5 on the Claude Platform as a faster, lower-cost complement.",
-      "url": "https://www.anthropic.com/webinars/building-with-the-claude-5-5-family-choosing-the-right-model-and-getting-more-from-every-token",
+      "title": "Discover Indoor GIS at Esri Infrastructure Management and GIS 2026 Conference",
+      "summary": "The 2026 Esri Infrastructure Management & GIS (IMGIS) Conference brings together infrastructure professionals to learn how geographic information system (GIS) technology supports planning, operations, and asset management across the infrastructure lifecycle.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-indoors/indoor-gis/discover-indoor-gis-at-esri-infrastructure-management-and-gis-2026-conference",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-09-30T16:59:42.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Can we predict the jobs robots will do?",
+      "summary": "Advances in large language models have raised the possibility of automating large swaths of work. But many jobs are physical.",
+      "url": "https://www.anthropic.com/research/what-work-can-robots-do",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-30T00:02:28.000Z",
+      "published": "2026-09-30T16:01:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Disrupting a coordinated model-distillation campaign",
@@ -26,7 +37,7 @@
       "group": "ai",
       "published": "2026-09-30T10:30:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Helping small businesses put AI to work",
@@ -37,29 +48,29 @@
       "group": "ai",
       "published": "2026-09-30T10:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
-      "title": "What do you want from AI?",
-      "summary": "We’re launching a new study using Anthropic Interviewer to learn from your experiences with AI, and we’d like you to participate.",
-      "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
+      "title": "Building with the Claude 5.5 Family: Choosing the Right Model and Getting More from Every Token",
+      "summary": "Claude Sonnet 5.5 joins Opus 5.5 on the Claude Platform as a faster, lower-cost complement.",
+      "url": "https://www.anthropic.com/webinars/building-with-the-claude-5-5-family-choosing-the-right-model-and-getting-more-from-every-token",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-29T16:39:00.000Z",
+      "published": "2026-09-30T00:02:28.000Z",
       "why": null,
       "ago": "昨日"
     },
     {
-      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-      "summary": "Andrew Fasano, Marius Fleischer Cole McFaul, Robert Xiao, Tripp Gallagher Five months ago, we announced Claude Mythos Preview, the first AI model that could autonomously build sophisticated, end-to-end cyber exploits.",
-      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-      "source": "Anthropic",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "summary": "Gemini 4 Argon delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense.",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "Google DeepMind",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-29T15:46:00.000Z",
+      "published": "2026-09-30T20:01:45.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "5 小時前"
     },
     {
       "title": "Introducing SynthID Bio",
@@ -70,7 +81,7 @@
       "group": "ai",
       "published": "2026-09-30T15:03:07.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     }
   ],
   "errors": []
