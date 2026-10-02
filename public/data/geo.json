@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-01T18:36:15.256Z",
-  "updatedLocal": "2026/10/2 02:36:15",
+  "updated": "2026-10-02T01:44:07.666Z",
+  "updatedLocal": "2026/10/2 09:44:07",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,6 +18,17 @@
       "ago": "昨日"
     },
     {
+      "title": "Claude-shaped science",
+      "summary": "Summary: In this guest post, Prof. Matthew Schwartz returns to describe a new approach to AI-accelerated science.",
+      "url": "https://www.anthropic.com/research/claude-shaped-science",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-01T14:02:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
+    },
+    {
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
       "summary": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
       "url": "https://www.anthropic.com/news/barclays-scales-claude",
@@ -26,7 +37,7 @@
       "group": "ai",
       "published": "2026-10-01T15:19:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Building with the Claude 5.5 Family: Choosing the Right Model and Getting More from Every Token",
@@ -35,20 +46,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-01T12:38:47.000Z",
+      "published": "2026-10-01T16:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "- partner-sso.anthropic.com",
-      "summary": null,
-      "url": "https://partner-sso.anthropic.com/",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-01T04:37:12.000Z",
-      "why": null,
-      "ago": "14 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "The eternal complement",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-10-01T17:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "How Albertsons Companies is reimagining retail from the inside out",
@@ -70,16 +70,16 @@
       "group": "ai",
       "published": "2026-10-01T16:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
-      "title": "Can we predict the jobs robots will do?",
-      "summary": "Advances in large language models have raised the possibility of automating large swaths of work. But many jobs are physical.",
-      "url": "https://www.anthropic.com/research/what-work-can-robots-do",
-      "source": "Anthropic",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "url": "https://openai.com/index/the-den-family-social",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-09-30T16:01:00.000Z",
+      "published": "2026-10-01T00:00:00.000Z",
       "why": null,
       "ago": "昨日"
     }

@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-01T18:36:15.256Z",
-  "updatedLocal": "2026/10/2 02:36:15",
+  "updated": "2026-10-02T01:44:07.666Z",
+  "updatedLocal": "2026/10/2 09:44:07",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Long-time Ceres CEO Mindy Lubber to step down in 2027",
+      "summary": "Sustainability nonprofit Ceres is seeking a successor to Mindy Lubber, who is stepping down as its long-time president and CEO at the end of 2027 after more than two decades of leadership.",
+      "url": "https://trellis.net/article/ceres-ceo-mindy-lubber-step-down-2027/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-01T21:31:17.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "Sustainability leadership moves",
       "summary": "As corporate sustainability matures, some long-time leaders are leaving the profession, while others are tackling a broader set of responsibilities following reorganizations or layoffs.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-01T15:09:38.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "What sellers really think about supplier engagement programs",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-10-01T10:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "What consumers think about recycling labels",
@@ -37,29 +48,29 @@
       "group": null,
       "published": "2026-09-30T23:49:16.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "What’s next: Key climate and nature standards in 2026",
-      "summary": "Welcome to the Trellis timeline of updates and public consultations regarding voluntary net zero, carbon accounting, nature and circular economy standards — both established guidance and emerging frameworks.",
-      "url": "https://trellis.net/article/timeline-key-climate-nature-methodologies/",
-      "source": "Trellis",
+      "title": "COP31 Action Tracker: UNGA updates, electrification pledge and Germany maps fossil-fuel exit",
+      "summary": "With COP31 in Türkiye under six weeks ago, this regular members-only series from edie will provide a temperature check on global climate action.",
+      "url": "https://www.edie.net/cop31-action-tracker-unga-updates-electrification-pledge-and-germany-maps-fossil-fuel-exit/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-09-30T19:23:49.000Z",
+      "published": "2026-10-01T23:01:13.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "Updated: Sustainability tools to use in 2026",
-      "summary": "Welcome to the Trellis roundup of new products and services for sustainability professionals, as chosen by our editorial team.",
-      "url": "https://trellis.net/article/corporate-sustainability-tools-to-use/",
-      "source": "Trellis",
+      "title": "FCA ditches mandatory sustainability reporting for UK businesses",
+      "summary": "The Financial Conduct Authority (FCA) has published its finalised rules for listed companies, establishing a 'comply or explain' approach in place of fully mandatory reporting.",
+      "url": "https://www.edie.net/fca-ditches-mandatory-sustainability-reporting-for-uk-businesses/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-09-30T18:40:25.000Z",
+      "published": "2026-10-01T19:10:32.000Z",
       "why": null,
-      "ago": "24 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "SPEAKERS ANNOUNCED: What SMEs need to know before investing in solar",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-10-01T09:55:22.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Cooling elephant tiles and lower-carbon concrete: The best green innovations of September 2026",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-10-01T09:29:48.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "NEXT WEEK: The Autumn Budget – How businesses can cut waste, control costs and prepare for 2027",
@@ -92,29 +103,18 @@
       "group": null,
       "published": "2026-10-01T09:00:57.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "The ‘illusion of resilience’: Why food supply chains need a long-term rethink",
-      "summary": "If the underlying environmental systems are degrading, tactical sourcing changes can simply move risk around the food sector, a new memo from leading industry executives has argued.",
-      "url": "https://www.edie.net/the-illusion-of-resilience-why-food-supply-chains-need-a-long-term-rethink/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-09-30T23:01:55.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "從電商經理到百大青農 林巧悅以有機草莓扎根關西",
+      "title": "“Stop Feeding the Strays!” Roaming Dogs Threaten Orchid Island’s Nesting Green Sea Turtles",
       "summary": null,
-      "url": "https://e-info.org.tw/node/243929",
+      "url": "https://e-info.org.tw/node/243899",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-10-01T02:39:22.000Z",
+      "published": "2026-10-02T01:30:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "14 分鐘前"
     }
   ],
   "errors": []

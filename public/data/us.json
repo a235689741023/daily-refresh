@@ -1,22 +1,11 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-01T18:36:15.256Z",
-  "updatedLocal": "2026/10/2 02:36:15",
+  "updated": "2026-10-02T01:44:07.666Z",
+  "updatedLocal": "2026/10/2 09:44:07",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
-      "summary": "Minneapolis Federal Reserve President Neel Kashkari said Wednesday that price growth remained a concern despite the latest data coming in cooler than economists predicted.",
-      "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-09-30T23:44:28.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
     {
       "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
       "summary": "Trading volumes for certain products on prediction market platforms Kalshi and Polymarket are raising questions from some industry observers, who fear the numbers may be inflated.",
@@ -26,51 +15,40 @@
       "group": null,
       "published": "2026-10-01T14:24:36.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "This silent alarm in the bond market tells you which stocks to buy and which to avoid",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/this-silent-alarm-in-the-bond-market-tells-you-which-stocks-to-buy-and-which-to-avoid-4568ac53?mod=mw_rss_topstories",
-      "source": "MarketWatch",
+      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
+      "summary": "Minneapolis Federal Reserve President Neel Kashkari said Wednesday that price growth remained a concern despite the latest data coming in cooler than economists predicted.",
+      "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+      "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-01T18:10:00.000Z",
+      "published": "2026-09-30T23:44:28.000Z",
       "why": null,
-      "ago": "26 分鐘前"
+      "ago": "昨日"
     },
     {
-      "title": "Trump’s SEC wants to allow fund managers to charge extra fees for better performance. Here’s why it’s a terrible idea.",
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/trumps-sec-wants-to-allow-fund-managers-to-charge-extra-fees-for-better-performance-heres-why-its-a-terrible-idea-61f6e0cc?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-01T17:16:00.000Z",
+      "published": "2026-10-02T01:00:00.000Z",
+      "why": null,
+      "ago": "44 分鐘前"
+    },
+    {
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-02T00:30:00.000Z",
       "why": null,
       "ago": "1 小時前"
-    },
-    {
-      "title": "This couple took out an adjustable-rate mortgage when rates were over 8%. Here’s how it worked out.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/this-couple-took-out-an-adjustable-rate-mortgage-when-rates-were-over-8-heres-how-it-worked-out-d52e592a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-01T16:51:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Mark Zuckerberg is coming for Apple’s empire",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/metas-mark-zuckerberg-is-coming-for-apples-empire-f34d1f92?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-01T16:47:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
     },
     {
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
@@ -79,42 +57,64 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-01T16:16:00.000Z",
+      "published": "2026-10-02T00:15:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-02T00:14:00.000Z",
       "why": null,
       "ago": "2 小時前"
     },
     {
-      "title": "30-year mortgage rate posts biggest jump in four years — to nearly 7.3%",
+      "title": "This could be the worst year ever for Nike’s stock, with sales set to fall further",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/30-year-mortgage-rate-posts-biggest-jump-in-four-years-e288f596?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-01T16:06:00.000Z",
+      "published": "2026-10-02T00:13:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Tesla’s delivery report is just around the corner. Expect a sales drop.",
+      "title": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/teslas-delivery-report-is-just-around-the-corner-expect-a-sales-drop-45d5503b?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-01T15:43:00.000Z",
+      "published": "2026-10-01T21:27:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "4 小時前"
     },
     {
-      "title": "U.S. manufacturers say inflation is bad and not getting any better",
+      "title": "The stock market is anything but normal right now — and these charts show it",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/u-s-manufacturers-say-inflation-is-bad-and-not-getting-any-better-8281edef?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-stock-market-is-anything-but-normal-right-now-and-these-charts-show-it-91ea187d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-01T15:19:00.000Z",
+      "published": "2026-10-01T21:01:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Here’s how much more groceries, clothing and household appliances could cost as diesel prices keep surging",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/heres-how-much-more-groceries-clothing-and-household-appliances-could-cost-as-diesel-prices-keep-surging-771c9247?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-01T20:58:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     }
   ],
   "errors": []
