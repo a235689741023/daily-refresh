@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-02T09:29:51.049Z",
-  "updatedLocal": "2026/10/2 17:29:51",
+  "updated": "2026-10-02T18:05:46.658Z",
+  "updatedLocal": "2026/10/3 02:05:46",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,37 +18,26 @@
       "ago": "2 天前"
     },
     {
-      "title": "Claude-shaped science",
-      "summary": "Summary: In this guest post, Prof. Matthew Schwartz returns to describe a new approach to AI-accelerated science.",
-      "url": "https://www.anthropic.com/research/claude-shaped-science",
-      "source": "Anthropic",
+      "title": "A model guide for the GPT-6 family",
+      "summary": "Practical tips for getting the best results from GPT‑6 models while managing time and cost GPT‑6 is our most advanced suite of models yet , and offers you a choice of models for different kinds of work.",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-01T14:02:00.000Z",
+      "published": "2026-10-02T16:15:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Barclays scales Claude to upgrade operations and improve client experience",
-      "summary": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
-      "url": "https://www.anthropic.com/news/barclays-scales-claude",
-      "source": "Anthropic",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "summary": "Chatham Financial uses Codex and GPT‑5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "url": "https://openai.com/index/chatham-financial",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-01T15:19:00.000Z",
+      "published": "2026-10-02T00:00:00.000Z",
       "why": null,
       "ago": "18 小時前"
-    },
-    {
-      "title": "Building with the Claude 5.5 Family: Choosing the Right Model and Getting More from Every Token",
-      "summary": "Claude Sonnet 5.5 joins Opus 5.5 on the Claude Platform as a faster, lower-cost complement.",
-      "url": "https://www.anthropic.com/webinars/building-with-the-claude-5-5-family-choosing-the-right-model-and-getting-more-from-every-token",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-01T16:00:00.000Z",
-      "why": null,
-      "ago": "17 小時前"
     },
     {
       "title": "The eternal complement",
@@ -59,7 +48,18 @@
       "group": "ai",
       "published": "2026-10-01T17:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Building with the Claude 5.5 Family: Choosing the Right Model and Getting More from Every Token",
+      "summary": "Claude Sonnet 5.5 joins Opus 5.5 on the Claude Platform as a faster, lower-cost complement.",
+      "url": "https://www.anthropic.com/webinars/building-with-the-claude-5-5-family-choosing-the-right-model-and-getting-more-from-every-token",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-01T16:00:00.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "How Albertsons Companies is reimagining retail from the inside out",
@@ -70,18 +70,18 @@
       "group": "ai",
       "published": "2026-10-01T16:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent.",
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "summary": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "source": "Anthropic",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-10-02T08:00:00.000Z",
+      "published": "2026-10-01T15:19:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

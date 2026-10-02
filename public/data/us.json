@@ -1,11 +1,44 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-02T09:29:51.049Z",
-  "updatedLocal": "2026/10/2 17:29:51",
+  "updated": "2026-10-02T18:05:46.658Z",
+  "updatedLocal": "2026/10/3 02:05:46",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
+      "summary": "Investors now think the odds are extremely unlikely that the Federal Reserve raises interest rates again in October, following a weaker-than-expected September employment report .",
+      "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-02T13:29:27.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
+      "summary": "Before artificial intelligence can take Wall Street jobs, it is first creating them.",
+      "url": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-02T11:03:31.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
+      "summary": "Before artificial intelligence can take Wall Street jobs, it is first creating them.",
+      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-02T12:24:27.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
     {
       "title": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
       "summary": "Approximately $1.1 million of the nearly $388 million stolen from crypto exchange Bitget in last week’s cyberattack has been frozen, as the platform continues efforts to trace and recover the assets.",
@@ -15,7 +48,7 @@
       "group": null,
       "published": "2026-10-02T06:03:23.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
@@ -26,95 +59,62 @@
       "group": null,
       "published": "2026-10-01T14:24:36.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Another viral AI doomsday report claims ‘it’s over.’ Why home prices could take a hit as screen-based jobs disappear.",
+      "title": "Men are losing ground in the labor market. Here's why",
+      "summary": "Friday's weaker-than-expected jobs report may feel especially lousy for men.",
+      "url": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-02T17:38:59.000Z",
+      "why": null,
+      "ago": "27 分鐘前"
+    },
+    {
+      "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+      "summary": "The U.S. economy created far fewer jobs than expected in September, pointing to a surprising soft spot in the labor market and broader economy.",
+      "url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-02T13:45:58.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "The September jobs report will be released Friday. Here's what to expect",
+      "summary": "Lingering questions over the state of the U.S. labor market could be answered Friday when the Bureau of Labor Statistics presents its nonfarm payrolls count for September.",
+      "url": "https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-01T18:55:02.000Z",
+      "why": null,
+      "ago": "23 小時前"
+    },
+    {
+      "title": "How much higher can bond yields rise — and what does it mean for stocks?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/how-much-higher-can-bond-yields-rise-and-what-does-it-mean-for-stocks-12883d6c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-02T09:25:00.000Z",
+      "published": "2026-10-02T17:48:00.000Z",
       "why": null,
-      "ago": "5 分鐘前"
+      "ago": "18 分鐘前"
     },
     {
-      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-02T09:15:00.000Z",
+      "published": "2026-10-02T17:48:00.000Z",
       "why": null,
-      "ago": "15 分鐘前"
-    },
-    {
-      "title": "Amazon is hiking chip-rental prices and reportedly moving Nvidia processors off the balance sheet",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/amazon-is-hiking-chip-rental-prices-and-reportedly-moving-nvidia-processors-off-the-balance-sheet-b205a0b0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-02T09:07:00.000Z",
-      "why": null,
-      "ago": "23 分鐘前"
-    },
-    {
-      "title": "Famed former Boston Celtics commentator lists sunny Boston penthouse for $1.5 million",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/famed-former-boston-celtics-commentator-lists-sunny-boston-penthouse-for-1-5-million-dedfb48a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-02T08:59:00.000Z",
-      "why": null,
-      "ago": "31 分鐘前"
-    },
-    {
-      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-02T01:00:00.000Z",
-      "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-02T00:30:00.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-02T00:15:00.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-02T00:14:00.000Z",
-      "why": null,
-      "ago": "9 小時前"
+      "ago": "18 分鐘前"
     }
   ],
   "errors": []

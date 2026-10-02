@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-02T09:29:51.049Z",
-  "updatedLocal": "2026/10/2 17:29:51",
+  "updated": "2026-10-02T18:05:46.658Z",
+  "updatedLocal": "2026/10/3 02:05:46",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-01T21:31:17.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Sustainability leadership moves",
@@ -26,18 +26,40 @@
       "group": null,
       "published": "2026-10-01T15:09:38.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "What sellers really think about supplier engagement programs",
-      "summary": "As companies struggle to decarbonize supply chains, programs that help suppliers cut emissions have become a must-have component of climate strategies.",
-      "url": "https://trellis.net/article/scope-three-peer-group-supplier-survey/",
-      "source": "Trellis",
+      "title": "Greenpeace threatens legal action against Crown Estate as research warns seabed fees could raise energy costs",
+      "summary": "Greenpeace UK has threatened legal action against the Crown Estate over the way it charges offshore wind developers for access to the seabed, as new research warns the system could add billions of pounds to future electricity costs.",
+      "url": "https://www.edie.net/greenpeace-threatens-legal-action-against-crown-estate-as-research-warns-seabed-fees-could-raise-energy-costs/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-01T10:00:00.000Z",
+      "published": "2026-10-02T17:21:14.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "45 分鐘前"
+    },
+    {
+      "title": "The A-Z of Scope 3: Defining and explaining changes to sustainability and procurement teams",
+      "summary": "With global regulations tightening and persistent supply chain disruptions making procurement an increasingly complex challenge, managing value-chain carbon has moved to the top of the corporate agenda.",
+      "url": "https://www.edie.net/the-a-z-of-scope-3-defining-and-explaining-changes-to-sustainability-and-procurement-teams/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-02T16:00:18.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "EU electricity sector calls for strengthened Emissions Trading System and pricing",
+      "summary": "As negotiations on the European Commission's proposed review of the EU Emissions Trading System (ETS) begin this week, calls have emerged to ensure a stable and meaningful carbon price is delivered to assist with decarbonisation and electrification efforts.",
+      "url": "https://www.edie.net/eu-electricity-sector-calls-for-strengthened-emissions-trading-system-and-pricing/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-02T11:26:57.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "TWO WEEKS LEFT to nominate for edie’s 30 Under 30 Class of 2027",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-10-02T03:00:30.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "COP31 Action Tracker: UNGA updates, electrification pledge and Germany maps fossil-fuel exit",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-10-01T23:01:13.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "FCA ditches mandatory sustainability reporting for UK businesses",
@@ -70,21 +92,10 @@
       "group": null,
       "published": "2026-10-01T19:10:32.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "SPEAKERS ANNOUNCED: What SMEs need to know before investing in solar",
-      "summary": "Two expert speakers have been confirmed for an upcoming edie webinar exploring how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
-      "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-01T09:55:22.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "透過八色鳥，認識森林的另一個世界",
+      "title": "透過八色鳥，認識森林的另一個世界 - e-info.org.tw",
       "summary": null,
       "url": "https://e-info.org.tw/node/243903",
       "source": "環境資訊中心",
@@ -92,10 +103,10 @@
       "group": null,
       "published": "2026-10-02T07:40:57.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
-      "title": "電商推週三惜食日 高CP值麵包、蛋糕福袋減少剩食浪費",
+      "title": "電商推週三惜食日 高CP值麵包、蛋糕福袋減少剩食浪費 - e-info.org.tw",
       "summary": null,
       "url": "https://e-info.org.tw/node/243937",
       "source": "環境資訊中心",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-10-02T07:40:56.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "審計部揭離岸風電121億損失、卓榮泰核定10億PFAS計畫、新加坡開徵綠色燃料稅",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243936",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-02T02:32:46.000Z",
-      "why": null,
-      "ago": "7 小時前"
+      "ago": "10 小時前"
     }
   ],
   "errors": []
