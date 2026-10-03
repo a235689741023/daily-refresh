@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-02T18:05:46.658Z",
-  "updatedLocal": "2026/10/3 02:05:46",
+  "updated": "2026-10-03T01:15:26.863Z",
+  "updatedLocal": "2026/10/3 09:15:26",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,6 +18,17 @@
       "ago": "2 天前"
     },
     {
+      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
+      "summary": "The first-of-its-kind Academy trains Frontier Deployed Engineers using the same standard of skills as Anthropic’s own engineers, starting with cohorts from Accenture, Bain, Capgemini, Commonwealth Bank of Australia, Deloitte, McKinsey, Morgan Stanley, Novo Nordisk and others.",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-02T23:01:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
       "title": "A model guide for the GPT-6 family",
       "summary": "Practical tips for getting the best results from GPT‑6 models while managing time and cost GPT‑6 is our most advanced suite of models yet , and offers you a choice of models for different kinds of work.",
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
@@ -26,7 +37,7 @@
       "group": "ai",
       "published": "2026-10-02T16:15:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Chatham scales its capital markets expertise with OpenAI",
@@ -37,51 +48,40 @@
       "group": "ai",
       "published": "2026-10-02T00:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "The eternal complement",
-      "summary": "Why genius machines might prove their greatest value doing monotonous work.",
-      "url": "https://openai.com/index/the-eternal-complement",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-01T17:00:00.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Building with the Claude 5.5 Family: Choosing the Right Model and Getting More from Every Token",
-      "summary": "Claude Sonnet 5.5 joins Opus 5.5 on the Claude Platform as a faster, lower-cost complement.",
-      "url": "https://www.anthropic.com/webinars/building-with-the-claude-5-5-family-choosing-the-right-model-and-getting-more-from-every-token",
-      "source": "Anthropic",
-      "tag": "模型",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight.",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-10-01T16:00:00.000Z",
+      "published": "2026-10-02T15:49:04.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "9 小時前"
     },
     {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "summary": "Albertsons Cos. is expanding its work with OpenAI to improve the retail experience for millions of customers.",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent.",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-10-01T16:00:00.000Z",
+      "published": "2026-10-02T08:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "17 小時前"
     },
     {
-      "title": "Barclays scales Claude to upgrade operations and improve client experience",
-      "summary": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
-      "url": "https://www.anthropic.com/news/barclays-scales-claude",
-      "source": "Anthropic",
+      "title": "The latest AI news we announced in September 2026",
+      "summary": "Here’s a recap of some of our biggest AI updates from September, including Gemini 4 Argon, new Connected Apps in the Gemini App, and WeatherNext 3.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI Blog",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-01T15:19:00.000Z",
+      "published": "2026-10-02T15:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "10 小時前"
     }
   ],
   "errors": []

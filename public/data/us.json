@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-02T18:05:46.658Z",
-  "updatedLocal": "2026/10/3 02:05:46",
+  "updated": "2026-10-03T01:15:26.863Z",
+  "updatedLocal": "2026/10/3 09:15:26",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-02T13:29:27.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-10-02T11:03:31.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
@@ -35,7 +35,7 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-02T12:24:27.000Z",
+      "published": "2026-10-02T18:49:03.000Z",
       "why": null,
       "ago": "6 小時前"
     },
@@ -48,18 +48,7 @@
       "group": null,
       "published": "2026-10-02T06:03:23.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
-      "summary": "Trading volumes for certain products on prediction market platforms Kalshi and Polymarket are raising questions from some industry observers, who fear the numbers may be inflated.",
-      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-01T14:24:36.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "19 小時前"
     },
     {
       "title": "Men are losing ground in the labor market. Here's why",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-10-02T17:38:59.000Z",
       "why": null,
-      "ago": "27 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
@@ -81,40 +70,51 @@
       "group": null,
       "published": "2026-10-02T13:45:58.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "The September jobs report will be released Friday. Here's what to expect",
-      "summary": "Lingering questions over the state of the U.S. labor market could be answered Friday when the Bureau of Labor Statistics presents its nonfarm payrolls count for September.",
-      "url": "https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-01T18:55:02.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "How much higher can bond yields rise — and what does it mean for stocks?",
+      "title": "Why Western Digital and Seagate are seeing big stock drops today",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/how-much-higher-can-bond-yields-rise-and-what-does-it-mean-for-stocks-12883d6c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-02T17:48:00.000Z",
+      "published": "2026-10-02T22:42:00.000Z",
       "why": null,
-      "ago": "18 分鐘前"
+      "ago": "3 小時前"
     },
     {
-      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
+      "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-02T17:48:00.000Z",
+      "published": "2026-10-02T22:29:00.000Z",
       "why": null,
-      "ago": "18 分鐘前"
+      "ago": "3 小時前"
+    },
+    {
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-02T22:10:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-02T21:54:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
     }
   ],
   "errors": []

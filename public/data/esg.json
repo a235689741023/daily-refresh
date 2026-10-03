@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-02T18:05:46.658Z",
-  "updatedLocal": "2026/10/3 02:05:46",
+  "updated": "2026-10-03T01:15:26.863Z",
+  "updatedLocal": "2026/10/3 09:15:26",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Investors are ignoring the biggest source of data-center water use",
+      "summary": "How to meet the power demands of AI data centers is, in many ways, the question at the intersection of sustainability and economic growth right now.",
+      "url": "https://trellis.net/article/investors-data-centers-water-use/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-02T18:35:47.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "Long-time Ceres CEO Mindy Lubber to step down in 2027",
       "summary": "Sustainability nonprofit Ceres is seeking a successor to Mindy Lubber, who is stepping down as its long-time president and CEO at the end of 2027 after more than two decades of leadership.",
@@ -14,17 +25,6 @@
       "tag": "國際",
       "group": null,
       "published": "2026-10-01T21:31:17.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Sustainability leadership moves",
-      "summary": "As corporate sustainability matures, some long-time leaders are leaving the profession, while others are tackling a broader set of responsibilities following reorganizations or layoffs.",
-      "url": "https://trellis.net/article/sustainability-leadership-moves/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-01T15:09:38.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-10-02T17:21:14.000Z",
       "why": null,
-      "ago": "45 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "The A-Z of Scope 3: Defining and explaining changes to sustainability and procurement teams",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-10-02T16:00:18.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "EU electricity sector calls for strengthened Emissions Trading System and pricing",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-10-02T11:26:57.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "TWO WEEKS LEFT to nominate for edie’s 30 Under 30 Class of 2027",
@@ -70,7 +70,40 @@
       "group": null,
       "published": "2026-10-02T03:00:30.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
+    },
+    {
+      "title": "透過八色鳥，認識森林的另一個世界",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243903",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-02T07:40:57.000Z",
+      "why": null,
+      "ago": "18 小時前"
+    },
+    {
+      "title": "電商推週三惜食日 高CP值麵包、蛋糕福袋減少剩食浪費",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243937",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-02T07:40:56.000Z",
+      "why": null,
+      "ago": "18 小時前"
+    },
+    {
+      "title": "審計部揭離岸風電121億損失、卓榮泰核定10億PFAS計畫、新加坡開徵綠色燃料稅",
+      "summary": null,
+      "url": "https://www.e-info.org.tw/node/243936",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-02T02:50:58.000Z",
+      "why": null,
+      "ago": "22 小時前"
     },
     {
       "title": "COP31 Action Tracker: UNGA updates, electrification pledge and Germany maps fossil-fuel exit",
@@ -81,40 +114,7 @@
       "group": null,
       "published": "2026-10-01T23:01:13.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "FCA ditches mandatory sustainability reporting for UK businesses",
-      "summary": "The Financial Conduct Authority (FCA) has published its finalised rules for listed companies, establishing a 'comply or explain' approach in place of fully mandatory reporting.",
-      "url": "https://www.edie.net/fca-ditches-mandatory-sustainability-reporting-for-uk-businesses/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-01T19:10:32.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "透過八色鳥，認識森林的另一個世界 - e-info.org.tw",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243903",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-02T07:40:57.000Z",
-      "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "電商推週三惜食日 高CP值麵包、蛋糕福袋減少剩食浪費 - e-info.org.tw",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243937",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-02T07:40:56.000Z",
-      "why": null,
-      "ago": "10 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
