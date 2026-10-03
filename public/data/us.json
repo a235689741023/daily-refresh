@@ -1,32 +1,21 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-03T08:57:35.917Z",
-  "updatedLocal": "2026/10/3 16:57:35",
+  "updated": "2026-10-03T16:49:12.118Z",
+  "updatedLocal": "2026/10/4 00:49:12",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
-      "summary": "Investors now think the odds are extremely unlikely that the Federal Reserve raises interest rates again in October, following a weaker-than-expected September employment report .",
-      "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
+      "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
+      "summary": "With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions depending on the outcome of the neck-and-neck race.",
+      "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-02T13:29:27.000Z",
+      "published": "2026-10-03T13:12:27.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
-      "summary": "Before artificial intelligence can take Wall Street jobs, it is first creating them.",
-      "url": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-02T11:03:31.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "4 小時前"
     },
     {
       "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
@@ -37,16 +26,27 @@
       "group": null,
       "published": "2026-10-02T18:49:03.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
-      "summary": "Approximately $1.1 million of the nearly $388 million stolen from crypto exchange Bitget in last week’s cyberattack has been frozen, as the platform continues efforts to trace and recover the assets.",
-      "url": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
+      "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
+      "summary": "Investors now think the odds are extremely unlikely that the Federal Reserve raises interest rates again in October, following a weaker-than-expected September employment report .",
+      "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-02T06:03:23.000Z",
+      "published": "2026-10-02T13:29:27.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
+      "summary": "Before artificial intelligence can take Wall Street jobs, it is first creating them.",
+      "url": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-02T11:03:31.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -59,62 +59,62 @@
       "group": null,
       "published": "2026-10-02T17:38:59.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
-      "summary": "The U.S. economy created far fewer jobs than expected in September, pointing to a surprising soft spot in the labor market and broader economy.",
-      "url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-02T13:45:58.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "title": "Switching jobs to get higher pay works best in these industries",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-03T02:16:00.000Z",
+      "published": "2026-10-03T16:42:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "7 分鐘前"
     },
     {
-      "title": "Why Western Digital and Seagate are seeing big stock drops today",
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-02T22:42:00.000Z",
+      "published": "2026-10-03T16:30:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 分鐘前"
     },
     {
-      "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-02T22:29:00.000Z",
+      "published": "2026-10-03T16:00:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "49 分鐘前"
     },
     {
-      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-02T22:10:00.000Z",
+      "published": "2026-10-03T15:42:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "1 小時前"
+    },
+    {
+      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-03T15:30:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
     }
   ],
   "errors": []

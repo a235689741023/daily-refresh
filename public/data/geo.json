@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-03T08:57:35.917Z",
-  "updatedLocal": "2026/10/3 16:57:35",
+  "updated": "2026-10-03T16:49:12.118Z",
+  "updatedLocal": "2026/10/4 00:49:12",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,18 @@
       "group": "ai",
       "published": "2026-10-02T23:01:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "Anthropic’s Transparency Hub",
+      "summary": "A look at Anthropic's key processes, programs, and practices for responsible AI development.",
+      "url": "https://www.anthropic.com/transparency?ref\\=okaydev.co",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-03T04:02:19.000Z",
+      "why": null,
+      "ago": "13 小時前"
     },
     {
       "title": "A model guide for the GPT-6 family",
@@ -37,7 +48,7 @@
       "group": "ai",
       "published": "2026-10-02T16:15:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Redefining enterprise intelligence with autonomous AI",
@@ -47,17 +58,6 @@
       "tag": "趨勢",
       "group": "ai",
       "published": "2026-10-02T15:49:04.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent.",
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-10-02T08:00:00.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -70,18 +70,18 @@
       "group": "ai",
       "published": "2026-10-02T15:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-      "summary": "Local AI is becoming more useful by the token.",
-      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
+      "title": "Don’t let big tech write all the rules of AI",
+      "summary": "“Move fast, break things and ask for forgiveness later” is a defining ethos of Silicon Valley – one that hasn’t often translated into being a good corporate citizen.",
+      "url": "https://www.afr.com/technology/don-t-let-big-tech-write-all-the-rules-of-ai-20261003-p611ll",
+      "source": "AFR",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-10-02T13:00:39.000Z",
+      "published": "2026-10-02T19:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "22 小時前"
     }
   ],
   "errors": []
