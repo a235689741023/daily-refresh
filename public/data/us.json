@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-04T09:28:49.338Z",
-  "updatedLocal": "2026/10/4 17:28:49",
+  "updated": "2026-10-04T17:08:41.136Z",
+  "updatedLocal": "2026/10/5 01:08:41",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried",
+      "summary": "Wagering on sports outcomes has exploded in the 2020s , but recent surveys show just how widespread gambling has become for Generation Z .",
+      "url": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-04T12:57:45.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
       "summary": "With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions depending on the outcome of the neck-and-neck race.",
@@ -15,7 +26,40 @@
       "group": null,
       "published": "2026-10-03T13:12:27.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Corporate America has never been this upbeat about future profits",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-04T14:00:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "October can be a scary month for stocks. Here’s what investors need to watch this year.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-04T13:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-04T12:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
@@ -26,7 +70,7 @@
       "group": null,
       "published": "2026-10-04T00:02:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
@@ -37,7 +81,7 @@
       "group": null,
       "published": "2026-10-03T23:58:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
@@ -48,7 +92,7 @@
       "group": null,
       "published": "2026-10-03T20:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
@@ -59,7 +103,7 @@
       "group": null,
       "published": "2026-10-03T19:30:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "These bond strategies can help you get a safe 5% return on your cash",
@@ -70,51 +114,7 @@
       "group": null,
       "published": "2026-10-03T18:49:00.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-03T18:30:00.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-03T17:24:00.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Switching jobs to get higher pay works best in these industries",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-03T16:42:00.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-03T16:00:00.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "22 小時前"
     }
   ],
   "errors": []
