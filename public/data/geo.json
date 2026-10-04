@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-03T16:49:12.118Z",
-  "updatedLocal": "2026/10/4 00:49:12",
+  "updated": "2026-10-04T01:44:16.161Z",
+  "updatedLocal": "2026/10/4 09:44:16",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,17 +18,6 @@
       "ago": "3 天前"
     },
     {
-      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
-      "summary": "The first-of-its-kind Academy trains Frontier Deployed Engineers using the same standard of skills as Anthropic’s own engineers, starting with cohorts from Accenture, Bain, Capgemini, Commonwealth Bank of Australia, Deloitte, McKinsey, Morgan Stanley, Novo Nordisk and others.",
-      "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-02T23:01:00.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
       "title": "Anthropic’s Transparency Hub",
       "summary": "A look at Anthropic's key processes, programs, and practices for responsible AI development.",
       "url": "https://www.anthropic.com/transparency?ref\\=okaydev.co",
@@ -37,51 +26,40 @@
       "group": "ai",
       "published": "2026-10-03T04:02:19.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "A model guide for the GPT-6 family",
-      "summary": "Practical tips for getting the best results from GPT‑6 models while managing time and cost GPT‑6 is our most advanced suite of models yet , and offers you a choice of models for different kinds of work.",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-02T16:15:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight.",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-10-02T15:49:04.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "Here’s a recap of some of our biggest AI updates from September, including Gemini 4 Argon, new Connected Apps in the Gemini App, and WeatherNext 3.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI Blog",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-02T15:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Don’t let big tech write all the rules of AI",
-      "summary": "“Move fast, break things and ask for forgiveness later” is a defining ethos of Silicon Valley – one that hasn’t often translated into being a good corporate citizen.",
-      "url": "https://www.afr.com/technology/don-t-let-big-tech-write-all-the-rules-of-ai-20261003-p611ll",
-      "source": "AFR",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-02T19:00:00.000Z",
-      "why": null,
       "ago": "22 小時前"
+    },
+    {
+      "title": "Anthropic Trust Center - Trust Center",
+      "summary": "Anthropic is an AI safety and research company with a mission of ensuring the world safely makes the transition through transformative AI.",
+      "url": "https://trust.anthropic.com/?939688b5_page\\=3\\&8cf10c94_page\\=1\\&tblci\\=GiCQmjSN2IHZdhxD79IyO7n3K-zou5naGT_JDqY5pTrpwSDwzEYohJeTv4z6gbbgAQ",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-03T01:49:11.000Z",
+      "why": null,
+      "ago": "24 小時前"
+    },
+    {
+      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
+      "summary": "The first-of-its-kind Academy trains Frontier Deployed Engineers using the same standard of skills as Anthropic’s own engineers, starting with cohorts from Accenture, Bain, Capgemini, Commonwealth Bank of Australia, Deloitte, McKinsey, Morgan Stanley, Novo Nordisk and others.",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-02T23:01:00.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Anthropic's coordinated vulnerability disclosure dashboard",
+      "summary": "Anthropic uses Claude models, including an early snapshot of Claude Mythos Preview, to find security vulnerabilities in open-source software.",
+      "url": "https://red.anthropic.com/2026/cvd/",
+      "source": "red.anthropic.com",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-02T19:47:00.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []

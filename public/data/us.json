@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-03T16:49:12.118Z",
-  "updatedLocal": "2026/10/4 00:49:12",
+  "updated": "2026-10-04T01:44:16.161Z",
+  "updatedLocal": "2026/10/4 09:44:16",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,51 +15,84 @@
       "group": null,
       "published": "2026-10-03T13:12:27.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
-      "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
-      "summary": "Before artificial intelligence can take Wall Street jobs, it is first creating them.",
-      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-      "source": "CNBC Markets",
+      "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-02T18:49:03.000Z",
+      "published": "2026-10-04T00:02:00.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
-      "summary": "Investors now think the odds are extremely unlikely that the Federal Reserve raises interest rates again in October, following a weaker-than-expected September employment report .",
-      "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
-      "source": "CNBC Markets",
+      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-02T13:29:27.000Z",
+      "published": "2026-10-03T23:58:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 小時前"
     },
     {
-      "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
-      "summary": "Before artificial intelligence can take Wall Street jobs, it is first creating them.",
-      "url": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
-      "source": "CNBC Markets",
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-02T11:03:31.000Z",
+      "published": "2026-10-03T20:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
     },
     {
-      "title": "Men are losing ground in the labor market. Here's why",
-      "summary": "Friday's weaker-than-expected jobs report may feel especially lousy for men.",
-      "url": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
+      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
       "group": null,
-      "published": "2026-10-02T17:38:59.000Z",
+      "published": "2026-10-03T19:30:00.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "6 小時前"
+    },
+    {
+      "title": "These bond strategies can help you get a safe 5% return on your cash",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-03T18:49:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-03T18:30:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-03T17:24:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Switching jobs to get higher pay works best in these industries",
@@ -70,18 +103,7 @@
       "group": null,
       "published": "2026-10-03T16:42:00.000Z",
       "why": null,
-      "ago": "7 分鐘前"
-    },
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-03T16:30:00.000Z",
-      "why": null,
-      "ago": "19 分鐘前"
+      "ago": "9 小時前"
     },
     {
       "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-10-03T16:00:00.000Z",
       "why": null,
-      "ago": "49 分鐘前"
-    },
-    {
-      "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-03T15:42:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-03T15:30:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
+      "ago": "10 小時前"
     }
   ],
   "errors": []
