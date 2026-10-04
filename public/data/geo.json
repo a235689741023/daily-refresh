@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-04T01:44:16.161Z",
-  "updatedLocal": "2026/10/4 09:44:16",
+  "updated": "2026-10-04T09:28:49.338Z",
+  "updatedLocal": "2026/10/4 17:28:49",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,18 @@
       "group": "gis",
       "published": "2026-09-30T16:59:42.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
+    },
+    {
+      "title": "- partner-sso.anthropic.com",
+      "summary": null,
+      "url": "https://partner-sso.anthropic.com/",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-04T03:19:54.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "Anthropic’s Transparency Hub",
@@ -26,18 +37,18 @@
       "group": "ai",
       "published": "2026-10-03T04:02:19.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Anthropic Trust Center - Trust Center",
+      "title": "Anthropic Trust Center",
       "summary": "Anthropic is an AI safety and research company with a mission of ensuring the world safely makes the transition through transformative AI.",
       "url": "https://trust.anthropic.com/?939688b5_page\\=3\\&8cf10c94_page\\=1\\&tblci\\=GiCQmjSN2IHZdhxD79IyO7n3K-zou5naGT_JDqY5pTrpwSDwzEYohJeTv4z6gbbgAQ",
-      "source": "Anthropic",
+      "source": "trust.anthropic.com",
       "tag": "模型",
       "group": "ai",
       "published": "2026-10-03T01:49:11.000Z",
       "why": null,
-      "ago": "24 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
@@ -54,12 +65,23 @@
       "title": "Anthropic's coordinated vulnerability disclosure dashboard",
       "summary": "Anthropic uses Claude models, including an early snapshot of Claude Mythos Preview, to find security vulnerabilities in open-source software.",
       "url": "https://red.anthropic.com/2026/cvd/",
-      "source": "red.anthropic.com",
+      "source": "Frontier Red Team",
       "tag": "模型",
       "group": "ai",
       "published": "2026-10-02T19:47:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
+    },
+    {
+      "title": "A model guide for the GPT-6 family",
+      "summary": "Practical tips for getting the best results from GPT‑6 models while managing time and cost GPT‑6 is our most advanced suite of models yet , and offers you a choice of models for different kinds of work.",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-02T16:15:00.000Z",
+      "why": null,
+      "ago": "2 天前"
     }
   ],
   "errors": []

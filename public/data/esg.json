@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-04T01:44:16.161Z",
-  "updatedLocal": "2026/10/4 09:44:16",
+  "updated": "2026-10-04T09:28:49.338Z",
+  "updatedLocal": "2026/10/4 17:28:49",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,6 +15,39 @@
       "group": null,
       "published": "2026-10-02T18:35:47.000Z",
       "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "環境部「可愛臺灣・綠生活營業中！」社會企業展聚焦淨零轉型 | 青年日報",
+      "summary": "您使用的瀏覽器版本較舊，已不再受支援。建議您更新瀏覽器版本，以獲得最佳使用體驗。環境部規劃「可愛臺灣・綠生活營業中！」社會企業展，將於 10月9日至10月31日在臺北市大稻埕「永樂春風茶館」舉辦，現場集結 15 家社會企業，展示物資循環、惜食、有機農業、森林療癒、海洋教育及地方創生等領域的友善成果，將「淨零轉型」與「綠生活」概念融入街區日常。",
+      "url": "https://today.line.me/tw/v3/article/7NGEyQl",
+      "source": "LINE TODAY",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-04T09:17:48.000Z",
+      "why": null,
+      "ago": "11 分鐘前"
+    },
+    {
+      "title": "淨零治理匯聚產官學力量TAIWAN COP6高峰論壇聚焦能源韌性與多元創新- 商情",
+      "summary": "面對極端氣候、減碳壓力與產業競爭環境快速變化，如何從城市治理出發，結合多元能源技術與產業創新，已成為臺灣邁向淨零目標的重要課題。「第六屆臺灣氣候行動高峰論壇」10月2日下午於國立科學工藝博物館大銀幕電影院登場，以「能源韌性驅動淨零轉型：多元能源發展的挑戰與契機」為核心，邀集中央、地方政府、產業界及學研單位代表，共同探討淨零治理、循環經濟及多元能源應用的實踐路徑。",
+      "url": "https://www.ctee.com.tw/news/20261003700716-431202",
+      "source": "工商時報",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-03T11:25:00.000Z",
+      "why": null,
+      "ago": "22 小時前"
+    },
+    {
+      "title": "自由開講》拒絕綠色通膨！碳費徵收的產業轉型與法制重整",
+      "summary": "環境部與經濟部近日聯合宣布，台灣碳費徵收機制即將於年底前完成法定盤點並正式實施，首波徵收對象鎖定全台逾500家碳排大戶。隨後針對排放量較低但數量龐大的中小型製造業與商業服務業，亦規劃將於兩年內逐步導入自主減量與碳定價機制。",
+      "url": "https://talk.ltn.com.tw/amp/article/breakingnews/5587869",
+      "source": "自由評論網",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-03T07:00:00.000Z",
+      "why": null,
       "ago": "昨日"
     },
     {
@@ -26,7 +59,7 @@
       "group": null,
       "published": "2026-10-02T17:21:14.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "The A-Z of Scope 3: Defining and explaining changes to sustainability and procurement teams",
@@ -37,40 +70,18 @@
       "group": null,
       "published": "2026-10-02T16:00:18.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "淨零治理匯聚產官學力量TAIWAN COP6高峰論壇聚焦能源韌性與多元創新- 商情",
-      "summary": "面對極端氣候、減碳壓力與產業競爭環境快速變化，如何從城市治理出發，結合多元能源技術與產業創新，已成為臺灣邁向淨零目標的重要課題。「第六屆臺灣氣候行動高峰論壇」10月2日下午於國立科學工藝博物館大銀幕電影院登場，以「能源韌性驅動淨零轉型：多元能源發展的挑戰與契機」為核心，邀集中央、地方政府、產業界及學研單位代表，共同探討淨零治理、循環經濟及多元能源應用的實踐路徑。",
-      "url": "https://www.ctee.com.tw/news/20261003700716-431202",
-      "source": "工商時報",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-03T11:25:00.000Z",
-      "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "自由開講》拒絕綠色通膨！碳費徵收的產業轉型與法制重整",
-      "summary": "環境部與經濟部近日聯合宣布，台灣碳費徵收機制即將於年底前完成法定盤點並正式實施，首波徵收對象鎖定全台逾500家碳排大戶。隨後針對排放量較低但數量龐大的中小型製造業與商業服務業，亦規劃將於兩年內逐步導入自主減量與碳定價機制。",
-      "url": "https://talk.ltn.com.tw/amp/article/breakingnews/5587869",
-      "source": "自由評論網",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-03T07:00:00.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "2 天前"
     },
     {
       "title": "迎向淨零與智慧製造新浪潮！「智慧機器人產業系列研討會」第四場聚焦綠色科技與循環經濟引領產業從實體試錯邁向虛擬決策",
       "summary": null,
       "url": "https://17news.net/archives/340913",
-      "source": "17news民生好報",
+      "source": "17news.net",
       "tag": "台灣",
       "group": null,
       "published": "2026-10-03T02:13:54.000Z",
       "why": null,
-      "ago": "24 小時前"
+      "ago": "昨日"
     },
     {
       "title": "EU electricity sector calls for strengthened Emissions Trading System and pricing",
@@ -84,35 +95,24 @@
       "ago": "2 天前"
     },
     {
-      "title": "TWO WEEKS LEFT to nominate for edie’s 30 Under 30 Class of 2027",
-      "summary": "Know a young professional making an impact and driving sustainable progress in their business? Nominations for edie’s 30 Under 30 Class of 2027 close on 16 October.",
-      "url": "https://www.edie.net/two-weeks-left-to-nominate-for-edies-30-under-30-class-of-2027/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-02T03:00:30.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "審計部揭離岸風電121億損失、卓榮泰核定10億PFAS計畫、新加坡開徵綠色燃料稅 - e-info.org.tw",
-      "summary": null,
-      "url": "https://www.e-info.org.tw/node/243936",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-02T02:50:58.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "第六屆臺灣氣候行動博覽會高雄國立科學工藝博物館盛大開幕TAIWAN COP6接軌國際中央地方企業以實際行動攜手淨零轉型再創年度高峰 - more-news.tw",
+      "title": "第六屆臺灣氣候行動博覽會高雄國立科學工藝博物館盛大開幕TAIWAN COP6接軌國際中央地方企業以實際行動攜手淨零轉型再創年度高峰 - 墨新聞-MORE News",
       "summary": "臺灣氣候界年度盛事「第六屆臺灣氣候行動博覽會 TAIWAN COP6 」於 10 月 2 日在高雄國立科學工藝博物館盛大登場，今年博覽會由國際氣候發展智庫（ ICDI ）、環境部氣候變遷署、交通部中央氣象署、海洋委員會海洋保育署、高雄市政府環境保護局及國泰金控共同主辦，高雄市擔任主辦城市。",
       "url": "https://more-news.tw/733591/",
       "source": "台灣永續政策",
       "tag": "台灣",
       "group": null,
       "published": "2026-10-02T11:02:22.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "【永續新聞快訊】美國多州提告環保署，挑戰撤銷燃煤與燃氣電廠碳排規範",
+      "summary": null,
+      "url": "https://csrone.com/news/10140",
+      "source": "CSRone 永續智庫",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-02T10:00:00.000Z",
       "why": null,
       "ago": "2 天前"
     }
