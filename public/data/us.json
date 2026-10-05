@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-04T17:08:41.136Z",
-  "updatedLocal": "2026/10/5 01:08:41",
+  "updated": "2026-10-05T01:03:47.194Z",
+  "updatedLocal": "2026/10/5 09:03:47",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,51 @@
       "group": null,
       "published": "2026-10-04T12:57:45.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
-      "summary": "With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions depending on the outcome of the neck-and-neck race.",
-      "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
-      "source": "CNBC Markets",
+      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-03T13:12:27.000Z",
+      "published": "2026-10-04T20:31:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "5 小時前"
+    },
+    {
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-04T20:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-04T19:30:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-04T19:08:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "Corporate America has never been this upbeat about future profits",
@@ -37,7 +70,7 @@
       "group": null,
       "published": "2026-10-04T14:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "October can be a scary month for stocks. Here’s what investors need to watch this year.",
@@ -48,7 +81,7 @@
       "group": null,
       "published": "2026-10-04T13:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
@@ -59,7 +92,7 @@
       "group": null,
       "published": "2026-10-04T12:00:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
@@ -70,7 +103,7 @@
       "group": null,
       "published": "2026-10-04T00:02:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
@@ -81,41 +114,24 @@
       "group": null,
       "published": "2026-10-03T23:58:00.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-03T20:00:00.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-03T19:30:00.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "These bond strategies can help you get a safe 5% return on your cash",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-03T18:49:00.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Reuters 財經",
+      "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20stock%20market%20OR%20Federal%20Reserve&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "財報",
+      "url": "https://news.google.com/rss/search?q=earnings%20beat%20OR%20earnings%20miss%20guidance%20S%26P%20500&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/search?q=site%3Abloomberg.com%20markets%20OR%20earnings&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    }
+  ]
 }

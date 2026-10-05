@@ -1,66 +1,87 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-04T17:08:41.136Z",
-  "updatedLocal": "2026/10/5 01:08:41",
+  "updated": "2026-10-05T01:03:47.194Z",
+  "updatedLocal": "2026/10/5 09:03:47",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Discover Indoor GIS at Esri Infrastructure Management and GIS 2026 Conference",
-      "summary": "The 2026 Esri Infrastructure Management & GIS (IMGIS) Conference brings together infrastructure professionals to learn how geographic information system (GIS) technology supports planning, operations, and asset management across the infrastructure lifecycle.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-indoors/indoor-gis/discover-indoor-gis-at-esri-infrastructure-management-and-gis-2026-conference",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-09-30T16:59:42.000Z",
+      "title": "A model guide for the GPT-6 family",
+      "summary": "Practical tips for getting the best results from GPT‑6 models while managing time and cost GPT‑6 is our most advanced suite of models yet , and offers you a choice of models for different kinds of work.",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-02T16:15:00.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "2 天前"
     },
     {
-      "title": "Trump Unveils Super Intelligence Force for AI Safety",
-      "summary": "Trump Unveils Super Intelligence Force for AI Safety New government task force addresses growing AI safety concerns and regulation PUBLISHED: Sun, Oct 4, 2026, 3:37 PM UTC | UPDATED: Sun, Oct 4, 2026, 3:37 PM UTC Former President Trump announced the creation of a \"Super Intelligence Force\" today, marking his administration's most significant response to escalating debates over artificial intelligence safety and regulation.",
-      "url": "https://www.techbuzz.ai/articles/trump-unveils-super-intelligence-force-for-ai-safety",
-      "source": "The Tech Buzz",
-      "tag": "政策",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight.",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-10-04T15:37:00.000Z",
+      "published": "2026-10-02T15:49:04.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "2 天前"
     },
     {
-      "title": "Why India Needs A Unique AI Safety Framework",
-      "summary": "As India navigates the rapidly evolving landscape of artificial intelligence, industry experts advocate for a bespoke AI safety framework, urging a departure from foreign models to address unique challenges like deepfakes and cyberattacks while fostering innovation.",
-      "url": "https://www.rediff.com/business/report/india-needs-its-own-ai-safety-framework-experts-say/20261004.htm",
-      "source": "Rediff",
-      "tag": "政策",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent.",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-10-04T10:01:52.000Z",
+      "published": "2026-10-02T08:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "3 天前"
     },
     {
-      "title": "Bessent Compares AI Safety-Warning CEOs to Hannibal Lecter",
-      "summary": "On October 3, Bessent used the line on The Axios Show, aiming it at Anthropic's Dario Amodei days after rejecting a liability shield for AI labs over a 10% extinction-risk estimate from researcher Evan Hubinger.",
-      "url": "https://startupfortune.com/bessent-compares-ai-safety-warning-ceos-to-hannibal-lecter/",
-      "source": "Startup Fortune",
-      "tag": "政策",
+      "title": "The latest AI news we announced in September 2026",
+      "summary": "Here’s a recap of some of our biggest AI updates from September, including Gemini 4 Argon, new Connected Apps in the Gemini App, and WeatherNext 3.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI Blog",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-10-03T22:36:55.000Z",
+      "published": "2026-10-02T15:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "2 天前"
     },
     {
-      "title": "India weighs AI safety rules as experts push hybrid safeguards over US-style pact",
-      "summary": null,
-      "url": "https://www.telegraphindia.com/india/india-weighs-ai-safety-rules-as-experts-push-hybrid-safeguards-over-us-style-pact/cid/2183081",
-      "source": "Telegraph India",
-      "tag": "政策",
+      "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "summary": "Local AI is becoming more useful by the token.",
+      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
       "group": "ai",
-      "published": "2026-10-04T11:11:28.000Z",
+      "published": "2026-10-02T13:00:39.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "3 天前"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "GIS × AI 研究",
+      "url": "https://news.google.com/rss/search?q=geospatial%20AI%20OR%20%22spatial%20AI%22%20OR%20%22remote%20sensing%22%20foundation%20model&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "ArcGIS Blog",
+      "url": "https://news.google.com/rss/search?q=site%3Aesri.com%2Farcgis-blog&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "Anthropic",
+      "url": "https://news.google.com/rss/search?q=site%3Aanthropic.com&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    },
+    {
+      "source": "AI 政策",
+      "url": "https://news.google.com/rss/search?q=%22AI%20Act%22%20OR%20%22frontier%20AI%22%20OR%20%22AI%20safety%22%20OR%20%22export%20controls%22%20AI%20regulation&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 503 Service Unavailable"
+    }
+  ]
 }
