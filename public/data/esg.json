@@ -1,152 +1,121 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-05T01:03:47.194Z",
-  "updatedLocal": "2026/10/5 09:03:47",
+  "updated": "2026-10-05T10:09:23.157Z",
+  "updatedLocal": "2026/10/5 18:09:23",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Investors are ignoring the biggest source of data-center water use",
-      "summary": "How to meet the power demands of AI data centers is, in many ways, the question at the intersection of sustainability and economic growth right now.",
-      "url": "https://trellis.net/article/investors-data-centers-water-use/",
+      "title": "What to do when your CEO is  planning for the wrong decade",
+      "summary": "The opinions expressed by Trellis expert contributors are their own, not those of Trellis .",
+      "url": "https://trellis.net/article/business-planning-new-normal/",
       "source": "Trellis",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-02T18:35:47.000Z",
+      "published": "2026-10-05T07:02:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 小時前"
     },
     {
-      "title": "Greenpeace threatens legal action against Crown Estate as research warns seabed fees could raise energy costs",
-      "summary": "Greenpeace UK has threatened legal action against the Crown Estate over the way it charges offshore wind developers for access to the seabed, as new research warns the system could add billions of pounds to future electricity costs.",
-      "url": "https://www.edie.net/greenpeace-threatens-legal-action-against-crown-estate-as-research-warns-seabed-fees-could-raise-energy-costs/",
+      "title": "How businesses can embed circularity across their value chain",
+      "summary": "edie’s most recent webinar, in partnership with Kingspan, explored how organisations can move from high-level circular economy ambitions towards practical action across the business value chain.",
+      "url": "https://www.edie.net/how-businesses-can-embed-circularity-across-their-value-chain/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-02T17:21:14.000Z",
+      "published": "2026-10-05T09:18:20.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "51 分鐘前"
     },
     {
-      "title": "The A-Z of Scope 3: Defining and explaining changes to sustainability and procurement teams",
-      "summary": "With global regulations tightening and persistent supply chain disruptions making procurement an increasingly complex challenge, managing value-chain carbon has moved to the top of the corporate agenda.",
-      "url": "https://www.edie.net/the-a-z-of-scope-3-defining-and-explaining-changes-to-sustainability-and-procurement-teams/",
+      "title": "Octopus Energy’s Irish solar projects and Sodexo’s food-waste prevention milestone: The sustainability success stories of the week",
+      "summary": "As part of our Mission Possible campaign, edie delivers this member-exclusive weekly round-up of five of the best sustainable business success stories of the week.",
+      "url": "https://www.edie.net/octopus-energys-irish-solar-projects-and-sodexos-food-waste-prevention-milestone-the-sustainability-success-stories-of-the-week/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-02T16:00:18.000Z",
+      "published": "2026-10-05T02:36:42.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "8 小時前"
     },
     {
-      "title": "EU electricity sector calls for strengthened Emissions Trading System and pricing",
-      "summary": "As negotiations on the European Commission's proposed review of the EU Emissions Trading System (ETS) begin this week, calls have emerged to ensure a stable and meaningful carbon price is delivered to assist with decarbonisation and electrification efforts.",
-      "url": "https://www.edie.net/eu-electricity-sector-calls-for-strengthened-emissions-trading-system-and-pricing/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "成大「樹導航」助找綠蔭、COP31會前會議登場、歐洲今年史上第三酷暑 - e-info.org.tw",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243941",
+      "source": "環境資訊中心",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-10-02T11:26:57.000Z",
+      "published": "2026-10-05T02:32:11.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "8 小時前"
     },
     {
-      "title": "TWO WEEKS LEFT to nominate for edie’s 30 Under 30 Class of 2027",
-      "summary": "Know a young professional making an impact and driving sustainable progress in their business? Nominations for edie’s 30 Under 30 Class of 2027 close on 16 October.",
-      "url": "https://www.edie.net/two-weeks-left-to-nominate-for-edies-30-under-30-class-of-2027/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "開四次會還說不清居民溝通 新北石門風電通過環評初審 - e-info.org.tw",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243943",
+      "source": "環境資訊中心",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-10-02T03:00:30.000Z",
+      "published": "2026-10-05T07:32:09.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "3 小時前"
     },
     {
-      "title": "NYK Takes 30% Stake in Norway’s Trudvang CCS Project",
-      "summary": "Japanese shipping group NYK is moving deeper into Europe’s carbon capture and storage market. The company has agreed to acquire a 30% interest in Norway’s Trudvang CCS project.",
-      "url": "https://esgnews.com/nyk-takes-30-stake-in-norways-trudvang-ccs-project/?utm_source=rss&utm_medium=rss&utm_campaign=nyk-takes-30-stake-in-norways-trudvang-ccs-project",
-      "source": "ESG News",
-      "tag": "國際",
+      "title": "很耐餓又會生 直擊棘冠海星的生存絕技 海管處嘗試建預警機制 - e-info.org.tw",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243942",
+      "source": "環境資訊中心",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-10-02T14:39:27.000Z",
+      "published": "2026-10-05T08:01:49.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Garanti BBVA Raises $125 Million to Finance Green SMEs",
-      "summary": "Garanti BBVA has completed a $125 million sustainable subordinated bond issuance with a consortium comprising IFC and DEG.",
-      "url": "https://esgnews.com/garanti-bbva-raises-125-million-to-finance-green-smes/?utm_source=rss&utm_medium=rss&utm_campaign=garanti-bbva-raises-125-million-to-finance-green-smes",
-      "source": "ESG News",
-      "tag": "國際",
+      "title": "高雄港「永續綠能、淨零啟航」生質燃油加注服務啟動 | 中華日報",
+      "summary": "您使用的瀏覽器版本較舊，已不再受支援。建議您更新瀏覽器版本，以獲得最佳使用體驗。高雄港為因應全球航運減碳及能源轉型趨勢，五日在高雄港第六貨櫃中心舉行「永續綠能、淨零啟航」生質燃油加注服務啟動典禮，透過公私協力，完成國內首次海運船舶生質燃油加注作業，為臺灣港口發展船舶替代燃料服務、接軌國際航運能源轉型，立下重要里程碑。",
+      "url": "https://today.line.me/tw/v3/article/60oExqj",
+      "source": "today.line.me",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-10-02T14:26:36.000Z",
+      "published": "2026-10-05T09:05:56.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "1 小時前"
     },
     {
-      "title": "CIF Backs Türkiye’s Industrial Decarbonization With $250 Million, Mobilizing $2.8 Billion",
-      "summary": "Türkiye is preparing a major push to cut emissions from heavy industry, backed by $250 million in catalytic funding from the Climate Investment Funds (CIF).",
-      "url": "https://esgnews.com/cif-backs-turkiyes-industrial-decarbonization-with-250-million-mobilizing-2-8-billion/?utm_source=rss&utm_medium=rss&utm_campaign=cif-backs-turkiyes-industrial-decarbonization-with-250-million-mobilizing-2-8-billion",
-      "source": "ESG News",
-      "tag": "國際",
+      "title": "高雄港啟動生質燃油加注 台灣海運邁向2050淨零再跨一步",
+      "summary": "【點傳媒／記者張淑慧報導】因應全球航運減碳與能源轉型趨勢，高雄港今（5）日在第六貨櫃中心舉行「永續綠能、淨零啟航」生質燃油加注服務啟動典禮，由交通部、航港局、臺灣港務公司、台灣中油公司及航商業者共同參與，透過公私協力完成國內首次海運船舶生質燃油加注作業，象徵台灣港口正式跨入船舶替代燃料服務新階段，也為接軌國際航運能源轉型寫下重要里程碑。",
+      "url": "https://news.pchome.com.tw/society/news586/20261005/index-79118781400336290002.html",
+      "source": "PChome Online 新聞",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-10-02T14:12:49.000Z",
+      "published": "2026-10-05T08:10:14.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "2 小時前"
     },
     {
-      "title": "NOX Energy Raises $3.4M to Build Europe’s Energy Flexibility Network",
-      "summary": "NOX Energy has raised $3.4 million in seed funding to expand software that turns household energy equipment into flexible grid assets.",
-      "url": "https://esgnews.com/nox-energy-raises-3-4m-to-build-europes-energy-flexibility-network/?utm_source=rss&utm_medium=rss&utm_campaign=nox-energy-raises-3-4m-to-build-europes-energy-flexibility-network",
-      "source": "ESG News",
-      "tag": "國際",
+      "title": "台灣加速淨零布局 氫能技術跨足AI資料中心與船舶應用",
+      "summary": "為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。「2026全國氫能與燃料電池學術研討會」吸引200餘位產學研代表參與。（台科大提供） 氫能被視為台灣邁向2050淨零轉型的重要技術，應用已從製氫、儲氫走向AI資料中心、船舶及卡車。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5595726",
+      "source": "自由時報",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-10-02T14:05:56.000Z",
+      "published": "2026-10-05T02:13:52.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "8 小時前"
     },
     {
-      "title": "Diginex Launches Supply Chain Due Diligence Platform for $7 Billion Market",
-      "summary": "Diginex has launched an enhanced end-to-end supply chain due diligence platform as companies face mounting pressure to identify environmental, social and compliance risks beyond their direct suppliers.",
-      "url": "https://esgnews.com/diginex-launches-supply-chain-due-diligence-platform-for-7-billion-market/?utm_source=rss&utm_medium=rss&utm_campaign=diginex-launches-supply-chain-due-diligence-platform-for-7-billion-market",
-      "source": "ESG News",
-      "tag": "國際",
+      "title": "攜手航向永續淨零! 高雄港啟動生質燃油加注服務 海運界齊心共創綠色航運新紀元",
+      "summary": null,
+      "url": "https://n.yam.com/Article/20261005973964",
+      "source": "蕃新聞",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-10-02T13:53:30.000Z",
+      "published": "2026-10-05T08:13:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "2 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "台灣永續政策",
-      "url": "https://news.google.com/rss/search?q=%E7%A2%B3%E8%B2%BB%20OR%20%E7%A2%B3%E4%BA%A4%E6%98%93%20OR%20%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8%20OR%20%E6%B7%A8%E9%9B%B6%20%E5%8F%B0%E7%81%A3&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "CSRone",
-      "url": "https://news.google.com/rss/search?q=site%3Acsrone.com&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "國際法規",
-      "url": "https://news.google.com/rss/search?q=CSRD%20OR%20CBAM%20OR%20%22IFRS%20S2%22%20OR%20ISSB%20sustainability%20disclosure&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "ESG Today",
-      "url": "https://news.google.com/rss/search?q=site%3Aesgtoday.com&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "環境資訊中心",
-      "url": "https://news.google.com/rss/search?q=site%3Ae-info.org.tw&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "永續人才",
-      "url": "https://news.google.com/rss/search?q=%E6%B0%B8%E7%BA%8C%20%E4%BA%BA%E6%89%8D%20OR%20%E8%81%B7%E7%BC%BA%20OR%20ESG%20%E4%BA%BA%E5%8A%9B&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-      "message": "HTTP 503 Service Unavailable"
-    }
-  ]
+  "errors": []
 }

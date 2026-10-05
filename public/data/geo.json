@@ -1,87 +1,88 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-05T01:03:47.194Z",
-  "updatedLocal": "2026/10/5 09:03:47",
+  "updated": "2026-10-05T10:09:23.157Z",
+  "updatedLocal": "2026/10/5 18:09:23",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "A model guide for the GPT-6 family",
-      "summary": "Practical tips for getting the best results from GPT‑6 models while managing time and cost GPT‑6 is our most advanced suite of models yet , and offers you a choice of models for different kinds of work.",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-02T16:15:00.000Z",
+      "title": "Discover Indoor GIS at Esri Infrastructure Management and GIS 2026 Conference",
+      "summary": "The 2026 Esri Infrastructure Management & GIS (IMGIS) Conference brings together infrastructure professionals to learn how geographic information system (GIS) technology supports planning, operations, and asset management across the infrastructure lifecycle.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-indoors/indoor-gis/discover-indoor-gis-at-esri-infrastructure-management-and-gis-2026-conference",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-09-30T16:59:42.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "5 天前"
     },
     {
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight.",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do.",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
       "source": "MIT Tech Review",
       "tag": "趨勢",
       "group": "ai",
-      "published": "2026-10-02T15:49:04.000Z",
+      "published": "2026-10-05T08:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent.",
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
+      "title": "The EU AI Act Can’t Regulate What We Haven’t Learned to Test",
+      "summary": "As of August 2, 2026, the European Union’s AI Act entered a new phase.",
+      "url": "https://www.cybersecurity-insiders.com/the-eu-ai-act-cant-regulate-what-we-havent-learned-to-test/",
+      "source": "Cybersecurity Insiders",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-10-02T08:00:00.000Z",
+      "published": "2026-10-04T17:00:21.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "17 小時前"
     },
     {
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "Here’s a recap of some of our biggest AI updates from September, including Gemini 4 Argon, new Connected Apps in the Gemini App, and WeatherNext 3.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI Blog",
-      "tag": "模型",
+      "title": "Fack check: Donald Trump says the left is behind AI safety warnings",
+      "summary": null,
+      "url": "https://www.houstonchronicle.com/politics/texas/politifact/article/donald-trump-ai-safety-22460304.php",
+      "source": "Houston Chronicle",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-10-02T15:00:00.000Z",
+      "published": "2026-10-05T09:22:30.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "47 分鐘前"
     },
     {
-      "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-      "summary": "Local AI is becoming more useful by the token.",
-      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
+      "title": "Trump Unveils Super Intelligence Force for AI Safety",
+      "summary": "Trump Unveils Super Intelligence Force for AI Safety New government task force addresses growing AI safety concerns and regulation PUBLISHED: Sun, Oct 4, 2026, 3:37 PM UTC | UPDATED: Sun, Oct 4, 2026, 3:37 PM UTC Former President Trump announced the creation of a \"Super Intelligence Force\" today, marking his administration's most significant response to escalating debates over artificial intelligence safety and regulation.",
+      "url": "https://www.techbuzz.ai/articles/trump-unveils-super-intelligence-force-for-ai-safety",
+      "source": "The Tech Buzz",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-10-02T13:00:39.000Z",
+      "published": "2026-10-04T15:37:00.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "19 小時前"
+    },
+    {
+      "title": "India considers bespoke AI safety framework amid expert debate on regulation",
+      "summary": "India is exploring a unique AI safety framework, tailored to its digital ecosystem, as industry experts debate the efficacy of voluntary versus mandatory regulations.",
+      "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/india-considers-bespoke-ai-safety-framework-amid-expert-debate-on-regulation/134686038?utm_source\\=top_news\\&utm_medium\\=homepage",
+      "source": "ET Datacenters",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-05T04:58:39.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "India urged to develop bespoke AI safety framework for its unique ecosystem",
+      "summary": "India's industry experts are advocating for a tailored artificial intelligence (AI) safety framework, distinct from the US model, to address the nation's unique linguistic and application-led ecosystem.",
+      "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/india-urged-to-develop-bespoke-ai-safety-framework-for-its-unique-ecosystem/134686115?utm_source\\=top_news\\&utm_medium\\=homepage",
+      "source": "ET Datacenters",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-05T04:58:40.000Z",
+      "why": null,
+      "ago": "5 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "GIS × AI 研究",
-      "url": "https://news.google.com/rss/search?q=geospatial%20AI%20OR%20%22spatial%20AI%22%20OR%20%22remote%20sensing%22%20foundation%20model&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "ArcGIS Blog",
-      "url": "https://news.google.com/rss/search?q=site%3Aesri.com%2Farcgis-blog&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "Anthropic",
-      "url": "https://news.google.com/rss/search?q=site%3Aanthropic.com&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    },
-    {
-      "source": "AI 政策",
-      "url": "https://news.google.com/rss/search?q=%22AI%20Act%22%20OR%20%22frontier%20AI%22%20OR%20%22AI%20safety%22%20OR%20%22export%20controls%22%20AI%20regulation&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 503 Service Unavailable"
-    }
-  ]
+  "errors": []
 }
