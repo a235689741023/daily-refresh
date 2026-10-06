@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-05T10:09:23.157Z",
-  "updatedLocal": "2026/10/5 18:09:23",
+  "updated": "2026-10-06T02:21:39.599Z",
+  "updatedLocal": "2026/10/6 10:21:39",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,6 +18,50 @@
       "ago": "5 天前"
     },
     {
+      "title": "Our approach to EU text provenance rules",
+      "summary": "Promoting transparency within the limits of today’s technology.",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-05T15:00:00.000Z",
+      "why": null,
+      "ago": "11 小時前"
+    },
+    {
+      "title": "Building advertising for the way people use AI",
+      "summary": "A new visual ad format helps people explore products and services, with expanded measurement to help businesses understand ad impact.",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-05T10:00:00.000Z",
+      "why": null,
+      "ago": "16 小時前"
+    },
+    {
+      "title": "Connecting AI agents to enterprise knowledge",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge.",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-10-05T15:47:52.000Z",
+      "why": null,
+      "ago": "11 小時前"
+    },
+    {
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled.",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-10-05T13:29:32.000Z",
+      "why": null,
+      "ago": "13 小時前"
+    },
+    {
       "title": "People really hate AI, so why can’t they get enough?",
       "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do.",
       "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
@@ -26,62 +70,18 @@
       "group": "ai",
       "published": "2026-10-05T08:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "18 小時前"
     },
     {
-      "title": "The EU AI Act Can’t Regulate What We Haven’t Learned to Test",
-      "summary": "As of August 2, 2026, the European Union’s AI Act entered a new phase.",
-      "url": "https://www.cybersecurity-insiders.com/the-eu-ai-act-cant-regulate-what-we-havent-learned-to-test/",
-      "source": "Cybersecurity Insiders",
-      "tag": "政策",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.",
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-10-04T17:00:21.000Z",
+      "published": "2026-10-05T04:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Fack check: Donald Trump says the left is behind AI safety warnings",
-      "summary": null,
-      "url": "https://www.houstonchronicle.com/politics/texas/politifact/article/donald-trump-ai-safety-22460304.php",
-      "source": "Houston Chronicle",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-05T09:22:30.000Z",
-      "why": null,
-      "ago": "47 分鐘前"
-    },
-    {
-      "title": "Trump Unveils Super Intelligence Force for AI Safety",
-      "summary": "Trump Unveils Super Intelligence Force for AI Safety New government task force addresses growing AI safety concerns and regulation PUBLISHED: Sun, Oct 4, 2026, 3:37 PM UTC | UPDATED: Sun, Oct 4, 2026, 3:37 PM UTC Former President Trump announced the creation of a \"Super Intelligence Force\" today, marking his administration's most significant response to escalating debates over artificial intelligence safety and regulation.",
-      "url": "https://www.techbuzz.ai/articles/trump-unveils-super-intelligence-force-for-ai-safety",
-      "source": "The Tech Buzz",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-04T15:37:00.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "India considers bespoke AI safety framework amid expert debate on regulation",
-      "summary": "India is exploring a unique AI safety framework, tailored to its digital ecosystem, as industry experts debate the efficacy of voluntary versus mandatory regulations.",
-      "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/india-considers-bespoke-ai-safety-framework-amid-expert-debate-on-regulation/134686038?utm_source\\=top_news\\&utm_medium\\=homepage",
-      "source": "ET Datacenters",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-05T04:58:39.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "India urged to develop bespoke AI safety framework for its unique ecosystem",
-      "summary": "India's industry experts are advocating for a tailored artificial intelligence (AI) safety framework, distinct from the US model, to address the nation's unique linguistic and application-led ecosystem.",
-      "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/india-urged-to-develop-bespoke-ai-safety-framework-for-its-unique-ecosystem/134686115?utm_source\\=top_news\\&utm_medium\\=homepage",
-      "source": "ET Datacenters",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-05T04:58:40.000Z",
-      "why": null,
-      "ago": "5 小時前"
+      "ago": "22 小時前"
     }
   ],
   "errors": []

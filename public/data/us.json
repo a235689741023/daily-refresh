@@ -1,21 +1,32 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-05T10:09:23.157Z",
-  "updatedLocal": "2026/10/5 18:09:23",
+  "updated": "2026-10-06T02:21:39.599Z",
+  "updatedLocal": "2026/10/6 10:21:39",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried",
-      "summary": "Wagering on sports outcomes has exploded in the 2020s , but recent surveys show just how widespread gambling has become for Generation Z .",
-      "url": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
+      "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
+      "summary": "With less than a month until the midterm elections , prediction markets ' political contracts are in focus as observers look to see if they'll accurately forecast who will win various races across the country.",
+      "url": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-04T12:57:45.000Z",
+      "published": "2026-10-05T21:24:25.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
+      "summary": "Brazilians will decide in just under three weeks whether to reelect incumbent president Luiz Inácio Lula da Silva or oust him in favor of Flávio Bolsonaro — the son of former president Jair Bolsonaro — as both advanced to a runoff after receiving the most votes in the first-round vote on Sunday.",
+      "url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-05T20:41:23.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
@@ -26,95 +37,84 @@
       "group": null,
       "published": "2026-10-05T05:00:01.000Z",
       "why": null,
+      "ago": "21 小時前"
+    },
+    {
+      "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-05T23:30:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-05T23:00:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "The case for Nvidia’s stock to march even higher after clinching its first record high in months",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-05T21:52:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "This new AI model could help America close a technological gap with China",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/this-new-ai-model-could-help-america-close-a-technological-gap-with-china-c1d74492?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-05T21:43:00.000Z",
+      "why": null,
       "ago": "5 小時前"
     },
     {
-      "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
+      "title": "Microsoft’s blazing stock comeback isn’t even close to being over, analyst says",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-05T09:39:00.000Z",
+      "published": "2026-10-05T21:27:00.000Z",
       "why": null,
-      "ago": "30 分鐘前"
+      "ago": "5 小時前"
     },
     {
-      "title": "The average U.S. stock is quietly getting crushed. Morgan Stanley says these ones are worth buying now.",
+      "title": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-average-u-s-stock-is-quietly-getting-crushed-morgan-stanley-says-these-ones-are-worth-buying-now-61e04eaa?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/western-digital-and-seagate-shares-bounce-back-as-analysts-downplay-the-toshiba-threat-4979dbff?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-05T09:26:00.000Z",
+      "published": "2026-10-05T21:25:00.000Z",
       "why": null,
-      "ago": "43 分鐘前"
+      "ago": "5 小時前"
     },
     {
-      "title": "What Bessent is now saying after bond yields didn’t stop rising on ‘I am the house’ remark",
+      "title": "This rare stock-market divide means an elevated chance of a big surge — or a deep plunge",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/this-rare-stock-market-divide-means-an-elevated-chance-of-a-big-surge-or-a-deep-plunge-cf2cb4e5?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-05T09:22:00.000Z",
+      "published": "2026-10-05T21:12:00.000Z",
       "why": null,
-      "ago": "47 分鐘前"
-    },
-    {
-      "title": "Larry Ellison to list Palm Beach property for $165 million",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/larry-ellison-to-list-palm-beach-property-for-165-million-6a9c71d2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-05T09:05:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Tyler Perry lists huge Beverly Hills mansion for $57 million: ‘Yep, moving to Puerto Rico’",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/tyler-perry-lists-huge-beverly-hills-mansion-for-57-million-yep-moving-to-puerto-rico-a080916b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-05T08:58:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-04T20:31:00.000Z",
-      "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-04T20:00:00.000Z",
-      "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-04T19:30:00.000Z",
-      "why": null,
-      "ago": "15 小時前"
+      "ago": "5 小時前"
     }
   ],
   "errors": []
