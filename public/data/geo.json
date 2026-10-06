@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-06T09:52:58.201Z",
-  "updatedLocal": "2026/10/6 17:52:58",
+  "updated": "2026-10-06T18:40:03.095Z",
+  "updatedLocal": "2026/10/7 02:40:03",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+      "summary": "Arbaaz Muslim, Software Engineer, Google Research, and Gautam Prasad, Software Engineer, Google Research With Google Earth AI’s Population Dynamics Foundation Model (PDFM), we can address the data gaps and temporal reporting lags of existing epidemiological workflows.",
+      "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+      "source": "Google Research",
+      "tag": "研究",
+      "group": "gis",
+      "published": "2026-10-06T15:06:15.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "Discover Indoor GIS at Esri Infrastructure Management and GIS 2026 Conference",
       "summary": "The 2026 Esri Infrastructure Management & GIS (IMGIS) Conference brings together infrastructure professionals to learn how geographic information system (GIS) technology supports planning, operations, and asset management across the infrastructure lifecycle.",
@@ -18,6 +29,28 @@
       "ago": "6 天前"
     },
     {
+      "title": "Advancing computer use with Ironclad",
+      "summary": "How a research collaboration in contracting is helping us train and evaluate AI agents on complex professional work.",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-06T10:00:00.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "summary": "Atlassian and OpenAI are expanding their partnership, bringing frontier models in the GPT‑6 family across Atlassian’s platform to power AI experiences that help teams plan, build, and deliver work.",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-06T16:00:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
       "title": "Our approach to EU text provenance rules",
       "summary": "Promoting transparency within the limits of today’s technology.",
       "url": "https://openai.com/index/eu-text-provenance",
@@ -26,18 +59,7 @@
       "group": "ai",
       "published": "2026-10-05T15:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Building advertising for the way people use AI",
-      "summary": "A new visual ad format helps people explore products and services, with expanded measurement to help businesses understand ad impact.",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-05T10:00:00.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Connecting AI agents to enterprise knowledge",
@@ -48,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-05T15:47:52.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Bringing predictive analytics to the agentic AI era",
@@ -59,29 +81,18 @@
       "group": "ai",
       "published": "2026-10-05T13:29:32.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "People really hate AI, so why can’t they get enough?",
-      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do.",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-10-05T08:00:00.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.",
-      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
+      "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+      "summary": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost.",
+      "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
       "group": "ai",
-      "published": "2026-10-05T04:00:00.000Z",
+      "published": "2026-10-06T13:00:19.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
     }
   ],
   "errors": []

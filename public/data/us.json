@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-06T09:52:58.201Z",
-  "updatedLocal": "2026/10/6 17:52:58",
+  "updated": "2026-10-06T18:40:03.095Z",
+  "updatedLocal": "2026/10/7 02:40:03",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "How event contract bundles are boosting volume on prediction markets",
+      "summary": "The growing popularity of a combo contracts on prediction markets is leading to soaring volumes, even as they makes up only a small amount of total activity on the platforms.",
+      "url": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-06T18:20:31.000Z",
+      "why": null,
+      "ago": "20 分鐘前"
+    },
     {
       "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
       "summary": "Diesel prices may need to remain high through 2027 as refinery constraints contend with recovering consumption from governments and companies rebuild depleted inventories, according to Goldman Sachs.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-06T08:47:30.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-10-05T21:24:25.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
@@ -37,7 +48,18 @@
       "group": null,
       "published": "2026-10-05T20:41:23.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
+    },
+    {
+      "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
+      "summary": "Imports swelled 4.3% for the month, pushing the total imbalance to $105.6 billion. That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
+      "url": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-06T15:52:22.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
@@ -48,73 +70,51 @@
       "group": null,
       "published": "2026-10-06T04:07:24.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "15 小時前"
     },
     {
-      "title": "Michael Burry says he’s sold out of his top holding — for now",
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/michael-burry-says-hes-sold-out-of-his-top-holding-for-now-615c9158?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-06T09:42:00.000Z",
+      "published": "2026-10-06T18:30:00.000Z",
       "why": null,
-      "ago": "11 分鐘前"
+      "ago": "10 分鐘前"
     },
     {
-      "title": "The S&P 500 is facing rate chaos and narrow breadth. Why one Goldman Sachs insider is still bullish on stocks.",
+      "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-s-p-500-is-facing-rate-chaos-and-narrow-breadth-why-one-goldman-sachs-insider-is-still-bullish-on-stocks-84a20206?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-06T09:20:00.000Z",
+      "published": "2026-10-06T18:25:00.000Z",
       "why": null,
-      "ago": "33 分鐘前"
+      "ago": "15 分鐘前"
     },
     {
-      "title": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?",
+      "title": "How Meta’s stock can surge to $1,000, according to the biggest bull on Wall Street",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/how-metas-stock-can-surge-to-1-000-according-to-the-biggest-bull-on-wall-street-a91afff3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-06T18:20:00.000Z",
+      "why": null,
+      "ago": "20 分鐘前"
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
       "summary": null,
       "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-06T09:16:00.000Z",
+      "published": "2026-10-06T18:01:00.000Z",
       "why": null,
-      "ago": "37 分鐘前"
-    },
-    {
-      "title": "Elon Musk is a trillionaire again. Here’s how his wealth stacks up against national economies.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/elon-musk-is-a-trillionaire-again-heres-how-his-wealth-stacks-up-against-national-economies-e9788b29?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-06T09:16:00.000Z",
-      "why": null,
-      "ago": "37 分鐘前"
-    },
-    {
-      "title": "Former N.Y. Gov. Andrew Cuomo buys a 7-acre Hamptons estate for $9.6 million cash",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/former-n-y-gov-andrew-cuomo-buys-a-7-acre-hamptons-estate-for-9-6-million-cash-2deb9d9f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-06T09:06:00.000Z",
-      "why": null,
-      "ago": "47 分鐘前"
-    },
-    {
-      "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-05T23:30:00.000Z",
-      "why": null,
-      "ago": "10 小時前"
+      "ago": "39 分鐘前"
     }
   ],
   "errors": [

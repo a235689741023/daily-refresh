@@ -1,21 +1,76 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-06T09:52:58.201Z",
-  "updatedLocal": "2026/10/6 17:52:58",
+  "updated": "2026-10-06T18:40:03.095Z",
+  "updatedLocal": "2026/10/7 02:40:03",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "What to do when your CEO is  planning for the wrong decade",
-      "summary": "The opinions expressed by Trellis expert contributors are their own, not those of Trellis .",
-      "url": "https://trellis.net/article/business-planning-new-normal/",
+      "title": "Limit corporate influence, nonprofits tell GHG Protocol and other standard-setters",
+      "summary": "Do sustainability’s key standard-setters need to raise their own standards?",
+      "url": "https://trellis.net/article/greenhouse-gas-protocol-goverance-principles/",
       "source": "Trellis",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-05T07:02:00.000Z",
+      "published": "2026-10-06T18:24:13.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "16 分鐘前"
+    },
+    {
+      "title": "Sustainable AI: Tools, frameworks and best practices in 2026",
+      "summary": "Sustainability professionals are scrambling to understand how AI adoption will impact environmental goals.",
+      "url": "https://trellis.net/article/sustainable-ai-tools-frameworks-best-practices/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-06T15:14:32.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Report: UK ‘not on track’ to meet 2030 biodiversity targets",
+      "summary": "Ahead of the Biodiversity COP happening later this month, the Wildlife Trusts has emphasised that the UK is lagging on its nature commitments under the Global Biodiversity Framework (GBF).",
+      "url": "https://www.edie.net/report-uk-not-on-track-to-meet-2030-biodiversity-targets/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-06T16:21:54.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Methane abatement and carbon removal: Why climate strategies now run on two clocks",
+      "summary": "Corporate net-zero plans are written in the language of carbon dioxide. But how companies keep score can obscure a timing difference that matters for how they build climate portfolios.",
+      "url": "https://www.edie.net/methane-abatement-and-carbon-removal-why-climate-strategies-now-run-on-two-clocks/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-06T13:58:11.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Google strikes 20-year nuclear deal worth $4.3bn",
+      "summary": "The agreement with Constellation Energy is set to enable over $4bn of investment and bring 890 megawatts (MW) of new nuclear capacity online.",
+      "url": "https://www.edie.net/google-strikes-20-year-nuclear-deal-worth-4-3bn/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-06T13:13:15.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "SPEAKERS ANNOUNCED: What SMEs need to know before investing in solar",
+      "summary": "Two expert speakers have been confirmed for an upcoming edie webinar exploring how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
+      "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-06T09:55:22.000Z",
+      "why": null,
+      "ago": "9 小時前"
     },
     {
       "title": "ONE WEEK TO GO: Connecting existing sustainability reporting with UK SRS",
@@ -26,18 +81,18 @@
       "group": null,
       "published": "2026-10-06T09:23:07.000Z",
       "why": null,
-      "ago": "30 分鐘前"
+      "ago": "9 小時前"
     },
     {
-      "title": "TODAY: The Autumn Budget – How businesses can cut waste, control costs and prepare for 2027",
-      "summary": "On 6 October, edie will host its latest webinar in partnership with JRP Solutions, exploring how businesses can cut waste, control costs and plan effectively for the year ahead.",
-      "url": "https://www.edie.net/one-week-to-go-the-autumn-budget-how-businesses-can-cut-waste-control-costs-and-prepare-for-2027/",
+      "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
+      "summary": "Sustainability professionals have the chance to win six months of access to edie’s digital Membership offering as well as a VIP pass to edie 27 in April by completing a short survey.",
+      "url": "https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-06T08:00:57.000Z",
+      "published": "2026-10-06T08:30:45.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "From scrapping the Future Homes Standard to repealing the Climate Change Act: What the Conservatives’ economic plan means for the UK’s net-zero economy",
@@ -48,7 +103,7 @@
       "group": null,
       "published": "2026-10-06T02:10:04.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Business giants call for financial reforms to halt nature degradation",
@@ -58,61 +113,6 @@
       "tag": "國際",
       "group": null,
       "published": "2026-10-05T23:01:58.000Z",
-      "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Wind and solar helped UK avoid £5.9bn in gas imports during Hormuz crisis",
-      "summary": "Record generation from wind and solar have allowed the UK to avoid £5.9bn in gas imports since the start of the Iran War, Carbon Brief analysis has revealed.",
-      "url": "https://www.edie.net/wind-and-solar-helped-uk-avoid-5-9bn-in-gas-imports-during-hormuz-crisis/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-05T14:56:45.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Government ignores wildfire plans as reservoir data is revealed",
-      "summary": "As research reveals that UK reservoir storage is at half capacity across England, a freedom of information request has revealed that the Government has scrapped plans for wildfire prevention initiatives to be introduced.",
-      "url": "https://www.edie.net/governments-wildfire-plans-dropped-as-reservoir-data-is-revealed/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-05T12:23:09.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "First-ever ‘ecocide’ law for Latin America targets severe environmental destruction",
-      "summary": "A coalition of legal scholars and environmental organisations has launched a model ecocide law for Latin America, providing national legislators with a framework for criminalising the most severe forms of environmental destruction.",
-      "url": "https://www.edie.net/first-ever-ecocide-law-for-latin-america-targets-severe-environmental-destruction/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-05T11:43:01.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Siegwerk publishes CSRD-aligned report",
-      "summary": null,
-      "url": "http://www.labelsandlabeling.com/news/inks-coatings/siegwerk-publishes-csrd-aligned-report",
-      "source": "Labels & Labeling",
-      "tag": "法規",
-      "group": null,
-      "published": "2026-10-06T01:06:13.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "Siegwerk Publishes Sustainability Report Based on Corporate Reporting Directive",
-      "summary": "The first report of its kind reflects a voluntary step toward greater transparency and comparability in sustainability reporting.",
-      "url": "https://www.inkworldmagazine.com/breaking-news/siegwerk-publishes-sustainability-report-based-on-corporate-reporting-directive/",
-      "source": "inkworldmagazine.com",
-      "tag": "法規",
-      "group": null,
-      "published": "2026-10-05T13:28:39.000Z",
       "why": null,
       "ago": "20 小時前"
     }
