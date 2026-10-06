@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-06T02:21:39.599Z",
-  "updatedLocal": "2026/10/6 10:21:39",
+  "updated": "2026-10-06T09:52:58.201Z",
+  "updatedLocal": "2026/10/6 17:52:58",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-09-30T16:59:42.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
       "title": "Our approach to EU text provenance rules",
@@ -26,7 +26,7 @@
       "group": "ai",
       "published": "2026-10-05T15:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Building advertising for the way people use AI",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-10-05T10:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "Connecting AI agents to enterprise knowledge",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-10-05T15:47:52.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Bringing predictive analytics to the agentic AI era",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-10-05T13:29:32.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "People really hate AI, so why can’t they get enough?",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-05T08:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
       "title": "EmTech Future 2026: When AI Meets Everything",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-10-05T04:00:00.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

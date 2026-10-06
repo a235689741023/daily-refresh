@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-06T02:21:39.599Z",
-  "updatedLocal": "2026/10/6 10:21:39",
+  "updated": "2026-10-06T09:52:58.201Z",
+  "updatedLocal": "2026/10/6 17:52:58",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,29 @@
       "group": null,
       "published": "2026-10-05T07:02:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "ONE WEEK TO GO: Connecting existing sustainability reporting with UK SRS",
+      "summary": "With just one week to go, sustainability and reporting professionals are invited to register for an upcoming edie webinar exploring how businesses can connect existing ESOS, SECR and TCFD-aligned processes with emerging UK Sustainability Reporting Standards (UK SRS).",
+      "url": "https://www.edie.net/one-week-to-go-connecting-existing-sustainability-reporting-with-uk-srs/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-06T09:23:07.000Z",
+      "why": null,
+      "ago": "30 分鐘前"
+    },
+    {
+      "title": "TODAY: The Autumn Budget – How businesses can cut waste, control costs and prepare for 2027",
+      "summary": "On 6 October, edie will host its latest webinar in partnership with JRP Solutions, exploring how businesses can cut waste, control costs and plan effectively for the year ahead.",
+      "url": "https://www.edie.net/one-week-to-go-the-autumn-budget-how-businesses-can-cut-waste-control-costs-and-prepare-for-2027/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-06T08:00:57.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "From scrapping the Future Homes Standard to repealing the Climate Change Act: What the Conservatives’ economic plan means for the UK’s net-zero economy",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-10-06T02:10:04.000Z",
       "why": null,
-      "ago": "12 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "Business giants call for financial reforms to halt nature degradation",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-10-05T23:01:58.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Wind and solar helped UK avoid £5.9bn in gas imports during Hormuz crisis",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-10-05T14:56:45.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Government ignores wildfire plans as reservoir data is revealed",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-10-05T12:23:09.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "First-ever ‘ecocide’ law for Latin America targets severe environmental destruction",
@@ -70,51 +92,29 @@
       "group": null,
       "published": "2026-10-05T11:43:01.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "How businesses can embed circularity across their value chain",
-      "summary": "edie’s most recent webinar, in partnership with Kingspan, explored how organisations can move from high-level circular economy ambitions towards practical action across the business value chain.",
-      "url": "https://www.edie.net/how-businesses-can-embed-circularity-across-their-value-chain/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-05T09:18:20.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Octopus Energy’s Irish solar projects and Sodexo’s food-waste prevention milestone: The sustainability success stories of the week",
-      "summary": "As part of our Mission Possible campaign, edie delivers this member-exclusive weekly round-up of five of the best sustainable business success stories of the week.",
-      "url": "https://www.edie.net/octopus-energys-irish-solar-projects-and-sodexos-food-waste-prevention-milestone-the-sustainability-success-stories-of-the-week/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-05T02:36:42.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "成大「樹導航」助找綠蔭、COP31會前會議登場、歐洲今年史上第三酷暑",
+      "title": "Siegwerk publishes CSRD-aligned report",
       "summary": null,
-      "url": "https://e-info.org.tw/node/243941",
-      "source": "環境資訊中心",
-      "tag": "台灣",
+      "url": "http://www.labelsandlabeling.com/news/inks-coatings/siegwerk-publishes-csrd-aligned-report",
+      "source": "Labels & Labeling",
+      "tag": "法規",
       "group": null,
-      "published": "2026-10-05T02:32:11.000Z",
+      "published": "2026-10-06T01:06:13.000Z",
       "why": null,
-      "ago": "24 小時前"
+      "ago": "9 小時前"
     },
     {
-      "title": "開四次會還說不清居民溝通 新北石門風電通過環評初審",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243943",
-      "source": "環境資訊中心",
-      "tag": "台灣",
+      "title": "Siegwerk Publishes Sustainability Report Based on Corporate Reporting Directive",
+      "summary": "The first report of its kind reflects a voluntary step toward greater transparency and comparability in sustainability reporting.",
+      "url": "https://www.inkworldmagazine.com/breaking-news/siegwerk-publishes-sustainability-report-based-on-corporate-reporting-directive/",
+      "source": "inkworldmagazine.com",
+      "tag": "法規",
       "group": null,
-      "published": "2026-10-05T07:32:09.000Z",
+      "published": "2026-10-05T13:28:39.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "20 小時前"
     }
   ],
   "errors": []

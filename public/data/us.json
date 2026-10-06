@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-06T02:21:39.599Z",
-  "updatedLocal": "2026/10/6 10:21:39",
+  "updated": "2026-10-06T09:52:58.201Z",
+  "updatedLocal": "2026/10/6 17:52:58",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
+      "summary": "Diesel prices may need to remain high through 2027 as refinery constraints contend with recovering consumption from governments and companies rebuild depleted inventories, according to Goldman Sachs.",
+      "url": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-06T08:47:30.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
     {
       "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
       "summary": "With less than a month until the midterm elections , prediction markets ' political contracts are in focus as observers look to see if they'll accurately forecast who will win various races across the country.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-05T21:24:25.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
@@ -26,18 +37,73 @@
       "group": null,
       "published": "2026-10-05T20:41:23.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
-      "title": "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
-      "summary": "As Western populations age, fewer workers and higher costs will strain public finances, credit rating agency Moody's has warned.",
-      "url": "https://www.cnbc.com/2026/10/05/aging-population-moodys-public-finances.html",
+      "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
+      "summary": "The region includes 23 economies, including China, Vietnam, Indonesia, Malaysia and Thailand.",
+      "url": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-10-05T05:00:01.000Z",
+      "published": "2026-10-06T04:07:24.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Michael Burry says he’s sold out of his top holding — for now",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/michael-burry-says-hes-sold-out-of-his-top-holding-for-now-615c9158?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-06T09:42:00.000Z",
+      "why": null,
+      "ago": "11 分鐘前"
+    },
+    {
+      "title": "The S&P 500 is facing rate chaos and narrow breadth. Why one Goldman Sachs insider is still bullish on stocks.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-s-p-500-is-facing-rate-chaos-and-narrow-breadth-why-one-goldman-sachs-insider-is-still-bullish-on-stocks-84a20206?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-06T09:20:00.000Z",
+      "why": null,
+      "ago": "33 分鐘前"
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-06T09:16:00.000Z",
+      "why": null,
+      "ago": "37 分鐘前"
+    },
+    {
+      "title": "Elon Musk is a trillionaire again. Here’s how his wealth stacks up against national economies.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/elon-musk-is-a-trillionaire-again-heres-how-his-wealth-stacks-up-against-national-economies-e9788b29?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-06T09:16:00.000Z",
+      "why": null,
+      "ago": "37 分鐘前"
+    },
+    {
+      "title": "Former N.Y. Gov. Andrew Cuomo buys a 7-acre Hamptons estate for $9.6 million cash",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/former-n-y-gov-andrew-cuomo-buys-a-7-acre-hamptons-estate-for-9-6-million-cash-2deb9d9f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-06T09:06:00.000Z",
+      "why": null,
+      "ago": "47 分鐘前"
     },
     {
       "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
@@ -48,74 +114,14 @@
       "group": null,
       "published": "2026-10-05T23:30:00.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-05T23:00:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "The case for Nvidia’s stock to march even higher after clinching its first record high in months",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-05T21:52:00.000Z",
-      "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "This new AI model could help America close a technological gap with China",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/this-new-ai-model-could-help-america-close-a-technological-gap-with-china-c1d74492?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-05T21:43:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Microsoft’s blazing stock comeback isn’t even close to being over, analyst says",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-05T21:27:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/western-digital-and-seagate-shares-bounce-back-as-analysts-downplay-the-toshiba-threat-4979dbff?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-05T21:25:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "This rare stock-market divide means an elevated chance of a big surge — or a deep plunge",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/this-rare-stock-market-divide-means-an-elevated-chance-of-a-big-surge-or-a-deep-plunge-cf2cb4e5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-05T21:12:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
+      "ago": "10 小時前"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "message": "HTTP 404 Not Found"
+    }
+  ]
 }
