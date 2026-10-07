@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-07T09:59:36.993Z",
-  "updatedLocal": "2026/10/7 17:59:36",
+  "updated": "2026-10-07T19:06:38.112Z",
+  "updatedLocal": "2026/10/8 03:06:38",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
+      "summary": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
+      "url": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-07T18:42:36.000Z",
+      "why": null,
+      "ago": "24 分鐘前"
+    },
     {
       "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
       "summary": "SINGAPORE — The technology that investors and governments are counting on to lift the global economy is also adding pressure that threatens growth, the head of the International Monetary Fund said, urging policymakers to stop delaying painful choices on debt.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-07T06:16:39.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-10-06T22:23:01.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "How event contract bundles are boosting volume on prediction markets",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-10-06T18:46:16.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
@@ -48,18 +59,29 @@
       "group": null,
       "published": "2026-10-06T18:41:32.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
-      "summary": "Diesel prices may need to remain high through 2027 as refinery constraints contend with recovering consumption from governments and companies rebuild depleted inventories, according to Goldman Sachs.",
-      "url": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+      "summary": "Inflation fears intensified in September, pushing the near-term outlook in the New York Federal Reserve's monthly survey to its highest level in nearly 3½ years.",
+      "url": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-10-06T08:47:30.000Z",
+      "published": "2026-10-07T18:44:36.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "22 分鐘前"
+    },
+    {
+      "title": "ICE came to town and left behind weakened economies",
+      "summary": "MINNEAPOLIS — Operation Metro Surge has been over for months. The same can't be said for the crisis facing Daniel Hernandez's Colonial Market grocery stores.",
+      "url": "https://www.cnbc.com/2026/10/07/ice-raids-local-economies.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-07T12:24:32.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
@@ -68,20 +90,9 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-10-07T05:11:55.000Z",
+      "published": "2026-10-07T11:55:36.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
-      "summary": "Imports swelled 4.3% for the month, pushing the total imbalance to $105.6 billion. That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
-      "url": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-06T15:52:22.000Z",
-      "why": null,
-      "ago": "18 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
@@ -92,29 +103,18 @@
       "group": null,
       "published": "2026-10-07T03:00:22.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "16 小時前"
     },
     {
-      "title": "AMD’s chief executive is planning to invest ‘tens of billions’ as Asian tour addresses supply-chain chokepoints",
+      "title": "Stocks are increasingly their own best hedge. This chart shows why.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/amds-chief-executive-is-planning-to-invest-tens-of-billions-as-asian-tour-addresses-supply-chain-chokepoints-c6485919?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/stocks-are-increasingly-their-own-best-hedge-this-chart-shows-why-19a79b68?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-07T09:37:00.000Z",
+      "published": "2026-10-07T18:31:00.000Z",
       "why": null,
-      "ago": "23 分鐘前"
-    },
-    {
-      "title": "Longtime tech bull Dan Ives says these are his top tech plays going into 2027",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/longtime-tech-bull-dan-ives-says-these-are-his-top-tech-plays-going-into-2027-3796cb9f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-07T09:33:00.000Z",
-      "why": null,
-      "ago": "27 分鐘前"
+      "ago": "36 分鐘前"
     }
   ],
   "errors": [

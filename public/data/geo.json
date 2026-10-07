@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-07T09:59:36.993Z",
-  "updatedLocal": "2026/10/7 17:59:36",
+  "updated": "2026-10-07T19:06:38.112Z",
+  "updatedLocal": "2026/10/8 03:06:38",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,62 @@
       "group": "gis",
       "published": "2026-10-06T15:06:15.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Discover Indoor GIS at Esri Infrastructure Management and GIS 2026 Conference",
-      "summary": "The 2026 Esri Infrastructure Management & GIS (IMGIS) Conference brings together infrastructure professionals to learn how geographic information system (GIS) technology supports planning, operations, and asset management across the infrastructure lifecycle.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-indoors/indoor-gis/discover-indoor-gis-at-esri-infrastructure-management-and-gis-2026-conference",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-09-30T16:59:42.000Z",
+      "title": "Introducing Claude Haiku 5.5",
+      "summary": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released. Claude Haiku 5.5 is designed for high-volume, cost-sensitive tasks.",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-07T18:01:48.000Z",
       "why": null,
-      "ago": "7 天前"
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Claude Haiku 5.5 System Card",
+      "summary": null,
+      "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-07T17:55:52.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "summary": "College Planner is coming to ChatGPT for teens, alongside a new teen AI council and more tools for learning.",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-07T12:00:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "url": "https://openai.com/index/radisson",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-07T07:00:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
+    },
+    {
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "summary": "Last month we introduced the first GPT‑6 models for paid customers and today we're bringing that next generation of intelligence to more people with a new GPT‑6 model built for more than 1.2 billion people who use ChatGPT each week.",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-07T00:00:00.000Z",
+      "why": null,
+      "ago": "19 小時前"
     },
     {
       "title": "Expanding the Cyber Verification Program",
@@ -37,63 +81,14 @@
       "group": "ai",
       "published": "2026-10-06T19:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "summary": "Jump Trading uses GPT‑6 Astra to take on longer, more ambiguous research problems.",
-      "url": "https://openai.com/index/jump-trading",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-06T12:00:00.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "summary": "We’re releasing a broad range of new mathematical results produced by an internal frontier model .",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-06T12:00:00.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "summary": "Atlassian and OpenAI are expanding their partnership, bringing frontier models in the GPT‑6 family across Atlassian’s platform to power AI experiences that help teams plan, build, and deliver work.",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-06T16:00:00.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Advancing computer use with Ironclad",
-      "summary": "How a research collaboration in contracting is helping us train and evaluate AI agents on complex professional work.",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-06T10:00:00.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "summary": "EmbeddingGemma 2 is the most capable model for on-device multimodal embeddings, natively mapping combinations of text, images, audio, and video into a unified embedding space.",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "source": "Google DeepMind",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-06T19:57:04.000Z",
-      "why": null,
-      "ago": "14 小時前"
+      "ago": "昨日"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Geospatial World",
+      "url": "https://geospatialworld.net/feed/",
+      "message": "This operation was aborted"
+    }
+  ]
 }
