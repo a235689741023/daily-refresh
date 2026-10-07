@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-07T01:40:48.215Z",
-  "updatedLocal": "2026/10/7 09:40:48",
+  "updated": "2026-10-07T09:59:36.993Z",
+  "updatedLocal": "2026/10/7 17:59:36",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+      "summary": "SINGAPORE — The technology that investors and governments are counting on to lift the global economy is also adding pressure that threatens growth, the head of the International Monetary Fund said, urging policymakers to stop delaying painful choices on debt.",
+      "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-07T06:16:39.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
       "summary": "The S&P 500 rose to an all-time intraday on Tuesday, touching 7844.52 and surpassing its August 13 intraday peak when it hit 7,830.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-06T22:23:01.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "How event contract bundles are boosting volume on prediction markets",
@@ -26,18 +37,7 @@
       "group": null,
       "published": "2026-10-06T18:46:16.000Z",
       "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
-      "summary": "Diesel prices may need to remain high through 2027 as refinery constraints contend with recovering consumption from governments and companies rebuild depleted inventories, according to Goldman Sachs.",
-      "url": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-06T08:47:30.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
@@ -48,29 +48,29 @@
       "group": null,
       "published": "2026-10-06T18:41:32.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
-      "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
-      "summary": "With less than a month until the midterm elections , prediction markets ' political contracts are in focus as observers look to see if they'll accurately forecast who will win various races across the country.",
-      "url": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
+      "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
+      "summary": "Diesel prices may need to remain high through 2027 as refinery constraints contend with recovering consumption from governments and companies rebuild depleted inventories, according to Goldman Sachs.",
+      "url": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-05T21:24:25.000Z",
+      "published": "2026-10-06T08:47:30.000Z",
       "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
-      "summary": "Brazilians will decide in just under three weeks whether to reelect incumbent president Luiz Inácio Lula da Silva or oust him in favor of Flávio Bolsonaro — the son of former president Jair Bolsonaro — as both advanced to a runoff after receiving the most votes in the first-round vote on Sunday.",
-      "url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+      "summary": "The Reserve Bank of India on Wednesday raised interest rates for the first time since 2023, joining several major central banks in tightening monetary policy to arrest accelerating inflation.",
+      "url": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-10-05T20:41:23.000Z",
+      "published": "2026-10-07T05:11:55.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "5 小時前"
     },
     {
       "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-10-06T15:52:22.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
@@ -90,31 +90,31 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-10-06T04:07:24.000Z",
+      "published": "2026-10-07T03:00:22.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "7 小時前"
     },
     {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "title": "AMD’s chief executive is planning to invest ‘tens of billions’ as Asian tour addresses supply-chain chokepoints",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/amds-chief-executive-is-planning-to-invest-tens-of-billions-as-asian-tour-addresses-supply-chain-chokepoints-c6485919?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-06T22:54:00.000Z",
+      "published": "2026-10-07T09:37:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "23 分鐘前"
     },
     {
-      "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
+      "title": "Longtime tech bull Dan Ives says these are his top tech plays going into 2027",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/longtime-tech-bull-dan-ives-says-these-are-his-top-tech-plays-going-into-2027-3796cb9f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-06T21:52:00.000Z",
+      "published": "2026-10-07T09:33:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "27 分鐘前"
     }
   ],
   "errors": [

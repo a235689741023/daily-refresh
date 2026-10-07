@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-07T01:40:48.215Z",
-  "updatedLocal": "2026/10/7 09:40:48",
+  "updated": "2026-10-07T09:59:36.993Z",
+  "updatedLocal": "2026/10/7 17:59:36",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-06T15:06:15.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Discover Indoor GIS at Esri Infrastructure Management and GIS 2026 Conference",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-09-30T16:59:42.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
     },
     {
       "title": "Expanding the Cyber Verification Program",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-10-06T19:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "How Jump Trading is scaling quant research with ChatGPT",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-10-06T12:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Sharing AI progress in mathematics",
@@ -59,18 +59,7 @@
       "group": "ai",
       "published": "2026-10-06T12:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "Advancing computer use with Ironclad",
-      "summary": "How a research collaboration in contracting is helping us train and evaluate AI agents on complex professional work.",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-06T10:00:00.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
@@ -81,7 +70,18 @@
       "group": "ai",
       "published": "2026-10-06T16:00:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "Advancing computer use with Ironclad",
+      "summary": "How a research collaboration in contracting is helping us train and evaluate AI agents on complex professional work.",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-06T10:00:00.000Z",
+      "why": null,
+      "ago": "24 小時前"
     },
     {
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
@@ -92,7 +92,7 @@
       "group": "ai",
       "published": "2026-10-06T19:57:04.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     }
   ],
   "errors": []

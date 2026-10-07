@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-07T01:40:48.215Z",
-  "updatedLocal": "2026/10/7 09:40:48",
+  "updated": "2026-10-07T09:59:36.993Z",
+  "updatedLocal": "2026/10/7 17:59:36",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-06T18:24:13.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Sustainable AI: Tools, frameworks and best practices in 2026",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-10-06T15:14:32.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Report: UK ‘not on track’ to meet 2030 biodiversity targets",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-10-06T16:21:54.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Methane abatement and carbon removal: Why climate strategies now run on two clocks",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-10-06T13:58:11.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Google strikes 20-year nuclear deal worth $4.3bn",
@@ -59,7 +59,29 @@
       "group": null,
       "published": "2026-10-06T13:13:15.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "台鐵碳排量最高車站出爐、日企開發電動車行駛中無線充電、美最高法院審石油巨頭氣候訴訟",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243949",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-07T02:34:26.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "紅瓦屋老地方文化美食餐廳主廚林鳳廷：在花蓮馬太鞍 以野菜詮釋阿美族飲食文化",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243950",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-07T07:13:18.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "SPEAKERS ANNOUNCED: What SMEs need to know before investing in solar",
@@ -70,40 +92,7 @@
       "group": null,
       "published": "2026-10-06T09:55:22.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "ONE WEEK TO GO: Connecting existing sustainability reporting with UK SRS",
-      "summary": "With just one week to go, sustainability and reporting professionals are invited to register for an upcoming edie webinar exploring how businesses can connect existing ESOS, SECR and TCFD-aligned processes with emerging UK Sustainability Reporting Standards (UK SRS).",
-      "url": "https://www.edie.net/one-week-to-go-connecting-existing-sustainability-reporting-with-uk-srs/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-06T09:23:07.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
-      "summary": "Sustainability professionals have the chance to win six months of access to edie’s digital Membership offering as well as a VIP pass to edie 27 in April by completing a short survey.",
-      "url": "https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-06T08:30:45.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "From scrapping the Future Homes Standard to repealing the Climate Change Act: What the Conservatives’ economic plan means for the UK’s net-zero economy",
-      "summary": "The Conservative Party’s shadow chancellor has announced plans to scrap a series of environmental and net-zero policies, including the Future Homes Standard and the Climate Change Act, as part of a wider programme of economic deregulation.",
-      "url": "https://www.edie.net/from-scrapping-the-future-homes-standard-to-repealing-the-climate-change-act-what-the-conservatives-economic-plan-means-for-the-uks-net-zero-economy/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-06T02:10:04.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "昨日"
     },
     {
       "title": "【馬太鞍溪堰塞湖02】農傷．傷農：洪災一年，農地復耕之路",
@@ -114,7 +103,18 @@
       "group": null,
       "published": "2026-10-06T09:52:57.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "【馬太鞍溪堰塞湖01】洪災一年：部落重建如何在沙塵中找未來？",
+      "summary": null,
+      "url": "https://www.e-info.org.tw/node/243917",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-06T09:52:57.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []
