@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-06T18:40:03.095Z",
-  "updatedLocal": "2026/10/7 02:40:03",
+  "updated": "2026-10-07T01:40:48.215Z",
+  "updatedLocal": "2026/10/7 09:40:48",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
+      "summary": "The S&P 500 rose to an all-time intraday on Tuesday, touching 7844.52 and surpassing its August 13 intraday peak when it hit 7,830.",
+      "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-06T22:23:01.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "How event contract bundles are boosting volume on prediction markets",
       "summary": "The growing popularity of a combo contracts on prediction markets is leading to soaring volumes, even as they makes up only a small amount of total activity on the platforms.",
@@ -13,9 +24,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-06T18:20:31.000Z",
+      "published": "2026-10-06T18:46:16.000Z",
       "why": null,
-      "ago": "20 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
@@ -26,7 +37,18 @@
       "group": null,
       "published": "2026-10-06T08:47:30.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
+    },
+    {
+      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
+      "summary": "Trading volumes for certain products on prediction market platforms Kalshi and Polymarket are raising questions from some industry observers, who fear the numbers may be inflated.",
+      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-06T18:41:32.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-10-05T21:24:25.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-10-05T20:41:23.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-10-06T15:52:22.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
@@ -70,40 +92,7 @@
       "group": null,
       "published": "2026-10-06T04:07:24.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-06T18:30:00.000Z",
-      "why": null,
-      "ago": "10 分鐘前"
-    },
-    {
-      "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-06T18:25:00.000Z",
-      "why": null,
-      "ago": "15 分鐘前"
-    },
-    {
-      "title": "How Meta’s stock can surge to $1,000, according to the biggest bull on Wall Street",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/how-metas-stock-can-surge-to-1-000-according-to-the-biggest-bull-on-wall-street-a91afff3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-06T18:20:00.000Z",
-      "why": null,
-      "ago": "20 分鐘前"
+      "ago": "22 小時前"
     },
     {
       "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
@@ -112,9 +101,20 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-06T18:01:00.000Z",
+      "published": "2026-10-06T22:54:00.000Z",
       "why": null,
-      "ago": "39 分鐘前"
+      "ago": "3 小時前"
+    },
+    {
+      "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-06T21:52:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
     }
   ],
   "errors": [

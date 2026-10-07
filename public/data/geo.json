@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-06T18:40:03.095Z",
-  "updatedLocal": "2026/10/7 02:40:03",
+  "updated": "2026-10-07T01:40:48.215Z",
+  "updatedLocal": "2026/10/7 09:40:48",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-06T15:06:15.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Discover Indoor GIS at Esri Infrastructure Management and GIS 2026 Conference",
@@ -29,6 +29,39 @@
       "ago": "6 天前"
     },
     {
+      "title": "Expanding the Cyber Verification Program",
+      "summary": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-06T19:00:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "summary": "Jump Trading uses GPT‑6 Astra to take on longer, more ambiguous research problems.",
+      "url": "https://openai.com/index/jump-trading",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-06T12:00:00.000Z",
+      "why": null,
+      "ago": "14 小時前"
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "summary": "We’re releasing a broad range of new mathematical results produced by an internal frontier model .",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-06T12:00:00.000Z",
+      "why": null,
+      "ago": "14 小時前"
+    },
+    {
       "title": "Advancing computer use with Ironclad",
       "summary": "How a research collaboration in contracting is helping us train and evaluate AI agents on complex professional work.",
       "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
@@ -37,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-06T10:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
@@ -48,49 +81,16 @@
       "group": "ai",
       "published": "2026-10-06T16:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
-      "title": "Our approach to EU text provenance rules",
-      "summary": "Promoting transparency within the limits of today’s technology.",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "source": "OpenAI",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "summary": "EmbeddingGemma 2 is the most capable model for on-device multimodal embeddings, natively mapping combinations of text, images, audio, and video into a unified embedding space.",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "Google DeepMind",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-05T15:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Connecting AI agents to enterprise knowledge",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge.",
-      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-10-05T15:47:52.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled.",
-      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-10-05T13:29:32.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
-      "summary": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost.",
-      "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-10-06T13:00:19.000Z",
+      "published": "2026-10-06T19:57:04.000Z",
       "why": null,
       "ago": "6 小時前"
     }
