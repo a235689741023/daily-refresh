@@ -1,21 +1,32 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-08T10:12:19.372Z",
-  "updatedLocal": "2026/10/8 18:12:19",
+  "updated": "2026-10-08T19:02:48.960Z",
+  "updatedLocal": "2026/10/9 03:02:48",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "An Introduction to Python in Excel with ArcGIS for Excel",
-      "summary": "In this Blog post, I’ll show how ArcGIS for Excel, Python in Excel, Machine learning models and Excel can work together and turn Excel data into decision making.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-for-excel/announcements/an-introduction-to-python-in-excel-with-arcgis-for-excel",
-      "source": "Esri",
+      "title": "3 ways Google Maps can help you navigate your next culinary adventure.",
+      "summary": "Looking for your next great meal? In addition to our Fan-Favorite Dining List , check out these three Google Maps features to discover the best spots anytime.",
+      "url": "https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/",
+      "source": "Google Maps Blog",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-10-07T02:02:38.000Z",
+      "published": "2026-10-08T12:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Google Maps reveals the top food trends and popular restaurants across 10 cities",
+      "summary": "From froyo to beef tallow, we analyzed a year of Google Maps data across 10 culinary hot spots to reveal what the world is craving.",
+      "url": "https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/",
+      "source": "Google Maps Blog",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-10-08T12:00:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
@@ -26,7 +37,7 @@
       "group": "gis",
       "published": "2026-10-08T00:01:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Geospatial World Becomes EuroGeographics’ First Observer Member",
@@ -37,7 +48,7 @@
       "group": "gis",
       "published": "2026-10-08T09:06:43.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "From Data Deluge to Decision: Dr Abhay Swarup Mittal on Building Sovereign Intelligence at Aetosky",
@@ -48,18 +59,51 @@
       "group": "gis",
       "published": "2026-10-08T08:47:49.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "10 小時前"
     },
     {
-      "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
-      "summary": "Arbaaz Muslim, Software Engineer, Google Research, and Gautam Prasad, Software Engineer, Google Research With Google Earth AI’s Population Dynamics Foundation Model (PDFM), we can address the data gaps and temporal reporting lags of existing epidemiological workflows.",
-      "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
-      "source": "Google Research",
-      "tag": "研究",
-      "group": "gis",
-      "published": "2026-10-06T15:06:15.000Z",
+      "title": "Building on our commitment to American scientific discovery",
+      "summary": "Anthropic is deepening its support for American scientific research by committing $150 million over three years to the Genesis Mission , a federal initiative to accelerate scientific and technological discovery through AI.",
+      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-08T13:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "6 小時前"
+    },
+    {
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "url": "https://openai.com/index/oracle",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-08T16:00:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "summary": "With GPT‑5.6, GPT‑6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "url": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-08T12:00:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Disrupting AI-enabled “false front” operations",
+      "summary": "Over the past two and a half years, we’ve reported on many of the ways in which threat actors tried to use our models to conduct cyber attacks, covert influence operations (IO), scams, and other violations of our Usage Policies.",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-08T00:00:00.000Z",
+      "why": null,
+      "ago": "19 小時前"
     },
     {
       "title": "Introducing Claude Haiku 5.5",
@@ -70,7 +114,7 @@
       "group": "ai",
       "published": "2026-10-07T18:06:12.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Claude Haiku 5.5 System Card",
@@ -81,51 +125,7 @@
       "group": "ai",
       "published": "2026-10-07T17:55:52.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "summary": "College Planner is coming to ChatGPT for teens, alongside a new teen AI council and more tools for learning.",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-07T12:00:00.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "url": "https://openai.com/index/radisson",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-07T07:00:00.000Z",
-      "why": null,
       "ago": "昨日"
-    },
-    {
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "summary": "The story is a collaboration between MIT Technology Review and Aventine , a non-profit research foundation that creates and supports content about how technology and science are changing the way we live.",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-10-08T09:00:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Building a safer path to autonomous industrial AI",
-      "summary": "Industrial AI is entering a new phase.",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-10-08T08:17:32.000Z",
-      "why": null,
-      "ago": "2 小時前"
     }
   ],
   "errors": []

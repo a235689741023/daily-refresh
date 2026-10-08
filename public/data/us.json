@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-08T10:12:19.372Z",
-  "updatedLocal": "2026/10/8 18:12:19",
+  "updated": "2026-10-08T19:02:48.960Z",
+  "updatedLocal": "2026/10/9 03:02:48",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
+      "summary": "Affordability is seen as one of voters' top issues heading into the 2026 midterm elections .",
+      "url": "https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-08T17:51:51.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
     {
       "title": "After a yearslong slump, China's real estate market may be set for a turnaround",
       "summary": "BEIJING — An end is in sight for China's yearslong property market slump, S&P Global Ratings analysts said in a report distributed Thursday.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-08T09:27:31.000Z",
       "why": null,
-      "ago": "45 分鐘前"
+      "ago": "10 小時前"
     },
     {
       "title": "Huawei doubles down on smartphones as EV sales slow",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-10-08T08:04:11.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
@@ -37,84 +48,73 @@
       "group": null,
       "published": "2026-10-07T18:42:36.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
-      "summary": "SINGAPORE — The technology that investors and governments are counting on to lift the global economy is also adding pressure that threatens growth, the head of the International Monetary Fund said, urging policymakers to stop delaying painful choices on debt.",
-      "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-07T06:16:39.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
-      "summary": "Inflation fears intensified in September, pushing the near-term outlook in the New York Federal Reserve's monthly survey to its highest level in nearly 3½ years.",
-      "url": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+      "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+      "summary": "The cost of many everyday items would have declined last year and early this year without President Donald Trump 's tariffs, according to the New York Federal Reserve .",
+      "url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-10-07T18:44:36.000Z",
+      "published": "2026-10-08T17:31:03.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "ICE came to town and left behind weakened economies",
-      "summary": "MINNEAPOLIS — Operation Metro Surge has been over for months. The same can't be said for the crisis facing Daniel Hernandez's Colonial Market grocery stores.",
-      "url": "https://www.cnbc.com/2026/10/07/ice-raids-local-economies.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-07T12:24:32.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
-      "summary": "The Reserve Bank of India on Wednesday raised interest rates for the first time since 2023, joining several major central banks in tightening monetary policy to arrest accelerating inflation.",
-      "url": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-07T11:55:36.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Samsung just did something no tech company has ever done, and investors still aren’t satisfied",
+      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/samsung-just-did-something-no-tech-company-has-ever-done-and-investors-still-arent-satisfied-3ff5ecb2?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-08T09:50:00.000Z",
+      "published": "2026-10-08T19:00:00.000Z",
       "why": null,
-      "ago": "22 分鐘前"
+      "ago": "3 分鐘前"
     },
     {
-      "title": "Oil prices are jumping again. How the S&P 500 has performed on days crude has seen big gains may be surprising.",
+      "title": "The options market is reminding investors there’s a cure for rising bond yields — higher yields",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/oil-prices-are-jumping-again-how-the-s-p-500-has-performed-on-days-crude-has-seen-big-gains-may-be-surprising-283555c1?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-options-market-is-reminding-investors-theres-a-cure-for-rising-bond-yields-higher-yields-2dcac640?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-08T09:33:00.000Z",
+      "published": "2026-10-08T18:51:00.000Z",
       "why": null,
-      "ago": "39 分鐘前"
+      "ago": "12 分鐘前"
     },
     {
-      "title": "French bonds are suffering through their worst decade since 1803 — and investors are bracing for more pain",
+      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-08T09:32:00.000Z",
+      "published": "2026-10-08T18:30:00.000Z",
       "why": null,
-      "ago": "40 分鐘前"
+      "ago": "33 分鐘前"
+    },
+    {
+      "title": "Bond yields fell, as the Treasury market passed a crucial test of investor confidence",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-08T18:19:00.000Z",
+      "why": null,
+      "ago": "44 分鐘前"
+    },
+    {
+      "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-08T18:08:00.000Z",
+      "why": null,
+      "ago": "55 分鐘前"
     }
   ],
   "errors": [
