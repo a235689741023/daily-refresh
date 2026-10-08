@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-07T19:06:38.112Z",
-  "updatedLocal": "2026/10/8 03:06:38",
+  "updated": "2026-10-08T02:06:11.480Z",
+  "updatedLocal": "2026/10/8 10:06:11",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-07T18:42:36.000Z",
       "why": null,
-      "ago": "24 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-10-07T06:16:39.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
@@ -36,28 +36,6 @@
       "tag": "大盤",
       "group": null,
       "published": "2026-10-06T22:23:01.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "How event contract bundles are boosting volume on prediction markets",
-      "summary": "The growing popularity of a combo contracts on prediction markets is leading to soaring volumes, even as they makes up only a small amount of total activity on the platforms.",
-      "url": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-06T18:46:16.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
-      "summary": "Trading volumes for certain products on prediction market platforms Kalshi and Polymarket are raising questions from some industry observers, who fear the numbers may be inflated.",
-      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-06T18:41:32.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -70,7 +48,7 @@
       "group": null,
       "published": "2026-10-07T18:44:36.000Z",
       "why": null,
-      "ago": "22 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "ICE came to town and left behind weakened economies",
@@ -81,7 +59,7 @@
       "group": null,
       "published": "2026-10-07T12:24:32.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
@@ -92,7 +70,7 @@
       "group": null,
       "published": "2026-10-07T11:55:36.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
@@ -103,18 +81,40 @@
       "group": null,
       "published": "2026-10-07T03:00:22.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "Stocks are increasingly their own best hedge. This chart shows why.",
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/stocks-are-increasingly-their-own-best-hedge-this-chart-shows-why-19a79b68?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-07T18:31:00.000Z",
+      "published": "2026-10-08T02:00:00.000Z",
       "why": null,
-      "ago": "36 分鐘前"
+      "ago": "6 分鐘前"
+    },
+    {
+      "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-08T01:45:00.000Z",
+      "why": null,
+      "ago": "21 分鐘前"
+    },
+    {
+      "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-07T22:32:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
     }
   ],
   "errors": [

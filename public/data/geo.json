@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-07T19:06:38.112Z",
-  "updatedLocal": "2026/10/8 03:06:38",
+  "updated": "2026-10-08T02:06:11.480Z",
+  "updatedLocal": "2026/10/8 10:06:11",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
+      "summary": "Global Product Partnerships Director at Google Maps & Waze As the cost of living continues to rise, managing expenses has never been more critical.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/",
+      "source": "Google Maps Blog",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-10-08T00:01:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
       "summary": "Arbaaz Muslim, Software Engineer, Google Research, and Gautam Prasad, Software Engineer, Google Research With Google Earth AI’s Population Dynamics Foundation Model (PDFM), we can address the data gaps and temporal reporting lags of existing epidemiological workflows.",
@@ -24,9 +35,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-07T18:01:48.000Z",
+      "published": "2026-10-07T18:06:12.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Claude Haiku 5.5 System Card",
@@ -37,7 +48,7 @@
       "group": "ai",
       "published": "2026-10-07T17:55:52.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Helping teens learn, plan, and shape the future of AI",
@@ -48,7 +59,7 @@
       "group": "ai",
       "published": "2026-10-07T12:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-07T07:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "GPT-6 and Intelligent UI for everyone",
@@ -70,18 +81,18 @@
       "group": "ai",
       "published": "2026-10-07T00:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Expanding the Cyber Verification Program",
-      "summary": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
-      "url": "https://www.anthropic.com/news/cyber-verification-program",
-      "source": "Anthropic",
+      "title": "Introducing Playground: Create and play custom games",
+      "summary": "If you can think it, you can play it. Create, play, and share custom games — no coding required.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source": "Google AI Blog",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-06T19:00:00.000Z",
+      "published": "2026-10-07T12:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "14 小時前"
     }
   ],
   "errors": [
