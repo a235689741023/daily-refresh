@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-08T02:06:11.480Z",
-  "updatedLocal": "2026/10/8 10:06:11",
+  "updated": "2026-10-08T10:12:19.372Z",
+  "updatedLocal": "2026/10/8 18:12:19",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "An Introduction to Python in Excel with ArcGIS for Excel",
+      "summary": "In this Blog post, I’ll show how ArcGIS for Excel, Python in Excel, Machine learning models and Excel can work together and turn Excel data into decision making.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-for-excel/announcements/an-introduction-to-python-in-excel-with-arcgis-for-excel",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-10-07T02:02:38.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
     {
       "title": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
       "summary": "Global Product Partnerships Director at Google Maps & Waze As the cost of living continues to rise, managing expenses has never been more critical.",
@@ -15,7 +26,29 @@
       "group": "gis",
       "published": "2026-10-08T00:01:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
+    },
+    {
+      "title": "Geospatial World Becomes EuroGeographics’ First Observer Member",
+      "summary": null,
+      "url": "https://geospatialworld.net/news/geospatial-world-becomes-eurogeographics-first-observer-member/",
+      "source": "Geospatial World",
+      "tag": "產業",
+      "group": "gis",
+      "published": "2026-10-08T09:06:43.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "From Data Deluge to Decision: Dr Abhay Swarup Mittal on Building Sovereign Intelligence at Aetosky",
+      "summary": null,
+      "url": "https://geospatialworld.net/videos/exclusive-videos-interviews/from-data-deluge-to-decision-dr-abhay-swarup-mittal-on-building-sovereign-intelligence-at-aetosky/",
+      "source": "Geospatial World",
+      "tag": "產業",
+      "group": "gis",
+      "published": "2026-10-08T08:47:49.000Z",
+      "why": null,
+      "ago": "1 小時前"
     },
     {
       "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
@@ -26,7 +59,7 @@
       "group": "gis",
       "published": "2026-10-06T15:06:15.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Introducing Claude Haiku 5.5",
@@ -37,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-07T18:06:12.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Claude Haiku 5.5 System Card",
@@ -48,7 +81,7 @@
       "group": "ai",
       "published": "2026-10-07T17:55:52.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Helping teens learn, plan, and shape the future of AI",
@@ -59,7 +92,7 @@
       "group": "ai",
       "published": "2026-10-07T12:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
@@ -70,36 +103,30 @@
       "group": "ai",
       "published": "2026-10-07T07:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "summary": "Last month we introduced the first GPT‑6 models for paid customers and today we're bringing that next generation of intelligence to more people with a new GPT‑6 model built for more than 1.2 billion people who use ChatGPT each week.",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-07T00:00:00.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Introducing Playground: Create and play custom games",
-      "summary": "If you can think it, you can play it. Create, play, and share custom games — no coding required.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "source": "Google AI Blog",
-      "tag": "模型",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine , a non-profit research foundation that creates and supports content about how technology and science are changing the way we live.",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-10-07T12:00:00.000Z",
+      "published": "2026-10-08T09:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Building a safer path to autonomous industrial AI",
+      "summary": "Industrial AI is entering a new phase.",
+      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-10-08T08:17:32.000Z",
+      "why": null,
+      "ago": "2 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "Geospatial World",
-      "url": "https://geospatialworld.net/feed/",
-      "message": "This operation was aborted"
-    }
-  ]
+  "errors": []
 }
