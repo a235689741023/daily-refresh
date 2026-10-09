@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-08T19:02:48.960Z",
-  "updatedLocal": "2026/10/9 03:02:48",
+  "updated": "2026-10-09T02:20:22.040Z",
+  "updatedLocal": "2026/10/9 10:20:22",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+      "summary": "Tokenization could free up tens of billions of dollars in capital tied up in assets used as collateral across the global financial system, Nasdaq CEO Adena Friedman said.",
+      "url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-08T23:57:23.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
       "summary": "Affordability is seen as one of voters' top issues heading into the 2026 midterm elections .",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-08T17:51:51.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "After a yearslong slump, China's real estate market may be set for a turnaround",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-10-08T09:27:31.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Huawei doubles down on smartphones as EV sales slow",
@@ -37,18 +48,7 @@
       "group": null,
       "published": "2026-10-08T08:04:11.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
-      "summary": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
-      "url": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-07T18:42:36.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "18 小時前"
     },
     {
       "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
@@ -59,7 +59,51 @@
       "group": null,
       "published": "2026-10-08T17:31:03.000Z",
       "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-09T00:52:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-09T00:03:00.000Z",
+      "why": null,
       "ago": "2 小時前"
+    },
+    {
+      "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-08T23:14:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-08T22:08:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
@@ -68,53 +112,9 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-08T19:00:00.000Z",
+      "published": "2026-10-08T22:00:00.000Z",
       "why": null,
-      "ago": "3 分鐘前"
-    },
-    {
-      "title": "The options market is reminding investors there’s a cure for rising bond yields — higher yields",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-options-market-is-reminding-investors-theres-a-cure-for-rising-bond-yields-higher-yields-2dcac640?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-08T18:51:00.000Z",
-      "why": null,
-      "ago": "12 分鐘前"
-    },
-    {
-      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-08T18:30:00.000Z",
-      "why": null,
-      "ago": "33 分鐘前"
-    },
-    {
-      "title": "Bond yields fell, as the Treasury market passed a crucial test of investor confidence",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-08T18:19:00.000Z",
-      "why": null,
-      "ago": "44 分鐘前"
-    },
-    {
-      "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-08T18:08:00.000Z",
-      "why": null,
-      "ago": "55 分鐘前"
+      "ago": "4 小時前"
     }
   ],
   "errors": [
