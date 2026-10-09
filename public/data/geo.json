@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-09T10:13:31.300Z",
-  "updatedLocal": "2026/10/9 18:13:31",
+  "updated": "2026-10-09T18:33:25.928Z",
+  "updatedLocal": "2026/10/10 02:33:25",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-08T12:00:00.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Google Maps reveals the top food trends and popular restaurants across 10 cities",
@@ -26,7 +26,18 @@
       "group": "gis",
       "published": "2026-10-08T12:00:00.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
+      "summary": "Global Product Partnerships Director at Google Maps & Waze As the cost of living continues to rise, managing expenses has never been more critical.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/",
+      "source": "Google Maps Blog",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-10-08T00:01:00.000Z",
+      "why": null,
+      "ago": "2 天前"
     },
     {
       "title": "Geospatial World Becomes EuroGeographics’ First Observer Member",
@@ -51,17 +62,6 @@
       "ago": "昨日"
     },
     {
-      "title": "Using Claude Science to produce the first complete map of the sky in UV light",
-      "summary": "Here, Brice Ménard, an astrophysicist at Johns Hopkins University and a researcher at Anthropic, explains how he worked with Claude Science to produce the first complete map of the sky in UV light.",
-      "url": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-08T20:59:00.000Z",
-      "why": null,
-      "ago": "13 小時前"
-    },
-    {
       "title": "Launching an opt-in vulnerability-finding service for open-source software",
       "summary": "We’re launching OSS Scanner , an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing .",
       "url": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
@@ -70,29 +70,18 @@
       "group": "ai",
       "published": "2026-10-08T19:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "24 小時前"
     },
     {
-      "title": "2026 Usage Policy update",
-      "summary": "Each year, Anthropic updates its Usage Policy in response to the evolving capabilities of our models, and the feedback we’ve received from our customers.",
-      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "title": "Using Claude Science to produce the first complete map of the sky in UV light",
+      "summary": "Here, Brice Ménard, an astrophysicist at Johns Hopkins University and a researcher at Anthropic, explains how he worked with Claude Science to produce the first complete map of the sky in UV light.",
+      "url": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-08T17:00:00.000Z",
+      "published": "2026-10-08T20:59:00.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Building on our commitment to American scientific discovery",
-      "summary": "Anthropic is deepening its support for American scientific research by committing $150 million over three years to the Genesis Mission , a federal initiative to accelerate scientific and technological discovery through AI.",
-      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-08T13:00:00.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "OSS Scanner",
@@ -103,7 +92,7 @@
       "group": "ai",
       "published": "2026-10-08T22:15:40.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "PDF version of 2026 Usage Policy - Google Docs",
@@ -114,7 +103,29 @@
       "group": "ai",
       "published": "2026-10-09T00:55:20.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "OSS Scanner Terms & Conditions",
+      "summary": "1. Generally. Participant will provide Anthropic with the source code from a submitted open-source project approved in writing by Anthropic for the Service (each, a “ Project ”).",
+      "url": "https://red.anthropic.com/oss-scanner/terms/",
+      "source": "Frontier Red Team",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-08T23:34:44.000Z",
+      "why": null,
+      "ago": "19 小時前"
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "summary": "With OpenAI Daybreak, Sophos combines frontier intelligence with cybersecurity expertise to investigate threats faster and protect customers at scale.",
+      "url": "https://openai.com/index/sophos",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-09T07:00:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
     }
   ],
   "errors": []

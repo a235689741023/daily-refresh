@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-09T10:13:31.300Z",
-  "updatedLocal": "2026/10/9 18:13:31",
+  "updated": "2026-10-09T18:33:25.928Z",
+  "updatedLocal": "2026/10/10 02:33:25",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
+      "summary": "Blockchain.com, a digital asset platform, wants to get in on the prediction market boom in the U.S. The company has filed for two licenses with the Commodity Futures Trading Commission to feature event contracts as well as cryptocurrency derivatives to retail and institutional customers in the U.S., Blockchain.com told CNBC.",
+      "url": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-09T12:01:26.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
       "summary": "Tokenization could free up tens of billions of dollars in capital tied up in assets used as collateral across the global financial system, Nasdaq CEO Adena Friedman said.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-09T06:30:01.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
@@ -26,95 +37,84 @@
       "group": null,
       "published": "2026-10-08T17:51:51.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "After a yearslong slump, China's real estate market may be set for a turnaround",
-      "summary": "BEIJING — An end is in sight for China's yearslong property market slump, S&P Global Ratings analysts said in a report distributed Thursday.",
-      "url": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-08T09:27:31.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Huawei doubles down on smartphones as EV sales slow",
-      "summary": "BEIJING — Faced with a slowdown in the smartphone and car markets, Huawei's consumer business is choosing to focus on phones with homegrown chips.",
-      "url": "https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-08T08:04:11.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
-      "summary": "The cost of many everyday items would have declined last year and early this year without President Donald Trump 's tariffs, according to the New York Federal Reserve .",
-      "url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+      "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+      "summary": "The ability of U.S. families to stay current on their debts worsened over the past three years, hitting levels not seen since the aftermath of the global financial crisis, the Federal Reserve reported Friday.",
+      "url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-10-08T17:31:03.000Z",
+      "published": "2026-10-09T16:10:41.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
+      "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
+      "summary": "Judy Shelton, whose controversial economic ideas led the Senate to block her nomination to the Federal Reserve, has been appointed a counselor to Treasury Secretary Scott Bessent.",
+      "url": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-10-09T10:04:00.000Z",
+      "published": "2026-10-09T13:09:19.000Z",
       "why": null,
-      "ago": "10 分鐘前"
+      "ago": "5 小時前"
     },
     {
-      "title": "‘I feel like a loser’: My ETFs go up one day and crash the next. Is this a bad sign?",
+      "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
       "summary": null,
       "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-09T09:15:00.000Z",
+      "published": "2026-10-09T18:30:00.000Z",
       "why": null,
-      "ago": "59 分鐘前"
+      "ago": "3 分鐘前"
     },
     {
-      "title": "Why the price of this one ETF has gone exponential",
+      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/why-the-price-of-this-one-exchange-traded-fund-has-suddenly-gone-exponential-7ef3d93d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-09T09:12:00.000Z",
+      "published": "2026-10-09T18:16:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "17 分鐘前"
     },
     {
-      "title": "Jelly Roll and Bunnie Xo set to sell $7 million Tennessee home he gave her in divorce",
+      "title": "Microsoft is nearing a big milestone that solidifies its revival",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/jelly-roll-and-bunnie-xo-set-to-sell-7-million-tennessee-home-he-gave-her-in-divorce-85dcb7c3?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-09T08:58:00.000Z",
+      "published": "2026-10-09T18:06:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "27 分鐘前"
     },
     {
-      "title": "Why one Wall Street firm sees parallels to the late 1970s and recommends shorting U.S. stocks",
+      "title": "Why you need to take a closer look at your favorite stock index",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/why-one-wall-street-firm-sees-parallels-to-the-late-1970s-and-recommends-shorting-u-s-stocks-bbd0ebd2?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/why-you-need-to-take-a-closer-look-at-your-favorite-stock-index-479fb494?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-09T08:49:00.000Z",
+      "published": "2026-10-09T18:04:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "29 分鐘前"
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-09T18:00:00.000Z",
+      "why": null,
+      "ago": "33 分鐘前"
     }
   ],
   "errors": [
