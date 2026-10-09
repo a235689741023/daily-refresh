@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-09T02:20:22.040Z",
-  "updatedLocal": "2026/10/9 10:20:22",
+  "updated": "2026-10-09T10:13:31.300Z",
+  "updatedLocal": "2026/10/9 18:13:31",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-08T12:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Google Maps reveals the top food trends and popular restaurants across 10 cities",
@@ -26,84 +26,29 @@
       "group": "gis",
       "published": "2026-10-08T12:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "An Introduction to Python in Excel with ArcGIS for Excel",
-      "summary": "In this Blog post, I’ll show how ArcGIS for Excel, Python in Excel, Machine learning models and Excel can work together and turn Excel data into decision making.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-for-excel/announcements/an-introduction-to-python-in-excel-with-arcgis-for-excel",
-      "source": "Esri",
-      "tag": "平台",
+      "title": "Geospatial World Becomes EuroGeographics’ First Observer Member",
+      "summary": null,
+      "url": "https://geospatialworld.net/news/geospatial-world-becomes-eurogeographics-first-observer-member/",
+      "source": "Geospatial World",
+      "tag": "產業",
       "group": "gis",
-      "published": "2026-10-07T02:02:38.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
-      "summary": "Global Product Partnerships Director at Google Maps & Waze As the cost of living continues to rise, managing expenses has never been more critical.",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/",
-      "source": "Google Maps Blog",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-10-08T00:01:00.000Z",
+      "published": "2026-10-08T09:06:43.000Z",
       "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
-      "summary": "Arbaaz Muslim, Software Engineer, Google Research, and Gautam Prasad, Software Engineer, Google Research With Google Earth AI’s Population Dynamics Foundation Model (PDFM), we can address the data gaps and temporal reporting lags of existing epidemiological workflows.",
-      "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
-      "source": "Google Research",
-      "tag": "研究",
+      "title": "From Data Deluge to Decision: Dr Abhay Swarup Mittal on Building Sovereign Intelligence at Aetosky",
+      "summary": null,
+      "url": "https://geospatialworld.net/videos/exclusive-videos-interviews/from-data-deluge-to-decision-dr-abhay-swarup-mittal-on-building-sovereign-intelligence-at-aetosky/",
+      "source": "Geospatial World",
+      "tag": "產業",
       "group": "gis",
-      "published": "2026-10-06T15:06:15.000Z",
+      "published": "2026-10-08T08:47:49.000Z",
       "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Introducing the Anthropic Cyber Mission",
-      "summary": "Today we’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.",
-      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-08T09:04:16.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Launching an opt-in vulnerability-finding service for open-source software",
-      "summary": "We’re launching OSS Scanner , an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing .",
-      "url": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-08T19:00:00.000Z",
-      "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "2026 Usage Policy update",
-      "summary": "Each year, Anthropic updates its Usage Policy in response to the evolving capabilities of our models, and the feedback we’ve received from our customers.",
-      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-08T17:00:00.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "Building on our commitment to American scientific discovery",
-      "summary": "Anthropic is deepening its support for American scientific research by committing $150 million over three years to the Genesis Mission , a federal initiative to accelerate scientific and technological discovery through AI.",
-      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-08T13:00:00.000Z",
-      "why": null,
-      "ago": "13 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Using Claude Science to produce the first complete map of the sky in UV light",
@@ -114,7 +59,40 @@
       "group": "ai",
       "published": "2026-10-08T20:59:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
+    },
+    {
+      "title": "Launching an opt-in vulnerability-finding service for open-source software",
+      "summary": "We’re launching OSS Scanner , an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing .",
+      "url": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-08T19:00:00.000Z",
+      "why": null,
+      "ago": "15 小時前"
+    },
+    {
+      "title": "2026 Usage Policy update",
+      "summary": "Each year, Anthropic updates its Usage Policy in response to the evolving capabilities of our models, and the feedback we’ve received from our customers.",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-08T17:00:00.000Z",
+      "why": null,
+      "ago": "17 小時前"
+    },
+    {
+      "title": "Building on our commitment to American scientific discovery",
+      "summary": "Anthropic is deepening its support for American scientific research by committing $150 million over three years to the Genesis Mission , a federal initiative to accelerate scientific and technological discovery through AI.",
+      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-08T13:00:00.000Z",
+      "why": null,
+      "ago": "21 小時前"
     },
     {
       "title": "OSS Scanner",
@@ -123,16 +101,21 @@
       "source": "Frontier Red Team",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-08T22:22:12.000Z",
+      "published": "2026-10-08T22:15:40.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "PDF version of 2026 Usage Policy - Google Docs",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/6ae2f5bb8675bcd9fac006125817ba1393b396e4.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-09T00:55:20.000Z",
+      "why": null,
+      "ago": "9 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "Geospatial World",
-      "url": "https://geospatialworld.net/feed/",
-      "message": "This operation was aborted"
-    }
-  ]
+  "errors": []
 }

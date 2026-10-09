@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-09T02:20:22.040Z",
-  "updatedLocal": "2026/10/9 10:20:22",
+  "updated": "2026-10-09T10:13:31.300Z",
+  "updatedLocal": "2026/10/9 18:13:31",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "ONE WEEK LEFT to nominate for edie’s 30 Under 30 Class of 2027",
+      "summary": "Know a young professional making an impact and driving sustainable progress in their business? Nominations for edie’s 30 Under 30 Class of 2027 close on 16 October.",
+      "url": "https://www.edie.net/one-week-left-to-nominate-for-edies-30-under-30-class-of-2027/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-09T03:15:29.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "Reactive vs proactive: Is sustainability stuck in defence mode?",
       "summary": "Despite the fact that climate risks are on the rise and proving increasingly disruptive for companies, on the whole, businesses still prioritise firefighting over more forward-looking measures, new research has found.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-08T17:39:18.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Wildlife populations have dropped 73% since 1970, WWF finds",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-10-08T15:14:11.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "edie Energy & Tech Awards 2026: Meet the Finalists",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-10-08T14:45:40.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Nike and Patagonia among founder members of new alliance to reduce microfibres",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-10-08T13:43:59.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Study: 95% of SMEs making environmental progress, but emissions action lags",
@@ -59,7 +70,29 @@
       "group": null,
       "published": "2026-10-08T11:40:13.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "Factcheck: UK Conservatives double the ‘cost of net-zero’ after spreadsheet blunder",
+      "summary": "A booklet published by the UK’s opposition Conservative party includes a “cost of net-zero” that appears to have been doubled by a spreadsheet error.",
+      "url": "https://www.carbonbrief.org/factcheck-uk-conservatives-double-the-cost-of-net-zero-after-spreadsheet-blunder",
+      "source": "Carbon Brief",
+      "tag": "氣候",
+      "group": null,
+      "published": "2026-10-09T06:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "The UK's new ISSB-based sustainability reporting rules for listed companies",
+      "summary": "This blog was originally published on 3 February 2026 and updated on 8 October 2026.",
+      "url": "https://www.freshfields.com/en/our-thinking/blogs/sustainability/the-uks-new-issb-based-sustainability-reporting-rules-for-listed-companies-102mgi4",
+      "source": "Freshfields",
+      "tag": "法規",
+      "group": null,
+      "published": "2026-10-08T15:24:10.000Z",
+      "why": null,
+      "ago": "19 小時前"
     },
     {
       "title": "What ISO 14001:2026 means for the future of environmental management",
@@ -70,7 +103,7 @@
       "group": null,
       "published": "2026-10-08T09:36:47.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
       "title": "NEXT WEEK: Connecting existing sustainability reporting with UK SRS",
@@ -81,40 +114,7 @@
       "group": null,
       "published": "2026-10-08T09:23:07.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "自備環保餐具逛夜市換好市券、韓公布7470億美元能源轉型計畫、美電動車充電站擬化身算力中心",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243953",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-08T02:29:47.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "夏天森林常見的薄翅蟬",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243954",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-08T05:49:58.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "I'm ugly and I'm proud – How does the \"World's Ugliest Lawn Contest\" break echo chambers and spark a sustainability trend?",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243920",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-08T02:29:47.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

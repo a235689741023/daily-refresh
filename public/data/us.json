@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-09T02:20:22.040Z",
-  "updatedLocal": "2026/10/9 10:20:22",
+  "updated": "2026-10-09T10:13:31.300Z",
+  "updatedLocal": "2026/10/9 18:13:31",
   "digest": null,
   "watch": [],
   "items": [
@@ -13,9 +13,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-08T23:57:23.000Z",
+      "published": "2026-10-09T06:30:01.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "4 小時前"
     },
     {
       "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-10-08T17:51:51.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "After a yearslong slump, China's real estate market may be set for a turnaround",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-10-08T09:27:31.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Huawei doubles down on smartphones as EV sales slow",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-10-08T08:04:11.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
@@ -59,62 +59,62 @@
       "group": null,
       "published": "2026-10-08T17:31:03.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
+      "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-09T00:52:00.000Z",
+      "published": "2026-10-09T10:04:00.000Z",
+      "why": null,
+      "ago": "10 分鐘前"
+    },
+    {
+      "title": "‘I feel like a loser’: My ETFs go up one day and crash the next. Is this a bad sign?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-09T09:15:00.000Z",
+      "why": null,
+      "ago": "59 分鐘前"
+    },
+    {
+      "title": "Why the price of this one ETF has gone exponential",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/why-the-price-of-this-one-exchange-traded-fund-has-suddenly-gone-exponential-7ef3d93d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-09T09:12:00.000Z",
       "why": null,
       "ago": "1 小時前"
     },
     {
-      "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+      "title": "Jelly Roll and Bunnie Xo set to sell $7 million Tennessee home he gave her in divorce",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/jelly-roll-and-bunnie-xo-set-to-sell-7-million-tennessee-home-he-gave-her-in-divorce-85dcb7c3?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-09T00:03:00.000Z",
+      "published": "2026-10-09T08:58:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "1 小時前"
     },
     {
-      "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
+      "title": "Why one Wall Street firm sees parallels to the late 1970s and recommends shorting U.S. stocks",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/why-one-wall-street-firm-sees-parallels-to-the-late-1970s-and-recommends-shorting-u-s-stocks-bbd0ebd2?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-08T23:14:00.000Z",
+      "published": "2026-10-09T08:49:00.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-08T22:08:00.000Z",
-      "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-08T22:00:00.000Z",
-      "why": null,
-      "ago": "4 小時前"
+      "ago": "1 小時前"
     }
   ],
   "errors": [
