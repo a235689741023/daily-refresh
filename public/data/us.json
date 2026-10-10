@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-10T09:34:37.319Z",
-  "updatedLocal": "2026/10/10 17:34:37",
+  "updated": "2026-10-10T17:30:16.590Z",
+  "updatedLocal": "2026/10/11 01:30:16",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+      "summary": "J.P. Morgan Asset Management is making a bullish call on an underinvested market group: high-quality fixed income.",
+      "url": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-10T15:00:01.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
       "summary": "Blockchain.com, a digital asset platform, wants to get in on the prediction market boom in the U.S. The company has filed for two licenses with the Commodity Futures Trading Commission to feature event contracts as well as cryptocurrency derivatives to retail and institutional customers in the U.S., Blockchain.com told CNBC.",
@@ -14,17 +25,6 @@
       "tag": "大盤",
       "group": null,
       "published": "2026-10-09T12:01:26.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-      "summary": "Tokenization could free up tens of billions of dollars in capital tied up in assets used as collateral across the global financial system, Nasdaq CEO Adena Friedman said.",
-      "url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-09T06:30:01.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -37,29 +37,29 @@
       "group": null,
       "published": "2026-10-09T19:18:24.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
-      "summary": "Judy Shelton, whose controversial economic ideas led the Senate to block her nomination to the Federal Reserve, has been appointed a counselor to Treasury Secretary Scott Bessent.",
-      "url": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-09T13:09:19.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
+      "title": "Elon Musk is now richer than any American ever — and it’s not even close",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-10T03:15:00.000Z",
+      "published": "2026-10-10T16:50:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "40 分鐘前"
+    },
+    {
+      "title": "A friend in her 80s fell down her basement stairs. Is this a hidden danger lurking in people’s home?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-10T16:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
@@ -68,53 +68,53 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-10T00:15:00.000Z",
+      "published": "2026-10-10T15:30:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-09T23:15:00.000Z",
+      "published": "2026-10-10T15:05:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "How to provide guaranteed retirement income while paying no commissions",
+      "title": "Flu season is already here. Here’s what to know about this year’s flu shots.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/flu-season-is-already-here-heres-what-to-know-about-this-years-flu-shots-58aeb705?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-09T22:41:00.000Z",
+      "published": "2026-10-10T13:19:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "4 小時前"
     },
     {
-      "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
+      "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-09T22:00:00.000Z",
+      "published": "2026-10-10T13:15:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "4 小時前"
     },
     {
-      "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
+      "title": "Winter is coming and energy bills are climbing. ‘Everything just keeps going up.’",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/winter-is-coming-and-energy-bills-are-climbing-everything-just-keeps-going-up-983cfd2d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-09T21:30:00.000Z",
+      "published": "2026-10-10T13:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "5 小時前"
     }
   ],
   "errors": [

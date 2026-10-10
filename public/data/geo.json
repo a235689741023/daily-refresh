@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-10T09:34:37.319Z",
-  "updatedLocal": "2026/10/10 17:34:37",
+  "updated": "2026-10-10T17:30:16.590Z",
+  "updatedLocal": "2026/10/11 01:30:16",
   "digest": null,
   "watch": [],
   "items": [
@@ -37,7 +37,7 @@
       "group": "gis",
       "published": "2026-10-08T00:01:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "Geospatial World Becomes EuroGeographics’ First Observer Member",
@@ -70,39 +70,6 @@
       "group": "ai",
       "published": "2026-10-09T16:09:00.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "summary": "With OpenAI Daybreak, Sophos combines frontier intelligence with cybersecurity expertise to investigate threats faster and protect customers at scale.",
-      "url": "https://openai.com/index/sophos",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-09T07:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "summary": "Using GPT‑6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-09T07:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience.",
-      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-10-09T09:00:00.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
@@ -114,7 +81,7 @@
       "group": "ai",
       "published": "2026-10-09T18:21:42.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Senator Murray pushes for AI safety guardrails amid growing risks",
@@ -125,7 +92,40 @@
       "group": "ai",
       "published": "2026-10-09T22:36:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
+    },
+    {
+      "title": "UK AI safety law to stop ‘loss of control’ over autonomous agents",
+      "summary": null,
+      "url": "https://www.thetimes.com/uk/technology-uk/article/uk-ai-safety-law-stop-loss-control-wbwp6ls6p",
+      "source": "The Times",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-09T17:51:24.000Z",
+      "why": null,
+      "ago": "24 小時前"
+    },
+    {
+      "title": "China’s new development plan includes AI safety goals: Xinhua",
+      "summary": "A new broad set of economic development guidelines adopted by Chinese leadership includes demands for establishing artificial intelligence safeguards while expanding the use of AI across industries, state news agency Xinhua reported Friday.",
+      "url": "https://macaubusiness.com/eu-slams-us-sanctions-on-icc-vows-to-help-court-keep-working/",
+      "source": "Macau Business",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-09T20:23:35.000Z",
+      "why": null,
+      "ago": "21 小時前"
+    },
+    {
+      "title": "EU Tech Chief: Robust AI Act Shields Bloc from Rogue AI Threats - Global Banking & Finance Review",
+      "summary": "Published by Global Banking & Finance Review BRUSSELS, Oct 9 (Reuters) - European Union rules setting guardrails on AI use adopted by the bloc two years ago are more than capable of tackling rogue agents, EU tech chief Henna Virkkunen told Reuters on Friday.",
+      "url": "https://www.globalbankingandfinance.com/eu-tech-chief-bloc-well-equipped-fend-off-rogue-ai-risk/",
+      "source": "AI 政策",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-09T16:46:07.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []
