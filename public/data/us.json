@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-10T01:49:47.189Z",
-  "updatedLocal": "2026/10/10 09:49:47",
+  "updated": "2026-10-10T09:34:37.319Z",
+  "updatedLocal": "2026/10/10 17:34:37",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-09T12:01:26.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-10-09T06:30:01.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-10-09T19:18:24.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
@@ -48,7 +48,18 @@
       "group": null,
       "published": "2026-10-09T13:09:19.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
+    },
+    {
+      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-10T03:15:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
@@ -59,18 +70,7 @@
       "group": null,
       "published": "2026-10-10T00:15:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-10T00:00:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-10-09T23:15:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "How to provide guaranteed retirement income while paying no commissions",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-10-09T22:41:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
@@ -103,7 +103,7 @@
       "group": null,
       "published": "2026-10-09T22:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-10-09T21:30:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     }
   ],
   "errors": [

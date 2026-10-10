@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-10T01:49:47.189Z",
-  "updatedLocal": "2026/10/10 09:49:47",
+  "updated": "2026-10-10T09:34:37.319Z",
+  "updatedLocal": "2026/10/10 17:34:37",
   "digest": null,
   "watch": [],
   "items": [
@@ -25,6 +25,17 @@
       "tag": "平台",
       "group": "gis",
       "published": "2026-10-08T12:00:00.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
+      "summary": "Global Product Partnerships Director at Google Maps & Waze As the cost of living continues to rise, managing expenses has never been more critical.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/",
+      "source": "Google Maps Blog",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-10-08T00:01:00.000Z",
       "why": null,
       "ago": "2 天前"
     },
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-09T16:09:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
@@ -70,7 +81,7 @@
       "group": "ai",
       "published": "2026-10-09T07:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
@@ -81,40 +92,40 @@
       "group": "ai",
       "published": "2026-10-09T07:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "PDF version of 2026 Usage Policy - Google Docs",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/6ae2f5bb8675bcd9fac006125817ba1393b396e4.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience.",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-10-09T00:55:20.000Z",
+      "published": "2026-10-09T09:00:00.000Z",
       "why": null,
       "ago": "昨日"
     },
     {
-      "title": "OSS Scanner Terms & Conditions",
-      "summary": "1. Generally. Participant will provide Anthropic with the source code from a submitted open-source project approved in writing by Anthropic for the Service (each, a “ Project ”).",
-      "url": "https://red.anthropic.com/oss-scanner/terms/",
-      "source": "Frontier Red Team",
-      "tag": "模型",
+      "title": "The Good, the Bad, and the Uncertain in Senator Cantwell’s Frontier AI Framework",
+      "summary": "On Wednesday, October 7, Sen. Maria Cantwell (D‑WA) released an outline for AI regulation that spells out six principles that she believes “must drive the legislative and executive actions needed to address catastrophic risks and other AI harms.",
+      "url": "https://www.cato.org/blog/good-bad-uncertain-senator-cantwells-frontier-ai-framework",
+      "source": "Cato Institute",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-10-08T23:34:44.000Z",
+      "published": "2026-10-09T18:21:42.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "15 小時前"
     },
     {
-      "title": "OSS Scanner",
-      "summary": "OSS Scanner is a service by Anthropic to scan open-source repositories for security vulnerabilities.",
-      "url": "https://red.anthropic.com/oss-scanner/",
-      "source": "Frontier Red Team",
-      "tag": "模型",
+      "title": "Senator Murray pushes for AI safety guardrails amid growing risks",
+      "summary": "U.S. Senator Patty Murray predicted federal AI legislation could pass by 2027 if Democrats gain control of either chamber of Congress after the November midterm elections, but stressed that the timeline depends on political shifts.",
+      "url": "https://www.applevalleynewsnow.com/news/senator-murray-pushes-for-ai-safety-guardrails-amid-growing-risks/article_ab28f9e4-dab2-4b4c-99d7-bf34e17f3cdf.html",
+      "source": "AppleValleyNewsNow.com",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-10-08T22:15:40.000Z",
+      "published": "2026-10-09T22:36:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "11 小時前"
     }
   ],
   "errors": []
