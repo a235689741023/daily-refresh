@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-09T18:33:25.928Z",
-  "updatedLocal": "2026/10/10 02:33:25",
+  "updated": "2026-10-10T01:49:47.189Z",
+  "updatedLocal": "2026/10/10 09:49:47",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-08T12:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Google Maps reveals the top food trends and popular restaurants across 10 cities",
@@ -25,17 +25,6 @@
       "tag": "平台",
       "group": "gis",
       "published": "2026-10-08T12:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
-      "summary": "Global Product Partnerships Director at Google Maps & Waze As the cost of living continues to rise, managing expenses has never been more critical.",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/",
-      "source": "Google Maps Blog",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-10-08T00:01:00.000Z",
       "why": null,
       "ago": "2 天前"
     },
@@ -48,7 +37,7 @@
       "group": "gis",
       "published": "2026-10-08T09:06:43.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "From Data Deluge to Decision: Dr Abhay Swarup Mittal on Building Sovereign Intelligence at Aetosky",
@@ -59,62 +48,18 @@
       "group": "gis",
       "published": "2026-10-08T08:47:49.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
-      "title": "Launching an opt-in vulnerability-finding service for open-source software",
-      "summary": "We’re launching OSS Scanner , an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing .",
-      "url": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
+      "title": "Investigating unintended model actions in our evaluations and internal use",
+      "summary": "This report describes examples of unintended model actions we’ve observed during evaluations and internal use of Claude.",
+      "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-08T19:00:00.000Z",
+      "published": "2026-10-09T16:09:00.000Z",
       "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "Using Claude Science to produce the first complete map of the sky in UV light",
-      "summary": "Here, Brice Ménard, an astrophysicist at Johns Hopkins University and a researcher at Anthropic, explains how he worked with Claude Science to produce the first complete map of the sky in UV light.",
-      "url": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-08T20:59:00.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "OSS Scanner",
-      "summary": "OSS Scanner is a service by Anthropic to scan open-source repositories for security vulnerabilities.",
-      "url": "https://red.anthropic.com/oss-scanner/",
-      "source": "Frontier Red Team",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-08T22:15:40.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "PDF version of 2026 Usage Policy - Google Docs",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/6ae2f5bb8675bcd9fac006125817ba1393b396e4.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-09T00:55:20.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "OSS Scanner Terms & Conditions",
-      "summary": "1. Generally. Participant will provide Anthropic with the source code from a submitted open-source project approved in writing by Anthropic for the Service (each, a “ Project ”).",
-      "url": "https://red.anthropic.com/oss-scanner/terms/",
-      "source": "Frontier Red Team",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-08T23:34:44.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
@@ -125,7 +70,51 @@
       "group": "ai",
       "published": "2026-10-09T07:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary": "Using GPT‑6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-09T07:00:00.000Z",
+      "why": null,
+      "ago": "19 小時前"
+    },
+    {
+      "title": "PDF version of 2026 Usage Policy - Google Docs",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/6ae2f5bb8675bcd9fac006125817ba1393b396e4.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-09T00:55:20.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "OSS Scanner Terms & Conditions",
+      "summary": "1. Generally. Participant will provide Anthropic with the source code from a submitted open-source project approved in writing by Anthropic for the Service (each, a “ Project ”).",
+      "url": "https://red.anthropic.com/oss-scanner/terms/",
+      "source": "Frontier Red Team",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-08T23:34:44.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "OSS Scanner",
+      "summary": "OSS Scanner is a service by Anthropic to scan open-source repositories for security vulnerabilities.",
+      "url": "https://red.anthropic.com/oss-scanner/",
+      "source": "Frontier Red Team",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-08T22:15:40.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []

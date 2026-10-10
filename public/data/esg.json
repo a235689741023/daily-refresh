@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-09T18:33:25.928Z",
-  "updatedLocal": "2026/10/10 02:33:25",
+  "updated": "2026-10-10T01:49:47.189Z",
+  "updatedLocal": "2026/10/10 09:49:47",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-09T16:20:04.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "England suffers worst harvest on record after extreme summer weather",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-10-09T16:00:34.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "TWO WEEKS TO GO: How AI can accelerate investment in climate solutions",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-10-09T12:09:35.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Low-carbon transitional sectors prone to increased greenwashing risks, research finds",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-10-09T11:33:06.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "ON TUESDAY: Connecting existing sustainability reporting with UK SRS",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-10-09T10:23:07.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "SPEAKERS ANNOUNCED: What SMEs need to know before investing in solar",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-10-09T09:55:22.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Factcheck: UK Conservatives double the ‘cost of net-zero’ after spreadsheet blunder",
@@ -81,40 +81,40 @@
       "group": null,
       "published": "2026-10-09T06:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "Reactive vs proactive: Is sustainability stuck in defence mode?",
-      "summary": "Despite the fact that climate risks are on the rise and proving increasingly disruptive for companies, on the whole, businesses still prioritise firefighting over more forward-looking measures, new research has found.",
-      "url": "https://www.edie.net/reactive-vs-proactive-is-sustainability-stuck-in-defence-mode/",
-      "source": "edie",
+      "title": "碳排放交易制度要來了 彭啓明：台灣減碳成敗影響全球AI供應鏈淨零，台版ETS「一定要成功」",
+      "summary": null,
+      "url": "https://csrone.com/news/10141",
+      "source": "CSRone 永續智庫",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-09T04:00:00.000Z",
+      "why": null,
+      "ago": "22 小時前"
+    },
+    {
+      "title": "MacArthur Foundation Expands Impact Investment Allocation to $750 Million",
+      "summary": "The MacArthur Foundation is expanding its impact investment allocation to $750 million, increasing its dedicated capital pool by 50%.",
+      "url": "https://esgnews.com/macarthur-foundation-expands-impact-investment-allocation-to-750-million/?utm_source=rss&utm_medium=rss&utm_campaign=macarthur-foundation-expands-impact-investment-allocation-to-750-million",
+      "source": "ESG News",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-08T17:39:18.000Z",
+      "published": "2026-10-09T20:09:35.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
     },
     {
-      "title": "The UK's new ISSB-based sustainability reporting rules for listed companies",
-      "summary": "This blog was originally published on 3 February 2026 and updated on 8 October 2026.",
-      "url": "https://www.freshfields.com/en/our-thinking/blogs/sustainability/the-uks-new-issb-based-sustainability-reporting-rules-for-listed-companies-102mgi4",
-      "source": "Freshfields",
-      "tag": "法規",
-      "group": null,
-      "published": "2026-10-08T15:24:10.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Wildlife populations have dropped 73% since 1970, WWF finds",
-      "summary": "Although populations have fallen over 70% since 1970, the WWF has highlighted that transforming the world's energy, food and finance sectors would be instrumental in restoring biodiversity.",
-      "url": "https://www.edie.net/wildlife-populations-fell-73-since-1970-wwf-finds/",
-      "source": "edie",
+      "title": "SAS Appoints Isabelle Nordin as Head of Sustainability to Lead Climate Strategy",
+      "summary": "Scandinavian Airlines (SAS) has appointed Isabelle Nordin as its new Head of Sustainability, placing an experienced internal leader at the centre of its climate strategy and regulatory agenda.",
+      "url": "https://esgnews.com/sas-appoints-isabelle-nordin-as-head-of-sustainability-to-lead-climate-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=sas-appoints-isabelle-nordin-as-head-of-sustainability-to-lead-climate-strategy",
+      "source": "ESG News",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-08T15:14:11.000Z",
+      "published": "2026-10-09T19:57:43.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
     }
   ],
   "errors": []
