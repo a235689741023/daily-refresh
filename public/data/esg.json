@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-11T01:05:17.957Z",
-  "updatedLocal": "2026/10/11 09:05:17",
+  "updated": "2026-10-11T09:47:24.571Z",
+  "updatedLocal": "2026/10/11 17:47:24",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "高雄東南亞教育交流協會訪菲推動AI淨零與雙邊合作| 大學研究所| 文教",
+      "summary": "高雄市東南亞教育交流協會訪團近日訪問 菲律賓 ，拜會菲律賓大學、政府官員及教育科技團隊，推動台菲在人工智慧（AI） 淨零 、適性學習及人才培育等領域合作，盼透過教育與知識交流，促進菲律賓國家發展。協會理事長吳英明與常務理事蘇永朝，5日至9日在 馬尼拉 和拉古納省（Laguna）訪問，期間與菲律賓大學（UP）討論活化校園創新設施以及在校園建置模組化AI資料中心淨零等計畫。",
+      "url": "https://udn.com/news/story/6928/9807186",
+      "source": "UDN",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-11T01:14:57.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
     {
       "title": "Conservative climate policy blueprint under scrutiny after net-zero cost error emerges",
       "summary": "The Conservative Party’s shadow chancellor has announced plans to scrap a series of environmental and net-zero policies, including the Future Homes Standard and the Climate Change Act, as part of a wider programme of economic deregulation.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-09T16:20:04.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "England suffers worst harvest on record after extreme summer weather",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-10-09T16:00:34.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "TWO WEEKS TO GO: How AI can accelerate investment in climate solutions",
@@ -73,17 +84,6 @@
       "ago": "2 天前"
     },
     {
-      "title": "Factcheck: UK Conservatives double the ‘cost of net-zero’ after spreadsheet blunder",
-      "summary": "A booklet published by the UK’s opposition Conservative party includes a “cost of net-zero” that appears to have been doubled by a spreadsheet error.",
-      "url": "https://www.carbonbrief.org/factcheck-uk-conservatives-double-the-cost-of-net-zero-after-spreadsheet-blunder",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-10-09T06:00:00.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
       "title": "MacArthur Foundation Expands Impact Investment Allocation to $750 Million",
       "summary": "The MacArthur Foundation is expanding its impact investment allocation to $750 million, increasing its dedicated capital pool by 50%.",
       "url": "https://esgnews.com/macarthur-foundation-expands-impact-investment-allocation-to-750-million/?utm_source=rss&utm_medium=rss&utm_campaign=macarthur-foundation-expands-impact-investment-allocation-to-750-million",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-10-09T20:09:35.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "SAS Appoints Isabelle Nordin as Head of Sustainability to Lead Climate Strategy",
@@ -103,16 +103,16 @@
       "group": null,
       "published": "2026-10-09T19:57:43.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
-      "title": "碳排放交易制度要來了 彭啓明：台灣減碳成敗影響全球AI供應鏈淨零，台版ETS「一定要成功」",
-      "summary": null,
-      "url": "https://csrone.com/news/10141",
-      "source": "CSRone 永續智庫",
-      "tag": "台灣",
+      "title": "Trump’s New USDA Rules Restrict Farmers’ Access to $4.8B Energy Program",
+      "summary": "President Donald Trump’s administration is tightening access to federal renewable energy funding for American farmers.",
+      "url": "https://esgnews.com/trumps-new-usda-rules-restrict-farmers-access-to-4-8b-energy-program/?utm_source=rss&utm_medium=rss&utm_campaign=trumps-new-usda-rules-restrict-farmers-access-to-4-8b-energy-program",
+      "source": "ESG News",
+      "tag": "國際",
       "group": null,
-      "published": "2026-10-09T04:00:00.000Z",
+      "published": "2026-10-09T15:17:25.000Z",
       "why": null,
       "ago": "2 天前"
     }
