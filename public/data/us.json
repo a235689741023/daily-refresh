@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-10T17:30:16.590Z",
-  "updatedLocal": "2026/10/11 01:30:16",
+  "updated": "2026-10-11T01:05:17.957Z",
+  "updatedLocal": "2026/10/11 09:05:17",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,62 +15,95 @@
       "group": null,
       "published": "2026-10-10T15:00:01.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
-      "title": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
-      "summary": "Blockchain.com, a digital asset platform, wants to get in on the prediction market boom in the U.S. The company has filed for two licenses with the Commodity Futures Trading Commission to feature event contracts as well as cryptocurrency derivatives to retail and institutional customers in the U.S., Blockchain.com told CNBC.",
-      "url": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-09T12:01:26.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
-      "summary": "The ability of U.S. families to stay current on their debts worsened over the past three years, hitting levels not seen since the aftermath of the global financial crisis, the Federal Reserve reported Friday.",
-      "url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-09T19:18:24.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Elon Musk is now richer than any American ever — and it’s not even close",
+      "title": "Should I put my nest egg in a 30-year Treasury bond?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-10T16:50:00.000Z",
+      "published": "2026-10-10T19:44:00.000Z",
       "why": null,
-      "ago": "40 分鐘前"
+      "ago": "5 小時前"
     },
     {
-      "title": "A friend in her 80s fell down her basement stairs. Is this a hidden danger lurking in people’s home?",
+      "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-10T16:00:00.000Z",
+      "published": "2026-10-10T19:44:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "5 小時前"
     },
     {
-      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "title": "These decisions you make in your 20s — not your income — determine whether you’ll spend decades in debt or retire comfortably",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-10T15:30:00.000Z",
+      "published": "2026-10-10T19:44:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "5 小時前"
+    },
+    {
+      "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-10T19:44:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Rising interest rates: The good, the bad and the ugly for retirees",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-10T19:44:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-10T19:44:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-10T19:44:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-10T19:44:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
@@ -79,42 +112,9 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-10T15:05:00.000Z",
+      "published": "2026-10-10T18:31:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Flu season is already here. Here’s what to know about this year’s flu shots.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/flu-season-is-already-here-heres-what-to-know-about-this-years-flu-shots-58aeb705?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-10T13:19:00.000Z",
-      "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-10T13:15:00.000Z",
-      "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "Winter is coming and energy bills are climbing. ‘Everything just keeps going up.’",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/winter-is-coming-and-energy-bills-are-climbing-everything-just-keeps-going-up-983cfd2d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-10T13:00:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
+      "ago": "7 小時前"
     }
   ],
   "errors": [

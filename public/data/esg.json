@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-10T17:30:16.590Z",
-  "updatedLocal": "2026/10/11 01:30:16",
+  "updated": "2026-10-11T01:05:17.957Z",
+  "updatedLocal": "2026/10/11 09:05:17",
   "digest": null,
   "watch": [],
   "items": [
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-10-09T12:09:35.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Low-carbon transitional sectors prone to increased greenwashing risks, research finds",
@@ -48,7 +48,40 @@
       "group": null,
       "published": "2026-10-09T11:33:06.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
+    },
+    {
+      "title": "ON TUESDAY: Connecting existing sustainability reporting with UK SRS",
+      "summary": "Taking place on Tuesday 13 October, this webinar will explore how businesses can connect existing ESOS, SECR and TCFD-aligned processes with emerging UK Sustainability Reporting Standards (UK SRS).",
+      "url": "https://www.edie.net/one-week-to-go-connecting-existing-sustainability-reporting-with-uk-srs/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-09T10:23:07.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "SPEAKERS ANNOUNCED: What SMEs need to know before investing in solar",
+      "summary": "Two expert speakers have been confirmed for an upcoming edie webinar exploring how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
+      "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-09T09:55:22.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "Factcheck: UK Conservatives double the ‘cost of net-zero’ after spreadsheet blunder",
+      "summary": "A booklet published by the UK’s opposition Conservative party includes a “cost of net-zero” that appears to have been doubled by a spreadsheet error.",
+      "url": "https://www.carbonbrief.org/factcheck-uk-conservatives-double-the-cost-of-net-zero-after-spreadsheet-blunder",
+      "source": "Carbon Brief",
+      "tag": "氣候",
+      "group": null,
+      "published": "2026-10-09T06:00:00.000Z",
+      "why": null,
+      "ago": "2 天前"
     },
     {
       "title": "MacArthur Foundation Expands Impact Investment Allocation to $750 Million",
@@ -59,7 +92,7 @@
       "group": null,
       "published": "2026-10-09T20:09:35.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
       "title": "SAS Appoints Isabelle Nordin as Head of Sustainability to Lead Climate Strategy",
@@ -70,51 +103,18 @@
       "group": null,
       "published": "2026-10-09T19:57:43.000Z",
       "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Trump’s New USDA Rules Restrict Farmers’ Access to $4.8B Energy Program",
-      "summary": "President Donald Trump’s administration is tightening access to federal renewable energy funding for American farmers.",
-      "url": "https://esgnews.com/trumps-new-usda-rules-restrict-farmers-access-to-4-8b-energy-program/?utm_source=rss&utm_medium=rss&utm_campaign=trumps-new-usda-rules-restrict-farmers-access-to-4-8b-energy-program",
-      "source": "ESG News",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-09T15:17:25.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "EY Launches Climate Resilience Center in Singapore to Drive ASEAN Investment",
-      "summary": "Singapore has become the regional base for EY’s new Climate Resilience Center of Excellence (CoE), designed to help Southeast Asian businesses convert climate commitments into measurable financial and operational outcomes.",
-      "url": "https://esgnews.com/ey-launches-climate-resilience-center-in-singapore-to-drive-asean-investment/?utm_source=rss&utm_medium=rss&utm_campaign=ey-launches-climate-resilience-center-in-singapore-to-drive-asean-investment",
-      "source": "ESG News",
-      "tag": "國際",
+      "title": "碳排放交易制度要來了 彭啓明：台灣減碳成敗影響全球AI供應鏈淨零，台版ETS「一定要成功」",
+      "summary": null,
+      "url": "https://csrone.com/news/10141",
+      "source": "CSRone 永續智庫",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-10-09T15:09:12.000Z",
+      "published": "2026-10-09T04:00:00.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Amazon, Microsoft Fund German Wetland Project to Restore 750M Litres of Water",
-      "summary": "Amazon and Microsoft are financing a major groundwater replenishment project in Hesse, Germany, targeting one of Frankfurt’s most important drinking water sources.",
-      "url": "https://esgnews.com/amazon-microsoft-fund-german-wetland-project-to-restore-750m-litres-of-water/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-microsoft-fund-german-wetland-project-to-restore-750m-litres-of-water",
-      "source": "ESG News",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-09T14:57:07.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "EFRAG Appoints Kristian Koktvedgaard as Acting Sustainability Reporting Chair",
-      "summary": "The European Financial Reporting Advisory Group (EFRAG) has appointed Kristian Koktvedgaard as Acting Chair of its Sustainability Reporting Board (EFRAG SRB), effective immediately.",
-      "url": "https://esgnews.com/efrag-appoints-kristian-koktvedgaard-as-acting-sustainability-reporting-chair/?utm_source=rss&utm_medium=rss&utm_campaign=efrag-appoints-kristian-koktvedgaard-as-acting-sustainability-reporting-chair",
-      "source": "ESG News",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-09T14:47:56.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     }
   ],
   "errors": []
