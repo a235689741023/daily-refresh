@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-11T09:47:24.571Z",
-  "updatedLocal": "2026/10/11 17:47:24",
+  "updated": "2026-10-11T17:49:38.522Z",
+  "updatedLocal": "2026/10/12 01:49:38",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-07T02:02:38.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
     },
     {
       "title": "3 ways Google Maps can help you navigate your next culinary adventure.",
@@ -48,18 +48,7 @@
       "group": "gis",
       "published": "2026-10-08T00:01:00.000Z",
       "why": null,
-      "ago": "3 天前"
-    },
-    {
-      "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
-      "summary": "Arbaaz Muslim, Software Engineer, Google Research, and Gautam Prasad, Software Engineer, Google Research With Google Earth AI’s Population Dynamics Foundation Model (PDFM), we can address the data gaps and temporal reporting lags of existing epidemiological workflows.",
-      "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
-      "source": "Google Research",
-      "tag": "研究",
-      "group": "gis",
-      "published": "2026-10-06T15:06:15.000Z",
-      "why": null,
-      "ago": "5 天前"
+      "ago": "4 天前"
     },
     {
       "title": "Geospatial World Becomes EuroGeographics’ First Observer Member",
@@ -73,24 +62,46 @@
       "ago": "3 天前"
     },
     {
-      "title": "Investigating unintended model actions in our evaluations and internal use",
-      "summary": "This report describes examples of unintended model actions we’ve observed during evaluations and internal use of Claude.",
-      "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-09T16:09:00.000Z",
+      "title": "From Data Deluge to Decision: Dr Abhay Swarup Mittal on Building Sovereign Intelligence at Aetosky",
+      "summary": null,
+      "url": "https://geospatialworld.net/videos/exclusive-videos-interviews/from-data-deluge-to-decision-dr-abhay-swarup-mittal-on-building-sovereign-intelligence-at-aetosky/",
+      "source": "Geospatial World",
+      "tag": "產業",
+      "group": "gis",
+      "published": "2026-10-08T08:47:49.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
-      "title": "AI founders cheer Trump’s calls for the industry to police itself on safety",
-      "summary": "Silicon Valley AI founders applaud Trump’s push for self-regulation as the White House backs voluntary safety pledges, rolls back oversight, and fuels rapid growth in defense tech amid rising concerns over AI risks and accountability SAN FRANCISCO: Tech Week is in full bloom in San Francisco, packing the city’s restaurants this week with venture capitalists and AI founders ebullient about the White House’s stance on regulating artificial intelligence - namely, don’t do it.",
-      "url": "https://www.emirates247.com/technology/silicon-valley-ai-founders-back-trumps-self-policing-ai-safety-plan-as-oversight-fades-in-washington/6574",
-      "source": "Emirates 24|7",
+      "title": "AI Safety Evaluators Step Into Industry Spotlight",
+      "summary": "AI Safety Evaluators Step Into Industry Spotlight Third-party AI safety evaluators emerge as key gatekeepers in trillion-dollar industry PUBLISHED: Sun, Oct 11, 2026, 2:37 PM UTC | UPDATED: Sun, Oct 11, 2026, 2:37 PM UTC Photo: Researcher at workstation with dual monitors displaying AI safety evaluation data and test results.",
+      "url": "https://www.techbuzz.ai/articles/ai-safety-evaluators-step-into-industry-spotlight",
+      "source": "The Tech Buzz",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-10-10T09:18:00.000Z",
+      "published": "2026-10-11T14:37:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "China’s development plan includes AI safety goals: Report",
+      "summary": "BEIJING: A new broad set of economic development guidelines adopted by Chinese leadership includes demands for establishing artificial intelligence safeguards while expanding the use of AI across industries, state news agency Xinhua reported Friday.",
+      "url": "https://kuwaittimes.com/article/51388/business/chinas-development-plan-includes-ai-safety-goals-report/",
+      "source": "Kuwait Times",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-11T16:51:27.000Z",
+      "why": null,
+      "ago": "58 分鐘前"
+    },
+    {
+      "title": "In Silicon Valley, AI founders cheer Trump’s calls for the industry to police itself on safety",
+      "summary": null,
+      "url": "https://www.washingtonpost.com/business/2026/10/10/ai-safety-openai-tech-week/494a67ce-c47e-11f1-8170-681419af1cc9_story.html",
+      "source": "The Washington Post",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-10T14:43:30.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -102,17 +113,6 @@
       "tag": "政策",
       "group": "ai",
       "published": "2026-10-09T22:36:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "China’s new development plan includes AI safety goals: Xinhua",
-      "summary": "A new broad set of economic development guidelines adopted by Chinese leadership includes demands for establishing artificial intelligence safeguards while expanding the use of AI across industries, state news agency Xinhua reported Friday.",
-      "url": "https://macaubusiness.com/eu-slams-us-sanctions-on-icc-vows-to-help-court-keep-working/",
-      "source": "Macau Business",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-09T20:23:35.000Z",
       "why": null,
       "ago": "2 天前"
     },
