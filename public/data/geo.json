@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-11T17:49:38.522Z",
-  "updatedLocal": "2026/10/12 01:49:38",
+  "updated": "2026-10-12T01:26:46.826Z",
+  "updatedLocal": "2026/10/12 09:26:46",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "\"Pairing Geospatial Data with Homegrown AI\"... Wavus, Upstage Target Public-Sector AI Market",
+      "summary": "Upstage Head of Public Sector Business Lee Jaeyong (left) and Wavus CEO Park Changhun (right) pose for a commemorative photo after signing an MOU for joint research and cooperation on AI agents on the 8th.",
+      "url": "https://www.asiae.co.kr/en/article/stock-disclosure/2026101209480531676",
+      "source": "아시아경제",
+      "tag": "研究",
+      "group": "gis",
+      "published": "2026-10-12T00:48:06.000Z",
+      "why": null,
+      "ago": "39 分鐘前"
+    },
     {
       "title": "An Introduction to Python in Excel with ArcGIS for Excel",
       "summary": "In this Blog post, I’ll show how ArcGIS for Excel, Python in Excel, Machine learning models and Excel can work together and turn Excel data into decision making.",
@@ -26,7 +37,7 @@
       "group": "gis",
       "published": "2026-10-08T12:00:00.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
       "title": "Google Maps reveals the top food trends and popular restaurants across 10 cities",
@@ -37,7 +48,7 @@
       "group": "gis",
       "published": "2026-10-08T12:00:00.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
       "title": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
@@ -59,18 +70,18 @@
       "group": "gis",
       "published": "2026-10-08T09:06:43.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
-      "title": "From Data Deluge to Decision: Dr Abhay Swarup Mittal on Building Sovereign Intelligence at Aetosky",
-      "summary": null,
-      "url": "https://geospatialworld.net/videos/exclusive-videos-interviews/from-data-deluge-to-decision-dr-abhay-swarup-mittal-on-building-sovereign-intelligence-at-aetosky/",
-      "source": "Geospatial World",
-      "tag": "產業",
-      "group": "gis",
-      "published": "2026-10-08T08:47:49.000Z",
+      "title": "Microsoft President: AI Less Regulated Than Milk",
+      "summary": "Microsoft President: AI Less Regulated Than Milk Brad Smith calls for global AI rules, positions UK to lead regulatory charge PUBLISHED: Mon, Oct 12, 2026, 12:07 AM UTC | UPDATED: Mon, Oct 12, 2026, 12:07 AM UTC Photo: Microsoft corporate headquarters building exterior with modern architecture under daytime light.",
+      "url": "https://www.techbuzz.ai/articles/microsoft-president-ai-less-regulated-than-milk",
+      "source": "The Tech Buzz",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-12T00:07:00.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "1 小時前"
     },
     {
       "title": "AI Safety Evaluators Step Into Industry Spotlight",
@@ -81,7 +92,7 @@
       "group": "ai",
       "published": "2026-10-11T14:37:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "China’s development plan includes AI safety goals: Report",
@@ -92,51 +103,18 @@
       "group": "ai",
       "published": "2026-10-11T16:51:27.000Z",
       "why": null,
-      "ago": "58 分鐘前"
+      "ago": "9 小時前"
     },
     {
-      "title": "In Silicon Valley, AI founders cheer Trump’s calls for the industry to police itself on safety",
-      "summary": null,
-      "url": "https://www.washingtonpost.com/business/2026/10/10/ai-safety-openai-tech-week/494a67ce-c47e-11f1-8170-681419af1cc9_story.html",
-      "source": "The Washington Post",
+      "title": "Italy's AI decree 179/2026 takes effect October 23 with fines up to 35 million euros",
+      "summary": "Legislative decree no. 179 of October 7, 2026, published in the Official Gazette (Gazzetta Ufficiale) no. 234 of October 8 , takes effect on October 23 and completes Italy's transposition of the AI Act ( EU Regulation 2024/1689 on artificial intelligence).",
+      "url": "https://pasqualepillitteri.it/en/news/22825/italy-ai-decree-179-2026-fines-35-million-euros",
+      "source": "Pasquale Pillitteri",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-10-10T14:43:30.000Z",
+      "published": "2026-10-11T23:01:27.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Senator Murray pushes for AI safety guardrails amid growing risks",
-      "summary": "U.S. Senator Patty Murray predicted federal AI legislation could pass by 2027 if Democrats gain control of either chamber of Congress after the November midterm elections, but stressed that the timeline depends on political shifts.",
-      "url": "https://www.applevalleynewsnow.com/news/senator-murray-pushes-for-ai-safety-guardrails-amid-growing-risks/article_ab28f9e4-dab2-4b4c-99d7-bf34e17f3cdf.html",
-      "source": "AppleValleyNewsNow.com",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-09T22:36:00.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "The Good, the Bad, and the Uncertain in Senator Cantwell’s Frontier AI Framework",
-      "summary": "On Wednesday, October 7, Sen. Maria Cantwell (D‑WA) released an outline for AI regulation that spells out six principles that she believes “must drive the legislative and executive actions needed to address catastrophic risks and other AI harms.",
-      "url": "https://www.cato.org/blog/good-bad-uncertain-senator-cantwells-frontier-ai-framework",
-      "source": "Cato Institute",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-09T18:21:42.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "UK AI safety law to stop ‘loss of control’ over autonomous agents",
-      "summary": null,
-      "url": "https://www.thetimes.com/uk/technology-uk/article/uk-ai-safety-law-stop-loss-control-wbwp6ls6p",
-      "source": "The Times",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-09T17:51:24.000Z",
-      "why": null,
-      "ago": "2 天前"
+      "ago": "2 小時前"
     }
   ],
   "errors": []

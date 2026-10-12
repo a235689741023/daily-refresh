@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T17:49:38.522Z",
-  "updatedLocal": "2026/10/12 01:49:38",
+  "updated": "2026-10-12T01:26:46.826Z",
+  "updatedLocal": "2026/10/12 09:26:46",
   "us": {
     "indices": [
       {
@@ -250,17 +250,7 @@
         "changePct": -1.1904761904761905
       }
     ],
-    "otc": {
-      "key": "otc",
-      "name": "櫃買市場",
-      "date": "2026-10-08",
-      "breadth": {
-        "up": 2308,
-        "down": 3805,
-        "flat": 488,
-        "total": 6601
-      }
-    },
+    "otc": null,
     "adr": {
       "key": "tsm",
       "name": "台積電 ADR",

@@ -1,11 +1,44 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-11T17:49:38.522Z",
-  "updatedLocal": "2026/10/12 01:49:38",
+  "updated": "2026-10-12T01:26:46.826Z",
+  "updatedLocal": "2026/10/12 09:26:46",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "蟑螂成爬蟲寵物飼料 澳洲查獲史上最大宗10萬隻活體將銷毀",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243587",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-12T01:27:00.000Z",
+      "why": null,
+      "ago": "剛剛"
+    },
+    {
+      "title": "從產業轉型到綠色生活 雲林智慧淨零共創永續未來",
+      "summary": null,
+      "url": "https://n.yam.com/Article/20261012956942",
+      "source": "蕃新聞",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-12T00:00:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "邁向2050淨零！彭啓明部宣示台灣2030年目標：移除100萬噸生物炭碳",
+      "summary": "環境部長彭啓明，應邀接受歐洲碳移除專業Podcast節目《The Carbon Removal Scoop》特別節目專訪，向國際社會闡述台灣的碳移除戰略。",
+      "url": "https://newtalk.tw/forum/post/98446",
+      "source": "Newtalk新聞",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-11T12:04:25.000Z",
+      "why": null,
+      "ago": "13 小時前"
+    },
     {
       "title": "高雄東南亞教育交流協會訪菲推動AI淨零與雙邊合作| 大學研究所| 文教",
       "summary": "高雄市東南亞教育交流協會訪團近日訪問 菲律賓 ，拜會菲律賓大學、政府官員及教育科技團隊，推動台菲在人工智慧（AI） 淨零 、適性學習及人才培育等領域合作，盼透過教育與知識交流，促進菲律賓國家發展。協會理事長吳英明與常務理事蘇永朝，5日至9日在 馬尼拉 和拉古納省（Laguna）訪問，期間與菲律賓大學（UP）討論活化校園創新設施以及在校園建置模組化AI資料中心淨零等計畫。",
@@ -15,40 +48,7 @@
       "group": null,
       "published": "2026-10-11T01:14:57.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "邁向2050淨零！彭啓明部宣示台灣2030年目標：移除100萬噸生物炭碳",
-      "summary": "環境部長彭啓明，應邀接受歐洲碳移除專業Podcast節目《The Carbon Removal Scoop》特別節目專訪，向國際社會闡述台灣的碳移除戰略。",
-      "url": "https://newtalk.tw/forum/post/98446",
-      "source": "Newtalk新聞",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-11T11:46:46.000Z",
-      "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "MacArthur Foundation Expands Impact Investment Allocation to $750 Million",
-      "summary": "The MacArthur Foundation is expanding its impact investment allocation to $750 million, increasing its dedicated capital pool by 50%.",
-      "url": "https://esgnews.com/macarthur-foundation-expands-impact-investment-allocation-to-750-million/?utm_source=rss&utm_medium=rss&utm_campaign=macarthur-foundation-expands-impact-investment-allocation-to-750-million",
-      "source": "ESG News",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-09T20:09:35.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "SAS Appoints Isabelle Nordin as Head of Sustainability to Lead Climate Strategy",
-      "summary": "Scandinavian Airlines (SAS) has appointed Isabelle Nordin as its new Head of Sustainability, placing an experienced internal leader at the centre of its climate strategy and regulatory agenda.",
-      "url": "https://esgnews.com/sas-appoints-isabelle-nordin-as-head-of-sustainability-to-lead-climate-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=sas-appoints-isabelle-nordin-as-head-of-sustainability-to-lead-climate-strategy",
-      "source": "ESG News",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-09T19:57:43.000Z",
-      "why": null,
-      "ago": "2 天前"
+      "ago": "昨日"
     }
   ],
   "errors": []

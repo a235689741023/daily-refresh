@@ -1,52 +1,19 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-11T17:49:38.522Z",
-  "updatedLocal": "2026/10/12 01:49:38",
+  "updated": "2026-10-12T01:26:46.826Z",
+  "updatedLocal": "2026/10/12 09:26:46",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-      "summary": "J.P. Morgan Asset Management is making a bullish call on an underinvested market group: high-quality fixed income.",
-      "url": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-10T15:00:01.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-11T16:35:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-11T14:00:00.000Z",
-      "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "The bull market is turning 4 years old — but yields could crash the party",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-11T13:00:00.000Z",
+      "published": "2026-10-11T20:15:00.000Z",
       "why": null,
       "ago": "5 小時前"
     },
@@ -57,9 +24,64 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-11T12:30:00.000Z",
+      "published": "2026-10-11T20:00:00.000Z",
       "why": null,
       "ago": "5 小時前"
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-11T19:32:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-11T19:32:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-11T16:35:00.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-11T14:00:00.000Z",
+      "why": null,
+      "ago": "11 小時前"
+    },
+    {
+      "title": "The bull market is turning 4 years old — but yields could crash the party",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-11T13:00:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
     },
     {
       "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
@@ -70,51 +92,29 @@
       "group": null,
       "published": "2026-10-11T12:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
-      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "title": "UK finance minister to call for big economies to get borrowing under control at IMF",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
+      "url": "https://www.reuters.com/world/uk/uk-finance-minister-call-big-economies-get-borrowing-under-control-imf-2026-10-11/",
+      "source": "Reuters",
+      "tag": "總經",
       "group": null,
-      "published": "2026-10-11T12:00:00.000Z",
+      "published": "2026-10-11T23:26:07.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Should I put my nest egg in a 30-year Treasury bond?",
+      "title": "India unveils steel policy aiming for 604 million tons capacity by 2047",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
+      "url": "https://www.reuters.com/world/india/india-unveils-steel-policy-aiming-604-million-tons-capacity-by-2047-2026-10-11/",
+      "source": "Reuters",
+      "tag": "總經",
       "group": null,
-      "published": "2026-10-10T19:44:00.000Z",
+      "published": "2026-10-11T04:20:00.000Z",
       "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-10T19:44:00.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "These decisions you make in your 20s — not your income — determine whether you’ll spend decades in debt or retire comfortably",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-10T19:44:00.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "21 小時前"
     }
   ],
   "errors": [
