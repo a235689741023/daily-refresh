@@ -1,11 +1,77 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-12T10:26:44.517Z",
-  "updatedLocal": "2026/10/12 18:26:44",
+  "updated": "2026-10-12T21:26:29.241Z",
+  "updatedLocal": "2026/10/13 05:26:29",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "COP31: Can the EU turn climate ambition into delivery?",
+      "summary": "The European Council has today (12 October) approved its main negotiating positions for the climate summit, which Climate Action Network (CAN) Europe argues is lacking a plan for \"actual delivery\".",
+      "url": "https://www.edie.net/cop31-can-the-eu-turn-climate-ambition-into-delivery/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-12T18:43:52.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Government launches flood and drought taskforce as England prepares for winter risks",
+      "summary": "The UK Government is establishing a Flood and Drought Resilience Taskforce to improve the nation’s preparedness for extreme weather, bringing together more than 50 organisations to assess flood risks, drought response and long-term resilience.",
+      "url": "https://www.edie.net/government-launches-flood-and-drought-taskforce-as-england-prepares-for-winter-risks/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-12T14:04:51.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "COP17: How to bridge the gap between nature ambition and action",
+      "summary": "From Europe's heatwaves to Nepal's floods, resilience now depends on nature.",
+      "url": "https://www.edie.net/cop17-how-to-bridge-the-gap-between-nature-ambition-and-action/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-12T12:52:29.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "TWO WEEKS TO GO: How AI can accelerate investment in climate solutions",
+      "summary": "With just two weeks to go, sustainability professionals are invited to register for an upcoming edie webinar exploring how artificial intelligence (AI), market intelligence and human expertise can help businesses identify credible climate investment opportunities and secure the financial backing needed to turn sustainability ambitions into action.",
+      "url": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-12T12:09:35.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "WRAP launches UK textile collection and recycling programme",
+      "summary": "WRAP has launched a programme to redesign the UK’s post-consumer textile collection system, as falling prices for used clothing and rising collection and sorting costs put pressure on the sector.",
+      "url": "https://www.edie.net/wrap-launches-uk-textile-collection-and-recycling-programme/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-12T10:28:28.000Z",
+      "why": null,
+      "ago": "11 小時前"
+    },
+    {
+      "title": "THREE WEEKS TO GO: What SMEs need to know before investing in solar",
+      "summary": "Taking place on 5 November, this upcoming webinar will explore how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
+      "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-12T09:55:22.000Z",
+      "why": null,
+      "ago": "12 小時前"
+    },
     {
       "title": "Innocent Drinks’ food-waste reduction initiative and Liverpool’s retrofit programme: The sustainability success stories of the week",
       "summary": "As part of our Mission Possible campaign, edie delivers this member-exclusive weekly round-up of five of the best sustainable business success stories of the week.",
@@ -15,106 +81,40 @@
       "group": null,
       "published": "2026-10-12T09:44:03.000Z",
       "why": null,
-      "ago": "43 分鐘前"
+      "ago": "12 小時前"
     },
     {
       "title": "edie’s 30 Under 30: Applications close THIS FRIDAY",
-      "summary": "There’s just a few days left to nominate for edie’s 30 Under 30 Class of 2027, celebrating the rising stars driving meaningful change across business.",
+      "summary": "There’s just a few days left to nominate for edie’s 30 Under 30 Class of 2027, an initiative that celebrates the rising stars driving meaningful change across business.",
       "url": "https://www.edie.net/edies-30-under-30-applications-close-this-friday/",
       "source": "edie",
       "tag": "國際",
       "group": null,
       "published": "2026-10-12T03:10:34.000Z",
       "why": null,
+      "ago": "18 小時前"
+    },
+    {
+      "title": "Interactive: Tracking negotiating texts at the COP17 biodiversity summit",
+      "summary": "Next week, diplomats from around the world will descend on Yerevan, Armenia, to negotiate a series of decisions under the UN Convention on Biological Diversity (CBD).",
+      "url": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop17-biodiversity-summit",
+      "source": "Carbon Brief",
+      "tag": "氣候",
+      "group": null,
+      "published": "2026-10-12T14:31:06.000Z",
+      "why": null,
       "ago": "7 小時前"
     },
     {
       "title": "中火燃氣二期環評遭撤、巴拿馬規模7.7極淺層強震、南極企鵝巢穴因氣候變遷銳減63%",
-      "summary": null,
+      "summary": "台北高等行政法院8日判決，撤銷中火燃氣二期的環評結論，環團呼籲環境部與台電放棄上訴，台電應進行較嚴格的二階環評。環境部表示，將待收到判決書後再研議，仍不排除上訴。台電則表示，考量本案攸關國家重要能源政策，更是有環保、減碳等多方考量的規劃，將待收到判決書瞭解判決理由後，補充事證、釐清爭議點，協助環境部後續作法。",
       "url": "https://e-info.org.tw/node/243960",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
       "published": "2026-10-12T03:06:19.000Z",
       "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "蟑螂成爬蟲寵物飼料 澳洲查獲史上最大宗10萬隻活體將銷毀",
-      "summary": null,
-      "url": "https://www.e-info.org.tw/node/243587",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-12T02:04:36.000Z",
-      "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "能源轉型必然漫長？ 國際知名學者索法庫：歷史可以啟發，但不必然預測未來",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243959",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-12T01:56:40.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "沙崙補償地「退林還草」護草鴞引爭議 鼠類調查提案受質疑",
-      "summary": null,
-      "url": "https://e-info.org.tw/node/243961",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-12T07:26:29.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "「台灣國際淨零永續展」與「台灣國際智慧能源周」本周登場",
-      "summary": "由 外貿協會 （TAITRA）與SEMI旗下GESA綠能暨 永續 發展聯盟共同主辦的2026「台灣國際 淨零 永續展」與「台灣國際智慧能源周（Energy Taiwan）」，將於10月14日至16日在台北南港展覽館1館登場。",
-      "url": "https://udn.com/news/story/7238/9809823",
-      "source": "UDN",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-12T09:27:39.000Z",
-      "why": null,
-      "ago": "59 分鐘前"
-    },
-    {
-      "title": "台灣要電更要「零碳」電！淨零與能源雙展 10/14 揭示台廠突圍底牌",
-      "summary": "由貿協與 SEMI 旗下 GESA 綠能暨永續發展聯盟主辦，2026 台灣國際淨零永續展（Net-Zero Taiwan）與台灣國際智慧能源週（Energy Taiwan），預計 10 月 14 日將在台北南港展覽館一館登場， 台電 董事長曾文生今日在展前記者會再次重申，未來供電有很多選項，不再是供應方決定。",
-      "url": "https://finance.technews.tw/2026/10/12/zero-carbon/",
-      "source": "TechNews 科技新報",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-12T07:19:19.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "2026「台灣國際淨零永續展」與「台灣國際智慧能源週」10/14登場，全球淨零重塑產業競爭版圖，產業領袖齊聚共探AI時代能源新局",
-      "summary": "全球對於能源的需求持續攀升，減碳趨勢也進一步推動能源結構轉型。根據國際能源署（IEA） 《2026年電力市場報告》 指出，2026年至2030年全球電力需求平均每年將成長3.6%，如何兼顧能源穩定供應與淨零目標，已成為全球產業發展的重要課題。",
-      "url": "https://www.carture.com.tw/news/article/42571-2026%E3%80%8C%E5%8F%B0%E7%81%A3%E5%9C%8B%E9%9A%9B%E6%B7%A8%E9%9B%B6%E6%B0%B8%E7%BA%8C%E5%B1%95%E3%80%8D%E8%88%87%E3%80%8C%E5%8F%B0%E7%81%A3%E5%9C%8B%E9%9A%9B%E6%99%BA%E6%85%A7%E8%83%BD%E6%BA%90%E9%80%B1%E3%80%8D10%2F14%E7%99%BB%E5%A0%B4%EF%BC%8C%E5%85%A8%E7%90%83%E6%B7%A8%E9%9B%B6%E9%87%8D%E5%A1%91%E7%94%A2%E6%A5%AD%E7%AB%B6%E7%88%AD%E7%89%88%E5%9C%96%EF%BC%8C%E7%94%A2%E6%A5%AD%E9%A0%98%E8%A2%96%E9%BD%8A%E8%81%9A%E5%85%B1%E6%8E%A2AI%E6%99%82%E4%BB%A3%E8%83%BD%E6%BA%90%E6%96%B0%E5%B1%80",
-      "source": "CARTURE 車勢文化",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-12T09:14:51.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "全球電力需求年增 3.6% 台灣國際淨零永續展聚焦能源韌性與低碳商機",
-      "summary": null,
-      "url": "https://leho.com.tw/archives/401698",
-      "source": "樂聯網",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-12T10:09:10.000Z",
-      "why": null,
-      "ago": "18 分鐘前"
+      "ago": "18 小時前"
     }
   ],
   "errors": []
