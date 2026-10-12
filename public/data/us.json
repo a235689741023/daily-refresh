@@ -1,11 +1,99 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-12T01:26:46.826Z",
-  "updatedLocal": "2026/10/12 09:26:46",
+  "updated": "2026-10-12T10:26:44.517Z",
+  "updatedLocal": "2026/10/12 18:26:44",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
+      "summary": "Robert E. Hall and Michael Woodford were on Monday awarded the Nobel prize in economics for work that underpins the models used by central banks and governments.",
+      "url": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-12T10:24:47.000Z",
+      "why": null,
+      "ago": "2 分鐘前"
+    },
+    {
+      "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
+      "summary": "BANGKOK — Policymakers are moving from debating whether artificial intelligence will hit jobs to issuing stark warnings about AI-led disruption and recommending measures on cushioning the fallout.",
+      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-12T08:58:54.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-12T10:15:00.000Z",
+      "why": null,
+      "ago": "12 分鐘前"
+    },
+    {
+      "title": "The bond market is doing the Fed’s job, and that could be good news for stocks, says Morgan Stanley strategist",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-bond-market-is-doing-the-feds-job-and-that-could-be-good-news-for-stocks-says-morgan-stanley-strategist-ec57b81a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-12T09:23:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "My sister moved in with our widowed mother, 78, and says she deserves the family home. Is she right?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-12T09:15:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Here’s why Goldman Sachs just flipped bullish on stocks for the rest of the year",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/heres-why-goldman-sachs-just-flipped-bullish-on-stocks-for-the-rest-of-the-year-dfa3b0af?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-12T09:14:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Legal battle continues as Dolly Parton’s estate claims nephew put up barbed wire to avoid summons",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/legal-battle-continues-as-dolly-partons-estate-claims-nephew-put-up-barbed-wire-to-avoid-summons-e4ed0f9a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-12T09:05:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Dr. Phil lists his lavish Beverly Hills estate for a whopping $67.5 million",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/dr-phil-lists-his-lavish-beverly-hills-estate-for-a-whopping-67-5-million-5992b370?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-12T09:02:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
     {
       "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
       "summary": null,
@@ -15,7 +103,7 @@
       "group": null,
       "published": "2026-10-11T20:15:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
@@ -26,95 +114,7 @@
       "group": null,
       "published": "2026-10-11T20:00:00.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-11T19:32:00.000Z",
-      "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-11T19:32:00.000Z",
-      "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-11T16:35:00.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-11T14:00:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "The bull market is turning 4 years old — but yields could crash the party",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-11T13:00:00.000Z",
-      "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-11T12:00:00.000Z",
-      "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "UK finance minister to call for big economies to get borrowing under control at IMF",
-      "summary": null,
-      "url": "https://www.reuters.com/world/uk/uk-finance-minister-call-big-economies-get-borrowing-under-control-imf-2026-10-11/",
-      "source": "Reuters",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-11T23:26:07.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "India unveils steel policy aiming for 604 million tons capacity by 2047",
-      "summary": null,
-      "url": "https://www.reuters.com/world/india/india-unveils-steel-policy-aiming-604-million-tons-capacity-by-2047-2026-10-11/",
-      "source": "Reuters",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-11T04:20:00.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "14 小時前"
     }
   ],
   "errors": [

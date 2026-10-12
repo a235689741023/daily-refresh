@@ -1,54 +1,120 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-12T01:26:46.826Z",
-  "updatedLocal": "2026/10/12 09:26:46",
+  "updated": "2026-10-12T10:26:44.517Z",
+  "updatedLocal": "2026/10/12 18:26:44",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "蟑螂成爬蟲寵物飼料 澳洲查獲史上最大宗10萬隻活體將銷毀",
+      "title": "Innocent Drinks’ food-waste reduction initiative and Liverpool’s retrofit programme: The sustainability success stories of the week",
+      "summary": "As part of our Mission Possible campaign, edie delivers this member-exclusive weekly round-up of five of the best sustainable business success stories of the week.",
+      "url": "https://www.edie.net/innocent-drinks-food-waste-reduction-initiative-and-liverpools-retrofit-programme-the-sustainability-success-stories-of-the-week/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-12T09:44:03.000Z",
+      "why": null,
+      "ago": "43 分鐘前"
+    },
+    {
+      "title": "edie’s 30 Under 30: Applications close THIS FRIDAY",
+      "summary": "There’s just a few days left to nominate for edie’s 30 Under 30 Class of 2027, celebrating the rising stars driving meaningful change across business.",
+      "url": "https://www.edie.net/edies-30-under-30-applications-close-this-friday/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-12T03:10:34.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "中火燃氣二期環評遭撤、巴拿馬規模7.7極淺層強震、南極企鵝巢穴因氣候變遷銳減63%",
       "summary": null,
-      "url": "https://e-info.org.tw/node/243587",
+      "url": "https://e-info.org.tw/node/243960",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-10-12T01:27:00.000Z",
+      "published": "2026-10-12T03:06:19.000Z",
       "why": null,
-      "ago": "剛剛"
+      "ago": "7 小時前"
     },
     {
-      "title": "從產業轉型到綠色生活 雲林智慧淨零共創永續未來",
+      "title": "蟑螂成爬蟲寵物飼料 澳洲查獲史上最大宗10萬隻活體將銷毀",
       "summary": null,
-      "url": "https://n.yam.com/Article/20261012956942",
-      "source": "蕃新聞",
+      "url": "https://www.e-info.org.tw/node/243587",
+      "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-10-12T00:00:00.000Z",
+      "published": "2026-10-12T02:04:36.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "能源轉型必然漫長？ 國際知名學者索法庫：歷史可以啟發，但不必然預測未來",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243959",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-12T01:56:40.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "沙崙補償地「退林還草」護草鴞引爭議 鼠類調查提案受質疑",
+      "summary": null,
+      "url": "https://e-info.org.tw/node/243961",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-12T07:26:29.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "「台灣國際淨零永續展」與「台灣國際智慧能源周」本周登場",
+      "summary": "由 外貿協會 （TAITRA）與SEMI旗下GESA綠能暨 永續 發展聯盟共同主辦的2026「台灣國際 淨零 永續展」與「台灣國際智慧能源周（Energy Taiwan）」，將於10月14日至16日在台北南港展覽館1館登場。",
+      "url": "https://udn.com/news/story/7238/9809823",
+      "source": "UDN",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-12T09:27:39.000Z",
+      "why": null,
+      "ago": "59 分鐘前"
+    },
+    {
+      "title": "台灣要電更要「零碳」電！淨零與能源雙展 10/14 揭示台廠突圍底牌",
+      "summary": "由貿協與 SEMI 旗下 GESA 綠能暨永續發展聯盟主辦，2026 台灣國際淨零永續展（Net-Zero Taiwan）與台灣國際智慧能源週（Energy Taiwan），預計 10 月 14 日將在台北南港展覽館一館登場， 台電 董事長曾文生今日在展前記者會再次重申，未來供電有很多選項，不再是供應方決定。",
+      "url": "https://finance.technews.tw/2026/10/12/zero-carbon/",
+      "source": "TechNews 科技新報",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-12T07:19:19.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "2026「台灣國際淨零永續展」與「台灣國際智慧能源週」10/14登場，全球淨零重塑產業競爭版圖，產業領袖齊聚共探AI時代能源新局",
+      "summary": "全球對於能源的需求持續攀升，減碳趨勢也進一步推動能源結構轉型。根據國際能源署（IEA） 《2026年電力市場報告》 指出，2026年至2030年全球電力需求平均每年將成長3.6%，如何兼顧能源穩定供應與淨零目標，已成為全球產業發展的重要課題。",
+      "url": "https://www.carture.com.tw/news/article/42571-2026%E3%80%8C%E5%8F%B0%E7%81%A3%E5%9C%8B%E9%9A%9B%E6%B7%A8%E9%9B%B6%E6%B0%B8%E7%BA%8C%E5%B1%95%E3%80%8D%E8%88%87%E3%80%8C%E5%8F%B0%E7%81%A3%E5%9C%8B%E9%9A%9B%E6%99%BA%E6%85%A7%E8%83%BD%E6%BA%90%E9%80%B1%E3%80%8D10%2F14%E7%99%BB%E5%A0%B4%EF%BC%8C%E5%85%A8%E7%90%83%E6%B7%A8%E9%9B%B6%E9%87%8D%E5%A1%91%E7%94%A2%E6%A5%AD%E7%AB%B6%E7%88%AD%E7%89%88%E5%9C%96%EF%BC%8C%E7%94%A2%E6%A5%AD%E9%A0%98%E8%A2%96%E9%BD%8A%E8%81%9A%E5%85%B1%E6%8E%A2AI%E6%99%82%E4%BB%A3%E8%83%BD%E6%BA%90%E6%96%B0%E5%B1%80",
+      "source": "CARTURE 車勢文化",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-12T09:14:51.000Z",
       "why": null,
       "ago": "1 小時前"
     },
     {
-      "title": "邁向2050淨零！彭啓明部宣示台灣2030年目標：移除100萬噸生物炭碳",
-      "summary": "環境部長彭啓明，應邀接受歐洲碳移除專業Podcast節目《The Carbon Removal Scoop》特別節目專訪，向國際社會闡述台灣的碳移除戰略。",
-      "url": "https://newtalk.tw/forum/post/98446",
-      "source": "Newtalk新聞",
+      "title": "全球電力需求年增 3.6% 台灣國際淨零永續展聚焦能源韌性與低碳商機",
+      "summary": null,
+      "url": "https://leho.com.tw/archives/401698",
+      "source": "樂聯網",
       "tag": "台灣",
       "group": null,
-      "published": "2026-10-11T12:04:25.000Z",
+      "published": "2026-10-12T10:09:10.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "高雄東南亞教育交流協會訪菲推動AI淨零與雙邊合作| 大學研究所| 文教",
-      "summary": "高雄市東南亞教育交流協會訪團近日訪問 菲律賓 ，拜會菲律賓大學、政府官員及教育科技團隊，推動台菲在人工智慧（AI） 淨零 、適性學習及人才培育等領域合作，盼透過教育與知識交流，促進菲律賓國家發展。協會理事長吳英明與常務理事蘇永朝，5日至9日在 馬尼拉 和拉古納省（Laguna）訪問，期間與菲律賓大學（UP）討論活化校園創新設施以及在校園建置模組化AI資料中心淨零等計畫。",
-      "url": "https://udn.com/news/story/6928/9807186",
-      "source": "UDN",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-11T01:14:57.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "18 分鐘前"
     }
   ],
   "errors": []
