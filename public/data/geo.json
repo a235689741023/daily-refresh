@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-13T10:17:19.451Z",
-  "updatedLocal": "2026/10/13 18:17:19",
+  "updated": "2026-10-13T19:35:21.760Z",
+  "updatedLocal": "2026/10/14 03:35:21",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,18 @@
       "group": "gis",
       "published": "2026-10-12T00:48:06.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Good Governance Needs a Strong Code of Conduct",
-      "summary": "Editorial: Most geographers either work for government agencies or do substantial business with them. That makes how those agencies are governed our business too.",
+      "summary": "Editorial: Most geographers work for government agencies or do substantial business with them, so how those agencies are governed is our business too.",
       "url": "https://www.geographyrealm.com/good-governance-code-of-conduct/",
       "source": "GIS Lounge",
       "tag": "應用",
       "group": "gis",
       "published": "2026-10-13T06:48:41.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "3 ways Google Maps can help you navigate your next culinary adventure.",
@@ -51,6 +51,50 @@
       "ago": "5 天前"
     },
     {
+      "title": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
+      "summary": "Global Product Partnerships Director at Google Maps & Waze As the cost of living continues to rise, managing expenses has never been more critical.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/",
+      "source": "Google Maps Blog",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-10-08T00:01:00.000Z",
+      "why": null,
+      "ago": "6 天前"
+    },
+    {
+      "title": "Geospatial World Becomes EuroGeographics’ First Observer Member",
+      "summary": "**New Delhi, 28 th September 2026** — Geospatial World has become the**first Observer Member of EuroGeographics**, marking an important step in strengthening international collaboration between Europe’s National Mapping, Cadastral and Land Registry Authorities and the wider global geospatial community.",
+      "url": "https://geospatialworld.net/news/geospatial-world-becomes-eurogeographics-first-observer-member/",
+      "source": "Geospatial World",
+      "tag": "產業",
+      "group": "gis",
+      "published": "2026-10-08T09:06:43.000Z",
+      "why": null,
+      "ago": "5 天前"
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-13T16:00:43.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "summary": "Higgsfield brings creators longer videos with GPT‑6 Astra, precise visuals with GPT‑Image‑2.5, and a path to voice filmmaking with GPT‑Live.",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-13T12:00:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
       "title": "AI models may be capable of self-replicating without access to a datacenter",
       "summary": "Our experiments suggest that small AI models may be months away from being capable enough to self-replicate on commercial internet-of-things (IoT) devices, like smart ovens and off-brand Android TV boxes.",
       "url": "https://www.anthropic.com/research/self-replicating-ai",
@@ -58,17 +102,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-10-12T19:30:00.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Strengthening our defenses against distillation attacks",
-      "summary": "In recent months, we’ve made substantial progress on reducing the effectiveness of distillation attacks on Claude using new methods, as we outline in this blog.",
-      "url": "https://www.anthropic.com/research/distillation-defenses",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-12T09:30:00.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -81,7 +114,7 @@
       "group": "ai",
       "published": "2026-10-13T10:00:00.000Z",
       "why": null,
-      "ago": "17 分鐘前"
+      "ago": "10 小時前"
     },
     {
       "title": "AI labs are buying data from dead startups to train their models",
@@ -92,29 +125,18 @@
       "group": "ai",
       "published": "2026-10-13T09:00:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
-      "summary": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application.",
-      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "summary": "We’re giving developers, enterprises, scientists, and consumers access to our latest frontier model.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "source": "Google AI Blog",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-10-13T05:00:31.000Z",
+      "published": "2026-10-13T16:00:00.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
-      "summary": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing.",
-      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-10-12T15:00:25.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "4 小時前"
     }
   ],
   "errors": []

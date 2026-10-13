@@ -1,11 +1,66 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-13T10:17:19.451Z",
-  "updatedLocal": "2026/10/13 18:17:19",
+  "updated": "2026-10-13T19:35:21.760Z",
+  "updatedLocal": "2026/10/14 03:35:21",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Government unveils performance certificates to assess property flood risk",
+      "summary": "The UK Government and Flood Re have launched new Flood Performance Certificates (FPCs), which will help homeowners access flood risk and resilience information about their properties in a consistent, accessible format.",
+      "url": "https://www.edie.net/government-launches-flood-and-drought-taskforce-as-england-prepares-for-winter-risks/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-13T16:40:51.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "TWO WEEKS TO GO: How AI can accelerate investment in climate solutions",
+      "summary": "With just two weeks to go, sustainability professionals are invited to register for an upcoming edie webinar exploring how artificial intelligence (AI), market intelligence and human expertise can help businesses identify credible climate investment opportunities and secure the financial backing needed to turn sustainability ambitions into action.",
+      "url": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-13T12:09:35.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "edie’s 30 Under 30: Applications close THIS FRIDAY",
+      "summary": "There’s just a few days left to nominate for edie’s 30 Under 30 Class of 2027, an initiative that celebrates the rising stars driving meaningful change across business.",
+      "url": "https://www.edie.net/edies-30-under-30-applications-close-this-friday/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-13T11:10:34.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "THREE WEEKS TO GO: What SMEs need to know before investing in solar",
+      "summary": "Taking place on 5 November, this upcoming webinar will explore how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
+      "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-13T08:55:22.000Z",
+      "why": null,
+      "ago": "11 小時前"
+    },
+    {
+      "title": "Climate risk and the UK food supply: What lies beyond the farm?",
+      "summary": "The summer of 2026 brought the vulnerability of our food system to a changing climate into sharp focus.",
+      "url": "https://www.edie.net/climate-risk-and-the-uk-food-supply-what-lies-beyond-the-farm/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-13T08:45:16.000Z",
+      "why": null,
+      "ago": "11 小時前"
+    },
     {
       "title": "SBTN launches updated nature targets to drive corporate action",
       "summary": "Ahead of the Conference of the Parties to the Convention on Biological Diversity (CBD COP17) later this month, the Science Based Targets Network (SBTN) has refreshed guidance to make nature target-setting more practical and accessible.",
@@ -15,84 +70,18 @@
       "group": null,
       "published": "2026-10-12T23:01:41.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "COP31: Can the EU turn climate ambition into delivery?",
-      "summary": "The European Council has today (12 October) approved its main negotiating positions for the climate summit, which Climate Action Network (CAN) Europe argues is lacking a plan for \"actual delivery\".",
-      "url": "https://www.edie.net/cop31-can-the-eu-turn-climate-ambition-into-delivery/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-12T18:43:52.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Government launches flood and drought taskforce as England prepares for winter risks",
-      "summary": "The UK Government is establishing a Flood and Drought Resilience Taskforce to improve the nation’s preparedness for extreme weather, bringing together more than 50 organisations to assess flood risks, drought response and long-term resilience.",
-      "url": "https://www.edie.net/government-launches-flood-and-drought-taskforce-as-england-prepares-for-winter-risks/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-12T14:04:51.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "COP17: How to bridge the gap between nature ambition and action",
-      "summary": "From Europe's heatwaves to Nepal's floods, resilience now depends on nature.",
-      "url": "https://www.edie.net/cop17-how-to-bridge-the-gap-between-nature-ambition-and-action/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-12T12:52:29.000Z",
-      "why": null,
       "ago": "21 小時前"
     },
     {
-      "title": "TWO WEEKS TO GO: How AI can accelerate investment in climate solutions",
-      "summary": "With just two weeks to go, sustainability professionals are invited to register for an upcoming edie webinar exploring how artificial intelligence (AI), market intelligence and human expertise can help businesses identify credible climate investment opportunities and secure the financial backing needed to turn sustainability ambitions into action.",
-      "url": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-12T12:09:35.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "WRAP launches UK textile collection and recycling programme",
-      "summary": "WRAP has launched a programme to redesign the UK’s post-consumer textile collection system, as falling prices for used clothing and rising collection and sorting costs put pressure on the sector.",
-      "url": "https://www.edie.net/wrap-launches-uk-textile-collection-and-recycling-programme/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-12T10:28:28.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "Interactive: Tracking negotiating texts at the COP17 biodiversity summit",
-      "summary": "Next week, diplomats from around the world will descend on Yerevan, Armenia, to negotiate a series of decisions under the UN Convention on Biological Diversity (CBD).",
-      "url": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop17-biodiversity-summit",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-10-12T14:31:06.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
       "title": "「我們不會離開家園」 聯合國首份海平面上升宣言保障國土淹沒後的權利",
-      "summary": "氣候變遷下，海平面持續上升，太平洋島國不只家園可能遭海水吞噬，甚至連整個國家都可能從地圖上消失。9月24日，聯合國大會一致通過「首份海平面上升宣言」，未來即使這些島國的國土完全遭到海水淹沒，仍可以繼續保留主權和原有海域管轄權。",
-      "url": "https://e-info.org.tw/node/243962",
+      "summary": "氣候變遷下，海平面持續上升，太平洋島國不只家園可能遭海水吞噬，甚至連整個國家都可能從地圖上消失。9月24日，聯合國大會一致通過「首份海平面上升宣言」，未來即使這些島國的國土完全遭到海水淹沒，主權和原有海域管轄權依然不變。",
+      "url": "https://www.e-info.org.tw/node/243962",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
       "published": "2026-10-13T01:42:55.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "不用的手機別再收抽屜 回收抽iPhone 17等好禮",
@@ -103,18 +92,29 @@
       "group": null,
       "published": "2026-10-13T09:04:17.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "氣候調適、防災韌性獲跨黨派關注 六都13名參選人簽「永續韌性城市」承諾",
       "summary": "年底九合一選舉逼近，關注氣候的民間團體共同發起「永續韌性城市政策承諾」，邀請六都縣市長參選人簽署，共有13位參選人簽署。民間團體強調，氣候風險之下，永續與韌性城市已成為跨黨派共同關注的城市治理課題。公民團體發起「永續韌性城市政策承諾」，獲得六都13位參選人簽署響應。",
-      "url": "https://e-info.org.tw/node/243963",
+      "url": "https://www.e-info.org.tw/node/243963",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
       "published": "2026-10-13T03:03:01.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "17 小時前"
+    },
+    {
+      "title": "猛禽過境屏東滿州疑遭宮廟鞭炮驚飛、太平洋關鍵海溫破紀錄、印尼野火燒毀305棟民宅",
+      "summary": "台灣經濟研究院董事長吳中書12日指出，台灣永續金融面臨八大挑戰，包括碳費較歐盟、新加坡等國偏低，但國際減碳時程表已確立，未來轉型時間越緊迫，付出成本可能愈高；但同時台灣也有四大機會，碳捕捉、碳封存等產業可進一步由點狀發展形成產業鏈，會更具競爭力。",
+      "url": "https://www.e-info.org.tw/node/243964",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-10-13T03:27:21.000Z",
+      "why": null,
+      "ago": "16 小時前"
     }
   ],
   "errors": []
