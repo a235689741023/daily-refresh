@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-13T03:05:09.254Z",
-  "updatedLocal": "2026/10/13 11:05:09",
+  "updated": "2026-10-13T10:17:19.451Z",
+  "updatedLocal": "2026/10/13 18:17:19",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+      "summary": "BEIJING — U.S. credit card giant Visa announced Tuesday it had received approval from the People's Bank of China for setting up a bank card clearing business in the country.",
+      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-13T06:20:55.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
       "summary": "SINGAPORE — Southeast Asia's biggest bank by assets is making a pitch to investors that Singapore and its businesses can help them navigate many of the uncertainties around the globe.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-13T01:26:41.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-10-12T18:18:39.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-10-13T02:58:11.000Z",
       "why": null,
-      "ago": "7 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
@@ -48,18 +59,40 @@
       "group": null,
       "published": "2026-10-12T15:37:26.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
-      "title": "Global economy to slow less than expected in 2026 as AI boom offsets war hit: IMF",
-      "summary": "BANGKOK — The International Monetary Fund has raised its forecast for global economic growth this year as the AI-driven investment boom helps offset some of the impact from surging energy costs.",
+      "title": "In charts: How one of the world's biggest economies got trapped by debt",
+      "summary": "France's parliament begins debate on the 2027 budget Tuesday as high deficits, rising debt and student protests sharpen the political cost of fiscal consolidation.",
+      "url": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-13T09:49:15.000Z",
+      "why": null,
+      "ago": "28 分鐘前"
+    },
+    {
+      "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+      "summary": "Government bond yields in several advanced economies have climbed to multidecade highs, driven by higher energy costs due to the Middle East conflict and expectations for tighter monetary conditions as central banks look to curb resurgent inflation.",
+      "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-13T04:54:07.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits",
+      "summary": "BANGKOK — The International Monetary Fund has raised its forecast for global growth this year as the AI-driven investment boom helps offset some of the impact from surging energy costs, while warning that economic resilience could be nearing its breaking point.",
       "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-10-13T02:09:34.000Z",
+      "published": "2026-10-13T04:10:49.000Z",
       "why": null,
-      "ago": "56 分鐘前"
+      "ago": "6 小時前"
     },
     {
       "title": "India’s retail inflation jumps to 5.54% in September, above estimates",
@@ -70,7 +103,7 @@
       "group": null,
       "published": "2026-10-12T10:49:24.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
@@ -81,40 +114,7 @@
       "group": null,
       "published": "2026-10-12T14:09:02.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
-      "summary": "BANGKOK — Policymakers are moving from debating whether artificial intelligence will hit jobs to issuing stark warnings about AI-led disruption and recommending measures on cushioning the fallout.",
-      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-12T08:58:54.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
-      "summary": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.# The global economy is starting to look K-shaped.",
-      "url": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-13T02:00:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
-      "summary": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions Choose MarketWatch as a preferred source of financial news # The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions ## Bernstein analyst Laurent Yoon no longer recommends any of the major telecommunications stocks as he warns of more volatility ahead Choose MarketWatch as a preferred source of financial news Questions about SpaceX’s future plans could cloud over AT&T’s stock, according to a Bernstein analyst.",
-      "url": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-13T00:18:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "20 小時前"
     }
   ],
   "errors": [

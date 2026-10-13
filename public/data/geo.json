@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-13T03:05:09.254Z",
-  "updatedLocal": "2026/10/13 11:05:09",
+  "updated": "2026-10-13T10:17:19.451Z",
+  "updatedLocal": "2026/10/13 18:17:19",
   "digest": null,
   "watch": [],
   "items": [
@@ -16,6 +16,17 @@
       "published": "2026-10-12T00:48:06.000Z",
       "why": null,
       "ago": "昨日"
+    },
+    {
+      "title": "Good Governance Needs a Strong Code of Conduct",
+      "summary": "Editorial: Most geographers either work for government agencies or do substantial business with them. That makes how those agencies are governed our business too.",
+      "url": "https://www.geographyrealm.com/good-governance-code-of-conduct/",
+      "source": "GIS Lounge",
+      "tag": "應用",
+      "group": "gis",
+      "published": "2026-10-13T06:48:41.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "3 ways Google Maps can help you navigate your next culinary adventure.",
@@ -40,28 +51,6 @@
       "ago": "5 天前"
     },
     {
-      "title": "Geospatial World Becomes EuroGeographics’ First Observer Member",
-      "summary": "**New Delhi, 28 th September 2026** — Geospatial World has become the**first Observer Member of EuroGeographics**, marking an important step in strengthening international collaboration between Europe’s National Mapping, Cadastral and Land Registry Authorities and the wider global geospatial community.",
-      "url": "https://geospatialworld.net/news/geospatial-world-becomes-eurogeographics-first-observer-member/",
-      "source": "Geospatial World",
-      "tag": "產業",
-      "group": "gis",
-      "published": "2026-10-08T09:06:43.000Z",
-      "why": null,
-      "ago": "5 天前"
-    },
-    {
-      "title": "From Data Deluge to Decision: Dr Abhay Swarup Mittal on Building Sovereign Intelligence at Aetosky",
-      "summary": "From Data Deluge to Decision: Dr Abhay Swarup Mittal on Building Sovereign...",
-      "url": "https://geospatialworld.net/videos/exclusive-videos-interviews/from-data-deluge-to-decision-dr-abhay-swarup-mittal-on-building-sovereign-intelligence-at-aetosky/",
-      "source": "Geospatial World",
-      "tag": "產業",
-      "group": "gis",
-      "published": "2026-10-08T08:47:49.000Z",
-      "why": null,
-      "ago": "5 天前"
-    },
-    {
       "title": "AI models may be capable of self-replicating without access to a datacenter",
       "summary": "Our experiments suggest that small AI models may be months away from being capable enough to self-replicate on commercial internet-of-things (IoT) devices, like smart ovens and off-brand Android TV boxes.",
       "url": "https://www.anthropic.com/research/self-replicating-ai",
@@ -70,7 +59,51 @@
       "group": "ai",
       "published": "2026-10-12T19:30:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
+    },
+    {
+      "title": "Strengthening our defenses against distillation attacks",
+      "summary": "In recent months, we’ve made substantial progress on reducing the effectiveness of distillation attacks on Claude using new methods, as we outline in this blog.",
+      "url": "https://www.anthropic.com/research/distillation-defenses",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-12T09:30:00.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "summary": "Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk.",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-10-13T10:00:00.000Z",
+      "why": null,
+      "ago": "17 分鐘前"
+    },
+    {
+      "title": "AI labs are buying data from dead startups to train their models",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old.",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-10-13T09:00:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+      "summary": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application.",
+      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
+      "group": "ai",
+      "published": "2026-10-13T05:00:31.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
@@ -81,51 +114,7 @@
       "group": "ai",
       "published": "2026-10-12T15:00:25.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "AI Safety Regulations Gain Momentum in Congress Ahead of Midterms",
-      "summary": "With leading artificial intelligence executives sounding the alarm over rogue autonomous agents and voter anxiety over AI rising, some in Congress have begun pushing for more robust federal regulation and oversight of the technology.",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-safety-regulations-gain-momentum-in-congress-ahead-of-midterms/",
-      "source": "PYMNTS.com",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-12T18:03:33.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "Microsoft president: Voluntary AI safety promises aren’t enough",
-      "summary": "Your grocery store s dairy aisle might seem like an unlikely place to start a conversation about AI safety .",
-      "url": "https://mashable.com/tech/microsoft-brad-smith-ai-regulation-milk",
-      "source": "Mashable",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-12T21:38:45.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Microsoft: AI Has Fewer Safety Rules Than Milk [2026] - https://tech-insider.org/",
-      "summary": "Microsoft president Brad Smith told the BBC on October 12, 2026, that artificial intelligence systems face fewer safety checks than the milk carton sitting in a grocery store refrigerator.",
-      "url": "https://tech-insider.org/microsoft-brad-smith-ai-safety-rules-milk-2026/",
-      "source": "AI 政策",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-12T21:37:19.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "EU AI Act Readiness: A Practitioner's Guide for Corporate Leaders",
-      "summary": "The EU AI Act (Regulation (EU) 2024/1689) is the world’s first horizontal AI law, and it already applies in part.",
-      "url": "https://natlawreview.com/article/eu-ai-act-readiness-practitioners-guide-corporate-leaders",
-      "source": "The National Law Review",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-12T11:21:05.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "19 小時前"
     }
   ],
   "errors": []
