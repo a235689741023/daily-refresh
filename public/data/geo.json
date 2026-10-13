@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-12T21:26:29.241Z",
-  "updatedLocal": "2026/10/13 05:26:29",
+  "updated": "2026-10-13T03:05:09.254Z",
+  "updatedLocal": "2026/10/13 11:05:09",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-12T00:48:06.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
       "title": "3 ways Google Maps can help you navigate your next culinary adventure.",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-10-08T12:00:00.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
     },
     {
       "title": "Google Maps reveals the top food trends and popular restaurants across 10 cities",
@@ -36,17 +36,6 @@
       "tag": "平台",
       "group": "gis",
       "published": "2026-10-08T12:00:00.000Z",
-      "why": null,
-      "ago": "4 天前"
-    },
-    {
-      "title": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
-      "summary": "Global Product Partnerships Director at Google Maps & Waze As the cost of living continues to rise, managing expenses has never been more critical.",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/",
-      "source": "Google Maps Blog",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-10-08T00:01:00.000Z",
       "why": null,
       "ago": "5 天前"
     },
@@ -73,6 +62,17 @@
       "ago": "5 天前"
     },
     {
+      "title": "AI models may be capable of self-replicating without access to a datacenter",
+      "summary": "Our experiments suggest that small AI models may be months away from being capable enough to self-replicate on commercial internet-of-things (IoT) devices, like smart ovens and off-brand Android TV boxes.",
+      "url": "https://www.anthropic.com/research/self-replicating-ai",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-12T19:30:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
       "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
       "summary": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing.",
       "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-10-12T15:00:25.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "AI Safety Regulations Gain Momentum in Congress Ahead of Midterms",
@@ -92,7 +92,29 @@
       "group": "ai",
       "published": "2026-10-12T18:03:33.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "9 小時前"
+    },
+    {
+      "title": "Microsoft president: Voluntary AI safety promises aren’t enough",
+      "summary": "Your grocery store s dairy aisle might seem like an unlikely place to start a conversation about AI safety .",
+      "url": "https://mashable.com/tech/microsoft-brad-smith-ai-regulation-milk",
+      "source": "Mashable",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-12T21:38:45.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Microsoft: AI Has Fewer Safety Rules Than Milk [2026] - https://tech-insider.org/",
+      "summary": "Microsoft president Brad Smith told the BBC on October 12, 2026, that artificial intelligence systems face fewer safety checks than the milk carton sitting in a grocery store refrigerator.",
+      "url": "https://tech-insider.org/microsoft-brad-smith-ai-safety-rules-milk-2026/",
+      "source": "AI 政策",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-12T21:37:19.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "EU AI Act Readiness: A Practitioner's Guide for Corporate Leaders",
@@ -103,40 +125,7 @@
       "group": "ai",
       "published": "2026-10-12T11:21:05.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "Microsoft's president is calling for global AI safety rules, warning the tech is less regulated than milk",
-      "summary": "Microsoft President Brad Smith of AI safety rules on Monday, arguing that milk and washing machines are currently subject to more regulatory oversight than artificial intelligence.",
-      "url": "https://qz.com/microsoft-brad-smith-ai-safety-regulations-101226",
-      "source": "Quartz",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-12T11:42:07.000Z",
-      "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "AI regulation must mimic Industrial Revolution laws, UK minister says",
-      "summary": "Search the FT Search Close search bar Close Search the FT Search Close search bar Close # > AI regulation must mimic Industrial Revolution laws, UK minister says Save now on essential digital access to trusted FT journalism on any device.",
-      "url": "https://www.ft.com/content/ba28b7cd-293e-4eee-a073-ad81aaefced3?syn-25a6b1a6\\=1",
-      "source": "Financial Times",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-12T04:01:34.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Microsoft’s Brad Smith calls for global AI safety rules, says milk faces more regulation than AI",
-      "summary": "Microsoft President Brad Smith said in an interview with the BBC that artificial intelligence needs urgent global regulation.",
-      "url": "https://americanbazaaronline.com/2026/10/12/microsofts-brad-smith-calls-for-global-ai-safety-rules-489837/",
-      "source": "The American Bazaar",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-12T14:54:29.000Z",
-      "why": null,
-      "ago": "7 小時前"
+      "ago": "16 小時前"
     }
   ],
   "errors": []

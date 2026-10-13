@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-12T21:26:29.241Z",
-  "updatedLocal": "2026/10/13 05:26:29",
+  "updated": "2026-10-13T03:05:09.254Z",
+  "updatedLocal": "2026/10/13 11:05:09",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+      "summary": "SINGAPORE — Southeast Asia's biggest bank by assets is making a pitch to investors that Singapore and its businesses can help them navigate many of the uncertainties around the globe.",
+      "url": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-13T01:26:41.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
       "summary": "Happy birthday to the bull market, which just turned four.",
@@ -15,18 +26,18 @@
       "group": null,
       "published": "2026-10-12T18:18:39.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
-      "summary": "Cleveland Federal Reserve President Beth Hammack said Monday that tighter monetary policy might be needed to bring down inflation and the central bank should make fast, incremental adjustments.",
+      "summary": "Cleveland Federal Reserve President Beth Hammack indicated Monday that tighter monetary policy might be needed to bring down inflation and the central bank should make fast, incremental adjustments.",
       "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-12T17:15:21.000Z",
+      "published": "2026-10-13T02:58:11.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "7 分鐘前"
     },
     {
       "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
@@ -37,7 +48,18 @@
       "group": null,
       "published": "2026-10-12T15:37:26.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "11 小時前"
+    },
+    {
+      "title": "Global economy to slow less than expected in 2026 as AI boom offsets war hit: IMF",
+      "summary": "BANGKOK — The International Monetary Fund has raised its forecast for global economic growth this year as the AI-driven investment boom helps offset some of the impact from surging energy costs.",
+      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-13T02:09:34.000Z",
+      "why": null,
+      "ago": "56 分鐘前"
     },
     {
       "title": "India’s retail inflation jumps to 5.54% in September, above estimates",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-10-12T10:49:24.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-10-12T14:09:02.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
@@ -70,51 +92,29 @@
       "group": null,
       "published": "2026-10-12T08:58:54.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "18 小時前"
     },
     {
-      "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
-      "summary": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors Choose MarketWatch as a preferred source of financial news # Nvidia and AMD shares fall as new AI announcements fail to re-energize investors ## The chip makers introduce hardware and software designs for future AI data centers, but the revenue potential is still far out, an analyst says Choose MarketWatch as a preferred source of financial news Nvidia shares fell again Monday.",
-      "url": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
+      "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+      "summary": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.# The global economy is starting to look K-shaped.",
+      "url": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-12T21:19:00.000Z",
+      "published": "2026-10-13T02:00:00.000Z",
       "why": null,
-      "ago": "7 分鐘前"
+      "ago": "1 小時前"
     },
     {
-      "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
+      "summary": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions Choose MarketWatch as a preferred source of financial news # The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions ## Bernstein analyst Laurent Yoon no longer recommends any of the major telecommunications stocks as he warns of more volatility ahead Choose MarketWatch as a preferred source of financial news Questions about SpaceX’s future plans could cloud over AT&T’s stock, according to a Bernstein analyst.",
+      "url": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-12T21:16:00.000Z",
+      "published": "2026-10-13T00:18:00.000Z",
       "why": null,
-      "ago": "10 分鐘前"
-    },
-    {
-      "title": "Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday",
-      "summary": "Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday Choose MarketWatch as a preferred source of financial news # Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday ## The sharp moves could partly be a reaction to recent cautious commentary on AI spending Choose MarketWatch as a preferred source of financial news Shares of Lumentum fell nearly 10% on Monday.",
-      "url": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-12T20:46:00.000Z",
-      "why": null,
-      "ago": "40 分鐘前"
-    },
-    {
-      "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-12T20:45:00.000Z",
-      "why": null,
-      "ago": "41 分鐘前"
+      "ago": "3 小時前"
     }
   ],
   "errors": [
