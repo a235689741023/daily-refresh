@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-13T19:35:21.760Z",
-  "updatedLocal": "2026/10/14 03:35:21",
+  "updated": "2026-10-14T01:17:37.602Z",
+  "updatedLocal": "2026/10/14 09:17:37",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Good Governance Needs a Strong Code of Conduct",
+      "summary": "Editorial: Most geographers work for government agencies or do substantial business with them, so how those agencies are governed is our business too.",
+      "url": "https://www.geographyrealm.com/good-governance-code-of-conduct/",
+      "source": "GIS Lounge",
+      "tag": "應用",
+      "group": "gis",
+      "published": "2026-10-13T06:48:41.000Z",
+      "why": null,
+      "ago": "18 小時前"
+    },
     {
       "title": "\"Pairing Geospatial Data with Homegrown AI\"... Wavus, Upstage Target Public-Sector AI Market",
       "summary": "Upstage Head of Public Sector Business Lee Jaeyong (left) and Wavus CEO Park Changhun (right) pose for a commemorative photo after signing an MOU for joint research and cooperation on AI agents on the 8th.",
@@ -18,17 +29,6 @@
       "ago": "2 天前"
     },
     {
-      "title": "Good Governance Needs a Strong Code of Conduct",
-      "summary": "Editorial: Most geographers work for government agencies or do substantial business with them, so how those agencies are governed is our business too.",
-      "url": "https://www.geographyrealm.com/good-governance-code-of-conduct/",
-      "source": "GIS Lounge",
-      "tag": "應用",
-      "group": "gis",
-      "published": "2026-10-13T06:48:41.000Z",
-      "why": null,
-      "ago": "13 小時前"
-    },
-    {
       "title": "3 ways Google Maps can help you navigate your next culinary adventure.",
       "summary": "Looking for your next great meal? In addition to our Fan-Favorite Dining List , check out these three Google Maps features to discover the best spots anytime.",
       "url": "https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/",
@@ -37,7 +37,7 @@
       "group": "gis",
       "published": "2026-10-08T12:00:00.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
       "title": "Google Maps reveals the top food trends and popular restaurants across 10 cities",
@@ -48,7 +48,7 @@
       "group": "gis",
       "published": "2026-10-08T12:00:00.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
       "title": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
@@ -70,10 +70,10 @@
       "group": "gis",
       "published": "2026-10-08T09:06:43.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
-      "title": "Redesigning source control at Anthropic",
+      "title": "Redesigning source control at Anthropic \\ Anthropic",
       "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
       "url": "https://www.anthropic.com/engineering/redesigning-source-control",
       "source": "Anthropic",
@@ -81,7 +81,18 @@
       "group": "ai",
       "published": "2026-10-13T16:00:43.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
+    },
+    {
+      "title": "Safeguards",
+      "summary": null,
+      "url": "https://safeguards.anthropic.com/",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-13T20:43:46.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "Higgsfield takes AI video from 1 minute to over 10",
@@ -92,7 +103,7 @@
       "group": "ai",
       "published": "2026-10-13T12:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "AI models may be capable of self-replicating without access to a datacenter",
@@ -106,37 +117,26 @@
       "ago": "昨日"
     },
     {
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "summary": "Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk.",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-10-13T10:00:00.000Z",
-      "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "AI labs are buying data from dead startups to train their models",
-      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old.",
-      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-10-13T09:00:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "We’re giving developers, enterprises, scientists, and consumers access to our latest frontier model.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "source": "Google AI Blog",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "summary": "Learn more about our approach to safety and security for Gemini 4 Argon.",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "source": "Google DeepMind",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-13T16:00:00.000Z",
+      "published": "2026-10-13T19:43:07.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "summary": "Gemini 4 Argon marks a step change in physical understanding, code generation, and visual-semantic reasoning—unlocking new workflows across the robotics stack and accelerating progress toward physical AGI.",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "source": "Google DeepMind",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-13T16:01:58.000Z",
+      "why": null,
+      "ago": "9 小時前"
     }
   ],
   "errors": []
