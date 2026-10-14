@@ -1,11 +1,33 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-14T08:30:07.725Z",
-  "updatedLocal": "2026/10/14 16:30:07",
+  "updated": "2026-10-14T17:39:16.506Z",
+  "updatedLocal": "2026/10/15 01:39:16",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+      "summary": "Shravya Shetty, Distinguished Engineer, and Luke Barrington, Product Director, Google Research In a new technical report, we demonstrate how combining domain-specific foundation models, spatial tools, and upfront planning enables a Geospatial Reasoning agent to carry out complex spatial analysis and planetary prediction that standalone LLMs can’t.",
+      "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+      "source": "Google Research",
+      "tag": "研究",
+      "group": "gis",
+      "published": "2026-10-14T16:17:33.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "First Principles First: Need to Calibrate Data Access for Disaster Resilience",
+      "summary": "Every year on October 13, the United Nations marks the International Day for Disaster Risk Reduction, a date the General Assembly fixed in 2009 after first setting aside a day for natural disaster reduction in 1989.",
+      "url": "https://geospatialworld.net/prime/business-and-industry-trends/first-principles-first-need-to-calibrate-data-access-for-disaster-resilience/",
+      "source": "Geospatial World",
+      "tag": "產業",
+      "group": "gis",
+      "published": "2026-10-14T17:17:54.000Z",
+      "why": null,
+      "ago": "21 分鐘前"
+    },
     {
       "title": "Good Governance Needs a Strong Code of Conduct",
       "summary": "Editorial: Most geographers work for government agencies or do substantial business with them, so how those agencies are governed is our business too.",
@@ -26,62 +48,18 @@
       "group": "gis",
       "published": "2026-10-12T00:48:06.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
-      "title": "3 ways Google Maps can help you navigate your next culinary adventure.",
-      "summary": "Looking for your next great meal? In addition to our Fan-Favorite Dining List , check out these three Google Maps features to discover the best spots anytime.",
-      "url": "https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/",
-      "source": "Google Maps Blog",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-10-08T12:00:00.000Z",
-      "why": null,
-      "ago": "6 天前"
-    },
-    {
-      "title": "Google Maps reveals the top food trends and popular restaurants across 10 cities",
-      "summary": "From froyo to beef tallow, we analyzed a year of Google Maps data across 10 culinary hot spots to reveal what the world is craving.",
-      "url": "https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/",
-      "source": "Google Maps Blog",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-10-08T12:00:00.000Z",
-      "why": null,
-      "ago": "6 天前"
-    },
-    {
-      "title": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
-      "summary": "Global Product Partnerships Director at Google Maps & Waze As the cost of living continues to rise, managing expenses has never been more critical.",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/",
-      "source": "Google Maps Blog",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-10-08T00:01:00.000Z",
-      "why": null,
-      "ago": "6 天前"
-    },
-    {
-      "title": "Geospatial World Becomes EuroGeographics’ First Observer Member",
-      "summary": "**New Delhi, 28 th September 2026** — Geospatial World has become the**first Observer Member of EuroGeographics**, marking an important step in strengthening international collaboration between Europe’s National Mapping, Cadastral and Land Registry Authorities and the wider global geospatial community.",
-      "url": "https://geospatialworld.net/news/geospatial-world-becomes-eurogeographics-first-observer-member/",
-      "source": "Geospatial World",
-      "tag": "產業",
-      "group": "gis",
-      "published": "2026-10-08T09:06:43.000Z",
-      "why": null,
-      "ago": "6 天前"
-    },
-    {
-      "title": "Redesigning source control at Anthropic",
-      "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "title": "Singapore office and government MOU",
+      "summary": "Today, we are expanding our Asia-Pacific operations by opening a new office in Singapore—our fifth in the region—and signing a Memorandum of Understanding (MOU) with the Singapore Ministry of Digital Development and Information.",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-13T16:00:43.000Z",
+      "published": "2026-10-14T08:30:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Safeguards",
@@ -92,51 +70,51 @@
       "group": "ai",
       "published": "2026-10-13T20:43:46.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "summary": "Higgsfield brings creators longer videos with GPT‑6 Astra, precise visuals with GPT‑Image‑2.5, and a path to voice filmmaking with GPT‑Live.",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-13T12:00:00.000Z",
-      "why": null,
       "ago": "21 小時前"
     },
     {
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "summary": "Collaborating with the Government Technology Agency of Singapore (GovTech Singapore) to protect users without compromising privacy.",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "source": "Google DeepMind",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "summary": "Amp ⁠ (opens in a new window) is building a frontier AI agent that helps developers turn ambitious ideas into working software.",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-14T02:00:14.000Z",
+      "published": "2026-10-14T12:00:00.000Z",
       "why": null,
       "ago": "6 小時前"
     },
     {
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "summary": "Learn more about our approach to safety and security for Gemini 4 Argon.",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "source": "Google DeepMind",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "summary": "With GPT‑6 Astra and GPT‑6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "url": "https://openai.com/index/third-moment-research",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-13T19:43:07.000Z",
+      "published": "2026-10-14T07:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "Gemini 4 Argon for Robotics",
-      "summary": "Gemini 4 Argon marks a step change in physical understanding, code generation, and visual-semantic reasoning—unlocking new workflows across the robotics stack and accelerating progress toward physical AGI.",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "source": "Google DeepMind",
+      "title": "The EU’s next chapter in AI is agentic",
+      "summary": "Across the EU, businesses are expanding how they use AI through agentic tools. People are moving beyond asking questions to using agents to carry out tasks from planning through completion.",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-13T16:01:58.000Z",
+      "published": "2026-10-14T00:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-13T16:00:43.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []

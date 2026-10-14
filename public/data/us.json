@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-14T08:30:07.725Z",
-  "updatedLocal": "2026/10/14 16:30:07",
+  "updated": "2026-10-14T17:39:16.506Z",
+  "updatedLocal": "2026/10/15 01:39:16",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+      "summary": "Morgan Stanley posted third-quarter results that beat expectations on blockbuster results in its equities trading franchise.",
+      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-14T17:08:23.000Z",
+      "why": null,
+      "ago": "31 分鐘前"
+    },
+    {
+      "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
+      "summary": "Bank of America on Wednesday posted a sharp profit decline after being hit with a $1.2 billion penalty by U.S. regulators, while revenue also disappointed after trading operations generated about $750 million less than expected.",
+      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-14T16:49:11.000Z",
+      "why": null,
+      "ago": "50 分鐘前"
+    },
     {
       "title": "China's exports and imports surge past expectations in September",
       "summary": "BEIJING — China's exports grew by 36.3% in September from a year ago, their fastest pace since February, according to official data released Wednesday.",
@@ -15,7 +37,7 @@
       "group": null,
       "published": "2026-10-14T03:41:36.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-10-13T23:05:12.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-10-13T19:46:12.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
@@ -48,29 +70,29 @@
       "group": null,
       "published": "2026-10-13T20:48:37.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
-      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
-      "summary": "BEIJING — U.S. credit card giant Visa announced Tuesday it had received approval from the People's Bank of China for setting up a bank card clearing business in the country.",
-      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "How high inflation became a 'fact of life' in the U.S.",
+      "summary": "U.S. consumers are in the midst of one of the longest stretches of elevated inflation of the past century.",
+      "url": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-10-13T06:20:55.000Z",
+      "published": "2026-10-14T17:20:23.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "19 分鐘前"
     },
     {
-      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
-      "summary": "Cleveland Federal Reserve President Beth Hammack indicated Monday that tighter monetary policy might be needed to bring down inflation and the central bank should make fast, incremental adjustments.",
-      "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
+      "summary": "September brought little relief to the accelerating cost of living, as consumer prices increased again and kept the inflation rate well above the Federal Reserve's goal.",
+      "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-10-13T02:58:11.000Z",
+      "published": "2026-10-14T13:53:28.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "4 小時前"
     },
     {
       "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-10-14T04:24:28.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "The latest inflation data is expected to show price increases are accelerating",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-10-13T18:05:57.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "In charts: How one of the world's biggest economies got trapped by debt",
-      "summary": "France's parliament begins debate on the 2027 budget Tuesday as high deficits, rising debt and student protests sharpen the political cost of fiscal consolidation.",
-      "url": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-13T15:52:24.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
-      "summary": "BANGKOK — Policymakers are moving from debating whether artificial intelligence will hit jobs to issuing stark warnings about AI-led disruption and recommending measures on cushioning the fallout.",
-      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-13T13:09:55.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "24 小時前"
     }
   ],
   "errors": [
