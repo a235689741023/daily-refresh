@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-14T01:17:37.602Z",
-  "updatedLocal": "2026/10/14 09:17:37",
+  "updated": "2026-10-14T08:30:07.725Z",
+  "updatedLocal": "2026/10/14 16:30:07",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "China's exports and imports surge past expectations in September",
+      "summary": "BEIJING — China's exports grew by 36.3% in September from a year ago, their fastest pace since February, according to official data released Wednesday.",
+      "url": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-14T03:41:36.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
     {
       "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
       "summary": "BEIJING — Equity investors are skeptical of Chinese companies' rapid expansion overseas, according to Goldman Sachs.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-13T23:05:12.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-10-13T19:46:12.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-10-13T20:48:37.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
@@ -48,18 +59,7 @@
       "group": null,
       "published": "2026-10-13T06:20:55.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
-      "summary": "SINGAPORE — Southeast Asia's biggest bank by assets is making a pitch to investors that Singapore and its businesses can help them navigate many of the uncertainties around the globe.",
-      "url": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-13T01:26:41.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
@@ -70,7 +70,18 @@
       "group": null,
       "published": "2026-10-13T02:58:11.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
+      "summary": "BANGKOK — The Philippine central bank is planning for a \"Godzilla\" El Niño on top of a prolonged oil shock, as the Southeast Asian nation tries to rein in inflation from three-year highs.",
+      "url": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-14T04:24:28.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "The latest inflation data is expected to show price increases are accelerating",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-10-13T18:05:57.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "In charts: How one of the world's biggest economies got trapped by debt",
@@ -92,29 +103,18 @@
       "group": null,
       "published": "2026-10-13T15:52:24.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-      "summary": "Government bond yields in several advanced economies have climbed to multidecade highs, driven by higher energy costs due to the Middle East conflict and expectations for tighter monetary conditions as central banks look to curb resurgent inflation.",
-      "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+      "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
+      "summary": "BANGKOK — Policymakers are moving from debating whether artificial intelligence will hit jobs to issuing stark warnings about AI-led disruption and recommending measures on cushioning the fallout.",
+      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-10-13T04:54:07.000Z",
+      "published": "2026-10-13T13:09:55.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits",
-      "summary": "BANGKOK — The International Monetary Fund has raised its forecast for global growth this year as the AI-driven investment boom helps offset some of the impact from surging energy costs, while warning that economic resilience could be nearing its breaking point.",
-      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-13T04:10:49.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "19 小時前"
     }
   ],
   "errors": [

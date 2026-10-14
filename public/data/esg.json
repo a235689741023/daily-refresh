@@ -1,11 +1,33 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-14T01:17:37.602Z",
-  "updatedLocal": "2026/10/14 09:17:37",
+  "updated": "2026-10-14T08:30:07.725Z",
+  "updatedLocal": "2026/10/14 16:30:07",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Pharma companies team up to reduce heat-related emissions",
+      "summary": "Pharmaceutical companies Sanofi, Opella and UCB have joined AstraZeneca as founders of the Clean Heat Program, which aims to reduce the use of fossil fuel-generated heat in industrial processes by helping companies transition to low-carbon alternatives.",
+      "url": "https://trellis.net/article/pharma-giants-create-clean-heat-program/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-14T06:00:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "THREE WEEKS TO GO: What SMEs need to know before investing in solar",
+      "summary": "Taking place on 5 November, this upcoming webinar will explore how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
+      "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-14T07:55:22.000Z",
+      "why": null,
+      "ago": "35 分鐘前"
+    },
     {
       "title": "COP17: Governments urged to accelerate action on 2030 nature goals",
       "summary": "As negotiators ready themselves for next week's biodiversity summit in Armenia, green groups like the European Environment Bureau (EEB) and WWF have raised concerns over the European Union's (EU) nature finance ambitions.",
@@ -15,7 +37,7 @@
       "group": null,
       "published": "2026-10-13T23:01:17.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Government unveils performance certificates to assess property flood risk",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-10-13T16:40:51.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "TWO WEEKS TO GO: How AI can accelerate investment in climate solutions",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-10-13T12:09:35.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "edie’s 30 Under 30: Applications close THIS FRIDAY",
@@ -48,18 +70,7 @@
       "group": null,
       "published": "2026-10-13T11:10:34.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "THREE WEEKS TO GO: What SMEs need to know before investing in solar",
-      "summary": "Taking place on 5 November, this upcoming webinar will explore how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
-      "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-13T08:55:22.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Climate risk and the UK food supply: What lies beyond the farm?",
@@ -70,18 +81,18 @@
       "group": null,
       "published": "2026-10-13T08:45:16.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "24 小時前"
     },
     {
-      "title": "「我們不會離開家園」 聯合國首份海平面上升宣言保障國土淹沒後的權利",
-      "summary": "氣候變遷下，海平面持續上升，太平洋島國不只家園可能遭海水吞噬，甚至連整個國家都可能從地圖上消失。9月24日，聯合國大會一致通過「首份海平面上升宣言」，未來即使這些島國的國土完全遭到海水淹沒，主權和原有海域管轄權依然不變。",
-      "url": "https://www.e-info.org.tw/node/243962",
+      "title": "報告示警：AI快速發展 可能引發電子廢棄物海嘯",
+      "summary": "10月14日是國際電子廢棄物日，除了手邊常見的閒置電子產品，隨著AI快速發展，未來更可能帶來「電子廢棄物海嘯」。今（2026）年9月，國際環保組織巴塞爾行動網絡（Basel Action Network，BAN）發布報告示警，未來25年，AI製造的電子廢棄物若全部裝進貨櫃，數量足以繞地球六圈。",
+      "url": "https://e-info.org.tw/node/243966",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-10-13T01:42:55.000Z",
+      "published": "2026-10-14T01:55:05.000Z",
       "why": null,
-      "ago": "24 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "不用的手機別再收抽屜 回收抽iPhone 17等好禮",
@@ -92,29 +103,18 @@
       "group": null,
       "published": "2026-10-13T09:04:17.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "氣候調適、防災韌性獲跨黨派關注 六都13名參選人簽「永續韌性城市」承諾",
-      "summary": "年底九合一選舉逼近，關注氣候的民間團體共同發起「永續韌性城市政策承諾」，邀請六都縣市長參選人簽署，共有13位參選人簽署。民間團體強調，氣候風險之下，永續與韌性城市已成為跨黨派共同關注的城市治理課題。公民團體發起「永續韌性城市政策承諾」，獲得六都13位參選人簽署響應。",
-      "url": "https://www.e-info.org.tw/node/243963",
+      "title": "全台首例竹林碳匯專案通過審查、美法官下令暫停川普翻新高爾夫球場砍樹、尼日大規模油氣井噴釀嚴重環境事故",
+      "summary": "## 全台首例竹林碳匯專案通過審查、美法官下令暫停川普翻新高爾夫球場砍樹、尼日大規模油氣井噴釀嚴重環境事故 農業部林業及自然保育署媒合中華電信投入桃園市復興區的竹林經營計畫，已通過環境部碳匯審查並公告，成為全台首件完成註冊的竹林經營碳匯自願減量專案。",
+      "url": "https://e-info.org.tw/node/243967",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-10-13T03:03:01.000Z",
+      "published": "2026-10-14T02:55:08.000Z",
       "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "猛禽過境屏東滿州疑遭宮廟鞭炮驚飛、太平洋關鍵海溫破紀錄、印尼野火燒毀305棟民宅",
-      "summary": "台灣經濟研究院董事長吳中書12日指出，台灣永續金融面臨八大挑戰，包括碳費較歐盟、新加坡等國偏低，但國際減碳時程表已確立，未來轉型時間越緊迫，付出成本可能愈高；但同時台灣也有四大機會，碳捕捉、碳封存等產業可進一步由點狀發展形成產業鏈，會更具競爭力。",
-      "url": "https://www.e-info.org.tw/node/243964",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-13T03:27:21.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "6 小時前"
     }
   ],
   "errors": []

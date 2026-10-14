@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-14T01:17:37.602Z",
-  "updatedLocal": "2026/10/14 09:17:37",
+  "updated": "2026-10-14T08:30:07.725Z",
+  "updatedLocal": "2026/10/14 16:30:07",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-13T06:48:41.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
       "title": "\"Pairing Geospatial Data with Homegrown AI\"... Wavus, Upstage Target Public-Sector AI Market",
@@ -73,7 +73,7 @@
       "ago": "6 天前"
     },
     {
-      "title": "Redesigning source control at Anthropic \\ Anthropic",
+      "title": "Redesigning source control at Anthropic",
       "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
       "url": "https://www.anthropic.com/engineering/redesigning-source-control",
       "source": "Anthropic",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-10-13T16:00:43.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Safeguards",
@@ -92,7 +92,7 @@
       "group": "ai",
       "published": "2026-10-13T20:43:46.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Higgsfield takes AI video from 1 minute to over 10",
@@ -103,18 +103,18 @@
       "group": "ai",
       "published": "2026-10-13T12:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
-      "title": "AI models may be capable of self-replicating without access to a datacenter",
-      "summary": "Our experiments suggest that small AI models may be months away from being capable enough to self-replicate on commercial internet-of-things (IoT) devices, like smart ovens and off-brand Android TV boxes.",
-      "url": "https://www.anthropic.com/research/self-replicating-ai",
-      "source": "Anthropic",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "summary": "Collaborating with the Government Technology Agency of Singapore (GovTech Singapore) to protect users without compromising privacy.",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "Google DeepMind",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-12T19:30:00.000Z",
+      "published": "2026-10-14T02:00:14.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
     },
     {
       "title": "Developing Gemini 4 Argon responsibly and safely",
@@ -125,7 +125,7 @@
       "group": "ai",
       "published": "2026-10-13T19:43:07.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Gemini 4 Argon for Robotics",
@@ -136,7 +136,7 @@
       "group": "ai",
       "published": "2026-10-13T16:01:58.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     }
   ],
   "errors": []
