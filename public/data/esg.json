@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-15T00:38:37.992Z",
-  "updatedLocal": "2026/10/15 08:38:37",
+  "updated": "2026-10-15T08:05:05.218Z",
+  "updatedLocal": "2026/10/15 16:05:05",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-14T23:43:45.000Z",
       "why": null,
-      "ago": "55 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "Updated: Sustainability tools to use in 2026",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-10-14T23:10:30.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Pharma companies team up to reduce heat-related emissions",
@@ -37,7 +37,18 @@
       "group": null,
       "published": "2026-10-14T06:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Are CEOs more confident than their staff about reaching net-zero by 2050?",
+      "summary": "UK business leaders are far more confident than frontline employees that their organisations will meet the 2050 net-zero target, as new research reveals a divide in awareness of corporate sustainability plans.",
+      "url": "https://www.edie.net/are-ceos-more-confident-than-their-staff-about-reaching-net-zero-by-2050/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-15T01:01:59.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "edie 27: First speakers revealed for UK’s premier sustainable business event",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-10-15T00:30:53.000Z",
       "why": null,
-      "ago": "8 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "In practice: Innovations accelerating regenerative agriculture adoption",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-10-14T16:12:06.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "France falls short of emissions target despite 2026 reductions",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-10-14T15:02:36.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Banks retreat from climate targets as net-zero commitments weaken",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-10-14T12:55:09.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Study: 76% of UK investors expect sustainability to shape business decisions",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-10-14T11:49:32.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "NEXT WEEK: The future cost of EV charging – what businesses can’t afford to overlook",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-10-14T11:38:24.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "The Scope 3 business case: From targets to funded, delivered emissions reductions",
-      "summary": "Event Date: 12/11/2026 | 1:00 pm UK | 8:00 am US East Coast ET | 5:00 am US West Coast PT | 2:00 pm Central Europe CET/CEST Join this edie webinar, sponsored by South Pole, on 12 November 2026 to learn more about building the business case for Scope 3.",
-      "url": "https://www.edie.net/the-scope-3-business-case-from-targets-to-funded-delivered-emissions-reductions/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-14T09:48:16.000Z",
-      "why": null,
-      "ago": "15 小時前"
+      "ago": "20 小時前"
     }
   ],
   "errors": []

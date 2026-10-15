@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-15T00:38:37.992Z",
-  "updatedLocal": "2026/10/15 08:38:37",
+  "updated": "2026-10-15T08:05:05.218Z",
+  "updatedLocal": "2026/10/15 16:05:05",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-14T16:17:33.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "First Principles First: Need to Calibrate Data Access for Disaster Resilience",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-10-14T17:17:54.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Good Governance Needs a Strong Code of Conduct",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-10-14T18:33:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Singapore office and government MOU",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-14T08:30:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-10-14T12:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "SentinelOne cuts malware analysis from weeks to hours",
@@ -92,7 +92,7 @@
       "group": "ai",
       "published": "2026-10-14T12:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
@@ -103,7 +103,7 @@
       "group": "ai",
       "published": "2026-10-14T07:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
       "title": "How Block is building AI-powered security with OpenAI technology",
@@ -114,7 +114,7 @@
       "group": "ai",
       "published": "2026-10-14T07:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

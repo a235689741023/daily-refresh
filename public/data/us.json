@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-15T00:38:37.992Z",
-  "updatedLocal": "2026/10/15 08:38:37",
+  "updated": "2026-10-15T08:05:05.218Z",
+  "updatedLocal": "2026/10/15 16:05:05",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-14T20:06:28.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-10-14T20:22:09.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-10-14T20:20:46.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "China's exports and imports surge past expectations in September",
@@ -48,40 +48,18 @@
       "group": null,
       "published": "2026-10-14T03:41:36.000Z",
       "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-      "summary": "BEIJING — Equity investors are skeptical of Chinese companies' rapid expansion overseas, according to Goldman Sachs.",
-      "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-13T23:05:12.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-      "summary": "JPMorgan Chase won't allow outside artificial intelligence agents to access customer accounts and operate on their behalf, CEO Jamie Dimon said Tuesday, citing risks to the company and its customers as tech firms including Meta release autonomous assistants.",
-      "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "UK economy grew 0.1% in August, beating expectations",
+      "summary": "The U.K. economy grew by a better-than-expected 0.1% in the month to August, with production growth offsetting weak output in services and construction.",
+      "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-10-13T20:48:37.000Z",
+      "published": "2026-10-15T07:15:28.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
-      "summary": "New York Federal Reserve President John Williams said Tuesday that he doesn't see additional rate hikes in 2027 after one more increase this year.",
-      "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-13T19:46:12.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "50 分鐘前"
     },
     {
       "title": "How high inflation became a 'fact of life' in the U.S.",
@@ -92,7 +70,7 @@
       "group": null,
       "published": "2026-10-14T17:20:23.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
@@ -103,18 +81,40 @@
       "group": null,
       "published": "2026-10-14T13:53:28.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
-      "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
-      "summary": "BANGKOK — The Philippine central bank is planning for a \"Godzilla\" El Niño on top of a prolonged oil shock, as the Southeast Asian nation tries to rein in inflation from three-year highs.",
-      "url": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html",
+      "title": "IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits",
+      "summary": "BANGKOK — The International Monetary Fund has raised its forecast for global growth this year as the AI-driven investment boom helps offset some of the impact from surging energy costs, while warning that economic resilience could be nearing its breaking point.",
+      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-10-14T04:24:28.000Z",
+      "published": "2026-10-15T06:35:31.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Anthropic’s slowing growth could be the AI trade’s latest red flag",
+      "summary": "Anthropic’s slowing growth could be the AI trade’s latest red flag Choose MarketWatch as a preferred source of financial news # Anthropic’s slowing growth could be the AI trade’s latest red flag ## Anthropic’s revenue growth appears to be cooling as the company prepares for its public debut, further stoking investors’ AI jitters Choose MarketWatch as a preferred source of financial news Anthropic generated $16.8 billion in third-quarter revenue, according to the Financial Times.",
+      "url": "https://www.marketwatch.com/story/anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-292d0169?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-15T01:07:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-15T00:02:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
     }
   ],
   "errors": [
