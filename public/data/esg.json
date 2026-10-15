@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-15T08:05:05.218Z",
-  "updatedLocal": "2026/10/15 16:05:05",
+  "updated": "2026-10-15T17:25:24.394Z",
+  "updatedLocal": "2026/10/16 01:25:24",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "‘Stay optimistic’: Career advice from the outgoing CSO of IKEA’s largest retailer",
+      "summary": "Karen Pflug, chief sustainability officer at IKEA’s largest retailer, Ingka Group, is leaving the company at the end of December after 12 years.",
+      "url": "https://trellis.net/article/stay-optimistic-career-advice-from-the-outgoing-cso-of-ikeas-largest-retailer/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-15T16:10:03.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
     {
       "title": "Updated: Sustainability leadership moves",
       "summary": "As corporate sustainability matures, some long-time leaders are leaving the profession, while others are tackling a broader set of responsibilities following reorganizations or layoffs.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-14T23:43:45.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Updated: Sustainability tools to use in 2026",
@@ -26,84 +37,51 @@
       "group": null,
       "published": "2026-10-14T23:10:30.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
     },
     {
-      "title": "Pharma companies team up to reduce heat-related emissions",
-      "summary": "Pharmaceutical companies Sanofi, Opella and UCB have joined AstraZeneca as founders of the Clean Heat Program, which aims to reduce the use of fossil fuel-generated heat in industrial processes by helping companies transition to low-carbon alternatives.",
-      "url": "https://trellis.net/article/pharma-giants-create-clean-heat-program/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-14T06:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Are CEOs more confident than their staff about reaching net-zero by 2050?",
-      "summary": "UK business leaders are far more confident than frontline employees that their organisations will meet the 2050 net-zero target, as new research reveals a divide in awareness of corporate sustainability plans.",
-      "url": "https://www.edie.net/are-ceos-more-confident-than-their-staff-about-reaching-net-zero-by-2050/",
+      "title": "COP17 on desertification: What happened and what comes next?",
+      "summary": "With the second summit of this tri-COP year starting on 19 October, edie gets you up to speed on everything you need to know from the seventeenth Conference of the Parties to the United Nations Convention to Combat Desertification (UNCCD COP17).",
+      "url": "https://www.edie.net/cop17-on-desertification-what-happened-and-what-comes-next/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-15T01:01:59.000Z",
+      "published": "2026-10-15T16:33:32.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "52 分鐘前"
     },
     {
-      "title": "edie 27: First speakers revealed for UK’s premier sustainable business event",
-      "summary": "edie is excited to announce some of the leading green economy and business voices who will be speaking at edie 27 next April, including leaders from WWF, Liverpool Football Club, Heineken, Lenovo and Ferrero.",
-      "url": "https://www.edie.net/edie-27-first-speakers-revealed-for-uks-premier-sustainable-business-event/",
+      "title": "UK Government unveils action plan to boost organic farming",
+      "summary": "As climate extremes intensify pressure on UK food resilience, the Government’s new action plan aims to expand organic farming, strengthen domestic supply chains and boost consumer demand.",
+      "url": "https://www.edie.net/uk-government-unveils-action-plan-to-boost-organic-farming/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-15T00:30:53.000Z",
+      "published": "2026-10-15T15:54:09.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "In practice: Innovations accelerating regenerative agriculture adoption",
-      "summary": "With businesses struggling to communicate sustainability endeavours transparently and dealing with short-term budget constraints, edie’s new ‘in practice’ series explores how some organisations are trialling and installing innovative projects to deliver climate action.",
-      "url": "https://www.edie.net/in-practice-innovations-accelerating-regenerative-agriculture-adoption/",
+      "title": "ONE DAY LEFT to nominate for edie’s 30 Under 30 class of 2027",
+      "summary": "Time is running out to nominate for edie’s next 30 Under 30 cohort, an initiative that celebrates the rising stars driving meaningful change across business.",
+      "url": "https://www.edie.net/edies-30-under-30-applications-close-this-friday/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-14T16:12:06.000Z",
+      "published": "2026-10-15T15:53:34.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "France falls short of emissions target despite 2026 reductions",
-      "summary": "France's emissions are set to fall 2.8% this year, but analysts warn that drop isn't enough to keep the country on track for its 2030 goal.",
-      "url": "https://www.edie.net/france-falls-short-of-emissions-target-despite-2026-reductions/",
+      "title": "Slowing the flow: Why flood resilience is becoming nature’s first investable asset",
+      "summary": "Insurers can see the flood risk coming, and they hold the capital to address it. What is missing is the contract.",
+      "url": "https://www.edie.net/slowing-the-flow-why-flood-resilience-is-becoming-natures-first-investable-asset/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-14T15:02:36.000Z",
+      "published": "2026-10-15T11:29:40.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Banks retreat from climate targets as net-zero commitments weaken",
-      "summary": "New research has revealed that banks globally are scaling back climate commitments, weakening policies on lending to high-emission companies and disclosing less information about their transition plans.",
-      "url": "https://www.edie.net/banks-retreat-from-climate-targets-as-net-zero-commitments-weaken/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-14T12:55:09.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Study: 76% of UK investors expect sustainability to shape business decisions",
-      "summary": "Over three-quarters of UK retail investors expect sustainability to feature in business or investment decisions, with governance standing out as a key ESG differentiator.",
-      "url": "https://www.edie.net/study-76-of-uk-investors-expect-sustainability-to-shape-business-decisions/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-14T11:49:32.000Z",
-      "why": null,
-      "ago": "20 小時前"
+      "ago": "6 小時前"
     },
     {
       "title": "NEXT WEEK: The future cost of EV charging – what businesses can’t afford to overlook",
@@ -112,9 +90,31 @@
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-14T11:38:24.000Z",
+      "published": "2026-10-15T09:38:24.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "8 小時前"
+    },
+    {
+      "title": "IN TWO WEEKS: How AI can accelerate investment in climate solutions",
+      "summary": "With just two weeks to go, sustainability professionals are invited to register for an upcoming edie webinar exploring how artificial intelligence (AI), market intelligence and human expertise can help businesses identify credible climate investment opportunities and secure the financial backing needed to turn sustainability ambitions into action.",
+      "url": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-15T09:09:35.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "How businesses can cut energy waste, control costs and prepare for 2027",
+      "summary": "edie partnered with JRP Solutions on a new webinar exploring how organisations can reduce energy waste, improve operational efficiency and strengthen their energy management strategies ahead of 2027.",
+      "url": "https://www.edie.net/how-businesses-can-cut-energy-waste-control-costs-and-prepare-for-2027/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-15T09:00:10.000Z",
+      "why": null,
+      "ago": "8 小時前"
     }
   ],
   "errors": []
