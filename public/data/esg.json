@@ -1,11 +1,33 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-14T17:39:16.506Z",
-  "updatedLocal": "2026/10/15 01:39:16",
+  "updated": "2026-10-15T00:38:37.992Z",
+  "updatedLocal": "2026/10/15 08:38:37",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Updated: Sustainability leadership moves",
+      "summary": "As corporate sustainability matures, some long-time leaders are leaving the profession, while others are tackling a broader set of responsibilities following reorganizations or layoffs.",
+      "url": "https://trellis.net/article/sustainability-leadership-moves/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-14T23:43:45.000Z",
+      "why": null,
+      "ago": "55 分鐘前"
+    },
+    {
+      "title": "Updated: Sustainability tools to use in 2026",
+      "summary": "Welcome to the Trellis roundup of new products and services for sustainability professionals, as chosen by our editorial team.",
+      "url": "https://trellis.net/article/corporate-sustainability-tools-to-use/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-14T23:10:30.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
     {
       "title": "Pharma companies team up to reduce heat-related emissions",
       "summary": "Pharmaceutical companies Sanofi, Opella and UCB have joined AstraZeneca as founders of the Clean Heat Program, which aims to reduce the use of fossil fuel-generated heat in industrial processes by helping companies transition to low-carbon alternatives.",
@@ -15,7 +37,18 @@
       "group": null,
       "published": "2026-10-14T06:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
+    },
+    {
+      "title": "edie 27: First speakers revealed for UK’s premier sustainable business event",
+      "summary": "edie is excited to announce some of the leading green economy and business voices who will be speaking at edie 27 next April, including leaders from WWF, Liverpool Football Club, Heineken, Lenovo and Ferrero.",
+      "url": "https://www.edie.net/edie-27-first-speakers-revealed-for-uks-premier-sustainable-business-event/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-15T00:30:53.000Z",
+      "why": null,
+      "ago": "8 分鐘前"
     },
     {
       "title": "In practice: Innovations accelerating regenerative agriculture adoption",
@@ -26,7 +59,7 @@
       "group": null,
       "published": "2026-10-14T16:12:06.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "France falls short of emissions target despite 2026 reductions",
@@ -37,7 +70,7 @@
       "group": null,
       "published": "2026-10-14T15:02:36.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Banks retreat from climate targets as net-zero commitments weaken",
@@ -48,7 +81,7 @@
       "group": null,
       "published": "2026-10-14T12:55:09.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Study: 76% of UK investors expect sustainability to shape business decisions",
@@ -59,7 +92,7 @@
       "group": null,
       "published": "2026-10-14T11:49:32.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "NEXT WEEK: The future cost of EV charging – what businesses can’t afford to overlook",
@@ -70,7 +103,7 @@
       "group": null,
       "published": "2026-10-14T11:38:24.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "The Scope 3 business case: From targets to funded, delivered emissions reductions",
@@ -81,40 +114,7 @@
       "group": null,
       "published": "2026-10-14T09:48:16.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "edie’s 30 Under 30: Applications close THIS FRIDAY",
-      "summary": "There’s just a couple of days left to nominate for edie’s 30 Under 30 Class of 2027, an initiative that celebrates the rising stars driving meaningful change across business.",
-      "url": "https://www.edie.net/edies-30-under-30-applications-close-this-friday/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-14T09:10:34.000Z",
-      "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "TWO WEEKS TO GO: How AI can accelerate investment in climate solutions",
-      "summary": "With just two weeks to go, sustainability professionals are invited to register for an upcoming edie webinar exploring how artificial intelligence (AI), market intelligence and human expertise can help businesses identify credible climate investment opportunities and secure the financial backing needed to turn sustainability ambitions into action.",
-      "url": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-14T09:09:35.000Z",
-      "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "THREE WEEKS TO GO: What SMEs need to know before investing in solar",
-      "summary": "Taking place on 5 November, this upcoming webinar will explore how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
-      "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-14T07:55:22.000Z",
-      "why": null,
-      "ago": "10 小時前"
+      "ago": "15 小時前"
     }
   ],
   "errors": []

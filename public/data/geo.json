@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-14T17:39:16.506Z",
-  "updatedLocal": "2026/10/15 01:39:16",
+  "updated": "2026-10-15T00:38:37.992Z",
+  "updatedLocal": "2026/10/15 08:38:37",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-14T16:17:33.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "First Principles First: Need to Calibrate Data Access for Disaster Resilience",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-10-14T17:17:54.000Z",
       "why": null,
-      "ago": "21 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "Good Governance Needs a Strong Code of Conduct",
@@ -37,7 +37,7 @@
       "group": "gis",
       "published": "2026-10-13T06:48:41.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "\"Pairing Geospatial Data with Homegrown AI\"... Wavus, Upstage Target Public-Sector AI Market",
@@ -51,6 +51,17 @@
       "ago": "3 天前"
     },
     {
+      "title": "Preparing for the 2026 US midterms",
+      "summary": "Earlier this year, we shared an update on our election safeguards , which described how we measure and prevent political bias, detect misuse, and direct people to accurate voting information.",
+      "url": "https://www.anthropic.com/news/2026-us-midterms",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-14T18:33:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
       "title": "Singapore office and government MOU",
       "summary": "Today, we are expanding our Asia-Pacific operations by opening a new office in Singapore—our fifth in the region—and signing a Memorandum of Understanding (MOU) with the Singapore Ministry of Digital Development and Information.",
       "url": "https://www.anthropic.com/news/singapore-office-opening",
@@ -59,18 +70,7 @@
       "group": "ai",
       "published": "2026-10-14T08:30:00.000Z",
       "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "Safeguards",
-      "summary": null,
-      "url": "https://safeguards.anthropic.com/",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-13T20:43:46.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
@@ -81,7 +81,18 @@
       "group": "ai",
       "published": "2026-10-14T12:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
+    },
+    {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "url": "https://openai.com/index/sentinelone",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-14T12:00:00.000Z",
+      "why": null,
+      "ago": "13 小時前"
     },
     {
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
@@ -92,29 +103,18 @@
       "group": "ai",
       "published": "2026-10-14T07:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "The EU’s next chapter in AI is agentic",
-      "summary": "Across the EU, businesses are expanding how they use AI through agentic tools. People are moving beyond asking questions to using agents to carry out tasks from planning through completion.",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-14T00:00:00.000Z",
-      "why": null,
       "ago": "18 小時前"
     },
     {
-      "title": "Redesigning source control at Anthropic",
-      "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "source": "Anthropic",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "summary": "Block is using AI systems including OpenAI Daybreak to compress the time to fix vulnerabilities, freeing its security team to focus on strategic work.",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-13T16:00:43.000Z",
+      "published": "2026-10-14T07:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "18 小時前"
     }
   ],
   "errors": []

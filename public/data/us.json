@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-14T17:39:16.506Z",
-  "updatedLocal": "2026/10/15 01:39:16",
+  "updated": "2026-10-15T00:38:37.992Z",
+  "updatedLocal": "2026/10/15 08:38:37",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+      "summary": "Bank of America has hired an army of external contractors to help it patch software vulnerabilities exposed by advanced artificial intelligence models including Anthropic's Mythos , the bank's CEO, Brian Moynihan , told CNBC on Wednesday.",
+      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-14T20:06:28.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
     {
       "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
       "summary": "Morgan Stanley posted third-quarter results that beat expectations on blockbuster results in its equities trading franchise.",
@@ -13,20 +24,20 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-14T17:08:23.000Z",
+      "published": "2026-10-14T20:22:09.000Z",
       "why": null,
-      "ago": "31 分鐘前"
+      "ago": "4 小時前"
     },
     {
-      "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
+      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
       "summary": "Bank of America on Wednesday posted a sharp profit decline after being hit with a $1.2 billion penalty by U.S. regulators, while revenue also disappointed after trading operations generated about $750 million less than expected.",
       "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-14T16:49:11.000Z",
+      "published": "2026-10-14T20:20:46.000Z",
       "why": null,
-      "ago": "50 分鐘前"
+      "ago": "4 小時前"
     },
     {
       "title": "China's exports and imports surge past expectations in September",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-10-14T03:41:36.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
@@ -48,18 +59,7 @@
       "group": null,
       "published": "2026-10-13T23:05:12.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
-      "summary": "New York Federal Reserve President John Williams said Tuesday that he doesn't see additional rate hikes in 2027 after one more increase this year.",
-      "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-13T19:46:12.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     },
     {
       "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
@@ -70,7 +70,18 @@
       "group": null,
       "published": "2026-10-13T20:48:37.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
+      "summary": "New York Federal Reserve President John Williams said Tuesday that he doesn't see additional rate hikes in 2027 after one more increase this year.",
+      "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-13T19:46:12.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "How high inflation became a 'fact of life' in the U.S.",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-10-14T17:20:23.000Z",
       "why": null,
-      "ago": "19 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-10-14T13:53:28.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-10-14T04:24:28.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "The latest inflation data is expected to show price increases are accelerating",
-      "summary": "Wednesday's closely watched reading on consumer prices could show intensifying inflationary pressures as energy costs keep climbing.",
-      "url": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-13T18:05:57.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "20 小時前"
     }
   ],
   "errors": [
