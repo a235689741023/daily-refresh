@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-15T17:25:24.394Z",
-  "updatedLocal": "2026/10/16 01:25:24",
+  "updated": "2026-10-16T00:30:57.084Z",
+  "updatedLocal": "2026/10/16 08:30:57",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "How your company can help eliminate harmful subsidies",
+      "summary": "The opinions expressed by Trellis expert contributors are their own, not those of Trellis .",
+      "url": "https://trellis.net/article/cop17-reform-harmful-environmental-subsidies/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-15T18:24:24.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
     {
       "title": "‘Stay optimistic’: Career advice from the outgoing CSO of IKEA’s largest retailer",
       "summary": "Karen Pflug, chief sustainability officer at IKEA’s largest retailer, Ingka Group, is leaving the company at the end of December after 12 years.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-15T16:10:03.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Updated: Sustainability leadership moves",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-10-14T23:43:45.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Updated: Sustainability tools to use in 2026",
@@ -37,7 +48,18 @@
       "group": null,
       "published": "2026-10-14T23:10:30.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "EU proposes one-year delay to methane rules for fossil fuel imports",
+      "summary": "The European Commission has proposed postponing methane reporting and verification requirements for imported fossil fuels by one year, citing concerns over energy supply disruption and implementation of the rules.",
+      "url": "https://www.edie.net/eu-proposes-one-year-delay-to-methane-rules-for-fossil-fuel-imports/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-15T21:19:42.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "COP17 on desertification: What happened and what comes next?",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-10-15T16:33:32.000Z",
       "why": null,
-      "ago": "52 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "UK Government unveils action plan to boost organic farming",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-10-15T15:54:09.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "ONE DAY LEFT to nominate for edie’s 30 Under 30 class of 2027",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-10-15T15:53:34.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Slowing the flow: Why flood resilience is becoming nature’s first investable asset",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-10-15T11:29:40.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "NEXT WEEK: The future cost of EV charging – what businesses can’t afford to overlook",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-10-15T09:38:24.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "IN TWO WEEKS: How AI can accelerate investment in climate solutions",
-      "summary": "With just two weeks to go, sustainability professionals are invited to register for an upcoming edie webinar exploring how artificial intelligence (AI), market intelligence and human expertise can help businesses identify credible climate investment opportunities and secure the financial backing needed to turn sustainability ambitions into action.",
-      "url": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-15T09:09:35.000Z",
-      "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "How businesses can cut energy waste, control costs and prepare for 2027",
-      "summary": "edie partnered with JRP Solutions on a new webinar exploring how organisations can reduce energy waste, improve operational efficiency and strengthen their energy management strategies ahead of 2027.",
-      "url": "https://www.edie.net/how-businesses-can-cut-energy-waste-control-costs-and-prepare-for-2027/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-15T09:00:10.000Z",
-      "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     }
   ],
   "errors": []

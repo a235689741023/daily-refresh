@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-15T17:25:24.394Z",
-  "updatedLocal": "2026/10/16 01:25:24",
+  "updated": "2026-10-16T00:30:57.084Z",
+  "updatedLocal": "2026/10/16 08:30:57",
   "digest": null,
   "watch": [],
   "items": [
@@ -29,17 +29,6 @@
       "ago": "昨日"
     },
     {
-      "title": "Good Governance Needs a Strong Code of Conduct",
-      "summary": "Editorial: Most geographers work for government agencies or do substantial business with them, so how those agencies are governed is our business too.",
-      "url": "https://www.geographyrealm.com/good-governance-code-of-conduct/",
-      "source": "GIS Lounge",
-      "tag": "應用",
-      "group": "gis",
-      "published": "2026-10-13T06:48:41.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
       "title": "\"Pairing Geospatial Data with Homegrown AI\"... Wavus, Upstage Target Public-Sector AI Market",
       "summary": "Upstage Head of Public Sector Business Lee Jaeyong (left) and Wavus CEO Park Changhun (right) pose for a commemorative photo after signing an MOU for joint research and cooperation on AI agents on the 8th.",
       "url": "https://www.asiae.co.kr/en/article/2026101209480531676",
@@ -51,15 +40,37 @@
       "ago": "4 天前"
     },
     {
-      "title": "Preparing for the 2026 US midterms",
-      "summary": "Earlier this year, we shared an update on our election safeguards , which described how we measure and prevent political bias, detect misuse, and direct people to accurate voting information.",
-      "url": "https://www.anthropic.com/news/2026-us-midterms",
+      "title": "Good Governance Needs a Strong Code of Conduct",
+      "summary": "Editorial: Most geographers work for government agencies or do substantial business with them, so how those agencies are governed is our business too.",
+      "url": "https://www.geographyrealm.com/good-governance-code-of-conduct/",
+      "source": "GIS Lounge",
+      "tag": "應用",
+      "group": "gis",
+      "published": "2026-10-13T06:48:41.000Z",
+      "why": null,
+      "ago": "3 天前"
+    },
+    {
+      "title": "An update on independent evaluators",
+      "summary": "Last month, we committed to stronger independent, third-party assessment of our models and safety practices.",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-14T18:33:00.000Z",
+      "published": "2026-10-15T17:20:00.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible labs sponsored access to GPT‑Rosalind and tools for life sciences discovery.",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-15T19:00:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "Teaching students to think and learn through questions",
@@ -70,27 +81,27 @@
       "group": "ai",
       "published": "2026-10-15T13:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "summary": "Amp ⁠ (opens in a new window) is building a frontier AI agent that helps developers turn ambitious ideas into working software.",
-      "url": "https://openai.com/index/amp-beyond-coding",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "url": "https://openai.com/index/sullivan-cromwell",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-14T12:00:00.000Z",
+      "published": "2026-10-15T00:00:00.000Z",
       "why": null,
       "ago": "昨日"
     },
     {
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "url": "https://openai.com/index/sentinelone",
-      "source": "OpenAI",
+      "title": "Preparing for the 2026 US midterms",
+      "summary": "Earlier this year, we shared an update on our election safeguards , which described how we measure and prevent political bias, detect misuse, and direct people to accurate voting information.",
+      "url": "https://www.anthropic.com/news/2026-us-midterms",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-14T12:00:00.000Z",
+      "published": "2026-10-14T18:33:00.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -103,18 +114,7 @@
       "group": "ai",
       "published": "2026-10-15T16:08:03.000Z",
       "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
-      "summary": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents.",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-10-15T17:00:23.000Z",
-      "why": null,
-      "ago": "25 分鐘前"
+      "ago": "8 小時前"
     }
   ],
   "errors": []

@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-15T17:25:24.394Z",
-  "updatedLocal": "2026/10/16 01:25:24",
+  "updated": "2026-10-16T00:30:57.084Z",
+  "updatedLocal": "2026/10/16 08:30:57",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "People in China are spending nearly as much of their income as Americans on healthcare",
+      "summary": "BEIJING — High healthcare costs are a big factor driving people in China to save, rather than spend, their money, the International Monetary Fund pointed out in a new book titled \"Toward a New Economic Growth Model for China.\"",
+      "url": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-15T23:00:01.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
+      "summary": "Harvard University's endowment grew 27.1% in fiscal year 2026, its strongest return in five years, the school said in its annual financial report released on Thursday.",
+      "url": "https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-15T19:53:49.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
     {
       "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
       "summary": "BEIJING — China intends to keep exporting rare earths to Europe regardless of whether a U.S. trade deal with Beijing gets extended past January.",
@@ -15,18 +37,7 @@
       "group": null,
       "published": "2026-10-15T09:02:31.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "summary": "Bank of America has hired an army of external contractors to help it patch software vulnerabilities exposed by advanced artificial intelligence models including Anthropic's Mythos , the bank's CEO, Brian Moynihan , told CNBC on Wednesday.",
-      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-14T20:06:28.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-10-14T20:22:09.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
@@ -48,7 +59,18 @@
       "group": null,
       "published": "2026-10-14T20:20:46.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+      "summary": "Bank of America has hired an army of external contractors to help it patch software vulnerabilities exposed by advanced artificial intelligence models including Anthropic's Mythos , the bank's CEO, Brian Moynihan , told CNBC on Wednesday.",
+      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-14T20:06:28.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Economists: Hot PPI shows Fed's work is not done",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-10-15T15:37:59.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-10-15T13:42:32.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-10-15T16:15:44.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-10-15T12:11:15.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "UK economy grew 0.1% in August, beating expectations",
-      "summary": "The U.K. economy grew by a better-than-expected 0.1% in the month to August, with production growth offsetting weak output in services and construction.",
-      "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-15T08:44:17.000Z",
-      "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "In charts: How one of the world's biggest economies got trapped by debt",
-      "summary": "France's parliament begins debate on the 2027 budget Tuesday as high deficits, rising debt and student protests sharpen the political cost of fiscal consolidation.",
-      "url": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-15T09:54:54.000Z",
-      "why": null,
-      "ago": "8 小時前"
+      "ago": "12 小時前"
     }
   ],
   "errors": [
