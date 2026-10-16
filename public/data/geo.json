@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-16T00:30:57.084Z",
-  "updatedLocal": "2026/10/16 08:30:57",
+  "updated": "2026-10-16T07:58:43.729Z",
+  "updatedLocal": "2026/10/16 15:58:43",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-14T16:17:33.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "First Principles First: Need to Calibrate Data Access for Disaster Resilience",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-10-14T17:17:54.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "\"Pairing Geospatial Data with Homegrown AI\"... Wavus, Upstage Target Public-Sector AI Market",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-10-15T17:20:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Bringing GPT-Rosalind to academic research labs",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-15T19:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Teaching students to think and learn through questions",
@@ -81,29 +81,7 @@
       "group": "ai",
       "published": "2026-10-15T13:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-      "url": "https://openai.com/index/sullivan-cromwell",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-15T00:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Preparing for the 2026 US midterms",
-      "summary": "Earlier this year, we shared an update on our election safeguards , which described how we measure and prevent political bias, detect misuse, and direct people to accurate voting information.",
-      "url": "https://www.anthropic.com/news/2026-us-midterms",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-14T18:33:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "19 小時前"
     },
     {
       "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
@@ -114,7 +92,29 @@
       "group": "ai",
       "published": "2026-10-15T16:08:03.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
+    },
+    {
+      "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+      "summary": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents.",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
+      "group": "ai",
+      "published": "2026-10-15T17:00:23.000Z",
+      "why": null,
+      "ago": "15 小時前"
+    },
+    {
+      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "summary": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents.",
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
+      "group": "ai",
+      "published": "2026-10-15T15:00:24.000Z",
+      "why": null,
+      "ago": "17 小時前"
     }
   ],
   "errors": []

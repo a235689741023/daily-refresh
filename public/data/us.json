@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-16T00:30:57.084Z",
-  "updatedLocal": "2026/10/16 08:30:57",
+  "updated": "2026-10-16T07:58:43.729Z",
+  "updatedLocal": "2026/10/16 15:58:43",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-15T23:00:01.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-10-15T19:53:49.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
@@ -37,40 +37,7 @@
       "group": null,
       "published": "2026-10-15T09:02:31.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-      "summary": "Morgan Stanley posted third-quarter results that beat expectations on blockbuster results in its equities trading franchise.",
-      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-14T20:22:09.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-      "summary": "Bank of America on Wednesday posted a sharp profit decline after being hit with a $1.2 billion penalty by U.S. regulators, while revenue also disappointed after trading operations generated about $750 million less than expected.",
-      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-14T20:20:46.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "summary": "Bank of America has hired an army of external contractors to help it patch software vulnerabilities exposed by advanced artificial intelligence models including Anthropic's Mythos , the bank's CEO, Brian Moynihan , told CNBC on Wednesday.",
-      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-14T20:06:28.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "23 小時前"
     },
     {
       "title": "Economists: Hot PPI shows Fed's work is not done",
@@ -81,7 +48,7 @@
       "group": null,
       "published": "2026-10-15T15:37:59.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
@@ -92,7 +59,7 @@
       "group": null,
       "published": "2026-10-15T13:42:32.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
@@ -103,7 +70,7 @@
       "group": null,
       "published": "2026-10-15T16:15:44.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
@@ -114,7 +81,40 @@
       "group": null,
       "published": "2026-10-15T12:11:15.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
+    },
+    {
+      "title": "UK economy grew 0.1% in August, beating expectations",
+      "summary": "The U.K. economy grew by a better-than-expected 0.1% in the month to August, with production growth offsetting weak output in services and construction.",
+      "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-15T08:44:17.000Z",
+      "why": null,
+      "ago": "23 小時前"
+    },
+    {
+      "title": "In charts: How one of the world's biggest economies got trapped by debt",
+      "summary": "France's parliament begins debate on the 2027 budget Tuesday as high deficits, rising debt and student protests sharpen the political cost of fiscal consolidation.",
+      "url": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-15T09:54:54.000Z",
+      "why": null,
+      "ago": "22 小時前"
+    },
+    {
+      "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-16T07:07:00.000Z",
+      "why": null,
+      "ago": "52 分鐘前"
     }
   ],
   "errors": [
