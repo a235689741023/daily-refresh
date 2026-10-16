@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-16T07:58:43.729Z",
-  "updatedLocal": "2026/10/16 15:58:43",
+  "updated": "2026-10-16T17:01:20.653Z",
+  "updatedLocal": "2026/10/17 01:01:20",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+      "summary": "BANGKOK – U.S. officials pressed Beijing on market access issues for Mastercard Inc and Citigroup Inc during at least two bilateral meetings with Chinese counterparts in Bangkok this week, according to a U.S. Treasury official.",
+      "url": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-16T16:46:18.000Z",
+      "why": null,
+      "ago": "15 分鐘前"
+    },
     {
       "title": "People in China are spending nearly as much of their income as Americans on healthcare",
       "summary": "BEIJING — High healthcare costs are a big factor driving people in China to save, rather than spend, their money, the International Monetary Fund pointed out in a new book titled \"Toward a New Economic Growth Model for China.\"",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-15T23:00:01.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
@@ -26,95 +37,84 @@
       "group": null,
       "published": "2026-10-15T19:53:49.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
-      "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
-      "summary": "BEIJING — China intends to keep exporting rare earths to Europe regardless of whether a U.S. trade deal with Beijing gets extended past January.",
-      "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-15T09:02:31.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Economists: Hot PPI shows Fed's work is not done",
-      "summary": "Wall Street estimates for the Federal Reserve's preferred inflation indicator now expect an acceleration from the level that prompted the central bank to hike rates last month.",
-      "url": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
+      "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+      "summary": "Traders are betting overwhelmingly that the Federal Reserve won't raise interest rates when it meets later this month.",
+      "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-10-15T15:37:59.000Z",
+      "published": "2026-10-16T16:27:31.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "34 分鐘前"
     },
     {
-      "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
-      "summary": "The International Monetary Fund should check its own forecasting record before criticizing U.S. fiscal policy, David Zervos, newly appointed counselor to the Treasury Secretary , said on Thursday.",
-      "url": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-15T13:42:32.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-      "summary": "September's producer price index came in much hotter than economists forecast on Thursday, underscoring the continued inflationary pressure from energy amid the U.S. war with Iran.",
-      "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-15T16:15:44.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-      "summary": "Long-term bond yields above 5% and a $2 trillion deficit are giving Americans a taste of what a U.S. debt crisis would be like.",
-      "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-15T12:11:15.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "UK economy grew 0.1% in August, beating expectations",
-      "summary": "The U.K. economy grew by a better-than-expected 0.1% in the month to August, with production growth offsetting weak output in services and construction.",
-      "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-15T08:44:17.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "In charts: How one of the world's biggest economies got trapped by debt",
-      "summary": "France's parliament begins debate on the 2027 budget Tuesday as high deficits, rising debt and student protests sharpen the political cost of fiscal consolidation.",
-      "url": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-15T09:54:54.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
+      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-16T07:07:00.000Z",
+      "published": "2026-10-16T16:39:00.000Z",
+      "why": null,
+      "ago": "22 分鐘前"
+    },
+    {
+      "title": "Elon Musk may have just taken a major step toward consolidating his empire",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/elon-musk-may-have-just-taken-a-major-step-toward-consolidating-his-empire-7d82dea6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-16T16:39:00.000Z",
+      "why": null,
+      "ago": "22 分鐘前"
+    },
+    {
+      "title": "Many of 2026’s hottest stocks have seen dramatic comedowns this week",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/many-of-2026s-hottest-stocks-have-seen-dramatic-comedowns-this-week-e5ae5d06?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-16T16:09:00.000Z",
       "why": null,
       "ago": "52 分鐘前"
+    },
+    {
+      "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-16T16:05:00.000Z",
+      "why": null,
+      "ago": "56 分鐘前"
+    },
+    {
+      "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-16T15:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Retiring abroad? Don’t cut these financial ties to the U.S.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-16T15:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
     }
   ],
   "errors": [

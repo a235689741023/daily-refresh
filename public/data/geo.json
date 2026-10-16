@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-16T07:58:43.729Z",
-  "updatedLocal": "2026/10/16 15:58:43",
+  "updated": "2026-10-16T17:01:20.653Z",
+  "updatedLocal": "2026/10/17 01:01:20",
   "digest": null,
   "watch": [],
   "items": [
@@ -37,7 +37,7 @@
       "group": "gis",
       "published": "2026-10-12T00:48:06.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
     },
     {
       "title": "Good Governance Needs a Strong Code of Conduct",
@@ -59,7 +59,18 @@
       "group": "ai",
       "published": "2026-10-15T17:20:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "24 小時前"
+    },
+    {
+      "title": "Training Alignment Auditors via Reinforcement Learning - Anthropic Alignment Science blog",
+      "summary": "We train LLM alignment auditors with reinforcement learning. In our training environment, the policy investigates target models with hidden behaviors planted in their system prompt.",
+      "url": "https://alignment.anthropic.com/2026/training-alignment-auditors/",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-15T21:57:53.000Z",
+      "why": null,
+      "ago": "19 小時前"
     },
     {
       "title": "Bringing GPT-Rosalind to academic research labs",
@@ -70,7 +81,7 @@
       "group": "ai",
       "published": "2026-10-15T19:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Teaching students to think and learn through questions",
@@ -81,7 +92,7 @@
       "group": "ai",
       "published": "2026-10-15T13:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
@@ -92,29 +103,18 @@
       "group": "ai",
       "published": "2026-10-15T16:08:03.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
-      "summary": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents.",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
+      "title": "Anthropic Co-founder Renews Call for Robust Regulation of Frontier AI - ASHARQ AL-AWSAT English",
+      "summary": "Anthropic Co-founder Renews Call for Robust Regulation of Frontier AI Anthropic co-founder Jack Clark renewed calls on Friday for regulating artificial intelligence, saying that allowing companies to continue to operate without robust legislation was like letting a race car loose on the streets at night without brakes.",
+      "url": "https://english.aawsat.com/technology/5330233-anthropic-co-founder-renews-call-robust-regulation-frontier-ai",
+      "source": "AI 政策",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-10-15T17:00:23.000Z",
+      "published": "2026-10-16T09:47:39.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-      "summary": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents.",
-      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-10-15T15:00:24.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "7 小時前"
     }
   ],
   "errors": []

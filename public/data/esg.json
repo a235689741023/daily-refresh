@@ -1,11 +1,33 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-16T07:58:43.729Z",
-  "updatedLocal": "2026/10/16 15:58:43",
+  "updated": "2026-10-16T17:01:20.653Z",
+  "updatedLocal": "2026/10/17 01:01:20",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Patagonia blurs the line between secondhand and new clothing",
+      "summary": "Outdoor apparel retailer Patagonia will no longer maintain a separate website to represent the used clothing in the Worn Wear collection, launched nine years ago.",
+      "url": "https://trellis.net/article/patagonia-adds-secondhand-items-main-ecommerce-site/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-16T14:00:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "How the maker of Advil and Tums adds the price of carbon to supplier contracts",
+      "summary": "The reason so many supply-chain decarbonization efforts flounder?",
+      "url": "https://trellis.net/article/haleon-carbon-pricing-procurement/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-15T23:29:45.000Z",
+      "why": null,
+      "ago": "18 小時前"
+    },
     {
       "title": "How your company can help eliminate harmful subsidies",
       "summary": "The opinions expressed by Trellis expert contributors are their own, not those of Trellis .",
@@ -15,7 +37,7 @@
       "group": null,
       "published": "2026-10-15T18:24:24.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "‘Stay optimistic’: Career advice from the outgoing CSO of IKEA’s largest retailer",
@@ -26,95 +48,73 @@
       "group": null,
       "published": "2026-10-15T16:10:03.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Suntory publishes first Climate Transition Plan",
-      "summary": "Suntory Beverage & Food Europe has published its first Climate Transition Plan, setting out measures to reduce emissions across its operations and value chain and achieve net-zero by 2050 or sooner.",
-      "url": "https://www.edie.net/suntory-publishes-first-climate-transition-plan/",
+      "title": "edie Energy & Tech Awards 2026: Winners unveiled at inaugural awards ceremony",
+      "summary": "Sky, Octopus Energy and HIVED are among the winners of this year’s edie Energy & Tech Awards, who were announced at a glittering ceremony in central London on Friday (16 October).",
+      "url": "https://www.edie.net/edie-energy-tech-awards-2026-winners-unveiled-at-inaugural-awards-ceremony/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-16T07:00:30.000Z",
+      "published": "2026-10-16T15:18:43.000Z",
       "why": null,
-      "ago": "58 分鐘前"
+      "ago": "2 小時前"
     },
     {
-      "title": "EU proposes one-year delay to methane rules for fossil fuel imports",
-      "summary": "The European Commission has proposed postponing methane reporting and verification requirements for imported fossil fuels by one year, citing concerns over energy supply disruption and implementation of the rules.",
-      "url": "https://www.edie.net/eu-proposes-one-year-delay-to-methane-rules-for-fossil-fuel-imports/",
+      "title": "COP17 on biodiversity: Everything you need to know",
+      "summary": "The 17th Conference of the Parties (COP17) to the Convention on Biological Diversity commences next week.",
+      "url": "https://www.edie.net/cop17-on-biodiversity-everything-you-need-to-know/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-15T21:19:42.000Z",
+      "published": "2026-10-16T12:05:30.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "5 小時前"
     },
     {
-      "title": "COP17 on desertification: What happened and what comes next?",
-      "summary": "With the second summit of this tri-COP year starting on 19 October, edie gets you up to speed on everything you need to know from the seventeenth Conference of the Parties to the United Nations Convention to Combat Desertification (UNCCD COP17).",
-      "url": "https://www.edie.net/cop17-on-desertification-what-happened-and-what-comes-next/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-15T16:33:32.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "UK Government unveils action plan to boost organic farming",
-      "summary": "As climate extremes intensify pressure on UK food resilience, the Government’s new action plan aims to expand organic farming, strengthen domestic supply chains and boost consumer demand.",
-      "url": "https://www.edie.net/uk-government-unveils-action-plan-to-boost-organic-farming/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-15T15:54:09.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "ONE DAY LEFT to nominate for edie’s 30 Under 30 class of 2027",
-      "summary": "Time is running out to nominate for edie’s next 30 Under 30 cohort, an initiative that celebrates the rising stars driving meaningful change across business.",
-      "url": "https://www.edie.net/edies-30-under-30-applications-close-this-friday/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-15T15:53:34.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Slowing the flow: Why flood resilience is becoming nature’s first investable asset",
-      "summary": "Insurers can see the flood risk coming, and they hold the capital to address it. What is missing is the contract.",
-      "url": "https://www.edie.net/slowing-the-flow-why-flood-resilience-is-becoming-natures-first-investable-asset/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-15T11:29:40.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "NEXT WEEK: The future cost of EV charging – what businesses can’t afford to overlook",
+      "title": "ON THURSDAY: The future cost of EV charging – what businesses can’t afford to overlook",
       "summary": "Join edie on 22 October for our 45-minute masterclass, 'The Future Cost of EV Charging,' delivered in partnership with Brook Green Supply.",
       "url": "https://www.edie.net/next-week-the-future-cost-of-ev-charging-what-businesses-cant-afford-to-overlook/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-15T09:38:24.000Z",
+      "published": "2026-10-16T09:38:24.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "7 小時前"
     },
     {
-      "title": "IN TWO WEEKS: How AI can accelerate investment in climate solutions",
+      "title": "Mixed picture of nature finance emerges ahead of CBD COP17",
+      "summary": "Yet, this progress casts a stark shadow. At the very same time, new analysis reveals banks are directing staggering sums towards activities that actively degrade natural ecosystems.",
+      "url": "https://www.edie.net/mixed-picture-of-nature-finance-emerges-ahead-of-cbd-cop17/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-16T09:17:56.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "NEXT WEEK: How AI can accelerate investment in climate solutions",
       "summary": "With just two weeks to go, sustainability professionals are invited to register for an upcoming edie webinar exploring how artificial intelligence (AI), market intelligence and human expertise can help businesses identify credible climate investment opportunities and secure the financial backing needed to turn sustainability ambitions into action.",
       "url": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-15T09:09:35.000Z",
+      "published": "2026-10-16T09:09:35.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Luxury floristry can no longer leave its impact unmeasured",
+      "summary": "Brand and impact lead at Blooming Haus, Jay Thorneycroft, breaks down why the floristry industry needs to begin measuring, disclosing and reducing its carbon.",
+      "url": "https://www.edie.net/luxury-floristry-can-no-longer-leave-its-impact-unmeasured/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-16T09:08:05.000Z",
+      "why": null,
+      "ago": "8 小時前"
     }
   ],
   "errors": []
