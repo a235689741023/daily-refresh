@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-17T00:37:23.169Z",
-  "updatedLocal": "2026/10/17 08:37:23",
+  "updated": "2026-10-17T07:36:35.896Z",
+  "updatedLocal": "2026/10/17 15:36:35",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,7 @@
       "group": null,
       "published": "2026-10-16T14:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "How the maker of Advil and Tums adds the price of carbon to supplier contracts",
-      "summary": "The reason so many supply-chain decarbonization efforts flounder?",
-      "url": "https://trellis.net/article/haleon-carbon-pricing-procurement/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-15T23:29:45.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "18 小時前"
     },
     {
       "title": "edie Energy & Tech Awards 2026: Winners unveiled at inaugural awards ceremony",
@@ -37,7 +26,7 @@
       "group": null,
       "published": "2026-10-16T15:18:43.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "COP17 on biodiversity: Everything you need to know",
@@ -48,7 +37,7 @@
       "group": null,
       "published": "2026-10-16T12:05:30.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "ON THURSDAY: The future cost of EV charging – what businesses can’t afford to overlook",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-10-16T09:38:24.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Mixed picture of nature finance emerges ahead of CBD COP17",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-10-16T09:17:56.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "NEXT WEEK: How AI can accelerate investment in climate solutions",
@@ -81,7 +70,7 @@
       "group": null,
       "published": "2026-10-16T09:09:35.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Luxury floristry can no longer leave its impact unmeasured",
@@ -92,7 +81,7 @@
       "group": null,
       "published": "2026-10-16T09:08:05.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "TWO WEEKS TO GO: What SMEs need to know before investing in solar",
@@ -103,7 +92,18 @@
       "group": null,
       "published": "2026-10-16T07:55:22.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "24 小時前"
+    },
+    {
+      "title": "COP17: Which countries have released new pledges to tackle nature loss?",
+      "summary": "Some 58% of countries have met a UN call to submit new pledges on addressing nature loss – two years after the original deadline – according to Carbon Brief analysis.",
+      "url": "https://www.carbonbrief.org/cop17-which-countries-have-released-new-pledges-to-tackle-nature-loss",
+      "source": "Carbon Brief",
+      "tag": "氣候",
+      "group": null,
+      "published": "2026-10-16T11:54:59.000Z",
+      "why": null,
+      "ago": "20 小時前"
     },
     {
       "title": "Suntory publishes first Climate Transition Plan",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-10-16T07:00:30.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

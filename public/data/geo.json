@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-17T00:37:23.169Z",
-  "updatedLocal": "2026/10/17 08:37:23",
+  "updated": "2026-10-17T07:36:35.896Z",
+  "updatedLocal": "2026/10/17 15:36:35",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-14T16:17:33.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "First Principles First: Need to Calibrate Data Access for Disaster Resilience",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-10-14T17:17:54.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "\"Pairing Geospatial Data with Homegrown AI\"... Wavus, Upstage Target Public-Sector AI Market",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-10-16T16:26:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Working at the frontier shapes expectations for the future",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-16T16:21:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Claude reveals ECDSA curve origins",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-10-16T17:02:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "The AI expectations gap",
@@ -92,7 +92,7 @@
       "group": "ai",
       "published": "2026-10-16T16:45:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Designing more efficient quantum circuits with Claude",
@@ -103,7 +103,7 @@
       "group": "ai",
       "published": "2026-10-16T17:29:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "How Itaú is building generative AI for its entire customer base",
@@ -114,7 +114,7 @@
       "group": "ai",
       "published": "2026-10-16T19:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     }
   ],
   "errors": []
