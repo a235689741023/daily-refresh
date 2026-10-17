@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-17T07:36:35.896Z",
-  "updatedLocal": "2026/10/17 15:36:35",
+  "updated": "2026-10-17T15:59:54.203Z",
+  "updatedLocal": "2026/10/17 23:59:54",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
+      "summary": "Investors may want to rethink their bond allocation and opt for managed futures exposure.",
+      "url": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-17T15:00:01.000Z",
+      "why": null,
+      "ago": "60 分鐘前"
+    },
+    {
+      "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
+      "summary": "At the time of its Nasdaq debut in July, Bending Spoons was a little-known holding company out of Italy that owned older internet names like AOL, Vimeo, Eventbrite and Evernote.",
+      "url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-17T15:11:30.000Z",
+      "why": null,
+      "ago": "48 分鐘前"
+    },
     {
       "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
       "summary": "BANGKOK – U.S. officials pressed Beijing on market access issues for Mastercard Inc and Citigroup Inc during at least two bilateral meetings with Chinese counterparts in Bangkok this week, according to a U.S. Treasury official.",
@@ -15,7 +37,7 @@
       "group": null,
       "published": "2026-10-16T16:46:18.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-10-16T22:34:29.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-10-16T16:27:31.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
@@ -48,73 +70,51 @@
       "group": null,
       "published": "2026-10-16T22:33:05.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-16T21:59:00.000Z",
+      "published": "2026-10-17T13:00:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-16T21:43:00.000Z",
+      "published": "2026-10-17T13:00:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
+      "title": "Influencers and biohackers swear by fasting. Here’s what the science says.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-16T21:35:00.000Z",
+      "published": "2026-10-17T12:31:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
+      "title": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-16T21:30:00.000Z",
+      "published": "2026-10-17T12:30:00.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-16T21:21:00.000Z",
-      "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-16T21:15:00.000Z",
-      "why": null,
-      "ago": "10 小時前"
+      "ago": "3 小時前"
     }
   ],
   "errors": [

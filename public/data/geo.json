@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-17T07:36:35.896Z",
-  "updatedLocal": "2026/10/17 15:36:35",
+  "updated": "2026-10-17T15:59:54.203Z",
+  "updatedLocal": "2026/10/17 23:59:54",
   "digest": null,
   "watch": [],
   "items": [
@@ -37,7 +37,7 @@
       "group": "gis",
       "published": "2026-10-12T00:48:06.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
       "title": "Good Governance Needs a Strong Code of Conduct",
@@ -51,17 +51,6 @@
       "ago": "4 天前"
     },
     {
-      "title": "How employment is changing at Anthropic",
-      "summary": "Nathan Wilmers, Regina Catipon, Maxim Massenkoff, Peter McCrory How has AI restructured work and employment at Anthropic?",
-      "url": "https://www.anthropic.com/research/employment-at-anthropic",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-16T16:26:00.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
       "title": "Working at the frontier shapes expectations for the future",
       "summary": "We’re sharing two reports: the first covers how AI is changing employment inside Anthropic, and the second looks at the gap between how the public and Anthropic employees expect AI to affect work and the economy.",
       "url": "https://www.anthropic.com/research/expectations-for-the-future",
@@ -70,18 +59,18 @@
       "group": "ai",
       "published": "2026-10-16T16:21:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "24 小時前"
     },
     {
-      "title": "Claude reveals ECDSA curve origins",
-      "summary": "“It’s just timestamps”: the decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "title": "How employment is changing at Anthropic",
+      "summary": "Nathan Wilmers, Regina Catipon, Maxim Massenkoff, Peter McCrory How has AI restructured work and employment at Anthropic?",
+      "url": "https://www.anthropic.com/research/employment-at-anthropic",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-16T17:02:00.000Z",
+      "published": "2026-10-16T16:26:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "The AI expectations gap",
@@ -92,7 +81,18 @@
       "group": "ai",
       "published": "2026-10-16T16:45:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "summary": "“It’s just timestamps”: the decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-16T17:02:00.000Z",
+      "why": null,
+      "ago": "23 小時前"
     },
     {
       "title": "Designing more efficient quantum circuits with Claude",
@@ -103,7 +103,7 @@
       "group": "ai",
       "published": "2026-10-16T17:29:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "How Itaú is building generative AI for its entire customer base",
@@ -114,7 +114,7 @@
       "group": "ai",
       "published": "2026-10-16T19:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     }
   ],
   "errors": []
