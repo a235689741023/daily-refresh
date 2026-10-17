@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-16T17:01:20.653Z",
-  "updatedLocal": "2026/10/17 01:01:20",
+  "updated": "2026-10-17T00:37:23.169Z",
+  "updatedLocal": "2026/10/17 08:37:23",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-16T16:46:18.000Z",
       "why": null,
-      "ago": "15 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "People in China are spending nearly as much of their income as Americans on healthcare",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-10-15T23:00:01.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
@@ -37,7 +37,18 @@
       "group": null,
       "published": "2026-10-15T19:53:49.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+      "summary": "The U.S. finished the 2026 fiscal year with a budget deficit of nearly $2 trillion, the latest measurement to underscore the extent of the country's financial stress.",
+      "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-16T22:34:29.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
@@ -48,73 +59,62 @@
       "group": null,
       "published": "2026-10-16T16:27:31.000Z",
       "why": null,
-      "ago": "34 分鐘前"
+      "ago": "8 小時前"
     },
     {
-      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
+      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+      "summary": "Long-term bond yields above 5% and a $2 trillion deficit are giving Americans a taste of what a U.S. debt crisis would be like.",
+      "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-10-16T16:39:00.000Z",
-      "why": null,
-      "ago": "22 分鐘前"
-    },
-    {
-      "title": "Elon Musk may have just taken a major step toward consolidating his empire",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/elon-musk-may-have-just-taken-a-major-step-toward-consolidating-his-empire-7d82dea6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-16T16:39:00.000Z",
-      "why": null,
-      "ago": "22 分鐘前"
-    },
-    {
-      "title": "Many of 2026’s hottest stocks have seen dramatic comedowns this week",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/many-of-2026s-hottest-stocks-have-seen-dramatic-comedowns-this-week-e5ae5d06?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-16T16:09:00.000Z",
-      "why": null,
-      "ago": "52 分鐘前"
-    },
-    {
-      "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-16T16:05:00.000Z",
-      "why": null,
-      "ago": "56 分鐘前"
-    },
-    {
-      "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-16T15:00:00.000Z",
+      "published": "2026-10-16T22:33:05.000Z",
       "why": null,
       "ago": "2 小時前"
     },
     {
-      "title": "Retiring abroad? Don’t cut these financial ties to the U.S.",
+      "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-16T15:00:00.000Z",
+      "published": "2026-10-16T21:59:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "3 小時前"
+    },
+    {
+      "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-16T21:43:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-16T21:35:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-16T21:30:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
     }
   ],
   "errors": [

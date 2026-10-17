@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-16T17:01:20.653Z",
-  "updatedLocal": "2026/10/17 01:01:20",
+  "updated": "2026-10-17T00:37:23.169Z",
+  "updatedLocal": "2026/10/17 08:37:23",
   "digest": null,
   "watch": [],
   "items": [
@@ -48,73 +48,73 @@
       "group": "gis",
       "published": "2026-10-13T06:48:41.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
-      "title": "An update on independent evaluators",
-      "summary": "Last month, we committed to stronger independent, third-party assessment of our models and safety practices.",
-      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "title": "How employment is changing at Anthropic",
+      "summary": "Nathan Wilmers, Regina Catipon, Maxim Massenkoff, Peter McCrory How has AI restructured work and employment at Anthropic?",
+      "url": "https://www.anthropic.com/research/employment-at-anthropic",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-15T17:20:00.000Z",
+      "published": "2026-10-16T16:26:00.000Z",
       "why": null,
-      "ago": "24 小時前"
+      "ago": "8 小時前"
     },
     {
-      "title": "Training Alignment Auditors via Reinforcement Learning - Anthropic Alignment Science blog",
-      "summary": "We train LLM alignment auditors with reinforcement learning. In our training environment, the policy investigates target models with hidden behaviors planted in their system prompt.",
-      "url": "https://alignment.anthropic.com/2026/training-alignment-auditors/",
+      "title": "Working at the frontier shapes expectations for the future",
+      "summary": "We’re sharing two reports: the first covers how AI is changing employment inside Anthropic, and the second looks at the gap between how the public and Anthropic employees expect AI to affect work and the economy.",
+      "url": "https://www.anthropic.com/research/expectations-for-the-future",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-15T21:57:53.000Z",
+      "published": "2026-10-16T16:21:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "8 小時前"
     },
     {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible labs sponsored access to GPT‑Rosalind and tools for life sciences discovery.",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "source": "OpenAI",
+      "title": "Claude reveals ECDSA curve origins",
+      "summary": "“It’s just timestamps”: the decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-15T19:00:00.000Z",
+      "published": "2026-10-16T17:02:00.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "8 小時前"
     },
     {
-      "title": "Teaching students to think and learn through questions",
-      "summary": "On Teachers’ Day, we celebrate those who help us learn. A good question can change the course of a lesson.",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "source": "OpenAI",
+      "title": "The AI expectations gap",
+      "summary": "Szymon Sacher, Tess Cotter, Charles I. Jones, Anton Korinek, Peter McCrory How will AI reshape the economy in the years ahead?",
+      "url": "https://www.anthropic.com/research/ai-expectations-gap",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-15T13:00:00.000Z",
+      "published": "2026-10-16T16:45:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "8 小時前"
     },
     {
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "summary": "Pengfei Tian, Maxwell L. Bileschi, Zoi Tsangalidou, Sukhdeep Singh and Lucy J.",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "source": "Google DeepMind",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "summary": "Quantum computers will need carefully designed circuits to run useful algorithms on limited hardware.",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-15T16:08:03.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Anthropic Co-founder Renews Call for Robust Regulation of Frontier AI - ASHARQ AL-AWSAT English",
-      "summary": "Anthropic Co-founder Renews Call for Robust Regulation of Frontier AI Anthropic co-founder Jack Clark renewed calls on Friday for regulating artificial intelligence, saying that allowing companies to continue to operate without robust legislation was like letting a race car loose on the streets at night without brakes.",
-      "url": "https://english.aawsat.com/technology/5330233-anthropic-co-founder-renews-call-robust-regulation-frontier-ai",
-      "source": "AI 政策",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-16T09:47:39.000Z",
+      "published": "2026-10-16T17:29:00.000Z",
       "why": null,
       "ago": "7 小時前"
+    },
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "summary": "With ia. i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-16T19:00:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
     }
   ],
   "errors": []

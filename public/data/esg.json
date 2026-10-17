@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-16T17:01:20.653Z",
-  "updatedLocal": "2026/10/17 01:01:20",
+  "updated": "2026-10-17T00:37:23.169Z",
+  "updatedLocal": "2026/10/17 08:37:23",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-16T14:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "How the maker of Advil and Tums adds the price of carbon to supplier contracts",
@@ -25,28 +25,6 @@
       "tag": "國際",
       "group": null,
       "published": "2026-10-15T23:29:45.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "How your company can help eliminate harmful subsidies",
-      "summary": "The opinions expressed by Trellis expert contributors are their own, not those of Trellis .",
-      "url": "https://trellis.net/article/cop17-reform-harmful-environmental-subsidies/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-15T18:24:24.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "‘Stay optimistic’: Career advice from the outgoing CSO of IKEA’s largest retailer",
-      "summary": "Karen Pflug, chief sustainability officer at IKEA’s largest retailer, Ingka Group, is leaving the company at the end of December after 12 years.",
-      "url": "https://trellis.net/article/stay-optimistic-career-advice-from-the-outgoing-cso-of-ikeas-largest-retailer/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-15T16:10:03.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -59,7 +37,7 @@
       "group": null,
       "published": "2026-10-16T15:18:43.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "COP17 on biodiversity: Everything you need to know",
@@ -70,7 +48,7 @@
       "group": null,
       "published": "2026-10-16T12:05:30.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "ON THURSDAY: The future cost of EV charging – what businesses can’t afford to overlook",
@@ -81,7 +59,7 @@
       "group": null,
       "published": "2026-10-16T09:38:24.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Mixed picture of nature finance emerges ahead of CBD COP17",
@@ -92,7 +70,7 @@
       "group": null,
       "published": "2026-10-16T09:17:56.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "NEXT WEEK: How AI can accelerate investment in climate solutions",
@@ -103,7 +81,7 @@
       "group": null,
       "published": "2026-10-16T09:09:35.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Luxury floristry can no longer leave its impact unmeasured",
@@ -114,7 +92,29 @@
       "group": null,
       "published": "2026-10-16T09:08:05.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
+    },
+    {
+      "title": "TWO WEEKS TO GO: What SMEs need to know before investing in solar",
+      "summary": "Taking place on 5 November, this upcoming webinar will explore how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
+      "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-16T07:55:22.000Z",
+      "why": null,
+      "ago": "17 小時前"
+    },
+    {
+      "title": "Suntory publishes first Climate Transition Plan",
+      "summary": "Suntory Beverage & Food Europe has published its first Climate Transition Plan, setting out measures to reduce emissions across its operations and value chain and achieve net-zero by 2050 or sooner.",
+      "url": "https://www.edie.net/suntory-publishes-first-climate-transition-plan/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-16T07:00:30.000Z",
+      "why": null,
+      "ago": "18 小時前"
     }
   ],
   "errors": []
