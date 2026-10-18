@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-17T15:59:54.203Z",
-  "updatedLocal": "2026/10/17 23:59:54",
+  "updated": "2026-10-18T00:07:12.542Z",
+  "updatedLocal": "2026/10/18 08:07:12",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,17 +18,6 @@
       "ago": "3 天前"
     },
     {
-      "title": "First Principles First: Need to Calibrate Data Access for Disaster Resilience",
-      "summary": "Every year on October 13, the United Nations marks the International Day for Disaster Risk Reduction, a date the General Assembly fixed in 2009 after first setting aside a day for natural disaster reduction in 1989.",
-      "url": "https://geospatialworld.net/prime/business-and-industry-trends/first-principles-first-need-to-calibrate-data-access-for-disaster-resilience/",
-      "source": "Geospatial World",
-      "tag": "產業",
-      "group": "gis",
-      "published": "2026-10-14T17:17:54.000Z",
-      "why": null,
-      "ago": "3 天前"
-    },
-    {
       "title": "\"Pairing Geospatial Data with Homegrown AI\"... Wavus, Upstage Target Public-Sector AI Market",
       "summary": "Upstage Head of Public Sector Business Lee Jaeyong (left) and Wavus CEO Park Changhun (right) pose for a commemorative photo after signing an MOU for joint research and cooperation on AI agents on the 8th.",
       "url": "https://www.asiae.co.kr/en/article/2026101209480531676",
@@ -40,6 +29,17 @@
       "ago": "6 天前"
     },
     {
+      "title": "First Principles First: Need to Calibrate Data Access for Disaster Resilience",
+      "summary": "Every year on October 13, the United Nations marks the International Day for Disaster Risk Reduction, a date the General Assembly fixed in 2009 after first setting aside a day for natural disaster reduction in 1989.",
+      "url": "https://geospatialworld.net/prime/business-and-industry-trends/first-principles-first-need-to-calibrate-data-access-for-disaster-resilience/",
+      "source": "Geospatial World",
+      "tag": "產業",
+      "group": "gis",
+      "published": "2026-10-14T17:17:54.000Z",
+      "why": null,
+      "ago": "3 天前"
+    },
+    {
       "title": "Good Governance Needs a Strong Code of Conduct",
       "summary": "Editorial: Most geographers work for government agencies or do substantial business with them, so how those agencies are governed is our business too.",
       "url": "https://www.geographyrealm.com/good-governance-code-of-conduct/",
@@ -48,62 +48,7 @@
       "group": "gis",
       "published": "2026-10-13T06:48:41.000Z",
       "why": null,
-      "ago": "4 天前"
-    },
-    {
-      "title": "Working at the frontier shapes expectations for the future",
-      "summary": "We’re sharing two reports: the first covers how AI is changing employment inside Anthropic, and the second looks at the gap between how the public and Anthropic employees expect AI to affect work and the economy.",
-      "url": "https://www.anthropic.com/research/expectations-for-the-future",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-16T16:21:00.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "How employment is changing at Anthropic",
-      "summary": "Nathan Wilmers, Regina Catipon, Maxim Massenkoff, Peter McCrory How has AI restructured work and employment at Anthropic?",
-      "url": "https://www.anthropic.com/research/employment-at-anthropic",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-16T16:26:00.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "The AI expectations gap",
-      "summary": "Szymon Sacher, Tess Cotter, Charles I. Jones, Anton Korinek, Peter McCrory How will AI reshape the economy in the years ahead?",
-      "url": "https://www.anthropic.com/research/ai-expectations-gap",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-16T16:45:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Claude reveals ECDSA curve origins",
-      "summary": "“It’s just timestamps”: the decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-16T17:02:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Designing more efficient quantum circuits with Claude",
-      "summary": "Quantum computers will need carefully designed circuits to run useful algorithms on limited hardware.",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-16T17:29:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "5 天前"
     },
     {
       "title": "How Itaú is building generative AI for its entire customer base",
@@ -114,7 +59,62 @@
       "group": "ai",
       "published": "2026-10-16T19:00:00.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "summary": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
+      "group": "ai",
+      "published": "2026-10-17T21:00:13.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Anthropic’s AI Safety Bill Has an Alarming Threshold for Government Action",
+      "summary": "CEO of Anthropic Dario Amodei looks on as U.S. President Donald Trump holds a press briefing with AI executives on September 29, 2026.",
+      "url": "https://www.motherjones.com/politics/2026/10/anthropics-ai-safety-bill-has-an-alarming-threshold-for-government-action/",
+      "source": "Mother Jones",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-17T19:25:21.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
+      "summary": "San Francisco, United States – In his last few executive orders signed as California governor, Gavin Newsom, whose final term ends in January, issued one asking for independent verification of artificial intelligence models and set up an expert committee to create kill switches for AI agents that could go rogue and cause harm.",
+      "url": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run",
+      "source": "Al Jazeera",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-17T14:09:13.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
+    {
+      "title": "Can AI be regulated? Why experts say government intervention is needed — but could be tricky",
+      "summary": "As concerns mount over incidents of AI agents going rogue, experts and stakeholders are increasingly pushing for government regulation of AI systems that are becoming more capable.",
+      "url": "https://www.cbc.ca/news/business/ai-safety-regulation-9.7382483",
+      "source": "CBC",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-17T08:00:00.000Z",
+      "why": null,
+      "ago": "16 小時前"
+    },
+    {
+      "title": "Bill Gates leans on CEOs as he plans a bigger AI safety push, Axios reports",
+      "summary": "Bill Gates plans to widen his push on AI safety, Axios reported, citing unnamed sources.",
+      "url": "https://thenextweb.com/news/bill-gates-ai-safety-push-ceos-axios",
+      "source": "The Next Web",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-17T19:16:22.000Z",
+      "why": null,
+      "ago": "5 小時前"
     }
   ],
   "errors": []
