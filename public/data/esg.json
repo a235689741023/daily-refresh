@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-18T07:52:09.723Z",
-  "updatedLocal": "2026/10/18 15:52:09",
+  "updated": "2026-10-18T16:11:34.754Z",
+  "updatedLocal": "2026/10/19 00:11:34",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-18T04:41:02.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "能源週、淨零展吸近1.8萬人！AI用電需求成焦點 明年10/27再登場",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-10-18T02:10:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "聚焦能源韌性與淨零轉型！台灣國際淨零永續展、智慧能源週吸引 1.8 萬人參觀",
@@ -37,18 +37,18 @@
       "group": null,
       "published": "2026-10-18T04:18:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "榮耀永續、學習共好！臺灣港務公司第4度獲教育部評比優等獎 | 勁報",
-      "summary": "您使用的瀏覽器版本較舊，已不再受支援。建議您更新瀏覽器版本，以獲得最佳使用體驗。",
-      "url": "https://today.line.me/tw/v3/article/5yv8M0K",
-      "source": "LINE TODAY",
+      "title": "中央政府推動建立員工學習制度獎勵 臺灣港務公司再拿優等獎",
+      "summary": null,
+      "url": "https://n.yam.com/Article/20261017565501",
+      "source": "蕃新聞",
       "tag": "人才",
       "group": null,
-      "published": "2026-10-17T10:22:36.000Z",
+      "published": "2026-10-17T13:36:00.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
       "title": "高雄港區新聞網 / 臺灣港務公司四度拿下教育部優等獎 AI共學、人才永續成轉型關鍵",
@@ -59,29 +59,18 @@
       "group": null,
       "published": "2026-10-17T11:43:29.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "榮耀永續．學習共好　港務公司再獲員工學習制度獎勵優等獎",
-      "summary": "▲港務公司榮獲「中央政府推動建立員工學習制度獎勵」優等獎殊榮，由港務公司沈光青助理副總經理(右)代表受獎。",
-      "url": "https://finance.ettoday.net/news/3256399",
-      "source": "ETtoday財經雲",
+      "title": "榮耀永續、學習共好！臺灣港務公司第4度獲教育部評比優等獎 | 勁報",
+      "summary": "您使用的瀏覽器版本較舊，已不再受支援。建議您更新瀏覽器版本，以獲得最佳使用體驗。",
+      "url": "https://today.line.me/tw/v3/article/5yv8M0K",
+      "source": "LINE TODAY",
       "tag": "人才",
       "group": null,
-      "published": "2026-10-17T09:18:00.000Z",
+      "published": "2026-10-17T10:22:36.000Z",
       "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "榮耀永續、學習共好！臺灣港務公司第4度獲教育部員工學習制度優等獎",
-      "summary": null,
-      "url": "https://n.yam.com/Article/20261017456511",
-      "source": "蕃新聞",
-      "tag": "人才",
-      "group": null,
-      "published": "2026-10-17T09:30:00.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
