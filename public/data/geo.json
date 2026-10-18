@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-18T00:07:12.542Z",
-  "updatedLocal": "2026/10/18 08:07:12",
+  "updated": "2026-10-18T07:52:09.723Z",
+  "updatedLocal": "2026/10/18 15:52:09",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-14T16:17:33.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
       "title": "\"Pairing Geospatial Data with Homegrown AI\"... Wavus, Upstage Target Public-Sector AI Market",
@@ -37,7 +37,7 @@
       "group": "gis",
       "published": "2026-10-14T17:17:54.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
       "title": "Good Governance Needs a Strong Code of Conduct",
@@ -51,17 +51,6 @@
       "ago": "5 天前"
     },
     {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "summary": "With ia. i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-16T19:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
       "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
       "summary": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.",
       "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
@@ -70,7 +59,7 @@
       "group": "ai",
       "published": "2026-10-17T21:00:13.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Anthropic’s AI Safety Bill Has an Alarming Threshold for Government Action",
@@ -79,9 +68,9 @@
       "source": "Mother Jones",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-10-17T19:25:21.000Z",
+      "published": "2026-10-17T19:21:24.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
@@ -92,18 +81,7 @@
       "group": "ai",
       "published": "2026-10-17T14:09:13.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "Can AI be regulated? Why experts say government intervention is needed — but could be tricky",
-      "summary": "As concerns mount over incidents of AI agents going rogue, experts and stakeholders are increasingly pushing for government regulation of AI systems that are becoming more capable.",
-      "url": "https://www.cbc.ca/news/business/ai-safety-regulation-9.7382483",
-      "source": "CBC",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-17T08:00:00.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Bill Gates leans on CEOs as he plans a bigger AI safety push, Axios reports",
@@ -114,7 +92,29 @@
       "group": "ai",
       "published": "2026-10-17T19:16:22.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
+    },
+    {
+      "title": "Can AI be regulated? Why experts say government intervention is needed — but could be tricky",
+      "summary": "As concerns mount over incidents of AI agents going rogue, experts and stakeholders are increasingly pushing for government regulation of AI systems that are becoming more capable.",
+      "url": "https://www.cbc.ca/news/business/ai-safety-regulation-9.7382483",
+      "source": "CBC",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-17T08:00:00.000Z",
+      "why": null,
+      "ago": "24 小時前"
+    },
+    {
+      "title": "Anthropic proposes federal AI safety law to US Congress",
+      "summary": "The artificial intelligence company Anthropic has circulated a draft bill among US lawmakers that would empower federal authorities to block the release of advanced AI systems posing catastrophic risks, as Washington struggles to pass comprehensive legislation while the industry faces mounting safety concerns.",
+      "url": "https://en.yenisafak.com/world/anthropic-proposes-federal-ai-safety-law-to-us-congress-3724536",
+      "source": "Yeni Şafak English",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-17T08:30:42.000Z",
+      "why": null,
+      "ago": "23 小時前"
     }
   ],
   "errors": []
