@@ -1,11 +1,44 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-19T08:36:43.898Z",
-  "updatedLocal": "2026/10/19 16:36:43",
+  "updated": "2026-10-19T18:52:09.693Z",
+  "updatedLocal": "2026/10/20 02:52:09",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+      "summary": "Heading into 2026, investors were excited at the prospect of a host of new initial public offerings , including ones from mega-cap private companies like SpaceX , Anthropic and OpenAI .",
+      "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-19T16:42:14.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+      "summary": "JPMorgan Chase has made $5 billion in startup investments in the first year of its U.S. security and resiliency initiative , the company said Monday, a faster-than-expected pace that indicates the bank is finding plentiful opportunities in emerging defense, manufacturing and supply chain firms.",
+      "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-19T12:34:01.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+      "summary": "Decades before Siri or Alexa or ChatGPT, there was a real person, almost always a woman, at the center of the information world.",
+      "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-19T18:36:21.000Z",
+      "why": null,
+      "ago": "16 分鐘前"
+    },
     {
       "title": "India’s finance minister says market liquidity makes it easier for investors to exit",
       "summary": "The high degree of liquidity in India's equity market has provided easier exits to foreign portfolio investors, according to Finance Minister Nirmala Sitharaman.",
@@ -15,106 +48,73 @@
       "group": null,
       "published": "2026-10-19T08:23:33.000Z",
       "why": null,
-      "ago": "13 分鐘前"
+      "ago": "10 小時前"
     },
     {
-      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+      "title": "One of this year’s most important relationships in global financial markets is falling apart",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/one-of-this-years-most-important-relationships-in-global-financial-markets-is-falling-apart-2cf58121?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-18T17:00:00.000Z",
+      "published": "2026-10-19T17:43:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "1 小時前"
     },
     {
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "title": "When should you dump your target-date funds?",
+      "summary": "When should you dump your target-date funds? Choose MarketWatch as a preferred source of financial news # When should you dump your target-date funds?",
+      "url": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-18T16:15:00.000Z",
+      "published": "2026-10-19T17:31:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "1 小時前"
     },
     {
-      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "title": "‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-18T16:00:00.000Z",
+      "published": "2026-10-19T17:30:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "1 小時前"
     },
     {
-      "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
+      "title": "Micron and other chip stocks spring back to life after bruising selloff",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-18T15:15:00.000Z",
+      "published": "2026-10-19T16:59:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-      "summary": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year? Choose MarketWatch as a preferred source of financial news # I’m 63 and diagnosed with lymphoma.",
-      "url": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-18T15:00:00.000Z",
+      "published": "2026-10-19T16:42:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
+      "title": "SpaceX’s stock made billions for college endowments. But their luck is about to run out.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/spacex-stock-made-billions-for-college-endowments-but-their-luck-is-about-to-run-out-1711c34d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-18T14:00:00.000Z",
+      "published": "2026-10-19T16:35:00.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-18T13:00:00.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-18T12:00:00.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Australia central banker sees signs of labour market easing",
-      "summary": null,
-      "url": "https://www.reuters.com/world/asia-pacific/australia-central-banker-sees-signs-labour-market-easing-2026-10-19/",
-      "source": "Reuters",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-19T01:18:00.000Z",
-      "why": null,
-      "ago": "7 小時前"
+      "ago": "2 小時前"
     }
   ],
   "errors": [

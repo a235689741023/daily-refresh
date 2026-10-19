@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-19T08:36:43.898Z",
-  "updatedLocal": "2026/10/19 16:36:43",
+  "updated": "2026-10-19T18:52:09.693Z",
+  "updatedLocal": "2026/10/20 02:52:09",
   "digest": null,
   "watch": [],
   "items": [
@@ -37,7 +37,7 @@
       "group": "gis",
       "published": "2026-10-13T06:48:41.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
     },
     {
       "title": "Investing in the public benefit",
@@ -48,51 +48,62 @@
       "group": "ai",
       "published": "2026-10-18T16:49:35.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Anthropic Takes Its AI Safety Proposals to Capitol Hill",
-      "summary": "Anthropic has reportedly been pitching U.S. lawmakers on draft artificial intelligence safety legislation.",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-takes-its-ai-safety-proposals-to-capitol-hill/",
-      "source": "PYMNTS.com",
-      "tag": "政策",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "summary": "Until recently, you could divide internet users into just two categories: bots and people.",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-10-19T01:53:03.000Z",
+      "published": "2026-10-19T18:22:47.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "29 分鐘前"
     },
     {
-      "title": "Anthropic’s $1B AI Safety Bar Sparks Pushback [2026]",
-      "summary": "Anthropic PBC has handed lawmakers a draft AI safety bill, and the threshold written into it is drawing more scrutiny than the proposal itself.",
-      "url": "https://shattered.io/anthropic-ai-safety-bar-sparks-pushback-2026/",
-      "source": "shattered.io",
-      "tag": "政策",
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "summary": "“I think I have good news about the nature of neural networks.",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-10-18T23:10:26.000Z",
+      "published": "2026-10-19T17:45:55.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "1 小時前"
     },
     {
-      "title": "Anthropic is said to propose federal AI safety rules with limits on government (ANTHRO:Private)",
-      "summary": "# Anthropic is said to propose federal AI safety rules with limits on government Oct 18, 2026, 10:41 AM ET , , , , , , , By: , SA News Editor Anthropic ( ) is circulating a draft AI safety bill among congressional lawmakers that would establish federal oversight of advanced models while narrowly defining when officials could seek to stop their release or use.",
-      "url": "https://seekingalpha.com/news/4654063-anthropic-is-said-to-propose-federal-ai-safety-rules-with-limits-on-government",
-      "source": "Seeking Alpha",
-      "tag": "政策",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play.",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-10-18T14:41:41.000Z",
+      "published": "2026-10-19T09:08:05.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "10 小時前"
     },
     {
-      "title": "‘Injuring more than 50 people’: Anthropic’s threshold for AI safety intervention raises questions",
-      "summary": "Anthropic’s proposed AI regulation bill sets high thresholds for government intervention, limiting action to specific risks and potentially restricting states from imposing stricter rules.",
-      "url": "https://www.firstpost.com/tech/injuring-more-than-50-people-anthropics-threshold-for-ai-safety-intervention-raises-questions-14053675.html",
-      "source": "Firstpost",
+      "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+      "summary": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe , Bertelsmann , NVIDIA and UFA — the latest advancements in intelligent media were on display.",
+      "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
+      "group": "ai",
+      "published": "2026-10-19T15:00:31.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "While Companies Self-Regulate, Congress Is Quietly Writing AI Safety Rules",
+      "summary": null,
+      "url": "https://nationalinterest.org/blog/techland/while-companies-self-regulate-congress-is-quietly-writing-ai-safety-rules",
+      "source": "The National Interest",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-10-18T14:35:32.000Z",
+      "published": "2026-10-19T15:02:35.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "4 小時前"
     }
   ],
   "errors": []
