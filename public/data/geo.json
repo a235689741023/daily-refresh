@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-19T00:17:18.348Z",
-  "updatedLocal": "2026/10/19 08:17:18",
+  "updated": "2026-10-19T08:36:43.898Z",
+  "updatedLocal": "2026/10/19 16:36:43",
   "digest": null,
   "watch": [],
   "items": [
@@ -13,20 +13,9 @@
       "source": "Google Research",
       "tag": "研究",
       "group": "gis",
-      "published": "2026-10-18T06:29:25.000Z",
+      "published": "2026-10-14T16:17:33.000Z",
       "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "\"Pairing Geospatial Data with Homegrown AI\"... Wavus, Upstage Target Public-Sector AI Market",
-      "summary": "Upstage Head of Public Sector Business Lee Jaeyong (left) and Wavus CEO Park Changhun (right) pose for a commemorative photo after signing an MOU for joint research and cooperation on AI agents on the 8th.",
-      "url": "https://www.asiae.co.kr/en/article/2026101209480531676",
-      "source": "아시아경제",
-      "tag": "研究",
-      "group": "gis",
-      "published": "2026-10-12T00:48:06.000Z",
-      "why": null,
-      "ago": "7 天前"
+      "ago": "5 天前"
     },
     {
       "title": "First Principles First: Need to Calibrate Data Access for Disaster Resilience",
@@ -37,7 +26,7 @@
       "group": "gis",
       "published": "2026-10-14T17:17:54.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
     },
     {
       "title": "Good Governance Needs a Strong Code of Conduct",
@@ -59,10 +48,21 @@
       "group": "ai",
       "published": "2026-10-18T16:49:35.000Z",
       "why": null,
+      "ago": "16 小時前"
+    },
+    {
+      "title": "Anthropic Takes Its AI Safety Proposals to Capitol Hill",
+      "summary": "Anthropic has reportedly been pitching U.S. lawmakers on draft artificial intelligence safety legislation.",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-takes-its-ai-safety-proposals-to-capitol-hill/",
+      "source": "PYMNTS.com",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-19T01:53:03.000Z",
+      "why": null,
       "ago": "7 小時前"
     },
     {
-      "title": "Anthropic's $1B AI Safety Bill Threshold [2026]",
+      "title": "Anthropic’s $1B AI Safety Bar Sparks Pushback [2026]",
       "summary": "Anthropic PBC has handed lawmakers a draft AI safety bill, and the threshold written into it is drawing more scrutiny than the proposal itself.",
       "url": "https://shattered.io/anthropic-ai-safety-bar-sparks-pushback-2026/",
       "source": "shattered.io",
@@ -70,18 +70,18 @@
       "group": "ai",
       "published": "2026-10-18T23:10:26.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
-      "title": "Anthropic is said to propose federal AI safety rules with limits on government",
-      "summary": "Anthropic ANTHROPIC is circulating a draft AI safety bill among congressional lawmakers that would establish federal oversight of advanced models while narrowly defining when officials could seek to stop their release or use.",
-      "url": "https://www.tradingview.com/news/seekingalpha:824b74200094b:0-anthropic-is-said-to-propose-federal-ai-safety-rules-with-limits-on-government/",
-      "source": "TradingView",
+      "title": "Anthropic is said to propose federal AI safety rules with limits on government (ANTHRO:Private)",
+      "summary": "# Anthropic is said to propose federal AI safety rules with limits on government Oct 18, 2026, 10:41 AM ET , , , , , , , By: , SA News Editor Anthropic ( ) is circulating a draft AI safety bill among congressional lawmakers that would establish federal oversight of advanced models while narrowly defining when officials could seek to stop their release or use.",
+      "url": "https://seekingalpha.com/news/4654063-anthropic-is-said-to-propose-federal-ai-safety-rules-with-limits-on-government",
+      "source": "Seeking Alpha",
       "tag": "政策",
       "group": "ai",
       "published": "2026-10-18T14:41:41.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "‘Injuring more than 50 people’: Anthropic’s threshold for AI safety intervention raises questions",
@@ -92,29 +92,7 @@
       "group": "ai",
       "published": "2026-10-18T14:35:32.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "TASI 2026: AI safety, child protection take centre stage at panel discussion",
-      "summary": "Request blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error.",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/tasi-2026-ai-safety-child-protection-panel-discussion-10922886/",
-      "source": "The Indian Express",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-18T04:42:00.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-      "summary": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-10-17T21:00:13.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "18 小時前"
     }
   ],
   "errors": []
