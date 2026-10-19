@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-18T16:11:34.754Z",
-  "updatedLocal": "2026/10/19 00:11:34",
+  "updated": "2026-10-19T00:17:18.348Z",
+  "updatedLocal": "2026/10/19 08:17:18",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-18T06:29:25.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "\"Pairing Geospatial Data with Homegrown AI\"... Wavus, Upstage Target Public-Sector AI Market",
@@ -48,7 +48,62 @@
       "group": "gis",
       "published": "2026-10-13T06:48:41.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
+    },
+    {
+      "title": "Investing in the public benefit",
+      "summary": "Today, we’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-18T16:49:35.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Anthropic's $1B AI Safety Bill Threshold [2026]",
+      "summary": "Anthropic PBC has handed lawmakers a draft AI safety bill, and the threshold written into it is drawing more scrutiny than the proposal itself.",
+      "url": "https://shattered.io/anthropic-ai-safety-bar-sparks-pushback-2026/",
+      "source": "shattered.io",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-18T23:10:26.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Anthropic is said to propose federal AI safety rules with limits on government",
+      "summary": "Anthropic ANTHROPIC is circulating a draft AI safety bill among congressional lawmakers that would establish federal oversight of advanced models while narrowly defining when officials could seek to stop their release or use.",
+      "url": "https://www.tradingview.com/news/seekingalpha:824b74200094b:0-anthropic-is-said-to-propose-federal-ai-safety-rules-with-limits-on-government/",
+      "source": "TradingView",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-18T14:41:41.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
+    {
+      "title": "‘Injuring more than 50 people’: Anthropic’s threshold for AI safety intervention raises questions",
+      "summary": "Anthropic’s proposed AI regulation bill sets high thresholds for government intervention, limiting action to specific risks and potentially restricting states from imposing stricter rules.",
+      "url": "https://www.firstpost.com/tech/injuring-more-than-50-people-anthropics-threshold-for-ai-safety-intervention-raises-questions-14053675.html",
+      "source": "Firstpost",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-18T14:35:32.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
+    {
+      "title": "TASI 2026: AI safety, child protection take centre stage at panel discussion",
+      "summary": "Request blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error.",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/tasi-2026-ai-safety-child-protection-panel-discussion-10922886/",
+      "source": "The Indian Express",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-18T04:42:00.000Z",
+      "why": null,
+      "ago": "20 小時前"
     },
     {
       "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
@@ -58,61 +113,6 @@
       "tag": "基建",
       "group": "ai",
       "published": "2026-10-17T21:00:13.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Anthropic’s AI Safety Bill Has an Alarming Threshold for Government Action",
-      "summary": "CEO of Anthropic Dario Amodei looks on as U.S. President Donald Trump holds a press briefing with AI executives on September 29, 2026.",
-      "url": "https://www.motherjones.com/politics/2026/10/anthropics-ai-safety-bill-has-an-alarming-threshold-for-government-action/",
-      "source": "Mother Jones",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-17T19:34:34.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Anthropic is said to propose federal AI safety rules with limits on government (ANTHRO:Private)",
-      "summary": "Anthropic ( ANTHRO ) is circulating a draft AI safety bill among congressional lawmakers that would establish federal oversight of advanced models while narrowly defining when officials could seek to stop their release or use.",
-      "url": "https://seekingalpha.com/news/4654063-anthropic-is-said-to-propose-federal-ai-safety-rules-with-limits-on-government",
-      "source": "Seeking Alpha",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-18T14:41:41.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Bill Gates leans on CEOs as he plans a bigger AI safety push, Axios reports",
-      "summary": "Bill Gates plans to widen his push on AI safety, Axios reported, citing unnamed sources.",
-      "url": "https://thenextweb.com/news/bill-gates-ai-safety-push-ceos-axios",
-      "source": "The Next Web",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-17T19:16:22.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Anthropic Pitches US Lawmakers on Bill to Block Dangerous AI Models",
-      "summary": "Anthropic has quietly presented US lawmakers with draft legislation that would allow the federal government to seek suspension of advanced AI models if they pose an imminent risk of mass casualties or more than $1 billion in damage.",
-      "url": "https://the420.in/anthropic-us-ai-safety-bill-frontier-models/",
-      "source": "The420.in",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-17T18:11:30.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
-      "summary": "San Francisco, United States – In his last few executive orders signed as California governor, Gavin Newsom, whose final term ends in January, issued one asking for independent verification of artificial intelligence models and set up an expert committee to create kill switches for AI agents that could go rogue and cause harm.",
-      "url": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run",
-      "source": "Al Jazeera",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-17T14:09:13.000Z",
       "why": null,
       "ago": "昨日"
     }

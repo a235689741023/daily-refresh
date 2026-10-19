@@ -1,32 +1,43 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-18T16:11:34.754Z",
-  "updatedLocal": "2026/10/19 00:11:34",
+  "updated": "2026-10-19T00:17:18.348Z",
+  "updatedLocal": "2026/10/19 08:17:18",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
-      "summary": "At the time of its Nasdaq debut in July, Bending Spoons was a little-known holding company out of Italy that owned older internet names like AOL, Vimeo, Eventbrite and Evernote.",
-      "url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
+      "summary": "Excess liquidity in India's equity market has contributed to underperformance and may continue to do so, according to Finance Minister Nirmala Sitharaman.",
+      "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-10-17T15:11:30.000Z",
+      "published": "2026-10-18T23:00:01.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "1 小時前"
     },
     {
-      "title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
-      "summary": "Investors may want to rethink their bond allocation and opt for managed futures exposure.",
-      "url": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
-      "source": "CNBC Markets",
+      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-17T15:00:01.000Z",
+      "published": "2026-10-18T17:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "7 小時前"
+    },
+    {
+      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-18T16:15:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-10-18T16:00:00.000Z",
       "why": null,
-      "ago": "12 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-10-18T15:15:00.000Z",
       "why": null,
-      "ago": "57 分鐘前"
+      "ago": "9 小時前"
     },
     {
       "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-10-18T15:00:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-10-18T14:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-10-18T13:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-10-18T12:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-10-17T20:53:00.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-17T18:52:00.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": [
