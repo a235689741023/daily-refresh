@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-19T18:52:09.693Z",
-  "updatedLocal": "2026/10/20 02:52:09",
+  "updated": "2026-10-20T01:07:28.604Z",
+  "updatedLocal": "2026/10/20 09:07:28",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Three big takeaways from the IMF-World Bank meetings",
+      "summary": "The world's finance chiefs spent last week in Bangkok debating the biggest risk facing the global economy — with debt, artificial intelligence and trade imbalances topping the list.",
+      "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-20T00:33:34.000Z",
+      "why": null,
+      "ago": "34 分鐘前"
+    },
     {
       "title": "Anthropic is AI trade's last big hope for a major IPO this year",
       "summary": "Heading into 2026, investors were excited at the prospect of a host of new initial public offerings , including ones from mega-cap private companies like SpaceX , Anthropic and OpenAI .",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-19T16:42:14.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-10-19T12:34:01.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-10-19T18:36:21.000Z",
       "why": null,
-      "ago": "16 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "India’s finance minister says market liquidity makes it easier for investors to exit",
@@ -48,73 +59,62 @@
       "group": null,
       "published": "2026-10-19T08:23:33.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "One of this year’s most important relationships in global financial markets is falling apart",
+      "title": "Blood clots are ‘incredibly common,’ even for pro athletes like Jalen Hurts. Here’s what to know.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/one-of-this-years-most-important-relationships-in-global-financial-markets-is-falling-apart-2cf58121?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-19T17:43:00.000Z",
+      "published": "2026-10-19T21:58:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "3 小時前"
     },
     {
       "title": "When should you dump your target-date funds?",
-      "summary": "When should you dump your target-date funds? Choose MarketWatch as a preferred source of financial news # When should you dump your target-date funds?",
+      "summary": null,
       "url": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-19T17:31:00.000Z",
+      "published": "2026-10-19T21:37:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "4 小時前"
     },
     {
-      "title": "‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful",
+      "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-19T21:36:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful",
       "summary": null,
       "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-19T17:30:00.000Z",
+      "published": "2026-10-19T21:30:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "4 小時前"
     },
     {
-      "title": "Micron and other chip stocks spring back to life after bruising selloff",
+      "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-19T16:59:00.000Z",
+      "published": "2026-10-19T21:15:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-19T16:42:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "SpaceX’s stock made billions for college endowments. But their luck is about to run out.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/spacex-stock-made-billions-for-college-endowments-but-their-luck-is-about-to-run-out-1711c34d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-19T16:35:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
+      "ago": "4 小時前"
     }
   ],
   "errors": [

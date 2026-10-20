@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-19T18:52:09.693Z",
-  "updatedLocal": "2026/10/20 02:52:09",
+  "updated": "2026-10-20T01:07:28.604Z",
+  "updatedLocal": "2026/10/20 09:07:28",
   "digest": null,
   "watch": [],
   "items": [
@@ -40,15 +40,26 @@
       "ago": "7 天前"
     },
     {
-      "title": "Investing in the public benefit",
-      "summary": "Today, we’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
-      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "title": "Reducing Reward Hacking by Localizing Bad Behavior Instead of Penalizing It - Anthropic Alignment Science blog",
+      "summary": "Aria Wong¹, Nathan Hu², Bryce Woodworth¹ * Equal contribution; author order randomized ¹ MATS; ² Stanford; ³ FAR AI; ⁴ Anthropic During training, models sometimes learn to cheat at tasks rather than solve them in the intended way, a problem known as reward hacking.",
+      "url": "https://alignment.anthropic.com/2026/graft/",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-18T16:49:35.000Z",
+      "published": "2026-10-19T18:53:01.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Advancing coding in low‑resource programming languages",
+      "summary": "Our latest model advances bring stronger capabilities for building and migrating software in low-resource programming languages such as COBOL, Fortran, and Visual Basic.",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-19T12:00:00.000Z",
+      "why": null,
+      "ago": "13 小時前"
     },
     {
       "title": "Making the internet better for AI agents might make it worse for everyone else",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-19T18:22:47.000Z",
       "why": null,
-      "ago": "29 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
@@ -70,7 +81,7 @@
       "group": "ai",
       "published": "2026-10-19T17:45:55.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
@@ -81,29 +92,18 @@
       "group": "ai",
       "published": "2026-10-19T09:08:05.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "16 小時前"
     },
     {
-      "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
-      "summary": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe , Bertelsmann , NVIDIA and UFA — the latest advancements in intelligent media were on display.",
-      "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+      "summary": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particular, the industrial applications of AI.",
+      "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
       "source": "NVIDIA Blog",
       "tag": "基建",
       "group": "ai",
-      "published": "2026-10-19T15:00:31.000Z",
+      "published": "2026-10-19T19:27:08.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "While Companies Self-Regulate, Congress Is Quietly Writing AI Safety Rules",
-      "summary": null,
-      "url": "https://nationalinterest.org/blog/techland/while-companies-self-regulate-congress-is-quietly-writing-ai-safety-rules",
-      "source": "The National Interest",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-19T15:02:35.000Z",
-      "why": null,
-      "ago": "4 小時前"
+      "ago": "6 小時前"
     }
   ],
   "errors": []
