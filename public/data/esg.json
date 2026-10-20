@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-20T01:07:28.604Z",
-  "updatedLocal": "2026/10/20 09:07:28",
+  "updated": "2026-10-20T08:17:55.525Z",
+  "updatedLocal": "2026/10/20 16:17:55",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-19T10:05:52.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Hyperscaler emissions expected to jump 60 percent in 2026",
@@ -26,7 +26,18 @@
       "group": null,
       "published": "2026-10-19T10:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
+    },
+    {
+      "title": "Study: New coal projects outpace cancellations 3 to 1",
+      "summary": "According to new data from Urgewald, for every coal project that got cancelled last year, another three new ones were announced.",
+      "url": "https://www.edie.net/study-new-coal-projects-outpace-cancellations-3-to-1/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-20T04:00:44.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "COP31 Action Tracker: Pre-COP outcomes and nature action",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-10-19T16:50:34.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "TODAY: How the UK CBAM will affect sustainability strategies",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-10-19T16:50:23.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "UK publishes CBAM default emissions values ahead of 2027 launch",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-10-19T15:59:36.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Jackdaw decision looms as clean energy investment case stacks up",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-10-19T14:25:58.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "edie Energy & Tech Awards 2026 – Meet the Winners",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-10-19T13:19:47.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Making heavy weather of economic growth: Why the UK must get serious about climate adaptation",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-10-19T12:34:10.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "What’s driving the cost of EV charging?",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-10-19T09:27:32.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "NEXT WEEK: How AI can accelerate investment in climate solutions",
-      "summary": "With just two weeks to go, sustainability professionals are invited to register for an upcoming edie webinar exploring how artificial intelligence (AI), market intelligence and human expertise can help businesses identify credible climate investment opportunities and secure the financial backing needed to turn sustainability ambitions into action.",
-      "url": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-19T09:09:35.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-20T01:07:28.604Z",
-  "updatedLocal": "2026/10/20 09:07:28",
+  "updated": "2026-10-20T08:17:55.525Z",
+  "updatedLocal": "2026/10/20 16:17:55",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-14T16:17:33.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
       "title": "First Principles First: Need to Calibrate Data Access for Disaster Resilience",
@@ -26,18 +26,7 @@
       "group": "gis",
       "published": "2026-10-14T17:17:54.000Z",
       "why": null,
-      "ago": "5 天前"
-    },
-    {
-      "title": "Good Governance Needs a Strong Code of Conduct",
-      "summary": "Editorial: Most geographers work for government agencies or do substantial business with them, so how those agencies are governed is our business too.",
-      "url": "https://www.geographyrealm.com/good-governance-code-of-conduct/",
-      "source": "GIS Lounge",
-      "tag": "應用",
-      "group": "gis",
-      "published": "2026-10-13T06:48:41.000Z",
-      "why": null,
-      "ago": "7 天前"
+      "ago": "6 天前"
     },
     {
       "title": "Reducing Reward Hacking by Localizing Bad Behavior Instead of Penalizing It - Anthropic Alignment Science blog",
@@ -48,7 +37,7 @@
       "group": "ai",
       "published": "2026-10-19T18:53:01.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Advancing coding in low‑resource programming languages",
@@ -59,7 +48,7 @@
       "group": "ai",
       "published": "2026-10-19T12:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Making the internet better for AI agents might make it worse for everyone else",
@@ -70,7 +59,7 @@
       "group": "ai",
       "published": "2026-10-19T18:22:47.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
@@ -81,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-19T17:45:55.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
@@ -92,18 +81,18 @@
       "group": "ai",
       "published": "2026-10-19T09:08:05.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
-      "summary": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particular, the industrial applications of AI.",
-      "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+      "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+      "summary": "The Barcelona Supercomputing Center (BSC) ’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries.",
+      "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
       "source": "NVIDIA Blog",
       "tag": "基建",
       "group": "ai",
-      "published": "2026-10-19T19:27:08.000Z",
+      "published": "2026-10-20T05:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "3 小時前"
     }
   ],
   "errors": []
