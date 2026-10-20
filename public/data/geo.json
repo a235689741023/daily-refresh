@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-20T08:17:55.525Z",
-  "updatedLocal": "2026/10/20 16:17:55",
+  "updated": "2026-10-20T17:35:57.418Z",
+  "updatedLocal": "2026/10/21 01:35:57",
   "digest": null,
   "watch": [],
   "items": [
@@ -29,6 +29,17 @@
       "ago": "6 天前"
     },
     {
+      "title": "How Claude designed protein binders against scorpion neurotoxins",
+      "summary": "Summary: As part of our work experimenting with how Claude can help accelerate drug discovery, we asked an internal research model to design minibinders (small proteins that attach tightly to a target) against scorpion neurotoxins.",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-20T13:01:21.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
       "title": "Reducing Reward Hacking by Localizing Bad Behavior Instead of Penalizing It - Anthropic Alignment Science blog",
       "summary": "Aria Wong¹, Nathan Hu², Bryce Woodworth¹ * Equal contribution; author order randomized ¹ MATS; ² Stanford; ³ FAR AI; ⁴ Anthropic During training, models sometimes learn to cheat at tasks rather than solve them in the intended way, a problem known as reward hacking.",
       "url": "https://alignment.anthropic.com/2026/graft/",
@@ -37,7 +48,40 @@
       "group": "ai",
       "published": "2026-10-19T18:53:01.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "Announcements",
+      "summary": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+      "url": "https://www.anthropic.com/news/announcements",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-20T17:03:24.000Z",
+      "why": null,
+      "ago": "33 分鐘前"
+    },
+    {
+      "title": "Policy",
+      "summary": "To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.",
+      "url": "https://www.anthropic.com/news/policy",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-20T17:03:13.000Z",
+      "why": null,
+      "ago": "33 分鐘前"
+    },
+    {
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-20T10:00:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Advancing coding in low‑resource programming languages",
@@ -48,51 +92,7 @@
       "group": "ai",
       "published": "2026-10-19T12:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Making the internet better for AI agents might make it worse for everyone else",
-      "summary": "Until recently, you could divide internet users into just two categories: bots and people.",
-      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-10-19T18:22:47.000Z",
-      "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-      "summary": "“I think I have good news about the nature of neural networks.",
-      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-10-19T17:45:55.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play.",
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-10-19T09:08:05.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
-      "summary": "The Barcelona Supercomputing Center (BSC) ’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries.",
-      "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-10-20T05:00:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

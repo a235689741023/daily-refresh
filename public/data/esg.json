@@ -1,32 +1,65 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-20T08:17:55.525Z",
-  "updatedLocal": "2026/10/20 16:17:55",
+  "updated": "2026-10-20T17:35:57.418Z",
+  "updatedLocal": "2026/10/21 01:35:57",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Behind the push to harmonize nature frameworks",
-      "summary": "The recent synchronization of nature frameworks and metrics is a welcome development for companies that have found it challenging to develop nature and biodiversity targets.",
-      "url": "https://trellis.net/article/behind-the-push-to-harmonize-nature-frameworks/",
-      "source": "Trellis",
+      "title": "Electricity network investment could unlock £58bn for UK economy, industry plan finds",
+      "summary": "Investment in Great Britain’s electricity networks could contribute £58bn to the UK economy, according to a new plan published by the Energy Networks Association (ENA) and BEAMA.",
+      "url": "https://www.edie.net/electricity-network-investment-could-unlock-58bn-for-uk-economy-industry-plan-finds/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-19T10:05:52.000Z",
+      "published": "2026-10-20T17:17:33.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "18 分鐘前"
     },
     {
-      "title": "Hyperscaler emissions expected to jump 60 percent in 2026",
-      "summary": "The emissions of five of the largest hyperscalers will grow by almost 60 percent this calendar year, according to the first application of a new method for forecasting corporate carbon footprints.",
-      "url": "https://trellis.net/article/hyperscaler-emissions-2026-bricola-group/",
-      "source": "Trellis",
+      "title": "TOMORROW: The future cost of EV charging – what businesses can’t afford to overlook",
+      "summary": "Join edie on 22 October for our 45-minute masterclass, 'The Future Cost of EV Charging,' delivered in partnership with Brook Green Supply.",
+      "url": "https://www.edie.net/next-week-the-future-cost-of-ev-charging-what-businesses-cant-afford-to-overlook/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-19T10:00:00.000Z",
+      "published": "2026-10-20T16:27:24.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "1 小時前"
+    },
+    {
+      "title": "NEXT WEEK: How AI can accelerate investment in climate solutions",
+      "summary": "With just a week to go, sustainability professionals are invited to register for an upcoming edie webinar exploring how artificial intelligence (AI), market intelligence and human expertise can help businesses identify credible climate investment opportunities and secure the financial backing needed to turn sustainability ambitions into action.",
+      "url": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-20T15:35:35.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Four weeks to go: Turning Scope 3 targets into funded action",
+      "summary": "Join this edie webinar, held in partnership with South Pole on 12 November, to learn more about building the business case for Scope 3.",
+      "url": "https://www.edie.net/four-weeks-to-go-turning-scope-3-targets-into-funded-action/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-20T09:38:10.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "TWO WEEKS TO GO: What SMEs need to know before investing in solar",
+      "summary": "Taking place on 5 November, this upcoming webinar will explore how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
+      "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-20T06:55:22.000Z",
+      "why": null,
+      "ago": "11 小時前"
     },
     {
       "title": "Study: New coal projects outpace cancellations 3 to 1",
@@ -37,84 +70,51 @@
       "group": null,
       "published": "2026-10-20T04:00:44.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "14 小時前"
     },
     {
-      "title": "COP31 Action Tracker: Pre-COP outcomes and nature action",
-      "summary": "With COP31 in Türkiye happening next month, this regular members-only series from edie will provide a temperature check on global climate action, including news from businesses, governments and other key organisations ahead of the summit.",
-      "url": "https://www.edie.net/cop31-action-tracker-pre-cop-outcomes-and-nature-action/",
+      "title": "NEXT MONTH: Masterclass on turning climate risk insights into adaptation",
+      "summary": "This webinar, held in partnership with SmartResilience on 19 November, will explore why and how leading organisations are moving from simply measuring risk to actively adapting in order to protect their operations, assets and supply chains.",
+      "url": "https://www.edie.net/next-month-masterclass-on-turning-climate-risk-insights-into-adaptation/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-19T16:50:34.000Z",
+      "published": "2026-10-20T03:31:13.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "14 小時前"
     },
     {
-      "title": "TODAY: How the UK CBAM will affect sustainability strategies",
-      "summary": "Join edie on 20th October for our 45-minute masterclass to explore what the UK CBAM means for sustainability strategies and how businesses can prepare.",
-      "url": "https://www.edie.net/one-day-to-go-how-the-uk-cbam-will-affect-sustainability-strategies/",
+      "title": "NEXT MONTH: How to prepare for the UK SRS",
+      "summary": "This webinar, hosted in partnership with Simply Sustainable on 10 November, will explore how businesses can prepare for the UK Sustainability Reporting Standards (UK SRS), understand their current level of readiness and turn gaps into a practical implementation plan.",
+      "url": "https://www.edie.net/free-webinar-how-to-prepare-for-the-uk-srs/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-19T16:50:23.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "UK publishes CBAM default emissions values ahead of 2027 launch",
-      "summary": "The UK Government has published default emissions values for its Carbon Border Adjustment Mechanism (CBAM), giving importers a standard basis for calculating potential carbon tax liabilities ahead of the scheme’s launch on 1 January 2027.",
-      "url": "https://www.edie.net/uk-publishes-cbam-default-emissions-values-ahead-of-2027-launch/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-19T15:59:36.000Z",
+      "published": "2026-10-20T01:45:21.000Z",
       "why": null,
       "ago": "16 小時前"
     },
     {
-      "title": "Jackdaw decision looms as clean energy investment case stacks up",
-      "summary": "With a decision on Jackdaw gasfield expected this week, think tank E3G has warned that further North Sea drilling represents a \"bad deal\" for the UK and the country should instead prioritise heat pumps and insulation.",
-      "url": "https://www.edie.net/jackdaw-decision-looms-as-clean-energy-investment-case-stacks-up/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "Q&A: Why a pivotal IPCC meeting in Ethiopia ended in ‘profound disappointment’",
+      "summary": "Countries have failed – for the sixth time running – to agree on the timeline for publishing the Intergovernmental Panel on Climate Change ’s (IPCC) next set of influential reports.",
+      "url": "https://www.carbonbrief.org/qa-why-a-pivotal-ipcc-meeting-in-ethiopia-ended-in-profound-disappointment",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-10-19T14:25:58.000Z",
+      "published": "2026-10-20T14:40:10.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "edie Energy & Tech Awards 2026 – Meet the Winners",
-      "summary": "The winners of edie’s first Energy & Tech Awards were announced on Friday 16 October at a ceremony in central London.",
-      "url": "https://www.edie.net/edie-energy-tech-awards-2026-meet-the-winners/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "沒有「這還好吧」的小事 RE-THINK攜手全家把日常浪費變成環境教育展覽",
+      "summary": "偶爾丟個煙蒂、今天晚餐又沒吃完、垃圾不分類……都是些「這還好吧」的小事，累積起來卻可能造成環境的負擔。環保團體RE-THINK與全家便利商店攜手，將這些小事產生的廢棄物收集起來，15日在華山文創園區舉辦「這還好吧！？」展覽記者會，並於當天公布三年來的「便利商店環保素養調查」，發現民眾環保態度與知識都有提升，如咖啡杯紙容器回收的答題正確率三年來持續成長，今年首度突破九成。",
+      "url": "https://e-info.org.tw/node/243988",
+      "source": "環境資訊中心",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-10-19T13:19:47.000Z",
+      "published": "2026-10-20T08:15:31.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Making heavy weather of economic growth: Why the UK must get serious about climate adaptation",
-      "summary": "Climate change is presenting growing risks to our economy, but adapting to extreme weather offers opportunities too, argues Aldersgate Group policy officer, Adam Young.",
-      "url": "https://www.edie.net/making-heavy-weather-of-economic-growth-why-the-uk-must-get-serious-about-climate-adaptation/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-19T12:34:10.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "What’s driving the cost of EV charging?",
-      "summary": "Two electric vehicle charging operations can face very different costs, even though they are buying their power from the same market.",
-      "url": "https://www.edie.net/whats-driving-the-cost-of-ev-charging/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-19T09:27:32.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "9 小時前"
     }
   ],
   "errors": []

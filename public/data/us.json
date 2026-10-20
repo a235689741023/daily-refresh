@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-20T08:17:55.525Z",
-  "updatedLocal": "2026/10/20 16:17:55",
+  "updated": "2026-10-20T17:35:57.418Z",
+  "updatedLocal": "2026/10/21 01:35:57",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+      "summary": "AI is a transformational technology worth investing in — but investors must be selective when investing in data centers, according to the head of one of the world's biggest banks.",
+      "url": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-20T10:39:17.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "The world’s finance chiefs see new risks — and less China angst",
       "summary": "The world's finance chiefs spent last week in Bangkok debating the biggest risk facing the global economy — with debt, artificial intelligence and trade imbalances topping the list.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-20T05:27:53.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Anthropic is AI trade's last big hope for a major IPO this year",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-10-19T16:42:14.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-10-19T12:34:01.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
@@ -48,73 +59,62 @@
       "group": null,
       "published": "2026-10-19T18:36:21.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "India’s finance minister says market liquidity makes it easier for investors to exit",
-      "summary": "The high degree of liquidity in India's equity market has provided easier exits to foreign portfolio investors, according to Finance Minister Nirmala Sitharaman.",
-      "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-19T08:23:33.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "It’s a rough housing market, and Goldman Sachs expects it to get worse",
+      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/its-a-rough-housing-market-and-goldman-sachs-expects-it-to-get-worse-be2c5aac?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-20T08:13:00.000Z",
+      "published": "2026-10-20T17:15:00.000Z",
       "why": null,
-      "ago": "5 分鐘前"
+      "ago": "21 分鐘前"
     },
     {
-      "title": "Blood clots are ‘incredibly common,’ even for pro athletes like Jalen Hurts. Here’s what to know.",
-      "summary": "## Research has found that it can take more than six months for professional athletes to return to play after being treated for a deep-vein thrombosis or pulmonary embolism Choose MarketWatch as a preferred source of financial news Philadelphia Eagles star quarterback Jalen Hurts is one of the nearly 1 million Americans who will get severe blood clots in their veins or lungs each year.",
-      "url": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-19T21:58:00.000Z",
-      "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "When should you dump your target-date funds?",
-      "summary": "When should you dump your target-date funds? Choose MarketWatch as a preferred source of financial news # When should you dump your target-date funds?",
-      "url": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-19T21:37:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
-      "summary": "## An unusual dichotomy has emerged in credit markets Choose MarketWatch as a preferred source of financial news Credit markets are sending unusually mixed messages to investors right now, and it’s making some people nervous.",
-      "url": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-19T21:36:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful",
-      "summary": "## ‘Ill-timed circumstances can change our financial future in unexpected ways’ Choose MarketWatch as a preferred source of financial news As the renter in his 50s pointed out ( ), some ill-timed circumstances can change our financial futures in unexpected ways.",
+      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
+      "summary": null,
       "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-19T21:30:00.000Z",
+      "published": "2026-10-20T17:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "36 分鐘前"
+    },
+    {
+      "title": "It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.",
+      "summary": "## Several states are dealing with ballot measures tied to taxing the rich — and there may be even more initiatives on this front in 2028 Choose MarketWatch as a preferred source of financial news Americans are keeping a close eye on their everyday costs as they get ready to vote Nov. 3 or as they cast their ballots early.",
+      "url": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-20T16:55:00.000Z",
+      "why": null,
+      "ago": "41 分鐘前"
+    },
+    {
+      "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-20T16:25:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-20T15:58:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
     }
   ],
   "errors": [
