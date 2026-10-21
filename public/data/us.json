@@ -1,32 +1,21 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-21T08:22:10.212Z",
-  "updatedLocal": "2026/10/21 16:22:10",
+  "updated": "2026-10-21T17:43:05.474Z",
+  "updatedLocal": "2026/10/22 01:43:05",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
-      "summary": "AI is a transformational technology worth investing in — but investors must be selective when investing in data centers, according to the head of one of the world's biggest banks.",
-      "url": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
+      "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+      "summary": "Fueled by the global boom in artificial intelligence stocks, relaxed capital rules and greater lending to hedge funds, big Wall Street banks have already had a banner year for equities trading — even with one quarter left to go.",
+      "url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-20T10:39:17.000Z",
+      "published": "2026-10-21T15:30:50.000Z",
       "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "The world’s finance chiefs see new risks — and less China angst",
-      "summary": "The world's finance chiefs spent last week in Bangkok debating the biggest risk facing the global economy — with debt, artificial intelligence and trade imbalances topping the list.",
-      "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-20T05:27:53.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "2 小時前"
     },
     {
       "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
@@ -37,7 +26,7 @@
       "group": null,
       "published": "2026-10-21T07:50:10.000Z",
       "why": null,
-      "ago": "32 分鐘前"
+      "ago": "10 小時前"
     },
     {
       "title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
@@ -48,7 +37,7 @@
       "group": null,
       "published": "2026-10-21T01:01:01.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
@@ -57,64 +46,75 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-10-20T19:28:43.000Z",
+      "published": "2026-10-21T11:20:58.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "6 小時前"
     },
     {
-      "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
-      "summary": "## In contrast to bear-market bottoms, market tops often are undramatic Choose MarketWatch as a preferred source of financial news Bull-market tops are not the mirror opposite of bear-market bottoms.",
-      "url": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
+      "title": "Medicare is a bargain. What America can’t afford is private health insurance.",
+      "summary": "Medicare is a bargain. What America can’t afford is private health insurance. Choose MarketWatch as a preferred source of financial news # Opinion: Medicare is a bargain.",
+      "url": "https://www.marketwatch.com/story/medicare-is-a-bargain-what-america-cant-afford-is-private-health-insurance-8a834023?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-21T00:24:00.000Z",
+      "published": "2026-10-21T16:34:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "1 小時前"
     },
     {
-      "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
-      "summary": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally Choose MarketWatch as a preferred source of financial news # Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally ## Super Micro unexpectedly discloses that its revenue and profitability could be much stronger than originally anticipated Choose MarketWatch as a preferred source of financial news Super Micro is seeing robust AI demand.",
-      "url": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
+      "title": "Polymarket traders see a 10% chance the AI bubble bursts before New Year’s Day",
+      "summary": "Polymarket traders see a 10% chance the AI bubble bursts before New Year’s Day Choose MarketWatch as a preferred source of financial news # Polymarket traders see a 10% chance the AI bubble bursts before New Year’s Day ## And a 20% chance it deflates before the second half of next year Choose MarketWatch as a preferred source of financial news Worries that the AI investment boom is metastasizing into a bubble persist.",
+      "url": "https://www.marketwatch.com/story/polymarket-traders-see-a-10-chance-the-ai-bubble-bursts-before-new-years-day-ad33258b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-21T00:15:00.000Z",
+      "published": "2026-10-21T15:59:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
-      "summary": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger Choose MarketWatch as a preferred source of financial news # Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger ## Special committees at both companies are assessing merger prospects but a combination is no sure thing, Musk says Choose MarketWatch as a preferred source of financial news Tesla and SpaceX CEO Elon Musk’s companies are exploring a merger, but little progress has been made so far, he said.",
-      "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-21T00:14:00.000Z",
-      "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
+      "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-21T00:12:00.000Z",
+      "published": "2026-10-21T15:50:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
-      "summary": "## SpaceX just gave Wall Street a big reason to believe in the AI boom as demand for its computing power is off the charts Choose MarketWatch as a preferred source of financial news Shares of SpaceX are on track for big gains after Tuesday’s earnings call, which put the company’s artificial-intelligence momentum on full display.",
-      "url": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
+      "title": "AI stocks are probably in a bubble — but might be worth holding on to, says Citadel’s Ken Griffin",
+      "summary": "## Markets are starting to scrutinize AI, and that’s a good thing, says Griffin Choose MarketWatch as a preferred source of financial news There’s a bubble in artificial-intelligence stocks — but it’s no reason to sell, one of the leading figures in finance said Tuesday night.",
+      "url": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-20T23:10:00.000Z",
+      "published": "2026-10-21T15:27:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-21T15:15:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-21T15:00:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
     }
   ],
   "errors": [

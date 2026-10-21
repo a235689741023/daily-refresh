@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-21T08:22:10.212Z",
-  "updatedLocal": "2026/10/21 16:22:10",
+  "updated": "2026-10-21T17:43:05.474Z",
+  "updatedLocal": "2026/10/22 01:43:05",
   "digest": null,
   "watch": [],
   "items": [
@@ -13,42 +13,9 @@
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-10-21T00:16:45.000Z",
+      "published": "2026-10-21T00:38:11.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
-      "summary": "Shravya Shetty, Distinguished Engineer, and Luke Barrington, Product Director, Google Research In a new technical report, we demonstrate how combining domain-specific foundation models, spatial tools, and upfront planning enables a Geospatial Reasoning agent to carry out complex spatial analysis and planetary prediction that standalone LLMs can’t.",
-      "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
-      "source": "Google Research",
-      "tag": "研究",
-      "group": "gis",
-      "published": "2026-10-14T16:17:33.000Z",
-      "why": null,
-      "ago": "7 天前"
-    },
-    {
-      "title": "First Principles First: Need to Calibrate Data Access for Disaster Resilience",
-      "summary": "Every year on October 13, the United Nations marks the International Day for Disaster Risk Reduction, a date the General Assembly fixed in 2009 after first setting aside a day for natural disaster reduction in 1989.",
-      "url": "https://geospatialworld.net/prime/business-and-industry-trends/first-principles-first-need-to-calibrate-data-access-for-disaster-resilience/",
-      "source": "Geospatial World",
-      "tag": "產業",
-      "group": "gis",
-      "published": "2026-10-14T17:17:54.000Z",
-      "why": null,
-      "ago": "7 天前"
-    },
-    {
-      "title": "How Claude designed protein binders against scorpion neurotoxins",
-      "summary": "Summary: As part of our work experimenting with how Claude can help accelerate drug discovery, we asked an internal research model to design minibinders (small proteins that attach tightly to a target) against scorpion neurotoxins.",
-      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-20T17:03:55.000Z",
-      "why": null,
-      "ago": "15 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Using Claude to reduce the attack surface of code",
@@ -59,51 +26,62 @@
       "group": "ai",
       "published": "2026-10-20T21:43:55.000Z",
       "why": null,
+      "ago": "20 小時前"
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "summary": "OpenAI and Google Cloud ⁠ (opens in a new window) are partnering to bring OpenAI’s frontier models and Codex ⁠ (opens in a new window) agentic workflows into Google Cloud’s Model Garden.",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-21T12:00:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "summary": "Over the past two months, we led a coalition of maintainers, researchers, and security providers to address critical vulnerabilities in PHP, an open-source programming language used to run websites and web applications.",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-21T07:00:00.000Z",
+      "why": null,
       "ago": "11 小時前"
     },
     {
-      "title": "Announcements",
-      "summary": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
-      "url": "https://www.anthropic.com/news/announcements",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-20T17:03:24.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "De novo design of protein binders against scorpion toxins with Claude",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/31ac578806cffd8b3d92d8affe6edc4c04d502e1.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-20T14:40:42.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-20T10:00:00.000Z",
+      "published": "2026-10-21T13:00:00.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "5 小時前"
     },
     {
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT‑6.1 Sol.",
-      "url": "https://openai.com/index/terminal-x",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "summary": "How OpenAI, PerturbAI, and Scripps Research used distributed AI agents to help scientists identify promising research leads in data from millions of brain cells See how OpenAI, PerturbAI, and Scripps Research deployed thousands of AI agents in parallel to identify promising biological connections in complex data from millions of brain cells.",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-20T07:00:00.000Z",
+      "published": "2026-10-21T04:50:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "13 小時前"
+    },
+    {
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "summary": "Traditional advertising systems are built to respond to discrete units of user intent.",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-21T07:00:00.000Z",
+      "why": null,
+      "ago": "11 小時前"
     }
   ],
   "errors": []
