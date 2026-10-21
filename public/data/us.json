@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-21T00:42:21.477Z",
-  "updatedLocal": "2026/10/21 08:42:21",
+  "updated": "2026-10-21T08:22:10.212Z",
+  "updatedLocal": "2026/10/21 16:22:10",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-20T10:39:17.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "The world’s finance chiefs see new risks — and less China angst",
@@ -26,7 +26,29 @@
       "group": null,
       "published": "2026-10-20T05:27:53.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+      "summary": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
+      "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-21T07:50:10.000Z",
+      "why": null,
+      "ago": "32 分鐘前"
+    },
+    {
+      "title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+      "summary": "Global automakers face an increasingly demanding customer: one who wants both competitive prices and better technology, according to Bain & Company.",
+      "url": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-21T01:01:01.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
@@ -37,40 +59,40 @@
       "group": null,
       "published": "2026-10-20T19:28:43.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
-      "summary": null,
+      "summary": "## In contrast to bear-market bottoms, market tops often are undramatic Choose MarketWatch as a preferred source of financial news Bull-market tops are not the mirror opposite of bear-market bottoms.",
       "url": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
       "published": "2026-10-21T00:24:00.000Z",
       "why": null,
-      "ago": "18 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
-      "summary": null,
+      "summary": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally Choose MarketWatch as a preferred source of financial news # Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally ## Super Micro unexpectedly discloses that its revenue and profitability could be much stronger than originally anticipated Choose MarketWatch as a preferred source of financial news Super Micro is seeing robust AI demand.",
       "url": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
       "published": "2026-10-21T00:15:00.000Z",
       "why": null,
-      "ago": "27 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
-      "summary": null,
+      "summary": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger Choose MarketWatch as a preferred source of financial news # Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger ## Special committees at both companies are assessing merger prospects but a combination is no sure thing, Musk says Choose MarketWatch as a preferred source of financial news Tesla and SpaceX CEO Elon Musk’s companies are exploring a merger, but little progress has been made so far, he said.",
       "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
       "published": "2026-10-21T00:14:00.000Z",
       "why": null,
-      "ago": "28 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
@@ -81,40 +103,18 @@
       "group": null,
       "published": "2026-10-21T00:12:00.000Z",
       "why": null,
-      "ago": "30 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
-      "summary": null,
+      "summary": "## SpaceX just gave Wall Street a big reason to believe in the AI boom as demand for its computing power is off the charts Choose MarketWatch as a preferred source of financial news Shares of SpaceX are on track for big gains after Tuesday’s earnings call, which put the company’s artificial-intelligence momentum on full display.",
       "url": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
       "published": "2026-10-20T23:10:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-20T22:45:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-20T22:30:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     }
   ],
   "errors": [

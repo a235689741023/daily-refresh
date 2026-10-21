@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-21T00:42:21.477Z",
-  "updatedLocal": "2026/10/21 08:42:21",
+  "updated": "2026-10-21T08:22:10.212Z",
+  "updatedLocal": "2026/10/21 16:22:10",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Prepare your data for the National Spatial Reference System modernization of 2022 in the U.S. (ArcGIS Blog)",
+      "summary": "To improve the National Spatial Reference System (NSRS) in the United States, the National Oceanic and Atmospheric Administration’s National Geodetic Survey (NGS) is preparing to replace all three current North American Datum of 1983 (NAD83) frames and all current vertical datums , including the North American Vertical Datum of 1988 (NAVD88), with four new terrestrial reference frames and a vertical geopotential datum.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/data-management/prepare-your-data-for-the-nsrs-2022",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-10-21T00:16:45.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
     {
       "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
       "summary": "Shravya Shetty, Distinguished Engineer, and Luke Barrington, Product Director, Google Research In a new technical report, we demonstrate how combining domain-specific foundation models, spatial tools, and upfront planning enables a Geospatial Reasoning agent to carry out complex spatial analysis and planetary prediction that standalone LLMs can’t.",
@@ -15,7 +26,7 @@
       "group": "gis",
       "published": "2026-10-14T16:17:33.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
     },
     {
       "title": "First Principles First: Need to Calibrate Data Access for Disaster Resilience",
@@ -26,7 +37,7 @@
       "group": "gis",
       "published": "2026-10-14T17:17:54.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
     },
     {
       "title": "How Claude designed protein binders against scorpion neurotoxins",
@@ -37,7 +48,18 @@
       "group": "ai",
       "published": "2026-10-20T17:03:55.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
+    },
+    {
+      "title": "Using Claude to reduce the attack surface of code",
+      "summary": "Over the past year, we’ve published lots of data that shows that frontier AI models are more than capable of discovering and exploiting security vulnerabilities.",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-20T21:43:55.000Z",
+      "why": null,
+      "ago": "11 小時前"
     },
     {
       "title": "Announcements",
@@ -48,29 +70,18 @@
       "group": "ai",
       "published": "2026-10-20T17:03:24.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "De novo design of protein binders against scorpion toxins with Claude",
-      "summary": "# De novo design of protein binders against scorpion toxins with Claude > Claude Science 1, Nathaniel Horwitz 2, James van Geelen 3, Kat Kajderowicz 4, Amir Shanehsazzadeh 1,* > 1Anthropic 2Hunterbrook 3Citrini Research 4Novus Capital > *Correspondence: ashanehsazzadeh@anthropic.com Scorpion stings are estimated to kill more than 3,250 people a year, with children the most severely affected.",
+      "summary": null,
       "url": "https://www-cdn.anthropic.com/31ac578806cffd8b3d92d8affe6edc4c04d502e1.pdf",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
       "published": "2026-10-20T14:40:42.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "Policy",
-      "summary": "To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.",
-      "url": "https://www.anthropic.com/news/policy",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-20T17:03:13.000Z",
-      "why": null,
-      "ago": "8 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
@@ -81,16 +92,16 @@
       "group": "ai",
       "published": "2026-10-20T10:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "OpenAI acquires Orchestra Bio",
-      "summary": "AI-powered drug development platform accelerates progress toward new treatments.",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT‑6.1 Sol.",
+      "url": "https://openai.com/index/terminal-x",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-20T00:00:00.000Z",
+      "published": "2026-10-20T07:00:00.000Z",
       "why": null,
       "ago": "昨日"
     }
