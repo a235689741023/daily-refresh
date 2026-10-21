@@ -1,11 +1,33 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-20T17:35:57.418Z",
-  "updatedLocal": "2026/10/21 01:35:57",
+  "updated": "2026-10-21T00:42:21.477Z",
+  "updatedLocal": "2026/10/21 08:42:21",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Disney’s environmental sustainability co-lead leaves company",
+      "summary": "Yalmaz Siddiqui has exited his role as vice president of environmental sustainability at The Walt Disney as a result of a corporate reorganization, effective Oct. 17.",
+      "url": "https://trellis.net/article/disneys-environmental-sustainability-co-lead-leaves/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-20T21:08:43.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "MPs urge Government to speed up reforms to cut energy bills",
+      "summary": "The Commons Energy Security and Net Zero (ESNZ) Committee has called on the UK Government to make a number of changes in order to bring down energy bills, including shifting policy costs off electricity and onto gas.",
+      "url": "https://www.edie.net/mps-urge-government-to-speed-up-reforms-to-cut-energy-bills/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-20T23:01:45.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "Electricity network investment could unlock £58bn for UK economy, industry plan finds",
       "summary": "Investment in Great Britain’s electricity networks could contribute £58bn to the UK economy, according to a new plan published by the Energy Networks Association (ENA) and BEAMA.",
@@ -15,7 +37,7 @@
       "group": null,
       "published": "2026-10-20T17:17:33.000Z",
       "why": null,
-      "ago": "18 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "TOMORROW: The future cost of EV charging – what businesses can’t afford to overlook",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-10-20T16:27:24.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "NEXT WEEK: How AI can accelerate investment in climate solutions",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-10-20T15:35:35.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Four weeks to go: Turning Scope 3 targets into funded action",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-10-20T09:38:10.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "TWO WEEKS TO GO: What SMEs need to know before investing in solar",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-10-20T06:55:22.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Study: New coal projects outpace cancellations 3 to 1",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-10-20T04:00:44.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "NEXT MONTH: Masterclass on turning climate risk insights into adaptation",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-10-20T03:31:13.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "NEXT MONTH: How to prepare for the UK SRS",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-10-20T01:45:21.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Q&A: Why a pivotal IPCC meeting in Ethiopia ended in ‘profound disappointment’",
-      "summary": "Countries have failed – for the sixth time running – to agree on the timeline for publishing the Intergovernmental Panel on Climate Change ’s (IPCC) next set of influential reports.",
-      "url": "https://www.carbonbrief.org/qa-why-a-pivotal-ipcc-meeting-in-ethiopia-ended-in-profound-disappointment",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-10-20T14:40:10.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "沒有「這還好吧」的小事 RE-THINK攜手全家把日常浪費變成環境教育展覽",
-      "summary": "偶爾丟個煙蒂、今天晚餐又沒吃完、垃圾不分類……都是些「這還好吧」的小事，累積起來卻可能造成環境的負擔。環保團體RE-THINK與全家便利商店攜手，將這些小事產生的廢棄物收集起來，15日在華山文創園區舉辦「這還好吧！？」展覽記者會，並於當天公布三年來的「便利商店環保素養調查」，發現民眾環保態度與知識都有提升，如咖啡杯紙容器回收的答題正確率三年來持續成長，今年首度突破九成。",
-      "url": "https://e-info.org.tw/node/243988",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-20T08:15:31.000Z",
-      "why": null,
-      "ago": "9 小時前"
+      "ago": "23 小時前"
     }
   ],
   "errors": []

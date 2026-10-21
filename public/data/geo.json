@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-20T17:35:57.418Z",
-  "updatedLocal": "2026/10/21 01:35:57",
+  "updated": "2026-10-21T00:42:21.477Z",
+  "updatedLocal": "2026/10/21 08:42:21",
   "digest": null,
   "watch": [],
   "items": [
@@ -35,20 +35,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-20T13:01:21.000Z",
+      "published": "2026-10-20T17:03:55.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Reducing Reward Hacking by Localizing Bad Behavior Instead of Penalizing It - Anthropic Alignment Science blog",
-      "summary": "Aria Wong¹, Nathan Hu², Bryce Woodworth¹ * Equal contribution; author order randomized ¹ MATS; ² Stanford; ³ FAR AI; ⁴ Anthropic During training, models sometimes learn to cheat at tasks rather than solve them in the intended way, a problem known as reward hacking.",
-      "url": "https://alignment.anthropic.com/2026/graft/",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-19T18:53:01.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Announcements",
@@ -59,7 +48,18 @@
       "group": "ai",
       "published": "2026-10-20T17:03:24.000Z",
       "why": null,
-      "ago": "33 分鐘前"
+      "ago": "8 小時前"
+    },
+    {
+      "title": "De novo design of protein binders against scorpion toxins with Claude",
+      "summary": "# De novo design of protein binders against scorpion toxins with Claude > Claude Science 1, Nathaniel Horwitz 2, James van Geelen 3, Kat Kajderowicz 4, Amir Shanehsazzadeh 1,* > 1Anthropic 2Hunterbrook 3Citrini Research 4Novus Capital > *Correspondence: ashanehsazzadeh@anthropic.com Scorpion stings are estimated to kill more than 3,250 people a year, with children the most severely affected.",
+      "url": "https://www-cdn.anthropic.com/31ac578806cffd8b3d92d8affe6edc4c04d502e1.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-20T14:40:42.000Z",
+      "why": null,
+      "ago": "10 小時前"
     },
     {
       "title": "Policy",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-20T17:03:13.000Z",
       "why": null,
-      "ago": "33 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
@@ -81,16 +81,16 @@
       "group": "ai",
       "published": "2026-10-20T10:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
-      "title": "Advancing coding in low‑resource programming languages",
-      "summary": "Our latest model advances bring stronger capabilities for building and migrating software in low-resource programming languages such as COBOL, Fortran, and Visual Basic.",
-      "url": "https://openai.com/index/low-resource-programming-languages",
+      "title": "OpenAI acquires Orchestra Bio",
+      "summary": "AI-powered drug development platform accelerates progress toward new treatments.",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-19T12:00:00.000Z",
+      "published": "2026-10-20T00:00:00.000Z",
       "why": null,
       "ago": "昨日"
     }

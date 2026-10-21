@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-20T17:35:57.418Z",
-  "updatedLocal": "2026/10/21 01:35:57",
+  "updated": "2026-10-21T00:42:21.477Z",
+  "updatedLocal": "2026/10/21 08:42:21",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-20T10:39:17.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "The world’s finance chiefs see new risks — and less China angst",
@@ -26,51 +26,73 @@
       "group": null,
       "published": "2026-10-20T05:27:53.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
-      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
-      "summary": "Heading into 2026, investors were excited at the prospect of a host of new initial public offerings , including ones from mega-cap private companies like SpaceX , Anthropic and OpenAI .",
-      "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-19T16:42:14.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-      "summary": "JPMorgan Chase has made $5 billion in startup investments in the first year of its U.S. security and resiliency initiative , the company said Monday, a faster-than-expected pace that indicates the bank is finding plentiful opportunities in emerging defense, manufacturing and supply chain firms.",
-      "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-19T12:34:01.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
-      "summary": "Decades before Siri or Alexa or ChatGPT, there was a real person, almost always a woman, at the center of the information world.",
-      "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+      "summary": "The Federal Reserve's inflation fight is running into a growing complication: The housing market is slumping even as broader price pressures persist.",
+      "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-10-19T18:36:21.000Z",
+      "published": "2026-10-20T19:28:43.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "5 小時前"
     },
     {
-      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+      "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-20T17:15:00.000Z",
+      "published": "2026-10-21T00:24:00.000Z",
       "why": null,
-      "ago": "21 分鐘前"
+      "ago": "18 分鐘前"
+    },
+    {
+      "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-21T00:15:00.000Z",
+      "why": null,
+      "ago": "27 分鐘前"
+    },
+    {
+      "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-21T00:14:00.000Z",
+      "why": null,
+      "ago": "28 分鐘前"
+    },
+    {
+      "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-21T00:12:00.000Z",
+      "why": null,
+      "ago": "30 分鐘前"
+    },
+    {
+      "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-20T23:10:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
@@ -79,40 +101,18 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-20T17:00:00.000Z",
+      "published": "2026-10-20T22:45:00.000Z",
       "why": null,
-      "ago": "36 分鐘前"
+      "ago": "2 小時前"
     },
     {
-      "title": "It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.",
-      "summary": "## Several states are dealing with ballot measures tied to taxing the rich — and there may be even more initiatives on this front in 2028 Choose MarketWatch as a preferred source of financial news Americans are keeping a close eye on their everyday costs as they get ready to vote Nov. 3 or as they cast their ballots early.",
-      "url": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-20T16:55:00.000Z",
-      "why": null,
-      "ago": "41 分鐘前"
-    },
-    {
-      "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-20T16:25:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-20T15:58:00.000Z",
+      "published": "2026-10-20T22:30:00.000Z",
       "why": null,
       "ago": "2 小時前"
     }
