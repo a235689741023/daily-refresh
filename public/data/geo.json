@@ -1,11 +1,33 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-21T17:43:05.474Z",
-  "updatedLocal": "2026/10/22 01:43:05",
+  "updated": "2026-10-22T00:45:48.372Z",
+  "updatedLocal": "2026/10/22 08:45:48",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Recent PHP Vulnerabilities",
+      "summary": "On October 21, 2026, the PHP Project announced updates to address two critical severity vulnerabilities identified as CVE-2026-109618 and CVE-2026-109619 .",
+      "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/recent-php-vulnerabilities",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-10-21T19:59:07.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Evaluating Your Map's Drawing Performance: A Case Study",
+      "summary": "Hello again! In May 2026 the ArcGIS Pro team released version 3.7 , which includes a performance review tool called the Analyze Map pane.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/analyze-map-pane-part-two",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-10-20T15:29:47.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
     {
       "title": "Prepare your data for the National Spatial Reference System modernization of 2022 in the U.S. (ArcGIS Blog)",
       "summary": "To improve the National Spatial Reference System (NSRS) in the United States, the National Oceanic and Atmospheric Administration’s National Geodetic Survey (NGS) is preparing to replace all three current North American Datum of 1983 (NAD83) frames and all current vertical datums , including the North American Vertical Datum of 1988 (NAVD88), with four new terrestrial reference frames and a vertical geopotential datum.",
@@ -13,20 +35,64 @@
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-10-21T00:38:11.000Z",
+      "published": "2026-10-20T07:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "2 天前"
     },
     {
-      "title": "Using Claude to reduce the attack surface of code",
-      "summary": "Over the past year, we’ve published lots of data that shows that frontier AI models are more than capable of discovering and exploiting security vulnerabilities.",
-      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "title": "Read our 2026 Public Benefit Report",
+      "summary": "Anthropic is a Public Benefit Corporation (PBC), a designation that requires us to balance the financial interests of shareholders with the benefit to the broader public.",
+      "url": "https://www.anthropic.com/public-benefit-report",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-20T21:43:55.000Z",
+      "published": "2026-10-21T19:18:30.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust.",
+      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-21T17:25:01.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Anthropic 2026 Public Benefit Report Taking stock of our progress toward our charter",
+      "summary": "# Taking stock of our progress toward our charter Foreword by Daniela Amodei 2Introduction 4Our assessment Pillar 1: The technical problems of AI safety are solved 5 Pillar 2: AI safety is a universal practice backstopped by law 8 Pillar 3: AI strengthens democracy and global stability 11 Pillar 4: AI expands prosperity and human flourishing 13 Pillar 5: AI’s benefits are shared by everyone 15 Closing commentary from the Long-Term Benefit Trust 17 Appendix 19 2 # Anthropic’s charter is to responsibly develop and maintain advanced AI for the long-term benefit of humanity.",
+      "url": "https://www-cdn.anthropic.com/a9ceec76a54d28d27affffcdab6faf7c142cd587.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-21T18:54:02.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "summary": "AT&T is building on LegalEdge to explore new ways to support its legal team. AT&T’s in-house legal department has hundreds of lawyers and legal professionals around the world.",
+      "url": "https://openai.com/index/att-legal",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-21T17:00:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Broad access through consistent standards",
+      "summary": "Over the past few months, we’ve worked with customers and partners to align safety policies across services that provide our models.",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-21T21:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "OpenAI models are coming to Google Cloud",
@@ -37,51 +103,7 @@
       "group": "ai",
       "published": "2026-10-21T12:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "summary": "Over the past two months, we led a coalition of maintainers, researchers, and security providers to address critical vulnerabilities in PHP, an open-source programming language used to run websites and web applications.",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-21T07:00:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-21T13:00:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "summary": "How OpenAI, PerturbAI, and Scripps Research used distributed AI agents to help scientists identify promising research leads in data from millions of brain cells See how OpenAI, PerturbAI, and Scripps Research deployed thousands of AI agents in parallel to identify promising biological connections in complex data from millions of brain cells.",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-21T04:50:00.000Z",
-      "why": null,
       "ago": "13 小時前"
-    },
-    {
-      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "summary": "Traditional advertising systems are built to respond to discrete units of user intent.",
-      "url": "https://openai.com/index/building-chatgpt-ad-stack",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-21T07:00:00.000Z",
-      "why": null,
-      "ago": "11 小時前"
     }
   ],
   "errors": []
