@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-22T08:24:30.894Z",
-  "updatedLocal": "2026/10/22 16:24:30",
+  "updated": "2026-10-22T17:42:14.691Z",
+  "updatedLocal": "2026/10/23 01:42:14",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-21T19:59:07.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Evaluating Your Map's Drawing Performance: A Case Study",
@@ -40,18 +40,7 @@
       "ago": "2 天前"
     },
     {
-      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
-      "summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust.",
-      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-21T17:25:01.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Read our 2026 Public Benefit Report",
+      "title": "2026 Public Benefit Report",
       "summary": "Anthropic is a Public Benefit Corporation (PBC), a designation that requires us to balance the financial interests of shareholders with the benefit to the broader public.",
       "url": "https://www.anthropic.com/public-benefit-report",
       "source": "Anthropic",
@@ -59,29 +48,40 @@
       "group": "ai",
       "published": "2026-10-21T19:18:30.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Anthropic 2026 Public Benefit Report Taking stock of our progress toward our charter",
-      "summary": "# Taking stock of our progress toward our charter Foreword by Daniela Amodei 2Introduction 4Our assessment Pillar 1: The technical problems of AI safety are solved 5 Pillar 2: AI safety is a universal practice backstopped by law 8 Pillar 3: AI strengthens democracy and global stability 11 Pillar 4: AI expands prosperity and human flourishing 13 Pillar 5: AI’s benefits are shared by everyone 15 Closing commentary from the Long-Term Benefit Trust 17 Appendix 19 2 # Anthropic’s charter is to responsibly develop and maintain advanced AI for the long-term benefit of humanity.",
+      "summary": null,
       "url": "https://www-cdn.anthropic.com/a9ceec76a54d28d27affffcdab6faf7c142cd587.pdf",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
       "published": "2026-10-21T18:54:02.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "summary": "AT&T is building on LegalEdge to explore new ways to support its legal team. AT&T’s in-house legal department has hundreds of lawyers and legal professionals around the world.",
-      "url": "https://openai.com/index/att-legal",
+      "title": "What FDE means at OpenAI",
+      "summary": "What we do, how we work, and how we solve enterprise’s toughest problems to deliver real impact.",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-21T17:00:00.000Z",
+      "published": "2026-10-22T06:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "summary": "Uber announced the company-wide rollout of ChatGPT Work , an agent that helps employees take on a wide range of tasks within ChatGPT Enterprise, starting today.",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-22T00:00:00.000Z",
+      "why": null,
+      "ago": "18 小時前"
     },
     {
       "title": "Broad access through consistent standards",
@@ -92,18 +92,18 @@
       "group": "ai",
       "published": "2026-10-21T21:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "21 小時前"
     },
     {
-      "title": "OpenAI models are coming to Google Cloud",
-      "summary": "OpenAI and Google Cloud ⁠ (opens in a new window) are partnering to bring OpenAI’s frontier models and Codex ⁠ (opens in a new window) agentic workflows into Google Cloud’s Model Garden.",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "source": "OpenAI",
+      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust.",
+      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-21T12:00:00.000Z",
+      "published": "2026-10-21T17:25:01.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

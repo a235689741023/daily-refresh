@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-22T08:24:30.894Z",
-  "updatedLocal": "2026/10/22 16:24:30",
+  "updated": "2026-10-22T17:42:14.691Z",
+  "updatedLocal": "2026/10/23 01:42:14",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-21T13:20:57.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "5 ways to activate employees on organizational sustainability goals",
@@ -26,7 +26,62 @@
       "group": null,
       "published": "2026-10-21T13:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Can Europe afford to weaken EV policies as businesses push for electrification?",
+      "summary": "European policymakers face competing demands from automotive manufacturers, who want greater flexibility, and organisations that argue weakening existing targets could undermine industrial competitiveness and energy security.",
+      "url": "https://www.edie.net/can-europe-afford-to-weaken-ev-policies-as-businesses-push-for-electrification/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-22T15:40:45.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "UK urged to unlock waste heat sources to decarbonise heating",
+      "summary": "A new report has called for coordinated policy reforms to overcome commercial barriers, attract investment and make heat recovery the norm across the UK's growing heat network sector.",
+      "url": "https://www.edie.net/uk-urged-to-unlock-waste-heat-sources-to-decarbonise-heating/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-22T15:20:35.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Sustainability reporting must do more to inform board decisions, finds WBCSD",
+      "summary": "Although sustainability reporting has matured, new analysis from the World Business Council for Sustainable Development (WBCSD) has found that boards and investors may not see the data they need to drive better decisions.",
+      "url": "https://www.edie.net/wbcsd-sustainability-reporting-must-do-more-to-inform-board-decisions/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-22T13:54:21.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
+      "summary": "Sustainability professionals have the chance to win six months of access to edie’s digital Membership offering as well as a VIP pass to edie 27 in April by completing a short survey.",
+      "url": "https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-22T13:30:45.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "ON TUESDAY: How AI can accelerate investment in climate solutions",
+      "summary": "Join us next week for an edie webinar exploring how artificial intelligence (AI), market intelligence and human expertise can help businesses identify credible climate investment opportunities and secure the financial backing needed to turn sustainability ambitions into action.",
+      "url": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-22T11:35:35.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "How to prepare for the UK CBAM",
@@ -37,84 +92,29 @@
       "group": null,
       "published": "2026-10-22T07:32:30.000Z",
       "why": null,
-      "ago": "52 分鐘前"
+      "ago": "10 小時前"
     },
     {
-      "title": "TODAY: The future cost of EV charging – what businesses can’t afford to overlook",
-      "summary": "Join edie on 22 October for our 45-minute masterclass, 'The Future Cost of EV Charging,' delivered in partnership with Brook Green Supply.",
-      "url": "https://www.edie.net/next-week-the-future-cost-of-ev-charging-what-businesses-cant-afford-to-overlook/",
+      "title": "TWO WEEKS TO GO: What SMEs need to know before investing in solar",
+      "summary": "Taking place on 5 November, this upcoming webinar will explore how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
+      "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-21T14:27:24.000Z",
+      "published": "2026-10-22T06:55:22.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "‘Another wrong signal’: Jackdaw approval draws widespread criticism from green economy",
-      "summary": "The UK Government’s approval of the controversial Jackdaw gas project has drawn significant criticism from across the green economy, reigniting concerns over the UK’s energy policy, climate commitments and continued support for North Sea oil and gas production.",
-      "url": "https://www.edie.net/another-wrong-signal-jackdaw-approval-draws-widespread-criticism-from-green-sector/",
+      "title": "Three weeks to go: Turning Scope 3 targets into funded action",
+      "summary": "Join this edie webinar, held in partnership with South Pole on 12 November, to learn more about building the business case for Scope 3.",
+      "url": "https://www.edie.net/four-weeks-to-go-turning-scope-3-targets-into-funded-action/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-21T14:12:36.000Z",
+      "published": "2026-10-22T06:38:10.000Z",
       "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "NEXT WEEK: How AI can accelerate investment in climate solutions",
-      "summary": "With just a week to go, sustainability professionals are invited to register for an upcoming edie webinar exploring how artificial intelligence (AI), market intelligence and human expertise can help businesses identify credible climate investment opportunities and secure the financial backing needed to turn sustainability ambitions into action.",
-      "url": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-21T11:35:35.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Jackdaw approval: What is it good for?",
-      "summary": "Following Energy Secretary Miatta Fahnbulleh’s approval of the controversial Jackdaw gas project, edie drills into the numbers to see what this means for the UK’s economy, energy security and climate ambitions.",
-      "url": "https://www.edie.net/jackdaw-approval-what-is-it-good-for/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-21T10:40:59.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
-      "summary": "Sustainability professionals have the chance to win six months of access to edie’s digital Membership offering as well as a VIP pass to edie 27 in April by completing a short survey.",
-      "url": "https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-21T08:30:45.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "Revealed: Expensive gas behind ‘nearly 90%’ of rise in UK electricity bills",
-      "summary": "A surge in wholesale costs driven by expensive gas is responsible for nearly 90% of the rise in UK household electricity bills since 2020, reveals new analysis.",
-      "url": "https://www.carbonbrief.org/revealed-expensive-gas-behind-nearly-90-of-rise-in-uk-electricity-bills",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-10-21T11:37:55.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "恆春灰面鵟鷹過境創新高、東京大阪破30℃創百年最晚紀錄、聯合國確認增溫1.5℃難以避免",
-      "summary": "在氣候變遷、超高齡社會的挑戰下，衛福部與環境部今天攜手逾200家醫療衛生等機構成立永續聯盟。衛生福利部長石崇良指出，衛福部醫事司自2024年起，已輔導約百家醫療機構進行碳盤查、50家推動節能管理，並補助32家培育綠色醫療人才；如今升級成立大聯盟，就是要建立跨部會、跨領域的對話平台，讓各家醫院互相「借鏡學習」，不再單打獨鬥摸索減碳。",
-      "url": "https://e-info.org.tw/node/243995",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-22T03:08:14.000Z",
-      "why": null,
-      "ago": "5 小時前"
+      "ago": "11 小時前"
     }
   ],
   "errors": []
