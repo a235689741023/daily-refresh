@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-22T00:45:48.372Z",
-  "updatedLocal": "2026/10/22 08:45:48",
+  "updated": "2026-10-22T08:24:30.894Z",
+  "updatedLocal": "2026/10/22 16:24:30",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-21T19:59:07.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Evaluating Your Map's Drawing Performance: A Case Study",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-10-20T15:29:47.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Prepare your data for the National Spatial Reference System modernization of 2022 in the U.S. (ArcGIS Blog)",
@@ -40,17 +40,6 @@
       "ago": "2 天前"
     },
     {
-      "title": "Read our 2026 Public Benefit Report",
-      "summary": "Anthropic is a Public Benefit Corporation (PBC), a designation that requires us to balance the financial interests of shareholders with the benefit to the broader public.",
-      "url": "https://www.anthropic.com/public-benefit-report",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-21T19:18:30.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
       "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
       "summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust.",
       "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
@@ -59,7 +48,18 @@
       "group": "ai",
       "published": "2026-10-21T17:25:01.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
+    },
+    {
+      "title": "Read our 2026 Public Benefit Report",
+      "summary": "Anthropic is a Public Benefit Corporation (PBC), a designation that requires us to balance the financial interests of shareholders with the benefit to the broader public.",
+      "url": "https://www.anthropic.com/public-benefit-report",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-21T19:18:30.000Z",
+      "why": null,
+      "ago": "13 小時前"
     },
     {
       "title": "Anthropic 2026 Public Benefit Report Taking stock of our progress toward our charter",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-21T18:54:02.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "How AT&T is rethinking in-house legal work with OpenAI",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-10-21T17:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Broad access through consistent standards",
@@ -92,7 +92,7 @@
       "group": "ai",
       "published": "2026-10-21T21:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "OpenAI models are coming to Google Cloud",
@@ -103,7 +103,7 @@
       "group": "ai",
       "published": "2026-10-21T12:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     }
   ],
   "errors": []

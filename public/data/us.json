@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-22T00:45:48.372Z",
-  "updatedLocal": "2026/10/22 08:45:48",
+  "updated": "2026-10-22T08:24:30.894Z",
+  "updatedLocal": "2026/10/22 16:24:30",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,29 +15,7 @@
       "group": null,
       "published": "2026-10-21T15:30:50.000Z",
       "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
-      "summary": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
-      "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-21T07:50:10.000Z",
-      "why": null,
       "ago": "17 小時前"
-    },
-    {
-      "title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
-      "summary": "Global automakers face an increasingly demanding customer: one who wants both competitive prices and better technology, according to Bain & Company.",
-      "url": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-21T01:01:01.000Z",
-      "why": null,
-      "ago": "24 小時前"
     },
     {
       "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
@@ -48,73 +26,95 @@
       "group": null,
       "published": "2026-10-21T11:20:58.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "Top HSBC strategist has a warning for retail investors chasing the AI rally",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-22T06:46:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "My father-in-law, 81, sold his $75,000 home and paid off his daughter’s $50,000 debt. What happens to him now?",
+      "summary": "My father-in-law, 81, sold his $75,000 home and paid off his daughter’s $50,000 debt. What happens to him now?",
+      "url": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-22T03:15:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
+      "summary": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
+      "url": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-22T01:50:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
+      "summary": "## Facing a potentially giant tax bill that could threaten his voting power, Zuckerberg was days away from listing his Palo Alto home when Meta agreed to create a new class of stock Choose MarketWatch as a preferred source of financial news Meta CEO Mark Zuckerberg threatened to leave California over a potential billionaire tax.",
+      "url": "https://www.marketwatch.com/story/this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-tax-1de34562?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-22T00:48:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
-      "summary": "## SpaceX merger commentary is arguably the biggest thing on the minds of Tesla investors right now — and Musk had nothing new to offer on Wednesday Choose MarketWatch as a preferred source of financial news Elon Musk just gave Tesla investors plenty to chew on — that is, unless they were hoping for more clarity about a possible merger with SpaceX.",
+      "summary": "Tesla’s stock falls as Elon Musk leaves investors wanting more Choose MarketWatch as a preferred source of financial news # Tesla’s stock falls as Elon Musk leaves investors wanting more ## SpaceX merger commentary is arguably the biggest thing on the minds of Tesla investors right now — and Musk had nothing new to offer on Wednesday Choose MarketWatch as a preferred source of financial news Tesla CEO Elon Musk on Wednesday didn’t have anything new to say about the prospect of a SpaceX merger.",
       "url": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
       "published": "2026-10-21T23:29:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
-      "summary": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business Choose MarketWatch as a preferred source of financial news # Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business ## Meta’s core advertising business delivers a strong quarter, but investors are eyeing promising new businesses around the Muse personal assistant Choose MarketWatch as a preferred source of financial news More than a quarter of users on Meta’s Muse agent use the assistant to shop, with an average transaction value exceeding $200, according to Meta.",
+      "summary": "## Meta’s core advertising business delivers a strong quarter, but investors are eyeing promising new businesses around the Muse personal assistant Choose MarketWatch as a preferred source of financial news Investors are buying into Meta CEO Mark Zuckerberg’s artificial-intelligence vision.",
       "url": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
       "published": "2026-10-21T23:07:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
-      "summary": null,
+      "summary": "## Researchers find most mergers historically have destroyed value. And this deal in particular would face numerous hurdles.",
       "url": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
       "published": "2026-10-21T21:44:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
-      "summary": null,
+      "summary": "## The president’s statement comes as a voter backlash against the facilities intensifies ahead of the midterm elections Choose MarketWatch as a preferred source of financial news President Trump on Wednesday suggested that he’s aiming to mandate that data centers generate their own electricity, with his statement offering a fresh example of how politicians are feeling pressure to respond to a growing bipartisan backlash to the facilities.",
       "url": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
       "published": "2026-10-21T21:31:00.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-21T21:14:00.000Z",
-      "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-21T21:00:00.000Z",
-      "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     }
   ],
   "errors": [
