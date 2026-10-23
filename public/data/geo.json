@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-23T08:21:03.966Z",
-  "updatedLocal": "2026/10/23 16:21:03",
+  "updated": "2026-10-23T17:32:27.565Z",
+  "updatedLocal": "2026/10/24 01:32:27",
   "digest": null,
   "watch": [],
   "items": [
@@ -29,6 +29,17 @@
       "ago": "3 天前"
     },
     {
+      "title": "An alignment assessment of the UK AISI cybertesting incident",
+      "summary": "On August 4, 2026, the UK AI Security Institute (AISI) published a report that detailed some concerning behavior it observed from Claude Mythos 5 during its testing of the model’s cyber capabilities.",
+      "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-23T13:29:39.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
       "title": "LLMs are making formal software verification feasible at a much larger scale",
       "summary": "Keane Lucas, Aengus Lynch, Luna Tong, Luke Champine, Zygi Straznickas, Dino Distefano, Harshikaa Agrawal Evyatar Ben Asher, Ava Howell, Sami Jawhar, Chris Rohlf, Nickolai Zeldovich Nicholas Carlini, Rajashree Agrawal, Jason Gross Most software is riddled with bugs, which AI can now easily find and exploit .",
       "url": "https://www.anthropic.com/research/formal-verification",
@@ -37,7 +48,7 @@
       "group": "ai",
       "published": "2026-10-22T21:58:06.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Open call for guest investigators in the life sciences",
@@ -48,7 +59,7 @@
       "group": "ai",
       "published": "2026-10-22T22:03:06.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Donating Agent Skills to the Agentic AI Foundation",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-22T18:25:44.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Appendix: LLMs are making formal software verification feasible at a much larger scale",
@@ -70,29 +81,18 @@
       "group": "ai",
       "published": "2026-10-22T23:06:22.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
     },
     {
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "summary": "OpenAI and Poland’s NASK National Research Institute have signed an agreement to explore collaboration on AI safety, security and technical research.",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary": "How we optimized Azure Cosmos DB in our application storage platform, Habitat, to manage unprecedented growth.",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-23T00:00:00.000Z",
+      "published": "2026-10-23T17:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "Build more responsive apps with the Decisions API",
-      "summary": "Fast, focused, low-cost decisions for any application.",
-      "url": "https://openai.com/index/decisions-api",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-22T19:00:00.000Z",
-      "why": null,
-      "ago": "13 小時前"
+      "ago": "32 分鐘前"
     }
   ],
   "errors": []

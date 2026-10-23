@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-23T08:21:03.966Z",
-  "updatedLocal": "2026/10/23 16:21:03",
+  "updated": "2026-10-23T17:32:27.565Z",
+  "updatedLocal": "2026/10/24 01:32:27",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-23T01:11:50.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Inside Workday’s second round of science-based targets",
@@ -26,7 +26,73 @@
       "group": null,
       "published": "2026-10-22T21:59:31.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "20 小時前"
+    },
+    {
+      "title": "European Parliament backs three-year delay to EU methane rules",
+      "summary": "The European Parliament has voted to delay methane reporting requirements for oil, gas and coal imports by three years, extending the timeline beyond the one-year postponement proposed by the European Commission.",
+      "url": "https://www.edie.net/european-parliament-backs-three-year-delay-to-eu-methane-rules/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-23T15:34:06.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "ON TUESDAY: How AI can accelerate investment in climate solutions",
+      "summary": "Join us on 27 October for an edie webinar exploring how artificial intelligence (AI), market intelligence and human expertise can help businesses identify credible climate investment opportunities and secure the financial backing needed to turn sustainability ambitions into action.",
+      "url": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-23T15:02:35.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Google ordered to halt Finnish data centres after 400,000 trees felled",
+      "summary": "Authorities ordered Google to pause development of two of its data centres in Finland following claims the tech giant failed to conduct the necessary assessments before felling 400,000 trees.",
+      "url": "https://www.edie.net/google-ordered-to-halt-finnish-data-centres-after-400000-trees-felled/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-23T15:00:13.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Demand for green skills is growing twice as fast as global supply, LinkedIn finds",
+      "summary": "Demand for green skills is growing twice as fast as supply globally, creating a workforce gap that could slow climate action, energy infrastructure projects and economic growth, according to LinkedIn.",
+      "url": "https://www.edie.net/demand-for-green-skills-is-growing-twice-as-fast-as-supply-globally-linkedin-finds/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-23T14:31:39.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Burnham’s first Budget: What would ‘good’ look like for the green economy?",
+      "summary": "Chancellor John Healey is set to deliver Prime Minister Andy Burnham's first Budget on 28 October.",
+      "url": "https://www.edie.net/burnhams-first-budget-what-would-good-look-like-for-the-green-economy/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-23T12:30:09.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
+      "summary": "Sustainability professionals have the chance to win six months of access to edie’s digital Membership offering as well as a VIP pass to edie 27 in April by completing a short survey.",
+      "url": "https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-23T09:30:45.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Sustainability Uncovered episode 50: Raising sustainability standards and Earthshot Prize breakthroughs",
@@ -37,84 +103,18 @@
       "group": null,
       "published": "2026-10-23T08:11:52.000Z",
       "why": null,
-      "ago": "9 分鐘前"
+      "ago": "9 小時前"
     },
     {
-      "title": "Can Europe afford to weaken EV policies as businesses push for electrification?",
-      "summary": "European policymakers face competing demands from automotive manufacturers, who want greater flexibility, and organisations that argue weakening existing targets could undermine industrial competitiveness and energy security.",
-      "url": "https://www.edie.net/can-europe-afford-to-weaken-ev-policies-as-businesses-push-for-electrification/",
+      "title": "How to prepare for the UK CBAM",
+      "summary": "With the UK Carbon Border Adjustment Mechanism (CBAM) set to come into effect on 1 January 2027, businesses face a new set of regulatory, financial and supply chain considerations when importing carbon-intensive materials.",
+      "url": "https://www.edie.net/how-to-prepare-for-the-uk-cbam/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-22T15:40:45.000Z",
+      "published": "2026-10-23T07:32:30.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "UK urged to unlock waste heat sources to decarbonise heating",
-      "summary": "A new report has called for coordinated policy reforms to overcome commercial barriers, attract investment and make heat recovery the norm across the UK's growing heat network sector.",
-      "url": "https://www.edie.net/uk-urged-to-unlock-waste-heat-sources-to-decarbonise-heating/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-22T15:20:35.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Sustainability reporting must do more to inform board decisions, finds WBCSD",
-      "summary": "Although sustainability reporting has matured, new analysis from the World Business Council for Sustainable Development (WBCSD) has found that boards and investors may not see the data they need to drive better decisions.",
-      "url": "https://www.edie.net/wbcsd-sustainability-reporting-must-do-more-to-inform-board-decisions/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-22T13:54:21.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
-      "summary": "Sustainability professionals have the chance to win six months of access to edie’s digital Membership offering as well as a VIP pass to edie 27 in April by completing a short survey.",
-      "url": "https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-22T13:30:45.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "ON TUESDAY: How AI can accelerate investment in climate solutions",
-      "summary": "Join us next week for an edie webinar exploring how artificial intelligence (AI), market intelligence and human expertise can help businesses identify credible climate investment opportunities and secure the financial backing needed to turn sustainability ambitions into action.",
-      "url": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-22T11:35:35.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Experts: How are climate scientists using artificial intelligence?",
-      "summary": "Artificial intelligence (AI) is developing at a rapid pace and is increasingly being used by scientists to better understand climate change.",
-      "url": "https://www.carbonbrief.org/experts-how-are-climate-scientists-using-artificial-intelligence",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-10-22T10:45:03.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "ISSB launches consultation on nature standard-setting",
-      "summary": "* Collect information about your geographical location which can be accurate to within several meters * Identify your device by actively scanning it for specific characteristics (fingerprinting) Find out more about how your personal data is processed and set your preferences in the .",
-      "url": "https://www.responsible-investor.com/issb-launches-consultation-on-nature-standard-setting/",
-      "source": "Responsible Investor",
-      "tag": "法規",
-      "group": null,
-      "published": "2026-10-22T14:19:04.000Z",
-      "why": null,
-      "ago": "18 小時前"
+      "ago": "10 小時前"
     }
   ],
   "errors": []
