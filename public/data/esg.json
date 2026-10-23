@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-23T00:45:46.167Z",
-  "updatedLocal": "2026/10/23 08:45:46",
+  "updated": "2026-10-23T08:21:03.966Z",
+  "updatedLocal": "2026/10/23 16:21:03",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Updated: Sustainability leadership moves",
+      "summary": "As corporate sustainability matures, some long-time leaders are leaving the profession, while others are tackling a broader set of responsibilities following reorganizations or layoffs.",
+      "url": "https://trellis.net/article/sustainability-leadership-moves/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-23T01:11:50.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "Inside Workday’s second round of science-based targets",
       "summary": "Enterprise software firm Workday has adopted fresh greenhouse gas (GHG) emissions reduction commitments across most of its carbon footprint after meeting two of three pledges it made in 2020.",
@@ -15,7 +26,18 @@
       "group": null,
       "published": "2026-10-22T21:59:31.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
+    },
+    {
+      "title": "Sustainability Uncovered episode 50: Raising sustainability standards and Earthshot Prize breakthroughs",
+      "summary": "The latest episode of edie’s long-standing Sustainability Uncovered podcast is now live.",
+      "url": "https://www.edie.net/sustainability-uncovered-episode-50-raising-sustainability-standards-and-earthshot-prize-breakthroughs/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-23T08:11:52.000Z",
+      "why": null,
+      "ago": "9 分鐘前"
     },
     {
       "title": "Can Europe afford to weaken EV policies as businesses push for electrification?",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-10-22T15:40:45.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "UK urged to unlock waste heat sources to decarbonise heating",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-10-22T15:20:35.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Sustainability reporting must do more to inform board decisions, finds WBCSD",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-10-22T13:54:21.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-10-22T13:30:45.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "ON TUESDAY: How AI can accelerate investment in climate solutions",
@@ -70,51 +92,29 @@
       "group": null,
       "published": "2026-10-22T11:35:35.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
-      "title": "How to prepare for the UK CBAM",
-      "summary": "With the UK Carbon Border Adjustment Mechanism (CBAM) set to come into effect on 1 January 2027, businesses face a new set of regulatory, financial and supply chain considerations when importing carbon-intensive materials.",
-      "url": "https://www.edie.net/how-to-prepare-for-the-uk-cbam/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "Experts: How are climate scientists using artificial intelligence?",
+      "summary": "Artificial intelligence (AI) is developing at a rapid pace and is increasingly being used by scientists to better understand climate change.",
+      "url": "https://www.carbonbrief.org/experts-how-are-climate-scientists-using-artificial-intelligence",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-10-22T07:32:30.000Z",
+      "published": "2026-10-22T10:45:03.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "TWO WEEKS TO GO: What SMEs need to know before investing in solar",
-      "summary": "Taking place on 5 November, this upcoming webinar will explore how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
-      "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "ISSB launches consultation on nature standard-setting",
+      "summary": "* Collect information about your geographical location which can be accurate to within several meters * Identify your device by actively scanning it for specific characteristics (fingerprinting) Find out more about how your personal data is processed and set your preferences in the .",
+      "url": "https://www.responsible-investor.com/issb-launches-consultation-on-nature-standard-setting/",
+      "source": "Responsible Investor",
+      "tag": "法規",
       "group": null,
-      "published": "2026-10-22T06:55:22.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Three weeks to go: Turning Scope 3 targets into funded action",
-      "summary": "Join this edie webinar, held in partnership with South Pole on 12 November, to learn more about building the business case for Scope 3.",
-      "url": "https://www.edie.net/four-weeks-to-go-turning-scope-3-targets-into-funded-action/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-22T06:38:10.000Z",
+      "published": "2026-10-22T14:19:04.000Z",
       "why": null,
       "ago": "18 小時前"
-    },
-    {
-      "title": "NEXT MONTH: How to prepare for the UK SRS",
-      "summary": "This webinar, hosted in partnership with Simply Sustainable on 10 November, will explore how businesses can prepare for the UK Sustainability Reporting Standards (UK SRS), understand their current level of readiness and turn gaps into a practical implementation plan.",
-      "url": "https://www.edie.net/free-webinar-how-to-prepare-for-the-uk-srs/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-22T05:45:21.000Z",
-      "why": null,
-      "ago": "19 小時前"
     }
   ],
   "errors": []

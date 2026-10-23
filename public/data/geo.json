@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-23T00:45:46.167Z",
-  "updatedLocal": "2026/10/23 08:45:46",
+  "updated": "2026-10-23T08:21:03.966Z",
+  "updatedLocal": "2026/10/23 16:21:03",
   "digest": null,
   "watch": [],
   "items": [
@@ -14,17 +14,6 @@
       "tag": "平台",
       "group": "gis",
       "published": "2026-10-21T19:59:07.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Evaluating Your Map's Drawing Performance: A Case Study",
-      "summary": "Hello again! In May 2026 the ArcGIS Pro team released version 3.7 , which includes a performance review tool called the Analyze Map pane.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/analyze-map-pane-part-two",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-10-20T15:29:47.000Z",
       "why": null,
       "ago": "2 天前"
     },
@@ -48,18 +37,7 @@
       "group": "ai",
       "published": "2026-10-22T21:58:06.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "summary": "Today, we’re donating Agent Skills , the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation (AAIF).",
-      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-22T18:25:44.000Z",
-      "why": null,
-      "ago": "6 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Open call for guest investigators in the life sciences",
@@ -70,7 +48,40 @@
       "group": "ai",
       "published": "2026-10-22T22:03:06.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
+    },
+    {
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "summary": "Today, we’re donating Agent Skills , the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation (AAIF).",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-22T18:25:44.000Z",
+      "why": null,
+      "ago": "14 小時前"
+    },
+    {
+      "title": "Appendix: LLMs are making formal software verification feasible at a much larger scale",
+      "summary": "Appendix: LLMs are making formal software veri fi cation feasible at a much larger scale How do Claude’s proofs look to a human formal veri fi cation expert?",
+      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/6867eadf760258fa8b42a504600cd3c036d16358.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-22T23:06:22.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary": "OpenAI and Poland’s NASK National Research Institute have signed an agreement to explore collaboration on AI safety, security and technical research.",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-23T00:00:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Build more responsive apps with the Decisions API",
@@ -81,29 +92,7 @@
       "group": "ai",
       "published": "2026-10-22T19:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "What FDE means at OpenAI",
-      "summary": "What we do, how we work, and how we solve enterprise’s toughest problems to deliver real impact.",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-22T06:00:00.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "summary": "Uber announced the company-wide rollout of ChatGPT Work , an agent that helps employees take on a wide range of tasks within ChatGPT Enterprise, starting today.",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-22T00:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "13 小時前"
     }
   ],
   "errors": []
