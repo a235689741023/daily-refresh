@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-22T17:42:14.691Z",
-  "updatedLocal": "2026/10/23 01:42:14",
+  "updated": "2026-10-23T00:45:46.167Z",
+  "updatedLocal": "2026/10/23 08:45:46",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-21T19:59:07.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Evaluating Your Map's Drawing Performance: A Case Study",
@@ -37,29 +37,51 @@
       "group": "gis",
       "published": "2026-10-20T07:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
-      "title": "2026 Public Benefit Report",
-      "summary": "Anthropic is a Public Benefit Corporation (PBC), a designation that requires us to balance the financial interests of shareholders with the benefit to the broader public.",
-      "url": "https://www.anthropic.com/public-benefit-report",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "summary": "Keane Lucas, Aengus Lynch, Luna Tong, Luke Champine, Zygi Straznickas, Dino Distefano, Harshikaa Agrawal Evyatar Ben Asher, Ava Howell, Sami Jawhar, Chris Rohlf, Nickolai Zeldovich Nicholas Carlini, Rajashree Agrawal, Jason Gross Most software is riddled with bugs, which AI can now easily find and exploit .",
+      "url": "https://www.anthropic.com/research/formal-verification",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-21T19:18:30.000Z",
+      "published": "2026-10-22T21:58:06.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "Anthropic 2026 Public Benefit Report Taking stock of our progress toward our charter",
-      "summary": null,
-      "url": "https://www-cdn.anthropic.com/a9ceec76a54d28d27affffcdab6faf7c142cd587.pdf",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "summary": "Today, we’re donating Agent Skills , the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation (AAIF).",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-21T18:54:02.000Z",
+      "published": "2026-10-22T18:25:44.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Open call for guest investigators in the life sciences",
+      "summary": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
+      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-22T22:03:06.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Build more responsive apps with the Decisions API",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "url": "https://openai.com/index/decisions-api",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-22T19:00:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "What FDE means at OpenAI",
@@ -70,7 +92,7 @@
       "group": "ai",
       "published": "2026-10-22T06:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Uber brings ChatGPT Work to all employees with OpenAI",
@@ -80,28 +102,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-10-22T00:00:00.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Broad access through consistent standards",
-      "summary": "Over the past few months, we’ve worked with customers and partners to align safety policies across services that provide our models.",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-21T21:00:00.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
-      "summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust.",
-      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-21T17:25:01.000Z",
       "why": null,
       "ago": "昨日"
     }

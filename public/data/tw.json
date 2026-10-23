@@ -1,11 +1,33 @@
 {
   "domain": "tw",
   "title": "台股",
-  "updated": "2026-10-22T17:42:14.691Z",
-  "updatedLocal": "2026/10/23 01:42:14",
+  "updated": "2026-10-23T00:45:46.167Z",
+  "updatedLocal": "2026/10/23 08:45:46",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "AI支出疑慮與油價引賣壓　美股多收黑、那指挫逾2%",
+      "summary": "（中央社紐約22日綜合外電報導）美股主要指數今天多收黑，以科技股為主的那指終場下挫2.6%，創6月以來最慘單日表現，主因市場對人工智慧（AI）公司支出的疑慮再起，而國際油價又因地緣政治緊張升高而大漲。標普500指數下挫93.74點或1.21%，收7663.43點，創下7月以來最差的單日表現。",
+      "url": "https://www.cna.com.tw/news/afe/202610230010.aspx",
+      "source": "中央社 財經",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-22T20:38:39.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "葉門叛軍襲沙烏地加劇中東供應疑慮　油價大漲",
+      "summary": "（中央社紐約22日綜合外電報導）油價今天大漲，布倫特原油來到5個月來的高點，主因沙烏地阿拉伯遭到葉門叛軍「青年運動」（Houthi）攻擊，讓市場擔心來自這個能源出口要地的供應可能進一步中斷。路透社報導，布倫特原油期貨上漲4.35美元或4.0%，收在每桶113.17美元。",
+      "url": "https://www.cna.com.tw/news/afe/202610230007.aspx",
+      "source": "中央社 財經",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-22T19:37:32.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
     {
       "title": "企業財報與油價衝擊市場情緒　歐股收黑",
       "summary": "本網站使用相關技術提供更好的閱讀體驗，同時尊重使用者隱私，點這裡瞭解 。當您關閉此視窗，代表您同意上述規範。（中央社倫敦22日綜合外電報導）歐洲主要股市今天都收黑，主因企業財報好壞參半，同時國際油價走高、法國公債殖利率上升，也進一步削弱市場的風險偏好。",
@@ -15,7 +37,7 @@
       "group": null,
       "published": "2026-10-22T16:46:20.000Z",
       "why": null,
-      "ago": "56 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "經濟部樂見美光與台中工會達成協議　盼桃園廠續協商",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-10-22T15:37:08.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "91APP公布遭自動化攻擊階段調查　承諾補償消費者財損",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-10-22T15:06:01.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "今彩539第115256期　頭獎4注中獎",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-10-22T14:06:43.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "威力彩第115085期　頭獎槓龜",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-10-22T14:04:39.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "科技巨頭財報未能消除AI前景疑慮　美國股市開低",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-10-22T13:51:32.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "颱風薔琵來襲　金管會促保險業加強服務依約儘速理賠",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-10-22T13:46:26.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "薔琵颱風影響　台積電10/24運動會取消",
@@ -92,41 +114,14 @@
       "group": null,
       "published": "2026-10-22T13:27:08.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "股東會委託書申報改電子化　2027年7月上路",
-      "summary": "（中央社記者 高華謙 台北22日電）金管會今天說，現行股東會委託書徵求人申報徵求資料，是以紙本方式送達，耗費大量人力，因此已修正規則，自明年7月1日起改採電子申報，且也採納民眾建議，相關資訊將整合至公開資訊觀測站（MOPS）。",
-      "url": "https://www.cna.com.tw/news/afe/202610220411.aspx",
-      "source": "中央社 財經",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-22T13:21:04.000Z",
-      "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "跨部會邀內容與AI業者交流　推動創新與著作權保護",
-      "summary": "數發部次長侯宜秀表示，發展台灣主權AI的關鍵在於「模型可換、資料可控」，讓模型能隨技術演進彈性替換，資料則由台灣自主掌控。數發部推動的資創條例草案中，以制度化促進資料開放、共享及再利用，建立適當授權條款，並同步促進民間優質語料數位化及AI應用、推動AI業者建立使用報酬給付機制，逐步打造AI發展與權利人共榮的生態。",
-      "url": "https://www.cna.com.tw/news/afe/202610220410.aspx",
-      "source": "中央社 財經",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-10-22T13:20:02.000Z",
-      "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     }
   ],
   "errors": [
     {
-      "source": "鉅亨網 頭條",
-      "url": "https://news.cnyes.com/rss/v1/news/category/headline",
-      "message": "Invalid character in entity name\nLine: 1161\nColumn: 43\nChar:  "
-    },
-    {
       "source": "鉅亨網 台股",
       "url": "https://news.cnyes.com/rss/v1/news/category/tw_stock",
-      "message": "Invalid character in entity name\nLine: 583\nColumn: 43\nChar:  "
+      "message": "Invalid character in entity name\nLine: 617\nColumn: 43\nChar:  "
     }
   ]
 }
