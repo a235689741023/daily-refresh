@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-23T17:32:27.565Z",
-  "updatedLocal": "2026/10/24 01:32:27",
+  "updated": "2026-10-24T00:51:46.719Z",
+  "updatedLocal": "2026/10/24 08:51:46",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-10-20T07:00:00.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
       "title": "An alignment assessment of the UK AISI cybertesting incident",
@@ -37,51 +37,7 @@
       "group": "ai",
       "published": "2026-10-23T13:29:39.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "summary": "Keane Lucas, Aengus Lynch, Luna Tong, Luke Champine, Zygi Straznickas, Dino Distefano, Harshikaa Agrawal Evyatar Ben Asher, Ava Howell, Sami Jawhar, Chris Rohlf, Nickolai Zeldovich Nicholas Carlini, Rajashree Agrawal, Jason Gross Most software is riddled with bugs, which AI can now easily find and exploit .",
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-22T21:58:06.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Open call for guest investigators in the life sciences",
-      "summary": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
-      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-22T22:03:06.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "summary": "Today, we’re donating Agent Skills , the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation (AAIF).",
-      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-22T18:25:44.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Appendix: LLMs are making formal software verification feasible at a much larger scale",
-      "summary": "Appendix: LLMs are making formal software veri fi cation feasible at a much larger scale How do Claude’s proofs look to a human formal veri fi cation expert?",
-      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/6867eadf760258fa8b42a504600cd3c036d16358.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-22T23:06:22.000Z",
-      "why": null,
-      "ago": "18 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -92,7 +48,51 @@
       "group": "ai",
       "published": "2026-10-23T17:00:00.000Z",
       "why": null,
-      "ago": "32 分鐘前"
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "summary": "We’ve strengthened containment for internal frontier-model training and evaluation and used our strongest models to red-team the boundaries.",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-23T10:00:00.000Z",
+      "why": null,
+      "ago": "15 小時前"
+    },
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary": "OpenAI and Poland’s NASK National Research Institute have signed an agreement to explore collaboration on AI safety, security and technical research.",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-23T00:00:00.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Appendix: LLMs are making formal software verification feasible at a much larger scale",
+      "summary": "Appendix: LLMs are making formal software veri fi cation feasible at a much larger scale How do Claude’s proofs look to a human formal veri fi cation expert?",
+      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/6867eadf760258fa8b42a504600cd3c036d16358.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-22T23:06:22.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Open call for guest investigators in the life sciences",
+      "summary": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
+      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-22T22:03:06.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []
