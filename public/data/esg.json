@@ -1,87 +1,21 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-24T07:57:38.121Z",
-  "updatedLocal": "2026/10/24 15:57:38",
+  "updated": "2026-10-24T16:19:09.014Z",
+  "updatedLocal": "2026/10/25 00:19:09",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "European Parliament backs three-year delay to EU methane rules",
-      "summary": "The European Parliament has voted to delay methane reporting requirements for oil, gas and coal imports by three years, extending the timeline beyond the one-year postponement proposed by the European Commission.",
-      "url": "https://www.edie.net/european-parliament-backs-three-year-delay-to-eu-methane-rules/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "ESRS-40a: CSRD reporting standards for certain non-EU companies",
+      "summary": "Reporting standards to be used for financial years beginning on or after 1 January 2028 (reporting in 2029) The Corporate Sustainability Reporting Directive is a directive from the European Union that expands sustainability reporting standards and requirements.",
+      "url": "https://www.pwc.nl/en/topics/sustainability/csrd/esrs-40a-csrd-reporting-standards-for-non-eu-companies.html",
+      "source": "PwC Nederland",
+      "tag": "法規",
       "group": null,
-      "published": "2026-10-23T15:34:06.000Z",
+      "published": "2026-10-24T04:51:52.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "ON TUESDAY: How AI can accelerate investment in climate solutions",
-      "summary": "Join us on 27 October for an edie webinar exploring how artificial intelligence (AI), market intelligence and human expertise can help businesses identify credible climate investment opportunities and secure the financial backing needed to turn sustainability ambitions into action.",
-      "url": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-23T15:02:35.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Google ordered to halt Finnish data centres after 400,000 trees felled",
-      "summary": "Authorities ordered Google to pause development of two of its data centres in Finland following claims the tech giant failed to conduct the necessary assessments before felling 400,000 trees.",
-      "url": "https://www.edie.net/google-ordered-to-halt-finnish-data-centres-after-400000-trees-felled/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-23T15:00:13.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Demand for green skills is growing twice as fast as global supply, LinkedIn finds",
-      "summary": "Demand for green skills is growing twice as fast as supply globally, creating a workforce gap that could slow climate action, energy infrastructure projects and economic growth, according to LinkedIn.",
-      "url": "https://www.edie.net/demand-for-green-skills-is-growing-twice-as-fast-as-supply-globally-linkedin-finds/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-23T14:31:39.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Burnham’s first Budget: What would ‘good’ look like for the green economy?",
-      "summary": "Chancellor John Healey is set to deliver Prime Minister Andy Burnham's first Budget on 28 October.",
-      "url": "https://www.edie.net/burnhams-first-budget-what-would-good-look-like-for-the-green-economy/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-23T12:30:09.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
-      "summary": "Sustainability professionals have the chance to win six months of access to edie’s digital Membership offering as well as a VIP pass to edie 27 in April by completing a short survey.",
-      "url": "https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-23T09:30:45.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Sustainability Uncovered episode 50: Raising sustainability standards and Earthshot Prize breakthroughs",
-      "summary": "The latest episode of edie’s long-standing Sustainability Uncovered podcast is now live.",
-      "url": "https://www.edie.net/sustainability-uncovered-episode-50-raising-sustainability-standards-and-earthshot-prize-breakthroughs/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-23T08:11:52.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Chart: A record two-thirds of car sales in China are now electric vehicles",
@@ -92,7 +26,40 @@
       "group": null,
       "published": "2026-10-23T15:55:26.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "European Parliament backs three-year delay to EU methane rules",
+      "summary": "The European Parliament has voted to delay methane reporting requirements for oil, gas and coal imports by three years, extending the timeline beyond the one-year postponement proposed by the European Commission.",
+      "url": "https://www.edie.net/european-parliament-backs-three-year-delay-to-eu-methane-rules/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-23T15:34:06.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "ON TUESDAY: How AI can accelerate investment in climate solutions",
+      "summary": "Join us on 27 October for an edie webinar exploring how artificial intelligence (AI), market intelligence and human expertise can help businesses identify credible climate investment opportunities and secure the financial backing needed to turn sustainability ambitions into action.",
+      "url": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-23T15:02:35.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Google ordered to halt Finnish data centres after 400,000 trees felled",
+      "summary": "Authorities ordered Google to pause development of two of its data centres in Finland following claims the tech giant failed to conduct the necessary assessments before felling 400,000 trees.",
+      "url": "https://www.edie.net/google-ordered-to-halt-finnish-data-centres-after-400000-trees-felled/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-23T15:00:13.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "ISSB: consultation launched on nature-related disclosure guidance, Theresa Lightbown - Linklaters",
@@ -103,16 +70,49 @@
       "group": null,
       "published": "2026-10-23T14:40:08.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "How to prepare for the UK CBAM",
-      "summary": "With the UK Carbon Border Adjustment Mechanism (CBAM) set to come into effect on 1 January 2027, businesses face a new set of regulatory, financial and supply chain considerations when importing carbon-intensive materials.",
-      "url": "https://www.edie.net/how-to-prepare-for-the-uk-cbam/",
+      "title": "Demand for green skills is growing twice as fast as global supply, LinkedIn finds",
+      "summary": "Demand for green skills is growing twice as fast as supply globally, creating a workforce gap that could slow climate action, energy infrastructure projects and economic growth, according to LinkedIn.",
+      "url": "https://www.edie.net/demand-for-green-skills-is-growing-twice-as-fast-as-supply-globally-linkedin-finds/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-23T07:32:30.000Z",
+      "published": "2026-10-23T14:31:39.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Burnham’s first Budget: What would ‘good’ look like for the green economy?",
+      "summary": "Chancellor John Healey is set to deliver Prime Minister Andy Burnham's first Budget on 28 October.",
+      "url": "https://www.edie.net/burnhams-first-budget-what-would-good-look-like-for-the-green-economy/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-23T12:30:09.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Masdar’s Clean Power Output Hits 40.2TWh in 2025, Up 38% as Portfolio Reaches 66.5GW",
+      "summary": "Masdar has released its 13th Annual Sustainability Report. Its operating projects generated 40.2 terawatt-hours (TWh) of clean electricity in 2025, up 38 percent from 29.2TWh.",
+      "url": "https://esgnews.com/masdar-sustainability-report-2025-clean-power/?utm_source=rss&utm_medium=rss&utm_campaign=masdar-sustainability-report-2025-clean-power",
+      "source": "ESG News",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-23T14:14:05.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Schneider Electric Joins Lenovo 360 Circle, Offering IT Partners Scope 1 and 2 Baselines and Site Audits",
+      "summary": "Lenovo has named Schneider Electric a strategic ally of Lenovo 360 Circle, its global sustainability community for IT channel partners.",
+      "url": "https://esgnews.com/lenovo-schneider-electric-partnership-decarbonization/?utm_source=rss&utm_medium=rss&utm_campaign=lenovo-schneider-electric-partnership-decarbonization",
+      "source": "ESG News",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-23T14:03:43.000Z",
       "why": null,
       "ago": "昨日"
     }
