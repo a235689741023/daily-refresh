@@ -1,33 +1,11 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-24T00:51:46.719Z",
-  "updatedLocal": "2026/10/24 08:51:46",
+  "updated": "2026-10-24T07:57:38.121Z",
+  "updatedLocal": "2026/10/24 15:57:38",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Updated: Sustainability leadership moves",
-      "summary": "As corporate sustainability matures, some long-time leaders are leaving the profession, while others are tackling a broader set of responsibilities following reorganizations or layoffs.",
-      "url": "https://trellis.net/article/sustainability-leadership-moves/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-23T01:11:50.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "Inside Workday’s second round of science-based targets",
-      "summary": "Enterprise software firm Workday has adopted fresh greenhouse gas (GHG) emissions reduction commitments across most of its carbon footprint after meeting two of three pledges it made in 2020.",
-      "url": "https://trellis.net/article/workday-new-science-based-targets/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-22T21:59:31.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
     {
       "title": "European Parliament backs three-year delay to EU methane rules",
       "summary": "The European Parliament has voted to delay methane reporting requirements for oil, gas and coal imports by three years, extending the timeline beyond the one-year postponement proposed by the European Commission.",
@@ -37,7 +15,7 @@
       "group": null,
       "published": "2026-10-23T15:34:06.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "ON TUESDAY: How AI can accelerate investment in climate solutions",
@@ -48,7 +26,7 @@
       "group": null,
       "published": "2026-10-23T15:02:35.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Google ordered to halt Finnish data centres after 400,000 trees felled",
@@ -59,7 +37,7 @@
       "group": null,
       "published": "2026-10-23T15:00:13.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Demand for green skills is growing twice as fast as global supply, LinkedIn finds",
@@ -70,7 +48,7 @@
       "group": null,
       "published": "2026-10-23T14:31:39.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Burnham’s first Budget: What would ‘good’ look like for the green economy?",
@@ -81,7 +59,7 @@
       "group": null,
       "published": "2026-10-23T12:30:09.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
@@ -92,7 +70,7 @@
       "group": null,
       "published": "2026-10-23T09:30:45.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Sustainability Uncovered episode 50: Raising sustainability standards and Earthshot Prize breakthroughs",
@@ -102,6 +80,28 @@
       "tag": "國際",
       "group": null,
       "published": "2026-10-23T08:11:52.000Z",
+      "why": null,
+      "ago": "24 小時前"
+    },
+    {
+      "title": "Chart: A record two-thirds of car sales in China are now electric vehicles",
+      "summary": "For the first time, new-energy vehicles (NEVs) made up 67% of new car sales in China in September, according to the latest data from the China Passenger Car Association (CPCA).",
+      "url": "https://www.carbonbrief.org/chart-a-record-two-thirds-of-car-sales-in-china-are-now-electric-vehicles",
+      "source": "Carbon Brief",
+      "tag": "氣候",
+      "group": null,
+      "published": "2026-10-23T15:55:26.000Z",
+      "why": null,
+      "ago": "16 小時前"
+    },
+    {
+      "title": "ISSB: consultation launched on nature-related disclosure guidance, Theresa Lightbown - Linklaters",
+      "summary": "The ISSB’s rationale for choosing non-mandatory guidance is that this will allow it to specify incremental requirements that address investor needs, while minimising disruption to the ongoing global adoption of IFRS S1 and IFRS S2.",
+      "url": "https://sustainablefutures.linklaters.com/post/102o6bp/issb-consultation-launched-on-nature-related-disclosure-guidance",
+      "source": "Sustainable Futures",
+      "tag": "法規",
+      "group": null,
+      "published": "2026-10-23T14:40:08.000Z",
       "why": null,
       "ago": "17 小時前"
     },
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-10-23T07:32:30.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

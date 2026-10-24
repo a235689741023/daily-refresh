@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-24T00:51:46.719Z",
-  "updatedLocal": "2026/10/24 08:51:46",
+  "updated": "2026-10-24T07:57:38.121Z",
+  "updatedLocal": "2026/10/24 15:57:38",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,18 @@
       "group": null,
       "published": "2026-10-23T20:49:42.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
+    },
+    {
+      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+      "summary": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair? Choose MarketWatch as a preferred source of financial news # My spouse was awarded $90,000 from my 401(k) in our divorce.",
+      "url": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-24T07:00:00.000Z",
+      "why": null,
+      "ago": "58 分鐘前"
     },
     {
       "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
@@ -26,95 +37,84 @@
       "group": null,
       "published": "2026-10-23T22:49:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
-      "summary": null,
+      "summary": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork. Choose MarketWatch as a preferred source of financial news # Will Anthropic pull off a November IPO?",
       "url": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
       "published": "2026-10-23T22:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
-      "summary": null,
+      "summary": "## They tried to buy the dip, but the dip kept dipping Choose MarketWatch as a preferred source of financial news Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears have emerged about investment returns on the buildout of artificial intelligence.",
       "url": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
       "published": "2026-10-23T21:46:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
-      "summary": null,
+      "summary": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%. Choose MarketWatch as a preferred source of financial news # This hot AI-fueled stock has been in a rut.",
       "url": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
       "published": "2026-10-23T21:13:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
-      "summary": null,
+      "summary": "## Shares of America’s three largest mobile-phone carriers fell sharply on fears of SpaceX competition Choose MarketWatch as a preferred source of financial news An earlier version of this report misspelled the name of Citigroup analyst Michael Rollins and provided an incorrect date for Crown Castle’s earnings call.",
       "url": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
       "published": "2026-10-23T21:11:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
-      "summary": null,
+      "summary": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
       "url": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
       "published": "2026-10-23T21:06:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
-      "summary": null,
+      "summary": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
       "url": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
       "published": "2026-10-23T20:50:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "The U.S. economy is great by this measure, and the good times aren’t over. So why are Americans so sour?",
-      "summary": "The U.S. economy is great by this measure, and the good times aren’t over. So why are Americans so sour?",
+      "summary": "## A once-in-a-generation investment boom has created lots of winners — but many Americans are feeling left out Choose MarketWatch as a preferred source of financial news An unyielding U.S. economy has shrugged off a number of blows to keep growing at a faster-than-expected speed — and there’s a good chance the six-year old expansion has a lot more room to run.",
       "url": "https://www.marketwatch.com/story/the-u-s-economy-is-great-by-this-measure-and-the-good-times-arent-over-so-why-are-americans-so-sour-4be897db?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
       "published": "2026-10-23T20:19:00.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-23T20:19:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     }
   ],
   "errors": [
