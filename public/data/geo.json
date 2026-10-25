@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-25T00:24:07.470Z",
-  "updatedLocal": "2026/10/25 08:24:07",
+  "updated": "2026-10-25T08:12:45.074Z",
+  "updatedLocal": "2026/10/25 16:12:45",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-21T19:59:07.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
       "title": "Prepare your data for the National Spatial Reference System modernization of 2022 in the U.S. (ArcGIS Blog)",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-10-23T17:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "An alignment assessment of the UK AISI cybertesting incident",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-10-23T13:29:39.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Securing our frontier model training environment",
@@ -62,17 +62,6 @@
       "ago": "2 天前"
     },
     {
-      "title": "Open call for guest investigators in the life sciences",
-      "summary": "Send us a short proposal. If selected, Anthropic’s researchers work with you on your problem, using Anthropic’s research models and internal harnesses, at no cost to you.",
-      "url": "https://www.anthropic.com/guest-investigator-program",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-23T00:59:17.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
       "title": "EU AI Act",
       "summary": "The EU AI Act is the European Union's law on artificial intelligence (AI), formally Regulation (EU) 2024/1689.",
       "url": "https://ppc.land/eu-ai-act/",
@@ -81,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-24T20:28:18.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Senator targets AI risk: Becker legislation pushes AI safety research from frontier developers",
@@ -91,6 +80,17 @@
       "tag": "政策",
       "group": "ai",
       "published": "2026-10-23T12:00:00.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "EU AI Act and recruitment – where should HR draw the Line?",
+      "summary": "It’s easy to see the attraction of artificial intelligence (AI) to recruiters.",
+      "url": "https://www.thehrdirector.com/features/hiring/eu-ai-act-recruitment-hr-draw-line/",
+      "source": "The HR Director",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-23T10:04:38.000Z",
       "why": null,
       "ago": "2 天前"
     }
