@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-24T16:19:09.014Z",
-  "updatedLocal": "2026/10/25 00:19:09",
+  "updated": "2026-10-25T00:24:07.470Z",
+  "updatedLocal": "2026/10/25 08:24:07",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-24T04:51:52.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Chart: A record two-thirds of car sales in China are now electric vehicles",
@@ -25,39 +25,6 @@
       "tag": "氣候",
       "group": null,
       "published": "2026-10-23T15:55:26.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "European Parliament backs three-year delay to EU methane rules",
-      "summary": "The European Parliament has voted to delay methane reporting requirements for oil, gas and coal imports by three years, extending the timeline beyond the one-year postponement proposed by the European Commission.",
-      "url": "https://www.edie.net/european-parliament-backs-three-year-delay-to-eu-methane-rules/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-23T15:34:06.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "ON TUESDAY: How AI can accelerate investment in climate solutions",
-      "summary": "Join us on 27 October for an edie webinar exploring how artificial intelligence (AI), market intelligence and human expertise can help businesses identify credible climate investment opportunities and secure the financial backing needed to turn sustainability ambitions into action.",
-      "url": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-23T15:02:35.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Google ordered to halt Finnish data centres after 400,000 trees felled",
-      "summary": "Authorities ordered Google to pause development of two of its data centres in Finland following claims the tech giant failed to conduct the necessary assessments before felling 400,000 trees.",
-      "url": "https://www.edie.net/google-ordered-to-halt-finnish-data-centres-after-400000-trees-felled/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-23T15:00:13.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -73,26 +40,37 @@
       "ago": "昨日"
     },
     {
-      "title": "Demand for green skills is growing twice as fast as global supply, LinkedIn finds",
-      "summary": "Demand for green skills is growing twice as fast as supply globally, creating a workforce gap that could slow climate action, energy infrastructure projects and economic growth, according to LinkedIn.",
-      "url": "https://www.edie.net/demand-for-green-skills-is-growing-twice-as-fast-as-supply-globally-linkedin-finds/",
-      "source": "edie",
+      "title": "Updated: Sustainability leadership moves",
+      "summary": "As corporate sustainability matures, some long-time leaders are leaving the profession, while others are tackling a broader set of responsibilities following reorganizations or layoffs.",
+      "url": "https://trellis.net/article/sustainability-leadership-moves/",
+      "source": "Trellis",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-23T14:31:39.000Z",
+      "published": "2026-10-23T01:11:50.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
-      "title": "Burnham’s first Budget: What would ‘good’ look like for the green economy?",
-      "summary": "Chancellor John Healey is set to deliver Prime Minister Andy Burnham's first Budget on 28 October.",
-      "url": "https://www.edie.net/burnhams-first-budget-what-would-good-look-like-for-the-green-economy/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "深耕淨零轉型 政府「六大制度創新」助產業升級 | 青年日報",
+      "summary": "您使用的瀏覽器版本較舊，已不再受支援。建議您更新瀏覽器版本，以獲得最佳使用體驗。面對全球氣候變遷加劇及國際淨零趨勢，行政院持續加速推動淨零轉型，依據第三期國家自定貢獻（NDC 3.0），各部會透過「臺灣總體減碳行動計畫」，結合六大制度創新，使產業升級、民生福祉與2050淨零排放目標能夠相互銜接。",
+      "url": "https://today.line.me/tw/v3/article/j7pGvzg",
+      "source": "LINE TODAY",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-10-23T12:30:09.000Z",
+      "published": "2026-10-24T07:43:45.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "17 小時前"
+    },
+    {
+      "title": "ISSB Proposes Nature Related Disclosure Norms",
+      "summary": "##### Interoperability with global standards: Companies can utilize TNFD’s LEAP framework (Locate, Evaluate, Assess, Prepare) to map location-specific asset exposures, evaluate ecosystem dependencies, and assess physical and transition risks across their direct operations and value chains.",
+      "url": "https://www.esgnews.earth/latest-news/issb-proposes-nature-related-disclosure-norms/22674.html",
+      "source": "ESG News.earth",
+      "tag": "法規",
+      "group": null,
+      "published": "2026-10-23T03:45:22.000Z",
+      "why": null,
+      "ago": "2 天前"
     },
     {
       "title": "Masdar’s Clean Power Output Hits 40.2TWh in 2025, Up 38% as Portfolio Reaches 66.5GW",
@@ -115,7 +93,35 @@
       "published": "2026-10-23T14:03:43.000Z",
       "why": null,
       "ago": "昨日"
+    },
+    {
+      "title": "Google, Voltus Scale Virtual Power Plant Tenfold to 1 GW Across PJM Grid",
+      "summary": "Google and Voltus have expanded their agreement to build a 1-gigawatt (GW) virtual power plant across the PJM grid region.",
+      "url": "https://esgnews.com/google-voltus-virtual-power-plant-pjm/?utm_source=rss&utm_medium=rss&utm_campaign=google-voltus-virtual-power-plant-pjm",
+      "source": "ESG News",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-23T13:53:01.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Coca-Cola, Nestlé and Danone Drop Cap and Label From ‘100%’ Bottle Claims After BEUC Complaint",
+      "summary": "Danone has agreed to change some of its bottled water labelling practices, the European Commission announced. Consumer group BEUC, which brought the complaint, welcomed the move.",
+      "url": "https://esgnews.com/danone-recycling-claims-beuc-greenwashing/?utm_source=rss&utm_medium=rss&utm_campaign=danone-recycling-claims-beuc-greenwashing",
+      "source": "ESG News",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-23T13:44:47.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "edie",
+      "url": "https://www.edie.net/feed/",
+      "message": "HTTP 500 Internal Server Error"
+    }
+  ]
 }
