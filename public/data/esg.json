@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-25T08:12:45.074Z",
-  "updatedLocal": "2026/10/25 16:12:45",
+  "updated": "2026-10-25T16:52:59.627Z",
+  "updatedLocal": "2026/10/26 00:52:59",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-24T04:51:52.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "深耕淨零轉型 政府「六大制度創新」助產業升級 | 青年日報",
@@ -27,6 +27,17 @@
       "published": "2026-10-24T07:43:45.000Z",
       "why": null,
       "ago": "昨日"
+    },
+    {
+      "title": "ESG Today: Week in Review",
+      "summary": "See below for the highlights of the past week, and get all your ESG news at ESG Today: Google Signs Deal to Build 1GW Virtual Power Plant Aggregating Energy from Homes, Businesses Coca-Cola, Nestlé, and Danone Agree to Improve Recycling Claims Following EU Greenwashing Complaint Hyundai, Peak Energy Launch Platform to Expand Renewable Energy in Automotive Supply Chain Google, McKinsey Sign 320,000 Ton Carbon Removal Deals from Brazil Nature Restoration Project Amazon Backs New Advanced Nuclear Power Project at a Former Coal Plant Anthropic Commits 5% of Shares to a New Public Benefit Fund EU Lawmakers Push to Delay Methane Emissions Rules by 3 Years UK Channels Oil & Gas Revenues into New £2 Billion Clean Energy Wealth Fund Canada Reconsiders Oil & Gas “Abatement” Category in Sustainable Finance Taxonomy EU Invests $3.8 Billion in More Than 75 Net Zero Technology Projects ESMA to Focus on Materiality, Impacts, Risks, Opportunities and Targets as Sustainability Reporting Enforcement Priorities LRQA Acquires Supply Chain Monitoring and Responsible Sourcing Platform Omega Compliance EIB Unveils €30 Billion Climate Adaptation Plan Citi Structures New Outcome Bond with Returns Tied to Generation of Carbon Credits AIIB Invests $100 Million in TPG’s Global South-Focused Climate Solutions Strategy NORD/LB Acquires Energy Transition Finance Boutique Voltiq HKEX Launches “Green Equity” Designation Program Cambridge Heavy Industries Raises $6.2 Million to Build Mini Fusion Reactors Optivolt Raises $32 Million to Make Solar Panels Smarter GM Ventures Leads $108 Million Raise for Peak Energy to Break into Data Center Power Market Ara Partners Raises $2.5 Billion for Inaugural Conventional Energy Optimization Fund Rabot Raises $56 Million to Create Virtual Power Plants with Home Clean Energy Devices Blackstone Raises $8.7 Billion for Energy Transition Fund Sosteneo Raises Over $500 Million for Clean Energy Infrastructure Fund Daily coverage of climate, sustainable finance and policy — delivered straight to your inbox every morning.",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-280/",
+      "source": "ESG Today",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-25T08:21:35.000Z",
+      "why": null,
+      "ago": "9 小時前"
     },
     {
       "title": "Chart: A record two-thirds of car sales in China are now electric vehicles",
@@ -95,26 +106,15 @@
       "ago": "2 天前"
     },
     {
-      "title": "Burnham’s first Budget: What would ‘good’ look like for the green economy?",
-      "summary": "Chancellor John Healey is set to deliver Prime Minister Andy Burnham's first Budget on 28 October.",
-      "url": "https://www.edie.net/burnhams-first-budget-what-would-good-look-like-for-the-green-economy/",
-      "source": "edie",
+      "title": "Updated: Sustainability leadership moves",
+      "summary": "As corporate sustainability matures, some long-time leaders are leaving the profession, while others are tackling a broader set of responsibilities following reorganizations or layoffs.",
+      "url": "https://trellis.net/article/sustainability-leadership-moves/",
+      "source": "Trellis",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-23T12:30:09.000Z",
+      "published": "2026-10-23T01:11:50.000Z",
       "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
-      "summary": "Sustainability professionals have the chance to win six months of access to edie’s digital Membership offering as well as a VIP pass to edie 27 in April by completing a short survey.",
-      "url": "https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-23T09:30:45.000Z",
-      "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     }
   ],
   "errors": []

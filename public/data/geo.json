@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-25T08:12:45.074Z",
-  "updatedLocal": "2026/10/25 16:12:45",
+  "updated": "2026-10-25T16:52:59.627Z",
+  "updatedLocal": "2026/10/26 00:52:59",
   "digest": null,
   "watch": [],
   "items": [
@@ -70,29 +70,29 @@
       "group": "ai",
       "published": "2026-10-24T20:28:18.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "Senator targets AI risk: Becker legislation pushes AI safety research from frontier developers",
-      "summary": "Opens in a new window Opens an external website Opens an external website in a new window You have permission to edit this article.",
-      "url": "https://www.smdailyjournal.com/news/local/senator-targets-ai-risk-becker-legislation-pushes-ai-safety-research-from-frontier-developers/article_1b86daea-6186-4cf7-87a2-cfba781a72b6.html",
-      "source": "San Mateo Daily Journal",
-      "tag": "政策",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary": "OpenAI and Poland’s NASK National Research Institute have signed an agreement to explore collaboration on AI safety, security and technical research.",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "source": "OpenAI",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-10-23T12:00:00.000Z",
+      "published": "2026-10-23T00:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
-      "title": "EU AI Act and recruitment – where should HR draw the Line?",
-      "summary": "It’s easy to see the attraction of artificial intelligence (AI) to recruiters.",
-      "url": "https://www.thehrdirector.com/features/hiring/eu-ai-act-recruitment-hr-draw-line/",
-      "source": "The HR Director",
-      "tag": "政策",
+      "title": "Appendix: LLMs are making formal software verification feasible at a much larger scale",
+      "summary": "Appendix: LLMs are making formal software veri fi cation feasible at a much larger scale How do Claude’s proofs look to a human formal veri fi cation expert?",
+      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/6867eadf760258fa8b42a504600cd3c036d16358.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-10-23T10:04:38.000Z",
+      "published": "2026-10-22T23:06:22.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     }
   ],
   "errors": []
