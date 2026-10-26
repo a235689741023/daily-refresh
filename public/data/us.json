@@ -1,21 +1,76 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-26T08:39:08.775Z",
-  "updatedLocal": "2026/10/26 16:39:08",
+  "updated": "2026-10-26T18:54:23.553Z",
+  "updatedLocal": "2026/10/27 02:54:23",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+      "summary": "Long-term bond yields above 5% and a $2 trillion deficit are giving Americans a taste of what a U.S. debt crisis would be like.",
+      "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-26T18:33:51.000Z",
+      "why": null,
+      "ago": "21 分鐘前"
+    },
+    {
+      "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-26T01:50:00.000Z",
+      "published": "2026-10-26T18:24:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "30 分鐘前"
+    },
+    {
+      "title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-26T18:15:00.000Z",
+      "why": null,
+      "ago": "39 分鐘前"
+    },
+    {
+      "title": "These energy stocks are poised to profit from an imminent AI power crunch",
+      "summary": "These energy stocks are poised to profit from an imminent AI power crunch Choose MarketWatch as a preferred source of financial news # These energy stocks are poised to profit from an imminent AI power crunch ## Bloom Energy’s stock leads S&P 500 gainers as Morgan Stanley flags top winners of the AI electricity crunch Choose MarketWatch as a preferred source of financial news Bloom and Solaris would benefit from an urgency around securing AI power, Morgan Stanley says.",
+      "url": "https://www.marketwatch.com/story/these-energy-stocks-are-poised-to-profit-from-an-imminent-ai-power-crunch-00c1a50d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-26T18:10:00.000Z",
+      "why": null,
+      "ago": "44 分鐘前"
+    },
+    {
+      "title": "Meet the financial-literacy teacher who helps high-school students open their own Roth IRAs",
+      "summary": "## Christopher Jackson got hurt before his first NFL game. He now coaches teens on building wealth.",
+      "url": "https://www.marketwatch.com/story/meet-the-financial-literacy-teacher-who-helps-high-school-students-open-their-own-roth-iras-652d56a8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-26T17:32:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+      "summary": "## Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
+      "url": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-26T17:19:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
@@ -24,86 +79,9 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-25T20:15:00.000Z",
+      "published": "2026-10-26T16:30:00.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-25T20:00:00.000Z",
-      "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-25T19:30:00.000Z",
-      "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-25T18:00:00.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-25T17:00:00.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-25T17:00:00.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-25T14:30:00.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-25T14:00:00.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "2 小時前"
     },
     {
       "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
@@ -112,9 +90,31 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-25T13:45:00.000Z",
+      "published": "2026-10-26T16:30:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-26T16:15:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "This strategist says it’s a matter of when, not if, the AI bubble pops. Here’s how to prepare for that.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/this-strategist-says-its-a-matter-of-when-not-if-the-ai-bubble-pops-heres-how-to-prepare-for-that-86ffbf30?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-26T16:05:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
     }
   ],
   "errors": [

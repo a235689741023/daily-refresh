@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-26T08:39:08.775Z",
-  "updatedLocal": "2026/10/26 16:39:08",
+  "updated": "2026-10-26T18:54:23.553Z",
+  "updatedLocal": "2026/10/27 02:54:23",
   "digest": null,
   "watch": [],
   "items": [
@@ -29,70 +29,70 @@
       "ago": "6 天前"
     },
     {
-      "title": "Nigeria Data Protection Commission calls for privacy-by-design in frontier AI regulation",
-      "summary": "The Commission made the call at a Stakeholders’ Consultation on Frontier AI hosted by NITHUB, the University of Lagos and the Tech Governance Project.",
-      "url": "https://techreviewafrica.com/news/7935/nigeria-data-protection-commission-calls-for-privacy-by-design-in-frontier-ai-regulation",
-      "source": "Tech Review Africa",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-26T01:55:46.000Z",
-      "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "summary": "How we optimized Azure Cosmos DB in our application storage platform, Habitat, to manage unprecedented growth.",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-23T17:00:00.000Z",
-      "why": null,
-      "ago": "3 天前"
-    },
-    {
-      "title": "An alignment assessment of the UK AISI cybertesting incident",
-      "summary": "On August 4, 2026, the UK AI Security Institute (AISI) published a report that detailed some concerning behavior it observed from Claude Mythos 5 during its testing of the model’s cyber capabilities.",
-      "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "summary": "Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.",
+      "url": "https://www.anthropic.com/news/s1-sec",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-23T13:29:39.000Z",
+      "published": "2026-10-26T13:11:09.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "6 小時前"
     },
     {
-      "title": "Securing our frontier model training environment",
-      "summary": "We’ve strengthened containment for internal frontier-model training and evaluation and used our strongest models to red-team the boundaries.",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "title": "ChatGPT’s expanding world of work",
+      "summary": "OpenAI Economic Research releases data for researchers to explore questions on AI and labor more deeply.",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-23T10:00:00.000Z",
+      "published": "2026-10-26T10:00:00.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "9 小時前"
     },
     {
-      "title": "EU AI Act",
-      "summary": "The EU AI Act is the European Union's law on artificial intelligence (AI), formally Regulation (EU) 2024/1689.",
-      "url": "https://ppc.land/eu-ai-act/",
-      "source": "PPC Land",
-      "tag": "政策",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "summary": "New “Shop the Look” online commerce feature launches in time for fall sports calendar. Higher engagement than the previous Shop the Look experience.",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "source": "OpenAI",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-10-24T20:28:18.000Z",
+      "published": "2026-10-26T07:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "12 小時前"
     },
     {
-      "title": "Senator targets AI risk: Becker legislation pushes AI safety research from frontier developers",
-      "summary": "Opens in a new window Opens an external website Opens an external website in a new window You have permission to edit this article.",
-      "url": "https://www.smdailyjournal.com/news/local/senator-targets-ai-risk-becker-legislation-pushes-ai-safety-research-from-frontier-developers/article_1b86daea-6186-4cf7-87a2-cfba781a72b6.html",
-      "source": "San Mateo Daily Journal",
-      "tag": "政策",
+      "title": "Will the real Anthropic please stand up",
+      "summary": "After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-10-23T12:00:00.000Z",
+      "published": "2026-10-26T17:45:43.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "1 小時前"
+    },
+    {
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide .",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-10-26T09:01:00.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
+    {
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "summary": "Our third lesson in our AI Quests series, “Polar Peaks,” teaches students key AI literacy skills while delving into neuroscience.",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "source": "Google AI Blog",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-26T16:00:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
     }
   ],
   "errors": []
