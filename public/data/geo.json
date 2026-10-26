@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-26T00:30:08.157Z",
-  "updatedLocal": "2026/10/26 08:30:08",
+  "updated": "2026-10-26T08:39:08.775Z",
+  "updatedLocal": "2026/10/26 16:39:08",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-21T19:59:07.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
     },
     {
       "title": "Prepare your data for the National Spatial Reference System modernization of 2022 in the U.S. (ArcGIS Blog)",
@@ -29,6 +29,17 @@
       "ago": "6 天前"
     },
     {
+      "title": "Nigeria Data Protection Commission calls for privacy-by-design in frontier AI regulation",
+      "summary": "The Commission made the call at a Stakeholders’ Consultation on Frontier AI hosted by NITHUB, the University of Lagos and the Tech Governance Project.",
+      "url": "https://techreviewafrica.com/news/7935/nigeria-data-protection-commission-calls-for-privacy-by-design-in-frontier-ai-regulation",
+      "source": "Tech Review Africa",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-26T01:55:46.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "summary": "How we optimized Azure Cosmos DB in our application storage platform, Habitat, to manage unprecedented growth.",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
@@ -37,7 +48,7 @@
       "group": "ai",
       "published": "2026-10-23T17:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "An alignment assessment of the UK AISI cybertesting incident",
@@ -48,18 +59,7 @@
       "group": "ai",
       "published": "2026-10-23T13:29:39.000Z",
       "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Nigeria Data Protection Commission calls for privacy-by-design in frontier AI regulation",
-      "summary": "The Commission made the call at a Stakeholders’ Consultation on Frontier AI hosted by NITHUB, the University of Lagos and the Tech Governance Project.",
-      "url": "https://techreviewafrica.com/news/7935/nigeria-data-protection-commission-calls-for-privacy-by-design-in-frontier-ai-regulation",
-      "source": "Tech Review Africa",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-25T23:49:16.000Z",
-      "why": null,
-      "ago": "41 分鐘前"
+      "ago": "3 天前"
     },
     {
       "title": "Securing our frontier model training environment",
@@ -81,16 +81,16 @@
       "group": "ai",
       "published": "2026-10-24T20:28:18.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
-      "title": "Open call for guest investigators in the life sciences",
-      "summary": "Send us a short proposal. If selected, Anthropic’s researchers work with you on your problem, using Anthropic’s research models and internal harnesses, at no cost to you.",
-      "url": "https://www.anthropic.com/guest-investigator-program",
-      "source": "Anthropic",
-      "tag": "模型",
+      "title": "Senator targets AI risk: Becker legislation pushes AI safety research from frontier developers",
+      "summary": "Opens in a new window Opens an external website Opens an external website in a new window You have permission to edit this article.",
+      "url": "https://www.smdailyjournal.com/news/local/senator-targets-ai-risk-becker-legislation-pushes-ai-safety-research-from-frontier-developers/article_1b86daea-6186-4cf7-87a2-cfba781a72b6.html",
+      "source": "San Mateo Daily Journal",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-10-23T00:59:17.000Z",
+      "published": "2026-10-23T12:00:00.000Z",
       "why": null,
       "ago": "3 天前"
     }

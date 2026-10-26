@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-26T00:30:08.157Z",
-  "updatedLocal": "2026/10/26 08:30:08",
+  "updated": "2026-10-26T08:39:08.775Z",
+  "updatedLocal": "2026/10/26 16:39:08",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-26T01:50:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
       "summary": null,
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-25T20:15:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-10-25T20:00:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-10-25T19:30:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-10-25T18:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
@@ -59,18 +70,18 @@
       "group": null,
       "published": "2026-10-25T17:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-      "summary": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+      "summary": null,
       "url": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
       "published": "2026-10-25T17:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-10-25T14:30:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-10-25T14:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-10-25T13:45:00.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-25T13:00:00.000Z",
-      "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     }
   ],
   "errors": [
