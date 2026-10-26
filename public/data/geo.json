@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-25T16:52:59.627Z",
-  "updatedLocal": "2026/10/26 00:52:59",
+  "updated": "2026-10-26T00:30:08.157Z",
+  "updatedLocal": "2026/10/26 08:30:08",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-10-20T07:00:00.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -51,6 +51,17 @@
       "ago": "2 天前"
     },
     {
+      "title": "Nigeria Data Protection Commission calls for privacy-by-design in frontier AI regulation",
+      "summary": "The Commission made the call at a Stakeholders’ Consultation on Frontier AI hosted by NITHUB, the University of Lagos and the Tech Governance Project.",
+      "url": "https://techreviewafrica.com/news/7935/nigeria-data-protection-commission-calls-for-privacy-by-design-in-frontier-ai-regulation",
+      "source": "Tech Review Africa",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-25T23:49:16.000Z",
+      "why": null,
+      "ago": "41 分鐘前"
+    },
+    {
       "title": "Securing our frontier model training environment",
       "summary": "We’ve strengthened containment for internal frontier-model training and evaluation and used our strongest models to red-team the boundaries.",
       "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-23T10:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "EU AI Act",
@@ -70,27 +81,16 @@
       "group": "ai",
       "published": "2026-10-24T20:28:18.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "summary": "OpenAI and Poland’s NASK National Research Institute have signed an agreement to explore collaboration on AI safety, security and technical research.",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-23T00:00:00.000Z",
-      "why": null,
-      "ago": "3 天前"
-    },
-    {
-      "title": "Appendix: LLMs are making formal software verification feasible at a much larger scale",
-      "summary": "Appendix: LLMs are making formal software veri fi cation feasible at a much larger scale How do Claude’s proofs look to a human formal veri fi cation expert?",
-      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/6867eadf760258fa8b42a504600cd3c036d16358.pdf",
+      "title": "Open call for guest investigators in the life sciences",
+      "summary": "Send us a short proposal. If selected, Anthropic’s researchers work with you on your problem, using Anthropic’s research models and internal harnesses, at no cost to you.",
+      "url": "https://www.anthropic.com/guest-investigator-program",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-22T23:06:22.000Z",
+      "published": "2026-10-23T00:59:17.000Z",
       "why": null,
       "ago": "3 天前"
     }
