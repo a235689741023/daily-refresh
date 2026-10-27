@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-26T18:54:23.553Z",
-  "updatedLocal": "2026/10/27 02:54:23",
+  "updated": "2026-10-27T01:32:22.156Z",
+  "updatedLocal": "2026/10/27 09:32:22",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-10-20T07:00:00.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
     },
     {
       "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
@@ -37,7 +37,40 @@
       "group": "ai",
       "published": "2026-10-26T13:11:09.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "summary": "How Greptile uses GPT‑6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-26T22:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Working with academic communities to build scientific understanding",
+      "summary": "We are announcing three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity theory, and quantum field theory.",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-26T14:30:00.000Z",
+      "why": null,
+      "ago": "11 小時前"
+    },
+    {
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "summary": "As AI accelerates software development, engineering and application-security teams need ways to investigate code changes and address vulnerabilities while keeping people in control.",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-26T13:45:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
     },
     {
       "title": "ChatGPT’s expanding world of work",
@@ -48,7 +81,7 @@
       "group": "ai",
       "published": "2026-10-26T10:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "How Fanatics and OpenAI streamline the fan experience",
@@ -59,40 +92,7 @@
       "group": "ai",
       "published": "2026-10-26T07:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Will the real Anthropic please stand up",
-      "summary": "After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
-      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-10-26T17:45:43.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide .",
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-10-26T09:01:00.000Z",
-      "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "summary": "Our third lesson in our AI Quests series, “Polar Peaks,” teaches students key AI literacy skills while delving into neuroscience.",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "source": "Google AI Blog",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-26T16:00:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "19 小時前"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-26T18:54:23.553Z",
-  "updatedLocal": "2026/10/27 02:54:23",
+  "updated": "2026-10-27T01:32:22.156Z",
+  "updatedLocal": "2026/10/27 09:32:22",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,18 @@
       "group": null,
       "published": "2026-10-26T06:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
+    },
+    {
+      "title": "Nature loss threatens 140 million jobs across Europe, study finds",
+      "summary": "New data from Global Canopy has revealed that 140 million jobs across the European Union (EU), UK and Switzerland are under threat from domestic nature loss, equivalent to 60% of people employed in the region.",
+      "url": "https://www.edie.net/nature-loss-threatens-140-million-jobs-across-europe-study-finds/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-27T00:01:55.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "Biodiversity COP17 at the halfway mark: What has been announced so far?",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-10-26T16:55:41.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "TODAY: How AI can accelerate investment in climate solutions",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-10-26T16:02:35.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Study: Oil and gas firms committed $59bn to transition-exposed projects in 2025",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-10-26T14:00:25.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "NEXT WEEK: What SMEs need to know before investing in solar",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-10-26T11:40:22.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-10-26T10:30:45.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "UK CBAM: Understanding the risks, managing carbon data and preparing for compliance",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-10-26T10:28:18.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Two weeks to go: Turning Scope 3 targets into funded action",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-10-26T07:38:10.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "NEXT MONTH: How to prepare for the UK SRS",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-10-26T06:45:21.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "NEXT MONTH: Masterclass on turning climate risk insights into adaptation",
-      "summary": "This webinar, held in partnership with SmartResilience on 19 November, will explore why and how leading organisations are moving from simply measuring risk to actively adapting in order to protect their operations, assets and supply chains.",
-      "url": "https://www.edie.net/next-month-masterclass-on-turning-climate-risk-insights-into-adaptation/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-26T04:31:13.000Z",
-      "why": null,
-      "ago": "14 小時前"
+      "ago": "19 小時前"
     }
   ],
   "errors": []
