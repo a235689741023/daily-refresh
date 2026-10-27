@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-27T01:32:22.156Z",
-  "updatedLocal": "2026/10/27 09:32:22",
+  "updated": "2026-10-27T08:45:41.708Z",
+  "updatedLocal": "2026/10/27 16:45:41",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,7 @@
       "group": "gis",
       "published": "2026-10-21T19:59:07.000Z",
       "why": null,
-      "ago": "5 天前"
-    },
-    {
-      "title": "Prepare your data for the National Spatial Reference System modernization of 2022 in the U.S. (ArcGIS Blog)",
-      "summary": "To improve the National Spatial Reference System (NSRS) in the United States, the National Oceanic and Atmospheric Administration’s National Geodetic Survey (NGS) is preparing to replace all three current North American Datum of 1983 (NAD83) frames and all current vertical datums , including the North American Vertical Datum of 1988 (NAVD88), with four new terrestrial reference frames and a vertical geopotential datum.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/data-management/prepare-your-data-for-the-nsrs-2022",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-10-20T07:00:00.000Z",
-      "why": null,
-      "ago": "7 天前"
+      "ago": "6 天前"
     },
     {
       "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
@@ -37,7 +26,7 @@
       "group": "ai",
       "published": "2026-10-26T13:11:09.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
@@ -48,7 +37,7 @@
       "group": "ai",
       "published": "2026-10-26T22:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Working with academic communities to build scientific understanding",
@@ -59,7 +48,7 @@
       "group": "ai",
       "published": "2026-10-26T14:30:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
@@ -70,7 +59,7 @@
       "group": "ai",
       "published": "2026-10-26T13:45:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "ChatGPT’s expanding world of work",
@@ -81,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-26T10:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "How Fanatics and OpenAI streamline the fan experience",
@@ -92,7 +81,7 @@
       "group": "ai",
       "published": "2026-10-26T07:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

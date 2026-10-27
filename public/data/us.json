@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-27T01:32:22.156Z",
-  "updatedLocal": "2026/10/27 09:32:22",
+  "updated": "2026-10-27T08:45:41.708Z",
+  "updatedLocal": "2026/10/27 16:45:41",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,18 @@
       "group": null,
       "published": "2026-10-26T18:33:51.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
+    },
+    {
+      "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-27T04:01:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-10-26T22:30:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Dividend stocks are having an excellent October as tech sector struggles",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-10-26T22:10:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Options traders are seizing control of the S&P 500",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-10-26T22:03:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-10-26T22:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-10-26T21:55:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-10-26T21:46:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-10-26T21:44:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Why Lumentum’s stock led the S&P 500 higher on Monday",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-10-26T21:04:00.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "With the Anthropic IPO, the devil is in the details",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-26T20:50:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     }
   ],
   "errors": [
