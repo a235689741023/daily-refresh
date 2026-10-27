@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-27T08:45:41.708Z",
-  "updatedLocal": "2026/10/27 16:45:41",
+  "updated": "2026-10-27T18:25:42.344Z",
+  "updatedLocal": "2026/10/28 02:25:42",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,84 @@
       "group": null,
       "published": "2026-10-27T06:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "Water pollution is a business risk. Here’s how companies can address it",
-      "summary": "The opinions expressed by Trellis expert contributors are their own, not those of Trellis. Poor water quality can pose as great a business risk as water scarcity.",
-      "url": "https://trellis.net/article/how-businesses-can-address-water-pollution/",
-      "source": "Trellis",
+      "title": "What is holding back sustainability measurement in construction?",
+      "summary": "While professionals in construction increasingly agree on the need to reduce carbon emissions, improve product information and limit waste, new research has found that these priorities are not yet translating into routine practice across the industry.",
+      "url": "https://www.edie.net/what-is-holding-back-sustainability-measurement-in-construction/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-26T06:00:00.000Z",
+      "published": "2026-10-27T17:27:47.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "58 分鐘前"
+    },
+    {
+      "title": "Weaker EV targets could result in more than half of Rosebank’s emissions, ECIU warns",
+      "summary": "A potential reduction in the UK’s electric vehicle (EV) sales targets could lead to additional emissions equivalent to 58% of those expected from burning the oil in the Rosebank field, according to new analysis by the Energy and Climate Intelligence Unit (ECIU).",
+      "url": "https://www.edie.net/weaker-ev-targets-could-result-in-more-than-half-of-rosebanks-emissions-research-finds/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-27T14:41:27.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "NEXT WEEK: What SMEs need to know before investing in solar",
+      "summary": "Taking place on 5 November, this upcoming webinar will explore how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
+      "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-27T11:40:22.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
+      "summary": "Sustainability professionals have the chance to win six months of access to edie’s digital Membership offering as well as a VIP pass to edie 27 in April by completing a short survey.",
+      "url": "https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-27T10:30:45.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "TWO WEEKS TO GO: Turning Scope 3 targets into funded action",
+      "summary": "Join this edie webinar, held in partnership with South Pole on 12 November, to learn more about building the business case for Scope 3.",
+      "url": "https://www.edie.net/four-weeks-to-go-turning-scope-3-targets-into-funded-action/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-27T07:38:10.000Z",
+      "why": null,
+      "ago": "11 小時前"
+    },
+    {
+      "title": "TWO WEEKS TO GO: How to prepare for the UK SRS",
+      "summary": "This webinar, hosted in partnership with Simply Sustainable on 10 November, will explore how businesses can prepare for the UK Sustainability Reporting Standards (UK SRS), understand their current level of readiness and turn gaps into a practical implementation plan.",
+      "url": "https://www.edie.net/free-webinar-how-to-prepare-for-the-uk-srs/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-27T06:45:21.000Z",
+      "why": null,
+      "ago": "12 小時前"
+    },
+    {
+      "title": "THREE WEEKS TO GO: How to turn climate risk insights into adaptation action",
+      "summary": "This webinar, held in partnership with SmartResilience on 19 November, will explore why and how leading organisations are moving from simply measuring risk to actively adapting in order to protect their operations, assets and supply chains.",
+      "url": "https://www.edie.net/next-month-masterclass-on-turning-climate-risk-insights-into-adaptation/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-27T04:31:13.000Z",
+      "why": null,
+      "ago": "14 小時前"
     },
     {
       "title": "Nature loss threatens 140 million jobs across Europe, study finds",
@@ -37,84 +103,18 @@
       "group": null,
       "published": "2026-10-27T00:01:55.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "18 小時前"
     },
     {
-      "title": "Biodiversity COP17 at the halfway mark: What has been announced so far?",
-      "summary": "The UN’s 17th Conference of the Parties (COP17) to the Convention on Biological Diversity (CBD) has reached the halfway point.",
-      "url": "https://www.edie.net/biodiversity-cop17-at-the-halfway-mark-what-has-been-announced-so-far/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "Q&A: Why are UK energy bills so high – and how could they be lowered?",
+      "summary": "Energy bills in the UK have continued to soar in 2026, with intense debate raging about how to bring them down.",
+      "url": "https://www.carbonbrief.org/qa-why-are-uk-energy-bills-so-high-and-how-could-they-be-lowered",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-10-26T16:55:41.000Z",
+      "published": "2026-10-27T16:47:54.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "TODAY: How AI can accelerate investment in climate solutions",
-      "summary": "Join us on 27 October for an edie webinar exploring how artificial intelligence (AI), market intelligence and human expertise can help businesses identify credible climate investment opportunities and secure the financial backing needed to turn sustainability ambitions into action.",
-      "url": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-26T16:02:35.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Study: Oil and gas firms committed $59bn to transition-exposed projects in 2025",
-      "summary": "Fossil fuel majors risk locking in stranded assets according to new analysis, with $59bn allocated to projects that are highly vulnerable to transition risks just last year.",
-      "url": "https://www.edie.net/study-oil-and-gas-firms-committed-59bn-to-transition-exposed-projects-in-2025/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-26T14:00:25.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "NEXT WEEK: What SMEs need to know before investing in solar",
-      "summary": "Taking place on 5 November, this upcoming webinar will explore how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
-      "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-26T11:40:22.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
-      "summary": "Sustainability professionals have the chance to win six months of access to edie’s digital Membership offering as well as a VIP pass to edie 27 in April by completing a short survey.",
-      "url": "https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-26T10:30:45.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "UK CBAM: Understanding the risks, managing carbon data and preparing for compliance",
-      "summary": "With the UK’s Carbon Border Adjustment Mechanism (CBAM) set to take effect from January 2027, businesses importing carbon-intensive materials face new financial, regulatory and supply chain obligations.",
-      "url": "https://www.edie.net/uk-cbam-understanding-the-risks-managing-carbon-data-and-preparing-for-compliance/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-26T10:28:18.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "司界蘭溪調查發現117尾台灣櫻花鉤吻鮭、阿聯外海油輪漏油污染範圍擴大、奈良幼鹿疑遭人為殺害",
-      "summary": "聯合國「生物多樣性公約」第17屆締約方大會（COP17）正在亞美尼亞舉行。花蓮縣卓溪鄉卓清村傳承原住民族農耕智慧的案例，收錄在聯合國生物多樣性公約的獨立報告。",
-      "url": "https://www.e-info.org.tw/node/244007",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-10-27T02:38:36.000Z",
-      "why": null,
-      "ago": "6 小時前"
+      "ago": "2 小時前"
     }
   ],
   "errors": []

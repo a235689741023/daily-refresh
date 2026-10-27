@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-27T08:45:41.708Z",
-  "updatedLocal": "2026/10/27 16:45:41",
+  "updated": "2026-10-27T18:25:42.344Z",
+  "updatedLocal": "2026/10/28 02:25:42",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,15 +18,15 @@
       "ago": "6 天前"
     },
     {
-      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
-      "summary": "Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.",
-      "url": "https://www.anthropic.com/news/s1-sec",
-      "source": "Anthropic",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "summary": "Expanding what businesses can do with Oracle—in ChatGPT and through new offerings powered by OpenAI.",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-26T13:11:09.000Z",
+      "published": "2026-10-27T07:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-10-26T22:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Working with academic communities to build scientific understanding",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-10-26T14:30:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
       "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
@@ -59,29 +59,29 @@
       "group": "ai",
       "published": "2026-10-26T13:45:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "ChatGPT’s expanding world of work",
-      "summary": "OpenAI Economic Research releases data for researchers to explore questions on AI and labor more deeply.",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "source": "OpenAI",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "summary": "Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-26T10:00:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "summary": "New “Shop the Look” online commerce feature launches in time for fall sports calendar. Higher engagement than the previous Shop the Look experience.",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-26T07:00:00.000Z",
+      "published": "2026-10-26T13:11:09.000Z",
       "why": null,
       "ago": "昨日"
+    },
+    {
+      "title": "Genie 4: A new generation of world simulation",
+      "summary": "Today, we are announcing Genie 4, our new world model, which unlocks unprecedented realism and improves real-time interactive simulation.",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "source": "Google DeepMind",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-27T16:01:38.000Z",
+      "why": null,
+      "ago": "2 小時前"
     }
   ],
   "errors": []
