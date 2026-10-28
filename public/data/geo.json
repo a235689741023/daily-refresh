@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-28T09:25:25.686Z",
-  "updatedLocal": "2026/10/28 17:25:25",
+  "updated": "2026-10-28T18:32:39.528Z",
+  "updatedLocal": "2026/10/29 02:32:39",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Brotli Decoder Vulnerabilities (Node2Shell, Broccoli2Shell, HTTP2Shell)",
+      "summary": "On October 22, 2026, Open AI security researchers announced a critical severity vulnerability in Google’s Brotli decoder, identified as CVE-2026-111497.",
+      "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/brotli-vulnerabilities-broccoli2shell",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-10-28T05:28:50.000Z",
+      "why": null,
+      "ago": "13 小時前"
+    },
     {
       "title": "Recent PHP Vulnerabilities",
       "summary": "On October 21, 2026, the PHP Project announced updates to address two critical severity vulnerabilities identified as CVE-2026-109618 and CVE-2026-109619 .",
@@ -26,7 +37,7 @@
       "group": "ai",
       "published": "2026-10-28T01:16:46.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Early progress on accelerating drug development with Claude",
@@ -37,7 +48,7 @@
       "group": "ai",
       "published": "2026-10-27T20:20:53.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "How AI agents shape experts’ judgment calls",
@@ -48,18 +59,7 @@
       "group": "ai",
       "published": "2026-10-27T18:50:53.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude",
-      "summary": "Over the past few months, we’ve used an unreleased, internal research model to find critical vulnerabilities in some of the world’s most widely used software, such as browsers and operating systems.",
-      "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-27T18:20:51.000Z",
-      "why": null,
-      "ago": "15 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "Who’s Aligned to Whom? How AI Agents Shape Experts’ Research Judgment Calls",
@@ -70,18 +70,29 @@
       "group": "ai",
       "published": "2026-10-27T19:21:48.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "summary": "GPT‑6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "url": "https://openai.com/index/retell-ai",
+      "title": "The future of the firm",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "url": "https://openai.com/index/the-future-of-the-firm",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-27T15:00:00.000Z",
+      "published": "2026-10-28T10:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "9 小時前"
+    },
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "summary": "Powered by OpenAI models and coding agents, Legora helps legal teams move faster, broaden analysis and focus on higher-value work.",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-28T09:30:00.000Z",
+      "why": null,
+      "ago": "9 小時前"
     }
   ],
   "errors": []

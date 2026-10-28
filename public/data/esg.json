@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-28T09:25:25.686Z",
-  "updatedLocal": "2026/10/28 17:25:25",
+  "updated": "2026-10-28T18:32:39.528Z",
+  "updatedLocal": "2026/10/29 02:32:39",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "The four packaging and sustainability bills that could disrupt your compliance strategy",
+      "summary": "The opinions expressed by Trellis expert contributors are their own, not those of Trellis.",
+      "url": "https://trellis.net/article/packaging-recycling-bills-us-midterms/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-28T15:40:26.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "Think like an entrepreneur to make a better business case",
       "summary": "The opinions expressed by Trellis expert contributors are their own, not those of Trellis.",
@@ -15,51 +26,7 @@
       "group": null,
       "published": "2026-10-28T06:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "How companies are using AI to support sustainability goals",
-      "summary": "The opinions expressed by Trellis expert contributors are their own, not those of Trellis.",
-      "url": "https://trellis.net/article/how-companies-use-sustainability-goals/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-27T06:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "On-demand webinar: How AI can unlock investment in climate solutions",
-      "summary": "Discover how businesses can use AI, market intelligence and expert insight to identify credible climate investment opportunities, strengthen financial business cases and turn sustainability ambitions into funded action.",
-      "url": "https://www.edie.net/on-demand-webinar-how-ai-can-unlock-investment-in-climate-solutions/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-28T09:00:49.000Z",
-      "why": null,
-      "ago": "25 分鐘前"
-    },
-    {
-      "title": "What is holding back sustainability measurement in construction?",
-      "summary": "While professionals in construction increasingly agree on the need to reduce carbon emissions, improve product information and limit waste, new research has found that these priorities are not yet translating into routine practice across the industry.",
-      "url": "https://www.edie.net/what-is-holding-back-sustainability-measurement-in-construction/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-27T17:27:47.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Weaker EV targets could result in more than half of Rosebank’s emissions, ECIU warns",
-      "summary": "A potential reduction in the UK’s electric vehicle (EV) sales targets could lead to additional emissions equivalent to 58% of those expected from burning the oil in the Rosebank field, according to new analysis by the Energy and Climate Intelligence Unit (ECIU).",
-      "url": "https://www.edie.net/weaker-ev-targets-could-result-in-more-than-half-of-rosebanks-emissions-research-finds/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-27T14:41:27.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "NEXT WEEK: What SMEs need to know before investing in solar",
@@ -68,53 +35,86 @@
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-27T11:40:22.000Z",
+      "published": "2026-10-28T17:30:22.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "1 小時前"
     },
     {
-      "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
-      "summary": "Sustainability professionals have the chance to win six months of access to edie’s digital Membership offering as well as a VIP pass to edie 27 in April by completing a short survey.",
-      "url": "https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/",
+      "title": "UK SRS: Streamlining sustainability reporting and preparing for new requirements",
+      "summary": "With the introduction of UK Sustainability Reporting Standards (UK SRS) and new reporting requirements for listed companies approaching, UK businesses face growing pressure to produce credible, consistent and decision-useful sustainability information.",
+      "url": "https://www.edie.net/uk-srs-streamlining-sustainability-reporting-and-preparing-for-new-requirements/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-27T10:30:45.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Revealed: UK relied on £2bn of ‘questionable accounting’ to hit its climate-aid goal",
-      "summary": "The UK has beaten its target to provide £11.6bn of climate aid to developing countries by 2026 – but only through “questionable accounting”.",
-      "url": "https://www.carbonbrief.org/revealed-uk-relied-on-2bn-of-questionable-accounting-to-hit-its-climate-aid-goal",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-10-28T07:00:00.000Z",
+      "published": "2026-10-28T16:40:16.000Z",
       "why": null,
       "ago": "2 小時前"
     },
     {
-      "title": "Analysis: How the UK spent more than £11.6bn on climate aid since 2021",
-      "summary": "The UK has spent £12.8bn on climate aid for developing countries since 2021, according to official figures obtained by Carbon Brief.",
-      "url": "https://www.carbonbrief.org/analysis-how-the-uk-spent-more-than-11-6bn-on-climate-aid-since-2021",
-      "source": "Carbon Brief",
-      "tag": "氣候",
+      "title": "‘A sticking plaster’: Green economy warns of missed opportunities on energy and climate in Budget",
+      "summary": "Chancellor John Healey has unveiled the 2026 Autumn Budget, prioritising “cheaper energy” with household bill relief and a move to shift policy costs off energy bills, but green groups say the package lacks the ambition needed to cut fossil fuel dependence.",
+      "url": "https://www.edie.net/a-sticking-plaster-green-economy-warns-of-missed-opportunities-on-energy-and-climate/",
+      "source": "edie",
+      "tag": "國際",
       "group": null,
-      "published": "2026-10-28T07:00:00.000Z",
+      "published": "2026-10-28T15:52:20.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "Q&A: Why are UK energy bills so high – and how could they be lowered?",
-      "summary": "Energy bills in the UK have continued to soar in 2026, with intense debate raging about how to bring them down.",
-      "url": "https://www.carbonbrief.org/qa-why-are-uk-energy-bills-so-high-and-how-could-they-be-lowered",
-      "source": "Carbon Brief",
-      "tag": "氣候",
+      "title": "The Government’s trick-or-treat approach to energy security is a horror story waiting to happen",
+      "summary": "The Government’s approval of new oil and gas projects could become a Nightmare on Downing Street, with responses to energy security focused on treating symptoms rather than strengthening approaches to a clean energy transition.",
+      "url": "https://www.edie.net/the-governments-trick-or-treat-approach-to-energy-security-is-a-horror-story-waiting-to-happen/",
+      "source": "edie",
+      "tag": "國際",
       "group": null,
-      "published": "2026-10-27T16:47:54.000Z",
+      "published": "2026-10-28T15:43:49.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Autumn Budget: Chancellor pledges energy reforms to cut bills but loosens biodiversity rules",
+      "summary": "The Chancellor has announced a new energy cost-control framework, changes to renewable electricity contracts and the removal of biodiversity requirements on more brownfield sites in the Autumn Budget.",
+      "url": "https://www.edie.net/autumn-budget-chancellor-pledges-energy-reforms-to-cut-bills-but-loosens-biodiversity-rules/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-28T15:35:17.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Making the UK CBAM-ready",
+      "summary": "Businesses are assessing the risk and supplier carbon data is emerging as the biggest challenge.",
+      "url": "https://www.edie.net/making-the-uk-cbam-ready/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-28T14:10:38.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "COP31: New AI Pledge ‘lacks teeth’ for climate action",
+      "summary": "The Presidency has unveiled the Antalya Artificial Intelligence (AI) Pledge ahead of next month's summit, but industry experts have questioned whether the Pledge could effectively balance AI growth with climate protection.",
+      "url": "https://www.edie.net/cop31-new-ai-pledge-lacks-teeth-for-climate-action/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-28T13:23:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "EU tells countries to plan for 3C of warming under new climate resilience framework",
+      "summary": "The European Commission has called on EU member states to plan for a world that is 3C warmer by 2100, setting a common global warming trajectory for governments to use when assessing climate risks and preparing for extreme weather.",
+      "url": "https://www.edie.net/eu-tells-countries-to-plan-for-3c-of-global-warming-under-new-climate-resilience-framework/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-28T12:07:33.000Z",
+      "why": null,
+      "ago": "6 小時前"
     }
   ],
   "errors": []
