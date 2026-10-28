@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-28T01:29:46.041Z",
-  "updatedLocal": "2026/10/28 09:29:46",
+  "updated": "2026-10-28T09:25:25.686Z",
+  "updatedLocal": "2026/10/28 17:25:25",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Think like an entrepreneur to make a better business case",
+      "summary": "The opinions expressed by Trellis expert contributors are their own, not those of Trellis.",
+      "url": "https://trellis.net/article/think-like-entrepreneur-better-business-case/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-28T06:00:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "How companies are using AI to support sustainability goals",
       "summary": "The opinions expressed by Trellis expert contributors are their own, not those of Trellis.",
@@ -15,7 +26,18 @@
       "group": null,
       "published": "2026-10-27T06:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "On-demand webinar: How AI can unlock investment in climate solutions",
+      "summary": "Discover how businesses can use AI, market intelligence and expert insight to identify credible climate investment opportunities, strengthen financial business cases and turn sustainability ambitions into funded action.",
+      "url": "https://www.edie.net/on-demand-webinar-how-ai-can-unlock-investment-in-climate-solutions/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-28T09:00:49.000Z",
+      "why": null,
+      "ago": "25 分鐘前"
     },
     {
       "title": "What is holding back sustainability measurement in construction?",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-10-27T17:27:47.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Weaker EV targets could result in more than half of Rosebank’s emissions, ECIU warns",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-10-27T14:41:27.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "NEXT WEEK: What SMEs need to know before investing in solar",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-10-27T11:40:22.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
@@ -59,40 +81,29 @@
       "group": null,
       "published": "2026-10-27T10:30:45.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "TWO WEEKS TO GO: Turning Scope 3 targets into funded action",
-      "summary": "Join this edie webinar, held in partnership with South Pole on 12 November, to learn more about building the business case for Scope 3.",
-      "url": "https://www.edie.net/four-weeks-to-go-turning-scope-3-targets-into-funded-action/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "Revealed: UK relied on £2bn of ‘questionable accounting’ to hit its climate-aid goal",
+      "summary": "The UK has beaten its target to provide £11.6bn of climate aid to developing countries by 2026 – but only through “questionable accounting”.",
+      "url": "https://www.carbonbrief.org/revealed-uk-relied-on-2bn-of-questionable-accounting-to-hit-its-climate-aid-goal",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-10-27T07:38:10.000Z",
+      "published": "2026-10-28T07:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "TWO WEEKS TO GO: How to prepare for the UK SRS",
-      "summary": "This webinar, hosted in partnership with Simply Sustainable on 10 November, will explore how businesses can prepare for the UK Sustainability Reporting Standards (UK SRS), understand their current level of readiness and turn gaps into a practical implementation plan.",
-      "url": "https://www.edie.net/free-webinar-how-to-prepare-for-the-uk-srs/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "Analysis: How the UK spent more than £11.6bn on climate aid since 2021",
+      "summary": "The UK has spent £12.8bn on climate aid for developing countries since 2021, according to official figures obtained by Carbon Brief.",
+      "url": "https://www.carbonbrief.org/analysis-how-the-uk-spent-more-than-11-6bn-on-climate-aid-since-2021",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-10-27T06:45:21.000Z",
+      "published": "2026-10-28T07:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "THREE WEEKS TO GO: How to turn climate risk insights into adaptation action",
-      "summary": "This webinar, held in partnership with SmartResilience on 19 November, will explore why and how leading organisations are moving from simply measuring risk to actively adapting in order to protect their operations, assets and supply chains.",
-      "url": "https://www.edie.net/next-month-masterclass-on-turning-climate-risk-insights-into-adaptation/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-27T04:31:13.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "2 小時前"
     },
     {
       "title": "Q&A: Why are UK energy bills so high – and how could they be lowered?",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-10-27T16:47:54.000Z",
       "why": null,
-      "ago": "9 小時前"
-    },
-    {
-      "title": "Guest post: Greenland ice sheet shrinks for 30th year in a row",
-      "summary": "Greenland has now marked the 30th consecutive year where it lost more ice than it gained.",
-      "url": "https://www.carbonbrief.org/guest-post-greenland-ice-sheet-shrinks-for-30th-year-in-a-row",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-10-27T14:07:31.000Z",
-      "why": null,
-      "ago": "11 小時前"
+      "ago": "17 小時前"
     }
   ],
   "errors": []

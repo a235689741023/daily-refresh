@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-28T01:29:46.041Z",
-  "updatedLocal": "2026/10/28 09:29:46",
+  "updated": "2026-10-28T09:25:25.686Z",
+  "updatedLocal": "2026/10/28 17:25:25",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-27T16:15:35.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Fed rate hikes are coming, but not this week: CNBC survey",
@@ -26,7 +26,40 @@
       "group": null,
       "published": "2026-10-27T15:51:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "We are in our 70s. Should we pay off our 2.5% mortgage or build up our savings?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-28T09:15:00.000Z",
+      "why": null,
+      "ago": "10 分鐘前"
+    },
+    {
+      "title": "TV’s Nick and Vanessa Lachey cut price of Southern California home to $7.6 million",
+      "summary": "TV’s Nick and Vanessa Lachey cut price of Southern California home to $7.6 million Choose MarketWatch as a preferred source of financial news # TV’s Nick and Vanessa Lachey cut price of Southern California home to $7.6 million ## The 5-bedroom Tarzana estate has sweeping panoramic views across the San Fernando Valley.",
+      "url": "https://www.marketwatch.com/story/tvs-nick-and-vanessa-lachey-cut-price-of-southern-california-home-to-7-6-million-24dc3d7a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-28T09:01:00.000Z",
+      "why": null,
+      "ago": "24 分鐘前"
+    },
+    {
+      "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-28T02:15:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
@@ -37,7 +70,7 @@
       "group": null,
       "published": "2026-10-27T22:51:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
@@ -48,7 +81,7 @@
       "group": null,
       "published": "2026-10-27T22:18:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending",
@@ -59,7 +92,7 @@
       "group": null,
       "published": "2026-10-27T21:41:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever",
@@ -70,7 +103,7 @@
       "group": null,
       "published": "2026-10-27T21:29:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "The rest of the market is leaving Big Tech behind after a historic comeback",
@@ -81,40 +114,7 @@
       "group": null,
       "published": "2026-10-27T21:28:00.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-27T21:00:00.000Z",
-      "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "The big reason Boeing’s stock is falling so hard after earnings",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-27T20:43:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-27T20:40:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     }
   ],
   "errors": [

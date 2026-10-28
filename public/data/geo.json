@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-28T01:29:46.041Z",
-  "updatedLocal": "2026/10/28 09:29:46",
+  "updated": "2026-10-28T09:25:25.686Z",
+  "updatedLocal": "2026/10/28 17:25:25",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,18 @@
       "group": "gis",
       "published": "2026-10-21T19:59:07.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
+    },
+    {
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "summary": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-28T01:16:46.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Early progress on accelerating drug development with Claude",
@@ -26,29 +37,7 @@
       "group": "ai",
       "published": "2026-10-27T20:20:53.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude",
-      "summary": "Over the past few months, we’ve used an unreleased, internal research model to find critical vulnerabilities in some of the world’s most widely used software, such as browsers and operating systems.",
-      "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-27T18:20:51.000Z",
-      "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-      "summary": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.",
-      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-27T22:23:13.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "How AI agents shape experts’ judgment calls",
@@ -59,7 +48,29 @@
       "group": "ai",
       "published": "2026-10-27T18:50:53.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
+    },
+    {
+      "title": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude",
+      "summary": "Over the past few months, we’ve used an unreleased, internal research model to find critical vulnerabilities in some of the world’s most widely used software, such as browsers and operating systems.",
+      "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-27T18:20:51.000Z",
+      "why": null,
+      "ago": "15 小時前"
+    },
+    {
+      "title": "Who’s Aligned to Whom? How AI Agents Shape Experts’ Research Judgment Calls",
+      "summary": "# Who’s Aligned to Whom? How AI Agents Shape Experts’ Research Judgment Calls Amaç Herda˘ gdelen Anthropic Fellows Program As AI systems become more capable at tasks with verifiable answers, experts’ …",
+      "url": "https://www-cdn.anthropic.com/519c17a5d23a794e8b6d50a854048d0b61e0d73a.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-27T19:21:48.000Z",
+      "why": null,
+      "ago": "14 小時前"
     },
     {
       "title": "Retell uses OpenAI models to help power 100M monthly calls",
@@ -69,17 +80,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-10-27T15:00:00.000Z",
-      "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "summary": "Expanding what businesses can do with Oracle—in ChatGPT and through new offerings powered by OpenAI.",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-27T07:00:00.000Z",
       "why": null,
       "ago": "18 小時前"
     }
