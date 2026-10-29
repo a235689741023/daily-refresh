@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-28T18:32:39.528Z",
-  "updatedLocal": "2026/10/29 02:32:39",
+  "updated": "2026-10-29T01:53:14.946Z",
+  "updatedLocal": "2026/10/29 09:53:14",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Of these 8 corporate climate strategies, only 1 is linked to falling emissions",
+      "summary": "Companies can pull multiple levers in a bid to cut emissions, from developing a climate strategy to linking executive compensation to sustainability goals.",
+      "url": "https://trellis.net/article/corporate-climate-strategies-sbti-emission-cuts/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-28T19:47:23.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
     {
       "title": "The four packaging and sustainability bills that could disrupt your compliance strategy",
       "summary": "The opinions expressed by Trellis expert contributors are their own, not those of Trellis.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-28T15:40:26.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Think like an entrepreneur to make a better business case",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-10-28T06:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "NEXT WEEK: What SMEs need to know before investing in solar",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-10-28T17:30:22.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "UK SRS: Streamlining sustainability reporting and preparing for new requirements",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-10-28T16:40:16.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "‘A sticking plaster’: Green economy warns of missed opportunities on energy and climate in Budget",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-10-28T15:52:20.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "The Government’s trick-or-treat approach to energy security is a horror story waiting to happen",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-10-28T15:43:49.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Autumn Budget: Chancellor pledges energy reforms to cut bills but loosens biodiversity rules",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-10-28T15:35:17.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Making the UK CBAM-ready",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-10-28T14:10:38.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "COP31: New AI Pledge ‘lacks teeth’ for climate action",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-10-28T13:23:00.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "EU tells countries to plan for 3C of warming under new climate resilience framework",
-      "summary": "The European Commission has called on EU member states to plan for a world that is 3C warmer by 2100, setting a common global warming trajectory for governments to use when assessing climate risks and preparing for extreme weather.",
-      "url": "https://www.edie.net/eu-tells-countries-to-plan-for-3c-of-global-warming-under-new-climate-resilience-framework/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-28T12:07:33.000Z",
-      "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     }
   ],
   "errors": []

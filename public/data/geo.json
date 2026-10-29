@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-28T18:32:39.528Z",
-  "updatedLocal": "2026/10/29 02:32:39",
+  "updated": "2026-10-29T01:53:14.946Z",
+  "updatedLocal": "2026/10/29 09:53:14",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,62 +15,29 @@
       "group": "gis",
       "published": "2026-10-28T05:28:50.000Z",
       "why": null,
+      "ago": "20 小時前"
+    },
+    {
+      "title": "AI for Science expands to foundations and research institutions",
+      "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program , which gives free Claude credits to researchers working on high-impact scientific projects.",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-28T20:14:19.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summary": "ServiceNow will bring OpenAI models and agents into workflows from development to security, and expand ChatGPT Work and Codex to employees.",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-28T13:15:00.000Z",
+      "why": null,
       "ago": "13 小時前"
-    },
-    {
-      "title": "Recent PHP Vulnerabilities",
-      "summary": "On October 21, 2026, the PHP Project announced updates to address two critical severity vulnerabilities identified as CVE-2026-109618 and CVE-2026-109619 .",
-      "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/recent-php-vulnerabilities",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-10-21T19:59:07.000Z",
-      "why": null,
-      "ago": "7 天前"
-    },
-    {
-      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-      "summary": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.",
-      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-28T01:16:46.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Early progress on accelerating drug development with Claude",
-      "summary": "Anthropic’s life sciences team is working to accelerate curing disease.",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-27T20:20:53.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "How AI agents shape experts’ judgment calls",
-      "summary": "Amaç Herdağdelen, Hailey Joren, Alex Tamkin When experts hand their work to an AI agent, the usual assumption is that they still make the decisions that matter.",
-      "url": "https://www.anthropic.com/research/agents-judgment-calls",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-27T18:50:53.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "Who’s Aligned to Whom? How AI Agents Shape Experts’ Research Judgment Calls",
-      "summary": "# Who’s Aligned to Whom? How AI Agents Shape Experts’ Research Judgment Calls Amaç Herda˘ gdelen Anthropic Fellows Program As AI systems become more capable at tasks with verifiable answers, experts’ …",
-      "url": "https://www-cdn.anthropic.com/519c17a5d23a794e8b6d50a854048d0b61e0d73a.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-27T19:21:48.000Z",
-      "why": null,
-      "ago": "23 小時前"
     },
     {
       "title": "The future of the firm",
@@ -81,18 +48,40 @@
       "group": "ai",
       "published": "2026-10-28T10:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Legora is building the agentic operating system for legal work",
       "summary": "Powered by OpenAI models and coding agents, Legora helps legal teams move faster, broaden analysis and focus on higher-value work.",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "url": "https://openai.com/index/legora",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
       "published": "2026-10-28T09:30:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
+    },
+    {
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "summary": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-28T01:16:46.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Early progress on accelerating drug development with Claude",
+      "summary": "Anthropic’s life sciences team is working to accelerate curing disease.",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-27T20:20:53.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []
