@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-29T09:36:33.596Z",
-  "updatedLocal": "2026/10/29 17:36:33",
+  "updated": "2026-10-29T18:41:55.800Z",
+  "updatedLocal": "2026/10/30 02:41:55",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-28T05:28:50.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "AI for Science expands to foundations and research institutions",
@@ -26,7 +26,40 @@
       "group": "ai",
       "published": "2026-10-28T20:14:19.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
+    },
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "summary": "As our models get smarter and take more consequential actions in the world, it becomes increasingly important that they go beyond just interpreting the specific instructions they receive.",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-29T17:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "How we detect frontier model misalignment",
+      "summary": "As we train increasingly capable AI models, we need reliable ways to detect when their behavior departs from what we intended.",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-29T09:00:00.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
+    {
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "summary": "Law firm Ropes & Gray is developing a transactional diligence AI tool in partnership with OpenAI.",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-29T07:00:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
     },
     {
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
@@ -37,51 +70,18 @@
       "group": "ai",
       "published": "2026-10-28T13:15:00.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "The future of the firm",
-      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-28T10:00:00.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "Legora is building the agentic operating system for legal work",
-      "summary": "Powered by OpenAI models and coding agents, Legora helps legal teams move faster, broaden analysis and focus on higher-value work.",
-      "url": "https://openai.com/index/legora",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-28T09:30:00.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "summary": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "source": "Google DeepMind",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-28T17:00:58.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Creating AI value with enterprise context",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools.",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test.",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
       "source": "MIT Tech Review",
       "tag": "趨勢",
       "group": "ai",
-      "published": "2026-10-28T20:32:02.000Z",
+      "published": "2026-10-29T10:11:12.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "9 小時前"
     }
   ],
   "errors": []

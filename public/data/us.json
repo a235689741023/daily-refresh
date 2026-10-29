@@ -1,21 +1,54 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-29T09:36:33.596Z",
-  "updatedLocal": "2026/10/29 17:36:33",
+  "updated": "2026-10-29T18:41:55.800Z",
+  "updatedLocal": "2026/10/30 02:41:55",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
-      "summary": "The Federal Reserve chairman's press conference Wednesday was sharply different from his early appearances in the job, when he often seemed backed into a corner.",
+      "title": "European Central Bank keeps key interest rate on hold at 2.5%",
+      "summary": "The European Central Bank voted to hold interest rates steady on Thursday, meeting market expectations, despite euro zone inflation rising to a three-year high.",
+      "url": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-29T14:48:01.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+      "summary": "The pace of price increases stepped up in September, keeping inflation well above the Federal Reserve's target, while the economy grew faster than expected in the third quarter, according to Commerce Department reports Thursday.",
+      "url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-29T18:06:31.000Z",
+      "why": null,
+      "ago": "35 分鐘前"
+    },
+    {
+      "title": "The politics of President Lagarde's European Central Bank early exit  — and who could replace her",
+      "summary": "European Central Bank President Christine Lagarde will step down on Feb. 7 next year, she announced Thursday, formally kicking off a succession race that will be shaped by political bargaining and France's looming fiscal crisis.",
+      "url": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-29T14:53:06.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool",
+      "summary": "The Federal Reserve chairman's news conference Wednesday was sharply different from his early appearances in the job, when he often seemed backed into a corner.",
       "url": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-10-29T09:00:01.000Z",
+      "published": "2026-10-29T17:32:34.000Z",
       "why": null,
-      "ago": "37 分鐘前"
+      "ago": "1 小時前"
     },
     {
       "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
@@ -26,7 +59,7 @@
       "group": null,
       "published": "2026-10-28T21:31:46.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
@@ -37,84 +70,51 @@
       "group": null,
       "published": "2026-10-28T21:06:37.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
-      "summary": "The U.K.'s finance minister John Healey delivered his first fiscal budget on Wednesday, announcing funding for defense, AI initiatives and measures designed to ease cost-of-living pressures.",
-      "url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
+      "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
       "group": null,
-      "published": "2026-10-28T15:39:14.000Z",
+      "published": "2026-10-29T18:30:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "12 分鐘前"
     },
     {
-      "title": "‘Fancy cars hold no appeal’: My wife and I have a 99% chance of outliving our savings. Why don’t we spend it all?",
-      "summary": "‘Fancy cars hold no appeal’: My wife and I have a 99% chance of outliving our savings. Why don’t we spend it all?",
+      "title": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
+      "summary": null,
       "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-29T09:15:00.000Z",
+      "published": "2026-10-29T18:16:00.000Z",
       "why": null,
-      "ago": "22 分鐘前"
+      "ago": "26 分鐘前"
     },
     {
-      "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
-      "summary": "Why Alphabet’s stock could see its worst drop in years after the latest results Choose MarketWatch as a preferred source of financial news # Why Alphabet’s stock could see its worst drop in years after the latest results ## A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grow more concerned that AI is hurting the company’s ability to make money off search queries Choose MarketWatch as a preferred source of financial news Alphabet’s $51.4 billion AI spending spree led to negative free cash flow of $9.1 billion.",
-      "url": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-29T09:08:00.000Z",
-      "why": null,
-      "ago": "29 分鐘前"
-    },
-    {
-      "title": "NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets",
-      "summary": "NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets Choose MarketWatch as a preferred source of financial news # NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets ## One of the home’s distinctive features is an elaborate dressing room that resembles a high-end fashion boutique.",
-      "url": "https://www.marketwatch.com/story/nba-star-lamelo-ball-is-selling-his-2-6-million-luxury-condo-in-charlotte-after-leaving-the-hornets-2356414e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-29T09:02:00.000Z",
-      "why": null,
-      "ago": "35 分鐘前"
-    },
-    {
-      "title": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
-      "summary": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
-      "url": "https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-29T09:01:00.000Z",
-      "why": null,
-      "ago": "36 分鐘前"
-    },
-    {
-      "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
+      "title": "Did the Fed make a mistake with its October rate pause? The Treasury could help save the day.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/did-the-fed-make-a-mistake-with-its-october-rate-pause-the-treasury-could-help-save-the-day-77d84993?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-29T00:20:00.000Z",
+      "published": "2026-10-29T17:59:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "43 分鐘前"
     },
     {
-      "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-29T00:15:00.000Z",
+      "published": "2026-10-29T17:10:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "2 小時前"
     }
   ],
   "errors": [

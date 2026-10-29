@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-29T09:36:33.596Z",
-  "updatedLocal": "2026/10/29 17:36:33",
+  "updated": "2026-10-29T18:41:55.800Z",
+  "updatedLocal": "2026/10/30 02:41:55",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "The Interface pilot that died so a new one could live",
+      "summary": "Somewhere in your company, there’s probably a circular economy initiative, such as a reusable packaging trial or a take-back program for used products, that quietly disappeared without an official end.",
+      "url": "https://trellis.net/article/interface-pilot-project-circular-economy/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-29T16:01:36.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "Of these 8 corporate climate strategies, only 1 is linked to falling emissions",
       "summary": "Companies can pull multiple levers in a bid to cut emissions, from developing a climate strategy to linking executive compensation to sustainability goals.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-28T19:47:23.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "The four packaging and sustainability bills that could disrupt your compliance strategy",
@@ -26,95 +37,84 @@
       "group": null,
       "published": "2026-10-28T15:40:26.000Z",
       "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Think like an entrepreneur to make a better business case",
-      "summary": "The opinions expressed by Trellis expert contributors are their own, not those of Trellis.",
-      "url": "https://trellis.net/article/think-like-entrepreneur-better-business-case/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-28T06:00:00.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Turning food waste into value: The business case for better measurement",
-      "summary": "Reducing food waste is essential to business resilience, highlights The Consumer Goods Forum's director of health and sustainability, Sharon Bligh.",
-      "url": "https://www.edie.net/turning-food-waste-into-value-the-business-case-for-better-measurement/",
+      "title": "New US data centres will emit more carbon than Mexico, research finds",
+      "summary": "New US data centres would emit 2.1 billion metric tonnes of carbon dioxide by 2030, more than the country of Mexico, according to new data from environmental non-profit, the Sierra Club.",
+      "url": "https://www.edie.net/new-us-data-centres-will-emit-more-carbon-than-mexico-research-finds/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-29T08:21:56.000Z",
+      "published": "2026-10-29T17:06:25.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "NEXT WEEK: What SMEs need to know before investing in solar",
+      "title": "Less than 1% of climate finance reaches smallholders, ministers warn",
+      "summary": "Ministers from six countries have warned that just 0.8% of climate finance reaches smallholders, calling for changes to how funding is distributed as countries struggle to meet global biodiversity targets ahead of the 2030 deadline.",
+      "url": "https://www.edie.net/less-than-1-of-climate-finance-reaches-smallholders-ministers-warn/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-29T16:32:54.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "COP31 energy push: Clean power funding lags as Presidency targets building efficiency",
+      "summary": "With the climate summit around the corner, analysis shows that less than half of fossil fuel public finance cuts is being redirected into clean energy, while the Presidency has launched a new initiative to scale electrification and green buildings.",
+      "url": "https://www.edie.net/cop31-energy-push-clean-power-funding-lags-as-presidency-targets-building-efficiency/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-29T13:34:31.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "WEBINAR NEXT WEEK: What SMEs need to know before investing in solar",
       "summary": "Taking place on 5 November, this upcoming webinar will explore how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
       "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-28T17:30:22.000Z",
+      "published": "2026-10-29T11:00:22.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "8 小時前"
     },
     {
-      "title": "UK SRS: Streamlining sustainability reporting and preparing for new requirements",
-      "summary": "With the introduction of UK Sustainability Reporting Standards (UK SRS) and new reporting requirements for listed companies approaching, UK businesses face growing pressure to produce credible, consistent and decision-useful sustainability information.",
-      "url": "https://www.edie.net/uk-srs-streamlining-sustainability-reporting-and-preparing-for-new-requirements/",
+      "title": "On-demand webinar: How AI can unlock investment in climate solutions",
+      "summary": "Discover how businesses can use AI, market intelligence and expert insight to identify credible climate investment opportunities, strengthen financial business cases and turn sustainability ambitions into funded action.",
+      "url": "https://www.edie.net/on-demand-webinar-how-ai-can-unlock-investment-in-climate-solutions/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-28T16:40:16.000Z",
+      "published": "2026-10-29T09:00:49.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "10 小時前"
     },
     {
-      "title": "‘A sticking plaster’: Green economy warns of missed opportunities on energy and climate in Budget",
-      "summary": "Chancellor John Healey has unveiled the 2026 Autumn Budget, prioritising “cheaper energy” with household bill relief and a move to shift policy costs off energy bills, but green groups say the package lacks the ambition needed to cut fossil fuel dependence.",
-      "url": "https://www.edie.net/a-sticking-plaster-green-economy-warns-of-missed-opportunities-on-energy-and-climate/",
+      "title": "WEBINAR ON 10 NOVEMBER: How to prepare for the UK SRS",
+      "summary": "This webinar, hosted in partnership with Simply Sustainable on 10 November, will explore how businesses can prepare for the UK Sustainability Reporting Standards (UK SRS), understand their current level of readiness and turn gaps into a practical implementation plan.",
+      "url": "https://www.edie.net/free-webinar-how-to-prepare-for-the-uk-srs/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-28T15:52:20.000Z",
+      "published": "2026-10-29T08:45:21.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "10 小時前"
     },
     {
-      "title": "The Government’s trick-or-treat approach to energy security is a horror story waiting to happen",
-      "summary": "The Government’s approval of new oil and gas projects could become a Nightmare on Downing Street, with responses to energy security focused on treating symptoms rather than strengthening approaches to a clean energy transition.",
-      "url": "https://www.edie.net/the-governments-trick-or-treat-approach-to-energy-security-is-a-horror-story-waiting-to-happen/",
+      "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
+      "summary": "Sustainability professionals have the chance to win six months of access to edie’s digital Membership offering as well as a VIP pass to edie 27 in April by completing a short survey.",
+      "url": "https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-10-28T15:43:49.000Z",
+      "published": "2026-10-29T08:30:45.000Z",
       "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Autumn Budget: Chancellor pledges energy reforms to cut bills but loosens biodiversity rules",
-      "summary": "The Chancellor has announced a new energy cost-control framework, changes to renewable electricity contracts and the removal of biodiversity requirements on more brownfield sites in the Autumn Budget.",
-      "url": "https://www.edie.net/autumn-budget-chancellor-pledges-energy-reforms-to-cut-bills-but-loosens-biodiversity-rules/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-28T15:35:17.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Making the UK CBAM-ready",
-      "summary": "Businesses are assessing the risk and supplier carbon data is emerging as the biggest challenge.",
-      "url": "https://www.edie.net/making-the-uk-cbam-ready/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-28T14:10:38.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "10 小時前"
     }
   ],
   "errors": []
