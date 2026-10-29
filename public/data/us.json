@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-29T01:53:14.946Z",
-  "updatedLocal": "2026/10/29 09:53:14",
+  "updated": "2026-10-29T09:36:33.596Z",
+  "updatedLocal": "2026/10/29 17:36:33",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+      "summary": "The Federal Reserve chairman's press conference Wednesday was sharply different from his early appearances in the job, when he often seemed backed into a corner.",
+      "url": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-10-29T09:00:01.000Z",
+      "why": null,
+      "ago": "37 分鐘前"
+    },
     {
       "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
       "summary": "The Federal Reserve voted Wednesday to hold its benchmark interest rate steady .",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-10-28T21:31:46.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-10-28T21:06:37.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
@@ -37,7 +48,51 @@
       "group": null,
       "published": "2026-10-28T15:39:14.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "‘Fancy cars hold no appeal’: My wife and I have a 99% chance of outliving our savings. Why don’t we spend it all?",
+      "summary": "‘Fancy cars hold no appeal’: My wife and I have a 99% chance of outliving our savings. Why don’t we spend it all?",
+      "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-29T09:15:00.000Z",
+      "why": null,
+      "ago": "22 分鐘前"
+    },
+    {
+      "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
+      "summary": "Why Alphabet’s stock could see its worst drop in years after the latest results Choose MarketWatch as a preferred source of financial news # Why Alphabet’s stock could see its worst drop in years after the latest results ## A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grow more concerned that AI is hurting the company’s ability to make money off search queries Choose MarketWatch as a preferred source of financial news Alphabet’s $51.4 billion AI spending spree led to negative free cash flow of $9.1 billion.",
+      "url": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-29T09:08:00.000Z",
+      "why": null,
+      "ago": "29 分鐘前"
+    },
+    {
+      "title": "NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets",
+      "summary": "NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets Choose MarketWatch as a preferred source of financial news # NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets ## One of the home’s distinctive features is an elaborate dressing room that resembles a high-end fashion boutique.",
+      "url": "https://www.marketwatch.com/story/nba-star-lamelo-ball-is-selling-his-2-6-million-luxury-condo-in-charlotte-after-leaving-the-hornets-2356414e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-29T09:02:00.000Z",
+      "why": null,
+      "ago": "35 分鐘前"
+    },
+    {
+      "title": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
+      "summary": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
+      "url": "https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-29T09:01:00.000Z",
+      "why": null,
+      "ago": "36 分鐘前"
     },
     {
       "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
@@ -48,18 +103,7 @@
       "group": null,
       "published": "2026-10-29T00:20:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
-      "summary": "Why Alphabet’s stock could see its worst drop in years after the latest results Choose MarketWatch as a preferred source of financial news # Why Alphabet’s stock could see its worst drop in years after the latest results ## A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grow more concerned that AI is hurting the company’s ability to make money off search queries Choose MarketWatch as a preferred source of financial news Alphabet’s $51.4 billion AI spending spree led to negative free cash flow of $9.1 billion.",
-      "url": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-29T00:17:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
@@ -70,51 +114,7 @@
       "group": null,
       "published": "2026-10-29T00:15:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "The major reason Microsoft’s stock is heading higher after earnings",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-29T00:10:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
-      "summary": "Fortinet’s stock is taking a dive after earnings. Here’s why. Choose MarketWatch as a preferred source of financial news # Fortinet’s stock is taking a dive after earnings.",
-      "url": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-28T23:18:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-28T23:02:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-28T22:41:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "9 小時前"
     }
   ],
   "errors": [

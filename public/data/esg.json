@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-29T01:53:14.946Z",
-  "updatedLocal": "2026/10/29 09:53:14",
+  "updated": "2026-10-29T09:36:33.596Z",
+  "updatedLocal": "2026/10/29 17:36:33",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-28T19:47:23.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "The four packaging and sustainability bills that could disrupt your compliance strategy",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-10-28T15:40:26.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Think like an entrepreneur to make a better business case",
@@ -37,7 +37,18 @@
       "group": null,
       "published": "2026-10-28T06:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Turning food waste into value: The business case for better measurement",
+      "summary": "Reducing food waste is essential to business resilience, highlights The Consumer Goods Forum's director of health and sustainability, Sharon Bligh.",
+      "url": "https://www.edie.net/turning-food-waste-into-value-the-business-case-for-better-measurement/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-29T08:21:56.000Z",
+      "why": null,
+      "ago": "1 小時前"
     },
     {
       "title": "NEXT WEEK: What SMEs need to know before investing in solar",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-10-28T17:30:22.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "UK SRS: Streamlining sustainability reporting and preparing for new requirements",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-10-28T16:40:16.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "‘A sticking plaster’: Green economy warns of missed opportunities on energy and climate in Budget",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-10-28T15:52:20.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "The Government’s trick-or-treat approach to energy security is a horror story waiting to happen",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-10-28T15:43:49.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Autumn Budget: Chancellor pledges energy reforms to cut bills but loosens biodiversity rules",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-10-28T15:35:17.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Making the UK CBAM-ready",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-10-28T14:10:38.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "COP31: New AI Pledge ‘lacks teeth’ for climate action",
-      "summary": "The Presidency has unveiled the Antalya Artificial Intelligence (AI) Pledge ahead of next month's summit, but industry experts have questioned whether the Pledge could effectively balance AI growth with climate protection.",
-      "url": "https://www.edie.net/cop31-new-ai-pledge-lacks-teeth-for-climate-action/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-28T13:23:00.000Z",
-      "why": null,
-      "ago": "13 小時前"
+      "ago": "19 小時前"
     }
   ],
   "errors": []

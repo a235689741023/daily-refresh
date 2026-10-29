@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-29T01:53:14.946Z",
-  "updatedLocal": "2026/10/29 09:53:14",
+  "updated": "2026-10-29T09:36:33.596Z",
+  "updatedLocal": "2026/10/29 17:36:33",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-28T05:28:50.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "AI for Science expands to foundations and research institutions",
@@ -26,7 +26,7 @@
       "group": "ai",
       "published": "2026-10-28T20:14:19.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-10-28T13:15:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "The future of the firm",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-10-28T10:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "Legora is building the agentic operating system for legal work",
@@ -59,29 +59,29 @@
       "group": "ai",
       "published": "2026-10-28T09:30:00.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-      "summary": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.",
-      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-28T01:16:46.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Early progress on accelerating drug development with Claude",
-      "summary": "Anthropic’s life sciences team is working to accelerate curing disease.",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "source": "Anthropic",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "summary": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "source": "Google DeepMind",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-27T20:20:53.000Z",
+      "published": "2026-10-28T17:00:58.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "17 小時前"
+    },
+    {
+      "title": "Creating AI value with enterprise context",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools.",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-10-28T20:32:02.000Z",
+      "why": null,
+      "ago": "13 小時前"
     }
   ],
   "errors": []
