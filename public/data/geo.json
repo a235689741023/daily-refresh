@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-30T02:02:45.260Z",
-  "updatedLocal": "2026/10/30 10:02:45",
+  "updated": "2026-10-30T09:44:29.862Z",
+  "updatedLocal": "2026/10/30 17:44:29",
   "digest": null,
   "watch": [],
   "items": [
@@ -13,9 +13,9 @@
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-10-29T23:46:41.000Z",
+      "published": "2026-10-30T08:53:38.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "51 分鐘前"
     },
     {
       "title": "An updated Model Spec for more capable and beneficial AI",
@@ -26,7 +26,7 @@
       "group": "ai",
       "published": "2026-10-29T17:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "How we detect frontier model misalignment",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-10-29T09:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
       "title": "How Ropes & Gray is developing AI for transactional diligence",
@@ -47,17 +47,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-10-29T07:00:00.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "AI for Science expands to foundations and research institutions",
-      "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program , which gives free Claude credits to researchers working on high-impact scientific projects.",
-      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-28T20:14:19.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -70,18 +59,29 @@
       "group": "ai",
       "published": "2026-10-29T10:11:12.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "24 小時前"
     },
     {
-      "title": "Creating AI value with enterprise context",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools.",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
       "group": "ai",
-      "published": "2026-10-28T20:32:02.000Z",
+      "published": "2026-10-29T16:00:35.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+      "summary": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes.",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
+      "group": "ai",
+      "published": "2026-10-29T13:00:16.000Z",
+      "why": null,
+      "ago": "21 小時前"
     }
   ],
   "errors": []

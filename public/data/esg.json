@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-30T02:02:45.260Z",
-  "updatedLocal": "2026/10/30 10:02:45",
+  "updated": "2026-10-30T09:44:29.862Z",
+  "updatedLocal": "2026/10/30 17:44:29",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,18 @@
       "group": null,
       "published": "2026-10-29T16:01:36.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "WEBINAR ON THURSDAY: What SMEs need to know before investing in solar",
+      "summary": "Taking place on 5 November, this upcoming webinar will explore how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
+      "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-30T08:00:22.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "New US data centres will emit more carbon than Mexico, research finds",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-10-29T17:06:25.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Less than 1% of climate finance reaches smallholders, ministers warn",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-10-29T16:32:54.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "COP31 energy push: Clean power funding lags as Presidency targets building efficiency",
@@ -48,73 +59,62 @@
       "group": null,
       "published": "2026-10-29T13:34:31.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "WEBINAR NEXT WEEK: What SMEs need to know before investing in solar",
-      "summary": "Taking place on 5 November, this upcoming webinar will explore how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
-      "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "Experts: What China wants from the COP31 climate talks",
+      "summary": "With the COP31 climate summit in Turkey looming, all eyes are on China to see what the country will push for in the negotiations.",
+      "url": "https://www.carbonbrief.org/experts-what-china-wants-from-the-cop31-climate-talks",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-10-29T11:00:22.000Z",
+      "published": "2026-10-29T14:25:40.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "19 小時前"
     },
     {
-      "title": "On-demand webinar: How AI can unlock investment in climate solutions",
-      "summary": "Discover how businesses can use AI, market intelligence and expert insight to identify credible climate investment opportunities, strengthen financial business cases and turn sustainability ambitions into funded action.",
-      "url": "https://www.edie.net/on-demand-webinar-how-ai-can-unlock-investment-in-climate-solutions/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "五年抗爭劃下句點 全球首座章魚商業養殖場為何宣告撤案？",
+      "summary": "2022年，西班牙水產公司新佩斯卡諾瓦（Nueva Pescanova）宣布建置全球第一座商業化章魚養殖場，引發外界強烈反對。歷經五年的爭議與大規模連署抗議後，公司終於在今年7月23日於多方壓力下，正式撤回了在西班牙加那利島（Canary Islands）建造商業化章魚養殖場的計畫。",
+      "url": "https://www.e-info.org.tw/node/243793",
+      "source": "環境資訊中心",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-10-29T09:00:49.000Z",
+      "published": "2026-10-30T02:04:47.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "8 小時前"
     },
     {
-      "title": "WEBINAR ON 10 NOVEMBER: How to prepare for the UK SRS",
-      "summary": "This webinar, hosted in partnership with Simply Sustainable on 10 November, will explore how businesses can prepare for the UK Sustainability Reporting Standards (UK SRS), understand their current level of readiness and turn gaps into a practical implementation plan.",
-      "url": "https://www.edie.net/free-webinar-how-to-prepare-for-the-uk-srs/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "經濟部長證實再生能源目標延後 2029拚占比20%",
+      "summary": "2025年再生能源目標再度延後。經濟部長龔明鑫28日在立法院證實，原定今（2026）年11月再生能源占比20%目標，預計要2029年會達到。目前離岸風場正陸續完工，太陽光電則是地面型案場疑慮待排除。他強調，盤點到2035年都有新機組供電上線，整體不會缺電。",
+      "url": "https://www.e-info.org.tw/node/244016",
+      "source": "環境資訊中心",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-10-29T08:45:21.000Z",
+      "published": "2026-10-29T10:13:18.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "24 小時前"
     },
     {
-      "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
-      "summary": "Sustainability professionals have the chance to win six months of access to edie’s digital Membership offering as well as a VIP pass to edie 27 in April by completing a short survey.",
-      "url": "https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "廢非核家園公投發表會正反方代表出爐、美冷戰時期核設施放射性物質外洩、印尼民要求森林野火列國家級災難",
+      "summary": "## 廢非核家園公投發表會正反方代表出爐、美冷戰時期核設施放射性物質外洩、印尼民要求森林野火列國家級災難 「廢除非核家園」公投案將與九合一選舉於11月28日投票，中選會今天證實，5場發表會的正反雙方名單都已送至中選會；第一場將於11月12日舉行，正方代表為國民黨立委牛煦庭，反方代表為民進黨立委陳培瑜。",
+      "url": "https://www.e-info.org.tw/node/244019",
+      "source": "環境資訊中心",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-10-29T08:30:45.000Z",
+      "published": "2026-10-30T02:24:48.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "7 小時前"
     },
     {
-      "title": "Turning food waste into value: The business case for better measurement",
-      "summary": "Reducing food waste is essential to business resilience, highlights The Consumer Goods Forum's director of health and sustainability, Sharon Bligh.",
-      "url": "https://www.edie.net/turning-food-waste-into-value-the-business-case-for-better-measurement/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "印尼11年來最大野火 東南亞空氣惡化成國際壓力 當局出動「氧氣公車」供民眾吸氧",
+      "summary": "天空蒙上一層厚重的黃色陰影，印尼森林大火燒了三個多月還沒停，濃煙飄向東南亞各國，釀成印尼11年來最嚴重的野火及霧霾事件。部分地區空氣污染超過最高危害等級上限兩倍以上，數百名學生和公民團體上街抗議，要求政府將野火列為國家級災害。",
+      "url": "https://www.e-info.org.tw/node/244020",
+      "source": "環境資訊中心",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-10-29T08:21:56.000Z",
+      "published": "2026-10-30T08:55:11.000Z",
       "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "WEBINAR ON 12 NOVEMBER: Turning Scope 3 targets into funded action",
-      "summary": "Join this edie webinar, held in partnership with South Pole on 12 November, to learn more about building the business case for Scope 3.",
-      "url": "https://www.edie.net/four-weeks-to-go-turning-scope-3-targets-into-funded-action/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-29T07:38:10.000Z",
-      "why": null,
-      "ago": "18 小時前"
+      "ago": "49 分鐘前"
     }
   ],
   "errors": []
