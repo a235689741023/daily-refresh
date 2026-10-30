@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-10-29T18:41:55.800Z",
-  "updatedLocal": "2026/10/30 02:41:55",
+  "updated": "2026-10-30T02:02:45.260Z",
+  "updatedLocal": "2026/10/30 10:02:45",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,29 +15,7 @@
       "group": null,
       "published": "2026-10-29T16:01:36.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Of these 8 corporate climate strategies, only 1 is linked to falling emissions",
-      "summary": "Companies can pull multiple levers in a bid to cut emissions, from developing a climate strategy to linking executive compensation to sustainability goals.",
-      "url": "https://trellis.net/article/corporate-climate-strategies-sbti-emission-cuts/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-28T19:47:23.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "The four packaging and sustainability bills that could disrupt your compliance strategy",
-      "summary": "The opinions expressed by Trellis expert contributors are their own, not those of Trellis.",
-      "url": "https://trellis.net/article/packaging-recycling-bills-us-midterms/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-10-28T15:40:26.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "10 小時前"
     },
     {
       "title": "New US data centres will emit more carbon than Mexico, research finds",
@@ -48,7 +26,7 @@
       "group": null,
       "published": "2026-10-29T17:06:25.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Less than 1% of climate finance reaches smallholders, ministers warn",
@@ -59,7 +37,7 @@
       "group": null,
       "published": "2026-10-29T16:32:54.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "COP31 energy push: Clean power funding lags as Presidency targets building efficiency",
@@ -70,7 +48,7 @@
       "group": null,
       "published": "2026-10-29T13:34:31.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "WEBINAR NEXT WEEK: What SMEs need to know before investing in solar",
@@ -81,7 +59,7 @@
       "group": null,
       "published": "2026-10-29T11:00:22.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "On-demand webinar: How AI can unlock investment in climate solutions",
@@ -92,7 +70,7 @@
       "group": null,
       "published": "2026-10-29T09:00:49.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "WEBINAR ON 10 NOVEMBER: How to prepare for the UK SRS",
@@ -103,7 +81,7 @@
       "group": null,
       "published": "2026-10-29T08:45:21.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
@@ -114,7 +92,29 @@
       "group": null,
       "published": "2026-10-29T08:30:45.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "Turning food waste into value: The business case for better measurement",
+      "summary": "Reducing food waste is essential to business resilience, highlights The Consumer Goods Forum's director of health and sustainability, Sharon Bligh.",
+      "url": "https://www.edie.net/turning-food-waste-into-value-the-business-case-for-better-measurement/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-29T08:21:56.000Z",
+      "why": null,
+      "ago": "18 小時前"
+    },
+    {
+      "title": "WEBINAR ON 12 NOVEMBER: Turning Scope 3 targets into funded action",
+      "summary": "Join this edie webinar, held in partnership with South Pole on 12 November, to learn more about building the business case for Scope 3.",
+      "url": "https://www.edie.net/four-weeks-to-go-turning-scope-3-targets-into-funded-action/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-10-29T07:38:10.000Z",
+      "why": null,
+      "ago": "18 小時前"
     }
   ],
   "errors": []

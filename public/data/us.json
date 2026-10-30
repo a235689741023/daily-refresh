@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-29T18:41:55.800Z",
-  "updatedLocal": "2026/10/30 02:41:55",
+  "updated": "2026-10-30T02:02:45.260Z",
+  "updatedLocal": "2026/10/30 10:02:45",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-10-29T14:48:01.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-10-29T18:06:31.000Z",
       "why": null,
-      "ago": "35 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "The politics of President Lagarde's European Central Bank early exit  — and who could replace her",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-10-29T14:53:06.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool",
@@ -48,29 +48,40 @@
       "group": null,
       "published": "2026-10-29T17:32:34.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
-      "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
-      "summary": "The Federal Reserve voted Wednesday to hold its benchmark interest rate steady .",
-      "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
+      "title": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
       "group": null,
-      "published": "2026-10-28T21:31:46.000Z",
+      "published": "2026-10-30T00:15:00.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
-      "summary": "Treasury Secretary Scott Bessent said Wednesday that further Federal Reserve rate hikes wouldn't necessarily be a mistake.",
-      "url": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
+      "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
       "group": null,
-      "published": "2026-10-28T21:06:37.000Z",
+      "published": "2026-10-30T00:14:00.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-30T00:06:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
@@ -79,42 +90,31 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-10-29T18:30:00.000Z",
-      "why": null,
-      "ago": "12 分鐘前"
-    },
-    {
-      "title": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-29T18:16:00.000Z",
-      "why": null,
-      "ago": "26 分鐘前"
-    },
-    {
-      "title": "Did the Fed make a mistake with its October rate pause? The Treasury could help save the day.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/did-the-fed-make-a-mistake-with-its-october-rate-pause-the-treasury-could-help-save-the-day-77d84993?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-29T17:59:00.000Z",
-      "why": null,
-      "ago": "43 分鐘前"
-    },
-    {
-      "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-29T17:10:00.000Z",
+      "published": "2026-10-30T00:05:00.000Z",
       "why": null,
       "ago": "2 小時前"
+    },
+    {
+      "title": "Why Intel’s stock is sinking toward its worst drop in two years",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-29T23:21:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+      "summary": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+      "url": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-29T22:45:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
     }
   ],
   "errors": [

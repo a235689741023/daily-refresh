@@ -1,32 +1,21 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-29T18:41:55.800Z",
-  "updatedLocal": "2026/10/30 02:41:55",
+  "updated": "2026-10-30T02:02:45.260Z",
+  "updatedLocal": "2026/10/30 10:02:45",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Brotli Decoder Vulnerabilities (Node2Shell, Broccoli2Shell, HTTP2Shell)",
+      "title": "Brotli / Node.js Vulnerabilities",
       "summary": "On October 22, 2026, Open AI security researchers announced a critical severity vulnerability in Google’s Brotli decoder, identified as CVE-2026-111497.",
       "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/brotli-vulnerabilities-broccoli2shell",
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-10-28T05:28:50.000Z",
+      "published": "2026-10-29T23:46:41.000Z",
       "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "AI for Science expands to foundations and research institutions",
-      "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program , which gives free Claude credits to researchers working on high-impact scientific projects.",
-      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-28T20:14:19.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "2 小時前"
     },
     {
       "title": "An updated Model Spec for more capable and beneficial AI",
@@ -37,7 +26,7 @@
       "group": "ai",
       "published": "2026-10-29T17:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "How we detect frontier model misalignment",
@@ -48,7 +37,7 @@
       "group": "ai",
       "published": "2026-10-29T09:00:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "How Ropes & Gray is developing AI for transactional diligence",
@@ -59,16 +48,16 @@
       "group": "ai",
       "published": "2026-10-29T07:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "summary": "ServiceNow will bring OpenAI models and agents into workflows from development to security, and expand ChatGPT Work and Codex to employees.",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "source": "OpenAI",
+      "title": "AI for Science expands to foundations and research institutions",
+      "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program , which gives free Claude credits to researchers working on high-impact scientific projects.",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-28T13:15:00.000Z",
+      "published": "2026-10-28T20:14:19.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -81,7 +70,18 @@
       "group": "ai",
       "published": "2026-10-29T10:11:12.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
+    },
+    {
+      "title": "Creating AI value with enterprise context",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools.",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-10-28T20:32:02.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []
