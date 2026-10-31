@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-31T01:41:30.238Z",
-  "updatedLocal": "2026/10/31 09:41:30",
+  "updated": "2026-10-31T09:24:05.827Z",
+  "updatedLocal": "2026/10/31 17:24:05",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-29T19:51:04.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Mapping human stories: A conversation with Esri cartographer Peter Atwood",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-10-29T19:45:24.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Brotli / Node.js Vulnerabilities",
@@ -48,7 +48,18 @@
       "group": "gis",
       "published": "2026-10-30T10:57:05.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
+    },
+    {
+      "title": "Automated Subtle Emergent Misalignment Research - Anthropic Alignment Science blog",
+      "summary": "Richard Qi, Monte MacDiarmid, Evan Hubinger Red-teaming by humans is a vital part of model safety testing, but it may struggle to keep up as models improve.",
+      "url": "https://alignment.anthropic.com/2026/automated-em-search/",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-30T23:34:28.000Z",
+      "why": null,
+      "ago": "10 小時前"
     },
     {
       "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-30T18:04:21.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Making it easier for websites to express AI training preferences",
@@ -70,7 +81,7 @@
       "group": "ai",
       "published": "2026-10-30T09:30:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "Community safety report and new protections for teens",
@@ -80,17 +91,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-10-30T09:00:00.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Fair use benefits everyone",
-      "summary": "Authors, journalists, creators, academics, accessibility advocates, legal experts, librarians, economists and business leaders are voicing their support for the longstanding principle of fair use and its application to AI training.",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-30T00:00:00.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -103,7 +103,7 @@
       "group": "ai",
       "published": "2026-10-30T15:00:10.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "New York Bill Would Raise AI Safety Regulations",
@@ -114,7 +114,7 @@
       "group": "ai",
       "published": "2026-10-30T15:54:30.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     }
   ],
   "errors": []

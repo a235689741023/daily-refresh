@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-10-31T01:41:30.238Z",
-  "updatedLocal": "2026/10/31 09:41:30",
+  "updated": "2026-10-31T09:24:05.827Z",
+  "updatedLocal": "2026/10/31 17:24:05",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,18 @@
       "group": null,
       "published": "2026-10-30T11:16:46.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
+    },
+    {
+      "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
+      "summary": "## After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play ‘Grand Theft Auto VI’ when it drops on Nov. 19 Choose MarketWatch as a preferred source of financial news The “Grand Theft Auto” videogame franchise is notorious for its in-game heists — and now managers can add “stealing productivity” to its list of crimes when the long-awaited “Grand Theft Auto VI” drops on Thursday, Nov. 19, after years of delays.",
+      "url": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-10-31T04:30:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-10-30T23:14:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "This cybersecurity stock will be the next to join the S&P 500",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-10-30T22:20:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-10-30T21:30:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-10-30T21:23:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "In a wild October for markets, these stocks were the biggest winners and losers",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-10-30T20:52:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Why Intel’s stock saw its worst day in decades — and a $140 billion wipeout",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-10-30T20:48:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-10-30T20:42:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-10-30T20:29:00.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "AMD’s stock slides after Intel earnings reveal two big issues",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-10-30T20:28:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     }
   ],
   "errors": [
