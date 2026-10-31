@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-10-30T18:18:09.562Z",
-  "updatedLocal": "2026/10/31 02:18:09",
+  "updated": "2026-10-31T01:41:30.238Z",
+  "updatedLocal": "2026/10/31 09:41:30",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,18 @@
       "group": "gis",
       "published": "2026-10-29T19:51:04.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Mapping human stories: A conversation with Esri cartographer Peter Atwood",
+      "summary": "Like many cartographers, Peter Atwood’s journey to mapmaking took a circuitous route: Long before he was designing maps for Esri, he was tracing clues about past civilizations through archaeological site maps and fieldwork.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/mapping-human-stories",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-10-29T19:45:24.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Brotli / Node.js Vulnerabilities",
@@ -26,7 +37,7 @@
       "group": "gis",
       "published": "2026-10-29T07:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Understanding the Subsurface in India’s Infrastructure Planning",
@@ -37,7 +48,7 @@
       "group": "gis",
       "published": "2026-10-30T10:57:05.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
@@ -46,9 +57,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-30T18:04:26.000Z",
+      "published": "2026-10-30T18:04:21.000Z",
       "why": null,
-      "ago": "14 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "Making it easier for websites to express AI training preferences",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-30T09:30:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Community safety report and new protections for teens",
@@ -70,16 +81,16 @@
       "group": "ai",
       "published": "2026-10-30T09:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "summary": "As our models get smarter and take more consequential actions in the world, it becomes increasingly important that they go beyond just interpreting the specific instructions they receive.",
-      "url": "https://openai.com/index/updated-model-spec",
+      "title": "Fair use benefits everyone",
+      "summary": "Authors, journalists, creators, academics, accessibility advocates, legal experts, librarians, economists and business leaders are voicing their support for the longstanding principle of fair use and its application to AI training.",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-29T17:00:00.000Z",
+      "published": "2026-10-30T00:00:00.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -92,18 +103,18 @@
       "group": "ai",
       "published": "2026-10-30T15:00:10.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "AI safety depends on government capacity. Washington is weakening it.",
-      "summary": "Collective action on AI must include rebuilding the government's expertise, and it must start now.",
-      "url": "https://federalnewsnetwork.com/commentary/2026/10/ai-safety-depends-on-government-capacity-washington-is-weakening-it/",
-      "source": "Federal News Network",
+      "title": "New York Bill Would Raise AI Safety Regulations",
+      "summary": "One year after passing the landmark RAISE Act, a pair of New York lawmakers want the state to double down.",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/new-york-bill-would-raise-ai-safety-regulations/",
+      "source": "PYMNTS.com",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-10-30T02:15:47.000Z",
+      "published": "2026-10-30T15:54:30.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "10 小時前"
     }
   ],
   "errors": []
