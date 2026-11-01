@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-01T10:13:43.963Z",
-  "updatedLocal": "2026/11/1 18:13:43",
+  "updated": "2026-11-01T18:09:50.373Z",
+  "updatedLocal": "2026/11/2 02:09:50",
   "digest": null,
   "watch": [],
   "items": [
@@ -14,6 +14,17 @@
       "tag": "平台",
       "group": "gis",
       "published": "2026-10-29T19:51:04.000Z",
+      "why": null,
+      "ago": "3 天前"
+    },
+    {
+      "title": "Mapping human stories: A conversation with Esri cartographer Peter Atwood",
+      "summary": "Like many cartographers, Peter Atwood’s journey to mapmaking took a circuitous route: Long before he was designing maps for Esri, he was tracing clues about past civilizations through archaeological site maps and fieldwork.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/mapping-human-stories",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-10-29T19:45:24.000Z",
       "why": null,
       "ago": "3 天前"
     },
@@ -48,7 +59,7 @@
       "group": "ai",
       "published": "2026-10-30T23:34:28.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
@@ -62,6 +73,39 @@
       "ago": "2 天前"
     },
     {
+      "title": "Making it easier for websites to express AI training preferences",
+      "summary": "Why we’re supporting a common signal that lets website operators communicate their choices to multiple AI providers at once.",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-30T09:30:00.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "Community safety report and new protections for teens",
+      "summary": "ChatGPT is one of the world’s most widely used AI products, and we have invested in building some of the industry’s most advanced systems for detecting potential harm, reviewing concerning activity, and escalating credible threats.",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-30T09:00:00.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "Fair use benefits everyone",
+      "summary": "Authors, journalists, creators, academics, accessibility advocates, legal experts, librarians, economists and business leaders are voicing their support for the longstanding principle of fair use and its application to AI training.",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-30T00:00:00.000Z",
+      "why": null,
+      "ago": "3 天前"
+    },
+    {
       "title": "The US Midterms and Frontier Labs: AI Safety as a Political Instrument",
       "summary": "AI safety is increasingly entangled with corporate interests and US electoral politics, raising questions about independent oversight, evidence-based regulation and public accountability In September 2026, a former researcher at OpenAI and Anthropic resigned from the latter with an extraordinary warning.",
       "url": "https://www.orfonline.org/expert-speak/the-us-midterms-and-frontier-labs-ai-safety-as-a-political-instrument",
@@ -70,40 +114,7 @@
       "group": "ai",
       "published": "2026-10-31T11:25:03.000Z",
       "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Elizabeth Warren Slams Trump's Voluntary AI Safety Deal With Tech CEOs, Says Republicans Aren't Doing Eno",
-      "summary": "Markets & News Breaking headlines, the trading day, and the calendars that move it. Stocks & Sectors Research any ticker, then drill into sectors, ratings, and options.",
-      "url": "https://www.benzinga.com/markets/tech/26/10/62763251/elizabeth-warren-trump-ai-self-regulation",
-      "source": "Benzinga",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-31T06:11:51.000Z",
-      "why": null,
       "ago": "昨日"
-    },
-    {
-      "title": "New York Bill Would Raise AI Safety Regulations",
-      "summary": "One year after passing the landmark RAISE Act, a pair of New York lawmakers want the state to double down.",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/new-york-bill-would-raise-ai-safety-regulations/",
-      "source": "PYMNTS.com",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-30T15:54:30.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-      "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents built by aliens.",
-      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-10-30T15:00:10.000Z",
-      "why": null,
-      "ago": "2 天前"
     }
   ],
   "errors": []
