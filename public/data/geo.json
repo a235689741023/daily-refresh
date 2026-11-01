@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-01T01:18:17.387Z",
-  "updatedLocal": "2026/11/1 09:18:17",
+  "updated": "2026-11-01T10:13:43.963Z",
+  "updatedLocal": "2026/11/1 18:13:43",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-29T19:51:04.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "Brotli / Node.js Vulnerabilities",
@@ -51,6 +51,17 @@
       "ago": "昨日"
     },
     {
+      "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
+      "summary": "Today we are opening applications for the Anthropic Residency, our paid, fixed-term research program with placements lasting between six weeks and six months.",
+      "url": "https://alignment.anthropic.com/2026/anthropic-residency/",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-10-30T18:04:21.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
       "title": "The US Midterms and Frontier Labs: AI Safety as a Political Instrument",
       "summary": "AI safety is increasingly entangled with corporate interests and US electoral politics, raising questions about independent oversight, evidence-based regulation and public accountability In September 2026, a former researcher at OpenAI and Anthropic resigned from the latter with an extraordinary warning.",
       "url": "https://www.orfonline.org/expert-speak/the-us-midterms-and-frontier-labs-ai-safety-as-a-political-instrument",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-10-31T11:25:03.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Elizabeth Warren Slams Trump's Voluntary AI Safety Deal With Tech CEOs, Says Republicans Aren't Doing Eno",
@@ -70,7 +81,29 @@
       "group": "ai",
       "published": "2026-10-31T06:11:51.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "New York Bill Would Raise AI Safety Regulations",
+      "summary": "One year after passing the landmark RAISE Act, a pair of New York lawmakers want the state to double down.",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/new-york-bill-would-raise-ai-safety-regulations/",
+      "source": "PYMNTS.com",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-30T15:54:30.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents built by aliens.",
+      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
+      "group": "ai",
+      "published": "2026-10-30T15:00:10.000Z",
+      "why": null,
+      "ago": "2 天前"
     }
   ],
   "errors": []
