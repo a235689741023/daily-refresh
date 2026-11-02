@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-02T10:42:37.490Z",
-  "updatedLocal": "2026/11/2 18:42:37",
+  "updated": "2026-11-02T21:58:50.424Z",
+  "updatedLocal": "2026/11/3 05:58:50",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+      "summary": "Political observers are watching the Texas gubernatorial election for signs of an artificial intelligence data center backlash in the 2026 U.S. midterm elections on Tuesday, and prediction market traders see growing odds of the Democratic candidate pulling off an upset.",
+      "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-02T21:13:43.000Z",
+      "why": null,
+      "ago": "45 分鐘前"
+    },
+    {
+      "title": "Stock market after midterm elections: What S&P 500 history shows",
+      "summary": "Markets are sweating it out ahead of the midterm elections, but the event historically heralds strong performance for stocks — regardless of whether it's a red or blue wave, split decision, or status quo in Washington.",
+      "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-02T17:57:35.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
       "summary": "South Korean President Lee Jae Myung unveiled the country's largest ever budget on Monday, pledging to \"boldly invest in AI and future growth engines.\"",
@@ -15,95 +37,18 @@
       "group": null,
       "published": "2026-11-02T06:02:03.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "16 小時前"
     },
     {
-      "title": "The latest market wobble sees Citi giving up on this big tech trade",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-latest-market-wobble-sees-citi-giving-up-on-this-big-tech-trade-181b0dea?mod=mw_rss_topstories",
+      "title": "Wall Street’s most hated stocks are faring far better than its favorites",
+      "summary": "Wall Street’s most hated stocks are faring far better than its favorites Choose MarketWatch as a preferred source of financial news # Wall Street’s most hated stocks are faring far better than its favorites ## Highly rated stocks are underperforming their lower-rated rivals by a substantial margin Choose MarketWatch as a preferred source of financial news Highly rated stocks are struggling, while low-rated names outperform.",
+      "url": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-02T10:36:00.000Z",
+      "published": "2026-11-02T21:45:00.000Z",
       "why": null,
-      "ago": "7 分鐘前"
-    },
-    {
-      "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
-      "summary": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
-      "url": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-02T10:15:00.000Z",
-      "why": null,
-      "ago": "28 分鐘前"
-    },
-    {
-      "title": "5 celebrities who waited years to buy their dream homes",
-      "summary": "5 celebrities who waited years to buy their dream homes Choose MarketWatch as a preferred source of financial news # 5 celebrities who waited years to buy their dream homes ## A fairytale cottage or an Upper East Side apartment, sometimes you just gotta have it, no matter how long the wait.",
-      "url": "https://www.marketwatch.com/story/5-celebrities-who-waited-years-to-buy-their-dream-homes-f1551973?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-02T10:03:00.000Z",
-      "why": null,
-      "ago": "40 分鐘前"
-    },
-    {
-      "title": "Retired World Series champ Matt Holliday lists $11.6 million Arizona estate he bought months ago",
-      "summary": "Retired World Series champ Matt Holliday lists $11.6 million Arizona estate he bought months ago Choose MarketWatch as a preferred source of financial news # Retired World Series champ Matt Holliday lists $11.6 million Arizona estate he bought months ago ## A respiratory disease led him to move away from his Oklahoma dream home Choose MarketWatch as a preferred source of financial news Matt Holliday of the Colorado Rockies in 2018.",
-      "url": "https://www.marketwatch.com/story/retired-world-series-champ-matt-holliday-lists-11-6-million-arizona-estate-he-bought-months-ago-a48b6a9b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-02T09:58:00.000Z",
-      "why": null,
-      "ago": "45 分鐘前"
-    },
-    {
-      "title": "Tech stocks have made big V-shaped rebounds five times in 30 months — and now Deutsche Bank forecasts another bounce",
-      "summary": "Tech stocks have made big V-shaped rebounds five times in 30 months — and now Deutsche Bank forecasts another bounce Choose MarketWatch as a preferred source of financial news # Tech stocks have made big V-shaped rebounds five times in 30 months — and now Deutsche Bank forecasts another bounce ## Big Tech just lagged the S&P 500 by 16%.",
-      "url": "https://www.marketwatch.com/story/tech-stocks-have-made-big-v-shaped-rebounds-five-times-in-30-months-and-now-deutsche-bank-forecasts-another-bounce-0a552a62?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-02T09:47:00.000Z",
-      "why": null,
-      "ago": "56 分鐘前"
-    },
-    {
-      "title": "The election will be good news, regardless of outcome, says Morgan Stanley’s chief stock-market strategist",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-election-will-be-good-news-regardless-of-outcome-says-morgan-stanleys-chief-stock-market-strategist-ffa320ed?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-02T09:15:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-02T08:56:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Marine sniper turned macro strategist says this bull market has six to 12 months left. Here’s his playbook.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/marine-sniper-turned-macro-strategist-says-this-bull-market-has-six-to-12-months-left-heres-his-playbook-8b48ce6e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-02T07:25:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "14 分鐘前"
     },
     {
       "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
@@ -112,9 +57,64 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-02T03:23:00.000Z",
+      "published": "2026-11-02T21:35:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "24 分鐘前"
+    },
+    {
+      "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-02T21:30:00.000Z",
+      "why": null,
+      "ago": "29 分鐘前"
+    },
+    {
+      "title": "The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.",
+      "summary": "## The S&P 500’s forward price-to-earnings ratio is below its five-year and 10-year averages Choose MarketWatch as a preferred source of financial news If you had put your money in the S&P 500 at the end of May, you’d have made exactly 1 cent per share by now.",
+      "url": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-02T21:29:00.000Z",
+      "why": null,
+      "ago": "30 分鐘前"
+    },
+    {
+      "title": "Palantir earnings reveal a major AI turning point",
+      "summary": "Palantir earnings reveal a major AI turning point Choose MarketWatch as a preferred source of financial news # Palantir earnings reveal a major AI turning point ## For first time, the company’s U.S. commercial business brought in more money than the U.S. government segment in the third quarter Choose MarketWatch as a preferred source of financial news Palantir reported its first $2 billion revenue quarter in company history on Monday.",
+      "url": "https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-02T21:09:00.000Z",
+      "why": null,
+      "ago": "50 分鐘前"
+    },
+    {
+      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-02T21:00:00.000Z",
+      "why": null,
+      "ago": "59 分鐘前"
+    },
+    {
+      "title": "Chip stocks are suffering from a ‘crisis of confidence’ — but things aren’t as gloomy as they seem",
+      "summary": "Chip stocks are suffering from a ‘crisis of confidence’ — but things aren’t as gloomy as they seem Choose MarketWatch as a preferred source of financial news # Chip stocks are suffering from a ‘crisis of confidence’ — but things aren’t as gloomy as they seem ## Investors are worried about whether there will be sustained demand for chips, but one analyst notes that large tech companies are still spending heavily Choose MarketWatch as a preferred source of financial news Nvidia’s stock has fared better than some of its peers amid recent weakness in the chip trade, an analyst noted.",
+      "url": "https://www.marketwatch.com/story/chip-stocks-are-suffering-from-a-crisis-of-confidence-but-things-arent-as-gloomy-as-they-seem-6ed14ea9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-02T20:30:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
     }
   ],
   "errors": [

@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-02T10:42:37.490Z",
-  "updatedLocal": "2026/11/2 18:42:37",
+  "updated": "2026-11-02T21:58:50.424Z",
+  "updatedLocal": "2026/11/3 05:58:50",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,7 @@
       "group": "gis",
       "published": "2026-10-29T07:00:00.000Z",
       "why": null,
-      "ago": "4 天前"
-    },
-    {
-      "title": "Calcite Design System: What's New in 5.2",
-      "summary": "Learn all about the key updates in Calcite Design System recently released with 5.2 with the latest functionality offered since 5.1 (June 2026), including: Input-named components including Input , Input Number , and Input Text offer inline editing with a new property, which also adds “confirm” and “cancel” controls.",
-      "url": "https://www.esri.com/arcgis-blog/products/developers/announcements/calcite-design-system-whats-new-in-5-2",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-10-29T19:51:04.000Z",
-      "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
     },
     {
       "title": "Understanding the Subsurface in India’s Infrastructure Planning",
@@ -46,42 +35,64 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-01T23:04:01.000Z",
+      "published": "2026-11-02T21:19:06.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "40 分鐘前"
     },
     {
-      "title": "The agentic web is here",
-      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision.",
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "title": "Introducing the Grid Protectors Program",
+      "summary": "Launching a national program to help our future compute campuses support reliable, affordable electricity.",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-02T15:00:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "LifeVal",
+      "summary": "Measuring AI progress on the tasks that matter in everyday life. OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity.",
+      "url": "https://openai.com/index/lifeval",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-02T09:00:00.000Z",
+      "why": null,
+      "ago": "13 小時前"
+    },
+    {
+      "title": "Qodo builds context into AI code review with Codex",
+      "summary": "Qodo brings organizational context and codebase standards into Codex, helping developers catch P0 issues across repositories.",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-02T00:00:00.000Z",
+      "why": null,
+      "ago": "22 小時前"
+    },
+    {
+      "title": "Raising the quality of insights in agentic analytics",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization.",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
       "source": "MIT Tech Review",
       "tag": "趨勢",
       "group": "ai",
-      "published": "2026-11-02T09:35:19.000Z",
+      "published": "2026-11-02T17:00:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "5 小時前"
     },
     {
-      "title": "Beyond the Test Lab: Embedding Independent Oversight in AI Safety",
-      "summary": "As AI agents breach testing boundaries and bypass safeguards, embedded evaluators could strengthen independent oversight, bridge gaps between safety commitments and practice, and improve accountability for real-world risks As artificial intelligence (AI) systems become increasingly autonomous, ensuring consumer safety requires looking beyond their performance in controlled tests to how they behave in practice.",
-      "url": "https://www.orfonline.org/expert-speak/beyond-the-test-lab-embedding-independent-oversight-in-ai-safety",
-      "source": "orfonline.org",
-      "tag": "政策",
+      "title": "Stop counting tokens, start counting what ships",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors.",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-11-02T07:01:35.000Z",
+      "published": "2026-11-02T13:10:32.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "Digital compliance calendar 2027, AI Act, NIS2, DORA and CRA deadlines",
-      "summary": "In 2027 a European company faces two heavy deadlines.",
-      "url": "https://pasqualepillitteri.it/en/news/29268/digital-compliance-calendar-2027-ai-act-nis2-dora-cra",
-      "source": "Pasquale Pillitteri",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-11-01T20:03:16.000Z",
-      "why": null,
-      "ago": "15 小時前"
+      "ago": "9 小時前"
     }
   ],
   "errors": []
