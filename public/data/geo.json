@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-01T18:09:50.373Z",
-  "updatedLocal": "2026/11/2 02:09:50",
+  "updated": "2026-11-02T01:37:47.182Z",
+  "updatedLocal": "2026/11/2 09:37:47",
   "digest": null,
   "watch": [],
   "items": [
@@ -37,7 +37,7 @@
       "group": "gis",
       "published": "2026-10-29T07:00:00.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
       "title": "Understanding the Subsurface in India’s Infrastructure Planning",
@@ -48,18 +48,7 @@
       "group": "gis",
       "published": "2026-10-30T10:57:05.000Z",
       "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Automated Subtle Emergent Misalignment Research - Anthropic Alignment Science blog",
-      "summary": "Richard Qi, Monte MacDiarmid, Evan Hubinger Red-teaming by humans is a vital part of model safety testing, but it may struggle to keep up as models improve.",
-      "url": "https://alignment.anthropic.com/2026/automated-em-search/",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-30T23:34:28.000Z",
-      "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
@@ -68,42 +57,20 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-10-30T18:04:21.000Z",
+      "published": "2026-11-01T23:04:01.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 小時前"
     },
     {
-      "title": "Making it easier for websites to express AI training preferences",
-      "summary": "Why we’re supporting a common signal that lets website operators communicate their choices to multiple AI providers at once.",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "Digital compliance calendar 2027, AI Act, NIS2, DORA and CRA deadlines",
+      "summary": "In 2027 a European company faces two heavy deadlines.",
+      "url": "https://pasqualepillitteri.it/en/news/29268/digital-compliance-calendar-2027-ai-act-nis2-dora-cra",
+      "source": "Pasquale Pillitteri",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-10-30T09:30:00.000Z",
+      "published": "2026-11-01T20:03:16.000Z",
       "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Community safety report and new protections for teens",
-      "summary": "ChatGPT is one of the world’s most widely used AI products, and we have invested in building some of the industry’s most advanced systems for detecting potential harm, reviewing concerning activity, and escalating credible threats.",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-30T09:00:00.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Fair use benefits everyone",
-      "summary": "Authors, journalists, creators, academics, accessibility advocates, legal experts, librarians, economists and business leaders are voicing their support for the longstanding principle of fair use and its application to AI training.",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-10-30T00:00:00.000Z",
-      "why": null,
-      "ago": "3 天前"
+      "ago": "6 小時前"
     },
     {
       "title": "The US Midterms and Frontier Labs: AI Safety as a Political Instrument",
@@ -114,7 +81,18 @@
       "group": "ai",
       "published": "2026-10-31T11:25:03.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
+    },
+    {
+      "title": "Elizabeth Warren Slams Trump's Voluntary AI Safety Deal With Tech CEOs, Says Republicans Aren't Doing Eno",
+      "summary": null,
+      "url": "https://www.benzinga.com/markets/tech/26/10/62763251/elizabeth-warren-trump-ai-self-regulation",
+      "source": "Benzinga",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-10-31T06:11:51.000Z",
+      "why": null,
+      "ago": "2 天前"
     }
   ],
   "errors": []
