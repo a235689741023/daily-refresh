@@ -1,33 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-02T01:37:47.182Z",
-  "updatedLocal": "2026/11/2 09:37:47",
+  "updated": "2026-11-02T10:42:37.490Z",
+  "updatedLocal": "2026/11/2 18:42:37",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Calcite Design System: What's New in 5.2",
-      "summary": "Learn all about the key updates in Calcite Design System recently released with 5.2 with the latest functionality offered since 5.1 (June 2026), including: Input-named components including Input , Input Number , and Input Text offer inline editing with a new property, which also adds “confirm” and “cancel” controls.",
-      "url": "https://www.esri.com/arcgis-blog/products/developers/announcements/calcite-design-system-whats-new-in-5-2",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-10-29T19:51:04.000Z",
-      "why": null,
-      "ago": "3 天前"
-    },
-    {
-      "title": "Mapping human stories: A conversation with Esri cartographer Peter Atwood",
-      "summary": "Like many cartographers, Peter Atwood’s journey to mapmaking took a circuitous route: Long before he was designing maps for Esri, he was tracing clues about past civilizations through archaeological site maps and fieldwork.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/mapping-human-stories",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-10-29T19:45:24.000Z",
-      "why": null,
-      "ago": "3 天前"
-    },
     {
       "title": "Brotli / Node.js Vulnerabilities",
       "summary": "On October 22, 2026, Open AI security researchers announced a critical severity vulnerability in Google’s Brotli decoder, identified as CVE-2026-111497.",
@@ -36,6 +14,17 @@
       "tag": "平台",
       "group": "gis",
       "published": "2026-10-29T07:00:00.000Z",
+      "why": null,
+      "ago": "4 天前"
+    },
+    {
+      "title": "Calcite Design System: What's New in 5.2",
+      "summary": "Learn all about the key updates in Calcite Design System recently released with 5.2 with the latest functionality offered since 5.1 (June 2026), including: Input-named components including Input , Input Number , and Input Text offer inline editing with a new property, which also adds “confirm” and “cancel” controls.",
+      "url": "https://www.esri.com/arcgis-blog/products/developers/announcements/calcite-design-system-whats-new-in-5-2",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-10-29T19:51:04.000Z",
       "why": null,
       "ago": "4 天前"
     },
@@ -59,7 +48,29 @@
       "group": "ai",
       "published": "2026-11-01T23:04:01.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "The agentic web is here",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision.",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-11-02T09:35:19.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Beyond the Test Lab: Embedding Independent Oversight in AI Safety",
+      "summary": "As AI agents breach testing boundaries and bypass safeguards, embedded evaluators could strengthen independent oversight, bridge gaps between safety commitments and practice, and improve accountability for real-world risks As artificial intelligence (AI) systems become increasingly autonomous, ensuring consumer safety requires looking beyond their performance in controlled tests to how they behave in practice.",
+      "url": "https://www.orfonline.org/expert-speak/beyond-the-test-lab-embedding-independent-oversight-in-ai-safety",
+      "source": "orfonline.org",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-02T07:01:35.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "Digital compliance calendar 2027, AI Act, NIS2, DORA and CRA deadlines",
@@ -70,29 +81,7 @@
       "group": "ai",
       "published": "2026-11-01T20:03:16.000Z",
       "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "The US Midterms and Frontier Labs: AI Safety as a Political Instrument",
-      "summary": "AI safety is increasingly entangled with corporate interests and US electoral politics, raising questions about independent oversight, evidence-based regulation and public accountability In September 2026, a former researcher at OpenAI and Anthropic resigned from the latter with an extraordinary warning.",
-      "url": "https://www.orfonline.org/expert-speak/the-us-midterms-and-frontier-labs-ai-safety-as-a-political-instrument",
-      "source": "orfonline.org",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-31T11:25:03.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Elizabeth Warren Slams Trump's Voluntary AI Safety Deal With Tech CEOs, Says Republicans Aren't Doing Eno",
-      "summary": null,
-      "url": "https://www.benzinga.com/markets/tech/26/10/62763251/elizabeth-warren-trump-ai-self-regulation",
-      "source": "Benzinga",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-10-31T06:11:51.000Z",
-      "why": null,
-      "ago": "2 天前"
+      "ago": "15 小時前"
     }
   ],
   "errors": []
