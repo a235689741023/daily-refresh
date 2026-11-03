@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-03T10:33:46.187Z",
-  "updatedLocal": "2026/11/3 18:33:46",
+  "updated": "2026-11-03T19:52:08.302Z",
+  "updatedLocal": "2026/11/4 03:52:08",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Updated: Sustainability leadership moves",
+      "summary": "As corporate sustainability matures, some long-time leaders are leaving the profession, while others are tackling a broader set of responsibilities following reorganizations or layoffs.",
+      "url": "https://trellis.net/article/sustainability-leadership-moves/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-03T15:49:34.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "How a Chinese state-owned trader became the climate leader among ag giants",
       "summary": "Over the past 20 years, China has combined manufacturing might with industrial policy to dominate solar power and other climate technologies.",
@@ -15,18 +26,7 @@
       "group": null,
       "published": "2026-11-03T07:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "Why green jobs are resilient to AI substitution",
-      "summary": "Last month, I had a conversation with my daughter about what she wanted to do with her life.",
-      "url": "https://trellis.net/article/why-green-jobs-are-resilient-to-ai-substitution/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-02T07:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "13 小時前"
     },
     {
       "title": "One week left to register: How to prepare for the UK Sustainability Reporting Standards",
@@ -35,9 +35,31 @@
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-11-03T09:45:21.000Z",
+      "published": "2026-11-03T19:44:21.000Z",
       "why": null,
-      "ago": "48 分鐘前"
+      "ago": "8 分鐘前"
+    },
+    {
+      "title": "Half of retailers write off up to 40% of returns, research finds",
+      "summary": "Despite tightening EU regulations on circularity, new research has revealed that half of retailers write off, destroy or discard between 6-40% of returned items.",
+      "url": "https://www.edie.net/half-of-retailers-write-off-up-to-40-of-returns-research-finds/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-03T19:39:34.000Z",
+      "why": null,
+      "ago": "13 分鐘前"
+    },
+    {
+      "title": "COP31: Brazil unveils fossil fuel and deforestation Roadmaps ahead of summit",
+      "summary": "As first announced in Belém last year, the COP30 Presidency has now launched its long-awaited international Roadmaps to accelerate the energy transition and protect forests.",
+      "url": "https://www.edie.net/cop31-brazil-unveils-fossil-fuel-and-deforestation-roadmaps-ahead-of-summit/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-03T18:07:58.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "Apply now: Entries open for the edie Awards 2027",
@@ -46,75 +68,53 @@
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-11-03T08:32:41.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "NAO: Government bodies ‘still learning’ how to report climate-related risks and adaptation",
-      "summary": "Public bodies are still grappling with the basics of climate risk disclosure. The Treasury's new reporting rules aim for transparency, but the initial findings paint a less than uniform picture.",
-      "url": "https://www.edie.net/nao-government-bodies-still-learning-how-to-report-climate-related-risks-and-adaptation/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-02T14:38:02.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Amazon opens its first UK net-zero delivery unit",
-      "summary": "Amazon has opened its first net-zero delivery station in the UK, with the new £40m Stockton-on-Tees site constructed with emissions 20% lower than previous design principles.",
-      "url": "https://www.edie.net/amazon-opens-its-first-uk-net-zero-delivery-unit/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-02T12:01:27.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Interactive: Who wants what at the COP31 climate change summit",
-      "summary": "Delegates will soon gather in the Turkish resort city of Antalya for UN climate negotiations, against a backdrop of war , energy crisis and climate extremes .",
-      "url": "https://www.carbonbrief.org/interactive-who-wants-what-at-the-cop31-climate-change-summit",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-11-02T16:57:31.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "碳費調漲尚無共識 環團：下階段應調升至1200元加大減碳力道",
-      "summary": "環境部2日舉辦碳費審議會，會中提出「暫不調整」、「僅調一般費率」及「一般與優惠費率均調」三項方案，但討論最後未達成共識。氣候變遷署署長蔡玲儀會後受訪表示，委員要求環境部提更詳細的資訊，包括企業自主減量執行情形、高碳洩漏時程規劃等。",
-      "url": "https://e-info.org.tw/node/244028",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-11-03T03:14:19.000Z",
-      "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "全國首份租屋能源消費調查 租屋族「坪均用電」比自有宅高1.4倍",
-      "summary": "在外租屋，你會不會注意本月用了多少電？工研院綠能所10月20日發表全國首例「租賃住宅能源消費調查」，指出台灣有不少租屋族是直接繳電費給房東，且過半費率是由房東自訂，使租屋族甚至因此要少吹冷氣、縮短洗澡時間來省電。調查也發現，國內租賃住宅「單位面積」用電，是自有住宅的1.4倍。",
-      "url": "https://www.e-info.org.tw/node/244029",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-11-03T04:04:21.000Z",
-      "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "「有協議、缺經費」生物多樣性大會COP17閉幕 近半保育進度落後",
-      "summary": "聯合國《生物多樣性公約》大會（COP17）上週六（10月31日）於亞美尼亞首府葉里凡閉幕，比原定日期晚了一天。會中首度盤點各國的保育進度，並通過「葉里凡路徑」（Yerevan Pathway），以加強行動，然而，資金短缺、進度落後等問題均未能解決。",
-      "url": "https://www.e-info.org.tw/node/244030",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-11-03T06:39:30.000Z",
+      "published": "2026-11-03T15:32:41.000Z",
       "why": null,
       "ago": "4 小時前"
+    },
+    {
+      "title": "More money, wrong direction? The World Bank’s climate finance dilemma",
+      "summary": "With the Annual Meetings of the World Bank and IMF wrapped up, Inès Urman, climate campaigner at the Environmental Investigation Agency (EIA), argues that mobilising more private finance is not enough.",
+      "url": "https://www.edie.net/more-money-wrong-direction-the-world-banks-climate-finance-dilemma/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-03T11:35:55.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Report: SMEs face $1trn green finance gap",
+      "summary": "Globally, small businesses require more than $1.1trn in funding to help decarbonise and become more sustainable, but 80% of organisations that have explored grants and investment options do not apply.",
+      "url": "https://www.edie.net/report-smes-face-1trn-green-finance-gap/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-03T10:43:44.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "Watch on-demand: How AI can unlock investment in climate solutions",
+      "summary": "Discover how businesses can use AI, market intelligence and expert insight to identify credible climate investment opportunities, strengthen financial business cases and turn sustainability ambitions into funded action, with this free webinar, available to watch on-demand.",
+      "url": "https://www.edie.net/on-demand-webinar-how-ai-can-unlock-investment-in-climate-solutions/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-03T10:00:49.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
+    {
+      "title": "WEBINAR ON THURSDAY: What SMEs need to know before investing in solar",
+      "summary": "Taking place on 5 November, this upcoming webinar will explore how SMEs can overcome the financial and practical barriers to onsite solar and maximise the return on their investment.",
+      "url": "https://www.edie.net/speakers-announced-what-smes-need-to-know-before-investing-in-solar/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-03T10:00:22.000Z",
+      "why": null,
+      "ago": "10 小時前"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-03T10:33:46.187Z",
-  "updatedLocal": "2026/11/3 18:33:46",
+  "updated": "2026-11-03T19:52:08.302Z",
+  "updatedLocal": "2026/11/4 03:52:08",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-29T07:00:00.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
       "title": "Mapping human stories: A conversation with Esri cartographer Peter Atwood",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-11-03T04:43:45.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
@@ -57,9 +57,20 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-03T09:21:04.000Z",
+      "published": "2026-11-03T18:32:28.000Z",
       "why": null,
       "ago": "1 小時前"
+    },
+    {
+      "title": "Accelerating engineering for the physical world",
+      "summary": "Today, we’re sharing advances in how OpenAI models help engineers design, simulate, and build physical products.",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-03T12:00:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Heimstaden is changing residential real estate management with AI",
@@ -70,29 +81,7 @@
       "group": "ai",
       "published": "2026-11-03T08:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Scaling Git at OpenAI",
-      "summary": "Building agentic-scale scale source control while investing in the Git ecosystem. Over the past year, the size and demands on our monorepo have increased at a staggering pace.",
-      "url": "https://openai.com/index/scaling-git-at-openai",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-02T15:30:00.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Introducing the Grid Protectors Program",
-      "summary": "Launching a national program to help our future compute campuses support reliable, affordable electricity.",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-02T15:00:00.000Z",
-      "why": null,
-      "ago": "20 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Rewarding defenders with bigger bug bounties",
@@ -103,7 +92,18 @@
       "group": "ai",
       "published": "2026-11-02T18:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "We’re planning our next internal security sprint at OpenAI, bringing new researchers and security partners together with our own teams to use our models to test and strengthen our systems.",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-02T18:00:00.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []
