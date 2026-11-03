@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-02T21:58:50.424Z",
-  "updatedLocal": "2026/11/3 05:58:50",
+  "updated": "2026-11-03T03:31:57.622Z",
+  "updatedLocal": "2026/11/3 11:31:57",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-02T07:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "NAO: Government bodies ‘still learning’ how to report climate-related risks and adaptation",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-11-02T14:38:02.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Amazon opens its first UK net-zero delivery unit",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-11-02T12:01:27.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "One week left to register: How to prepare for the UK Sustainability Reporting Standards",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-11-02T11:45:21.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Biodiversity Net Gain mandate enters into force for Nationally Significant Infrastructure Projects",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-11-02T10:28:59.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Watch on-demand: How AI can unlock investment in climate solutions",
@@ -70,29 +70,7 @@
       "group": null,
       "published": "2026-11-02T10:00:49.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Green jobs and apprenticeships considered ‘AI proof’ compared to wider workforce",
-      "summary": "Green jobs and apprenticeships are harder for Artificial Intelligence (AI) to replace compared to the rest of the workforce, with research finding that just 4.5% of green apprenticeships are linked to roles open to AI substitution, compared with 27% of apprenticeships across England.",
-      "url": "https://www.edie.net/green-jobs-and-apprenticeships-considered-ai-proof-compared-to-wider-workforce/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-02T00:01:42.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Businesses still treating modern slavery as a reporting compliance exercise, research finds",
-      "summary": "Research from Hult International Business School has found that 90% of businesses believe that modern slavery is occurring within their supply chains.",
-      "url": "https://www.edie.net/businesses-still-treating-modern-slavery-as-a-reporting-compliance-exercise-research-finds/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-02T00:01:22.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Interactive: Who wants what at the COP31 climate change summit",
@@ -103,18 +81,40 @@
       "group": null,
       "published": "2026-11-02T16:57:31.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "台灣新聞 國際新聞 編輯直送 系列報導 事實查核 你來報報 新聞懶人包 年度回顧 Taiwan News",
-      "summary": "10月底，台北街頭舉行一場別開生面的賽事，12支隊伍遊走鬧區，迅速在花圃、小巷、渠蓋撿起垃圾，再分類入袋，參賽者彷彿開啟了全方位雷達，掃描平常不以為意，卻暗藏垃圾的城市角落。這是來自日本、將撿垃圾變成競賽運動的「SPOGOMI」，賽事最終收集約65公斤垃圾，包括破萬個煙蒂。",
+      "summary": "環境部2日舉辦碳費審議會，會中提出「暫不調整」、「僅調一般費率」及「一般與優惠費率均調」三項方案，但討論最後未達成共識。氣候變遷署署長蔡玲儀會後受訪表示，委員要求環境部提更詳細的資訊，包括企業自主減量執行情形、高碳洩漏時程規劃等。",
       "url": "https://www.e-info.org.tw/category/77?page\\=1120",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
       "published": "2026-11-02T08:37:31.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "19 小時前"
+    },
+    {
+      "title": "碳費調漲尚無共識 環團：下階段應調升至1200元加大減碳力道",
+      "summary": "環境部2日舉辦碳費審議會，會中提出「暫不調整」、「僅調一般費率」及「一般與優惠費率均調」三項方案，但討論最後未達成共識。氣候變遷署署長蔡玲儀會後受訪表示，委員要求環境部提更詳細的資訊，包括企業自主減量執行情形、高碳洩漏時程規劃等。",
+      "url": "https://e-info.org.tw/node/244028",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-03T03:14:19.000Z",
+      "why": null,
+      "ago": "18 分鐘前"
+    },
+    {
+      "title": "高雄公告鋼鐵業空污加嚴標準 明年4月上路年減1379噸污染物",
+      "summary": "高雄市10月初公告「高雄市鋼鐵業空氣污染物排放標準」新制，預計2027年4月上路，實施後預估每年可削減1379公噸的空氣污染物。地球公民基金會呼籲，業者應確實提出改善計畫，高雄市政府也應藉此機會加嚴審查，確保空污排放與碳排放扣合國家長期目標。",
+      "url": "https://e-info.org.tw/node/244026",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-02T07:14:52.000Z",
+      "why": null,
+      "ago": "20 小時前"
     }
   ],
   "errors": []

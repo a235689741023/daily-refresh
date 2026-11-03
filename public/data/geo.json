@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-02T21:58:50.424Z",
-  "updatedLocal": "2026/11/3 05:58:50",
+  "updated": "2026-11-03T03:31:57.622Z",
+  "updatedLocal": "2026/11/3 11:31:57",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-10-30T10:57:05.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
       "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
@@ -35,9 +35,20 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-02T21:19:06.000Z",
+      "published": "2026-11-03T03:18:10.000Z",
       "why": null,
-      "ago": "40 分鐘前"
+      "ago": "14 分鐘前"
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "summary": "Building agentic-scale scale source control while investing in the Git ecosystem. Over the past year, the size and demands on our monorepo have increased at a staggering pace.",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-02T15:30:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
     },
     {
       "title": "Introducing the Grid Protectors Program",
@@ -48,7 +59,29 @@
       "group": "ai",
       "published": "2026-11-02T15:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "13 小時前"
+    },
+    {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "We’re raising rewards in OpenAI’s Security Bug Bounty program to further encourage independent researchers to pursue vulnerabilities in OpenAI software that our testing may have missed.",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-02T18:00:00.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "We’re planning our next internal security sprint at OpenAI, bringing new researchers and security partners together with our own teams to use our models to test and strengthen our systems.",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-02T18:00:00.000Z",
+      "why": null,
+      "ago": "10 小時前"
     },
     {
       "title": "LifeVal",
@@ -59,40 +92,7 @@
       "group": "ai",
       "published": "2026-11-02T09:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Qodo builds context into AI code review with Codex",
-      "summary": "Qodo brings organizational context and codebase standards into Codex, helping developers catch P0 issues across repositories.",
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-02T00:00:00.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Raising the quality of insights in agentic analytics",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization.",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-11-02T17:00:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Stop counting tokens, start counting what ships",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors.",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-11-02T13:10:32.000Z",
-      "why": null,
-      "ago": "9 小時前"
+      "ago": "19 小時前"
     }
   ],
   "errors": []
