@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-03T03:31:57.622Z",
-  "updatedLocal": "2026/11/3 11:31:57",
+  "updated": "2026-11-03T10:33:46.187Z",
+  "updatedLocal": "2026/11/3 18:33:46",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,6 +18,17 @@
       "ago": "5 天前"
     },
     {
+      "title": "Mapping human stories: A conversation with Esri cartographer Peter Atwood",
+      "summary": "Like many cartographers, Peter Atwood’s journey to mapmaking took a circuitous route: Long before he was designing maps for Esri, he was tracing clues about past civilizations through archaeological site maps and fieldwork.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/mapping-human-stories",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-10-29T19:45:24.000Z",
+      "why": null,
+      "ago": "5 天前"
+    },
+    {
       "title": "Understanding the Subsurface in India’s Infrastructure Planning",
       "summary": "Understanding the Subsurface in India’s Infrastructure Planning # Understanding the Subsurface in India’s Infrastructure Planning **Dr. Sanjay Rana, Managing Director, PARSAN Overseas Pvt.",
       "url": "https://geospatialworld.net/video-interviews/understanding-the-subsurface-in-indias-infrastructure-planning/",
@@ -29,15 +40,37 @@
       "ago": "4 天前"
     },
     {
+      "title": "Progress on provable inference for large language models",
+      "summary": "Roy Rinberg (Anthropic), Alex Allain (Anthropic); Alessandro Chiesa (EPFL, StarkWare), Miranda Christ (MIT, RESI), Rahul Dalal (Anthropic STEM Fellows Program, Succinct), Giacomo Fenzi (EPFL), Ben Mayer (Anthropic Fellows Program, MIT), Guy Weissenberg (EPFL) When you talk to a friend in person, you have many ways to know it is really them: you can see them, hear them, shake their hand.",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-03T04:43:45.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
       "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
       "summary": "Today we are opening applications for the Anthropic Residency, our paid, fixed-term research program with placements lasting between six weeks and six months.",
       "url": "https://alignment.anthropic.com/2026/anthropic-residency/",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-03T03:18:10.000Z",
+      "published": "2026-11-03T09:21:04.000Z",
       "why": null,
-      "ago": "14 分鐘前"
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "summary": "From rethinking how homes are rented out to building AI-powered property operations, Heimstaden is using OpenAI to improve how it manages homes.",
+      "url": "https://openai.com/index/heimstaden",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-03T08:00:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "Scaling Git at OpenAI",
@@ -48,7 +81,7 @@
       "group": "ai",
       "published": "2026-11-02T15:30:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Introducing the Grid Protectors Program",
@@ -59,7 +92,7 @@
       "group": "ai",
       "published": "2026-11-02T15:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Rewarding defenders with bigger bug bounties",
@@ -70,29 +103,7 @@
       "group": "ai",
       "published": "2026-11-02T18:00:00.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "summary": "We’re planning our next internal security sprint at OpenAI, bringing new researchers and security partners together with our own teams to use our models to test and strengthen our systems.",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-02T18:00:00.000Z",
-      "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "LifeVal",
-      "summary": "Measuring AI progress on the tasks that matter in everyday life. OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity.",
-      "url": "https://openai.com/index/lifeval",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-02T09:00:00.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "17 小時前"
     }
   ],
   "errors": []
