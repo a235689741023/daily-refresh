@@ -1,21 +1,21 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-04T02:29:16.543Z",
-  "updatedLocal": "2026/11/4 10:29:16",
+  "updated": "2026-11-04T10:38:13.577Z",
+  "updatedLocal": "2026/11/4 18:38:13",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
-      "summary": "The artificial intelligence infrastructure buildout will need more equity financing as lenders become increasingly exposed to the companies driving the buildout, Blackstone President Jon Gray said Tuesday.",
-      "url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
+      "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+      "summary": "Treasury yields moved lower on Wednesday as investors sought shelter from a sell-off in equity futures sparked by potential big victories from Democrats in the U.S. midterm elections.",
+      "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-03T06:46:36.000Z",
+      "published": "2026-11-04T10:02:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "36 分鐘前"
     },
     {
       "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-11-03T13:33:11.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Stock market after midterm elections: What S&P 500 history shows",
@@ -37,7 +37,18 @@
       "group": null,
       "published": "2026-11-03T18:21:05.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
+    },
+    {
+      "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
+      "summary": "The artificial intelligence infrastructure buildout will need more equity financing as lenders become increasingly exposed to the companies driving the buildout, Blackstone President Jon Gray said Tuesday.",
+      "url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-03T06:46:36.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
@@ -48,18 +59,51 @@
       "group": null,
       "published": "2026-11-03T19:15:21.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
-      "title": "Australia hikes rates to 18-year high to fight inflation",
-      "summary": "Australia's central bank raised its benchmark cash rate by 25 basis points to 4.85% on Tuesday, the highest level since November 2008.",
-      "url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
+      "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
+      "summary": "## ‘I also want to preserve the opportunity to leave a meaningful legacy for my two sons’ Choose MarketWatch as a preferred source of financial news I am 55, newly retired and wrestling with a question at the intersection of financial prudence, personal fulfillment and human mortality: Is it foolish to spend a substantial portion of my hard-earned wealth rewarding myself with a luxury vehicle?",
+      "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
       "group": null,
-      "published": "2026-11-03T03:46:20.000Z",
+      "published": "2026-11-04T10:15:00.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "23 分鐘前"
+    },
+    {
+      "title": "L.A. home once owned by Mike Tyson’s former wife, actress Robin Givens, is on the market for $3.5 million",
+      "summary": "## The home is a serene escape with expansive windows that let in natural light. Choose MarketWatch as a preferred source of financial news Actress Robin Givens’ former Hollywood Hills, Calif.",
+      "url": "https://www.marketwatch.com/story/l-a-home-once-owned-by-mike-tysons-former-wife-actress-robin-givens-is-on-the-market-for-3-5-million-0b9e11a1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-04T10:03:00.000Z",
+      "why": null,
+      "ago": "35 分鐘前"
+    },
+    {
+      "title": "Jordyn Woods on her baby plans with Karl-Anthony Towns after buying $14 million home",
+      "summary": "Jordyn Woods on her baby plans with Karl-Anthony Towns after buying $14 million home Choose MarketWatch as a preferred source of financial news # Jordyn Woods on her baby plans with Karl-Anthony Towns after buying $14 million home ## The couple’s L.A.",
+      "url": "https://www.marketwatch.com/story/jordyn-woods-on-her-baby-plans-with-karl-anthony-towns-after-buying-14-million-home-e864ce5a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-04T09:58:00.000Z",
+      "why": null,
+      "ago": "40 分鐘前"
+    },
+    {
+      "title": "Beleaguered Novo offers relief to investors, thanks to Wegovy pill",
+      "summary": "Beleaguered Novo offers relief to investors, thanks to Wegovy pill Choose MarketWatch as a preferred source of financial news # Beleaguered Novo offers relief to investors, thanks to Wegovy pill Choose MarketWatch as a preferred source of financial news Novo Nordisk launched a pill version of Wegovy alongside the injectable version earlier this year.",
+      "url": "https://www.marketwatch.com/story/beleaguered-novo-offers-relief-to-investors-thanks-to-wegovy-pill-422c251b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-04T09:41:00.000Z",
+      "why": null,
+      "ago": "57 分鐘前"
     },
     {
       "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
@@ -68,53 +112,9 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-04T01:16:00.000Z",
+      "published": "2026-11-04T09:30:00.000Z",
       "why": null,
       "ago": "1 小時前"
-    },
-    {
-      "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-04T01:12:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "What analysts are telling us while Apple’s stock falls after earnings report",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-03T22:48:00.000Z",
-      "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-03T22:45:00.000Z",
-      "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "AI’s control over the bond market is growing — even rivaling war and elections",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-03T22:06:00.000Z",
-      "why": null,
-      "ago": "4 小時前"
     }
   ],
   "errors": [

@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-04T02:29:16.543Z",
-  "updatedLocal": "2026/11/4 10:29:16",
+  "updated": "2026-11-04T10:38:13.577Z",
+  "updatedLocal": "2026/11/4 18:38:13",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-04T00:37:18.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Updated: Sustainability leadership moves",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-11-03T15:49:34.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "How a Chinese state-owned trader became the climate leader among ag giants",
@@ -37,7 +37,18 @@
       "group": null,
       "published": "2026-11-03T07:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Can finance keep pace with the push to electrify the global economy?",
+      "summary": "New analysis has warned that, while the global shift away from fossil fuels is accelerating, the investment needed to make it happen is not keeping pace.",
+      "url": "https://www.edie.net/can-finance-keep-pace-with-the-push-to-electrify-the-global-economy/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-04T06:00:38.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "One week left to register: How to prepare for the UK Sustainability Reporting Standards",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-11-03T19:44:21.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Half of retailers write off up to 40% of returns, research finds",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-11-03T19:39:34.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "COP31: Brazil unveils fossil fuel and deforestation Roadmaps ahead of summit",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-11-03T18:07:58.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Apply now: Entries open for the edie Awards 2027",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-11-03T15:32:41.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "More money, wrong direction? The World Bank’s climate finance dilemma",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-11-03T11:35:55.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Report: SMEs face $1trn green finance gap",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-11-03T10:43:44.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Watch on-demand: How AI can unlock investment in climate solutions",
-      "summary": "Discover how businesses can use AI, market intelligence and expert insight to identify credible climate investment opportunities, strengthen financial business cases and turn sustainability ambitions into funded action, with this free webinar, available to watch on-demand.",
-      "url": "https://www.edie.net/on-demand-webinar-how-ai-can-unlock-investment-in-climate-solutions/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-03T10:00:49.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "24 小時前"
     }
   ],
   "errors": []
