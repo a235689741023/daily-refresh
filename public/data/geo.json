@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-04T10:38:13.577Z",
-  "updatedLocal": "2026/11/4 18:38:13",
+  "updated": "2026-11-04T20:06:33.765Z",
+  "updatedLocal": "2026/11/5 04:06:33",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-10-29T07:00:00.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
     },
     {
       "title": "Understanding the Subsurface in India’s Infrastructure Planning",
@@ -35,53 +35,53 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-04T09:23:24.000Z",
+      "published": "2026-11-04T18:25:44.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary": "Expanding Codex’s tools for building, understanding, and reviewing code. Today we're announcing that OpenAI will acquire Pierre Computer Company, Inc ⁠ (opens in a new window) .",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-04T14:30:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary": "Building on the availability of Daybreak models on Amazon Bedrock, GPT‑5.6 Cyber is now available to approved customers in AWS GovCloud (US-East) ⁠ (opens in a new window) through Daybreak Red.",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-04T07:00:00.000Z",
+      "why": null,
+      "ago": "13 小時前"
+    },
+    {
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech's largest AI buildouts.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-11-04T18:50:55.000Z",
       "why": null,
       "ago": "1 小時前"
     },
     {
-      "title": "Accelerating engineering for the physical world",
-      "summary": "Today, we’re sharing advances in how OpenAI models help engineers design, simulate, and build physical products.",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "Securing the agentic enterprise with data lineage",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes.",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-11-03T12:00:00.000Z",
+      "published": "2026-11-04T13:00:00.000Z",
       "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "summary": "Cisco combines network intelligence and OpenAI models to build more adaptive defenses.",
-      "url": "https://openai.com/index/cisco-cyber",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-03T08:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "summary": "From rethinking how homes are rented out to building AI-powered property operations, Heimstaden is using OpenAI to improve how it manages homes.",
-      "url": "https://openai.com/index/heimstaden",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-03T08:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Progress on provable inference for large language models",
-      "summary": "Roy Rinberg (Anthropic), Alex Allain (Anthropic); Alessandro Chiesa (EPFL, StarkWare), Miranda Christ (MIT, RESI), Rahul Dalal (Anthropic STEM Fellows Program, Succinct), Giacomo Fenzi (EPFL), Ben Mayer (Anthropic Fellows Program, MIT), Guy Weissenberg (EPFL) When you talk to a friend in person, you have many ways to know it is really them: you can see them, hear them, shake their hand.",
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-03T04:43:45.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "7 小時前"
     },
     {
       "title": "Agentic cheminformatics with Google Antigravity",
@@ -92,7 +92,7 @@
       "group": "ai",
       "published": "2026-11-03T17:01:49.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

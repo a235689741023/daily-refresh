@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-04T10:38:13.577Z",
-  "updatedLocal": "2026/11/4 18:38:13",
+  "updated": "2026-11-04T20:06:33.765Z",
+  "updatedLocal": "2026/11/5 04:06:33",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Updated: Sustainability tools to use in 2026",
+      "summary": "Welcome to the Trellis roundup of new products and services for sustainability professionals, as chosen by our editorial team.",
+      "url": "https://trellis.net/article/corporate-sustainability-tools-to-use/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-04T14:58:43.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
     {
       "title": "Updated: Sustainable AI tools, frameworks and best practices",
       "summary": "Sustainability professionals are scrambling to understand how AI adoption will impact environmental goals.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-11-04T00:37:18.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Updated: Sustainability leadership moves",
@@ -26,18 +37,73 @@
       "group": null,
       "published": "2026-11-03T15:49:34.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "How a Chinese state-owned trader became the climate leader among ag giants",
-      "summary": "Over the past 20 years, China has combined manufacturing might with industrial policy to dominate solar power and other climate technologies.",
-      "url": "https://trellis.net/article/cofco-cargill-ag-traders-sustainability/",
-      "source": "Trellis",
+      "title": "TWO WEEKS TO GO: Free masterclass on turning climate risk insights into adaptation action",
+      "summary": "This webinar, held in partnership with SmartResilience on 19 November, will explore why and how leading organisations are moving from simply measuring risk to actively adapting in order to protect their operations, assets and supply chains.",
+      "url": "https://www.edie.net/next-month-masterclass-on-turning-climate-risk-insights-into-adaptation/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-11-03T07:00:00.000Z",
+      "published": "2026-11-04T14:31:13.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Government unveils Energy Independence Bill to reform UK energy system",
+      "summary": "The UK Government has introduced its Energy Independence Bill to Parliament, setting out reforms to energy bills, consumer protection, home efficiency and the development of renewable power.",
+      "url": "https://www.edie.net/government-unveils-energy-independence-bill-to-reform-uk-energy-system/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-04T14:11:39.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Electricity demand from cooling systems to surge in the next decade",
+      "summary": "Electricity demand from cooling systems will increase by 80% over the next 15 years, accounting for more than double the aggregate demand of either electric vehicles or data centres.",
+      "url": "https://www.edie.net/electricity-demand-from-cooling-systems-to-surge-in-the-next-decade/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-04T13:30:45.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Everything you need to know about COP31",
+      "summary": "The 31st Conference of the Parties (COP31) to the United Nations Framework Convention on Climate Change (UNFCCC) commences next week (9 November).",
+      "url": "https://www.edie.net/everything-you-need-to-know-about-cop31/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-04T11:30:47.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "Watch on-demand: How AI can unlock investment in climate solutions",
+      "summary": "Discover how businesses can use AI, market intelligence and expert insight to identify credible climate investment opportunities, strengthen financial business cases and turn sustainability ambitions into funded action, with this free webinar, available to watch on-demand.",
+      "url": "https://www.edie.net/on-demand-webinar-how-ai-can-unlock-investment-in-climate-solutions/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-04T10:00:49.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
+    {
+      "title": "One week left to register: How to prepare for the UK Sustainability Reporting Standards",
+      "summary": "This webinar, hosted in partnership with Simply Sustainable on 10 November, will explore how businesses can prepare for the UK Sustainability Reporting Standards (UK SRS), understand their current level of readiness and turn gaps into a practical implementation plan.",
+      "url": "https://www.edie.net/free-webinar-how-to-prepare-for-the-uk-srs/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-04T06:44:21.000Z",
+      "why": null,
+      "ago": "13 小時前"
     },
     {
       "title": "Can finance keep pace with the push to electrify the global economy?",
@@ -48,73 +114,7 @@
       "group": null,
       "published": "2026-11-04T06:00:38.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "One week left to register: How to prepare for the UK Sustainability Reporting Standards",
-      "summary": "This webinar, hosted in partnership with Simply Sustainable on 10 November, will explore how businesses can prepare for the UK Sustainability Reporting Standards (UK SRS), understand their current level of readiness and turn gaps into a practical implementation plan.",
-      "url": "https://www.edie.net/free-webinar-how-to-prepare-for-the-uk-srs/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-03T19:44:21.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Half of retailers write off up to 40% of returns, research finds",
-      "summary": "Despite tightening EU regulations on circularity, new research has revealed that half of retailers write off, destroy or discard between 6-40% of returned items.",
-      "url": "https://www.edie.net/half-of-retailers-write-off-up-to-40-of-returns-research-finds/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-03T19:39:34.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "COP31: Brazil unveils fossil fuel and deforestation Roadmaps ahead of summit",
-      "summary": "As first announced in Belém last year, the COP30 Presidency has now launched its long-awaited international Roadmaps to accelerate the energy transition and protect forests.",
-      "url": "https://www.edie.net/cop31-brazil-unveils-fossil-fuel-and-deforestation-roadmaps-ahead-of-summit/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-03T18:07:58.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Apply now: Entries open for the edie Awards 2027",
-      "summary": "The UK’s largest corporate sustainability awards scheme is celebrating its 20th year with a restructured programme, built around three pillars and new categories including AI, water and adaptation.",
-      "url": "https://www.edie.net/apply-now-entries-open-for-the-edie-awards-2027/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-03T15:32:41.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "More money, wrong direction? The World Bank’s climate finance dilemma",
-      "summary": "With the Annual Meetings of the World Bank and IMF wrapped up, Inès Urman, climate campaigner at the Environmental Investigation Agency (EIA), argues that mobilising more private finance is not enough.",
-      "url": "https://www.edie.net/more-money-wrong-direction-the-world-banks-climate-finance-dilemma/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-03T11:35:55.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Report: SMEs face $1trn green finance gap",
-      "summary": "Globally, small businesses require more than $1.1trn in funding to help decarbonise and become more sustainable, but 80% of organisations that have explored grants and investment options do not apply.",
-      "url": "https://www.edie.net/report-smes-face-1trn-green-finance-gap/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-03T10:43:44.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "14 小時前"
     }
   ],
   "errors": []

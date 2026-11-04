@@ -1,32 +1,21 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-04T10:38:13.577Z",
-  "updatedLocal": "2026/11/4 18:38:13",
+  "updated": "2026-11-04T20:06:33.765Z",
+  "updatedLocal": "2026/11/5 04:06:33",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
-      "summary": "Treasury yields moved lower on Wednesday as investors sought shelter from a sell-off in equity futures sparked by potential big victories from Democrats in the U.S. midterm elections.",
+      "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+      "summary": "The 10-year Treasury yield fell on Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections and oil prices pulled back.",
       "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-04T10:02:00.000Z",
+      "published": "2026-11-04T17:11:00.000Z",
       "why": null,
-      "ago": "36 分鐘前"
-    },
-    {
-      "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-      "summary": "Political observers are watching the Texas gubernatorial election for signs of an artificial intelligence data center backlash in the 2026 U.S. midterm elections on Tuesday, and prediction market traders see growing odds of the Democratic candidate pulling off an upset.",
-      "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-03T13:33:11.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "3 小時前"
     },
     {
       "title": "Stock market after midterm elections: What S&P 500 history shows",
@@ -37,84 +26,95 @@
       "group": null,
       "published": "2026-11-03T18:21:05.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
-      "summary": "The artificial intelligence infrastructure buildout will need more equity financing as lenders become increasingly exposed to the companies driving the buildout, Blackstone President Jon Gray said Tuesday.",
-      "url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-03T06:46:36.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
-      "summary": "Job openings surged in September, as did the number of workers who quit their positions, the Bureau of Labor Statistics reported Tuesday, while hiring also rose and layoffs dropped.",
-      "url": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
+      "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+      "summary": "The electoral sweep by Democrats on Tuesday night injects a new, unstable dynamic into the single biggest political risk to financial markets in the coming year: the debt limit .",
+      "url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-11-03T19:15:21.000Z",
+      "published": "2026-11-04T17:32:26.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
-      "summary": "## ‘I also want to preserve the opportunity to leave a meaningful legacy for my two sons’ Choose MarketWatch as a preferred source of financial news I am 55, newly retired and wrestling with a question at the intersection of financial prudence, personal fulfillment and human mortality: Is it foolish to spend a substantial portion of my hard-earned wealth rewarding myself with a luxury vehicle?",
-      "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
+      "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
+      "summary": "Private sector job growth held steady in October, with gains spread across sectors, as the labor market showed fresh signs of stabilization, ADP reported Wednesday.",
+      "url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-11-04T10:15:00.000Z",
+      "published": "2026-11-04T13:49:48.000Z",
       "why": null,
-      "ago": "23 分鐘前"
+      "ago": "6 小時前"
     },
     {
-      "title": "L.A. home once owned by Mike Tyson’s former wife, actress Robin Givens, is on the market for $3.5 million",
-      "summary": "## The home is a serene escape with expansive windows that let in natural light. Choose MarketWatch as a preferred source of financial news Actress Robin Givens’ former Hollywood Hills, Calif.",
-      "url": "https://www.marketwatch.com/story/l-a-home-once-owned-by-mike-tysons-former-wife-actress-robin-givens-is-on-the-market-for-3-5-million-0b9e11a1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
+      "title": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
+      "summary": "Inflation in the euro area jumped to a three-year high of 4% in October, a flash estimate showed on Wednesday.",
+      "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-11-04T10:03:00.000Z",
+      "published": "2026-11-04T10:47:30.000Z",
       "why": null,
-      "ago": "35 分鐘前"
+      "ago": "9 小時前"
     },
     {
-      "title": "Jordyn Woods on her baby plans with Karl-Anthony Towns after buying $14 million home",
-      "summary": "Jordyn Woods on her baby plans with Karl-Anthony Towns after buying $14 million home Choose MarketWatch as a preferred source of financial news # Jordyn Woods on her baby plans with Karl-Anthony Towns after buying $14 million home ## The couple’s L.A.",
-      "url": "https://www.marketwatch.com/story/jordyn-woods-on-her-baby-plans-with-karl-anthony-towns-after-buying-14-million-home-e864ce5a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-04T09:58:00.000Z",
-      "why": null,
-      "ago": "40 分鐘前"
-    },
-    {
-      "title": "Beleaguered Novo offers relief to investors, thanks to Wegovy pill",
-      "summary": "Beleaguered Novo offers relief to investors, thanks to Wegovy pill Choose MarketWatch as a preferred source of financial news # Beleaguered Novo offers relief to investors, thanks to Wegovy pill Choose MarketWatch as a preferred source of financial news Novo Nordisk launched a pill version of Wegovy alongside the injectable version earlier this year.",
-      "url": "https://www.marketwatch.com/story/beleaguered-novo-offers-relief-to-investors-thanks-to-wegovy-pill-422c251b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-04T09:41:00.000Z",
-      "why": null,
-      "ago": "57 分鐘前"
-    },
-    {
-      "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
+      "title": "Microsoft and Amazon combine for a $400 billion market-cap boost — and these factors show why",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-04T09:30:00.000Z",
+      "published": "2026-11-04T20:04:00.000Z",
+      "why": null,
+      "ago": "3 分鐘前"
+    },
+    {
+      "title": "4 market-moving issues investors should watch now that the midterms are over",
+      "summary": "4 market-moving issues investors should watch now that the midterms are over Choose MarketWatch as a preferred source of financial news # 4 market-moving issues investors should watch now that the midterms are over ## The Democrats’ Tuesday sweep could have far-reaching consequences for markets and the economy Choose MarketWatch as a preferred source of financial news Markets are taking the Democrats’ resounding midterm victory in stride.",
+      "url": "https://www.marketwatch.com/story/4-market-moving-issues-investors-should-watch-now-that-the-midterms-are-over-9a77b3de?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-04T19:12:00.000Z",
+      "why": null,
+      "ago": "55 分鐘前"
+    },
+    {
+      "title": "SpaceX’s Qualcomm deal could be a precursor to a telecom takeover",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/qualcomm-sat-out-the-semiconductor-rally-can-a-spacex-partnership-change-that-5bb4c0b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-04T18:57:00.000Z",
       "why": null,
       "ago": "1 小時前"
+    },
+    {
+      "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have $500 in savings. What politician speaks for me?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-04T18:37:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "These stocks have soared the most today after the Democrats trounced Trump",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-04T18:29:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
     }
   ],
   "errors": [
