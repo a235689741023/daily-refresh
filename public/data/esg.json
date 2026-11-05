@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-05T10:30:13.161Z",
-  "updatedLocal": "2026/11/5 18:30:13",
+  "updated": "2026-11-05T20:21:12.939Z",
+  "updatedLocal": "2026/11/6 04:21:12",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "How, and why, to stress test your business case",
+      "summary": "The opinions expressed by Trellis expert contributors are their own, not those of Trellis .2027 budget season is here, and it’s a tight one.",
+      "url": "https://trellis.net/article/how-and-why-to-stress-test-your-business-case/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-05T16:45:46.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "Updated: Sustainability tools to use in 2026",
       "summary": "Welcome to the Trellis roundup of new products and services for sustainability professionals, as chosen by our editorial team.",
@@ -13,12 +24,67 @@
       "source": "Trellis",
       "tag": "國際",
       "group": null,
-      "published": "2026-11-04T14:58:43.000Z",
+      "published": "2026-11-05T14:08:12.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "6 小時前"
     },
     {
-      "title": "Global adaptation finance pledge will leave developing nations with 70% of their needs unmet",
+      "title": "Two weeks to register: How to turn climate risk insights into adaptation action",
+      "summary": "This webinar, held in partnership with SmartResilience on 19 November, will explore why and how leading organisations are moving from simply measuring risk to actively adapting in order to protect their operations, assets and supply chains.",
+      "url": "https://www.edie.net/next-month-masterclass-on-turning-climate-risk-insights-into-adaptation/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-05T18:49:13.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "UK to introduce mandatory human rights due diligence law for large businesses",
+      "summary": "The UK Government will introduce mandatory human rights due diligence requirements for large businesses, requiring them to identify, assess and address risks of human rights abuses and labour exploitation in their operations and supply chains.",
+      "url": "https://www.edie.net/uk-to-introduce-mandatory-human-rights-due-diligence-law-for-large-businesses/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-05T15:53:13.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Apply now: Entries open for the edie Awards 2027",
+      "summary": "The UK’s largest corporate sustainability awards scheme is celebrating its 20th year with a restructured programme, built around three pillars and new categories including AI, water and adaptation.",
+      "url": "https://www.edie.net/apply-now-entries-open-for-the-edie-awards-2027/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-05T13:32:41.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "How AI can accelerate climate investment",
+      "summary": "As sustainability teams face growing financial pressures and increasingly complex environmental markets, AI has emerged as a tool for identifying new investment opportunities, improving decision-making and securing internal buy-in.",
+      "url": "https://www.edie.net/how-ai-can-accelerate-climate-investment/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-05T11:48:01.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "Webinar next week: How to prepare for the UK Sustainability Reporting Standards",
+      "summary": "This webinar, hosted in partnership with Simply Sustainable on 10 November, will explore how businesses can prepare for the UK Sustainability Reporting Standards (UK SRS), understand their current level of readiness and turn gaps into a practical implementation plan.",
+      "url": "https://www.edie.net/free-webinar-how-to-prepare-for-the-uk-srs/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-05T06:44:21.000Z",
+      "why": null,
+      "ago": "14 小時前"
+    },
+    {
+      "title": "UNEP: Adaptation finance pledge falls 70% short for developing nations",
       "summary": "The UN Environment Programme (UNEP) has warned that COP30’s goal of tripling adaptation finance by 2035 will not be enough to close the adaptation finance gap, leaving developing nations with, at most, 29% of what they need.",
       "url": "https://www.edie.net/global-adaptation-finance-pledge-will-leave-developing-nations-with-70-of-their-needs-unmet-warns-un/",
       "source": "edie",
@@ -26,7 +92,7 @@
       "group": null,
       "published": "2026-11-05T03:28:46.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "MPs warn Britain is “dangerously” dependent on China’s critical minerals",
@@ -37,84 +103,18 @@
       "group": null,
       "published": "2026-11-05T00:01:03.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "TWO WEEKS TO GO: Free masterclass on turning climate risk insights into adaptation action",
-      "summary": "This webinar, held in partnership with SmartResilience on 19 November, will explore why and how leading organisations are moving from simply measuring risk to actively adapting in order to protect their operations, assets and supply chains.",
-      "url": "https://www.edie.net/next-month-masterclass-on-turning-climate-risk-insights-into-adaptation/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-04T14:31:13.000Z",
-      "why": null,
       "ago": "20 小時前"
     },
     {
-      "title": "Government unveils Energy Independence Bill to reform UK energy system",
-      "summary": "The UK Government has introduced its Energy Independence Bill to Parliament, setting out reforms to energy bills, consumer protection, home efficiency and the development of renewable power.",
-      "url": "https://www.edie.net/government-unveils-energy-independence-bill-to-reform-uk-energy-system/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-04T14:11:39.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Electricity demand from cooling systems to surge in the next decade",
-      "summary": "Electricity demand from cooling systems will increase by 80% over the next 15 years, accounting for more than double the aggregate demand of either electric vehicles or data centres.",
-      "url": "https://www.edie.net/electricity-demand-from-cooling-systems-to-surge-in-the-next-decade/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-04T13:30:45.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Everything you need to know about COP31",
-      "summary": "The 31st Conference of the Parties (COP31) to the United Nations Framework Convention on Climate Change (UNFCCC) commences next week (9 November).",
-      "url": "https://www.edie.net/everything-you-need-to-know-about-cop31/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-04T11:30:47.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Q&A: What is the Brazil-led ‘deforestation roadmap’?",
-      "summary": "On 3 November, the Brazilian presidency of the COP30 climate talks released its long-awaited “roadmap” on ending deforestation.",
-      "url": "https://www.carbonbrief.org/qa-what-is-the-brazil-led-deforestation-roadmap",
+      "title": "Interactive: Tracking negotiating texts at the COP31 climate summit",
+      "summary": "The centrepiece of every UN climate summit is for countries to negotiate the wording of a large number of legal agreements – and COP31 in the Turkish city of Antalya is no different.",
+      "url": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit",
       "source": "Carbon Brief",
       "tag": "氣候",
       "group": null,
-      "published": "2026-11-04T15:39:10.000Z",
+      "published": "2026-11-05T14:13:38.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Q&A: What is in the global ‘roadmap’ for transitioning away from fossil fuels?",
-      "summary": "Transitioning away from fossil fuels is “urgent, inevitable and, yet, possible”, according to a first-of-its-kind global “ roadmap ” produced by Brazil.",
-      "url": "https://www.carbonbrief.org/qa-what-is-in-the-global-roadmap-for-transitioning-away-from-fossil-fuels",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-11-04T15:23:07.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "CB Live: Carbon Brief’s team at COP17 on the nature talks’ key outcomes",
-      "summary": "Following this year’s UN COP17 biodiversity conference, Carbon Brief’s journalists hosted a livestream to explain what happened at the summit.",
-      "url": "https://www.carbonbrief.org/cb-live-carbon-briefs-team-at-cop17-on-the-nature-talks-key-outcomes",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-11-04T10:40:52.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "6 小時前"
     }
   ],
   "errors": []

@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-05T10:30:13.161Z",
-  "updatedLocal": "2026/11/5 18:30:13",
+  "updated": "2026-11-05T20:21:12.939Z",
+  "updatedLocal": "2026/11/6 04:21:12",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+      "summary": "After a big win in the U.S. midterm elections on Tuesday, some Democrats are already signaling they want to take on the artificial build-out, specifically data centers.",
+      "url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-05T20:17:16.000Z",
+      "why": null,
+      "ago": "4 分鐘前"
+    },
+    {
+      "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+      "summary": "Richmond Federal Reserve President Thomas Barkin said Thursday that he expects the central bank will have to raise interest rates further, though he's not sure by how much or at what pace.",
+      "url": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-05T16:34:33.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "What the Democratic midterms sweep changes for U.S.-China relations",
       "summary": "BEIJING — Democrats taking power from Republicans in Congress raises risks for U.S.-China tensions around Taiwan, while hardening tech competition, analysts said.",
@@ -13,9 +35,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-05T06:54:52.000Z",
+      "published": "2026-11-05T12:57:10.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
@@ -26,18 +48,40 @@
       "group": null,
       "published": "2026-11-04T21:18:44.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "The economy brought Trump back to power. Now it's his downfall",
+      "title": "Here's what the Democratic election rout could mean for the U.S. economy",
+      "summary": "Affordability pressures , heavy levels of government spending and growth that is dependent on the artificial intelligence tail wind are likely to persist, economists say.",
+      "url": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-11-05T14:33:32.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+      "summary": "The Bank of England announced its first interest rate hike in over three years on Thursday, raising its key rate by 25 basis points to 4%.",
+      "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-11-05T16:01:47.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Voters say the economy drove them to the polls — and blame Trump for their troubles",
       "summary": "As President Donald Trump campaigned for the nation's highest office in 2024, he regularly blamed Democrats for the country's economic anxiety.",
       "url": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-11-05T04:13:28.000Z",
+      "published": "2026-11-05T16:07:59.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "4 小時前"
     },
     {
       "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
@@ -48,73 +92,29 @@
       "group": null,
       "published": "2026-11-04T22:46:43.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
-      "summary": "Private sector job growth held steady in October, with gains spread across sectors, as the labor market showed fresh signs of stabilization, ADP reported Wednesday.",
-      "url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
+      "title": "After tech-stock rout, October jobs report could bring relief — or more pain",
+      "summary": "## Businesses are hiring, but they’re not adding lots of jobs Choose MarketWatch as a preferred source of financial news After a tech-led meltdown in the stock market, the October jobs report on Friday morning could bring investors some encouraging news — or add to their misery.",
+      "url": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
       "group": null,
-      "published": "2026-11-04T13:49:48.000Z",
+      "published": "2026-11-05T19:46:00.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "35 分鐘前"
     },
     {
-      "title": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
-      "summary": "Inflation in the euro area jumped to a three-year high of 4% in October, a flash estimate showed on Wednesday.",
-      "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-04T10:47:30.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "A prolonged war in Iran is the market’s real ‘black swan,’ says this strategist",
+      "title": "This pancreatic cancer treatment is on track for ‘one of the best drug launches of all time’",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/a-prolonged-war-in-iran-is-the-markets-real-black-swan-says-this-strategist-65d105c7?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/this-pancreatic-cancer-treatment-is-on-track-for-one-of-the-best-drug-launches-of-all-time-37bf86ce?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-05T10:20:00.000Z",
+      "published": "2026-11-05T19:32:00.000Z",
       "why": null,
-      "ago": "10 分鐘前"
-    },
-    {
-      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-05T10:15:00.000Z",
-      "why": null,
-      "ago": "15 分鐘前"
-    },
-    {
-      "title": "Toyota stock rallies after company lowered sales guidance. Here’s how rare that is.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/toyota-stock-rallies-after-company-lowered-sales-guidance-heres-how-rare-that-is-c3d6c9bf?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-05T10:15:00.000Z",
-      "why": null,
-      "ago": "15 分鐘前"
-    },
-    {
-      "title": "Richard Simmons’ L.A. estate sells for $3.8 million",
-      "summary": "Richard Simmons’ L.A. estate sells for $3.8 million Choose MarketWatch as a preferred source of financial news # Richard Simmons’ L.A.",
-      "url": "https://www.marketwatch.com/story/richard-simmons-l-a-estate-sells-for-3-8-million-abf43450?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-05T10:02:00.000Z",
-      "why": null,
-      "ago": "28 分鐘前"
+      "ago": "49 分鐘前"
     }
   ],
   "errors": [
