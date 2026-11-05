@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-04T20:06:33.765Z",
-  "updatedLocal": "2026/11/5 04:06:33",
+  "updated": "2026-11-05T02:37:26.966Z",
+  "updatedLocal": "2026/11/5 10:37:26",
   "digest": null,
   "watch": [],
   "items": [
@@ -13,20 +13,20 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-04T17:11:00.000Z",
+      "published": "2026-11-04T21:18:44.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "5 小時前"
     },
     {
-      "title": "Stock market after midterm elections: What S&P 500 history shows",
-      "summary": "Markets are sweating it out ahead of the midterm elections , but the event historically heralds strong performance for stocks — regardless of whether it's a red or blue wave , split decision, or status quo in Washington.",
-      "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "The economy brought Trump back to power. Now it's his downfall",
+      "summary": "As President Donald Trump campaigned for the nation's highest office in 2024, he regularly blamed Democrats for the country's economic anxiety.",
+      "url": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-11-03T18:21:05.000Z",
+      "published": "2026-11-04T22:59:27.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "4 小時前"
     },
     {
       "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
@@ -35,9 +35,9 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-11-04T17:32:26.000Z",
+      "published": "2026-11-04T22:46:43.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "4 小時前"
     },
     {
       "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-11-04T13:49:48.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
@@ -59,60 +59,60 @@
       "group": null,
       "published": "2026-11-04T10:47:30.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
-      "title": "Microsoft and Amazon combine for a $400 billion market-cap boost — and these factors show why",
+      "title": "Qualcomm’s stock falls as twin forces pressure sales",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-04T20:04:00.000Z",
+      "published": "2026-11-05T01:06:00.000Z",
       "why": null,
-      "ago": "3 分鐘前"
+      "ago": "2 小時前"
     },
     {
-      "title": "4 market-moving issues investors should watch now that the midterms are over",
-      "summary": "4 market-moving issues investors should watch now that the midterms are over Choose MarketWatch as a preferred source of financial news # 4 market-moving issues investors should watch now that the midterms are over ## The Democrats’ Tuesday sweep could have far-reaching consequences for markets and the economy Choose MarketWatch as a preferred source of financial news Markets are taking the Democrats’ resounding midterm victory in stride.",
-      "url": "https://www.marketwatch.com/story/4-market-moving-issues-investors-should-watch-now-that-the-midterms-are-over-9a77b3de?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-04T19:12:00.000Z",
-      "why": null,
-      "ago": "55 分鐘前"
-    },
-    {
-      "title": "SpaceX’s Qualcomm deal could be a precursor to a telecom takeover",
+      "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/qualcomm-sat-out-the-semiconductor-rally-can-a-spacex-partnership-change-that-5bb4c0b2?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-04T18:57:00.000Z",
+      "published": "2026-11-05T01:05:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have $500 in savings. What politician speaks for me?",
+      "title": "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-04T18:37:00.000Z",
+      "published": "2026-11-05T01:03:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "These stocks have soared the most today after the Democrats trounced Trump",
+      "title": "McDonald’s tests new value menu as fast-food discount wars heat up",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-04T18:29:00.000Z",
+      "published": "2026-11-05T01:01:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-05T00:38:00.000Z",
       "why": null,
       "ago": "2 小時前"
     }

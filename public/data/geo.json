@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-04T20:06:33.765Z",
-  "updatedLocal": "2026/11/5 04:06:33",
+  "updated": "2026-11-05T02:37:26.966Z",
+  "updatedLocal": "2026/11/5 10:37:26",
   "digest": null,
   "watch": [],
   "items": [
@@ -26,7 +26,18 @@
       "group": "gis",
       "published": "2026-10-30T10:57:05.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
+    },
+    {
+      "title": "Investigating vault particles with Claude",
+      "summary": "Biological cells were first detected in 1665, but more than three and a half centuries later, much of how they work remains unknown.",
+      "url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-04T22:02:45.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
@@ -35,9 +46,20 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-04T18:25:44.000Z",
+      "published": "2026-11-05T00:25:48.000Z",
       "why": null,
       "ago": "2 小時前"
+    },
+    {
+      "title": "Athukoralage et al. 2026, Prokaryotic homologs of the major vault protein form engineerable vault nanocapsules",
+      "summary": null,
+      "url": "https://www-cdn.anthropic.com/76e55fbe85697afbaae16b839498dc00797dec30.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-04T20:10:57.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
@@ -48,7 +70,7 @@
       "group": "ai",
       "published": "2026-11-04T14:30:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
@@ -59,40 +81,18 @@
       "group": "ai",
       "published": "2026-11-04T07:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech's largest AI buildouts.",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-11-04T18:50:55.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Securing the agentic enterprise with data lineage",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes.",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-11-04T13:00:00.000Z",
-      "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "summary": "Zoi Tsangalidou, Ruijie (Kelly) Zhang, Sukhdeep Singh and Michael V.",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "source": "Google DeepMind",
+      "title": "A thousand fewer paths to root",
+      "summary": "We've developed an autonomous vulnerability discovery, exploitation, and patching pipeline.",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-03T17:01:49.000Z",
+      "published": "2026-11-04T08:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "19 小時前"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-04T20:06:33.765Z",
-  "updatedLocal": "2026/11/5 04:06:33",
+  "updated": "2026-11-05T02:37:26.966Z",
+  "updatedLocal": "2026/11/5 10:37:26",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-04T14:58:43.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Updated: Sustainable AI tools, frameworks and best practices",
@@ -26,18 +26,18 @@
       "group": null,
       "published": "2026-11-04T00:37:18.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Updated: Sustainability leadership moves",
-      "summary": "As corporate sustainability matures, some long-time leaders are leaving the profession, while others are tackling a broader set of responsibilities following reorganizations or layoffs.",
-      "url": "https://trellis.net/article/sustainability-leadership-moves/",
-      "source": "Trellis",
+      "title": "MPs warn Britain is “dangerously” dependent on China’s critical minerals",
+      "summary": "The Business, Innovation, Science and Trade Committee has called on the Government to de-risk the country's critical dependencies in order to safeguard national and economic security.",
+      "url": "https://www.edie.net/mps-warn-britain-is-dangerously-dependent-on-chinas-critical-minerals/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-11-03T15:49:34.000Z",
+      "published": "2026-11-05T00:01:03.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "3 小時前"
     },
     {
       "title": "TWO WEEKS TO GO: Free masterclass on turning climate risk insights into adaptation action",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-11-04T14:31:13.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Government unveils Energy Independence Bill to reform UK energy system",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-11-04T14:11:39.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Electricity demand from cooling systems to surge in the next decade",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-11-04T13:30:45.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Everything you need to know about COP31",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-11-04T11:30:47.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Watch on-demand: How AI can unlock investment in climate solutions",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-11-04T10:00:49.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "One week left to register: How to prepare for the UK Sustainability Reporting Standards",
@@ -103,7 +103,7 @@
       "group": null,
       "published": "2026-11-04T06:44:21.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Can finance keep pace with the push to electrify the global economy?",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-11-04T06:00:38.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
     }
   ],
   "errors": []
