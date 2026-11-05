@@ -1,22 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-05T02:37:26.966Z",
-  "updatedLocal": "2026/11/5 10:37:26",
+  "updated": "2026-11-05T10:30:13.161Z",
+  "updatedLocal": "2026/11/5 18:30:13",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Brotli / Node.js Vulnerabilities",
-      "summary": "On October 22, 2026, Open AI security researchers announced a critical severity vulnerability in Google’s Brotli decoder, identified as CVE-2026-111497.",
-      "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/brotli-vulnerabilities-broccoli2shell",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-10-29T07:00:00.000Z",
-      "why": null,
-      "ago": "7 天前"
-    },
     {
       "title": "Understanding the Subsurface in India’s Infrastructure Planning",
       "summary": "Understanding the Subsurface in India’s Infrastructure Planning # Understanding the Subsurface in India’s Infrastructure Planning **Dr. Sanjay Rana, Managing Director, PARSAN Overseas Pvt.",
@@ -37,7 +26,7 @@
       "group": "ai",
       "published": "2026-11-04T22:02:45.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
@@ -46,9 +35,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-05T00:25:48.000Z",
+      "published": "2026-11-05T09:28:05.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "1 小時前"
     },
     {
       "title": "Athukoralage et al. 2026, Prokaryotic homologs of the major vault protein form engineerable vault nanocapsules",
@@ -59,7 +48,7 @@
       "group": "ai",
       "published": "2026-11-04T20:10:57.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
@@ -69,17 +58,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-11-04T14:30:00.000Z",
-      "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "summary": "Building on the availability of Daybreak models on Amazon Bedrock, GPT‑5.6 Cyber is now available to approved customers in AWS GovCloud (US-East) ⁠ (opens in a new window) through Daybreak Red.",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-04T07:00:00.000Z",
       "why": null,
       "ago": "20 小時前"
     },
@@ -92,7 +70,18 @@
       "group": "ai",
       "published": "2026-11-04T08:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary": "Building on the availability of Daybreak models on Amazon Bedrock, GPT‑5.6 Cyber is now available to approved customers in AWS GovCloud (US-East) ⁠ (opens in a new window) through Daybreak Red.",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-04T07:00:00.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []

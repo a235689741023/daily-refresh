@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-05T02:37:26.966Z",
-  "updatedLocal": "2026/11/5 10:37:26",
+  "updated": "2026-11-05T10:30:13.161Z",
+  "updatedLocal": "2026/11/5 18:30:13",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "What the Democratic midterms sweep changes for U.S.-China relations",
+      "summary": "BEIJING — Democrats taking power from Republicans in Congress raises risks for U.S.-China tensions around Taiwan, while hardening tech competition, analysts said.",
+      "url": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-05T06:54:52.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
       "summary": "The 10-year Treasury yield fell on Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections and oil prices pulled back.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-11-04T21:18:44.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "The economy brought Trump back to power. Now it's his downfall",
@@ -24,9 +35,9 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-11-04T22:59:27.000Z",
+      "published": "2026-11-05T04:13:28.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "6 小時前"
     },
     {
       "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-11-04T22:46:43.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-11-04T13:49:48.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
@@ -59,62 +70,51 @@
       "group": null,
       "published": "2026-11-04T10:47:30.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "24 小時前"
     },
     {
-      "title": "Qualcomm’s stock falls as twin forces pressure sales",
+      "title": "A prolonged war in Iran is the market’s real ‘black swan,’ says this strategist",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/a-prolonged-war-in-iran-is-the-markets-real-black-swan-says-this-strategist-65d105c7?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-05T01:06:00.000Z",
+      "published": "2026-11-05T10:20:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "10 分鐘前"
     },
     {
-      "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
+      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-05T01:05:00.000Z",
+      "published": "2026-11-05T10:15:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "15 分鐘前"
     },
     {
-      "title": "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
+      "title": "Toyota stock rallies after company lowered sales guidance. Here’s how rare that is.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/toyota-stock-rallies-after-company-lowered-sales-guidance-heres-how-rare-that-is-c3d6c9bf?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-05T01:03:00.000Z",
+      "published": "2026-11-05T10:15:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "15 分鐘前"
     },
     {
-      "title": "McDonald’s tests new value menu as fast-food discount wars heat up",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
+      "title": "Richard Simmons’ L.A. estate sells for $3.8 million",
+      "summary": "Richard Simmons’ L.A. estate sells for $3.8 million Choose MarketWatch as a preferred source of financial news # Richard Simmons’ L.A.",
+      "url": "https://www.marketwatch.com/story/richard-simmons-l-a-estate-sells-for-3-8-million-abf43450?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-05T01:01:00.000Z",
+      "published": "2026-11-05T10:02:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-05T00:38:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
+      "ago": "28 分鐘前"
     }
   ],
   "errors": [
