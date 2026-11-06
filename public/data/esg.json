@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-05T20:21:12.939Z",
-  "updatedLocal": "2026/11/6 04:21:12",
+  "updated": "2026-11-06T02:37:48.945Z",
+  "updatedLocal": "2026/11/6 10:37:48",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Net-zero pledges remain steady, but top companies show evidence of backtracking",
+      "summary": "The past two years have seen a growing sense that major corporations are watering down their climate commitments, with media reports — including here at Trellis — describing targets being made less ambitious, deadlines delayed and goals silently abandoned.",
+      "url": "https://trellis.net/article/net-zero-stocktake-backtracking/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-06T00:01:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "How, and why, to stress test your business case",
       "summary": "The opinions expressed by Trellis expert contributors are their own, not those of Trellis .2027 budget season is here, and it’s a tight one.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-11-05T16:45:46.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Updated: Sustainability tools to use in 2026",
@@ -26,7 +37,29 @@
       "group": null,
       "published": "2026-11-05T14:08:12.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "COP31 Action Tracker: US midterms and Brazil Roadmaps",
+      "summary": "With COP31 in Türkiye starting next week, this regular members-only series from edie provides a temperature check on global climate action, including news from governments and other key organisations ahead of the summit.",
+      "url": "https://www.edie.net/cop31-action-tracker-us-midterms-and-brazil-roadmaps/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-06T00:03:37.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Corporate net-zero targets hold firm while cities lag",
+      "summary": "According to new data, the number of businesses with net-zero targets has remained stable in 2026 despite political headwinds, though gaps across city- and region-specific goals remain.",
+      "url": "https://www.edie.net/corporate-net-zero-targets-hold-firm-while-cities-lag/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-06T00:01:20.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "Two weeks to register: How to turn climate risk insights into adaptation action",
@@ -37,7 +70,7 @@
       "group": null,
       "published": "2026-11-05T18:49:13.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "UK to introduce mandatory human rights due diligence law for large businesses",
@@ -48,7 +81,7 @@
       "group": null,
       "published": "2026-11-05T15:53:13.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Apply now: Entries open for the edie Awards 2027",
@@ -59,7 +92,7 @@
       "group": null,
       "published": "2026-11-05T13:32:41.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "How AI can accelerate climate investment",
@@ -70,7 +103,7 @@
       "group": null,
       "published": "2026-11-05T11:48:01.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Webinar next week: How to prepare for the UK Sustainability Reporting Standards",
@@ -81,40 +114,7 @@
       "group": null,
       "published": "2026-11-05T06:44:21.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "UNEP: Adaptation finance pledge falls 70% short for developing nations",
-      "summary": "The UN Environment Programme (UNEP) has warned that COP30’s goal of tripling adaptation finance by 2035 will not be enough to close the adaptation finance gap, leaving developing nations with, at most, 29% of what they need.",
-      "url": "https://www.edie.net/global-adaptation-finance-pledge-will-leave-developing-nations-with-70-of-their-needs-unmet-warns-un/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-05T03:28:46.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "MPs warn Britain is “dangerously” dependent on China’s critical minerals",
-      "summary": "The Business, Innovation, Science and Trade Committee has called on the Government to de-risk the country's critical dependencies in order to safeguard national and economic security.",
-      "url": "https://www.edie.net/mps-warn-britain-is-dangerously-dependent-on-chinas-critical-minerals/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-05T00:01:03.000Z",
-      "why": null,
       "ago": "20 小時前"
-    },
-    {
-      "title": "Interactive: Tracking negotiating texts at the COP31 climate summit",
-      "summary": "The centrepiece of every UN climate summit is for countries to negotiate the wording of a large number of legal agreements – and COP31 in the Turkish city of Antalya is no different.",
-      "url": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-11-05T14:13:38.000Z",
-      "why": null,
-      "ago": "6 小時前"
     }
   ],
   "errors": []
