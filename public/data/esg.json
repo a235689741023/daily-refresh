@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-06T02:37:48.945Z",
-  "updatedLocal": "2026/11/6 10:37:48",
+  "updated": "2026-11-06T10:33:24.160Z",
+  "updatedLocal": "2026/11/6 18:33:24",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-06T00:01:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "How, and why, to stress test your business case",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-11-05T16:45:46.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Updated: Sustainability tools to use in 2026",
@@ -37,7 +37,29 @@
       "group": null,
       "published": "2026-11-05T14:08:12.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
+    },
+    {
+      "title": "Sustainability Uncovered episode 51: The ripple effect of low-carbon logistics",
+      "summary": "The latest episode of edie’s long-standing Sustainability Uncovered podcast is now live.",
+      "url": "https://www.edie.net/sustainability-uncovered-episode-51-the-ripple-effect-of-low-carbon-logistics/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-06T09:57:42.000Z",
+      "why": null,
+      "ago": "36 分鐘前"
+    },
+    {
+      "title": "What’s at stake for the UK at COP31?",
+      "summary": "With the UK’s clean energy ambitions under the spotlight and its fossil fuel decisions raising awkward questions, COP31 is a chance to show where its climate leadership really stands.",
+      "url": "https://www.edie.net/whats-at-stake-for-the-uk-at-cop31/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-06T08:36:50.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "COP31 Action Tracker: US midterms and Brazil Roadmaps",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-11-06T00:03:37.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Corporate net-zero targets hold firm while cities lag",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-11-06T00:01:20.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Two weeks to register: How to turn climate risk insights into adaptation action",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-11-05T18:49:13.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "UK to introduce mandatory human rights due diligence law for large businesses",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-11-05T15:53:13.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Apply now: Entries open for the edie Awards 2027",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-11-05T13:32:41.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "How AI can accelerate climate investment",
-      "summary": "As sustainability teams face growing financial pressures and increasingly complex environmental markets, AI has emerged as a tool for identifying new investment opportunities, improving decision-making and securing internal buy-in.",
-      "url": "https://www.edie.net/how-ai-can-accelerate-climate-investment/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-05T11:48:01.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Webinar next week: How to prepare for the UK Sustainability Reporting Standards",
-      "summary": "This webinar, hosted in partnership with Simply Sustainable on 10 November, will explore how businesses can prepare for the UK Sustainability Reporting Standards (UK SRS), understand their current level of readiness and turn gaps into a practical implementation plan.",
-      "url": "https://www.edie.net/free-webinar-how-to-prepare-for-the-uk-srs/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-05T06:44:21.000Z",
-      "why": null,
-      "ago": "20 小時前"
+      "ago": "21 小時前"
     }
   ],
   "errors": []
