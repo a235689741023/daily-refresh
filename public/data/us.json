@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-06T10:33:24.160Z",
-  "updatedLocal": "2026/11/6 18:33:24",
+  "updated": "2026-11-06T19:44:22.388Z",
+  "updatedLocal": "2026/11/7 03:44:22",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
+      "summary": "San Francisco Federal Reserve President Mary Daly said Friday she expects the central bank will need to raise interest rates further, but joined her fellow policymakers in saying the pace and timing remain uncertain.",
+      "url": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-06T19:05:00.000Z",
+      "why": null,
+      "ago": "39 分鐘前"
+    },
+    {
+      "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+      "summary": "Debt markets are sending a message to AI data center builders: we're hiking the interest rate on your credit card and may put some new curbs on your credit limit.",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-06T17:09:53.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "Nasdaq drops into correction territory — here’s what typically happens next",
       "summary": "The Nasdaq Composite plunged into correction territory on Thursday. History shows more selling can follow in the near term, but a recovery eventually takes hold three months later.",
@@ -13,9 +35,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-05T22:31:24.000Z",
+      "published": "2026-11-06T13:47:43.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "6 小時前"
     },
     {
       "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-11-05T20:17:16.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
@@ -37,18 +59,29 @@
       "group": null,
       "published": "2026-11-05T16:34:33.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "What the Democratic midterms sweep changes for U.S.-China relations",
-      "summary": "BEIJING — Democrats taking power from Republicans in Congress raises risks for U.S.-China tensions around Taiwan, while hardening tech competition, analysts said.",
-      "url": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
+      "summary": "Americans who lose their jobs these days are facing a harsh new problem: It's getting harder to find another one quickly.",
+      "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-11-05T12:57:10.000Z",
+      "published": "2026-11-06T19:25:16.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "19 分鐘前"
+    },
+    {
+      "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+      "summary": "The U.S. economy added jobs at a much stronger-than-expected pace in October, while the unemployment rate moved lower as the labor market showed surprising strength.",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-11-06T16:06:59.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "The October jobs report is out Friday. Here's everything to expect",
@@ -59,62 +92,29 @@
       "group": null,
       "published": "2026-11-05T21:32:52.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "Here's what the Democratic election rout could mean for the U.S. economy",
-      "summary": "Affordability pressures , heavy levels of government spending and growth that is dependent on the artificial intelligence tail wind are likely to persist, economists say.",
-      "url": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-05T14:33:32.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
-      "summary": "The Bank of England announced its first interest rate hike in over three years on Thursday, raising its key rate by 25 basis points to 4%.",
-      "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-05T16:01:47.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Voters say the economy drove them to the polls — and blame Trump for their troubles",
-      "summary": "As President Donald Trump campaigned for the nation's highest office in 2024, he regularly blamed Democrats for the country's economic anxiety.",
-      "url": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-05T16:07:59.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "What the governor-elect of Texas, at the epicenter of the AI trade blowup, is now saying about data centers",
+      "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/what-the-governor-elect-of-texas-at-the-epicenter-of-the-ai-trade-blowup-is-now-saying-about-data-centers-55876582?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-06T10:20:00.000Z",
+      "published": "2026-11-06T18:54:00.000Z",
       "why": null,
-      "ago": "13 分鐘前"
+      "ago": "50 分鐘前"
     },
     {
-      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-      "summary": "## ‘Our kitchen dates from 1999 and the oven only works if you hit the door a certain way’ Choose MarketWatch as a preferred source of financial news My husband and I have been married for 30 years, with four grown kids.",
-      "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
+      "summary": "## ‘I haven’t committed to the strategy yet and would appreciate some independent perspectives’ Choose MarketWatch as a preferred source of financial news I’m preparing to retire, and my fixed expenses are covered by Social Security.",
+      "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-06T10:15:00.000Z",
+      "published": "2026-11-06T18:53:00.000Z",
       "why": null,
-      "ago": "18 分鐘前"
+      "ago": "51 分鐘前"
     }
   ],
   "errors": [
