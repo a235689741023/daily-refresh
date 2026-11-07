@@ -1,32 +1,43 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-06T19:44:22.388Z",
-  "updatedLocal": "2026/11/7 03:44:22",
+  "updated": "2026-11-07T02:05:21.372Z",
+  "updatedLocal": "2026/11/7 10:05:21",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Conversational AI using existing ArcGIS for Teams Search Functionality",
-      "summary": "Search functionalities in ArcGIS for Teams have always been an important aspect of the ArcGIS user experience in Microsoft Teams.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-for-teams/mapping/conversational-ai-using-existing-arcgis-for-teams-search-functionality",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-06T02:50:25.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "AI for scientific discovery How researchers use Claude",
-      "summary": "Johannes Hermle*, Ben Jones*, Lukas Althoff*, Ryan Heller, Thomas Lyttelton, Carolyn Stein, Nathan Wilmers, Maxim Massenkoff, Peter McCrory Science has been described as an “endless frontier” (Bush 1945).",
-      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "title": "The components of agent memory",
+      "summary": "Søren Kierkegaard wrote that life can only be understood backward , but it must be lived forward . We’ve encountered a similar bind when designing memory for AI agents.",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-05T23:29:34.000Z",
+      "published": "2026-11-06T21:21:18.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Project EVE: Claude plays MMORPGs",
+      "summary": "This post shares research done as part of the Anthropic Fellows Program, April–July 2026.",
+      "url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-06T20:52:05.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Teaching AI to build scientific models",
+      "summary": "In 1951, Cambridge University’s computer went out of action for six months.",
+      "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-06T19:03:59.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
@@ -35,20 +46,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-06T18:35:07.000Z",
+      "published": "2026-11-07T00:44:47.000Z",
       "why": null,
       "ago": "1 小時前"
-    },
-    {
-      "title": "Welfare Regard in Multi-Agent Systems - Anthropic Alignment Science blog",
-      "summary": "1 Anthropic Fellows Program; 2 Anthropic A growing share of large language models’ interactions are not with humans but with other model instances: orchestrators direct subagents, models run experiments on other models, and agents review one another’s work.",
-      "url": "https://alignment.anthropic.com/2026/welfare-regard/",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-05T21:10:31.000Z",
-      "why": null,
-      "ago": "23 小時前"
     },
     {
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-11-06T08:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -70,18 +70,7 @@
       "group": "ai",
       "published": "2026-11-06T00:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Cult.fit builds operational muscle with Codex",
-      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-05T20:00:00.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

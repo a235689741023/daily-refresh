@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-06T19:44:22.388Z",
-  "updatedLocal": "2026/11/7 03:44:22",
+  "updated": "2026-11-07T02:05:21.372Z",
+  "updatedLocal": "2026/11/7 10:05:21",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-06T19:05:00.000Z",
       "why": null,
-      "ago": "39 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-11-06T17:09:53.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Nasdaq drops into correction territory — here’s what typically happens next",
@@ -35,9 +35,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-06T13:47:43.000Z",
+      "published": "2026-11-06T20:42:28.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "5 小時前"
     },
     {
       "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
@@ -48,17 +48,6 @@
       "group": null,
       "published": "2026-11-05T20:17:16.000Z",
       "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
-      "summary": "Richmond Federal Reserve President Thomas Barkin said Thursday that he expects the central bank will have to raise interest rates further, though he's not sure by how much or at what pace.",
-      "url": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-05T16:34:33.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
@@ -68,9 +57,9 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-11-06T19:25:16.000Z",
+      "published": "2026-11-06T20:11:17.000Z",
       "why": null,
-      "ago": "19 分鐘前"
+      "ago": "6 小時前"
     },
     {
       "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
@@ -81,40 +70,51 @@
       "group": null,
       "published": "2026-11-06T16:06:59.000Z",
       "why": null,
+      "ago": "10 小時前"
+    },
+    {
+      "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-06T21:45:00.000Z",
+      "why": null,
       "ago": "4 小時前"
     },
     {
-      "title": "The October jobs report is out Friday. Here's everything to expect",
-      "summary": "The U.S. economy isn't expected to have produced much job growth in October, with employers reluctant to hire workers but also not cutting staff amid a shrinking labor force and a growing problem of long-term unemployment.",
-      "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-05T21:32:52.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
+      "title": "Elon Musk opens the door for a big SpaceX acquisition",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-06T18:54:00.000Z",
+      "published": "2026-11-06T21:45:00.000Z",
       "why": null,
-      "ago": "50 分鐘前"
+      "ago": "4 小時前"
     },
     {
-      "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
-      "summary": "## ‘I haven’t committed to the strategy yet and would appreciate some independent perspectives’ Choose MarketWatch as a preferred source of financial news I’m preparing to retire, and my fixed expenses are covered by Social Security.",
-      "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+      "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-06T18:53:00.000Z",
+      "published": "2026-11-06T21:37:00.000Z",
       "why": null,
-      "ago": "51 分鐘前"
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-06T21:24:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     }
   ],
   "errors": [
