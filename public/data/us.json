@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-07T09:45:18.871Z",
-  "updatedLocal": "2026/11/7 17:45:18",
+  "updated": "2026-11-07T17:53:12.182Z",
+  "updatedLocal": "2026/11/8 01:53:12",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+      "summary": "Healthcare stocks may struggle to gain momentum as Democrats prepare to take over Congress.",
+      "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-07T16:02:33.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+      "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+      "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-07T15:23:46.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
       "summary": "San Francisco Federal Reserve President Mary Daly said Friday she expects the central bank will need to raise interest rates further, but joined her fellow policymakers in saying the pace and timing remain uncertain.",
@@ -15,18 +37,7 @@
       "group": null,
       "published": "2026-11-06T19:05:00.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
-      "summary": "Debt markets are sending a message to AI data center builders: we're hiking the interest rate on your credit card and may put some new curbs on your credit limit.",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-06T17:09:53.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Nasdaq drops into correction territory — here’s what typically happens next",
@@ -37,7 +48,18 @@
       "group": null,
       "published": "2026-11-06T20:42:28.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+      "summary": "Debt markets are sending a message to AI data center builders: we're hiking the interest rate on your credit card and may put some new curbs on your credit limit.",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-06T17:09:53.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
@@ -48,73 +70,51 @@
       "group": null,
       "published": "2026-11-06T20:11:17.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
-      "summary": "The U.S. economy added jobs at a much stronger-than-expected pace in October, while the unemployment rate moved lower as the labor market showed surprising strength.",
-      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-06T16:06:59.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+      "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-06T21:45:00.000Z",
+      "published": "2026-11-07T17:43:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "10 分鐘前"
     },
     {
-      "title": "Elon Musk opens the door for a big SpaceX acquisition",
+      "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-06T21:45:00.000Z",
+      "published": "2026-11-07T17:33:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 分鐘前"
     },
     {
-      "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+      "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-06T21:37:00.000Z",
+      "published": "2026-11-07T17:04:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "49 分鐘前"
     },
     {
-      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-06T21:24:00.000Z",
+      "published": "2026-11-07T17:01:00.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-06T21:15:00.000Z",
-      "why": null,
-      "ago": "13 小時前"
+      "ago": "52 分鐘前"
     }
   ],
   "errors": [

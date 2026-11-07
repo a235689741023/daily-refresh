@@ -1,11 +1,33 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-07T09:45:18.871Z",
-  "updatedLocal": "2026/11/7 17:45:18",
+  "updated": "2026-11-07T17:53:12.182Z",
+  "updatedLocal": "2026/11/8 01:53:12",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "edie 27: Full programme revealed for flagship sustainable business event",
+      "summary": "edie 27 is returning to London next April to drive adaptation, resilience and practical sustainable business transformation.",
+      "url": "https://www.edie.net/edie-27-full-programme-revealed-for-flagship-sustainable-business-event/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-07T12:30:02.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "One week to register: How to turn climate risk insights into adaptation action",
+      "summary": "This webinar, held in partnership with SmartResilience on 19 November, will explore why and how leading organisations are moving from simply measuring risk to actively adapting in order to protect their operations, assets and supply chains.",
+      "url": "https://www.edie.net/next-month-masterclass-on-turning-climate-risk-insights-into-adaptation/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-06T21:49:13.000Z",
+      "why": null,
+      "ago": "20 小時前"
+    },
     {
       "title": "Shipping emissions caused almost $1trn in global economic damages, analysis finds",
       "summary": "New research has found that emissions from international shipping caused an estimated $963bn in global economic damages between 1990 and 2020.",
@@ -15,7 +37,18 @@
       "group": null,
       "published": "2026-11-06T21:26:28.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
+    },
+    {
+      "title": "Copenhagen bans fossil fuel advertising",
+      "summary": "Copenhagen has drawn a line in the advertising sand. The municipality has voted to ban all promotion of fossil fuels and climate-harming products from its owned and controlled spaces.",
+      "url": "https://www.edie.net/copenhagen-bans-fossil-fuel-advertising/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-06T17:13:36.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "FCA unveils landmark rules for ESG ratings providers",
@@ -26,7 +59,7 @@
       "group": null,
       "published": "2026-11-06T15:08:52.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "COP31 jargon buster: What are the Blue Zone and Belém-Antalya Mechanism?",
@@ -37,7 +70,7 @@
       "group": null,
       "published": "2026-11-06T15:01:08.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Does sustainability need a bit of ‘greenmogging’?",
@@ -48,7 +81,7 @@
       "group": null,
       "published": "2026-11-06T14:41:13.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Six climate innovations ahead of COP31",
@@ -59,7 +92,7 @@
       "group": null,
       "published": "2026-11-06T14:25:19.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Why treating nature loss and climate change as separate issues makes no sense",
@@ -70,18 +103,7 @@
       "group": null,
       "published": "2026-11-06T13:49:14.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "edie 27: Full programme revealed for flagship sustainable business event",
-      "summary": "edie 27 is returning to London next April to drive adaptation, resilience and practical sustainable business transformation.",
-      "url": "https://www.edie.net/edie-27-full-programme-revealed-for-flagship-sustainable-business-event/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-06T12:30:02.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Transition-ready companies outperform peers by 25 percentage points",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-11-06T11:55:09.000Z",
       "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "How AI can accelerate climate investment",
-      "summary": "As sustainability teams face growing financial pressures and increasingly complex environmental markets, AI has emerged as a tool for identifying new investment opportunities, improving decision-making and securing internal buy-in.",
-      "url": "https://www.edie.net/how-ai-can-accelerate-climate-investment/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-06T11:00:01.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Sustainability Uncovered episode 51: The ripple effect of low-carbon logistics",
-      "summary": "The latest episode of edie’s long-standing Sustainability Uncovered podcast is now live.",
-      "url": "https://www.edie.net/sustainability-uncovered-episode-51-the-ripple-effect-of-low-carbon-logistics/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-06T09:57:42.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

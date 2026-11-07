@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-07T09:45:18.871Z",
-  "updatedLocal": "2026/11/7 17:45:18",
+  "updated": "2026-11-07T17:53:12.182Z",
+  "updatedLocal": "2026/11/8 01:53:12",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "ai",
       "published": "2026-11-06T21:21:18.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Teaching AI to build scientific models",
@@ -26,7 +26,7 @@
       "group": "ai",
       "published": "2026-11-06T19:03:59.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Project EVE: Claude plays MMORPGs",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-11-06T20:52:05.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
@@ -46,31 +46,31 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-07T09:38:31.000Z",
+      "published": "2026-11-07T15:43:48.000Z",
       "why": null,
-      "ago": "7 分鐘前"
+      "ago": "2 小時前"
     },
     {
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "summary": "Today we’re announcing a partnership with Hacktron to find vulnerabilities in OpenAI’s systems.",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "AI Safety Advocates Make Gains After $110 Million Midterm Fight",
+      "summary": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world # AI Safety Advocates Make Gains After $110 Million Midterm Fight Demonstrators against artificial intelligence (AI) hold signs during a protest in Chapel Hill, North Carolina.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight",
+      "source": "Bloomberg.com",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-11-06T08:00:00.000Z",
+      "published": "2026-11-07T14:30:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "3 小時前"
     },
     {
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser.",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
+      "title": "Briefing Recap | AI in the new Washington: What changes?",
+      "summary": "The next Congress will face urgent questions over AI regulation, national security, competition from China, energy-hungry data centers and the future of American innovation.",
+      "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/11/06/briefing-recap-ai-new-washington-what-changes/",
+      "source": "WP Intelligence",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-11-06T10:00:00.000Z",
+      "published": "2026-11-06T23:14:31.000Z",
       "why": null,
-      "ago": "24 小時前"
+      "ago": "19 小時前"
     }
   ],
   "errors": []
