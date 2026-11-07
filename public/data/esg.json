@@ -1,22 +1,11 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-07T02:05:21.372Z",
-  "updatedLocal": "2026/11/7 10:05:21",
+  "updated": "2026-11-07T09:45:18.871Z",
+  "updatedLocal": "2026/11/7 17:45:18",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Net-zero pledges remain steady, but top companies show evidence of backtracking",
-      "summary": "The past two years have seen a growing sense that major corporations are watering down their climate commitments, with media reports — including here at Trellis — describing targets being made less ambitious, deadlines delayed and goals silently abandoned.",
-      "url": "https://trellis.net/article/net-zero-stocktake-backtracking/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-06T00:01:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
     {
       "title": "Shipping emissions caused almost $1trn in global economic damages, analysis finds",
       "summary": "New research has found that emissions from international shipping caused an estimated $963bn in global economic damages between 1990 and 2020.",
@@ -26,7 +15,7 @@
       "group": null,
       "published": "2026-11-06T21:26:28.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "FCA unveils landmark rules for ESG ratings providers",
@@ -37,7 +26,7 @@
       "group": null,
       "published": "2026-11-06T15:08:52.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "COP31 jargon buster: What are the Blue Zone and Belém-Antalya Mechanism?",
@@ -48,7 +37,7 @@
       "group": null,
       "published": "2026-11-06T15:01:08.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Does sustainability need a bit of ‘greenmogging’?",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-11-06T14:41:13.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Six climate innovations ahead of COP31",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-11-06T14:25:19.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Why treating nature loss and climate change as separate issues makes no sense",
@@ -81,7 +70,7 @@
       "group": null,
       "published": "2026-11-06T13:49:14.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "edie 27: Full programme revealed for flagship sustainable business event",
@@ -92,7 +81,7 @@
       "group": null,
       "published": "2026-11-06T12:30:02.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Transition-ready companies outperform peers by 25 percentage points",
@@ -103,7 +92,7 @@
       "group": null,
       "published": "2026-11-06T11:55:09.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "How AI can accelerate climate investment",
@@ -114,7 +103,18 @@
       "group": null,
       "published": "2026-11-06T11:00:01.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "Sustainability Uncovered episode 51: The ripple effect of low-carbon logistics",
+      "summary": "The latest episode of edie’s long-standing Sustainability Uncovered podcast is now live.",
+      "url": "https://www.edie.net/sustainability-uncovered-episode-51-the-ripple-effect-of-low-carbon-logistics/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-06T09:57:42.000Z",
+      "why": null,
+      "ago": "24 小時前"
     }
   ],
   "errors": []

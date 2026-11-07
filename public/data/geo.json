@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-07T02:05:21.372Z",
-  "updatedLocal": "2026/11/7 10:05:21",
+  "updated": "2026-11-07T09:45:18.871Z",
+  "updatedLocal": "2026/11/7 17:45:18",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,7 @@
       "group": "ai",
       "published": "2026-11-06T21:21:18.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Project EVE: Claude plays MMORPGs",
-      "summary": "This post shares research done as part of the Anthropic Fellows Program, April–July 2026.",
-      "url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-06T20:52:05.000Z",
-      "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Teaching AI to build scientific models",
@@ -37,7 +26,18 @@
       "group": "ai",
       "published": "2026-11-06T19:03:59.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
+    },
+    {
+      "title": "Project EVE: Claude plays MMORPGs",
+      "summary": "This post shares research done as part of the Anthropic Fellows Program, April–July 2026.",
+      "url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-06T20:52:05.000Z",
+      "why": null,
+      "ago": "13 小時前"
     },
     {
       "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
@@ -46,9 +46,9 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-07T00:44:47.000Z",
+      "published": "2026-11-07T09:38:31.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "7 分鐘前"
     },
     {
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
@@ -59,18 +59,18 @@
       "group": "ai",
       "published": "2026-11-06T08:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "summary": "Introducing BioBasicsBench, a benchmark measuring how well AI agents interpret raw experimental data across 100 routine wet-lab tasks.",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-11-06T00:00:00.000Z",
+      "published": "2026-11-06T10:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "24 小時前"
     }
   ],
   "errors": []

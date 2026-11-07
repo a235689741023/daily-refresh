@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-07T02:05:21.372Z",
-  "updatedLocal": "2026/11/7 10:05:21",
+  "updated": "2026-11-07T09:45:18.871Z",
+  "updatedLocal": "2026/11/7 17:45:18",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-06T19:05:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-11-06T17:09:53.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Nasdaq drops into correction territory — here’s what typically happens next",
@@ -37,18 +37,7 @@
       "group": null,
       "published": "2026-11-06T20:42:28.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-      "summary": "After a big win in the U.S. midterm elections on Tuesday, some Democrats are already signaling they want to take on the artificial build-out, specifically data centers.",
-      "url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-05T20:17:16.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "13 小時前"
     },
     {
       "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-11-06T20:11:17.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-11-06T16:06:59.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
@@ -81,7 +70,7 @@
       "group": null,
       "published": "2026-11-06T21:45:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Elon Musk opens the door for a big SpaceX acquisition",
@@ -92,7 +81,7 @@
       "group": null,
       "published": "2026-11-06T21:45:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
@@ -103,7 +92,7 @@
       "group": null,
       "published": "2026-11-06T21:37:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
@@ -114,7 +103,18 @@
       "group": null,
       "published": "2026-11-06T21:24:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-06T21:15:00.000Z",
+      "why": null,
+      "ago": "13 小時前"
     }
   ],
   "errors": [
