@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-08T09:57:31.119Z",
-  "updatedLocal": "2026/11/8 17:57:31",
+  "updated": "2026-11-08T18:07:38.139Z",
+  "updatedLocal": "2026/11/9 02:07:38",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,18 @@
       "group": null,
       "published": "2026-11-07T12:30:02.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "ESG台灣快訊》碳費調漲卡關？環團呼籲升至1200元｜50家企業出資1.14億元護生態",
+      "summary": "11月2日召開 費率審議委員會，針對「維持現行費率」、「僅調漲一般費率」及「一般與優惠費率同步調漲」三項方案進行討論，但未達成共識。目前一般費率為每噸300元，優惠費率則為50元及100元，今年首筆碳費收入約49.7億元。",
+      "url": "https://esg.gvm.com.tw/article/129549?utm_source\\=gvm\\&utm_medium\\=banner\\&utm_campaign\\=home_1",
+      "source": "ESG遠見",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-08T02:25:58.000Z",
+      "why": null,
+      "ago": "16 小時前"
     },
     {
       "title": "封面故事／經濟高成長減碳不打折　彭啓明：碳費抓大放小給傳產喘息空間",
@@ -26,95 +37,18 @@
       "group": null,
       "published": "2026-11-07T22:28:59.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "One week to register: How to turn climate risk insights into adaptation action",
-      "summary": "This webinar, held in partnership with SmartResilience on 19 November, will explore why and how leading organisations are moving from simply measuring risk to actively adapting in order to protect their operations, assets and supply chains.",
-      "url": "https://www.edie.net/next-month-masterclass-on-turning-climate-risk-insights-into-adaptation/",
-      "source": "edie",
+      "title": "ESG Today: Week in Review",
+      "summary": "This week in ESG news: UK to introduce supply chain human rights due diligence law; EU Commission scraps Green Claims Directive; Green Climate Fund approves record $3.3 billion climate investments; Brazil considers moving back to mandatory corporate sustainability reporting; Deloitte launches new solution to help companies avoid greenwashing; UK regulates ESG ratings providers; Thailand introduces mandatory ISSB-aligned sustainability reporting requirements; BCG appoints new head of Climate & Sustainability practice; Outrigger Impact launches $100 million blue economy fund, and more.",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-282/",
+      "source": "ESG Today",
       "tag": "國際",
       "group": null,
-      "published": "2026-11-06T21:49:13.000Z",
+      "published": "2026-11-08T09:58:45.000Z",
       "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Shipping emissions caused almost $1trn in global economic damages, analysis finds",
-      "summary": "New research has found that emissions from international shipping caused an estimated $963bn in global economic damages between 1990 and 2020.",
-      "url": "https://www.edie.net/shipping-emissions-caused-almost-1trn-in-global-economic-damages-analysis-finds/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-06T21:26:28.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Copenhagen bans fossil fuel advertising",
-      "summary": "Copenhagen has drawn a line in the advertising sand. The municipality has voted to ban all promotion of fossil fuels and climate-harming products from its owned and controlled spaces.",
-      "url": "https://www.edie.net/copenhagen-bans-fossil-fuel-advertising/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-06T17:13:36.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "FCA unveils landmark rules for ESG ratings providers",
-      "summary": "From 2028, firms providing environmental, social and governance (ESG) ratings in the UK will need authorisation from the Financial Conduct Authority (FCA).",
-      "url": "https://www.edie.net/fca-unveils-landmark-rules-for-esg-ratings-providers/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-06T15:08:52.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "COP31 jargon buster: What are the Blue Zone and Belém-Antalya Mechanism?",
-      "summary": "With the COP31 World Leaders Summit beginning in Antalya, Türkiye, next week, this handy article defines key pieces of UN climate terminology for edie members – from the Blue Zone to the Belém-Antalya Mechanism.",
-      "url": "https://www.edie.net/cop31-jargon-buster-what-are-the-blue-zone-and-belem-antalya-mechanism/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-06T15:01:08.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Does sustainability need a bit of ‘greenmogging’?",
-      "summary": "In my latest editor’s column, I outline why corporate sustainability needs to get comfortable trying to outshine the crowd by embracing the 2026 word of the year: ‘mogging’.",
-      "url": "https://www.edie.net/does-sustainability-need-a-bit-of-greenmogging/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-06T14:41:13.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Six climate innovations ahead of COP31",
-      "summary": "To mark the opening of COP31, edie and our innovation partner Springwise spotlight six innovations tackling some of the summit’s key priorities, from transforming plastic waste into water-capturing materials to using AI to accelerate urban greening and climate resilience.",
-      "url": "https://www.edie.net/six-climate-innovations-ahead-of-cop31/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-06T14:25:19.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Why treating nature loss and climate change as separate issues makes no sense",
-      "summary": "As delegates gather for COP31 in Türkiye, Fauna & Flora's Annamaria Lehoczky argues that nature-based solutions must be central to climate action, with greater alignment between global climate and biodiversity commitments needed to unlock investment and build resilience.",
-      "url": "https://www.edie.net/why-treating-nature-loss-and-climate-change-as-separate-issues-makes-no-sense/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-06T13:49:14.000Z",
-      "why": null,
-      "ago": "2 天前"
+      "ago": "8 小時前"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-08T09:57:31.119Z",
-  "updatedLocal": "2026/11/8 17:57:31",
+  "updated": "2026-11-08T18:07:38.139Z",
+  "updatedLocal": "2026/11/9 02:07:38",
   "digest": null,
   "watch": [],
   "items": [
@@ -40,26 +40,26 @@
       "ago": "2 天前"
     },
     {
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser.",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
+      "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
+      "summary": "SAN FRANCISCO (AP) — With public anxiety growing over mounting reports about out-of-control artificial intelligence agents, the tiny U.S. government division charged with assessing the safety of new AI offerings lacks a permanent leader and has stopped publishing its research.",
+      "url": "https://www.bostonglobe.com/2026/11/08/nation/us-center-for-ai-safety-white-house-independence-concerns/",
+      "source": "The Boston Globe",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-11-06T10:00:00.000Z",
+      "published": "2026-11-08T08:38:35.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "9 小時前"
     },
     {
       "title": "AI Safety Advocates Make Gains After $110 Million Midterm Fight",
       "summary": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world # AI Safety Advocates Make Gains After $110 Million Midterm Fight Demonstrators against artificial intelligence (AI) hold signs during a protest in Chapel Hill, North Carolina.",
       "url": "https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "tag": "政策",
       "group": "ai",
       "published": "2026-11-07T14:30:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Briefing Recap | AI in the new Washington: What changes?",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-11-06T23:14:31.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     }
   ],
   "errors": []
