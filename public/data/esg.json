@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-07T17:53:12.182Z",
-  "updatedLocal": "2026/11/8 01:53:12",
+  "updated": "2026-11-08T01:37:05.580Z",
+  "updatedLocal": "2026/11/8 09:37:05",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-07T12:30:02.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "One week to register: How to turn climate risk insights into adaptation action",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-11-06T21:49:13.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Shipping emissions caused almost $1trn in global economic damages, analysis finds",
@@ -37,84 +37,29 @@
       "group": null,
       "published": "2026-11-06T21:26:28.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Copenhagen bans fossil fuel advertising",
-      "summary": "Copenhagen has drawn a line in the advertising sand. The municipality has voted to ban all promotion of fossil fuels and climate-harming products from its owned and controlled spaces.",
-      "url": "https://www.edie.net/copenhagen-bans-fossil-fuel-advertising/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-06T17:13:36.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "FCA unveils landmark rules for ESG ratings providers",
-      "summary": "From 2028, firms providing environmental, social and governance (ESG) ratings in the UK will need authorisation from the Financial Conduct Authority (FCA).",
-      "url": "https://www.edie.net/fca-unveils-landmark-rules-for-esg-ratings-providers/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "封面故事／經濟高成長減碳不打折　彭啓明：碳費抓大放小給傳產喘息空間",
+      "summary": "受惠於AI與半導體產業大爆發，台灣連續二年經濟高成長，風光的背後也代表著排碳壓力巨大，加上氣候變遷帶來的多次天災，身為環境守門人的環境部長彭啓明，肩負任務跟著加重。日前他接受本刊專訪，引用賴清德總統國慶致詞的《聖經》金句，強調「守護環境，就跟鹽一樣！",
+      "url": "https://www.mirrormedia.mg/story/20261103fin001",
+      "source": "鏡週刊Mirror Media",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-11-06T15:08:52.000Z",
+      "published": "2026-11-07T22:28:59.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "3 小時前"
     },
     {
-      "title": "COP31 jargon buster: What are the Blue Zone and Belém-Antalya Mechanism?",
-      "summary": "With the COP31 World Leaders Summit beginning in Antalya, Türkiye, next week, this handy article defines key pieces of UN climate terminology for edie members – from the Blue Zone to the Belém-Antalya Mechanism.",
-      "url": "https://www.edie.net/cop31-jargon-buster-what-are-the-blue-zone-and-belem-antalya-mechanism/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "建築淨零轉型與市場支付意願 內政部邀臺日專家",
+      "summary": "為推動2050淨零排放目標，深化建築節能減碳，內政部6日於國立臺北科技大學舉辦「住的淨零綠生活」產業交流論壇。本次活動特別邀集日本及國內產官學界專家代表，針對建築淨（近）零化於租賃、交易及維運管理等面向的市場需求與支付意願（Willingness to Pay, WTP）進行深入交流，期盼結合國際經驗與在地研究成果，探討建築能效提升與相關政策工具的實踐方向。",
+      "url": "https://life.tw/article/%E5%BB%BA%E7%AF%89%E6%B7%A8%E9%9B%B6%E8%BD%89%E5%9E%8B%E8%88%87%E5%B8%82%E5%A0%B4%E6%94%AF%E4%BB%98%E6%84%8F%E9%A1%98-%E5%85%A7%E6%94%BF%E9%83%A8%E9%82%80%E8%87%BA%E6%97%A5%E5%B0%88%E5%AE%B6-3208482",
+      "source": "Life 生活網",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-11-06T15:01:08.000Z",
+      "published": "2026-11-07T07:52:00.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Does sustainability need a bit of ‘greenmogging’?",
-      "summary": "In my latest editor’s column, I outline why corporate sustainability needs to get comfortable trying to outshine the crowd by embracing the 2026 word of the year: ‘mogging’.",
-      "url": "https://www.edie.net/does-sustainability-need-a-bit-of-greenmogging/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-06T14:41:13.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Six climate innovations ahead of COP31",
-      "summary": "To mark the opening of COP31, edie and our innovation partner Springwise spotlight six innovations tackling some of the summit’s key priorities, from transforming plastic waste into water-capturing materials to using AI to accelerate urban greening and climate resilience.",
-      "url": "https://www.edie.net/six-climate-innovations-ahead-of-cop31/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-06T14:25:19.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Why treating nature loss and climate change as separate issues makes no sense",
-      "summary": "As delegates gather for COP31 in Türkiye, Fauna & Flora's Annamaria Lehoczky argues that nature-based solutions must be central to climate action, with greater alignment between global climate and biodiversity commitments needed to unlock investment and build resilience.",
-      "url": "https://www.edie.net/why-treating-nature-loss-and-climate-change-as-separate-issues-makes-no-sense/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-06T13:49:14.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Transition-ready companies outperform peers by 25 percentage points",
-      "summary": "Companies that are more prepared for the net-zero transition have outperformed laggards over the past five years, according to the MSCI Institute.",
-      "url": "https://www.edie.net/transition-ready-companies-outperform-peers-by-25-percentage-points/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-06T11:55:09.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "18 小時前"
     }
   ],
   "errors": []

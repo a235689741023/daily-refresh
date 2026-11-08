@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-07T17:53:12.182Z",
-  "updatedLocal": "2026/11/8 01:53:12",
+  "updated": "2026-11-08T01:37:05.580Z",
+  "updatedLocal": "2026/11/8 09:37:05",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
+      "summary": "Today we are opening applications for the Anthropic Residency, our paid, fixed-term research program with placements lasting between six weeks and six months.",
+      "url": "https://alignment.anthropic.com/2026/anthropic-residency/",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-08T00:45:32.000Z",
+      "why": null,
+      "ago": "52 分鐘前"
+    },
     {
       "title": "The components of agent memory",
       "summary": "Søren Kierkegaard wrote that life can only be understood backward , but it must be lived forward . We’ve encountered a similar bind when designing memory for AI agents.",
@@ -15,18 +26,7 @@
       "group": "ai",
       "published": "2026-11-06T21:21:18.000Z",
       "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Teaching AI to build scientific models",
-      "summary": "In 1951, Cambridge University’s computer went out of action for six months.",
-      "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-06T19:03:59.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Project EVE: Claude plays MMORPGs",
@@ -37,18 +37,7 @@
       "group": "ai",
       "published": "2026-11-06T20:52:05.000Z",
       "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
-      "summary": "Today we are opening applications for the Anthropic Residency, our paid, fixed-term research program with placements lasting between six weeks and six months.",
-      "url": "https://alignment.anthropic.com/2026/anthropic-residency/",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-07T15:43:48.000Z",
-      "why": null,
-      "ago": "2 小時前"
+      "ago": "昨日"
     },
     {
       "title": "AI Safety Advocates Make Gains After $110 Million Midterm Fight",
@@ -59,7 +48,7 @@
       "group": "ai",
       "published": "2026-11-07T14:30:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Briefing Recap | AI in the new Washington: What changes?",
@@ -70,7 +59,7 @@
       "group": "ai",
       "published": "2026-11-06T23:14:31.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
