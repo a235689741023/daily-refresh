@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-08T01:37:05.580Z",
-  "updatedLocal": "2026/11/8 09:37:05",
+  "updated": "2026-11-08T09:57:31.119Z",
+  "updatedLocal": "2026/11/8 17:57:31",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-07T16:02:33.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
@@ -26,18 +26,7 @@
       "group": null,
       "published": "2026-11-07T15:23:46.000Z",
       "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "Nasdaq drops into correction territory — here’s what typically happens next",
-      "summary": "The Nasdaq Composite plunged into correction territory on Thursday. History shows more selling can follow in the near term, but a recovery eventually takes hold three months later.",
-      "url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-06T20:42:28.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "19 小時前"
     },
     {
       "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
@@ -48,7 +37,7 @@
       "group": null,
       "published": "2026-11-07T20:48:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-11-07T20:36:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Here are the 2027 capital-gains tax rates for each income level",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-11-07T19:48:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
@@ -81,7 +70,7 @@
       "group": null,
       "published": "2026-11-07T19:20:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
@@ -92,7 +81,7 @@
       "group": null,
       "published": "2026-11-07T17:43:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
@@ -103,7 +92,7 @@
       "group": null,
       "published": "2026-11-07T17:33:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
@@ -114,7 +103,18 @@
       "group": null,
       "published": "2026-11-07T17:04:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
+    },
+    {
+      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-07T17:01:00.000Z",
+      "why": null,
+      "ago": "17 小時前"
     }
   ],
   "errors": [
