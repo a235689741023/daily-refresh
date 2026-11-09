@@ -1,21 +1,21 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-08T18:07:38.139Z",
-  "updatedLocal": "2026/11/9 02:07:38",
+  "updated": "2026-11-09T01:47:52.549Z",
+  "updatedLocal": "2026/11/9 09:47:52",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "edie 27: Full programme revealed for flagship sustainable business event",
-      "summary": "edie 27 is returning to London next April to drive adaptation, resilience and practical sustainable business transformation.",
-      "url": "https://www.edie.net/edie-27-full-programme-revealed-for-flagship-sustainable-business-event/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "氣候假訊息不是只否認暖化，台灣更常見的是「拖延戰術」",
+      "summary": "氣候變遷成為全世界共同面對的課題，錯誤資訊卻可能延誤永續行動，從社群平台流傳的再生能源爭議貼文，到極端天氣期間混淆民眾判斷的災害謠言，氣候假訊息不只影響大眾對科學證據的理解，也可能削弱防災應變、公共衛生與企業永續治理的信任基礎。",
+      "url": "https://csrone.com/topics/10200",
+      "source": "CSRone 永續智庫",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-11-07T12:30:02.000Z",
+      "published": "2026-11-08T23:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "3 小時前"
     },
     {
       "title": "ESG台灣快訊》碳費調漲卡關？環團呼籲升至1200元｜50家企業出資1.14億元護生態",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-11-08T02:25:58.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "封面故事／經濟高成長減碳不打折　彭啓明：碳費抓大放小給傳產喘息空間",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-11-07T22:28:59.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "ESG Today: Week in Review",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-11-08T09:58:45.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     }
   ],
   "errors": []

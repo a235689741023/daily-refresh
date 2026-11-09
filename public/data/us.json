@@ -1,65 +1,43 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-08T18:07:38.139Z",
-  "updatedLocal": "2026/11/9 02:07:38",
+  "updated": "2026-11-09T01:47:52.549Z",
+  "updatedLocal": "2026/11/9 09:47:52",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-      "summary": "Healthcare stocks may struggle to gain momentum as Democrats prepare to take over Congress.",
-      "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-07T16:02:33.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-      "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
-      "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-07T15:23:46.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-08T18:00:00.000Z",
+      "published": "2026-11-09T01:21:00.000Z",
       "why": null,
-      "ago": "8 分鐘前"
+      "ago": "27 分鐘前"
     },
     {
-      "title": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
+      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-08T17:30:00.000Z",
+      "published": "2026-11-09T00:40:00.000Z",
       "why": null,
-      "ago": "38 分鐘前"
+      "ago": "1 小時前"
     },
     {
-      "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+      "title": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-08T17:23:00.000Z",
+      "published": "2026-11-09T00:30:00.000Z",
       "why": null,
-      "ago": "45 分鐘前"
+      "ago": "1 小時前"
     },
     {
       "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
@@ -68,53 +46,75 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-08T16:00:00.000Z",
+      "published": "2026-11-09T00:02:00.000Z",
       "why": null,
       "ago": "2 小時前"
     },
     {
-      "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+      "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-08T15:30:00.000Z",
+      "published": "2026-11-09T00:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-08T23:50:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-08T23:49:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-08T23:35:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "You follow the rules for smart stock trading. But are they the right rules?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-08T23:15:00.000Z",
       "why": null,
       "ago": "3 小時前"
     },
     {
-      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+      "title": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-08T15:16:00.000Z",
+      "published": "2026-11-08T23:05:00.000Z",
       "why": null,
       "ago": "3 小時前"
-    },
-    {
-      "title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-08T15:00:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream-cheese sales",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-08T14:13:00.000Z",
-      "why": null,
-      "ago": "4 小時前"
     }
   ],
   "errors": [

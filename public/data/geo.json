@@ -1,43 +1,21 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-08T18:07:38.139Z",
-  "updatedLocal": "2026/11/9 02:07:38",
+  "updated": "2026-11-09T01:47:52.549Z",
+  "updatedLocal": "2026/11/9 09:47:52",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "The components of agent memory",
-      "summary": "Søren Kierkegaard wrote that life can only be understood backward , but it must be lived forward . We’ve encountered a similar bind when designing memory for AI agents.",
-      "url": "https://www.anthropic.com/research/components-of-agent-memory",
-      "source": "Anthropic",
-      "tag": "模型",
+      "title": "White House Request Raises US AI Safety Center Independence Concerns",
+      "summary": "The Associated Press reported on November 8, 2026, that officials at the Center for Advancing Innovation and Standards for Super Intelligence, or CAISSI, had recently been asked to report informally to a White House office, raising concerns about the independence of federal AI safety evaluations.",
+      "url": "https://www.unite.ai/white-house-request-raises-us-ai-safety-center-independence-concerns/",
+      "source": "Unite.AI",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-11-06T21:21:18.000Z",
+      "published": "2026-11-08T19:34:02.000Z",
       "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Project EVE: Claude plays MMORPGs",
-      "summary": "This post shares research done as part of the Anthropic Fellows Program, April–July 2026.",
-      "url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-06T20:52:05.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Teaching AI to build scientific models",
-      "summary": "AI for Science grantees Jakob Macke , Daniel Gedon , and Stefan Wahl are researchers at the ELLIS Institute Tübingen and the University of Tübingen, where they build AI tools for developing scientific models in neuroscience and beyond.",
-      "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-06T19:03:59.000Z",
-      "why": null,
-      "ago": "2 天前"
+      "ago": "6 小時前"
     },
     {
       "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
@@ -48,29 +26,29 @@
       "group": "ai",
       "published": "2026-11-08T08:38:35.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "AI Safety Advocates Make Gains After $110 Million Midterm Fight",
-      "summary": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world # AI Safety Advocates Make Gains After $110 Million Midterm Fight Demonstrators against artificial intelligence (AI) hold signs during a protest in Chapel Hill, North Carolina.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight",
-      "source": "Bloomberg.com",
+      "title": "Claude's False Police Tip Shows Why AI Safety Cannot Depend on the Model Alone",
+      "summary": "Chief Strategy Officer | Board Dir.| AI | Org.& Ops.",
+      "url": "https://hackernoon.com/claudes-false-police-tip-shows-why-ai-safety-cannot-depend-on-the-model-alone",
+      "source": "HackerNoon",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-11-07T14:30:00.000Z",
+      "published": "2026-11-08T21:18:54.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "AI safety advocates make gains after $110 million midterm fight",
+      "summary": "Candidates who favor stricter oversight of artificial intelligence racked up wins in key congressional races, aided by a pro-regulation political funding group backed in part by Anthropic at a time when Americans are increasingly uneasy over the rapidly developing technology.",
+      "url": "https://www.japantimes.co.jp/business/2026/11/08/tech/ai-safety-us-midterms/",
+      "source": "The Japan Times",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-07T23:41:00.000Z",
       "why": null,
       "ago": "昨日"
-    },
-    {
-      "title": "Briefing Recap | AI in the new Washington: What changes?",
-      "summary": "# Briefing Recap | AI in the new Washington: What changes?",
-      "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/11/06/briefing-recap-ai-new-washington-what-changes/",
-      "source": "WP Intelligence",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-11-06T23:14:31.000Z",
-      "why": null,
-      "ago": "2 天前"
     }
   ],
   "errors": []
