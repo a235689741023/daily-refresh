@@ -1,11 +1,110 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-09T01:47:52.549Z",
-  "updatedLocal": "2026/11/9 09:47:52",
+  "updated": "2026-11-09T11:04:52.730Z",
+  "updatedLocal": "2026/11/9 19:04:52",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "SBTi seeks more input on net-zero electricity rules",
+      "summary": "The Science Based Targets initiative (SBTi) is asking for feedback on potential changes to the electricity criteria included in its revised corporate net-zero standard.",
+      "url": "https://trellis.net/article/sbti-seeks-more-input-on-net-zero-electricity-rules/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-09T07:30:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "How Lenovo uses product carbon footprints to sell refurbished tech",
+      "summary": "Lenovo is the global leader in unit sales of both new and refurbished notebook and personal computers, commanding estimated market shares of 27 percent and 18 percent, respectively.",
+      "url": "https://trellis.net/article/how-lenovo-uses-product-carbon-footprints-to-sell-refurbished-tech/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-09T07:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Every compliance market lets carbon credits do some of the work. Voluntary programs should do the same",
+      "summary": "The opinions expressed by Trellis expert contributors are their own, not those of Trellis .",
+      "url": "https://trellis.net/article/sbti-net-zero-carbon-credits/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-09T07:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Nottinghamshire’s 800 MW solar park and Africa’s first verified net-zero hotel: The sustainability success stories of the week",
+      "summary": "As part of our Mission Possible campaign, edie delivers this member-exclusive weekly round-up of five of the best sustainable business success stories of the week.",
+      "url": "https://www.edie.net/nottinghamshires-800-mw-solar-park-and-africas-first-verified-net-zero-hotel-the-sustainability-success-stories-of-the-week/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-09T03:48:06.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Q&A: What is the Belém-Antalya mechanism for a ‘just transition’?",
+      "summary": "One of the key expected outcomes from the upcoming COP31 climate summit in Antalya, Turkey, is the launch of a “just transition mechanism”.",
+      "url": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition",
+      "source": "Carbon Brief",
+      "tag": "氣候",
+      "group": null,
+      "published": "2026-11-09T08:00:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "台灣能源使用44%來自電力 COP31氣候大會登場 電氣化成焦點",
+      "summary": "由土耳其主辦、澳洲主導協商談判的COP31本週將於土耳其安塔利亞（Antalya） 登場，今年的聯合國氣候大會以「電氣化」列為減碳核心，喊出目標2035年全球電氣化比例達35%，並呼籲各國落實既有氣候承諾。台灣氣候行動網絡研究中心總監趙家緯表示，目前台灣整體能源使用已有44%來自電力，但若分部門檢視，運輸部門的電氣化比例只有1%左右，遠不及國際進展。",
+      "url": "https://e-info.org.tw/node/244052",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-09T03:17:00.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "2050年需封存4000萬噸二氧化碳 政策環評聚焦洩漏議題",
+      "summary": "台灣準備將二氧化碳封存至西部海床下，預估2050年將有4020萬噸封存需求，該如何選址？又有哪些環境風險？環境部4日召開政策環評意見徵詢會，氣候署規劃建立北、中、南碳封存（CCUS）樞紐，並公告「封存潛力區」供業者選址。",
+      "url": "https://e-info.org.tw/node/244053",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-09T07:32:15.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "下一場《永不妥協》？超大資料中心的環境風暴與法律攻防",
+      "summary": "茱莉亞羅勃茲（Julia Roberts）2000年主演的電影《永不妥協》改編自真人真事，描述單親媽媽艾琳（Erin Brockovich）發現電力公司長期排放污水，導致居民罹癌後，聯合居民對抗大企業，最終贏得訴訟的故事。",
+      "url": "https://www.e-info.org.tw/node/244050",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-09T01:58:03.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "讓財務安全成為健康照護的一環，玉山「金融處方箋」串聯醫療與金融支持",
+      "summary": "當高齡者面臨認知功能退化與金融詐騙風險，健康照護如何延伸至日常生活與財務安全？玉山銀行攜手臺北市立聯合醫院及奇美醫院推動「金融處方箋」，由醫療端辨識需求，經民眾同意後轉介銀行提供金融諮詢與資產保護服務。本文從高齡照護與跨域協作出發，解析醫療與金融如何建立服務銜接機制，並呼應 11 月 12 日「Health Resilience 2030」論壇對健康韌性與大健康生態系的探討。",
+      "url": "https://csrone.com/news/10203",
+      "source": "CSRone 永續智庫",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-09T10:00:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
     {
       "title": "氣候假訊息不是只否認暖化，台灣更常見的是「拖延戰術」",
       "summary": "氣候變遷成為全世界共同面對的課題，錯誤資訊卻可能延誤永續行動，從社群平台流傳的再生能源爭議貼文，到極端天氣期間混淆民眾判斷的災害謠言，氣候假訊息不只影響大眾對科學證據的理解，也可能削弱防災應變、公共衛生與企業永續治理的信任基礎。",
@@ -15,40 +114,7 @@
       "group": null,
       "published": "2026-11-08T23:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "ESG台灣快訊》碳費調漲卡關？環團呼籲升至1200元｜50家企業出資1.14億元護生態",
-      "summary": "11月2日召開 費率審議委員會，針對「維持現行費率」、「僅調漲一般費率」及「一般與優惠費率同步調漲」三項方案進行討論，但未達成共識。目前一般費率為每噸300元，優惠費率則為50元及100元，今年首筆碳費收入約49.7億元。",
-      "url": "https://esg.gvm.com.tw/article/129549?utm_source\\=gvm\\&utm_medium\\=banner\\&utm_campaign\\=home_1",
-      "source": "ESG遠見",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-11-08T02:25:58.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "封面故事／經濟高成長減碳不打折　彭啓明：碳費抓大放小給傳產喘息空間",
-      "summary": "受惠於AI與半導體產業大爆發，台灣連續二年經濟高成長，風光的背後也代表著排碳壓力巨大，加上氣候變遷帶來的多次天災，身為環境守門人的環境部長彭啓明，肩負任務跟著加重。日前他接受本刊專訪，引用賴清德總統國慶致詞的《聖經》金句，強調「守護環境，就跟鹽一樣！",
-      "url": "https://www.mirrormedia.mg/story/20261103fin001",
-      "source": "鏡週刊Mirror Media",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-11-07T22:28:59.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "ESG Today: Week in Review",
-      "summary": "This week in ESG news: UK to introduce supply chain human rights due diligence law; EU Commission scraps Green Claims Directive; Green Climate Fund approves record $3.3 billion climate investments; Brazil considers moving back to mandatory corporate sustainability reporting; Deloitte launches new solution to help companies avoid greenwashing; UK regulates ESG ratings providers; Thailand introduces mandatory ISSB-aligned sustainability reporting requirements; BCG appoints new head of Climate & Sustainability practice; Outrigger Impact launches $100 million blue economy fund, and more.",
-      "url": "https://www.esgtoday.com/esg-today-week-in-review-282/",
-      "source": "ESG Today",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-08T09:58:45.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "12 小時前"
     }
   ],
   "errors": []
