@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-09T11:04:52.730Z",
-  "updatedLocal": "2026/11/9 19:04:52",
+  "updated": "2026-11-09T22:45:38.052Z",
+  "updatedLocal": "2026/11/10 06:45:38",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Updated: Sustainability tools to use in 2026",
+      "summary": "Welcome to the Trellis roundup of new products and services for sustainability professionals, as chosen by our editorial team.",
+      "url": "https://trellis.net/article/corporate-sustainability-tools-to-use/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-09T12:23:28.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
     {
       "title": "SBTi seeks more input on net-zero electricity rules",
       "summary": "The Science Based Targets initiative (SBTi) is asking for feedback on potential changes to the electricity criteria included in its revised corporate net-zero standard.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-11-09T07:30:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "How Lenovo uses product carbon footprints to sell refurbished tech",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-11-09T07:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Every compliance market lets carbon credits do some of the work. Voluntary programs should do the same",
@@ -37,84 +48,73 @@
       "group": null,
       "published": "2026-11-09T07:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "16 小時前"
     },
     {
-      "title": "Nottinghamshire’s 800 MW solar park and Africa’s first verified net-zero hotel: The sustainability success stories of the week",
-      "summary": "As part of our Mission Possible campaign, edie delivers this member-exclusive weekly round-up of five of the best sustainable business success stories of the week.",
-      "url": "https://www.edie.net/nottinghamshires-800-mw-solar-park-and-africas-first-verified-net-zero-hotel-the-sustainability-success-stories-of-the-week/",
+      "title": "Pension funds face 30% hit to returns by 2050 in 2.8C world",
+      "summary": "With global warming potentially heading to a 3C increase, new analysis has predicted 30% of pension fund returns could be at risk by mid-century.",
+      "url": "https://www.edie.net/pension-funds-face-30-hit-to-returns-by-2050-in-2-8c-world/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-11-09T03:48:06.000Z",
-      "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Q&A: What is the Belém-Antalya mechanism for a ‘just transition’?",
-      "summary": "One of the key expected outcomes from the upcoming COP31 climate summit in Antalya, Turkey, is the launch of a “just transition mechanism”.",
-      "url": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-11-09T08:00:00.000Z",
+      "published": "2026-11-09T19:51:35.000Z",
       "why": null,
       "ago": "3 小時前"
     },
     {
-      "title": "台灣能源使用44%來自電力 COP31氣候大會登場 電氣化成焦點",
-      "summary": "由土耳其主辦、澳洲主導協商談判的COP31本週將於土耳其安塔利亞（Antalya） 登場，今年的聯合國氣候大會以「電氣化」列為減碳核心，喊出目標2035年全球電氣化比例達35%，並呼籲各國落實既有氣候承諾。台灣氣候行動網絡研究中心總監趙家緯表示，目前台灣整體能源使用已有44%來自電力，但若分部門檢視，運輸部門的電氣化比例只有1%左右，遠不及國際進展。",
-      "url": "https://e-info.org.tw/node/244052",
-      "source": "環境資訊中心",
-      "tag": "台灣",
+      "title": "IEA predicts 4,800GW of renewables to be added through 2031",
+      "summary": "Global renewable energy capacity is set to increase by almost 5,000 gigawatts (GW) by 2031, with emerging and developing economies outside China matching advanced economies for new installations for the first time.",
+      "url": "https://www.edie.net/iea-predicts-4800gw-of-renewables-to-be-added-through-2031/",
+      "source": "edie",
+      "tag": "國際",
       "group": null,
-      "published": "2026-11-09T03:17:00.000Z",
-      "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "2050年需封存4000萬噸二氧化碳 政策環評聚焦洩漏議題",
-      "summary": "台灣準備將二氧化碳封存至西部海床下，預估2050年將有4020萬噸封存需求，該如何選址？又有哪些環境風險？環境部4日召開政策環評意見徵詢會，氣候署規劃建立北、中、南碳封存（CCUS）樞紐，並公告「封存潛力區」供業者選址。",
-      "url": "https://e-info.org.tw/node/244053",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-11-09T07:32:15.000Z",
+      "published": "2026-11-09T19:13:48.000Z",
       "why": null,
       "ago": "4 小時前"
     },
     {
-      "title": "下一場《永不妥協》？超大資料中心的環境風暴與法律攻防",
-      "summary": "茱莉亞羅勃茲（Julia Roberts）2000年主演的電影《永不妥協》改編自真人真事，描述單親媽媽艾琳（Erin Brockovich）發現電力公司長期排放污水，導致居民罹癌後，聯合居民對抗大企業，最終贏得訴訟的故事。",
-      "url": "https://www.e-info.org.tw/node/244050",
-      "source": "環境資訊中心",
-      "tag": "台灣",
+      "title": "WEBINAR NEXT WEEK: How to turn climate risk insights into adaptation action",
+      "summary": "This webinar, held in partnership with SmartResilience on 19 November, will explore why and how leading organisations are moving from simply measuring risk to actively adapting in order to protect their operations, assets and supply chains.",
+      "url": "https://www.edie.net/next-month-masterclass-on-turning-climate-risk-insights-into-adaptation/",
+      "source": "edie",
+      "tag": "國際",
       "group": null,
-      "published": "2026-11-09T01:58:03.000Z",
+      "published": "2026-11-09T18:49:13.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "From stark climate warnings to food waste commitments: What happened on 9 November at COP31?",
+      "summary": "All eyes are on Türkiye this week as the official negotiations get under way at COP31, the UN’s 31st annual climate summit.",
+      "url": "https://www.edie.net/from-stark-climate-warnings-to-food-waste-commitments-what-happened-on-9-november-at-cop31/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-09T18:14:47.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "COP31 Covered podcast: Food security, the ‘super El Niño’ and backing future farmers",
+      "summary": "The first episode of edie’s new daily COP31 Covered podcast is streaming now, featuring an exclusive interview with Youth Climate Champion Sally Higgins.",
+      "url": "https://www.edie.net/cop31-covered-podcast-food-security-the-super-el-nino-and-backing-future-farmers/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-09T16:46:47.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "COP31 cannot afford climate defeatism: We still have the power to shape our future",
+      "summary": "COP31 will have to face an uncomfortable reality: overshooting 1.5C is now “unavoidable”.",
+      "url": "https://www.edie.net/cop31-cannot-afford-climate-defeatism-we-still-have-the-power-to-shape-our-future/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-09T13:24:47.000Z",
       "why": null,
       "ago": "9 小時前"
-    },
-    {
-      "title": "讓財務安全成為健康照護的一環，玉山「金融處方箋」串聯醫療與金融支持",
-      "summary": "當高齡者面臨認知功能退化與金融詐騙風險，健康照護如何延伸至日常生活與財務安全？玉山銀行攜手臺北市立聯合醫院及奇美醫院推動「金融處方箋」，由醫療端辨識需求，經民眾同意後轉介銀行提供金融諮詢與資產保護服務。本文從高齡照護與跨域協作出發，解析醫療與金融如何建立服務銜接機制，並呼應 11 月 12 日「Health Resilience 2030」論壇對健康韌性與大健康生態系的探討。",
-      "url": "https://csrone.com/news/10203",
-      "source": "CSRone 永續智庫",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-11-09T10:00:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "氣候假訊息不是只否認暖化，台灣更常見的是「拖延戰術」",
-      "summary": "氣候變遷成為全世界共同面對的課題，錯誤資訊卻可能延誤永續行動，從社群平台流傳的再生能源爭議貼文，到極端天氣期間混淆民眾判斷的災害謠言，氣候假訊息不只影響大眾對科學證據的理解，也可能削弱防災應變、公共衛生與企業永續治理的信任基礎。",
-      "url": "https://csrone.com/topics/10200",
-      "source": "CSRone 永續智庫",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-11-08T23:00:00.000Z",
-      "why": null,
-      "ago": "12 小時前"
     }
   ],
   "errors": []

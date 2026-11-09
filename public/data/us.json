@@ -1,11 +1,55 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-09T11:04:52.730Z",
-  "updatedLocal": "2026/11/9 19:04:52",
+  "updated": "2026-11-09T22:45:38.052Z",
+  "updatedLocal": "2026/11/10 06:45:38",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+      "summary": "Nvidia 's board is investigating CEO Jensen Huang , citing recent reports that he's been targeted by a \"foreign intelligence effort,\" but traders on prediction markets think it's unlikely he'll be ousted as chief.",
+      "url": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-09T18:46:01.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+      "summary": "Goldman Sachs CEO David Solomon told CNBC on Monday that financing demand for artificial intelligence infrastructure remains strong despite recent market jitters as investors reassess the risks involving the massive build-out.",
+      "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-09T18:14:47.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "3 unexpected reasons the October jobs report was so strong",
+      "summary": "A little-noticed category in Friday's blockbuster jobs report is challenging the consensus view about job losses caused by artificial intelligence.",
+      "url": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-11-09T22:23:56.000Z",
+      "why": null,
+      "ago": "22 分鐘前"
+    },
+    {
+      "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+      "summary": "Falling gasoline prices provided some relief to consumers in October, but Federal Reserve officials are increasingly concerned that inflation pressures elsewhere in the economy are proving harder to contain.",
+      "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-11-09T21:03:55.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
       "summary": "Producer prices in China grew at the fastest rate since June 2022, accelerating for the third month in a row.",
@@ -15,106 +59,62 @@
       "group": null,
       "published": "2026-11-09T02:50:22.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "The biggest takeaway from Berkshire Hathaway’s latest quarter isn’t the $357 billion cash or its stock buybacks",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-biggest-takeaway-from-berkshire-hathaways-latest-quarter-isnt-the-357-billion-cash-or-its-stock-buybacks-3069f6a9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-09T10:48:00.000Z",
-      "why": null,
-      "ago": "17 分鐘前"
-    },
-    {
-      "title": "The market’s correction is entering its final phase — but wait before buying the dip, says Morgan Stanley chief strategist",
-      "summary": "The market’s correction is entering its final phase — but wait before buying the dip, says Morgan Stanley chief strategist Choose MarketWatch as a preferred source of financial news # The market’s correction is entering its final phase — but wait before buying the dip, says Morgan Stanley chief strategist Choose MarketWatch as a preferred source of financial news The S&P 500 could decline to the lower end of Morgan Stanley's downside target of between 7,100 and 7,300 in the coming weeks, the bank said.",
-      "url": "https://www.marketwatch.com/story/the-markets-correction-is-entering-its-final-phase-but-wait-before-buying-the-dip-says-morgan-stanley-chief-strategist-2c1be13e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-09T10:26:00.000Z",
-      "why": null,
-      "ago": "39 分鐘前"
-    },
-    {
-      "title": "Until sentiment in the AI trade improves, Citi tells investors it’s better to sit out the global tech trade",
-      "summary": "Until sentiment in the AI trade improves, Citi tells investors it’s better to sit out the global tech trade Choose MarketWatch as a preferred source of financial news # Until sentiment in the AI trade improves, Citi tells investors it’s better to sit out the global tech trade ## Citi cuts global tech to neutral, lifts Europe and healthcare to overweight Choose MarketWatch as a preferred source of financial news Valued on its earnings twelve months forward, Nasdaq is now trading as cheaply as it was in March 2020 at the peak of the pandemic fears.",
-      "url": "https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-09T10:20:00.000Z",
-      "why": null,
-      "ago": "45 分鐘前"
-    },
-    {
-      "title": "‘We had the worst fight we’ve ever had’: I want my husband to retire at 65. But I don’t want to lose his $280,000 salary.",
-      "summary": "## ‘We have about $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account and my own IRA’ Choose MarketWatch as a preferred source of financial news My husband is a senior vice president at a logistics company.",
-      "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-09T10:15:00.000Z",
-      "why": null,
-      "ago": "50 分鐘前"
-    },
-    {
-      "title": "Ryan Serhant of ‘Owning Manhattan’ on why you shouldn’t wait to buy a house, and the hot spots to watch for",
-      "summary": "## ‘You don’t want to wait until it’s too late.",
-      "url": "https://www.marketwatch.com/story/ryan-serhant-of-owning-manhattan-on-why-you-shouldnt-wait-to-buy-a-house-and-the-hot-spots-to-watch-for-9c2731c3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-09T10:04:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Brewers star Christian Yelich is selling his hillside Malibu mansion for $30 million",
-      "summary": "Brewers star Christian Yelich is selling his hillside Malibu mansion for $30 million Choose MarketWatch as a preferred source of financial news # Brewers star Christian Yelich is selling his hillside Malibu mansion for $30 million ## The astonishing primary suite has retractable glass walls that offer gorgeous views of the ocean Choose MarketWatch as a preferred source of financial news Christian Yelich of the Milwaukee Brewers during game four of the World Series against Tampa Bay, Oct. 27, 2026 in St Petersburg, Florida.",
-      "url": "https://www.marketwatch.com/story/brewers-star-christian-yelich-is-selling-his-hillside-malibu-mansion-for-30-million-92bee567?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-09T10:02:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "How Wall Street is reacting to the news of Nvidia’s investigation into Jensen Huang spy claims",
+      "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
       "summary": null,
       "url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-09T09:12:00.000Z",
+      "published": "2026-11-09T21:55:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "51 分鐘前"
     },
     {
-      "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+      "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
+      "summary": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet. Choose MarketWatch as a preferred source of financial news # Dow sees its third 1,000-point swing in four days.",
+      "url": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-09T01:21:00.000Z",
+      "published": "2026-11-09T21:52:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "54 分鐘前"
     },
     {
-      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-09T00:40:00.000Z",
+      "published": "2026-11-09T21:45:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+      "summary": "Are AMD and Broadcom the real winners of the Nvidia spy scandal? Choose MarketWatch as a preferred source of financial news # Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+      "url": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-09T21:43:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-09T21:24:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
     }
   ],
   "errors": [
