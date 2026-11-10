@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-10T10:52:02.606Z",
-  "updatedLocal": "2026/11/10 18:52:02",
+  "updated": "2026-11-10T20:03:29.904Z",
+  "updatedLocal": "2026/11/11 04:03:29",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "U.S. gas prices fall below $4 for the first time since July",
+      "summary": "Americans may finally find some relief at the pump. The national average price of regular gasoline fell below $4 a gallon for the first time since July, reaching $3.9788 on Tuesday, according to AAA .",
+      "url": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-10T16:29:09.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Polymarket says annualized revenue has topped $1.8 billion",
+      "summary": "Prediction market platform Polymarket has surpassed $1.8 billion in annualized revenue, the company told CNBC on Tuesday.",
+      "url": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-10T13:00:01.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
       "summary": "Federal Reserve Governor Christopher Waller said Tuesday the central bank needs to follow through on expectations for additional interest rate hikes or risk its credibility, even suggesting that a larger-than-usual half-percentage-point increase could be warranted in December.",
@@ -13,9 +35,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-10T09:00:01.000Z",
+      "published": "2026-11-10T17:13:44.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "3 小時前"
     },
     {
       "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-11-09T18:46:01.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
@@ -37,7 +59,18 @@
       "group": null,
       "published": "2026-11-09T18:14:47.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+      "summary": "Costs for goods and services rose more than expected in October, providing fresh warning signs for the Federal Reserve in its fight to lower inflation.",
+      "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-11-10T16:47:05.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
@@ -48,7 +81,7 @@
       "group": null,
       "published": "2026-11-10T10:24:13.000Z",
       "why": null,
-      "ago": "28 分鐘前"
+      "ago": "10 小時前"
     },
     {
       "title": "3 unexpected reasons the October jobs report was so strong",
@@ -59,7 +92,7 @@
       "group": null,
       "published": "2026-11-09T22:23:56.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
@@ -70,51 +103,18 @@
       "group": null,
       "published": "2026-11-09T21:03:55.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "Anthropic reportedly retracts IPO terms sent to banks by mistake, exposing jitters over AI investments",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
+      "title": "An overzealous Fed is quickly becoming the biggest risk to stocks in 2027",
+      "summary": "## The Fed remains too sanguine on inflation, and markets too complacent, economist Neil Dutta warns Choose MarketWatch as a preferred source of financial news Investors who are inclined to catastrophize already have plenty of potential pitfalls to fixate on these days.",
+      "url": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-10T10:48:00.000Z",
+      "published": "2026-11-10T19:52:00.000Z",
       "why": null,
-      "ago": "4 分鐘前"
-    },
-    {
-      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-10T10:45:00.000Z",
-      "why": null,
-      "ago": "7 分鐘前"
-    },
-    {
-      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-      "summary": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-10T10:15:00.000Z",
-      "why": null,
-      "ago": "37 分鐘前"
-    },
-    {
-      "title": "N.Y. Knicks star Josh Hart relists Florida home for $5.7 million",
-      "summary": "## The expansive 5-bedroom mansion is located in the Miami suburb of Pinecrest.",
-      "url": "https://www.marketwatch.com/story/n-y-knicks-star-josh-hart-relists-florida-home-for-5-7-million-5fd3f18c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-10T10:01:00.000Z",
-      "why": null,
-      "ago": "51 分鐘前"
+      "ago": "11 分鐘前"
     }
   ],
   "errors": [

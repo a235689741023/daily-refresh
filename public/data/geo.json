@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-10T10:52:02.606Z",
-  "updatedLocal": "2026/11/10 18:52:02",
+  "updated": "2026-11-10T20:03:29.904Z",
+  "updatedLocal": "2026/11/11 04:03:29",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "What’s New in Map Viewer (November 2026)",
+      "summary": null,
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-online/announcements/whats-new-in-map-viewer-november-2026",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-10T09:06:32.000Z",
+      "why": null,
+      "ago": "11 小時前"
+    },
     {
       "title": "Developers can now build with Google Maps Platform in AI Studio.",
       "summary": "Building real-world context into your apps just got much easier.",
@@ -15,18 +26,18 @@
       "group": "gis",
       "published": "2026-11-09T17:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Claude can design electronic prototypes from start to finish",
-      "summary": "A little over a year ago, we began testing how well Claude could design basic electronic circuits.",
-      "url": "https://www.anthropic.com/research/claude-electronics-design",
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "summary": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-09T18:58:57.000Z",
+      "published": "2026-11-10T11:44:40.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
@@ -37,51 +48,51 @@
       "group": "ai",
       "published": "2026-11-09T21:04:35.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "Closing the AI guidance gap in education",
-      "summary": "Drawing on new ThinkYoung research and lessons from our EMEA partnerships to support independent learning with AI.",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "title": "Class A Common Stock 825,000,000 Shares Anthropic, PBC",
+      "summary": null,
+      "url": "https://ipo.anthropic.com/documents/us/prospectus.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-10T15:22:33.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Founders’ letter",
+      "summary": "We believe that AI is one of the most consequential technologies in human history.",
+      "url": "https://ipo.anthropic.com/documents/us/founders-letter.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-10T15:22:32.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "summary": "In collaboration with Caregiver Action Network, Alzheimer’s Association, and American Diabetes Association ® , bringing free, hands-on ChatGPT workshops to five U.S. cities during National Family Caregivers Month.",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-10T09:00:00.000Z",
+      "published": "2026-11-10T12:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "summary": "Today, ChatGPT Enterprise is available through AWS Marketplace.",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "title": "Introducing Businesses in ChatGPT",
+      "summary": "Claim your business, keep your information current, and understand how people engage with you in ChatGPT We’re introducing Businesses in ChatGPT in beta, giving businesses a new way to connect with the 1.2 billion people who use ChatGPT each week.",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-09T19:00:00.000Z",
+      "published": "2026-11-10T10:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "summary": "As our models get more powerful and the associated safety and security risks become bigger, it becomes more and more critical that we can detect potential issues, and quickly stop models in their tracks when needed.",
-      "url": "https://openai.com/index/control-room",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-09T13:00:00.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-09T08:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "10 小時前"
     }
   ],
   "errors": []
