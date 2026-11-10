@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-10T04:12:15.927Z",
-  "updatedLocal": "2026/11/10 12:12:15",
+  "updated": "2026-11-10T10:52:02.606Z",
+  "updatedLocal": "2026/11/10 18:52:02",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+      "summary": "Federal Reserve Governor Christopher Waller said Tuesday the central bank needs to follow through on expectations for additional interest rate hikes or risk its credibility, even suggesting that a larger-than-usual half-percentage-point increase could be warranted in December.",
+      "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-10T09:00:01.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
       "summary": "Nvidia 's board is investigating CEO Jensen Huang , citing recent reports that he's been targeted by a \"foreign intelligence effort,\" but traders on prediction markets think it's unlikely he'll be ousted as chief.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-11-09T18:46:01.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
@@ -26,18 +37,18 @@
       "group": null,
       "published": "2026-11-09T18:14:47.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "China exports, imports soar past expectations in October — surplus narrows sharply",
-      "summary": "China's exports and imports surged more than expected in October, while its surplus shrank sharply, undershooting expectations even as it crossed $1 trillion for the year so far.",
+      "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
+      "summary": "China's trade surplus topped $1 trillion this year with two months to spare, at a time when partner countries have been raising concerns over Beijing's exports that have been undercutting local industries.",
       "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-11-10T03:56:15.000Z",
+      "published": "2026-11-10T10:24:13.000Z",
       "why": null,
-      "ago": "16 分鐘前"
+      "ago": "28 分鐘前"
     },
     {
       "title": "3 unexpected reasons the October jobs report was so strong",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-11-09T22:23:56.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
@@ -59,62 +70,51 @@
       "group": null,
       "published": "2026-11-09T21:03:55.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
-      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+      "title": "Anthropic reportedly retracts IPO terms sent to banks by mistake, exposing jitters over AI investments",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-10T03:38:00.000Z",
+      "published": "2026-11-10T10:48:00.000Z",
       "why": null,
-      "ago": "34 分鐘前"
+      "ago": "4 分鐘前"
     },
     {
-      "title": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
+      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-10T00:48:00.000Z",
+      "published": "2026-11-10T10:45:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "7 分鐘前"
     },
     {
-      "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "summary": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-09T23:52:00.000Z",
+      "published": "2026-11-10T10:15:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "37 分鐘前"
     },
     {
-      "title": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
-      "summary": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark Choose MarketWatch as a preferred source of financial news # Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark ## The rocket-launch company just posted a steeper loss than analysts were expecting Choose MarketWatch as a preferred source of financial news Rocket Lab reported mixed earnings results on Monday.",
-      "url": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
+      "title": "N.Y. Knicks star Josh Hart relists Florida home for $5.7 million",
+      "summary": "## The expansive 5-bedroom mansion is located in the Miami suburb of Pinecrest.",
+      "url": "https://www.marketwatch.com/story/n-y-knicks-star-josh-hart-relists-florida-home-for-5-7-million-5fd3f18c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-09T22:49:00.000Z",
+      "published": "2026-11-10T10:01:00.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-09T22:49:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
+      "ago": "51 分鐘前"
     }
   ],
   "errors": [

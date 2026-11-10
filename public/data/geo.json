@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-10T04:12:15.927Z",
-  "updatedLocal": "2026/11/10 12:12:15",
+  "updated": "2026-11-10T10:52:02.606Z",
+  "updatedLocal": "2026/11/10 18:52:02",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-11-09T17:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Claude can design electronic prototypes from start to finish",
@@ -26,7 +26,7 @@
       "group": "ai",
       "published": "2026-11-09T18:58:57.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
@@ -37,7 +37,18 @@
       "group": "ai",
       "published": "2026-11-09T21:04:35.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
+    },
+    {
+      "title": "Closing the AI guidance gap in education",
+      "summary": "Drawing on new ThinkYoung research and lessons from our EMEA partnerships to support independent learning with AI.",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-10T09:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "ChatGPT Enterprise now available in AWS Marketplace",
@@ -48,7 +59,7 @@
       "group": "ai",
       "published": "2026-11-09T19:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-11-09T13:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "CodeRabbit scales agentic software development and ships 20x more",
@@ -70,18 +81,7 @@
       "group": "ai",
       "published": "2026-11-09T08:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "summary": "Kuken’s engineers use a tool built on the OpenAI API to find the drawing for a replacement part in 4.5 minutes, down from nearly an hour.",
-      "url": "https://openai.com/index/kuken",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-09T08:00:00.000Z",
-      "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
