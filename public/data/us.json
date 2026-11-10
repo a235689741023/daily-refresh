@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-09T22:45:38.052Z",
-  "updatedLocal": "2026/11/10 06:45:38",
+  "updated": "2026-11-10T04:12:15.927Z",
+  "updatedLocal": "2026/11/10 12:12:15",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-09T18:46:01.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
@@ -26,7 +26,18 @@
       "group": null,
       "published": "2026-11-09T18:14:47.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "10 小時前"
+    },
+    {
+      "title": "China exports, imports soar past expectations in October — surplus narrows sharply",
+      "summary": "China's exports and imports surged more than expected in October, while its surplus shrank sharply, undershooting expectations even as it crossed $1 trillion for the year so far.",
+      "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-11-10T03:56:15.000Z",
+      "why": null,
+      "ago": "16 分鐘前"
     },
     {
       "title": "3 unexpected reasons the October jobs report was so strong",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-11-09T22:23:56.000Z",
       "why": null,
-      "ago": "22 分鐘前"
+      "ago": "6 小時前"
     },
     {
       "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
@@ -48,40 +59,7 @@
       "group": null,
       "published": "2026-11-09T21:03:55.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
-      "summary": "Producer prices in China grew at the fastest rate since June 2022, accelerating for the third month in a row.",
-      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-09T02:50:22.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-09T21:55:00.000Z",
-      "why": null,
-      "ago": "51 分鐘前"
-    },
-    {
-      "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
-      "summary": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet. Choose MarketWatch as a preferred source of financial news # Dow sees its third 1,000-point swing in four days.",
-      "url": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-09T21:52:00.000Z",
-      "why": null,
-      "ago": "54 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
@@ -90,31 +68,53 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-09T21:45:00.000Z",
+      "published": "2026-11-10T03:38:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "34 分鐘前"
     },
     {
-      "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
-      "summary": "Are AMD and Broadcom the real winners of the Nvidia spy scandal? Choose MarketWatch as a preferred source of financial news # Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
-      "url": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-09T21:43:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
+      "title": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-09T21:24:00.000Z",
+      "published": "2026-11-10T00:48:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "3 小時前"
+    },
+    {
+      "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-09T23:52:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
+      "summary": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark Choose MarketWatch as a preferred source of financial news # Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark ## The rocket-launch company just posted a steeper loss than analysts were expecting Choose MarketWatch as a preferred source of financial news Rocket Lab reported mixed earnings results on Monday.",
+      "url": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-09T22:49:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-09T22:49:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     }
   ],
   "errors": [

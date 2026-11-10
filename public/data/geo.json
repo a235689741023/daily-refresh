@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-09T22:45:38.052Z",
-  "updatedLocal": "2026/11/10 06:45:38",
+  "updated": "2026-11-10T04:12:15.927Z",
+  "updatedLocal": "2026/11/10 12:12:15",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-11-09T17:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Claude can design electronic prototypes from start to finish",
@@ -26,7 +26,7 @@
       "group": "ai",
       "published": "2026-11-09T18:58:57.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
@@ -37,7 +37,7 @@
       "group": "ai",
       "published": "2026-11-09T21:04:35.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "ChatGPT Enterprise now available in AWS Marketplace",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-11-09T19:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-11-09T13:00:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "CodeRabbit scales agentic software development and ships 20x more",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-11-09T08:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Kuken Industries searches 70 years of drawings in minutes",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-11-09T08:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "20 小時前"
     }
   ],
   "errors": []
