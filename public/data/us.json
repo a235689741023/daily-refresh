@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-11T02:00:59.206Z",
-  "updatedLocal": "2026/11/11 10:00:59",
+  "updated": "2026-11-11T10:29:47.692Z",
+  "updatedLocal": "2026/11/11 18:29:47",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+      "summary": "Chinese tech and e-commerce giant Alibaba announced late Tuesday that the Hong Kong Stock Exchange will allow the company to spin off its semiconductor subsidiary T-Head.",
+      "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-11T07:47:54.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "U.S. gas prices fall below $4 for the first time since July",
       "summary": "Americans may finally find some relief at the pump. The national average price of regular gasoline fell below $4 a gallon for the first time since July, reaching $3.9788 on Tuesday, according to AAA .",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-11-10T16:29:09.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Polymarket says annualized revenue has topped $1.8 billion",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-11-10T13:00:01.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-11-10T17:13:44.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
@@ -48,18 +59,51 @@
       "group": null,
       "published": "2026-11-10T23:53:58.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
-      "summary": "China's trade surplus topped $1 trillion this year with two months to spare, at a time when partner countries have been raising concerns over Beijing's exports that have been undercutting local industries.",
-      "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
       "group": null,
-      "published": "2026-11-10T10:24:13.000Z",
+      "published": "2026-11-11T10:15:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "15 分鐘前"
+    },
+    {
+      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-11T10:05:00.000Z",
+      "why": null,
+      "ago": "25 分鐘前"
+    },
+    {
+      "title": "Tiger Woods has another private, 18-hole golf destination in the works — this one for Long Island’s Gold Coast",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/tiger-woods-has-another-private-18-hole-golf-destination-in-the-works-this-one-for-long-islands-gold-coast-7e8e669c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-11T10:03:00.000Z",
+      "why": null,
+      "ago": "27 分鐘前"
+    },
+    {
+      "title": "Among full-size SUVs, the 2027 Ford Expedition is worth a look for its spacious seating and mighty engine",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/among-full-size-suvs-the-2027-ford-expedition-is-worth-a-look-for-its-spacious-seating-and-mighty-engine-2c169852?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-11T09:59:00.000Z",
+      "why": null,
+      "ago": "31 分鐘前"
     },
     {
       "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
@@ -70,51 +114,7 @@
       "group": null,
       "published": "2026-11-11T01:54:00.000Z",
       "why": null,
-      "ago": "7 分鐘前"
-    },
-    {
-      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-      "summary": "## A third-quarter revenue beat and $9 billion in planned prepayments give investors renewed confidence in CoreWeave’s business Choose MarketWatch as a preferred source of financial news CoreWeave shares were up nearly 6% in after-hours trading on Tuesday after the company dispelled financing concerns on its third-quarter earnings call.",
-      "url": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-11T01:12:00.000Z",
-      "why": null,
-      "ago": "49 分鐘前"
-    },
-    {
-      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-11T00:30:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-11T00:00:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-10T23:30:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "9 小時前"
     }
   ],
   "errors": [
