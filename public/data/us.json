@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-11T10:29:47.692Z",
-  "updatedLocal": "2026/11/11 18:29:47",
+  "updated": "2026-11-11T19:54:08.388Z",
+  "updatedLocal": "2026/11/12 03:54:08",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
+      "summary": "Prediction market event contracts on both clinical drug trials and Food and Drug Administration regulatory approvals are drawing attention from two Democratic senators, according to a letter obtained first by CNBC.",
+      "url": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-11T19:16:23.000Z",
+      "why": null,
+      "ago": "38 分鐘前"
+    },
+    {
+      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+      "summary": "Chicago Federal Reserve President Austan Goolsbee called the latest inflation data \"borderline disturbing.\"",
+      "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-11T16:49:02.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
       "summary": "Chinese tech and e-commerce giant Alibaba announced late Tuesday that the Hong Kong Stock Exchange will allow the company to spin off its semiconductor subsidiary T-Head.",
@@ -15,29 +37,7 @@
       "group": null,
       "published": "2026-11-11T07:47:54.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "U.S. gas prices fall below $4 for the first time since July",
-      "summary": "Americans may finally find some relief at the pump. The national average price of regular gasoline fell below $4 a gallon for the first time since July, reaching $3.9788 on Tuesday, according to AAA .",
-      "url": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-10T16:29:09.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Polymarket says annualized revenue has topped $1.8 billion",
-      "summary": "Prediction market platform Polymarket has surpassed $1.8 billion in annualized revenue, the company told CNBC on Tuesday.",
-      "url": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-10T13:00:01.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
@@ -48,7 +48,40 @@
       "group": null,
       "published": "2026-11-10T17:13:44.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "U.S. gas prices fall below $4 for the first time since July",
+      "summary": "Americans may finally find some relief at the pump. The national average price of regular gasoline fell below $4 a gallon for the first time since July, reaching $3.9788 on Tuesday, according to AAA .",
+      "url": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-10T16:29:09.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
+      "summary": "The swirl of sex-and-spying allegations around Nvidia CEO Jensen Huang is raising a worrying question: Could trouble at the chipmaker spread through the tightly connected financial network Nvidia has built to support the artificial intelligence boom?",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-11-11T19:17:19.000Z",
+      "why": null,
+      "ago": "37 分鐘前"
+    },
+    {
+      "title": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
+      "summary": "Retail sales rose at their slowest pace in nearly a year in October as American consumers showed signs of strain from high prices, according to the latest CNBC/NRF Retail Monitor.",
+      "url": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-11-11T12:27:47.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
@@ -59,62 +92,29 @@
       "group": null,
       "published": "2026-11-10T23:53:58.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-11T10:15:00.000Z",
+      "published": "2026-11-11T19:41:00.000Z",
       "why": null,
-      "ago": "15 分鐘前"
+      "ago": "13 分鐘前"
     },
     {
-      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+      "title": "Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.",
+      "summary": "Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.",
+      "url": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-11T10:05:00.000Z",
+      "published": "2026-11-11T18:48:00.000Z",
       "why": null,
-      "ago": "25 分鐘前"
-    },
-    {
-      "title": "Tiger Woods has another private, 18-hole golf destination in the works — this one for Long Island’s Gold Coast",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/tiger-woods-has-another-private-18-hole-golf-destination-in-the-works-this-one-for-long-islands-gold-coast-7e8e669c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-11T10:03:00.000Z",
-      "why": null,
-      "ago": "27 分鐘前"
-    },
-    {
-      "title": "Among full-size SUVs, the 2027 Ford Expedition is worth a look for its spacious seating and mighty engine",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/among-full-size-suvs-the-2027-ford-expedition-is-worth-a-look-for-its-spacious-seating-and-mighty-engine-2c169852?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-11T09:59:00.000Z",
-      "why": null,
-      "ago": "31 分鐘前"
-    },
-    {
-      "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-11T01:54:00.000Z",
-      "why": null,
-      "ago": "9 小時前"
+      "ago": "1 小時前"
     }
   ],
   "errors": [

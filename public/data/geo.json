@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-11T10:29:47.692Z",
-  "updatedLocal": "2026/11/11 18:29:47",
+  "updated": "2026-11-11T19:54:08.388Z",
+  "updatedLocal": "2026/11/12 03:54:08",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-11-10T19:27:50.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "昨日"
     },
     {
       "title": "What’s New in Map Viewer (November 2026)",
@@ -37,7 +37,18 @@
       "group": "gis",
       "published": "2026-11-10T04:46:26.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
+    },
+    {
+      "title": "Introducing the item details assistant - helping you create and enhance information about your content",
+      "summary": "This blog was originally published in November 2025. With the November 2026 update, the item details assistant is now in general availability and has an AI transparency card !",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-enterprise/announcements/introducing-item-details-assistant-beta",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-09T08:00:00.000Z",
+      "why": null,
+      "ago": "2 天前"
     },
     {
       "title": "Developers can now build with Google Maps Platform in AI Studio.",
@@ -51,48 +62,15 @@
       "ago": "2 天前"
     },
     {
-      "title": "Anthropic launches roadshow for proposed initial public offering",
-      "summary": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
-      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams - Anthropic Alignment Science blog",
+      "summary": "1 Anthropic Fellows Program; 2 Independent; 3 Anthropic As AI agents become more capable and widely used, they are increasingly required to interact with each other.",
+      "url": "https://alignment.anthropic.com/2026/worse-together/",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-10T11:44:40.000Z",
+      "published": "2026-11-11T16:43:59.000Z",
       "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Class A Common Stock 825,000,000 Shares Anthropic, PBC",
-      "summary": null,
-      "url": "https://ipo.anthropic.com/documents/us/prospectus.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-10T15:22:33.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect - Anthropic Alignment Science blog",
-      "summary": "Matt Clarke*¹, Jan Dubiński*² ³ ⁴, James Chua¹† Simon Schrodi⁵ ⁶†, Owain Evans² ⁷, Alex Cloud¹ ¹ Anthropic; ² Truthful AI; ³ NASK National Research Institute; ⁴ Warsaw University of Technology; ⁵ MATS; ⁶ University of Freiburg; ⁷ UC Berkeley * Core contribution † James: Work done at Truthful AI; Simon: Work done at MATS We find that poisoned training data with little effect on its own can create a hidden backdoor once clean, contrasting data is added.",
-      "url": "https://alignment.anthropic.com/2026/homeopathic-learning/",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-10T19:08:57.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Founders’ letter",
-      "summary": "We believe that AI is one of the most consequential technologies in human history.",
-      "url": "https://ipo.anthropic.com/documents/us/founders-letter.pdf",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-10T15:22:32.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "3 小時前"
     },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -114,7 +92,40 @@
       "group": "ai",
       "published": "2026-11-11T08:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "summary": "A conversation with Vijay Seshadri, Chief Architect at JioStar. Our Executive Function series features perspectives from leaders driving transformation through AI.",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-11T00:00:00.000Z",
+      "why": null,
+      "ago": "20 小時前"
+    },
+    {
+      "title": "Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect - Anthropic Alignment Science blog",
+      "summary": "Matt Clarke*¹, Jan Dubiński*² ³ ⁴, James Chua¹† Simon Schrodi⁵ ⁶†, Owain Evans² ⁷, Alex Cloud¹ ¹ Anthropic; ² Truthful AI; ³ NASK National Research Institute; ⁴ Warsaw University of Technology; ⁵ MATS; ⁶ University of Freiburg; ⁷ UC Berkeley * Core contribution † James: Work done at Truthful AI; Simon: Work done at MATS We find that poisoned training data with little effect on its own can create a hidden backdoor once clean, contrasting data is added.",
+      "url": "https://alignment.anthropic.com/2026/homeopathic-learning/",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-10T19:08:57.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Class A Common Stock 825,000,000 Shares Anthropic, PBC",
+      "summary": null,
+      "url": "https://ipo.anthropic.com/documents/us/prospectus.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-10T15:22:33.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []
