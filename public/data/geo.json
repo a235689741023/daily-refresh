@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-10T20:03:29.904Z",
-  "updatedLocal": "2026/11/11 04:03:29",
+  "updated": "2026-11-11T02:00:59.206Z",
+  "updatedLocal": "2026/11/11 10:00:59",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "What's new in geospatial AI (November 2026)",
+      "summary": "New geospatial AI capabilities are ready to help boost productivity and execute advanced spatial analytical workflows.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis/geoai/whats-new-in-geospatial-ai-november-2026",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-10T04:46:26.000Z",
+      "why": null,
+      "ago": "21 小時前"
+    },
     {
       "title": "What’s New in Map Viewer (November 2026)",
       "summary": null,
@@ -15,7 +26,7 @@
       "group": "gis",
       "published": "2026-11-10T09:06:32.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Developers can now build with Google Maps Platform in AI Studio.",
@@ -37,18 +48,7 @@
       "group": "ai",
       "published": "2026-11-10T11:44:40.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
-      "summary": "We’ve upgraded Claude Fable and Claude Mythos—models that are designed to tackle the most daunting technical challenges.",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-09T21:04:35.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Class A Common Stock 825,000,000 Shares Anthropic, PBC",
@@ -59,7 +59,29 @@
       "group": "ai",
       "published": "2026-11-10T15:22:33.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "11 小時前"
+    },
+    {
+      "title": "Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect - Anthropic Alignment Science blog",
+      "summary": "Matt Clarke*¹, Jan Dubiński*² ³ ⁴, James Chua¹† Simon Schrodi⁵ ⁶†, Owain Evans² ⁷, Alex Cloud¹ ¹ Anthropic; ² Truthful AI; ³ NASK National Research Institute; ⁴ Warsaw University of Technology; ⁵ MATS; ⁶ University of Freiburg; ⁷ UC Berkeley * Core contribution † James: Work done at Truthful AI; Simon: Work done at MATS We find that poisoned training data with little effect on its own can create a hidden backdoor once clean, contrasting data is added.",
+      "url": "https://alignment.anthropic.com/2026/homeopathic-learning/",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-10T19:08:57.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Blind tests of Claude on unpublished total syntheses: Overview and three sections .docx",
+      "summary": "Blind tests of Claude on unpublished total syntheses GDGT-4, a macrocyclic lipid target from the Burns laboratory 6 Two targets from the Newhouse laboratory 10 An unpublished target from the Reisman laboratory 13 Professors Noah Burns of Stanford, Timothy Newhouse of Yale and Sarah Reisman of Caltech shared four targets from total syntheses that their laboratories have not yet published.",
+      "url": "https://www-cdn.anthropic.com/d9fab5459563a779c65b97040ad4d2e41f0b9464.pdf",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-10T06:34:41.000Z",
+      "why": null,
+      "ago": "19 小時前"
     },
     {
       "title": "Founders’ letter",
@@ -70,29 +92,18 @@
       "group": "ai",
       "published": "2026-11-10T15:22:32.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "Helping caregivers use AI in everyday life",
-      "summary": "In collaboration with Caregiver Action Network, Alzheimer’s Association, and American Diabetes Association ® , bringing free, hands-on ChatGPT workshops to five U.S. cities during National Family Caregivers Month.",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin. Our Executive Function series features perspectives from leaders driving transformation through AI.",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-10T12:00:00.000Z",
+      "published": "2026-11-12T00:00:00.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "Introducing Businesses in ChatGPT",
-      "summary": "Claim your business, keep your information current, and understand how people engage with you in ChatGPT We’re introducing Businesses in ChatGPT in beta, giving businesses a new way to connect with the 1.2 billion people who use ChatGPT each week.",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-10T10:00:00.000Z",
-      "why": null,
-      "ago": "10 小時前"
+      "ago": "剛剛"
     }
   ],
   "errors": []

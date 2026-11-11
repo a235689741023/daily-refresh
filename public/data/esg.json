@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-10T20:03:29.904Z",
-  "updatedLocal": "2026/11/11 04:03:29",
+  "updated": "2026-11-11T02:00:59.206Z",
+  "updatedLocal": "2026/11/11 10:00:59",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-10T19:52:32.000Z",
       "why": null,
-      "ago": "11 分鐘前"
+      "ago": "6 小時前"
     },
     {
       "title": "What makes Amazon’s new sustainability tech accelerator unique",
@@ -26,7 +26,29 @@
       "group": null,
       "published": "2026-11-10T08:50:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "17 小時前"
+    },
+    {
+      "title": "Who Gives A Crap, ProCook and Grind have ads banned for misleading carbon-neutral delivery claims",
+      "summary": "The regulator said consumers could not tell whether the claims were based on reducing emissions at source or offsetting them through carbon credits.",
+      "url": "https://www.edie.net/who-gives-a-crap-procook-and-grind-have-ads-banned-for-misleading-carbon-neutral-delivery-claims/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-11T00:01:50.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "‘Hypocrisy’: Banks pumped $220bn into plastic polluters despite climate goals",
+      "summary": "Between 2019 and 2025, leading financial institutions provided $219bn in credit to four of the world's biggest plastic consumers, a new report has revealed.",
+      "url": "https://www.edie.net/hypocrisy-banks-pumped-220bn-into-plastic-polluters-despite-climate-goals/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-10T20:48:51.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "WEBINAR NEXT WEEK: How to turn climate risk insights into adaptation action",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-11-10T17:40:13.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "COP31 Covered podcast: ‘Electric or shock’ – COP31’s big electrification push",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-11-10T17:22:42.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "From Brazil’s fossil fuel phase-out roadmap to adaptation finance framework: What happened on 10 November at COP31?",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-11-10T16:59:16.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Testing times: The six-week gap in Europe’s packaging rules",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-11-10T10:54:33.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Preparing your business for the future cost of EV charging",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-11-10T10:12:09.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "COP31: Businesses and banks back Global Electrification Pledge to usher in ‘age of electricity’",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-11-10T09:18:45.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Oil and gas majors double down on expansion despite transition pledges",
-      "summary": "New data from Urgewald revealed that expansion plans persist for fossil fuel firms despite climate concerns and uncertainty surrounding long-term demand.",
-      "url": "https://www.edie.net/oil-and-gas-majors-double-down-on-expansion-despite-transition-pledges/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-10T05:00:56.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Analysis: Which countries have sent the most delegates to COP31?",
-      "summary": "More than 92,000 people have registered to attend the COP31 climate summit in Antalya, Turkey, potentially making it the largest COP in history.",
-      "url": "https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-11-10T17:21:37.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "17 小時前"
     }
   ],
   "errors": []

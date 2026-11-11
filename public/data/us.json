@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-10T20:03:29.904Z",
-  "updatedLocal": "2026/11/11 04:03:29",
+  "updated": "2026-11-11T02:00:59.206Z",
+  "updatedLocal": "2026/11/11 10:00:59",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-10T16:29:09.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Polymarket says annualized revenue has topped $1.8 billion",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-11-10T13:00:01.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
@@ -37,29 +37,7 @@
       "group": null,
       "published": "2026-11-10T17:13:44.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-      "summary": "Nvidia 's board is investigating CEO Jensen Huang , citing recent reports that he's been targeted by a \"foreign intelligence effort,\" but traders on prediction markets think it's unlikely he'll be ousted as chief.",
-      "url": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-09T18:46:01.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
-      "summary": "Goldman Sachs CEO David Solomon told CNBC on Monday that financing demand for artificial intelligence infrastructure remains strong despite recent market jitters as investors reassess the risks involving the massive build-out.",
-      "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-09T18:14:47.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "9 小時前"
     },
     {
       "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
@@ -68,9 +46,9 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-11-10T16:47:05.000Z",
+      "published": "2026-11-10T23:53:58.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "2 小時前"
     },
     {
       "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
@@ -81,40 +59,62 @@
       "group": null,
       "published": "2026-11-10T10:24:13.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "16 小時前"
     },
     {
-      "title": "3 unexpected reasons the October jobs report was so strong",
-      "summary": "A little-noticed category in Friday's blockbuster jobs report is challenging the consensus view about job losses caused by artificial intelligence.",
-      "url": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-09T22:23:56.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
-      "summary": "Falling gasoline prices provided some relief to consumers in October, but Federal Reserve officials are increasingly concerned that inflation pressures elsewhere in the economy are proving harder to contain.",
-      "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-09T21:03:55.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "An overzealous Fed is quickly becoming the biggest risk to stocks in 2027",
-      "summary": "## The Fed remains too sanguine on inflation, and markets too complacent, economist Neil Dutta warns Choose MarketWatch as a preferred source of financial news Investors who are inclined to catastrophize already have plenty of potential pitfalls to fixate on these days.",
-      "url": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories",
+      "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-10T19:52:00.000Z",
+      "published": "2026-11-11T01:54:00.000Z",
       "why": null,
-      "ago": "11 分鐘前"
+      "ago": "7 分鐘前"
+    },
+    {
+      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+      "summary": "## A third-quarter revenue beat and $9 billion in planned prepayments give investors renewed confidence in CoreWeave’s business Choose MarketWatch as a preferred source of financial news CoreWeave shares were up nearly 6% in after-hours trading on Tuesday after the company dispelled financing concerns on its third-quarter earnings call.",
+      "url": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-11T01:12:00.000Z",
+      "why": null,
+      "ago": "49 分鐘前"
+    },
+    {
+      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-11T00:30:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-11T00:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-10T23:30:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
     }
   ],
   "errors": [
