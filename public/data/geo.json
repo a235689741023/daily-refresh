@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-11T19:54:08.388Z",
-  "updatedLocal": "2026/11/12 03:54:08",
+  "updated": "2026-11-12T03:10:02.335Z",
+  "updatedLocal": "2026/11/12 11:10:02",
   "digest": null,
   "watch": [],
   "items": [
@@ -18,17 +18,6 @@
       "ago": "昨日"
     },
     {
-      "title": "What’s New in Map Viewer (November 2026)",
-      "summary": null,
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-online/announcements/whats-new-in-map-viewer-november-2026",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-10T09:06:32.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
       "title": "What's new in geospatial AI (November 2026)",
       "summary": "New geospatial AI capabilities are ready to help boost productivity and execute advanced spatial analytical workflows.",
       "url": "https://www.esri.com/arcgis-blog/products/arcgis/geoai/whats-new-in-geospatial-ai-november-2026",
@@ -36,17 +25,6 @@
       "tag": "平台",
       "group": "gis",
       "published": "2026-11-10T04:46:26.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Introducing the item details assistant - helping you create and enhance information about your content",
-      "summary": "This blog was originally published in November 2025. With the November 2026 update, the item details assistant is now in general availability and has an AI transparency card !",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-enterprise/announcements/introducing-item-details-assistant-beta",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-09T08:00:00.000Z",
       "why": null,
       "ago": "2 天前"
     },
@@ -70,7 +48,7 @@
       "group": "ai",
       "published": "2026-11-11T16:43:59.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -81,7 +59,7 @@
       "group": "ai",
       "published": "2026-11-12T00:00:00.000Z",
       "why": null,
-      "ago": "剛剛"
+      "ago": "3 小時前"
     },
     {
       "title": "ChatGPT Plus for veterans and servicemembers",
@@ -92,7 +70,7 @@
       "group": "ai",
       "published": "2026-11-11T08:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
@@ -103,29 +81,29 @@
       "group": "ai",
       "published": "2026-11-11T00:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect - Anthropic Alignment Science blog",
-      "summary": "Matt Clarke*¹, Jan Dubiński*² ³ ⁴, James Chua¹† Simon Schrodi⁵ ⁶†, Owain Evans² ⁷, Alex Cloud¹ ¹ Anthropic; ² Truthful AI; ³ NASK National Research Institute; ⁴ Warsaw University of Technology; ⁵ MATS; ⁶ University of Freiburg; ⁷ UC Berkeley * Core contribution † James: Work done at Truthful AI; Simon: Work done at MATS We find that poisoned training data with little effect on its own can create a hidden backdoor once clean, contrasting data is added.",
-      "url": "https://alignment.anthropic.com/2026/homeopathic-learning/",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-10T19:08:57.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Class A Common Stock 825,000,000 Shares Anthropic, PBC",
-      "summary": null,
-      "url": "https://ipo.anthropic.com/documents/us/prospectus.pdf",
-      "source": "Anthropic",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "summary": "Adam Gayoso, Natasha Latysheva, Pushmeet Kohli and Žiga Avsec Our next-generation DNA sequence model bridges single-cell biology and human genetics, predicting how genetic variants affect hundreds of human cell types.",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "source": "Google DeepMind",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-10T15:22:33.000Z",
+      "published": "2026-11-11T15:00:15.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Introducing the Gemini Decisions API, powered by our new Gemini Decision 1 model.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "Google AI Blog",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-11T18:00:00.000Z",
+      "why": null,
+      "ago": "9 小時前"
     }
   ],
   "errors": []

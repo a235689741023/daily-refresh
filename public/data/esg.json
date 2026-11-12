@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-11T19:54:08.388Z",
-  "updatedLocal": "2026/11/12 03:54:08",
+  "updated": "2026-11-12T03:10:02.335Z",
+  "updatedLocal": "2026/11/12 11:10:02",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,7 @@
       "group": null,
       "published": "2026-11-11T08:24:00.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Updated: Sustainability leadership moves",
-      "summary": "As corporate sustainability matures, some long-time leaders are leaving the profession, while others are tackling a broader set of responsibilities following reorganizations or layoffs.",
-      "url": "https://trellis.net/article/sustainability-leadership-moves/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-10T19:52:32.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "19 小時前"
     },
     {
       "title": "COP31 Covered podcast: Why does the energy transition need a circular approach?",
@@ -37,7 +26,7 @@
       "group": null,
       "published": "2026-11-11T18:37:34.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "WEBINAR NEXT WEEK: How to turn climate risk insights into adaptation action",
@@ -48,7 +37,7 @@
       "group": null,
       "published": "2026-11-11T17:40:13.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "From to zero-waste action to world leader absences: What happened on 11 November at COP31?",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-11-11T16:24:28.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "UK opens long-awaited consultation on deforestation rules after five-year delay",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-11-11T16:11:12.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Burnham prepares for COP31 as UK sends mixed signals on clean energy",
@@ -81,7 +70,7 @@
       "group": null,
       "published": "2026-11-11T13:33:54.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Pulling back on climate action now is the wrong move at the wrong time",
@@ -92,7 +81,7 @@
       "group": null,
       "published": "2026-11-11T10:00:50.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "How businesses can align climate goals with energy procurement",
@@ -103,18 +92,29 @@
       "group": null,
       "published": "2026-11-11T08:44:48.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
-      "title": "Who Gives A Crap, ProCook and Grind have ads banned for misleading carbon-neutral delivery claims",
-      "summary": "The regulator’s findings raise urgent questions about how businesses communicate their sustainability efforts.",
-      "url": "https://www.edie.net/who-gives-a-crap-procook-and-grind-have-ads-banned-for-misleading-carbon-neutral-delivery-claims/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "Analysis: Climate-finance pledges fall 70% as countries meet at COP31",
+      "summary": "The amount of public funding pledged to help developing countries tackle climate change has dropped by more than 70% in 2026, according to Carbon Brief analysis.",
+      "url": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-11-11T00:01:50.000Z",
+      "published": "2026-11-11T07:00:00.000Z",
       "why": null,
       "ago": "20 小時前"
+    },
+    {
+      "title": "核電公投首場發表會明登場 廢核平台說明反方理由、呼籲「要領票」",
+      "summary": "「廢除非核家園」公投將於本月28日與地方選舉同日投票。明（12）日首場電視意見發表會前，全國廢核行動平台今日公布 ，質疑新建核電不切實際，還可能拖慢能源轉型。針對網路上號召反核選民別領公投票，平台提醒，不領票就少一張不同意票，反而可能讓同意票領先。",
+      "url": "https://e-info.org.tw/node/244061",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-11T07:55:31.000Z",
+      "why": null,
+      "ago": "19 小時前"
     }
   ],
   "errors": []

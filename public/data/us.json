@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-11T19:54:08.388Z",
-  "updatedLocal": "2026/11/12 03:54:08",
+  "updated": "2026-11-12T03:10:02.335Z",
+  "updatedLocal": "2026/11/12 11:10:02",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-11T19:16:23.000Z",
       "why": null,
-      "ago": "38 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-11-11T16:49:02.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
@@ -37,29 +37,7 @@
       "group": null,
       "published": "2026-11-11T07:47:54.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
-      "summary": "Federal Reserve Governor Christopher Waller said Tuesday the central bank needs to follow through on expectations for additional interest rate hikes or risk its credibility, even suggesting that a larger-than-usual half-percentage-point increase could be warranted in December.",
-      "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-10T17:13:44.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "U.S. gas prices fall below $4 for the first time since July",
-      "summary": "Americans may finally find some relief at the pump. The national average price of regular gasoline fell below $4 a gallon for the first time since July, reaching $3.9788 on Tuesday, according to AAA .",
-      "url": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-10T16:29:09.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "19 小時前"
     },
     {
       "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
@@ -68,9 +46,9 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-11-11T19:17:19.000Z",
+      "published": "2026-11-11T22:59:33.000Z",
       "why": null,
-      "ago": "37 分鐘前"
+      "ago": "4 小時前"
     },
     {
       "title": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
@@ -81,18 +59,29 @@
       "group": null,
       "published": "2026-11-11T12:27:47.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
-      "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-      "summary": "Costs for goods and services rose more than expected in October, providing fresh warning signs for the Federal Reserve in its fight to lower inflation.",
-      "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
+      "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
       "group": null,
-      "published": "2026-11-10T23:53:58.000Z",
+      "published": "2026-11-12T02:52:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "18 分鐘前"
+    },
+    {
+      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-12T02:45:00.000Z",
+      "why": null,
+      "ago": "25 分鐘前"
     },
     {
       "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
@@ -101,20 +90,31 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-11T19:41:00.000Z",
+      "published": "2026-11-12T02:31:00.000Z",
       "why": null,
-      "ago": "13 分鐘前"
+      "ago": "39 分鐘前"
     },
     {
-      "title": "Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.",
-      "summary": "Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.",
-      "url": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
+      "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-11T18:48:00.000Z",
+      "published": "2026-11-12T01:12:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-11T23:30:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
     }
   ],
   "errors": [
