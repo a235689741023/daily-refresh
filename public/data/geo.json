@@ -1,14 +1,14 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-12T10:45:51.958Z",
-  "updatedLocal": "2026/11/12 18:45:51",
+  "updated": "2026-11-12T20:30:48.782Z",
+  "updatedLocal": "2026/11/13 04:30:48",
   "digest": null,
   "watch": [],
   "items": [
     {
       "title": "What's New in ArcGIS Field Maps: November 2026 Update",
-      "summary": "ArcGIS Field Maps is Esri’s premier all-in-one mobile app that combines map viewing, high-accuracy GPS data collection, form-driven inspections, task coordination, and location sharing into a single app that is deeply integrated with the ArcGIS system.",
+      "summary": "**ArcGIS Field Maps** is Esri’s premier all-in-one mobile app that combines map viewing, high-accuracy GPS data collection, form-driven inspections, task coordination, and location sharing into a single app that is deeply integrated with the ArcGIS system.",
       "url": "https://www.esri.com/arcgis-blog/products/field-maps/field-mobility/whats-new-in-arcgis-field-maps-november-2026",
       "source": "Esri",
       "tag": "平台",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-11-10T04:46:26.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "Developers can now build with Google Maps Platform in AI Studio.",
@@ -40,15 +40,15 @@
       "ago": "3 天前"
     },
     {
-      "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams - Anthropic Alignment Science blog",
-      "summary": "1 Anthropic Fellows Program; 2 Independent; 3 Anthropic As AI agents become more capable and widely used, they are increasingly required to interact with each other.",
-      "url": "https://alignment.anthropic.com/2026/worse-together/",
-      "source": "Anthropic",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "url": "https://openai.com/index/amplitude",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-11T16:43:59.000Z",
+      "published": "2026-11-12T20:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "31 分鐘前"
     },
     {
       "title": "Holiday Extras is rethinking what it can build with Codex",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-11-12T09:30:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Supporting research on AI and children’s safety",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-11-12T00:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -81,29 +81,29 @@
       "group": "ai",
       "published": "2026-11-12T00:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "21 小時前"
     },
     {
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "summary": "In the past year, more than 20,000 transitioning servicemembers and veterans have claimed a year of ChatGPT Plus at no cost after being offered free access by OpenAI.",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "source": "OpenAI",
+      "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams - Anthropic Alignment Science blog",
+      "summary": "1 Anthropic Fellows Program; 2 Independent; 3 Anthropic As AI agents become more capable and widely used, they are increasingly required to interact with each other.",
+      "url": "https://alignment.anthropic.com/2026/worse-together/",
+      "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-11T08:00:00.000Z",
+      "published": "2026-11-11T17:13:59.000Z",
       "why": null,
       "ago": "昨日"
     },
     {
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "summary": "Adam Gayoso, Natasha Latysheva, Pushmeet Kohli and Žiga Avsec Our next-generation DNA sequence model bridges single-cell biology and human genetics, predicting how genetic variants affect hundreds of human cell types.",
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": "Hydrogen brings cutting-edge intelligence to everyone.",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
       "source": "Google DeepMind",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-11T15:00:15.000Z",
+      "published": "2026-11-12T18:00:50.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "2 小時前"
     }
   ],
   "errors": []

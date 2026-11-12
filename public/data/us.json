@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-12T10:45:51.958Z",
-  "updatedLocal": "2026/11/12 18:45:51",
+  "updated": "2026-11-12T20:30:48.782Z",
+  "updatedLocal": "2026/11/13 04:30:48",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "summary": "The Federal Reserve won't vote on a potential interest-rate change at its October 2027 meeting, a departure that is part of a broader initiative from Chairman Kevin Warsh aimed at reducing the central bank's market footprint.",
+      "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-12T19:05:25.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "summary": "U.S. oil prices rose Thursday, as comments from President Donald Trump stoked worries that an end to the U.S.-Iran war was not in sight.",
+      "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-12T19:04:21.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
     {
       "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
       "summary": "From recruitment of U.S. students to allegations surrounding Nvidia's Jensen Huang affair, reports point to one Chinese intelligence agency: the Ministry of State Security.",
@@ -15,7 +37,7 @@
       "group": null,
       "published": "2026-11-12T07:28:48.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-11-11T19:16:23.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
@@ -36,17 +58,6 @@
       "tag": "大盤",
       "group": null,
       "published": "2026-11-11T16:49:02.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-      "summary": "Chinese tech and e-commerce giant Alibaba announced late Tuesday that the Hong Kong Stock Exchange will allow the company to spin off its semiconductor subsidiary T-Head.",
-      "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-11T07:47:54.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -59,62 +70,51 @@
       "group": null,
       "published": "2026-11-12T08:02:15.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
-      "summary": "The swirl of sex-and-spying allegations around Nvidia CEO Jensen Huang is raising a worrying question: Could trouble at the chipmaker spread through the tightly connected financial network Nvidia has built to support the artificial intelligence boom?",
+      "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+      "summary": "Nvidia CEO Jensen Huang 's shock resignation is raising a worrying question: Could trouble at the chipmaker spread through the tightly connected financial network Nvidia has built to support the artificial intelligence boom?",
       "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-11-11T22:59:33.000Z",
+      "published": "2026-11-12T17:39:54.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
-      "summary": "Retail sales rose at their slowest pace in nearly a year in October as American consumers showed signs of strain from high prices, according to the latest CNBC/NRF Retail Monitor.",
-      "url": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-11T12:27:47.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-      "summary": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?# I inherited $1.4 million from my father.",
-      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-12T10:15:00.000Z",
-      "why": null,
-      "ago": "31 分鐘前"
-    },
-    {
-      "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+      "title": "I’m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-12T10:07:00.000Z",
+      "published": "2026-11-12T20:17:00.000Z",
+      "why": null,
+      "ago": "14 分鐘前"
+    },
+    {
+      "title": "The S&P 500 is shrugging off Nvidia’s selloff. Here’s what’s keeping the rest of the market afloat.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-12T19:52:00.000Z",
       "why": null,
       "ago": "39 分鐘前"
     },
     {
-      "title": "Prince Harry and Meghan Markle move into new home in Cotswolds",
-      "summary": "Prince Harry and Meghan Markle move into new home in Cotswolds Choose MarketWatch as a preferred source of financial news # Prince Harry and Meghan Markle move into new home in Cotswolds ## Harry and Meghan were rumored to have been house hunting.",
-      "url": "https://www.marketwatch.com/story/prince-harry-and-meghan-markle-move-into-new-home-in-cotswolds-e9bb0739?mod=mw_rss_topstories",
+      "title": "Trump administration is hiring debt collectors to go after defaulted student-loan borrowers for first time in 6 years",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/trump-administration-is-hiring-debt-collectors-for-first-time-in-6-years-to-go-after-defaulted-student-loan-borrowers-8bae13ad?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-12T10:03:00.000Z",
+      "published": "2026-11-12T19:46:00.000Z",
       "why": null,
-      "ago": "43 分鐘前"
+      "ago": "45 分鐘前"
     }
   ],
   "errors": [

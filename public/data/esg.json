@@ -1,11 +1,44 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-12T10:45:51.958Z",
-  "updatedLocal": "2026/11/12 18:45:51",
+  "updated": "2026-11-12T20:30:48.782Z",
+  "updatedLocal": "2026/11/13 04:30:48",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "The debate on GHG Protocol’s electricity accounting revisions is far from over",
+      "summary": "A workshop held in late October by the Greenhouse Gas (GHG) Protocol to debate revisions to its widely used electricity standards failed to resolve multiple questions key to the future of corporate renewable strategies, including how to transition to the new rules and how long existing contracts will be recognized.",
+      "url": "https://trellis.net/article/the-debate-on-ghg-protocols-electricity-accounting-revisions-is-far-from-over/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-12T14:06:30.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "AI tools that work — and tips from the sustainability leaders who built them",
+      "summary": "Guidance on AI for sustainability professionals can turn impractical quickly.",
+      "url": "https://trellis.net/article/sustainability-ai-tools-tips/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-12T11:33:59.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "Updated: Sustainability leadership moves",
+      "summary": "As corporate sustainability matures, some long-time leaders are leaving the profession, while others are tackling a broader set of responsibilities following reorganizations or layoffs.",
+      "url": "https://trellis.net/article/sustainability-leadership-moves/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-12T11:00:22.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
     {
       "title": "Updated: Sustainability tools to use in 2026",
       "summary": "Welcome to the Trellis roundup of new products and services for sustainability professionals, as chosen by our editorial team.",
@@ -15,104 +48,71 @@
       "group": null,
       "published": "2026-11-12T10:35:11.000Z",
       "why": null,
-      "ago": "11 分鐘前"
-    },
-    {
-      "title": "What it will take to reduce geothermal energy prices",
-      "summary": "The advanced U.S. geothermal industry is heating up for many reasons: skyrocketing electricity demand, looming 2030 renewable energy targets, technical advances and a country abundant with promising geology.",
-      "url": "https://trellis.net/article/geothermal-energy-prices/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-11T08:24:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "From costly to accessible: How the barriers to commercial solar are coming down",
-      "summary": "Commercial solar adoption is poised to deliver vital energy security and decarbonisation for UK businesses as traditional financial and operational barriers rapidly fall away to enable a broader range of organisations to enjoy its benefits, explains Olivia Hollis, propositions developer at British Gas Business.",
-      "url": "https://www.edie.net/from-costly-to-accessible-how-the-barriers-to-commercial-solar-are-coming-down/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-12T09:03:57.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "‘Here to show British leadership’: Burnham makes COP31 debut as UK sends mixed signals on clean energy",
-      "summary": "Against a backdrop of mixed clean energy progress for the UK, Prime Minister Andy Burnham addressed COP31 today, the only G7 leader to attend this year's summit.",
-      "url": "https://www.edie.net/burnham-prepares-for-cop31-as-uk-sends-mixed-signals-on-clean-energy/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-12T09:00:54.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "£75m Bradford heat network announced to harness data centre waste heat",
-      "summary": "A £75m heat network has gone live in a former gasworks in Bradford, providing low-carbon heat to the city and enabling businesses to switch from imported fuel.",
-      "url": "https://www.edie.net/75m-bradford-heat-network-to-harness-data-centre-waste-heat/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-12T00:44:09.000Z",
-      "why": null,
       "ago": "10 小時前"
     },
     {
-      "title": "COP31 Covered podcast: Why does the energy transition need a circular approach?",
-      "summary": "The third episode of edie’s daily COP31 Covered podcast is streaming now, featuring an exclusive interview with Chatham House’s Patrick Schröder on the circular economy.",
-      "url": "https://www.edie.net/cop31-covered-podcast-why-does-the-energy-transition-need-a-circular-approach/",
+      "title": "Climate data still side-lined in major business decisions, research finds",
+      "summary": "New Ordnance Survey (OS) research has found that climate data remains side-lined in 67% of major strategic or investment decisions, representing a sizeable blind spot in corporate planning.",
+      "url": "https://www.edie.net/climate-data-still-side-lined-in-major-business-decisions-research-finds/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-11-11T18:37:34.000Z",
+      "published": "2026-11-12T19:56:22.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "34 分鐘前"
     },
     {
-      "title": "WEBINAR NEXT WEEK: How to turn climate risk insights into adaptation action",
+      "title": "Burnham names UK climate security envoy at COP31",
+      "summary": "During his appearance in Antalya, the Prime Minister named Dame Madeleine Alessandri, a former national security adviser, as the UK's new climate security envoy.",
+      "url": "https://www.edie.net/burnham-names-uk-climate-security-envoy-at-cop31/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-12T19:44:21.000Z",
+      "why": null,
+      "ago": "46 分鐘前"
+    },
+    {
+      "title": "COP31 Covered podcast: Cities, climate risk and the outgoing Climate Champion",
+      "summary": "The fourth episode of edie’s daily COP31 Covered podcast is streaming now, featuring an exclusive interview with COP30 Climate High-Level Champion Dan Ioschpe.",
+      "url": "https://www.edie.net/cop31-covered-podcast-cities-climate-risk-and-the-outgoing-climate-champion/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-12T18:54:37.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "From Burnham’s COP31 debut to a new ‘resilient cities’ pledge: What happened on 12 November at COP31?",
+      "summary": "Today marked the fourth day of COP31 and the second and final day of the Leaders Summit, with discussions centred on the theme of Resilient Cities.",
+      "url": "https://www.edie.net/from-burnhams-cop31-debut-to-a-new-resilient-cities-pledge-what-happened-on-12-november-at-cop31/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-12T17:53:20.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "ONE WEEK TO REGISTER: How to turn climate risk insights into adaptation action",
       "summary": "This webinar, held in partnership with SmartResilience on 19 November, will explore why and how leading organisations are moving from simply measuring risk to actively adapting in order to protect their operations, assets and supply chains.",
       "url": "https://www.edie.net/next-month-masterclass-on-turning-climate-risk-insights-into-adaptation/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-11-11T17:40:13.000Z",
+      "published": "2026-11-12T17:40:13.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "From to zero-waste action to world leader absences: What happened on 11 November at COP31?",
-      "summary": "One question hung over the first day of the Leaders’ Summit in Antalya: can COP31 deliver when most of the world’s biggest economies have stayed at home?",
-      "url": "https://www.edie.net/from-to-zero-waste-action-to-world-leader-absences-what-happened-on-11-november-at-cop31/",
+      "title": "Leading oil and gas companies set methane standards many European suppliers have yet to meet, IEA finds",
+      "summary": "A small group of oil and gas companies are disclosing more information about methane emissions and setting out clearer plans to address them, but the gap between these companies and much of the industry remains wide.",
+      "url": "https://www.edie.net/leading-oil-and-gas-companies-set-methane-standards-many-european-suppliers-have-yet-to-meet-iea-finds/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-11-11T16:24:28.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "UK opens long-awaited consultation on deforestation rules after five-year delay",
-      "summary": "The UK Government has opened a consultation on long-awaited regulations aimed at preventing products linked to illegal deforestation from entering the British market, five years after first promising to introduce the legislation.",
-      "url": "https://www.edie.net/uk-opens-long-awaited-consultation-on-deforestation-rules-after-five-year-delay/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-11T16:11:12.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "防災、露營好幫手 國產自熱包餐食即將上市 原料來自廢蚵殼",
-      "summary": "農業部水產試驗所研發將廢棄蚵殼再製成「自發熱源包」技術，並成功將技術轉移給民間業者，預計明年初開始量產。這類加熱產品就像「行動電鍋」，不需要電就可以有熱騰騰食物，不僅可提供國軍，也可滿足民眾日常戶外活動與防災的需求。農業部水產試驗所研發將廢棄蚵殼再製成氧化鈣「自發熱源包」技術，9日與穀萊生技股份有限公司舉行技術轉移簽約儀式，成為國內目前唯一一家製作自熱包的業者。",
-      "url": "https://e-info.org.tw/node/244066",
-      "source": "環境資訊中心",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-11-12T06:05:49.000Z",
+      "published": "2026-11-12T15:42:43.000Z",
       "why": null,
       "ago": "5 小時前"
     }
