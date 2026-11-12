@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-12T03:10:02.335Z",
-  "updatedLocal": "2026/11/12 11:10:02",
+  "updated": "2026-11-12T10:45:51.958Z",
+  "updatedLocal": "2026/11/12 18:45:51",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+      "summary": "From recruitment of U.S. students to allegations surrounding Nvidia's Jensen Huang affair, reports point to one Chinese intelligence agency: the Ministry of State Security.",
+      "url": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-12T07:28:48.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
       "summary": "Prediction market event contracts on both clinical drug trials and Food and Drug Administration regulatory approvals are drawing attention from two Democratic senators, according to a letter obtained first by CNBC.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-11-11T19:16:23.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-11-11T16:49:02.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
@@ -37,7 +48,18 @@
       "group": null,
       "published": "2026-11-11T07:47:54.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'",
+      "summary": "The U.K. economy grew 0.7% in the third quarter, in line with estimates, driven by output in the services sector.",
+      "url": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-11-12T08:02:15.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-11-11T22:59:33.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
@@ -59,7 +81,18 @@
       "group": null,
       "published": "2026-11-11T12:27:47.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
+    },
+    {
+      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+      "summary": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?# I inherited $1.4 million from my father.",
+      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-12T10:15:00.000Z",
+      "why": null,
+      "ago": "31 分鐘前"
     },
     {
       "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
@@ -68,53 +101,20 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-12T02:52:00.000Z",
-      "why": null,
-      "ago": "18 分鐘前"
-    },
-    {
-      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-12T02:45:00.000Z",
-      "why": null,
-      "ago": "25 分鐘前"
-    },
-    {
-      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-12T02:31:00.000Z",
+      "published": "2026-11-12T10:07:00.000Z",
       "why": null,
       "ago": "39 分鐘前"
     },
     {
-      "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+      "title": "Prince Harry and Meghan Markle move into new home in Cotswolds",
+      "summary": "Prince Harry and Meghan Markle move into new home in Cotswolds Choose MarketWatch as a preferred source of financial news # Prince Harry and Meghan Markle move into new home in Cotswolds ## Harry and Meghan were rumored to have been house hunting.",
+      "url": "https://www.marketwatch.com/story/prince-harry-and-meghan-markle-move-into-new-home-in-cotswolds-e9bb0739?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-12T01:12:00.000Z",
+      "published": "2026-11-12T10:03:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-11T23:30:00.000Z",
-      "why": null,
-      "ago": "4 小時前"
+      "ago": "43 分鐘前"
     }
   ],
   "errors": [

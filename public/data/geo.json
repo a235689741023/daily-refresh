@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-12T03:10:02.335Z",
-  "updatedLocal": "2026/11/12 11:10:02",
+  "updated": "2026-11-12T10:45:51.958Z",
+  "updatedLocal": "2026/11/12 18:45:51",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-11-10T19:27:50.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "What's new in geospatial AI (November 2026)",
@@ -37,7 +37,7 @@
       "group": "gis",
       "published": "2026-11-09T17:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams - Anthropic Alignment Science blog",
@@ -48,7 +48,29 @@
       "group": "ai",
       "published": "2026-11-11T16:43:59.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-12T09:30:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAI pledges $2 million as part of a global effort to better understand AI’s impact on children and support their safety and wellbeing.",
+      "url": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-12T00:00:00.000Z",
+      "why": null,
+      "ago": "11 小時前"
     },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -59,7 +81,7 @@
       "group": "ai",
       "published": "2026-11-12T00:00:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "ChatGPT Plus for veterans and servicemembers",
@@ -69,17 +91,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-11-11T08:00:00.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "summary": "A conversation with Vijay Seshadri, Chief Architect at JioStar. Our Executive Function series features perspectives from leaders driving transformation through AI.",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-11T00:00:00.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -92,18 +103,7 @@
       "group": "ai",
       "published": "2026-11-11T15:00:15.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "summary": "Introducing the Gemini Decisions API, powered by our new Gemini Decision 1 model.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "source": "Google AI Blog",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-11T18:00:00.000Z",
-      "why": null,
-      "ago": "9 小時前"
+      "ago": "20 小時前"
     }
   ],
   "errors": []

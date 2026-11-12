@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-12T03:10:02.335Z",
-  "updatedLocal": "2026/11/12 11:10:02",
+  "updated": "2026-11-12T10:45:51.958Z",
+  "updatedLocal": "2026/11/12 18:45:51",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Updated: Sustainability tools to use in 2026",
+      "summary": "Welcome to the Trellis roundup of new products and services for sustainability professionals, as chosen by our editorial team.",
+      "url": "https://trellis.net/article/corporate-sustainability-tools-to-use/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-12T10:35:11.000Z",
+      "why": null,
+      "ago": "11 分鐘前"
+    },
     {
       "title": "What it will take to reduce geothermal energy prices",
       "summary": "The advanced U.S. geothermal industry is heating up for many reasons: skyrocketing electricity demand, looming 2030 renewable energy targets, technical advances and a country abundant with promising geology.",
@@ -15,7 +26,40 @@
       "group": null,
       "published": "2026-11-11T08:24:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "From costly to accessible: How the barriers to commercial solar are coming down",
+      "summary": "Commercial solar adoption is poised to deliver vital energy security and decarbonisation for UK businesses as traditional financial and operational barriers rapidly fall away to enable a broader range of organisations to enjoy its benefits, explains Olivia Hollis, propositions developer at British Gas Business.",
+      "url": "https://www.edie.net/from-costly-to-accessible-how-the-barriers-to-commercial-solar-are-coming-down/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-12T09:03:57.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "‘Here to show British leadership’: Burnham makes COP31 debut as UK sends mixed signals on clean energy",
+      "summary": "Against a backdrop of mixed clean energy progress for the UK, Prime Minister Andy Burnham addressed COP31 today, the only G7 leader to attend this year's summit.",
+      "url": "https://www.edie.net/burnham-prepares-for-cop31-as-uk-sends-mixed-signals-on-clean-energy/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-12T09:00:54.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "£75m Bradford heat network announced to harness data centre waste heat",
+      "summary": "A £75m heat network has gone live in a former gasworks in Bradford, providing low-carbon heat to the city and enabling businesses to switch from imported fuel.",
+      "url": "https://www.edie.net/75m-bradford-heat-network-to-harness-data-centre-waste-heat/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-12T00:44:09.000Z",
+      "why": null,
+      "ago": "10 小時前"
     },
     {
       "title": "COP31 Covered podcast: Why does the energy transition need a circular approach?",
@@ -26,7 +70,7 @@
       "group": null,
       "published": "2026-11-11T18:37:34.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "WEBINAR NEXT WEEK: How to turn climate risk insights into adaptation action",
@@ -37,7 +81,7 @@
       "group": null,
       "published": "2026-11-11T17:40:13.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "From to zero-waste action to world leader absences: What happened on 11 November at COP31?",
@@ -48,7 +92,7 @@
       "group": null,
       "published": "2026-11-11T16:24:28.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "UK opens long-awaited consultation on deforestation rules after five-year delay",
@@ -59,62 +103,18 @@
       "group": null,
       "published": "2026-11-11T16:11:12.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
-      "title": "Burnham prepares for COP31 as UK sends mixed signals on clean energy",
-      "summary": "Against a backdrop of mixed clean energy progress for the UK, Prime Minister Andy Burnham is making his COP31 debut today, the only G7 leader to attend this year's summit.",
-      "url": "https://www.edie.net/burnham-prepares-for-cop31-as-uk-sends-mixed-signals-on-clean-energy/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-11T13:33:54.000Z",
-      "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "Pulling back on climate action now is the wrong move at the wrong time",
-      "summary": "The biggest thing I took away from attending a recent global sustainability summit, a room filled with hundreds of CEOs and chief sustainability officers, was uncomfortable: many companies are quietly pulling back on climate action.",
-      "url": "https://www.edie.net/pulling-back-on-climate-action-now-is-the-wrong-move-at-the-wrong-time/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-11T10:00:50.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "How businesses can align climate goals with energy procurement",
-      "summary": "In edie’s latest cross-sector roundtable, sponsored by SmartestEnergy, UK businesses expressed an appetite to explore CPPAs and boost renewable energy use in their supply chains.",
-      "url": "https://www.edie.net/how-businesses-can-align-climate-goals-with-energy-procurement/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-11T08:44:48.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Analysis: Climate-finance pledges fall 70% as countries meet at COP31",
-      "summary": "The amount of public funding pledged to help developing countries tackle climate change has dropped by more than 70% in 2026, according to Carbon Brief analysis.",
-      "url": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-11-11T07:00:00.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "核電公投首場發表會明登場 廢核平台說明反方理由、呼籲「要領票」",
-      "summary": "「廢除非核家園」公投將於本月28日與地方選舉同日投票。明（12）日首場電視意見發表會前，全國廢核行動平台今日公布 ，質疑新建核電不切實際，還可能拖慢能源轉型。針對網路上號召反核選民別領公投票，平台提醒，不領票就少一張不同意票，反而可能讓同意票領先。",
-      "url": "https://e-info.org.tw/node/244061",
+      "title": "防災、露營好幫手 國產自熱包餐食即將上市 原料來自廢蚵殼",
+      "summary": "農業部水產試驗所研發將廢棄蚵殼再製成「自發熱源包」技術，並成功將技術轉移給民間業者，預計明年初開始量產。這類加熱產品就像「行動電鍋」，不需要電就可以有熱騰騰食物，不僅可提供國軍，也可滿足民眾日常戶外活動與防災的需求。農業部水產試驗所研發將廢棄蚵殼再製成氧化鈣「自發熱源包」技術，9日與穀萊生技股份有限公司舉行技術轉移簽約儀式，成為國內目前唯一一家製作自熱包的業者。",
+      "url": "https://e-info.org.tw/node/244066",
       "source": "環境資訊中心",
       "tag": "台灣",
       "group": null,
-      "published": "2026-11-11T07:55:31.000Z",
+      "published": "2026-11-12T06:05:49.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "5 小時前"
     }
   ],
   "errors": []
