@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-13T10:41:51.054Z",
-  "updatedLocal": "2026/11/13 18:41:51",
+  "updated": "2026-11-13T20:07:30.824Z",
+  "updatedLocal": "2026/11/14 04:07:30",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
+      "summary": "In late September, Cantor Fitzgerald hosted Nvidia CEO Jensen Huang and other top executives from the chipmaker for investor meetings in New York, according to a Cantor research report reviewed by CNBC.",
+      "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-13T19:11:13.000Z",
+      "why": null,
+      "ago": "56 分鐘前"
+    },
+    {
+      "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
+      "summary": "Chicago Federal Reserve President Austan Goolsbee expressed concern about the latest inflation data, telling CNBC on Friday that the central bank likely will need to take action.",
+      "url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-13T14:22:07.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
     {
       "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
       "summary": "BEIJING — Prolonged U.S. Congressional scrutiny of former Nvidia CEO Jensen Huang's affair with an alleged Chinese spy raises the stakes for already tense relations between the world's two largest economies.",
@@ -15,18 +37,7 @@
       "group": null,
       "published": "2026-11-13T02:56:35.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-      "summary": "The Federal Reserve won't vote on a potential interest-rate change at its October 2027 meeting, a departure that is part of a broader initiative from Chairman Kevin Warsh aimed at reducing the central bank's market footprint.",
-      "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-12T19:05:25.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
@@ -37,29 +48,40 @@
       "group": null,
       "published": "2026-11-13T00:01:19.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
-      "summary": "From recruitment of U.S. students to allegations surrounding Nvidia's Jensen Huang affair, reports point to one Chinese intelligence agency: the Ministry of State Security.",
-      "url": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
+      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "summary": "The Federal Reserve won't vote on a potential interest-rate change at its October 2027 meeting, a departure that is part of a broader initiative from Chairman Kevin Warsh aimed at reducing the central bank's market footprint.",
+      "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-12T07:28:48.000Z",
+      "published": "2026-11-12T19:05:25.000Z",
       "why": null,
       "ago": "昨日"
     },
     {
-      "title": "The Fed expected rate cuts this year. Now it’s bracing for another inflation fight",
-      "summary": "At the start of the year, the Federal Reserve was sanguine about the American economy. Inflation seemed to be trending down.",
+      "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
+      "summary": "Wholesale prices increased less than expected in October, but inflation pressures persisted and the Federal Reserve is likely still on target for an interest rate increase soon.",
+      "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-11-13T15:44:16.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+      "summary": "Treasury Secretary Scott Bessent on Friday said his department and others in the Trump administration have long supported imposing restrictions on Megaspeed, the company at the center of former Nvidia CEO Jensen Huang 's spy-sex scandal .",
       "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-11-13T10:00:26.000Z",
+      "published": "2026-11-13T17:06:57.000Z",
       "why": null,
-      "ago": "41 分鐘前"
+      "ago": "3 小時前"
     },
     {
       "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
@@ -70,51 +92,29 @@
       "group": null,
       "published": "2026-11-12T23:08:50.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
-      "title": "‘She has a history of financial mismanagement’: My brother cut my sister out of his will. I’m getting everything. Do I tell her?",
-      "summary": "## ‘I’m torn between respecting my brother’s wishes, being fair to my sister, and preserving a relationship that means a great deal to me’ Choose MarketWatch as a preferred source of financial news First, a little background.",
-      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-13T10:15:00.000Z",
-      "why": null,
-      "ago": "27 分鐘前"
-    },
-    {
-      "title": "Earnings growth is set to peter out — but not the bull market, says Goldman Sachs. Here’s what the firm recommends.",
+      "title": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/earnings-growth-is-set-to-peter-out-but-not-the-bull-market-says-goldman-sachs-heres-what-the-firm-recommends-bf409a6d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-13T10:14:00.000Z",
+      "published": "2026-11-13T20:02:00.000Z",
       "why": null,
-      "ago": "28 分鐘前"
+      "ago": "6 分鐘前"
     },
     {
-      "title": "My wife has dementia and may outlive me. How do we prepare for long-term memory care?",
+      "title": "My husband inherited $500,000, but he refuses to spend it on our home. Should I be worried?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/my-wife-has-dementia-and-may-outlive-me-how-do-we-prepare-for-long-term-memory-care-9c23efaa?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-13T09:09:00.000Z",
+      "published": "2026-11-13T20:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-13T04:46:00.000Z",
-      "why": null,
-      "ago": "6 小時前"
+      "ago": "8 分鐘前"
     }
   ],
   "errors": [

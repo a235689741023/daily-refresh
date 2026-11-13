@@ -1,22 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-13T10:41:51.054Z",
-  "updatedLocal": "2026/11/13 18:41:51",
+  "updated": "2026-11-13T20:07:30.824Z",
+  "updatedLocal": "2026/11/14 04:07:30",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "ArcGIS Monitor: Esri UC 2026 Technical Sessions",
-      "summary": "The ArcGIS Architecture Center site contains information on strategies and best practices for designing and deploying ArcGIS systems.",
-      "url": "https://www.esri.com/arcgis-blog/products/monitor/administration/arcgis-monitor-esri-uc-2026-technical-sessions",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-12T16:06:40.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
     {
       "title": "What's New in ArcGIS Field Maps: November 2026 Update",
       "summary": "ArcGIS Field Maps is Esri’s premier all-in-one mobile app that combines map viewing, high-accuracy GPS data collection, form-driven inspections, task coordination, and location sharing into a single app that is deeply integrated with the ArcGIS system.",
@@ -29,17 +18,6 @@
       "ago": "3 天前"
     },
     {
-      "title": "What’s New in Map Viewer (November 2026)",
-      "summary": "The latest Map Viewer update gives you more ways to turn your data into meaningful, engaging web maps.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-online/announcements/whats-new-in-map-viewer-november-2026",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-10T09:06:32.000Z",
-      "why": null,
-      "ago": "3 天前"
-    },
-    {
       "title": "What's new in geospatial AI (November 2026)",
       "summary": "New geospatial AI capabilities are ready to help boost productivity and execute advanced spatial analytical workflows.",
       "url": "https://www.esri.com/arcgis-blog/products/arcgis/geoai/whats-new-in-geospatial-ai-november-2026",
@@ -48,7 +26,7 @@
       "group": "gis",
       "published": "2026-11-10T04:46:26.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
       "title": "Developers can now build with Google Maps Platform in AI Studio.",
@@ -62,6 +40,28 @@
       "ago": "4 天前"
     },
     {
+      "title": "Building strong safety evaluations",
+      "summary": "Safety evaluations inform some of the most consequential decisions we make about an AI model, including whether it’s ready to deploy, which safeguards ship alongside it, and what our next round of safety training and research should focus on.",
+      "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-13T18:06:18.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "Building trusted agentic payments with networks, banks, and businesses.1.2B people use ChatGPT each week, and many of them turn to it to research products, compare options, and decide what to buy.",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-13T15:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
       "url": "https://openai.com/business/customer-stories/amplitude",
@@ -70,40 +70,7 @@
       "group": "ai",
       "published": "2026-11-12T20:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-12T12:00:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-12T09:30:00.000Z",
-      "why": null,
       "ago": "昨日"
-    },
-    {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "summary": "Hydrogen brings cutting-edge intelligence to everyone.",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "source": "Google DeepMind",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-12T18:00:50.000Z",
-      "why": null,
-      "ago": "17 小時前"
     },
     {
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
@@ -114,7 +81,18 @@
       "group": "ai",
       "published": "2026-11-12T20:16:24.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "24 小時前"
+    },
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": "Hydrogen brings cutting-edge intelligence to everyone.",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "Google DeepMind",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-12T18:00:50.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
@@ -125,7 +103,7 @@
       "group": "ai",
       "published": "2026-11-12T18:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
