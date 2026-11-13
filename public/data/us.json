@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-13T02:43:15.108Z",
-  "updatedLocal": "2026/11/13 10:43:15",
+  "updated": "2026-11-13T10:41:51.054Z",
+  "updatedLocal": "2026/11/13 18:41:51",
   "digest": null,
   "watch": [],
   "items": [
@@ -13,9 +13,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-13T01:48:50.000Z",
+      "published": "2026-11-13T02:56:35.000Z",
       "why": null,
-      "ago": "54 分鐘前"
+      "ago": "8 小時前"
     },
     {
       "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-11-12T19:05:25.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-11-13T00:01:19.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
@@ -48,18 +48,18 @@
       "group": null,
       "published": "2026-11-12T07:28:48.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'",
-      "summary": "The U.K. economy grew 0.7% in the third quarter, in line with estimates, driven by output in the services sector.",
-      "url": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
+      "title": "The Fed expected rate cuts this year. Now it’s bracing for another inflation fight",
+      "summary": "At the start of the year, the Federal Reserve was sanguine about the American economy. Inflation seemed to be trending down.",
+      "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-11-12T08:02:15.000Z",
+      "published": "2026-11-13T10:00:26.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "41 分鐘前"
     },
     {
       "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
@@ -70,51 +70,51 @@
       "group": null,
       "published": "2026-11-12T23:08:50.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+      "title": "‘She has a history of financial mismanagement’: My brother cut my sister out of his will. I’m getting everything. Do I tell her?",
+      "summary": "## ‘I’m torn between respecting my brother’s wishes, being fair to my sister, and preserving a relationship that means a great deal to me’ Choose MarketWatch as a preferred source of financial news First, a little background.",
+      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-12T22:57:00.000Z",
+      "published": "2026-11-13T10:15:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "27 分鐘前"
     },
     {
-      "title": "Opening trading-card packs has become a $2 billion market",
+      "title": "Earnings growth is set to peter out — but not the bull market, says Goldman Sachs. Here’s what the firm recommends.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/earnings-growth-is-set-to-peter-out-but-not-the-bull-market-says-goldman-sachs-heres-what-the-firm-recommends-bf409a6d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-12T22:38:00.000Z",
+      "published": "2026-11-13T10:14:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "28 分鐘前"
     },
     {
-      "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+      "title": "My wife has dementia and may outlive me. How do we prepare for long-term memory care?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-wife-has-dementia-and-may-outlive-me-how-do-we-prepare-for-long-term-memory-care-9c23efaa?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-12T22:16:00.000Z",
+      "published": "2026-11-13T09:09:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "2 小時前"
     },
     {
-      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-12T22:00:00.000Z",
+      "published": "2026-11-13T04:46:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "6 小時前"
     }
   ],
   "errors": [

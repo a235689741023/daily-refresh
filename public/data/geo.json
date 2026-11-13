@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-13T02:43:15.108Z",
-  "updatedLocal": "2026/11/13 10:43:15",
+  "updated": "2026-11-13T10:41:51.054Z",
+  "updatedLocal": "2026/11/13 18:41:51",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-11-12T16:06:40.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "What's New in ArcGIS Field Maps: November 2026 Update",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-11-10T19:27:50.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "What’s New in Map Viewer (November 2026)",
@@ -51,6 +51,17 @@
       "ago": "3 天前"
     },
     {
+      "title": "Developers can now build with Google Maps Platform in AI Studio.",
+      "summary": "Building real-world context into your apps just got much easier.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
+      "source": "Google Maps Blog",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-09T17:00:00.000Z",
+      "why": null,
+      "ago": "4 天前"
+    },
+    {
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
       "url": "https://openai.com/business/customer-stories/amplitude",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-11-12T20:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Gondola doubles revenue as its team builds more with Codex",
@@ -70,7 +81,7 @@
       "group": "ai",
       "published": "2026-11-12T12:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Holiday Extras is rethinking what it can build with Codex",
@@ -80,28 +91,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-11-12T09:30:00.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Supporting research on AI and children’s safety",
-      "summary": "OpenAI pledges $2 million as part of a global effort to better understand AI’s impact on children and support their safety and wellbeing.",
-      "url": "https://openai.com/index/children-first-declaration",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-12T00:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin. Our Executive Function series features perspectives from leaders driving transformation through AI.",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-12T00:00:00.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -114,7 +103,29 @@
       "group": "ai",
       "published": "2026-11-12T18:00:50.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
+    },
+    {
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
+      "group": "ai",
+      "published": "2026-11-12T20:16:24.000Z",
+      "why": null,
+      "ago": "14 小時前"
+    },
+    {
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more intuitive, visual, and precise answers.",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "source": "Google AI Blog",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-12T18:00:00.000Z",
+      "why": null,
+      "ago": "17 小時前"
     }
   ],
   "errors": []
