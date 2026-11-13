@@ -1,14 +1,25 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-12T20:30:48.782Z",
-  "updatedLocal": "2026/11/13 04:30:48",
+  "updated": "2026-11-13T02:43:15.108Z",
+  "updatedLocal": "2026/11/13 10:43:15",
   "digest": null,
   "watch": [],
   "items": [
     {
+      "title": "ArcGIS Monitor: Esri UC 2026 Technical Sessions",
+      "summary": "The ArcGIS Architecture Center site contains information on strategies and best practices for designing and deploying ArcGIS systems.",
+      "url": "https://www.esri.com/arcgis-blog/products/monitor/administration/arcgis-monitor-esri-uc-2026-technical-sessions",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-12T16:06:40.000Z",
+      "why": null,
+      "ago": "11 小時前"
+    },
+    {
       "title": "What's New in ArcGIS Field Maps: November 2026 Update",
-      "summary": "**ArcGIS Field Maps** is Esri’s premier all-in-one mobile app that combines map viewing, high-accuracy GPS data collection, form-driven inspections, task coordination, and location sharing into a single app that is deeply integrated with the ArcGIS system.",
+      "summary": "ArcGIS Field Maps is Esri’s premier all-in-one mobile app that combines map viewing, high-accuracy GPS data collection, form-driven inspections, task coordination, and location sharing into a single app that is deeply integrated with the ArcGIS system.",
       "url": "https://www.esri.com/arcgis-blog/products/field-maps/field-mobility/whats-new-in-arcgis-field-maps-november-2026",
       "source": "Esri",
       "tag": "平台",
@@ -16,6 +27,17 @@
       "published": "2026-11-10T19:27:50.000Z",
       "why": null,
       "ago": "2 天前"
+    },
+    {
+      "title": "What’s New in Map Viewer (November 2026)",
+      "summary": "The latest Map Viewer update gives you more ways to turn your data into meaningful, engaging web maps.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-online/announcements/whats-new-in-map-viewer-november-2026",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-10T09:06:32.000Z",
+      "why": null,
+      "ago": "3 天前"
     },
     {
       "title": "What's new in geospatial AI (November 2026)",
@@ -29,26 +51,26 @@
       "ago": "3 天前"
     },
     {
-      "title": "Developers can now build with Google Maps Platform in AI Studio.",
-      "summary": "Building real-world context into your apps just got much easier.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
-      "source": "Google Maps Blog",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-09T17:00:00.000Z",
-      "why": null,
-      "ago": "3 天前"
-    },
-    {
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "url": "https://openai.com/index/amplitude",
+      "url": "https://openai.com/business/customer-stories/amplitude",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
       "published": "2026-11-12T20:00:00.000Z",
       "why": null,
-      "ago": "31 分鐘前"
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-12T12:00:00.000Z",
+      "why": null,
+      "ago": "15 小時前"
     },
     {
       "title": "Holiday Extras is rethinking what it can build with Codex",
@@ -59,7 +81,7 @@
       "group": "ai",
       "published": "2026-11-12T09:30:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Supporting research on AI and children’s safety",
@@ -70,7 +92,7 @@
       "group": "ai",
       "published": "2026-11-12T00:00:00.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -80,17 +102,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-11-12T00:00:00.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams - Anthropic Alignment Science blog",
-      "summary": "1 Anthropic Fellows Program; 2 Independent; 3 Anthropic As AI agents become more capable and widely used, they are increasingly required to interact with each other.",
-      "url": "https://alignment.anthropic.com/2026/worse-together/",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-11T17:13:59.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -103,7 +114,7 @@
       "group": "ai",
       "published": "2026-11-12T18:00:50.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     }
   ],
   "errors": []

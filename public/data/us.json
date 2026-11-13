@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-12T20:30:48.782Z",
-  "updatedLocal": "2026/11/13 04:30:48",
+  "updated": "2026-11-13T02:43:15.108Z",
+  "updatedLocal": "2026/11/13 10:43:15",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+      "summary": "BEIJING — Prolonged U.S. Congressional scrutiny of former Nvidia CEO Jensen Huang's affair with an alleged Chinese spy raises the stakes for already tense relations between the world's two largest economies.",
+      "url": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-13T01:48:50.000Z",
+      "why": null,
+      "ago": "54 分鐘前"
+    },
     {
       "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
       "summary": "The Federal Reserve won't vote on a potential interest-rate change at its October 2027 meeting, a departure that is part of a broader initiative from Chairman Kevin Warsh aimed at reducing the central bank's market footprint.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-11-12T19:05:25.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
@@ -24,9 +35,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-12T19:04:21.000Z",
+      "published": "2026-11-13T00:01:19.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "3 小時前"
     },
     {
       "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
@@ -37,29 +48,7 @@
       "group": null,
       "published": "2026-11-12T07:28:48.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
-      "summary": "Prediction market event contracts on both clinical drug trials and Food and Drug Administration regulatory approvals are drawing attention from two Democratic senators, according to a letter obtained first by CNBC.",
-      "url": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-11T19:16:23.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-      "summary": "Chicago Federal Reserve President Austan Goolsbee called the latest inflation data \"borderline disturbing.\"",
-      "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-11T16:49:02.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "19 小時前"
     },
     {
       "title": "UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-11-12T08:02:15.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
@@ -79,42 +68,53 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-11-12T17:39:54.000Z",
+      "published": "2026-11-12T23:08:50.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "4 小時前"
     },
     {
-      "title": "I’m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
+      "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-12T20:17:00.000Z",
+      "published": "2026-11-12T22:57:00.000Z",
       "why": null,
-      "ago": "14 分鐘前"
+      "ago": "4 小時前"
     },
     {
-      "title": "The S&P 500 is shrugging off Nvidia’s selloff. Here’s what’s keeping the rest of the market afloat.",
+      "title": "Opening trading-card packs has become a $2 billion market",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-12T19:52:00.000Z",
+      "published": "2026-11-12T22:38:00.000Z",
       "why": null,
-      "ago": "39 分鐘前"
+      "ago": "4 小時前"
     },
     {
-      "title": "Trump administration is hiring debt collectors to go after defaulted student-loan borrowers for first time in 6 years",
+      "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/trump-administration-is-hiring-debt-collectors-for-first-time-in-6-years-to-go-after-defaulted-student-loan-borrowers-8bae13ad?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-12T19:46:00.000Z",
+      "published": "2026-11-12T22:16:00.000Z",
       "why": null,
-      "ago": "45 分鐘前"
+      "ago": "4 小時前"
+    },
+    {
+      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-12T22:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     }
   ],
   "errors": [
