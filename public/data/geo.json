@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-14T09:55:17.574Z",
-  "updatedLocal": "2026/11/14 17:55:17",
+  "updated": "2026-11-14T18:33:00.895Z",
+  "updatedLocal": "2026/11/15 02:33:00",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "What’s New in Map Viewer (November 2026)",
+      "summary": "The latest Map Viewer update gives you more ways to turn your data into meaningful, engaging web maps.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-online/announcements/whats-new-in-map-viewer-november-2026",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-10T09:06:32.000Z",
+      "why": null,
+      "ago": "4 天前"
+    },
     {
       "title": "What's New in ArcGIS Field Maps: November 2026 Update",
       "summary": "ArcGIS Field Maps is Esri’s premier all-in-one mobile app that combines map viewing, high-accuracy GPS data collection, form-driven inspections, task coordination, and location sharing into a single app that is deeply integrated with the ArcGIS system.",
@@ -26,7 +37,7 @@
       "group": "gis",
       "published": "2026-11-10T04:46:26.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
     },
     {
       "title": "Developers can now build with Google Maps Platform in AI Studio.",
@@ -48,7 +59,7 @@
       "group": "ai",
       "published": "2026-11-13T18:06:18.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Introducing ChatGPT Wallet",
@@ -59,40 +70,29 @@
       "group": "ai",
       "published": "2026-11-13T15:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "summary": "With GPT‑6 Astra, the agents in Shield’s Forge platform navigate legacy portals so technicians can focus on issues that need their attention.",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-13T08:00:00.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
-      "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients.",
-      "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-11-13T13:00:42.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Two Architects of Key State AI Laws Come to Washington to Do It Again",
-      "summary": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world # Two Architects of Key State AI Laws Come to Washington to Do It Again Photographer: Andrew Harnik/Getty Images; David Paul Morris/Bloomberg Colorado’s Manny Rutinel and California’s Scott Wiener took on the artificial intelligence industry in their respective state capitals and won.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-13/state-ai-safety-law-architects-to-push-for-federal-version-in-congress",
-      "source": "Bloomberg.com",
+      "title": "Mandatory AI Safety Rules: 6 Crucial Duties for AI Firms",
+      "summary": "Mandatory AI safety rules are on their way for any frontier AI company that wants to operate in Australia.",
+      "url": "https://newscop.com.au/2026/11/14/mandatory-ai-safety-rules-australia/",
+      "source": "NewsCop",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-11-13T12:45:00.000Z",
+      "published": "2026-11-14T12:00:03.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "7 小時前"
+    },
+    {
+      "title": "Stuart Russell on AI safety, impact on humanity and what US, China & India should do | HTLS 2026 | Hindustan Times",
+      "summary": "HT Premium Articles Expertly crafted articles Quickreads Segment News brief in summary format HT E-paper Access digital news experience # Stuart Russell on AI safety, impact on humanity and what US, China & India should do | HTLS 2026 ** **Published on Nov 14, 2026 3:16 PM IST ## Artificial intelligence expert Stuart Russell has called for international standards and mandatory pre-release testing of AI systems, saying national regulations alone are not enough.",
+      "url": "https://www.hindustantimes.com/videos/htls/stuart-russell-on-ai-safety-impact-on-humanity-and-what-us-china-india-should-do-htls-2026-101794649470473.html",
+      "source": "Hindustan Times",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-14T09:46:52.000Z",
+      "why": null,
+      "ago": "9 小時前"
     },
     {
       "title": "New York launches RAISE portal, big AI developers must register by Jan 1",
@@ -103,7 +103,18 @@
       "group": "ai",
       "published": "2026-11-13T15:57:58.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Anthropic prices its IPO six days after a court filing targets frontier AI",
+      "summary": "Four nonprofits want a California court to halt frontier AI models at five developers, with up to 20% of the Nasdaq listing set aside for retail Anthropic will price its initial public offering on November 18, as a defendant in a lawsuit seeking to freeze development of its most advanced models.",
+      "url": "https://www.wealthprofessional.ca/investments/equity-markets/anthropic-prices-its-ipo-six-days-after-a-court-filing-targets-frontier-ai/394011",
+      "source": "Wealth Professional",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-13T13:04:01.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []

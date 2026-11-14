@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-14T09:55:17.574Z",
-  "updatedLocal": "2026/11/14 17:55:17",
+  "updated": "2026-11-14T18:33:00.895Z",
+  "updatedLocal": "2026/11/15 02:33:00",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "summary": "The largest technology stocks linked to the artificial intelligence trade could stand to benefit the most from Nvidia's woes and a Democratic-controlled Congress pushing back on data centers, according to investing experts interviewed on CNBC's \" ETF Edge \" earlier this week.",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-14T15:50:43.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+      "summary": "Foundation Future Industries , a maker of military humanoid robots advised and backed by Eric Trump, failed to pay employees last month as its cash reserves dwindled, according to people with direct knowledge of the matter.",
+      "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-14T12:00:01.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
       "summary": "In late September, Cantor Fitzgerald hosted Nvidia CEO Jensen Huang and other top executives from the chipmaker for investor meetings in New York, according to a Cantor research report reviewed by CNBC.",
@@ -15,7 +37,7 @@
       "group": null,
       "published": "2026-11-13T23:42:18.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-11-13T14:22:07.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
@@ -37,84 +59,62 @@
       "group": null,
       "published": "2026-11-13T21:18:30.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
-      "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
-      "summary": "Wholesale prices increased less than expected in October, but inflation pressures persisted and the Federal Reserve is likely still on target for an interest rate increase soon.",
-      "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-13T15:44:16.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
-      "summary": "Treasury Secretary Scott Bessent on Friday said his department and others in the Trump administration have long supported imposing restrictions on Megaspeed, the company at the center of former Nvidia CEO Jensen Huang 's spy-sex scandal .",
-      "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-13T17:06:57.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
+      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-14T02:42:00.000Z",
+      "published": "2026-11-14T18:30:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "3 分鐘前"
     },
     {
-      "title": "14 dividend stocks selected for long-term growth",
-      "summary": "There are a variety of ways to select dividend stocks.",
-      "url": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-14T01:58:00.000Z",
-      "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-13T23:12:00.000Z",
+      "published": "2026-11-14T18:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "33 分鐘前"
     },
     {
-      "title": "4 expert tips for signing up for Medicare",
+      "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-13T22:45:00.000Z",
+      "published": "2026-11-14T17:50:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "43 分鐘前"
     },
     {
-      "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+      "title": "The trillion-dollar mistake corporate America is making about retirement",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-13T22:21:00.000Z",
+      "published": "2026-11-14T17:50:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "43 分鐘前"
+    },
+    {
+      "title": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-14T17:50:00.000Z",
+      "why": null,
+      "ago": "43 分鐘前"
     }
   ],
   "errors": [

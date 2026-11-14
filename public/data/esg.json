@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-14T09:55:17.574Z",
-  "updatedLocal": "2026/11/14 17:55:17",
+  "updated": "2026-11-14T18:33:00.895Z",
+  "updatedLocal": "2026/11/15 02:33:00",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,29 @@
       "group": null,
       "published": "2026-11-13T17:47:52.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "COP31 Covered: Green skills, youth voices and a just transition with no teeth?",
+      "summary": "The sixth episode of edie’s daily COP31 Covered podcast is streaming now, featuring an exclusive interview with LinkedIn’s Efrem Bycer on the growing green skills gap.",
+      "url": "https://www.edie.net/cop31-covered-green-skills-youth-voices-and-a-just-transition-with-no-teeth/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-14T16:16:32.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "‘Not a favour, an opportunity’: Why youth voices must shape COP31’s implementation era",
+      "summary": "For COP31’s Children, Youth, Education and Skills Day, edie speaks to COP31 Presidency Youth Climate Champion Sally Higgins and The Gaia Initiative team about why young people must be treated as decision-makers rather than a box to tick, and what businesses and governments stand to gain by listening.",
+      "url": "https://www.edie.net/not-a-favour-an-opportunity-why-youth-voices-must-shape-cop31s-implementation-era/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-14T12:55:01.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "US data centre demand growing ten times faster than grid capacity, research finds",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-11-13T20:16:55.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Donors are falling short, but Indigenous communities are delivering",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-11-13T20:09:42.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "COP Covered podcast: Who pays? Finance day, a Trojan Horse and the case for investing in resilience",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-11-13T19:29:10.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "COP31 at the halfway mark: What happened during week one?",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-11-13T18:44:56.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "24 小時前"
     },
     {
       "title": "WEBINAR ON THURSDAY: How to turn climate risk insights into adaptation action",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-11-13T17:40:13.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
       "title": "From Guterres’ goodbye to a Trojan Horse protest: What happened on 13 November at COP31?",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-11-13T16:56:22.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
       "title": "The climate transition isn’t stalling, but COP31 must focus on implementation as much as ambition",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-11-13T13:42:30.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "UK Government outlines steps for businesses to participate in voluntary carbon markets",
-      "summary": "The Government has published a long-awaited response to a consultation on raising the integrity of voluntary carbon and nature market credits, outlining how it plans to support businesses that want to invest in carbon markets to help with value chain decarbonisation.",
-      "url": "https://www.edie.net/uk-government-outlines-steps-for-businesses-to-participate-in-voluntary-carbon-markets/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-13T12:19:22.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "COP31: New UN framework puts businesses’ net-zero progress on public record",
-      "summary": "The new Net-Zero Recognition Framework (NZRF) aims to make it easier for businesses, banks and cities to share their net-zero progress, enhancing transparency across the real economy.",
-      "url": "https://www.edie.net/cop31-new-un-framework-puts-businesses-net-zero-progress-on-public-record/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-13T11:25:12.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
