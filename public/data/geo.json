@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-13T20:07:30.824Z",
-  "updatedLocal": "2026/11/14 04:07:30",
+  "updated": "2026-11-14T02:32:03.385Z",
+  "updatedLocal": "2026/11/14 10:32:03",
   "digest": null,
   "watch": [],
   "items": [
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-11-13T18:06:18.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Introducing ChatGPT Wallet",
@@ -59,51 +59,51 @@
       "group": "ai",
       "published": "2026-11-13T15:00:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "url": "https://openai.com/business/customer-stories/amplitude",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "With GPT‑6 Astra, the agents in Shield’s Forge platform navigate legacy portals so technicians can focus on issues that need their attention.",
+      "url": "https://openai.com/business/customer-stories/shield",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-12T20:00:00.000Z",
+      "published": "2026-11-13T08:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "19 小時前"
     },
     {
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
+      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients.",
+      "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
       "group": "ai",
-      "published": "2026-11-12T20:16:24.000Z",
+      "published": "2026-11-13T13:00:42.000Z",
       "why": null,
-      "ago": "24 小時前"
+      "ago": "14 小時前"
     },
     {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "summary": "Hydrogen brings cutting-edge intelligence to everyone.",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "source": "Google DeepMind",
-      "tag": "模型",
+      "title": "Two Architects of Key State AI Laws Come to Washington to Do It Again",
+      "summary": "Colorado’s Manny Rutinel and California’s Scott Wiener took on the artificial intelligence industry in their respective state capitals and won.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/state-ai-safety-law-architects-to-push-for-federal-version-in-congress",
+      "source": "Bloomberg.com",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-11-12T18:00:50.000Z",
+      "published": "2026-11-13T12:45:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "14 小時前"
     },
     {
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more intuitive, visual, and precise answers.",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "source": "Google AI Blog",
-      "tag": "模型",
+      "title": "New York launches RAISE portal, big AI developers must register by Jan 1",
+      "summary": "In Albany on November 10, Gov. Kathy Hochul opened the RAISE Portal, the online platform where large frontier AI developers must register by January 1, 2027, the day the RAISE Act takes effect.",
+      "url": "https://pasqualepillitteri.it/en/news/33111/new-york-raise-portal-frontier-ai-developers-register",
+      "source": "Pasquale Pillitteri",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-11-12T18:00:00.000Z",
+      "published": "2026-11-13T15:57:58.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "11 小時前"
     }
   ],
   "errors": []
