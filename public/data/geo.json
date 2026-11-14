@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-14T02:32:03.385Z",
-  "updatedLocal": "2026/11/14 10:32:03",
+  "updated": "2026-11-14T09:55:17.574Z",
+  "updatedLocal": "2026/11/14 17:55:17",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-11-10T19:27:50.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
       "title": "What's new in geospatial AI (November 2026)",
@@ -37,7 +37,7 @@
       "group": "gis",
       "published": "2026-11-09T17:00:00.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
     },
     {
       "title": "Building strong safety evaluations",
@@ -48,7 +48,7 @@
       "group": "ai",
       "published": "2026-11-13T18:06:18.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Introducing ChatGPT Wallet",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-11-13T15:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Shield helps technicians hand off legacy portal work with OpenAI",
@@ -70,7 +70,7 @@
       "group": "ai",
       "published": "2026-11-13T08:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
@@ -81,18 +81,18 @@
       "group": "ai",
       "published": "2026-11-13T13:00:42.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Two Architects of Key State AI Laws Come to Washington to Do It Again",
-      "summary": "Colorado’s Manny Rutinel and California’s Scott Wiener took on the artificial intelligence industry in their respective state capitals and won.",
+      "summary": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world # Two Architects of Key State AI Laws Come to Washington to Do It Again Photographer: Andrew Harnik/Getty Images; David Paul Morris/Bloomberg Colorado’s Manny Rutinel and California’s Scott Wiener took on the artificial intelligence industry in their respective state capitals and won.",
       "url": "https://www.bloomberg.com/news/articles/2026-11-13/state-ai-safety-law-architects-to-push-for-federal-version-in-congress",
       "source": "Bloomberg.com",
       "tag": "政策",
       "group": "ai",
       "published": "2026-11-13T12:45:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "New York launches RAISE portal, big AI developers must register by Jan 1",
@@ -103,7 +103,7 @@
       "group": "ai",
       "published": "2026-11-13T15:57:58.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     }
   ],
   "errors": []
