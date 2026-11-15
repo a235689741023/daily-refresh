@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-15T02:00:12.319Z",
-  "updatedLocal": "2026/11/15 10:00:12",
+  "updated": "2026-11-15T10:30:56.430Z",
+  "updatedLocal": "2026/11/15 18:30:56",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-14T16:16:32.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "‘Not a favour, an opportunity’: Why youth voices must shape COP31’s implementation era",
@@ -26,7 +26,29 @@
       "group": null,
       "published": "2026-11-14T12:55:01.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
+    },
+    {
+      "title": "FRC roadmap to make firms disclose emissions, sustainability performance",
+      "summary": "The Financial Reporting Council (FRC) is set to unveil a roadmap for sustainability reporting, under which local companies, including listed ones, will be brought under binding rules in phases over the next six to seven years.",
+      "url": "https://thefinancialexpress.com.bd/stock/frc-roadmap-to-make-firms-disclose-emissions-sustainability-performance",
+      "source": "The Financial Express",
+      "tag": "法規",
+      "group": null,
+      "published": "2026-11-15T04:34:23.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "America voted against AI data centers. How business leaders should respond",
+      "summary": "The opinions expressed here by Trellis expert contributors are their own, not those of Trellis or its editors .",
+      "url": "https://trellis.net/article/emerging-ai-data-centers-policies/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-13T17:47:52.000Z",
+      "why": null,
+      "ago": "2 天前"
     },
     {
       "title": "US data centre demand growing ten times faster than grid capacity, research finds",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-11-13T20:16:55.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Donors are falling short, but Indigenous communities are delivering",
@@ -48,29 +70,51 @@
       "group": null,
       "published": "2026-11-13T20:09:42.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
-      "title": "ESG台灣快訊》COP31登場，彭啓明盼國際看見台灣｜2050淨零需1兆美元？核能公投再掀討論",
-      "summary": "COP31於11月9日在 安塔利亞登場， 同步啟動戰情中心，預計至20日舉辦10場 ，連線大會現場，掌握氣候談判及國際 政策進展。環境部長彭啓明指出，今年COP31聚焦 、 、韌性及自然為本解方。對照大會提出的十大優先領域與六項全球目標，台灣已啟動 徵收，並將2035年減碳目標提高至36%至40%；國內 比率達34.8%，溫室氣體淨排放量自2021年起連續四年下降，年均減幅逾2%。",
-      "url": "https://esg.gvm.com.tw/article/130229",
-      "source": "ESG遠見",
-      "tag": "台灣",
+      "title": "COP Covered podcast: Who pays? Finance day, a Trojan Horse and the case for investing in resilience",
+      "summary": "The fifth episode of edie’s daily COP31 Covered podcast is streaming now, featuring an exclusive interview with Aviva’s Claudine Blamey on why resilience needs investment before disaster strikes.",
+      "url": "https://www.edie.net/cop-covered-podcast-who-pays-finance-day-a-trojan-horse-and-the-case-for-investing-in-resilience/",
+      "source": "edie",
+      "tag": "國際",
       "group": null,
-      "published": "2026-11-14T01:44:53.000Z",
+      "published": "2026-11-13T19:29:10.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
-      "title": "應對碳交易 勤業眾信：企業及早串聯排放/配額/稅務資訊",
-      "summary": null,
-      "url": "https://www.moneydj.com/tax/news/newscontent.djhtm?a\\=0773C368-A5F1-449F-9EB2-4CE1F17CA94D",
-      "source": "MoneyDJ",
-      "tag": "台灣",
+      "title": "COP31 at the halfway mark: What happened during week one?",
+      "summary": "COP31 has reached its halfway point in Antalya, Türkiye, with negotiations set to continue into the second week as countries work towards an agreement on a final cover text.",
+      "url": "https://www.edie.net/cop31-at-the-halfway-mark-what-happened-during-week-one/",
+      "source": "edie",
+      "tag": "國際",
       "group": null,
-      "published": "2026-11-14T00:10:10.000Z",
+      "published": "2026-11-13T18:44:56.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
+    },
+    {
+      "title": "WEBINAR ON THURSDAY: How to turn climate risk insights into adaptation action",
+      "summary": "This webinar, held in partnership with SmartResilience on 19 November, will explore why and how leading organisations are moving from simply measuring risk to actively adapting in order to protect their operations, assets and supply chains.",
+      "url": "https://www.edie.net/next-month-masterclass-on-turning-climate-risk-insights-into-adaptation/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-13T17:40:13.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "From Guterres’ goodbye to a Trojan Horse protest: What happened on 13 November at COP31?",
+      "summary": "From Guterres’ final COP address to a $15bn Chinese investment in Turkish renewables, Finance and Trade Day put the question of who pays for the transition firmly centre stage.",
+      "url": "https://www.edie.net/from-guterres-goodbye-to-a-trojan-horse-protest-what-happened-on-13-november-at-cop31/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-13T16:56:22.000Z",
+      "why": null,
+      "ago": "2 天前"
     }
   ],
   "errors": []

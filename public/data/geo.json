@@ -1,22 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-15T02:00:12.319Z",
-  "updatedLocal": "2026/11/15 10:00:12",
+  "updated": "2026-11-15T10:30:56.430Z",
+  "updatedLocal": "2026/11/15 18:30:56",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "What’s New in Map Viewer (November 2026)",
-      "summary": "The latest Map Viewer update gives you more ways to turn your data into meaningful, engaging web maps.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-online/announcements/whats-new-in-map-viewer-november-2026",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-10T09:06:32.000Z",
-      "why": null,
-      "ago": "5 天前"
-    },
     {
       "title": "What's new in geospatial AI (November 2026)",
       "summary": "New geospatial AI capabilities are ready to help boost productivity and execute advanced spatial analytical workflows.",
@@ -37,18 +26,29 @@
       "group": "gis",
       "published": "2026-11-09T17:00:00.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
-      "title": "Log in | Verification Portal",
-      "summary": null,
-      "url": "https://portal.anthropic.com/magic-link",
+      "title": "Building strong safety evaluations",
+      "summary": "Safety evaluations inform some of the most consequential decisions we make about an AI model, including whether it’s ready to deploy, which safeguards ship alongside it, and what our next round of safety training and research should focus on.",
+      "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-14T22:11:50.000Z",
+      "published": "2026-11-13T18:06:18.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "2 天前"
+    },
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "Building trusted agentic payments with networks, banks, and businesses.1.2B people use ChatGPT each week, and many of them turn to it to research products, compare options, and decide what to buy.",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-13T15:00:00.000Z",
+      "why": null,
+      "ago": "2 天前"
     },
     {
       "title": "AI Safety Cannot Depend on Trusting One CEO",
@@ -57,9 +57,9 @@
       "source": "WeRSM",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-11-14T22:03:06.000Z",
+      "published": "2026-11-14T22:03:30.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Mandatory AI Safety Rules: 6 Crucial Duties for AI Firms",
@@ -69,6 +69,17 @@
       "tag": "政策",
       "group": "ai",
       "published": "2026-11-14T12:00:03.000Z",
+      "why": null,
+      "ago": "23 小時前"
+    },
+    {
+      "title": "Australia’s AI Safety Push Risks Expanding Government Power",
+      "summary": "A small incident has become the pretext for a sweeping experiment in AI surveillance and censorship.",
+      "url": "https://reclaimthenet.org/australias-ai-safety-push-risks-expanding-government-power",
+      "source": "Reclaim The Net",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-14T20:32:53.000Z",
       "why": null,
       "ago": "14 小時前"
     },
@@ -81,18 +92,7 @@
       "group": "ai",
       "published": "2026-11-14T02:13:00.000Z",
       "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "Australia’s AI Safety Push Risks Expanding Government Power",
-      "summary": "A small incident has become the pretext for a sweeping experiment in AI surveillance and censorship.",
-      "url": "https://reclaimthenet.org/australias-ai-safety-push-risks-expanding-government-power",
-      "source": "Reclaim The Net",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-11-14T20:32:53.000Z",
-      "why": null,
-      "ago": "5 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
