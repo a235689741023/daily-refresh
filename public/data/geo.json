@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-15T10:30:56.430Z",
-  "updatedLocal": "2026/11/15 18:30:56",
+  "updated": "2026-11-15T19:09:39.208Z",
+  "updatedLocal": "2026/11/16 03:09:39",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "What's New in ArcGIS Field Maps: November 2026 Update",
+      "summary": "ArcGIS Field Maps is Esri’s premier all-in-one mobile app that combines map viewing, high-accuracy GPS data collection, form-driven inspections, task coordination, and location sharing into a single app that is deeply integrated with the ArcGIS system.",
+      "url": "https://www.esri.com/arcgis-blog/products/field-maps/field-mobility/whats-new-in-arcgis-field-maps-november-2026",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-10T19:27:50.000Z",
+      "why": null,
+      "ago": "5 天前"
+    },
     {
       "title": "What's new in geospatial AI (November 2026)",
       "summary": "New geospatial AI capabilities are ready to help boost productivity and execute advanced spatial analytical workflows.",
@@ -15,7 +26,7 @@
       "group": "gis",
       "published": "2026-11-10T04:46:26.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
       "title": "Developers can now build with Google Maps Platform in AI Studio.",
@@ -35,20 +46,20 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-13T18:06:18.000Z",
+      "published": "2026-11-14T01:40:13.000Z",
       "why": null,
       "ago": "2 天前"
     },
     {
-      "title": "Introducing ChatGPT Wallet",
-      "summary": "Building trusted agentic payments with networks, banks, and businesses.1.2B people use ChatGPT each week, and many of them turn to it to research products, compare options, and decide what to buy.",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "Regulating AI in the Employment Relationship in the European Union",
+      "summary": "In the European Union (EU), managerial decision-making with AI and automation is governed by existing data protection law, and by new rules that are being rolled out to deal with the issue head-on.",
+      "url": "https://onlabor.org/regulating-ai-in-the-employment-relationship-in-the-european-union/",
+      "source": "OnLabor",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-11-13T15:00:00.000Z",
+      "published": "2026-11-15T15:22:13.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "4 小時前"
     },
     {
       "title": "AI Safety Cannot Depend on Trusting One CEO",
@@ -59,18 +70,7 @@
       "group": "ai",
       "published": "2026-11-14T22:03:30.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Mandatory AI Safety Rules: 6 Crucial Duties for AI Firms",
-      "summary": "Mandatory AI safety rules are on their way for any frontier AI company that wants to operate in Australia.",
-      "url": "https://newscop.com.au/2026/11/14/mandatory-ai-safety-rules-australia/",
-      "source": "NewsCop",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-11-14T12:00:03.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Australia’s AI Safety Push Risks Expanding Government Power",
@@ -81,18 +81,29 @@
       "group": "ai",
       "published": "2026-11-14T20:32:53.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "Mandatory AI Safety Rules: 6 Crucial Duties for AI Firms",
+      "summary": "Mandatory AI safety rules are on their way for any frontier AI company that wants to operate in Australia.",
+      "url": "https://newscop.com.au/2026/11/14/mandatory-ai-safety-rules-australia/",
+      "source": "NewsCop",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-14T12:00:03.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Government plans AI safety regulator as unions cite 850 Qantas job cuts and Ai Group warns against regulating first",
-      "summary": "Frontier AI companies seeking to operate in Australia would face mandatory safety and security obligations under the Albanese Government’s planned AI Standards legislation.",
+      "summary": null,
       "url": "https://onnotice.com.au/news/ai-safety-regulator-planned-as-unions-cite-850-qantas-jobs/",
       "source": "https://onnotice.com.au/",
       "tag": "政策",
       "group": "ai",
       "published": "2026-11-14T02:13:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     }
   ],
   "errors": []
