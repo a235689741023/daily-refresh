@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-14T18:33:00.895Z",
-  "updatedLocal": "2026/11/15 02:33:00",
+  "updated": "2026-11-15T02:00:12.319Z",
+  "updatedLocal": "2026/11/15 10:00:12",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,7 @@
       "group": "gis",
       "published": "2026-11-10T09:06:32.000Z",
       "why": null,
-      "ago": "4 天前"
-    },
-    {
-      "title": "What's New in ArcGIS Field Maps: November 2026 Update",
-      "summary": "ArcGIS Field Maps is Esri’s premier all-in-one mobile app that combines map viewing, high-accuracy GPS data collection, form-driven inspections, task coordination, and location sharing into a single app that is deeply integrated with the ArcGIS system.",
-      "url": "https://www.esri.com/arcgis-blog/products/field-maps/field-mobility/whats-new-in-arcgis-field-maps-november-2026",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-10T19:27:50.000Z",
-      "why": null,
-      "ago": "4 天前"
+      "ago": "5 天前"
     },
     {
       "title": "What's new in geospatial AI (November 2026)",
@@ -51,26 +40,26 @@
       "ago": "5 天前"
     },
     {
-      "title": "Building strong safety evaluations",
-      "summary": "Safety evaluations inform some of the most consequential decisions we make about an AI model, including whether it’s ready to deploy, which safeguards ship alongside it, and what our next round of safety training and research should focus on.",
-      "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+      "title": "Log in | Verification Portal",
+      "summary": null,
+      "url": "https://portal.anthropic.com/magic-link",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-13T18:06:18.000Z",
+      "published": "2026-11-14T22:11:50.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "4 小時前"
     },
     {
-      "title": "Introducing ChatGPT Wallet",
-      "summary": "Building trusted agentic payments with networks, banks, and businesses.1.2B people use ChatGPT each week, and many of them turn to it to research products, compare options, and decide what to buy.",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "AI Safety Cannot Depend on Trusting One CEO",
+      "summary": "The hardest part of AI safety may not be making models behave. It may be building institutions that can hold their makers accountable.",
+      "url": "https://wersm.com/ai-safety-cannot-depend-on-trusting-one-ceo/",
+      "source": "WeRSM",
+      "tag": "政策",
       "group": "ai",
-      "published": "2026-11-13T15:00:00.000Z",
+      "published": "2026-11-14T22:03:06.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "4 小時前"
     },
     {
       "title": "Mandatory AI Safety Rules: 6 Crucial Duties for AI Firms",
@@ -81,40 +70,29 @@
       "group": "ai",
       "published": "2026-11-14T12:00:03.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
-      "title": "Stuart Russell on AI safety, impact on humanity and what US, China & India should do | HTLS 2026 | Hindustan Times",
-      "summary": "HT Premium Articles Expertly crafted articles Quickreads Segment News brief in summary format HT E-paper Access digital news experience # Stuart Russell on AI safety, impact on humanity and what US, China & India should do | HTLS 2026 ** **Published on Nov 14, 2026 3:16 PM IST ## Artificial intelligence expert Stuart Russell has called for international standards and mandatory pre-release testing of AI systems, saying national regulations alone are not enough.",
-      "url": "https://www.hindustantimes.com/videos/htls/stuart-russell-on-ai-safety-impact-on-humanity-and-what-us-china-india-should-do-htls-2026-101794649470473.html",
-      "source": "Hindustan Times",
+      "title": "Government plans AI safety regulator as unions cite 850 Qantas job cuts and Ai Group warns against regulating first",
+      "summary": "Frontier AI companies seeking to operate in Australia would face mandatory safety and security obligations under the Albanese Government’s planned AI Standards legislation.",
+      "url": "https://onnotice.com.au/news/ai-safety-regulator-planned-as-unions-cite-850-qantas-jobs/",
+      "source": "https://onnotice.com.au/",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-11-14T09:46:52.000Z",
+      "published": "2026-11-14T02:13:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "24 小時前"
     },
     {
-      "title": "New York launches RAISE portal, big AI developers must register by Jan 1",
-      "summary": "In Albany on November 10, Gov. Kathy Hochul opened the RAISE Portal, the online platform where large frontier AI developers must register by January 1, 2027, the day the RAISE Act takes effect.",
-      "url": "https://pasqualepillitteri.it/en/news/33111/new-york-raise-portal-frontier-ai-developers-register",
-      "source": "Pasquale Pillitteri",
+      "title": "Australia’s AI Safety Push Risks Expanding Government Power",
+      "summary": "A small incident has become the pretext for a sweeping experiment in AI surveillance and censorship.",
+      "url": "https://reclaimthenet.org/australias-ai-safety-push-risks-expanding-government-power",
+      "source": "Reclaim The Net",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-11-13T15:57:58.000Z",
+      "published": "2026-11-14T20:32:53.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Anthropic prices its IPO six days after a court filing targets frontier AI",
-      "summary": "Four nonprofits want a California court to halt frontier AI models at five developers, with up to 20% of the Nasdaq listing set aside for retail Anthropic will price its initial public offering on November 18, as a defendant in a lawsuit seeking to freeze development of its most advanced models.",
-      "url": "https://www.wealthprofessional.ca/investments/equity-markets/anthropic-prices-its-ipo-six-days-after-a-court-filing-targets-frontier-ai/394011",
-      "source": "Wealth Professional",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-11-13T13:04:01.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "5 小時前"
     }
   ],
   "errors": []
