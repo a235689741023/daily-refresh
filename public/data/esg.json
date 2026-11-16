@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-15T19:09:39.208Z",
-  "updatedLocal": "2026/11/16 03:09:39",
+  "updated": "2026-11-16T02:16:31.922Z",
+  "updatedLocal": "2026/11/16 10:16:31",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "波斯豹、亞美尼亞盤羊、塞凡湖鱒 葉里凡「動物變裝遊行」千人上街",
+      "summary": "10月25日中午，參加動物變裝遊行的學生在葉里凡的自由廣場集合，各校的看板與面具擠滿廣場。攝影：賴晁翔 10月25日中午，亞美尼亞首都葉里凡（Yerevan）國家歌劇院旁的自由廣場（Freedom Square）擠滿了戴著面具與動物裝扮的學生。",
+      "url": "https://e-info.org.tw/node/244073",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-16T02:02:25.000Z",
+      "why": null,
+      "ago": "14 分鐘前"
+    },
     {
       "title": "COP31 Covered: Green skills, youth voices and a just transition with no teeth?",
       "summary": "The sixth episode of edie’s daily COP31 Covered podcast is streaming now, featuring an exclusive interview with LinkedIn’s Efrem Bycer on the growing green skills gap.",
@@ -26,39 +37,6 @@
       "group": null,
       "published": "2026-11-14T12:55:01.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "US data centre demand growing ten times faster than grid capacity, research finds",
-      "summary": "US data centre electricity demand has grown almost ten times faster than grid capacity over the past 25 years, with mounting power constraints delaying new developments and accelerating investment in alternative energy sources, according to new research.",
-      "url": "https://www.edie.net/us-data-centre-demand-growing-ten-times-faster-than-grid-capacity-research-finds/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-13T20:16:55.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Donors are falling short, but Indigenous communities are delivering",
-      "summary": "As COP31 provides guidance on the world’s climate funds, Indigenous Peoples and local communities must define what counts and how impact is measured, argue Jonathan Jennings, co-chief executive of Health In Harmony and Minnie Degawan, managing director of the FSC Indigenous Foundation.",
-      "url": "https://www.edie.net/donors-are-falling-short-but-indigenous-communities-are-delivering/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-13T20:09:42.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "COP Covered podcast: Who pays? Finance day, a Trojan Horse and the case for investing in resilience",
-      "summary": "The fifth episode of edie’s daily COP31 Covered podcast is streaming now, featuring an exclusive interview with Aviva’s Claudine Blamey on why resilience needs investment before disaster strikes.",
-      "url": "https://www.edie.net/cop-covered-podcast-who-pays-finance-day-a-trojan-horse-and-the-case-for-investing-in-resilience/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-13T19:29:10.000Z",
-      "why": null,
       "ago": "2 天前"
     },
     {
@@ -70,29 +48,7 @@
       "group": null,
       "published": "2026-11-15T10:51:44.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "ESG台灣快訊》COP31登場，彭啓明盼國際看見台灣｜2050淨零需1兆美元？核能公投再掀討論",
-      "summary": "COP31於11月9日在 安塔利亞登場， 同步啟動戰情中心，預計至20日舉辦10場 ，連線大會現場，掌握氣候談判及國際 政策進展。環境部長彭啓明指出，今年COP31聚焦 、 、韌性及自然為本解方。對照大會提出的十大優先領域與六項全球目標，台灣已啟動 徵收，並將2035年減碳目標提高至36%至40%；國內 比率達34.8%，溫室氣體淨排放量自2021年起連續四年下降，年均減幅逾2%。",
-      "url": "https://esg.gvm.com.tw/article/130229",
-      "source": "ESG遠見",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-11-14T01:44:53.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "應對碳交易 勤業眾信：企業及早串聯排放/配額/稅務資訊",
-      "summary": "ETF介紹 ETF搜尋 | | ETF排名 | | ETF工具 個股資料 排行 工具 嘉實資訊客服電話：0800-006-098。嘉實資訊客服信箱： 。最佳瀏覽模式：解析度1024*768以上。本站內容僅供參考，本公司不負任何法律責任，投資人若依此以為買賣依據，須自負盈虧之責。",
-      "url": "https://www.moneydj.com/tax/news/newscontent.djhtm?a\\=0773C368-A5F1-449F-9EB2-4CE1F17CA94D",
-      "source": "MoneyDJ",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-11-14T00:10:10.000Z",
-      "why": null,
-      "ago": "2 天前"
+      "ago": "15 小時前"
     }
   ],
   "errors": []

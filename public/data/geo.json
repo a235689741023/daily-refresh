@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-15T19:09:39.208Z",
-  "updatedLocal": "2026/11/16 03:09:39",
+  "updated": "2026-11-16T02:16:31.922Z",
+  "updatedLocal": "2026/11/16 10:16:31",
   "digest": null,
   "watch": [],
   "items": [
@@ -40,15 +40,37 @@
       "ago": "6 天前"
     },
     {
-      "title": "Building strong safety evaluations",
-      "summary": "Safety evaluations inform some of the most consequential decisions we make about an AI model, including whether it’s ready to deploy, which safeguards ship alongside it, and what our next round of safety training and research should focus on.",
-      "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
-      "source": "Anthropic",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "summary": "In the first guest post on our science blog , physicist Nathaniel Craig, a visiting scientist at OpenAI, describes how he worked with GPT‑6 Astra on a candidate lattice definition of the Standard Model.",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-14T01:40:13.000Z",
+      "published": "2026-11-15T22:00:01.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Our new blog for science",
+      "summary": "We’re starting the OpenAI science blog to give scientists and academic researchers a place to share what they’re discovering with AI and how they’re doing the work.",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-15T22:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents.",
+      "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+      "source": "NVIDIA Blog",
+      "tag": "基建",
+      "group": "ai",
+      "published": "2026-11-16T00:00:28.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "Regulating AI in the Employment Relationship in the European Union",
@@ -59,18 +81,18 @@
       "group": "ai",
       "published": "2026-11-15T15:22:13.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "AI Safety Cannot Depend on Trusting One CEO",
-      "summary": "The hardest part of AI safety may not be making models behave. It may be building institutions that can hold their makers accountable.",
-      "url": "https://wersm.com/ai-safety-cannot-depend-on-trusting-one-ceo/",
-      "source": "WeRSM",
+      "title": "Australia to legislate safety rules for frontier AI",
+      "summary": "Australia will legislate mandatory safety and security obligations for frontier AI companies after a rapid review into an AI agent's infiltration of the Medicare Statistics Reporting Service Portal.",
+      "url": "https://securitybrief.com.au/story/australia-to-legislate-safety-rules-for-frontier-ai",
+      "source": "SecurityBrief Australia",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-11-14T22:03:30.000Z",
+      "published": "2026-11-15T22:15:00.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "4 小時前"
     },
     {
       "title": "Australia’s AI Safety Push Risks Expanding Government Power",
@@ -81,29 +103,7 @@
       "group": "ai",
       "published": "2026-11-14T20:32:53.000Z",
       "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Mandatory AI Safety Rules: 6 Crucial Duties for AI Firms",
-      "summary": "Mandatory AI safety rules are on their way for any frontier AI company that wants to operate in Australia.",
-      "url": "https://newscop.com.au/2026/11/14/mandatory-ai-safety-rules-australia/",
-      "source": "NewsCop",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-11-14T12:00:03.000Z",
-      "why": null,
       "ago": "昨日"
-    },
-    {
-      "title": "Government plans AI safety regulator as unions cite 850 Qantas job cuts and Ai Group warns against regulating first",
-      "summary": null,
-      "url": "https://onnotice.com.au/news/ai-safety-regulator-planned-as-unions-cite-850-qantas-jobs/",
-      "source": "https://onnotice.com.au/",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-11-14T02:13:00.000Z",
-      "why": null,
-      "ago": "2 天前"
     }
   ],
   "errors": []
