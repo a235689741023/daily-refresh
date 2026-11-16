@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-16T02:16:31.922Z",
-  "updatedLocal": "2026/11/16 10:16:31",
+  "updated": "2026-11-16T10:47:12.970Z",
+  "updatedLocal": "2026/11/16 18:47:12",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-11-10T19:27:50.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "6 天前"
     },
     {
       "title": "What's new in geospatial AI (November 2026)",
@@ -37,7 +37,18 @@
       "group": "gis",
       "published": "2026-11-09T17:00:00.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
+    },
+    {
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "summary": "This news was originally shared by LVMH’s Media Division and can be read here ⁠ (opens in a new window) .",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-16T09:00:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
     },
     {
       "title": "A step toward defining the Standard Model on a lattice",
@@ -48,7 +59,7 @@
       "group": "ai",
       "published": "2026-11-15T22:00:01.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Our new blog for science",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-11-15T22:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
@@ -70,7 +81,7 @@
       "group": "ai",
       "published": "2026-11-16T00:00:28.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Regulating AI in the Employment Relationship in the European Union",
@@ -81,29 +92,18 @@
       "group": "ai",
       "published": "2026-11-15T15:22:13.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
-      "title": "Australia to legislate safety rules for frontier AI",
-      "summary": "Australia will legislate mandatory safety and security obligations for frontier AI companies after a rapid review into an AI agent's infiltration of the Medicare Statistics Reporting Service Portal.",
-      "url": "https://securitybrief.com.au/story/australia-to-legislate-safety-rules-for-frontier-ai",
-      "source": "SecurityBrief Australia",
+      "title": "Will Anthropic's IPO lead to better AI regulation?",
+      "summary": "LOS ANGELES — Imagine being presented with an opportunity to invest in a Silicon Valley technology company with dazzling performance, including revenue that has increased roughly 14-fold over the past year, a valuation that has more than quintupled in nine months, and rapidly increasing productivity.",
+      "url": "https://www.koreatimes.co.kr/opinion/20261116/will-anthropics-ipo-lead-to-better-ai-regulation",
+      "source": "The Korea Times",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-11-15T22:15:00.000Z",
+      "published": "2026-11-16T05:00:03.000Z",
       "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "Australia’s AI Safety Push Risks Expanding Government Power",
-      "summary": "A small incident has become the pretext for a sweeping experiment in AI surveillance and censorship.",
-      "url": "https://reclaimthenet.org/australias-ai-safety-push-risks-expanding-government-power",
-      "source": "Reclaim The Net",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-11-14T20:32:53.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
     }
   ],
   "errors": []
