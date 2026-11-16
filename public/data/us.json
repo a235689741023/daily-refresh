@@ -1,11 +1,44 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-16T10:47:12.970Z",
-  "updatedLocal": "2026/11/16 18:47:12",
+  "updated": "2026-11-16T22:35:51.893Z",
+  "updatedLocal": "2026/11/17 06:35:51",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+      "summary": "JPMorgan Chase reported a \"technical issue\" that was affecting some consumer banking services Monday.",
+      "url": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-16T22:14:47.000Z",
+      "why": null,
+      "ago": "21 分鐘前"
+    },
+    {
+      "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
+      "summary": "[The stream is slated to start at noon ET. Please refresh the page if you do not see a player above.",
+      "url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-16T18:46:07.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+      "summary": "Oil prices are falling Monday as shipments through the Strait of Hormuz recover and tensions between Iran and the U.",
+      "url": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-16T22:19:02.000Z",
+      "why": null,
+      "ago": "17 分鐘前"
+    },
     {
       "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
       "summary": "China's economic slowdown worsened in October with retail sales, investment and industrial output all missing economists' estimates, as analysts warn a growing reliance on external demand leaves growth more exposed to shocks abroad.",
@@ -15,7 +48,29 @@
       "group": null,
       "published": "2026-11-16T03:53:59.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "19 小時前"
+    },
+    {
+      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "summary": "The largest technology stocks linked to the artificial intelligence trade could stand to benefit the most from Nvidia's woes and a Democratic-controlled Congress pushing back on data centers, according to investing experts interviewed on CNBC's \" ETF Edge \" earlier this week.",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-16T12:13:23.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
+    {
+      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+      "summary": "Foundation Future Industries , a maker of military humanoid robots advised and backed by Eric Trump, failed to pay employees last month as its cash reserves dwindled, according to people with direct knowledge of the matter.",
+      "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-16T17:14:13.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
@@ -24,9 +79,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-15T19:58:21.000Z",
+      "published": "2026-11-16T12:14:46.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
@@ -37,84 +92,29 @@
       "group": null,
       "published": "2026-11-16T02:56:24.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "Here’s how much the stock market could crumble if AI is a bubble that bursts, according to former White House economist",
+      "title": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/heres-how-much-the-stock-market-could-crumble-if-ai-is-a-bubble-that-bursts-according-to-former-white-house-economist-3a4c15e1?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-16T10:32:00.000Z",
+      "published": "2026-11-16T22:33:00.000Z",
       "why": null,
-      "ago": "15 分鐘前"
+      "ago": "3 分鐘前"
     },
     {
-      "title": "Why Morgan Stanley says it’s time to go ‘max’ overweight on stocks",
+      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/why-morgan-stanley-says-its-time-to-go-max-overweight-on-stocks-bd33b103?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-16T10:20:00.000Z",
+      "published": "2026-11-16T22:30:00.000Z",
       "why": null,
-      "ago": "27 分鐘前"
-    },
-    {
-      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-16T10:15:00.000Z",
-      "why": null,
-      "ago": "32 分鐘前"
-    },
-    {
-      "title": "Angelina Jolie reportedly buys a Connecticut mansion after selling L.A. estate",
-      "summary": "Angelina Jolie reportedly buys a Connecticut mansion after selling L.A.",
-      "url": "https://www.marketwatch.com/story/angelina-jolie-reportedly-buys-a-connecticut-mansion-after-selling-l-a-estate-049f914b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-16T10:02:00.000Z",
-      "why": null,
-      "ago": "45 分鐘前"
-    },
-    {
-      "title": "Former NFL star Chris Simms sells his 300-year-old Greenwich, Conn., home for $5.5 million",
-      "summary": "## The restored antique farmhouse, built in 1725, is hailed as a ‘piece of Greenwich history’ with all the luxury of a modern mansion.",
-      "url": "https://www.marketwatch.com/story/former-nfl-star-chris-simms-sells-his-300-year-old-greenwich-conn-home-for-5-5-million-0ae1fdc2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-16T09:58:00.000Z",
-      "why": null,
-      "ago": "49 分鐘前"
-    },
-    {
-      "title": "Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash — and $500 oil",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/why-this-40-year-market-veteran-is-making-a-lonely-bet-on-a-40-stock-market-crash-and-500-oil-c62aefdb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-16T08:06:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-16T04:15:00.000Z",
-      "why": null,
-      "ago": "7 小時前"
+      "ago": "6 分鐘前"
     }
   ],
   "errors": [

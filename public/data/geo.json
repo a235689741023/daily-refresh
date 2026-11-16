@@ -1,15 +1,70 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-16T10:47:12.970Z",
-  "updatedLocal": "2026/11/16 18:47:12",
+  "updated": "2026-11-16T22:35:51.893Z",
+  "updatedLocal": "2026/11/17 06:35:51",
   "digest": null,
   "watch": [],
   "items": [
     {
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "summary": "Build custom road trip itineraries, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "source": "Google Maps Blog",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-16T14:00:00.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "Navigate holiday traffic and crowds with Google Maps trends",
+      "summary": "Whether you’re planning a road trip or finding the best time to run holiday errands, here’s your playbook for the season.",
+      "url": "https://blog.google/products-and-platforms/products/maps/holiday-thanksgiving-travel-trends-2026/",
+      "source": "Google Maps Blog",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-16T14:00:00.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "Ask Maps is coming to Europe.",
+      "summary": "Ask Maps is the biggest update to Google Maps in over a decade. Powered by the world’s freshest map and Gemini models, it answers complex, real-world questions a map couldn't before.",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/",
+      "source": "Google Maps Blog",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-16T14:00:00.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "What's new in geospatial AI (November 2026)",
+      "summary": null,
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis/geoai/whats-new-in-geospatial-ai-november-2026",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-10T04:46:26.000Z",
+      "why": null,
+      "ago": "7 天前"
+    },
+    {
+      "title": "What’s New in Map Viewer (November 2026)",
+      "summary": null,
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-online/announcements/whats-new-in-map-viewer-november-2026",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-10T09:06:32.000Z",
+      "why": null,
+      "ago": "7 天前"
+    },
+    {
       "title": "What's New in ArcGIS Field Maps: November 2026 Update",
-      "summary": "ArcGIS Field Maps is Esri’s premier all-in-one mobile app that combines map viewing, high-accuracy GPS data collection, form-driven inspections, task coordination, and location sharing into a single app that is deeply integrated with the ArcGIS system.",
-      "url": "https://www.esri.com/arcgis-blog/products/field-maps/field-mobility/whats-new-in-arcgis-field-maps-november-2026",
+      "summary": null,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2RRSTVwVkZfOXFOMW9vY0cxU2pvU1VFSFpmSWs2VjFXR2RBYnRKaWtGMGdoczRPVVlONkZfT3JZeEkta1JUS2tQb3FMa1pCcWY0TlFweEtCSGc3eGU0WlNDcXg2dmtycjVWdlNoaURSVGNQa3dmdUVWT05ENGp2Y1Y1U0N3SlJiV0RhamZLUllnamR6VkNBWWQ3amRubHJrTnotajhuVFpLTUxEOTBlSGdR?oc=5",
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
@@ -18,26 +73,48 @@
       "ago": "6 天前"
     },
     {
-      "title": "What's new in geospatial AI (November 2026)",
-      "summary": "New geospatial AI capabilities are ready to help boost productivity and execute advanced spatial analytical workflows.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis/geoai/whats-new-in-geospatial-ai-november-2026",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-10T04:46:26.000Z",
+      "title": "Updating our coordinated vulnerability disclosure policy timelines",
+      "summary": "Over the last several months, frontier models have become much better at discovering vulnerabilities .",
+      "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-16T14:32:51.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "8 小時前"
     },
     {
-      "title": "Developers can now build with Google Maps Platform in AI Studio.",
-      "summary": "Building real-world context into your apps just got much easier.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
-      "source": "Google Maps Blog",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-09T17:00:00.000Z",
+      "title": "Broadening access to AI for scientists",
+      "summary": "We’re expanding the ChatGPT for Academic Researchers program to give up to 200,000 researchers worldwide free access to ChatGPT.",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-16T17:00:00.000Z",
       "why": null,
-      "ago": "7 天前"
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-16T17:00:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "summary": "How more than 1,800 scientists used ChatGPT—and what they expect AI to mean for scientific discovery. Explore the findings in our new report.",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-16T12:00:00.000Z",
+      "why": null,
+      "ago": "11 小時前"
     },
     {
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
@@ -48,63 +125,25 @@
       "group": "ai",
       "published": "2026-11-16T09:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "14 小時前"
     },
     {
-      "title": "A step toward defining the Standard Model on a lattice",
-      "summary": "In the first guest post on our science blog , physicist Nathaniel Craig, a visiting scientist at OpenAI, describes how he worked with GPT‑6 Astra on a candidate lattice definition of the Standard Model.",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "title": "Our first phase of embedded assessments",
+      "summary": "We have signed agreements with four independent assessors—Apollo Research, METR, Transluce, and Goodfire—for our first phase of embedded assessments.",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-15T22:00:01.000Z",
+      "published": "2026-11-16T08:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Our new blog for science",
-      "summary": "We’re starting the OpenAI science blog to give scientists and academic researchers a place to share what they’re discovering with AI and how they’re doing the work.",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-15T22:00:00.000Z",
-      "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
-      "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents.",
-      "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-11-16T00:00:28.000Z",
-      "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "Regulating AI in the Employment Relationship in the European Union",
-      "summary": "In the European Union (EU), managerial decision-making with AI and automation is governed by existing data protection law, and by new rules that are being rolled out to deal with the issue head-on.",
-      "url": "https://onlabor.org/regulating-ai-in-the-employment-relationship-in-the-european-union/",
-      "source": "OnLabor",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-11-15T15:22:13.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Will Anthropic's IPO lead to better AI regulation?",
-      "summary": "LOS ANGELES — Imagine being presented with an opportunity to invest in a Silicon Valley technology company with dazzling performance, including revenue that has increased roughly 14-fold over the past year, a valuation that has more than quintupled in nine months, and rapidly increasing productivity.",
-      "url": "https://www.koreatimes.co.kr/opinion/20261116/will-anthropics-ipo-lead-to-better-ai-regulation",
-      "source": "The Korea Times",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-11-16T05:00:03.000Z",
-      "why": null,
-      "ago": "6 小時前"
+      "ago": "15 小時前"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "GIS × AI 研究",
+      "url": "https://news.google.com/rss/search?q=geospatial%20AI%20OR%20%22spatial%20AI%22%20OR%20%22remote%20sensing%22%20foundation%20model&hl=en-US&gl=US&ceid=US:en",
+      "message": "HTTP 429 Too Many Requests"
+    }
+  ]
 }
