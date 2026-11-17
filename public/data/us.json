@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-17T04:39:22.258Z",
-  "updatedLocal": "2026/11/17 12:39:22",
+  "updated": "2026-11-17T11:35:10.109Z",
+  "updatedLocal": "2026/11/17 19:35:10",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
+      "summary": "BEIJING — How does the U.S. stay ahead of China in the artificial intelligence race?",
+      "url": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-17T08:52:45.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
       "summary": "Berkshire Hathaway made several moves in the stock market during the third quarter, adding to key positions and trimming others.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-11-16T23:01:19.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-11-16T22:14:47.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-11-16T18:46:07.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-11-16T22:19:02.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-11-16T12:13:23.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-11-16T17:14:13.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
@@ -81,18 +92,7 @@
       "group": null,
       "published": "2026-11-16T12:14:46.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-      "summary": "China's economic slowdown worsened in October with retail sales, investment and industrial output all missing economists' estimates, as analysts warn a growing reliance on external demand leaves growth more exposed to shocks abroad.",
-      "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-16T03:53:59.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "23 小時前"
     },
     {
       "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
@@ -103,18 +103,18 @@
       "group": null,
       "published": "2026-11-17T00:42:33.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "title": "‘It is heartbreaking, exhausting and downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-17T02:30:00.000Z",
+      "published": "2026-11-17T11:15:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "20 分鐘前"
     }
   ],
   "errors": [

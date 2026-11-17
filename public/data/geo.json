@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-17T04:39:22.258Z",
-  "updatedLocal": "2026/11/17 12:39:22",
+  "updated": "2026-11-17T11:35:10.109Z",
+  "updatedLocal": "2026/11/17 19:35:10",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-11-16T14:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Navigate holiday traffic and crowds with Google Maps trends",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-11-16T14:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Ask Maps is coming to Europe.",
@@ -37,29 +37,7 @@
       "group": "gis",
       "published": "2026-11-16T14:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "What's new in geospatial AI (November 2026)",
-      "summary": "New geospatial AI capabilities are ready to help boost productivity and execute advanced spatial analytical workflows.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis/geoai/whats-new-in-geospatial-ai-november-2026",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-10T04:46:26.000Z",
-      "why": null,
-      "ago": "7 天前"
-    },
-    {
-      "title": "What’s New in Map Viewer (November 2026)",
-      "summary": "The latest Map Viewer update gives you more ways to turn your data into meaningful, engaging web maps.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-online/announcements/whats-new-in-map-viewer-november-2026",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-10T09:06:32.000Z",
-      "why": null,
-      "ago": "7 天前"
+      "ago": "22 小時前"
     },
     {
       "title": "What's New in ArcGIS Field Maps: November 2026 Update",
@@ -70,7 +48,7 @@
       "group": "gis",
       "published": "2026-11-10T19:27:50.000Z",
       "why": null,
-      "ago": "6 天前"
+      "ago": "7 天前"
     },
     {
       "title": "Updating our coordinated vulnerability disclosure policy timelines",
@@ -81,7 +59,18 @@
       "group": "ai",
       "published": "2026-11-16T14:32:51.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "summary": "Governments and national cyber agencies protect the systems that people, public services and economies depend on.",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-17T00:00:00.000Z",
+      "why": null,
+      "ago": "12 小時前"
     },
     {
       "title": "Broadening access to AI for scientists",
@@ -92,7 +81,7 @@
       "group": "ai",
       "published": "2026-11-16T17:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Strengthening the fight against online child sexual abuse with new tools and support",
@@ -103,7 +92,7 @@
       "group": "ai",
       "published": "2026-11-16T17:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Science at the Frontier: How scientists use ChatGPT",
@@ -114,29 +103,18 @@
       "group": "ai",
       "published": "2026-11-16T12:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "24 小時前"
     },
     {
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "summary": "This news was originally shared by LVMH’s Media Division and can be read here ⁠ (opens in a new window) .",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "summary": "With OpenAI models and Codex, Revolut is giving its teams more room to solve complex problems—from software engineering to financial crime.",
+      "url": "https://openai.com/business/customer-stories/revolut",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-16T09:00:00.000Z",
+      "published": "2026-11-16T09:30:00.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Our first phase of embedded assessments",
-      "summary": "We have signed agreements with four independent assessors—Apollo Research, METR, Transluce, and Goodfire—for our first phase of embedded assessments.",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-16T08:00:00.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []

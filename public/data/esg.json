@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-17T04:39:22.258Z",
-  "updatedLocal": "2026/11/17 12:39:22",
+  "updated": "2026-11-17T11:35:10.109Z",
+  "updatedLocal": "2026/11/17 19:35:10",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,29 @@
       "group": null,
       "published": "2026-11-16T07:00:00.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "UK SRS readiness assessment: How to identify reporting gaps before requirements tighten",
+      "summary": "UK Sustainability Reporting Standards are set to change how organisations connect sustainability information with financial planning and business decisions.",
+      "url": "https://www.edie.net/uk-srs-readiness-assessment-how-to-identify-reporting-gaps-before-requirements-tighten/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-17T09:29:26.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "What SMEs need to know before they invest in solar",
+      "summary": "Solar power is booming in the UK, with most of the growth coming from rooftop installations.",
+      "url": "https://www.edie.net/what-smes-need-to-know-before-they-invest-in-solar/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-17T09:00:30.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "Net-zero support relies on cheap energy bills, MPs warn",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-11-16T19:50:44.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Business leaders set out plan to protect Scotland’s energy future",
@@ -37,10 +59,10 @@
       "group": null,
       "published": "2026-11-16T19:35:40.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
-      "title": "COP31 Covered: A deal on the table and the race to build clean industry",
+      "title": "COP31 Covered podcast: A deal on the table and the race to build clean industry",
       "summary": "On COP31's Science, Industry and Technology Day, the first draft of the summit's cover decision calls for \"accelerated action to phase out fossil fuels\", while some countries push to side-line key climate science.",
       "url": "https://www.edie.net/cop31-covered-a-deal-on-the-table-and-the-race-to-build-clean-industry/",
       "source": "edie",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-11-16T18:58:18.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "WEBINAR ON THURSDAY: How to turn climate risk insights into adaptation action",
@@ -59,7 +81,7 @@
       "group": null,
       "published": "2026-11-16T17:40:13.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "From a draft text to AI commitments: What happened on 16 November at COP31?",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-11-16T16:55:03.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "COP31’s ‘overgrown garden’: Can ministers turn a tangled draft text into a deal?",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-11-16T16:49:51.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "UK SRS: Assessing readiness, closing gaps and preparing for implementation",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-11-16T14:50:53.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "When public services are unprepared for climate adaptation, communities pay the price",
-      "summary": "Behind reports and risk assessments are people who depend on our public services.",
-      "url": "https://www.edie.net/when-public-services-are-unprepared-for-climate-adaptation-communities-pay-the-price/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-16T13:43:57.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Norway court voids three North Sea oilfield approvals",
-      "summary": "Norway's Supreme Court has ruled that three oilfield decisions were unlawful, on the grounds that the Government failed to take the full environmental impact into consideration.",
-      "url": "https://www.edie.net/norway-court-voids-three-north-sea-oilfield-approvals/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-16T12:44:11.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "21 小時前"
     }
   ],
   "errors": []
