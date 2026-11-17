@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-17T11:35:10.109Z",
-  "updatedLocal": "2026/11/17 19:35:10",
+  "updated": "2026-11-17T21:24:30.189Z",
+  "updatedLocal": "2026/11/18 05:24:30",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-11-16T14:00:00.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Navigate holiday traffic and crowds with Google Maps trends",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-11-16T14:00:00.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Ask Maps is coming to Europe.",
@@ -37,29 +37,18 @@
       "group": "gis",
       "published": "2026-11-16T14:00:00.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "What's New in ArcGIS Field Maps: November 2026 Update",
-      "summary": "ArcGIS Field Maps is Esri’s premier all-in-one mobile app that combines map viewing, high-accuracy GPS data collection, form-driven inspections, task coordination, and location sharing into a single app that is deeply integrated with the ArcGIS system.",
-      "url": "https://www.esri.com/arcgis-blog/products/field-maps/field-mobility/whats-new-in-arcgis-field-maps-november-2026",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-10T19:27:50.000Z",
-      "why": null,
-      "ago": "7 天前"
-    },
-    {
-      "title": "Updating our coordinated vulnerability disclosure policy timelines",
-      "summary": "Over the last several months, frontier models have become much better at discovering vulnerabilities .",
-      "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
-      "source": "Anthropic",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "summary": "We’re introducing GPT‑6.2 Astra , our new frontier model for your hardest projects, and GPT‑6.2 Sol , our efficient, versatile model for everyday work.",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-16T14:32:51.000Z",
+      "published": "2026-11-17T17:45:00.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "4 小時前"
     },
     {
       "title": "Strengthening NATO and allied cyber defenses with AI",
@@ -70,7 +59,29 @@
       "group": "ai",
       "published": "2026-11-17T00:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "summary": "Today we’re launching OpenAI for Chile, a partnership with the Government of Chile, led by the Ministry of Science, Technology, Knowledge and Innovation, to support responsible AI adoption in public administration, build civil servants’ skills and help local startups develop useful AI applications.",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-17T00:00:00.000Z",
+      "why": null,
+      "ago": "21 小時前"
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Our latest model configuration earned leading marks on multiple benchmarks. Every ChatGPT Enterprise customer can now request access.",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-17T00:00:00.000Z",
+      "why": null,
+      "ago": "21 小時前"
     },
     {
       "title": "Broadening access to AI for scientists",
@@ -81,7 +92,7 @@
       "group": "ai",
       "published": "2026-11-16T17:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Strengthening the fight against online child sexual abuse with new tools and support",
@@ -91,28 +102,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-11-16T17:00:00.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "summary": "How more than 1,800 scientists used ChatGPT—and what they expect AI to mean for scientific discovery. Explore the findings in our new report.",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-16T12:00:00.000Z",
-      "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "How Revolut raises ambition without lowering the bar",
-      "summary": "With OpenAI models and Codex, Revolut is giving its teams more room to solve complex problems—from software engineering to financial crime.",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-16T09:30:00.000Z",
       "why": null,
       "ago": "昨日"
     }

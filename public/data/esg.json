@@ -1,21 +1,98 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-17T11:35:10.109Z",
-  "updatedLocal": "2026/11/17 19:35:10",
+  "updated": "2026-11-17T21:24:30.189Z",
+  "updatedLocal": "2026/11/18 05:24:30",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Where climate tech capital still goes and why",
-      "summary": "The opinions expressed here by Trellis expert contributors are their own, not those of Trellis or its editors .",
-      "url": "https://trellis.net/article/where-climate-tech-capital-still-goes/",
+      "title": "Your chatbot has a biodiversity footprint. This service can help you pay for it",
+      "summary": "Every query sent to ChatGPT, Claude and other artificial intelligence (AI) services has an impact on natural ecosystems that’s both real and, in practice, extremely challenging to assess.",
+      "url": "https://trellis.net/article/terrasos-tebu-biodiversity-footprint/",
       "source": "Trellis",
       "tag": "國際",
       "group": null,
-      "published": "2026-11-16T07:00:00.000Z",
+      "published": "2026-11-17T16:48:19.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Ørsted among Prince William’s Earthshot Prize 2026 Winners",
+      "summary": "The Winners of this year's Earthshot Prize were revealed in a ceremony today (17 November) in Mumbai, including Ørsted, the nation of Bhutan and PFAS campaigners.",
+      "url": "https://www.edie.net/orsted-among-prince-williams-earthshot-prize-2026-winners/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-17T19:54:48.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "From an Ocean Compact to more TAFF roadmaps: What happened on 17 November at COP31?",
+      "summary": "From small island states demanding climate finance to tackle plastic pollution to new pacts on wildlife, Ocean, Seas, Nature and Land Use Day put protecting the natural world firmly centre stage.",
+      "url": "https://www.edie.net/from-an-ocean-compact-to-more-taff-roadmaps-what-happened-on-17-november-at-cop31/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-17T18:35:01.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "WEBINAR TOMORROW: How to turn climate risk insights into adaptation action",
+      "summary": "This webinar, held in partnership with SmartResilience on 19 November, will explore why and how leading organisations are moving from simply measuring risk to actively adapting in order to protect their operations, assets and supply chains.",
+      "url": "https://www.edie.net/next-month-masterclass-on-turning-climate-risk-insights-into-adaptation/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-17T17:40:13.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "COP31 Covered podcast: From Yerevan to Antalya, joining up nature and climate",
+      "summary": "The eighth episode of edie’s daily COP31 Covered podcast is streaming now, featuring an exclusive interview with Jason Dozier of the High Ambition Coalition (HAC) for Nature and People on whether the world’s 30x30 target for nature is still within reach.",
+      "url": "https://www.edie.net/cop31-covered-podcast-from-yerevan-to-antalya-joining-up-nature-and-climate/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-17T17:06:53.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "COP31: UK backs call for sector-specific ‘polluter pays’ levies",
+      "summary": "The UK has backed a call to make polluting sectors contribute to adaptation and mitigation finance, while new research found that the nation is leading in global efforts to increase the amount of government-backed export finance funnelled into net-zero initiatives.",
+      "url": "https://www.edie.net/cop31-uk-backs-call-for-sector-specific-polluter-pays-levies/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-17T15:57:55.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Study: Businesses struggle to prove impact of social value action",
+      "summary": "While most companies engage in social impact initiatives, few are able to quantify and report on the impact of these investments, new research has found.",
+      "url": "https://www.edie.net/study-businesses-struggle-to-prove-impact-of-social-value-action/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-17T13:15:42.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Apply now: Entries open for the edie Awards 2027",
+      "summary": "The UK’s largest corporate sustainability awards scheme is celebrating its 20th year with a restructured programme, built around three pillars and new categories including AI, water and adaptation.",
+      "url": "https://www.edie.net/apply-now-entries-open-for-the-edie-awards-2027/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-17T10:32:41.000Z",
+      "why": null,
+      "ago": "11 小時前"
     },
     {
       "title": "UK SRS readiness assessment: How to identify reporting gaps before requirements tighten",
@@ -26,7 +103,7 @@
       "group": null,
       "published": "2026-11-17T09:29:26.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "What SMEs need to know before they invest in solar",
@@ -37,84 +114,7 @@
       "group": null,
       "published": "2026-11-17T09:00:30.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Net-zero support relies on cheap energy bills, MPs warn",
-      "summary": "A cross-Parliamentary report has announced that public confidence in net-zero depends increasingly on delivering lower energy costs.",
-      "url": "https://www.edie.net/net-zero-support-relies-on-cheap-energy-bills-mps-warn/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-16T19:50:44.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Business leaders set out plan to protect Scotland’s energy future",
-      "summary": "Aberdeen & Grampian Chamber of Commerce has published an eight-point plan to rescue North Sea investment and boost Scotland's energy security.",
-      "url": "https://www.edie.net/business-leaders-set-out-plan-to-protect-scotlands-energy-future/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-16T19:35:40.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "COP31 Covered podcast: A deal on the table and the race to build clean industry",
-      "summary": "On COP31's Science, Industry and Technology Day, the first draft of the summit's cover decision calls for \"accelerated action to phase out fossil fuels\", while some countries push to side-line key climate science.",
-      "url": "https://www.edie.net/cop31-covered-a-deal-on-the-table-and-the-race-to-build-clean-industry/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-16T18:58:18.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "WEBINAR ON THURSDAY: How to turn climate risk insights into adaptation action",
-      "summary": "This webinar, held in partnership with SmartResilience on 19 November, will explore why and how leading organisations are moving from simply measuring risk to actively adapting in order to protect their operations, assets and supply chains.",
-      "url": "https://www.edie.net/next-month-masterclass-on-turning-climate-risk-insights-into-adaptation/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-16T17:40:13.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "From a draft text to AI commitments: What happened on 16 November at COP31?",
-      "summary": "Science, Industry and Technology Day opened with the first draft of the COP31 cover decision.",
-      "url": "https://www.edie.net/from-a-draft-text-to-ai-commitments-what-happened-on-16-november-at-cop31/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-16T16:55:03.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "COP31’s ‘overgrown garden’: Can ministers turn a tangled draft text into a deal?",
-      "summary": "COP31 Presidency has published the first draft of the cover decision, setting out a menu of options for ministers to wrestle with in the second week of negotiations.",
-      "url": "https://www.edie.net/cop31s-overgrown-garden-can-ministers-turn-a-tangled-draft-text-into-a-deal/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-16T16:49:51.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "UK SRS: Assessing readiness, closing gaps and preparing for implementation",
-      "summary": "With new sustainability reporting requirements approaching for listed companies in the UK, businesses face the challenge of understanding what the UK Sustainability Reporting Standards (UK SRS) will require, identifying gaps in their existing processes and preparing for implementation.",
-      "url": "https://www.edie.net/uk-srs-assessing-readiness-closing-gaps-and-preparing-for-implementation/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-16T14:50:53.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "12 小時前"
     }
   ],
   "errors": []
