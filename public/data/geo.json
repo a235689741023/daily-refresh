@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-16T22:35:51.893Z",
-  "updatedLocal": "2026/11/17 06:35:51",
+  "updated": "2026-11-17T04:39:22.258Z",
+  "updatedLocal": "2026/11/17 12:39:22",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-11-16T14:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Navigate holiday traffic and crowds with Google Maps trends",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-11-16T14:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Ask Maps is coming to Europe.",
@@ -37,11 +37,11 @@
       "group": "gis",
       "published": "2026-11-16T14:00:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "What's new in geospatial AI (November 2026)",
-      "summary": null,
+      "summary": "New geospatial AI capabilities are ready to help boost productivity and execute advanced spatial analytical workflows.",
       "url": "https://www.esri.com/arcgis-blog/products/arcgis/geoai/whats-new-in-geospatial-ai-november-2026",
       "source": "Esri",
       "tag": "平台",
@@ -52,7 +52,7 @@
     },
     {
       "title": "What’s New in Map Viewer (November 2026)",
-      "summary": null,
+      "summary": "The latest Map Viewer update gives you more ways to turn your data into meaningful, engaging web maps.",
       "url": "https://www.esri.com/arcgis-blog/products/arcgis-online/announcements/whats-new-in-map-viewer-november-2026",
       "source": "Esri",
       "tag": "平台",
@@ -63,8 +63,8 @@
     },
     {
       "title": "What's New in ArcGIS Field Maps: November 2026 Update",
-      "summary": null,
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2RRSTVwVkZfOXFOMW9vY0cxU2pvU1VFSFpmSWs2VjFXR2RBYnRKaWtGMGdoczRPVVlONkZfT3JZeEkta1JUS2tQb3FMa1pCcWY0TlFweEtCSGc3eGU0WlNDcXg2dmtycjVWdlNoaURSVGNQa3dmdUVWT05ENGp2Y1Y1U0N3SlJiV0RhamZLUllnamR6VkNBWWQ3amRubHJrTnotajhuVFpLTUxEOTBlSGdR?oc=5",
+      "summary": "ArcGIS Field Maps is Esri’s premier all-in-one mobile app that combines map viewing, high-accuracy GPS data collection, form-driven inspections, task coordination, and location sharing into a single app that is deeply integrated with the ArcGIS system.",
+      "url": "https://www.esri.com/arcgis-blog/products/field-maps/field-mobility/whats-new-in-arcgis-field-maps-november-2026",
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-11-16T14:32:51.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Broadening access to AI for scientists",
@@ -92,7 +92,7 @@
       "group": "ai",
       "published": "2026-11-16T17:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Strengthening the fight against online child sexual abuse with new tools and support",
@@ -103,7 +103,7 @@
       "group": "ai",
       "published": "2026-11-16T17:00:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Science at the Frontier: How scientists use ChatGPT",
@@ -114,7 +114,7 @@
       "group": "ai",
       "published": "2026-11-16T12:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
@@ -125,7 +125,7 @@
       "group": "ai",
       "published": "2026-11-16T09:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Our first phase of embedded assessments",
@@ -136,14 +136,8 @@
       "group": "ai",
       "published": "2026-11-16T08:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "21 小時前"
     }
   ],
-  "errors": [
-    {
-      "source": "GIS × AI 研究",
-      "url": "https://news.google.com/rss/search?q=geospatial%20AI%20OR%20%22spatial%20AI%22%20OR%20%22remote%20sensing%22%20foundation%20model&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 429 Too Many Requests"
-    }
-  ]
+  "errors": []
 }
