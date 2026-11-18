@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-18T03:45:11.872Z",
-  "updatedLocal": "2026/11/18 11:45:11",
+  "updated": "2026-11-18T11:18:51.242Z",
+  "updatedLocal": "2026/11/18 19:18:51",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
+      "summary": "SHENZHEN, China — Russian President Vladimir Putin said the European Union was falling behind competition in a speech Wednesday at the Asia-Pacific Economic Cooperation CEO Summit.",
+      "url": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-18T08:29:35.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "Three things to watch as Trump, Xi and Putin meet in China",
       "summary": "SHENZHEN, China — Leaders of the U.S., China, Russia and other major Asia-Pacific economies face a series of critical issues from wars to tech security as they gather for an annual summit this week.",
@@ -13,9 +24,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-18T03:25:32.000Z",
+      "published": "2026-11-18T06:04:39.000Z",
       "why": null,
-      "ago": "20 分鐘前"
+      "ago": "5 小時前"
     },
     {
       "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
@@ -24,9 +35,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-18T03:17:55.000Z",
+      "published": "2026-11-18T06:18:11.000Z",
       "why": null,
-      "ago": "27 分鐘前"
+      "ago": "5 小時前"
     },
     {
       "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
@@ -37,40 +48,29 @@
       "group": null,
       "published": "2026-11-17T08:52:45.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-      "summary": "Berkshire Hathaway made several moves in the stock market during the third quarter, adding to key positions and trimming others.",
-      "url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-16T23:01:19.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-      "summary": "Oil prices are falling Monday as shipments through the Strait of Hormuz recover and tensions between Iran and the U.",
-      "url": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
+      "summary": "New U.S. export rules could slow Southeast Asia's data center boom by tightening access to advanced AI chips and targeting the region's role in providing computing power to Chinese companies.",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-11-16T22:19:02.000Z",
+      "published": "2026-11-18T08:09:43.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "3 小時前"
     },
     {
-      "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-      "summary": "JPMorgan Chase reported a \"technical issue\" that was affecting some consumer banking services Monday.",
-      "url": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "Record diesel prices drive UK inflation to 1-year high of 3.6%",
+      "summary": "U.K. inflation rose to 3.6% in the 12 months to October, its highest level in a year, as fuel costs continued to rise.",
+      "url": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-11-16T22:14:47.000Z",
+      "published": "2026-11-18T07:57:37.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "3 小時前"
     },
     {
       "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-11-18T00:35:31.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-11-17T13:40:54.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
@@ -103,18 +103,18 @@
       "group": null,
       "published": "2026-11-17T15:35:13.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
+      "title": "Strategists say investors should start asking ‘what could go right’ after tech’s 42% valuation reset",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/strategists-say-investors-should-start-asking-what-could-go-right-after-techs-42-valuation-reset-279a640a?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-18T01:59:00.000Z",
+      "published": "2026-11-18T11:17:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "2 分鐘前"
     }
   ],
   "errors": [

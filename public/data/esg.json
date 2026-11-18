@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-18T03:45:11.872Z",
-  "updatedLocal": "2026/11/18 11:45:11",
+  "updated": "2026-11-18T11:18:51.242Z",
+  "updatedLocal": "2026/11/18 19:18:51",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Amazon sets new carbon intensity goal",
+      "summary": "Amazon has committed to cutting the intensity of the greenhouse gas emissions associated with its electricity consumption by 65 percent by 2030, compared with 2019.",
+      "url": "https://trellis.net/article/amazon-carbon-intensity-electricity-goall/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-18T07:00:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "Your chatbot has a biodiversity footprint. This service can help you pay for it",
       "summary": "Every query sent to ChatGPT, Claude and other artificial intelligence (AI) services has an impact on natural ecosystems that’s both real and, in practice, extremely challenging to assess.",
@@ -15,106 +26,95 @@
       "group": null,
       "published": "2026-11-17T16:48:19.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "19 小時前"
     },
     {
-      "title": "Ørsted among Prince William’s Earthshot Prize 2026 Winners",
-      "summary": "The Winners of this year's Earthshot Prize were revealed in a ceremony today (17 November) in Mumbai, including Ørsted, the nation of Bhutan and PFAS campaigners.",
+      "title": "Defra to undergo major reshuffle around water, land and food",
+      "summary": "* [![Image 3: Unlocking competitive advantage through carbon footprint model assurance [webinar]](blob: # Defra to undergo major reshuffle around water, land and food The Department's Permanent …",
+      "url": "https://www.edie.net/defra-to-undergo-major-reshuffle-around-water-land-and-food/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-18T10:34:04.000Z",
+      "why": null,
+      "ago": "45 分鐘前"
+    },
+    {
+      "title": "How the logistics sector can lead the charge towards a more sustainable future",
+      "summary": "# How the logistics sector can lead the charge towards a more sustainable future Logistics is one of the largest sectors in the UK, and sustainable practises are increasingly being embraced.",
+      "url": "https://www.edie.net/how-the-logistics-sector-can-lead-the-charge-towards-a-more-sustainable-future/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-18T09:18:23.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Ørsted among Prince William’s Earthshot Prize 2026 Winners announced in Mumbai",
+      "summary": "# Ørsted among Prince William’s Earthshot Prize 2026 Winners announced in Mumbai The Winners of this year's Earthshot Prize were revealed in a ceremony today (17 November) in Mumbai, including Ørsted, the nation of Bhutan and PFAS campaigners.",
       "url": "https://www.edie.net/orsted-among-prince-williams-earthshot-prize-2026-winners/",
       "source": "edie",
       "tag": "國際",
       "group": null,
       "published": "2026-11-17T19:54:48.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "From an Ocean Compact to more TAFF roadmaps: What happened on 17 November at COP31?",
-      "summary": "From small island states demanding climate finance to tackle plastic pollution to new pacts on wildlife, Ocean, Seas, Nature and Land Use Day put protecting the natural world firmly centre stage.",
+      "summary": "# From an Ocean Compact to more TAFF roadmaps: What happened on 17 November at COP31?",
       "url": "https://www.edie.net/from-an-ocean-compact-to-more-taff-roadmaps-what-happened-on-17-november-at-cop31/",
       "source": "edie",
       "tag": "國際",
       "group": null,
       "published": "2026-11-17T18:35:01.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "WEBINAR TOMORROW: How to turn climate risk insights into adaptation action",
-      "summary": "This webinar, held in partnership with SmartResilience on 19 November, will explore why and how leading organisations are moving from simply measuring risk to actively adapting in order to protect their operations, assets and supply chains.",
+      "summary": "# WEBINAR TOMORROW: How to turn climate risk insights into adaptation action This webinar, held in partnership with SmartResilience on 19 November, will explore why and how leading organisations are moving from simply measuring risk to actively adapting in order to protect their operations, assets and supply chains.",
       "url": "https://www.edie.net/next-month-masterclass-on-turning-climate-risk-insights-into-adaptation/",
       "source": "edie",
       "tag": "國際",
       "group": null,
       "published": "2026-11-17T17:40:13.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "COP31 Covered podcast: From Yerevan to Antalya, joining up nature and climate",
-      "summary": "The eighth episode of edie’s daily COP31 Covered podcast is streaming now, featuring an exclusive interview with Jason Dozier of the High Ambition Coalition (HAC) for Nature and People on whether the world’s 30x30 target for nature is still within reach.",
+      "summary": "# COP31 Covered podcast: From Yerevan to Antalya, joining up nature and climate The eighth episode of edie’s daily COP31 Covered podcast is streaming now, featuring an exclusive interview with Jason Dozier of the High Ambition Coalition (HAC) for Nature and People on whether the world’s 30x30 target for nature is still within reach.",
       "url": "https://www.edie.net/cop31-covered-podcast-from-yerevan-to-antalya-joining-up-nature-and-climate/",
       "source": "edie",
       "tag": "國際",
       "group": null,
       "published": "2026-11-17T17:06:53.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "COP31: UK backs call for sector-specific ‘polluter pays’ levies",
-      "summary": "The UK has backed a call to make polluting sectors contribute to adaptation and mitigation finance, while new research found that the nation is leading in global efforts to increase the amount of government-backed export finance funnelled into net-zero initiatives.",
+      "summary": "# COP31: UK backs call for sector-specific ‘polluter pays’ levies The UK has backed a call to make polluting sectors contribute to adaptation and mitigation finance, while new research found that the nation is leading in global efforts to increase the amount of government-backed export finance funnelled into net-zero initiatives.",
       "url": "https://www.edie.net/cop31-uk-backs-call-for-sector-specific-polluter-pays-levies/",
       "source": "edie",
       "tag": "國際",
       "group": null,
       "published": "2026-11-17T15:57:55.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Study: Businesses struggle to prove impact of social value action",
-      "summary": "While most companies engage in social impact initiatives, few are able to quantify and report on the impact of these investments, new research has found.",
+      "summary": "# Study: Businesses struggle to prove impact of social value action While most companies engage in social impact initiatives, few are able to quantify and report on the impact of these investments, new research has found.",
       "url": "https://www.edie.net/study-businesses-struggle-to-prove-impact-of-social-value-action/",
       "source": "edie",
       "tag": "國際",
       "group": null,
       "published": "2026-11-17T13:15:42.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "Apply now: Entries open for the edie Awards 2027",
-      "summary": "The UK’s largest corporate sustainability awards scheme is celebrating its 20th year with a restructured programme, built around three pillars and new categories including AI, water and adaptation.",
-      "url": "https://www.edie.net/apply-now-entries-open-for-the-edie-awards-2027/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-17T10:32:41.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "UK SRS readiness assessment: How to identify reporting gaps before requirements tighten",
-      "summary": "UK Sustainability Reporting Standards are set to change how organisations connect sustainability information with financial planning and business decisions.",
-      "url": "https://www.edie.net/uk-srs-readiness-assessment-how-to-identify-reporting-gaps-before-requirements-tighten/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-17T09:29:26.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "What SMEs need to know before they invest in solar",
-      "summary": "Solar power is booming in the UK, with most of the growth coming from rooftop installations.",
-      "url": "https://www.edie.net/what-smes-need-to-know-before-they-invest-in-solar/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-17T09:00:30.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "22 小時前"
     }
   ],
   "errors": []

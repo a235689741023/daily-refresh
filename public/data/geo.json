@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-18T03:45:11.872Z",
-  "updatedLocal": "2026/11/18 11:45:11",
+  "updated": "2026-11-18T11:18:51.242Z",
+  "updatedLocal": "2026/11/18 19:18:51",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-11-17T23:44:25.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "New Ask Maps features to help with holiday travel and prep",
@@ -51,6 +51,17 @@
       "ago": "2 天前"
     },
     {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "summary": "The collaboration will make Le Figaro’s journalism discoverable in ChatGPT using summaries and excerpts, including links to underlying stories.",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-18T00:00:00.000Z",
+      "why": null,
+      "ago": "11 小時前"
+    },
+    {
       "title": "Introducing GPT-6.2 Astra and Sol",
       "summary": "We’re introducing GPT‑6.2 Astra , our new frontier model for your hardest projects, and GPT‑6.2 Sol , our efficient, versatile model for everyday work.",
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-11-17T17:45:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Introducing ChatGPT for Sales",
@@ -70,40 +81,18 @@
       "group": "ai",
       "published": "2026-11-17T08:00:00.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "summary": "Governments and national cyber agencies protect the systems that people, public services and economies depend on.",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-17T00:00:00.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Astra for Law leads in legal intelligence",
-      "summary": "Our latest model configuration earned leading marks on multiple benchmarks. Every ChatGPT Enterprise customer can now request access.",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth.",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-11-17T00:00:00.000Z",
+      "published": "2026-11-18T10:20:30.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Introducing OpenAI for Chile",
-      "summary": "Today we’re launching OpenAI for Chile, a partnership with the Government of Chile, led by the Ministry of Science, Technology, Knowledge and Innovation, to support responsible AI adoption in public administration, build civil servants’ skills and help local startups develop useful AI applications.",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-17T00:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "58 分鐘前"
     },
     {
       "title": "Research Reports",
@@ -114,7 +103,18 @@
       "group": "ai",
       "published": "2026-11-17T14:39:46.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "Put Gemini to work for you",
+      "summary": "Gemini can now make the calls, pay the bills, and finish your tasks.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "source": "Google AI Blog",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-17T17:00:00.000Z",
+      "why": null,
+      "ago": "18 小時前"
     }
   ],
   "errors": []
