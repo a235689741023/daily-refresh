@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-17T21:24:30.189Z",
-  "updatedLocal": "2026/11/18 05:24:30",
+  "updated": "2026-11-18T03:45:11.872Z",
+  "updatedLocal": "2026/11/18 11:45:11",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Brotli / Node.js Vulnerabilities",
+      "summary": "On October 22, 2026, Open AI security researchers announced a critical severity vulnerability in Google’s Brotli decoder, identified as CVE-2026-111497.",
+      "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/brotli-vulnerabilities-broccoli2shell",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-17T23:44:25.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "New Ask Maps features to help with holiday travel and prep",
       "summary": "Build custom road trip itineraries, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
@@ -15,7 +26,7 @@
       "group": "gis",
       "published": "2026-11-16T14:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Navigate holiday traffic and crowds with Google Maps trends",
@@ -26,7 +37,7 @@
       "group": "gis",
       "published": "2026-11-16T14:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Ask Maps is coming to Europe.",
@@ -37,7 +48,7 @@
       "group": "gis",
       "published": "2026-11-16T14:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Introducing GPT-6.2 Astra and Sol",
@@ -48,7 +59,18 @@
       "group": "ai",
       "published": "2026-11-17T17:45:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "10 小時前"
+    },
+    {
+      "title": "Introducing ChatGPT for Sales",
+      "summary": "Help every seller shorten the sales cycle, from finding the right accounts to following through on customer commitments, with a new Sales experience and over 30 new and expanded partner plugins.",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-17T08:00:00.000Z",
+      "why": null,
+      "ago": "20 小時前"
     },
     {
       "title": "Strengthening NATO and allied cyber defenses with AI",
@@ -59,18 +81,7 @@
       "group": "ai",
       "published": "2026-11-17T00:00:00.000Z",
       "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Introducing OpenAI for Chile",
-      "summary": "Today we’re launching OpenAI for Chile, a partnership with the Government of Chile, led by the Ministry of Science, Technology, Knowledge and Innovation, to support responsible AI adoption in public administration, build civil servants’ skills and help local startups develop useful AI applications.",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-17T00:00:00.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Astra for Law leads in legal intelligence",
@@ -81,29 +92,29 @@
       "group": "ai",
       "published": "2026-11-17T00:00:00.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Broadening access to AI for scientists",
-      "summary": "We’re expanding the ChatGPT for Academic Researchers program to give up to 200,000 researchers worldwide free access to ChatGPT.",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "title": "Introducing OpenAI for Chile",
+      "summary": "Today we’re launching OpenAI for Chile, a partnership with the Government of Chile, led by the Ministry of Science, Technology, Knowledge and Innovation, to support responsible AI adoption in public administration, build civil servants’ skills and help local startups develop useful AI applications.",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-16T17:00:00.000Z",
+      "published": "2026-11-17T00:00:00.000Z",
       "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "url": "https://openai.com/index/strengthening-online-child-safety",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "Research Reports",
+      "summary": "To access a report, click on the corresponding image below. Ten years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible.",
+      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-11-16T17:00:00.000Z",
+      "published": "2026-11-17T14:39:46.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "13 小時前"
     }
   ],
   "errors": []
