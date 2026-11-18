@@ -1,11 +1,55 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-18T11:18:51.242Z",
-  "updatedLocal": "2026/11/18 19:18:51",
+  "updated": "2026-11-18T20:56:38.771Z",
+  "updatedLocal": "2026/11/19 04:56:38",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+      "summary": "Federal Reserve officials expressed confidence in October that further interest rate increases will be needed to stem inflation, though they decided to hold off while gathering more information, according to meeting minutes released Wednesday.",
+      "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-18T19:41:59.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+      "summary": "SHENZHEN, China — It took a trip to China for me, an American, to see U.S. President Donald Trump in person for the first time.",
+      "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-18T19:47:05.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+      "summary": "A series of tech outages has consumers stocking up on emergency supplies. Costco sales are seeing a lift because of it, according to research firm Mizuho.",
+      "url": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-18T16:33:14.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+      "summary": "Federal Reserve Governor Christopher Waller on Wednesday called for aggressive action against inflation , saying the central bank needs to \"shock people\" as prices continue to rise more than he expected.",
+      "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-18T15:13:39.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
     {
       "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
       "summary": "SHENZHEN, China — Russian President Vladimir Putin said the European Union was falling behind competition in a speech Wednesday at the Asia-Pacific Economic Cooperation CEO Summit.",
@@ -15,7 +59,7 @@
       "group": null,
       "published": "2026-11-18T08:29:35.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Three things to watch as Trump, Xi and Putin meet in China",
@@ -26,7 +70,7 @@
       "group": null,
       "published": "2026-11-18T06:04:39.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
@@ -37,18 +81,7 @@
       "group": null,
       "published": "2026-11-18T06:18:11.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-      "summary": "BEIJING — How does the U.S. stay ahead of China in the artificial intelligence race?",
-      "url": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-17T08:52:45.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "15 小時前"
     },
     {
       "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
@@ -57,9 +90,9 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-11-18T08:09:43.000Z",
+      "published": "2026-11-18T14:09:26.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Record diesel prices drive UK inflation to 1-year high of 3.6%",
@@ -70,7 +103,7 @@
       "group": null,
       "published": "2026-11-18T07:57:37.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
@@ -81,40 +114,7 @@
       "group": null,
       "published": "2026-11-18T00:35:31.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
-      "summary": "St. Louis Federal Reserve President Alberto Musalem indicated Tuesday that the central bank may need as many as four rate hikes in coming months, offering one of the most hawkish views yet by a Fed policymaker about the steps needed to quell inflation.",
-      "url": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-17T13:40:54.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-      "summary": "Artificial intelligence is about to sweep through the economy. The Federal Reserve is bracing for impact.",
-      "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-17T15:35:13.000Z",
-      "why": null,
       "ago": "20 小時前"
-    },
-    {
-      "title": "Strategists say investors should start asking ‘what could go right’ after tech’s 42% valuation reset",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/strategists-say-investors-should-start-asking-what-could-go-right-after-techs-42-valuation-reset-279a640a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-18T11:17:00.000Z",
-      "why": null,
-      "ago": "2 分鐘前"
     }
   ],
   "errors": [

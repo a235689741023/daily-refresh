@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-18T11:18:51.242Z",
-  "updatedLocal": "2026/11/18 19:18:51",
+  "updated": "2026-11-18T20:56:38.771Z",
+  "updatedLocal": "2026/11/19 04:56:38",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "What's New in ArcGIS Enterprise 12.2",
+      "summary": "ArcGIS Enterprise 12.2 for Windows and Linux is here. This release provides enhancements and new functionality for GIS administrators, GIS developers, and GIS analysts.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-enterprise/announcements/whats-new-in-arcgis-enterprise-12-2",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-17T23:47:59.000Z",
+      "why": null,
+      "ago": "21 小時前"
+    },
     {
       "title": "Brotli / Node.js Vulnerabilities",
       "summary": "On October 22, 2026, Open AI security researchers announced a critical severity vulnerability in Google’s Brotli decoder, identified as CVE-2026-111497.",
@@ -13,9 +24,9 @@
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-11-17T23:44:25.000Z",
+      "published": "2026-11-17T08:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "2 天前"
     },
     {
       "title": "New Ask Maps features to help with holiday travel and prep",
@@ -51,6 +62,28 @@
       "ago": "2 天前"
     },
     {
+      "title": "Inside the Codex sandbox",
+      "summary": "How Codex runs commands on your machine with limits you control. At OpenAI, we take a defense in depth ⁠ (opens in a new window) approach when it comes to safeguarding agents.",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-18T08:00:00.000Z",
+      "why": null,
+      "ago": "13 小時前"
+    },
+    {
+      "title": "Managing frontier AI risk: From training to deployment",
+      "summary": "The capabilities of frontier models are rapidly accelerating, and our ability to understand, align, and secure them must stay ahead.",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-18T06:00:00.000Z",
+      "why": null,
+      "ago": "15 小時前"
+    },
+    {
       "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
       "summary": "The collaboration will make Le Figaro’s journalism discoverable in ChatGPT using summaries and excerpts, including links to underlying stories.",
       "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
@@ -59,7 +92,29 @@
       "group": "ai",
       "published": "2026-11-18T00:00:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "21 小時前"
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "summary": "OpenAI’s models are quickly improving the chips that power AI.",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-18T00:00:00.000Z",
+      "why": null,
+      "ago": "21 小時前"
+    },
+    {
+      "title": "The Silent Consensus",
+      "summary": "Author’s note: Today’s essay is adapted from a lecture the author gave recently as part of the Vik-Bailey Lecture series at Harvard.",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-18T00:00:00.000Z",
+      "why": null,
+      "ago": "21 小時前"
     },
     {
       "title": "Introducing GPT-6.2 Astra and Sol",
@@ -70,51 +125,7 @@
       "group": "ai",
       "published": "2026-11-17T17:45:00.000Z",
       "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Introducing ChatGPT for Sales",
-      "summary": "Help every seller shorten the sales cycle, from finding the right accounts to following through on customer commitments, with a new Sales experience and over 30 new and expanded partner plugins.",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-17T08:00:00.000Z",
-      "why": null,
       "ago": "昨日"
-    },
-    {
-      "title": "This smell startup says its AI nose is as good as a human’s",
-      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth.",
-      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-11-18T10:20:30.000Z",
-      "why": null,
-      "ago": "58 分鐘前"
-    },
-    {
-      "title": "Research Reports",
-      "summary": "To access a report, click on the corresponding image below. Ten years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible.",
-      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-11-17T14:39:46.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Put Gemini to work for you",
-      "summary": "Gemini can now make the calls, pay the bills, and finish your tasks.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "source": "Google AI Blog",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-17T17:00:00.000Z",
-      "why": null,
-      "ago": "18 小時前"
     }
   ],
   "errors": []
