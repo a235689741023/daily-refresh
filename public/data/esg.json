@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-18T20:56:38.771Z",
-  "updatedLocal": "2026/11/19 04:56:38",
+  "updated": "2026-11-19T03:42:45.283Z",
+  "updatedLocal": "2026/11/19 11:42:45",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,7 @@
       "group": null,
       "published": "2026-11-18T07:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "Your chatbot has a biodiversity footprint. This service can help you pay for it",
-      "summary": "Every query sent to ChatGPT, Claude and other artificial intelligence (AI) services has an impact on natural ecosystems that’s both real and, in practice, extremely challenging to assess.",
-      "url": "https://trellis.net/article/terrasos-tebu-biodiversity-footprint/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-17T16:48:19.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "21 小時前"
     },
     {
       "title": "‘Double-edged sword’ or ‘sword of Damocles’?: A breakdown of COP31’s AI push",
@@ -37,7 +26,7 @@
       "group": null,
       "published": "2026-11-18T20:16:15.000Z",
       "why": null,
-      "ago": "40 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "From EU finance blocking to a Burnham puppet: What happened on 18 November at COP31?",
@@ -48,7 +37,7 @@
       "group": null,
       "published": "2026-11-18T18:13:51.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "COP31 Covered podcast: Healthy people, healthy forests and a “horror show” of draft talks",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-11-18T17:41:58.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Weaker ZEV Mandate risks UK climate targets, CCC warns",
@@ -70,18 +59,18 @@
       "group": null,
       "published": "2026-11-18T12:51:07.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "WEBINAR TODAY: How to turn climate risk insights into adaptation action",
-      "summary": "* [![Image 7: Unlocking competitive advantage through carbon footprint model assurance [webinar]](blob: # WEBINAR TODAY: How to turn climate risk insights into adaptation action This webinar, held in …",
+      "summary": "* [![Image 3: Unlocking competitive advantage through carbon footprint model assurance [webinar]](blob: # WEBINAR TODAY: How to turn climate risk insights into adaptation action This webinar, held in …",
       "url": "https://www.edie.net/next-month-masterclass-on-turning-climate-risk-insights-into-adaptation/",
       "source": "edie",
       "tag": "國際",
       "group": null,
       "published": "2026-11-18T10:40:13.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Defra to undergo major reshuffle around water, land and food",
@@ -92,7 +81,7 @@
       "group": null,
       "published": "2026-11-18T10:34:04.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "How the logistics sector can lead the charge towards a more sustainable future",
@@ -103,7 +92,7 @@
       "group": null,
       "published": "2026-11-18T09:18:23.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Apply now: Entries open for the edie Awards 2027",
@@ -114,7 +103,18 @@
       "group": null,
       "published": "2026-11-18T08:32:41.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
+    },
+    {
+      "title": "全台垃圾山減近50萬噸、觀光署斑蝶電子標放研究創亞洲首例、日本硫磺島火山噴發形成大片新陸地",
+      "summary": "環境部長彭啓明18日表示，全台84萬公噸的裸露垃圾山，截至今年11月初已減少近50萬公噸；透過覆土、打包及焚化減量等方式，仍以今年底完成妥善處理為目標。環境部長彭啓明去年攜手地方環保局長宣示，將投入新台幣12億元，透過分類打包、AI管理等多項措施，在今年底前完全解決裸露垃圾的問題。",
+      "url": "https://e-info.org.tw/node/244092",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-19T02:01:53.000Z",
+      "why": null,
+      "ago": "2 小時前"
     }
   ],
   "errors": []

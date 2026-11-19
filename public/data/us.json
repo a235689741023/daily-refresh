@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-18T20:56:38.771Z",
-  "updatedLocal": "2026/11/19 04:56:38",
+  "updated": "2026-11-19T03:42:45.283Z",
+  "updatedLocal": "2026/11/19 11:42:45",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-18T19:41:59.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-11-18T19:47:05.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-11-18T16:33:14.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-11-18T15:13:39.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-11-18T08:29:35.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "Three things to watch as Trump, Xi and Putin meet in China",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-11-18T06:04:39.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-11-18T06:18:11.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-11-18T14:09:26.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Record diesel prices drive UK inflation to 1-year high of 3.6%",
@@ -103,18 +103,18 @@
       "group": null,
       "published": "2026-11-18T07:57:37.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
-      "summary": "Japan's exports in October surged 20.5% from a year earlier, snapping a two-month slowdown in shipments, official data released Wednesday showed.",
-      "url": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
+      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "summary": "## ‘Our financial and healthcare situation has become increasingly concerning’ Choose MarketWatch as a preferred source of financial news I am 50, and my husband recently lost his job.",
+      "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
       "group": null,
-      "published": "2026-11-18T00:35:31.000Z",
+      "published": "2026-11-19T03:30:00.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "13 分鐘前"
     }
   ],
   "errors": [

@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-18T20:56:38.771Z",
-  "updatedLocal": "2026/11/19 04:56:38",
+  "updated": "2026-11-19T03:42:45.283Z",
+  "updatedLocal": "2026/11/19 11:42:45",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Building Trust in Maps: How Kaufman County, Texas Is Improving Basemap Accuracy Through Esri Community Maps",
+      "summary": "In late 2022, Kaufman County began exploring how to correct inaccuracies in the labels displayed on Esri basemaps.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-online/mapping/building-trust-in-maps-how-kaufman-county-tx-is-improving-basemap-accuracy-through-esri-community-maps",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-19T01:17:17.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "What's New in ArcGIS Enterprise 12.2",
       "summary": "ArcGIS Enterprise 12.2 for Windows and Linux is here. This release provides enhancements and new functionality for GIS administrators, GIS developers, and GIS analysts.",
@@ -15,7 +26,7 @@
       "group": "gis",
       "published": "2026-11-17T23:47:59.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Brotli / Node.js Vulnerabilities",
@@ -29,37 +40,59 @@
       "ago": "2 天前"
     },
     {
-      "title": "New Ask Maps features to help with holiday travel and prep",
-      "summary": "Build custom road trip itineraries, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
-      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-      "source": "Google Maps Blog",
-      "tag": "平台",
+      "title": "Ai2 and Taylor Geospatial partner to make geospatial AI easier to compare, run, and build on - Allen Institute for Artificial Intelligence",
+      "summary": "At SatSummit in St. Louis, Ai2 and Taylor Geospatial announced a partnership to help shape how geospatial AI is built, tested, and put to work for the public good.",
+      "url": "https://allenai.org/blog/taylor-geospatial-partnership",
+      "source": "GIS × AI 研究",
+      "tag": "研究",
       "group": "gis",
-      "published": "2026-11-16T14:00:00.000Z",
+      "published": "2026-11-18T18:24:39.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "9 小時前"
     },
     {
-      "title": "Navigate holiday traffic and crowds with Google Maps trends",
-      "summary": "Whether you’re planning a road trip or finding the best time to run holiday errands, here’s your playbook for the season.",
-      "url": "https://blog.google/products-and-platforms/products/maps/holiday-thanksgiving-travel-trends-2026/",
-      "source": "Google Maps Blog",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-16T14:00:00.000Z",
+      "title": "Anthropic prices initial public offering",
+      "summary": "Today Anthropic, PBC priced its initial public offering of its Class A common stock at $83.00 per share.",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-18T23:35:59.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "4 小時前"
     },
     {
-      "title": "Ask Maps is coming to Europe.",
-      "summary": "Ask Maps is the biggest update to Google Maps in over a decade. Powered by the world’s freshest map and Gemini models, it answers complex, real-world questions a map couldn't before.",
-      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/",
-      "source": "Google Maps Blog",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-16T14:00:00.000Z",
+      "title": "The Silent Consensus",
+      "summary": "Author’s note: Today’s essay is adapted from a lecture the author gave recently as part of the Vik-Bailey Lecture series at Harvard.",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-18T10:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "18 小時前"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "Over the course of this year, AI systems have become increasingly capable, potentially increasing their ability to contribute to AI research and development themselves.",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-18T08:00:00.000Z",
+      "why": null,
+      "ago": "20 小時前"
+    },
+    {
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Planning teams use ChatGPT to research overseas insurers and prepare proposals. Investment teams use it to draft code for risk analysis.",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-18T08:00:00.000Z",
+      "why": null,
+      "ago": "20 小時前"
     },
     {
       "title": "Inside the Codex sandbox",
@@ -70,7 +103,7 @@
       "group": "ai",
       "published": "2026-11-18T08:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Managing frontier AI risk: From training to deployment",
@@ -81,51 +114,7 @@
       "group": "ai",
       "published": "2026-11-18T06:00:00.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "summary": "The collaboration will make Le Figaro’s journalism discoverable in ChatGPT using summaries and excerpts, including links to underlying stories.",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-18T00:00:00.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Advancing chip design with OpenAI models",
-      "summary": "OpenAI’s models are quickly improving the chips that power AI.",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-18T00:00:00.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "The Silent Consensus",
-      "summary": "Author’s note: Today’s essay is adapted from a lecture the author gave recently as part of the Vik-Bailey Lecture series at Harvard.",
-      "url": "https://openai.com/index/the-silent-consensus",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-18T00:00:00.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "summary": "We’re introducing GPT‑6.2 Astra , our new frontier model for your hardest projects, and GPT‑6.2 Sol , our efficient, versatile model for everyday work.",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-17T17:45:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "22 小時前"
     }
   ],
   "errors": []
