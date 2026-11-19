@@ -1,41 +1,19 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-19T11:17:09.136Z",
-  "updatedLocal": "2026/11/19 19:17:09",
+  "updated": "2026-11-19T21:03:01.831Z",
+  "updatedLocal": "2026/11/20 05:03:01",
   "digest": null,
   "watch": [],
   "items": [
     {
       "title": "CVE-2026-114938 aka: Java4Shell",
-      "summary": "All ArcGIS Products that use OpenJDK are under investigation to determine the impact of this issue. Your WAF should ALWAYS be part of a defense in depth posture.",
+      "summary": "All ArcGIS Products that use OpenJDK are under investigation to determine the impact of this issue.",
       "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/cve-2026-114938-aka-java4shell",
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-11-19T01:17:17.000Z",
-      "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "Building Trust in Maps: How Kaufman County, Texas Is Improving Basemap Accuracy Through Esri Community Maps",
-      "summary": "In late 2022, Kaufman County began exploring how to correct inaccuracies in the labels displayed on Esri basemaps.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-online/mapping/building-trust-in-maps-how-kaufman-county-tx-is-improving-basemap-accuracy-through-esri-community-maps",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-19T01:17:17.000Z",
-      "why": null,
-      "ago": "10 小時前"
-    },
-    {
-      "title": "What's New in ArcGIS Enterprise 12.2",
-      "summary": "ArcGIS Enterprise 12.2 for Windows and Linux is here. This release provides enhancements and new functionality for GIS administrators, GIS developers, and GIS analysts.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-enterprise/announcements/whats-new-in-arcgis-enterprise-12-2",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-17T23:47:59.000Z",
+      "published": "2026-11-18T18:45:49.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -48,7 +26,29 @@
       "group": "gis",
       "published": "2026-11-18T18:24:39.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "How to Use MPKX Files in QGIS",
+      "summary": "With so many public agencies, particularly in the United States, relying almost exclusively on Esri’s proprietary GIS software, it’s not uncommon to find geographic data packaged or compressed in formats designed for ArcGIS.",
+      "url": "https://www.geographyrealm.com/how-to-use-mpkx-files-in-qgis/",
+      "source": "GIS Lounge",
+      "tag": "應用",
+      "group": "gis",
+      "published": "2026-11-19T19:36:41.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "GIS File Formats",
+      "summary": "GIS work involves dozens of file formats. Some store geographic data, while others are created by GIS software to save a map or project.",
+      "url": "https://www.geographyrealm.com/how-to-tell-gis-file-formats/",
+      "source": "GIS Lounge",
+      "tag": "應用",
+      "group": "gis",
+      "published": "2026-11-19T18:19:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "Anthropic prices initial public offering",
@@ -59,62 +59,62 @@
       "group": "ai",
       "published": "2026-11-18T23:35:59.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "21 小時前"
     },
     {
-      "title": "The Silent Consensus",
-      "summary": "Author’s note: Today’s essay is adapted from a lecture the author gave recently as part of the Vik-Bailey Lecture series at Harvard.",
-      "url": "https://openai.com/index/the-silent-consensus",
+      "title": "News and Events - News",
+      "summary": "Today Anthropic, PBC priced its initial public offering of its Class A common stock.",
+      "url": "https://investor.anthropic.com/news-and-events/news/default.aspx",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-19T18:08:01.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "SEC Filings",
+      "summary": "| Date | Filing type | Filing description | Download / view | | 11/19/2026 | | Prospectus filed pursuant to Rule 424(b)(4) | | | 11/19/2026 | | Securities Registration: Employee Benefit Plan | | | 11/19/2026 | | Securities Registration: Employee Benefit Plan | | | 11/18/2026 | | Effectiveness Order | | | 11/18/2026 | | Initial Statement of Beneficial Ownership | | | 11/18/2026 | | Initial Statement of Beneficial Ownership | | | 11/18/2026 | | Initial Statement of Beneficial Ownership | | | 11/18/2026 | | Initial Statement of Beneficial Ownership | | | 11/18/2026 | | Initial Statement of Beneficial Ownership | | | 11/18/2026 | | Initial Statement of Beneficial Ownership | | | 11/18/2026 | | Initial Statement of Beneficial Ownership | | | 11/18/2026 | | Initial Statement of Beneficial Ownership | | | 11/18/2026 | | Registration of Additional Securities (up to 20%) | | | 11/17/2026 | | Securities Registration Statement | | | 11/10/2026 | | Securities Registration Statement | | | 11/02/2026 | | Securities Registration Statement | | | 10/26/2026 | | Securities Registration Statement | | SEC Filings documents grouped by date, type, and description Email address *Required Error: Email address is required.",
+      "url": "https://investor.anthropic.com/sec-filings/default.aspx",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-19T18:07:54.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Investor Relations",
+      "summary": null,
+      "url": "https://investor.anthropic.com/",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-19T14:17:11.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
+    {
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "summary": "Our Codex-powered system automates finding and fixing performance issues. The staggering pace of agentic development has made traditional approaches to performance engineering unsustainable.",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-18T10:00:00.000Z",
+      "published": "2026-11-19T08:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "13 小時前"
     },
     {
-      "title": "Research acceleration: The jagged frontier",
-      "summary": "Over the course of this year, AI systems have become increasingly capable, potentially increasing their ability to contribute to AI research and development themselves.",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "source": "OpenAI",
+      "title": "Introducing Gemini 4 Neon",
+      "summary": "Bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "Google DeepMind",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-18T08:00:00.000Z",
+      "published": "2026-11-18T21:35:43.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "summary": "Planning teams use ChatGPT to research overseas insurers and prepare proposals. Investment teams use it to draft code for risk analysis.",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-18T08:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Inside the Codex sandbox",
-      "summary": "How Codex runs commands on your machine with limits you control. At OpenAI, we take a defense in depth ⁠ (opens in a new window) approach when it comes to safeguarding agents.",
-      "url": "https://openai.com/index/inside-the-codex-sandbox",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-18T08:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Managing frontier AI risk: From training to deployment",
-      "summary": "The capabilities of frontier models are rapidly accelerating, and our ability to understand, align, and secure them must stay ahead.",
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-18T06:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "23 小時前"
     }
   ],
   "errors": []

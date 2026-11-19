@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-19T11:17:09.136Z",
-  "updatedLocal": "2026/11/19 19:17:09",
+  "updated": "2026-11-19T21:03:01.831Z",
+  "updatedLocal": "2026/11/20 05:03:01",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,7 @@
       "group": null,
       "published": "2026-11-19T09:02:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-      "summary": "Federal Reserve officials expressed confidence in October that further interest rate increases will be needed to stem inflation, though they decided to hold off while gathering more information, according to meeting minutes released Wednesday.",
-      "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-18T19:41:59.000Z",
-      "why": null,
-      "ago": "16 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
@@ -37,7 +26,18 @@
       "group": null,
       "published": "2026-11-18T19:47:05.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+      "summary": "Federal Reserve officials expressed confidence in October that further interest rate increases will be needed to stem inflation, though they decided to hold off while gathering more information, according to meeting minutes released Wednesday.",
+      "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-18T19:41:59.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-11-18T16:33:14.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
@@ -59,51 +59,29 @@
       "group": null,
       "published": "2026-11-18T15:13:39.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
-      "summary": "SHENZHEN, China — Russian President Vladimir Putin said the European Union was falling behind competition in a speech Wednesday at the Asia-Pacific Economic Cooperation CEO Summit.",
-      "url": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-18T08:29:35.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
-      "summary": "Artificial intelligence agents have already proven to be helpful, or cause a lot of trouble, or both.",
-      "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-18T06:18:11.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Three things to watch as Trump, Xi and Putin meet in China",
-      "summary": "SHENZHEN, China — Leaders of the U.S., China, Russia and other major Asia-Pacific economies face a series of critical issues from wars to tech security as they gather for an annual summit this week.",
-      "url": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-18T06:04:39.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
-      "summary": "New U.S. export rules could slow Southeast Asia's data center boom by tightening access to advanced AI chips and targeting the region's role in providing computing power to Chinese companies.",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
+      "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+      "summary": "Artificial intelligence is about to sweep through the economy. The Federal Reserve is bracing for impact.",
+      "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-11-18T14:09:26.000Z",
+      "published": "2026-11-19T20:18:47.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "44 分鐘前"
+    },
+    {
+      "title": "Peterson: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+      "summary": "Nvidia CEO Jensen Huang 's shock resignation is raising a worrying question: Could trouble at the chipmaker spread through the tightly connected financial network Nvidia has built to support the artificial intelligence boom?",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-11-19T20:21:10.000Z",
+      "why": null,
+      "ago": "42 分鐘前"
     },
     {
       "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
@@ -112,9 +90,31 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-19T11:15:00.000Z",
+      "published": "2026-11-19T20:50:00.000Z",
       "why": null,
-      "ago": "2 分鐘前"
+      "ago": "13 分鐘前"
+    },
+    {
+      "title": "Nvidia’s stock falls further. It has lost $611 billion in six trading days.",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-19T20:33:00.000Z",
+      "why": null,
+      "ago": "30 分鐘前"
+    },
+    {
+      "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-19T20:28:00.000Z",
+      "why": null,
+      "ago": "35 分鐘前"
     }
   ],
   "errors": [
