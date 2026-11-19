@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-19T03:42:45.283Z",
-  "updatedLocal": "2026/11/19 11:42:45",
+  "updated": "2026-11-19T11:17:09.136Z",
+  "updatedLocal": "2026/11/19 19:17:09",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "How Agilent is educating its procurement team about climate goals",
+      "summary": "Agilent has trained close to 250 employees, most from its procurement team, to encourage decarbonization commitments across its supply chain.",
+      "url": "https://trellis.net/article/how-agilent-educates-procurement-team-climate-goals/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-19T10:09:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
     {
       "title": "Amazon sets new carbon intensity goal",
       "summary": "Amazon has committed to cutting the intensity of the greenhouse gas emissions associated with its electricity consumption by 65 percent by 2030, compared with 2019.",
@@ -15,7 +26,18 @@
       "group": null,
       "published": "2026-11-18T07:00:00.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "REPORT: A practical guide to solar for SMEs",
+      "summary": "# REPORT: A practical guide to solar for SMEs This report, sponsored by British Gas, provides practical advice for small and medium-sized businesses that are considering investing in on-site solar plus storage generation.",
+      "url": "https://www.edie.net/report-a-practical-guide-to-solar-for-smes/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-19T06:00:02.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "‘Double-edged sword’ or ‘sword of Damocles’?: A breakdown of COP31’s AI push",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-11-18T20:16:15.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "From EU finance blocking to a Burnham puppet: What happened on 18 November at COP31?",
@@ -37,7 +59,7 @@
       "group": null,
       "published": "2026-11-18T18:13:51.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "COP31 Covered podcast: Healthy people, healthy forests and a “horror show” of draft talks",
@@ -48,7 +70,7 @@
       "group": null,
       "published": "2026-11-18T17:41:58.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Weaker ZEV Mandate risks UK climate targets, CCC warns",
@@ -59,51 +81,7 @@
       "group": null,
       "published": "2026-11-18T12:51:07.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "WEBINAR TODAY: How to turn climate risk insights into adaptation action",
-      "summary": "* [![Image 3: Unlocking competitive advantage through carbon footprint model assurance [webinar]](blob: # WEBINAR TODAY: How to turn climate risk insights into adaptation action This webinar, held in …",
-      "url": "https://www.edie.net/next-month-masterclass-on-turning-climate-risk-insights-into-adaptation/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-18T10:40:13.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Defra to undergo major reshuffle around water, land and food",
-      "summary": "# Defra to undergo major reshuffle around water, land and food The Department's Permanent Secretary has announced that it is restructuring into three groups to better fulfil its \"environmental, economic and resilience ambitions\".",
-      "url": "https://www.edie.net/defra-to-undergo-major-reshuffle-around-water-land-and-food/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-18T10:34:04.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "How the logistics sector can lead the charge towards a more sustainable future",
-      "summary": "# How the logistics sector can lead the charge towards a more sustainable future Logistics is one of the largest sectors in the UK, and sustainable practises are increasingly being embraced.",
-      "url": "https://www.edie.net/how-the-logistics-sector-can-lead-the-charge-towards-a-more-sustainable-future/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-18T09:18:23.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Apply now: Entries open for the edie Awards 2027",
-      "summary": "# Apply now: Entries open for the edie Awards 2027 The UK’s largest corporate sustainability awards scheme is celebrating its 20th year with a restructured programme, built around three pillars and new categories including AI, water and adaptation.",
-      "url": "https://www.edie.net/apply-now-entries-open-for-the-edie-awards-2027/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-18T08:32:41.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "全台垃圾山減近50萬噸、觀光署斑蝶電子標放研究創亞洲首例、日本硫磺島火山噴發形成大片新陸地",
@@ -114,7 +92,29 @@
       "group": null,
       "published": "2026-11-19T02:01:53.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
+    },
+    {
+      "title": "縣市氣候與能源治理評比 台南居六都之首、屏東居非六都第一",
+      "summary": "你居住的縣市重視氣候變遷嗎？由13個民團組成的能源轉型推動聯盟（能轉盟）17日舉行記者會，公布「2026年縣市政府氣候與能源治理評比報告」，檢視全台各縣市政府2022-2026年間的氣候與能源施政表現。第一名是台南市，評比指出，台南在各面向都表現突出，例如完善自治法規並擴大產業綠電責任、明訂中長期目標及超前部署能源韌性等。",
+      "url": "https://e-info.org.tw/node/244094",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-19T06:00:44.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "傻眼蜥蜴、時尚老鷹、貓王鱷魚 2026搞笑動物攝影獎人氣賞票選中",
+      "summary": "一年一度的 登場，今年主辦單位收到來自112國、超過1萬件參賽作品，盛況空前。入圍決賽的作品展現野生動物逗趣的千姿百態，最終得獎者將於12月8日公布。目前，人氣獎（STERNA People's Choice Award）也正開放民眾票選中。",
+      "url": "https://www.e-info.org.tw/node/244006",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-19T01:41:06.000Z",
+      "why": null,
+      "ago": "10 小時前"
     }
   ],
   "errors": []
