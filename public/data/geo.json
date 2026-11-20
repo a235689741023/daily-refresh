@@ -1,32 +1,32 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-20T11:03:33.205Z",
-  "updatedLocal": "2026/11/20 19:03:33",
+  "updated": "2026-11-20T20:48:47.023Z",
+  "updatedLocal": "2026/11/21 04:48:47",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Java4Shell Vulnerability",
-      "summary": "On November 17, 2026, details emerged exposing a critical remote code execution (RCE) vulnerability in OpenJDK, tracked as CVE-2026-114938 (dubbed “Java4Shell”) with a CVSSv3.1 score of 8.1 (High).",
-      "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/cve-2026-114938-aka-java4shell",
+      "title": "Brotli / Node.js Vulnerabilities",
+      "summary": "On October 22, 2026, Open AI security researchers announced a critical severity vulnerability in Google’s Brotli decoder, identified as CVE-2026-111497.",
+      "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/brotli-vulnerabilities-broccoli2shell",
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-11-18T18:45:49.000Z",
+      "published": "2026-11-19T08:00:00.000Z",
       "why": null,
       "ago": "2 天前"
     },
     {
-      "title": "What's New in ArcGIS Enterprise 12.2",
-      "summary": "ArcGIS Enterprise 12.2 for Windows and Linux is here. This release provides enhancements and new functionality for GIS administrators, GIS developers, and GIS analysts.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-enterprise/announcements/whats-new-in-arcgis-enterprise-12-2",
-      "source": "Esri",
-      "tag": "平台",
+      "title": "Why U.S. Islands Are Important for Biodiversity",
+      "summary": "Along with the more well-known islands like the Aleutian and Hawaiian Islands, the United States is home to thousands of islands found much closer to the mainland, scattered along coastlines, tucked inside estuaries, and forming barrier islands that separate coastal wetlands from the open ocean .",
+      "url": "https://www.geographyrealm.com/u-s-islands-biodiversity/",
+      "source": "GIS Lounge",
+      "tag": "應用",
       "group": "gis",
-      "published": "2026-11-17T23:47:59.000Z",
+      "published": "2026-11-20T17:47:35.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 小時前"
     },
     {
       "title": "How to Use MPKX Files in QGIS",
@@ -37,7 +37,7 @@
       "group": "gis",
       "published": "2026-11-19T19:36:41.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "昨日"
     },
     {
       "title": "GIS File Formats",
@@ -48,29 +48,51 @@
       "group": "gis",
       "published": "2026-11-19T18:19:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Investor Relations",
-      "summary": null,
-      "url": "https://investor.anthropic.com/overview/default.aspx",
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "summary": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.",
+      "url": "https://www.anthropic.com/news/ipo-close",
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-19T14:17:12.000Z",
+      "published": "2026-11-20T12:45:21.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Combatting adversarial distillation",
+      "summary": "How we’re addressing safety risks of distillation and lessons we’ve learned for strengthening safeguards across the industry.",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-20T10:00:00.000Z",
+      "why": null,
+      "ago": "11 小時前"
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary": "Hebbia sees gains in financial research in tests of GPT‑6 Astra. Percentage-point lead over the best alternative tested in Hebbia’s tests.",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-20T00:00:00.000Z",
       "why": null,
       "ago": "21 小時前"
     },
     {
-      "title": "News and Events - News",
-      "summary": "Today Anthropic, PBC priced its initial public offering of its Class A common stock.",
-      "url": "https://investor.anthropic.com/news-and-events/news/default.aspx",
-      "source": "Anthropic",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "summary": "Introducing MedChemBench, a benchmark that tests how well AI models read molecular structures, interpret experimental results, and choose which compounds to test next.",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-19T18:08:01.000Z",
+      "published": "2026-11-20T00:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "SEC Filings",
@@ -81,40 +103,18 @@
       "group": "ai",
       "published": "2026-11-19T18:07:54.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Leadership & Governance - Committee Composition",
-      "summary": null,
-      "url": "https://investor.anthropic.com/leadership-governance/committee-composition/default.aspx",
-      "source": "Anthropic",
-      "tag": "模型",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-11-19T18:08:00.000Z",
+      "published": "2026-11-20T18:15:15.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Resources - Investor Contacts",
-      "summary": "ir@anthropic.com](mailto:ir@anthropic.com \"mailto:ir@anthropic.com\") Email address *Required Error: Email address is required.",
-      "url": "https://investor.anthropic.com/resources/investor-contacts/default.aspx",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-19T18:07:53.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Leadership & Governance - Governance Documents",
-      "summary": null,
-      "url": "https://investor.anthropic.com/leadership-governance/governance-documents/default.aspx",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-19T18:08:05.000Z",
-      "why": null,
-      "ago": "17 小時前"
+      "ago": "3 小時前"
     }
   ],
   "errors": []

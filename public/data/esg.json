@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-20T11:03:33.205Z",
-  "updatedLocal": "2026/11/20 19:03:33",
+  "updated": "2026-11-20T20:48:47.023Z",
+  "updatedLocal": "2026/11/21 04:48:47",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,73 @@
       "group": null,
       "published": "2026-11-19T17:58:28.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "How Agilent is educating its procurement team about climate goals",
-      "summary": "Agilent Technologies has trained close to 250 employees, most from its procurement team, to encourage decarbonization commitments across its supply chain.",
-      "url": "https://trellis.net/article/how-agilent-educates-procurement-team-climate-goals/",
-      "source": "Trellis",
+      "title": "EU strikes deal on new ‘sustainable’ and ‘transition’ fund labels for SFDR",
+      "summary": "# EU strikes deal on new ‘sustainable’ and ‘transition’ fund labels for SFDR The European Council and Parliament reached a provisional agreement on changes to the Sustainable Finance Disclosure Regulation (SFDR), including new 'sustainable' and 'transition' categories.",
+      "url": "https://www.edie.net/sfdr-reset-eu-strikes-deal-on-new-sustainable-and-transition-fund-labels/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-11-19T10:09:00.000Z",
+      "published": "2026-11-20T18:38:43.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "COP31: Antalya talks overrun as countries remain divided on final deal",
+      "summary": "# COP31: Antalya talks overrun as countries remain divided on final deal COP31 has slipped into overtime in Antalya, with negotiators from nearly 200 countries still divided over the latest draft deal, which drops all mention of fossil fuels and a $120bn adaptation finance target.",
+      "url": "https://www.edie.net/cop31-antalya-talks-overrun-as-countries-remain-divided-on-final-deal/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-20T17:32:06.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Nature loss could cost SMEs a third of their profits, research reveals",
+      "summary": "# Nature loss could cost SMEs a third of their profits, research reveals New research has found biodiversity loss is associated with a reduction equivalent to 36% of average small business profitability.",
+      "url": "https://www.edie.net/nature-loss-could-cost-smes-a-third-of-their-profits-research-reveals/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-20T14:39:14.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Seven in ten supply chain emissions projects are profitable, finds CDP",
+      "summary": "# Seven in ten supply chain emissions projects are profitable, finds CDP New analysis revealed that 69% of supply chain emissions reduction initiatives are profitable, paying back in a median of three years, but businesses are still not seizing these opportunities.",
+      "url": "https://www.edie.net/seven-in-ten-supply-chain-emissions-projects-are-profitable-finds-cdp/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-20T12:02:00.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "COP26 was a moment, but Glasgow’s businesses made it a movement",
+      "summary": "# COP26 was a moment, but Glasgow’s businesses made it a movement Five years after COP26, Glasgow offers a distinctive example of how business leadership can turn climate ambition into innovation, economic opportunity and investment in the next generation, says Glasgow Chamber of Commerce's senior director, Alison McRae.",
+      "url": "https://www.edie.net/cop26-was-a-moment-but-glasgows-businesses-made-it-a-movement/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-20T11:45:06.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "Apply now: Entries open for the edie Awards 2027",
+      "summary": "# Apply now: Entries open for the edie Awards 2027 The UK’s largest corporate sustainability awards scheme is celebrating its 20th year with a restructured programme, built around three pillars and new categories including AI, water and adaptation.",
+      "url": "https://www.edie.net/apply-now-entries-open-for-the-edie-awards-2027/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-20T08:32:41.000Z",
+      "why": null,
+      "ago": "12 小時前"
     },
     {
       "title": "Wind and solar projects face £1 starting budgets in latest CfD auction",
@@ -37,84 +92,29 @@
       "group": null,
       "published": "2026-11-20T00:01:20.000Z",
       "why": null,
-      "ago": "11 小時前"
-    },
-    {
-      "title": "From a global electrification package to a new draft text: What happened on 19 November at COP31?",
-      "summary": "# From a global electrification package to a new draft text: What happened on 19 November at COP31?",
-      "url": "https://www.edie.net/from-a-global-electrification-package-to-a-new-draft-text-what-happened-on-19-november-at-cop31/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-19T20:17:53.000Z",
-      "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Government launches £28m farming innovation competition",
-      "summary": "# Government launches £28m farming innovation competition The Department for Environment, Food & Rural Affairs (Defra) has announced £43m in funding to help farmers reduce costs and protect food production, including a £28m innovation competition for projects improving soil and water quality.",
-      "url": "https://www.edie.net/government-launches-28m-farming-innovation-competition/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-19T18:12:33.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "COP31 Covered podcast: İmece, electrification and a stripped-back deal",
-      "summary": "# COP31 Covered podcast: İmece, electrification and a stripped-back deal The tenth episode of edie’s daily COP31 Covered podcast is streaming now, featuring an exclusive interview with We Mean Business Coalition’s Andrew Prag on the business push for a global electrification target.",
-      "url": "https://www.edie.net/cop31-covered-podcast-imece-electrification-and-a-stripped-back-deal/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-19T17:43:22.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "One year after COP30, momentum builds for global near-zero methane marketplace",
-      "summary": "# One year after COP30, momentum builds for global near-zero methane marketplace A global near-zero methane marketplace could help accelerate emissions cuts from fossil fuel producers, but only if major importing and exporting countries turn political support into concrete action, argues Environmental Investigation Agency (EIA) campaign lead Kim O'Dowd.",
-      "url": "https://www.edie.net/one-year-after-cop30-momentum-builds-for-global-near-zero-methane-marketplace/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-19T16:20:45.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "‘Supply comes first’: EU methane regulation two-year delay confirmed",
-      "summary": "# ‘Supply comes first’: EU methane regulation two-year delay confirmed The European Commission has confirmed it will postpone methane reporting and verification requirements for oil, gas and coal importers by two years.",
-      "url": "https://www.edie.net/supply-comes-first-eu-methane-regulation-two-year-delay-confirmed/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-19T15:57:44.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "New electrification package launched at COP31 to drive global clean energy investment",
-      "summary": "# New electrification package launched at COP31 to drive global clean energy investment A new global electrification package has been launched at COP31, setting out billions in clean energy investment plans and commitments to expand electricity access, strengthen power grids and accelerate the shift to electric transport, buildings and industry.",
-      "url": "https://www.edie.net/new-electrification-package-launched-at-cop31-to-drive-global-clean-energy-investment/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-19T15:24:53.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "IEA: Energy security concerns strengthen case for renewables and electrification",
-      "summary": "# IEA: Energy security concerns strengthen case for renewables and electrification Although the International Energy Agency (IEA) has found that disruption in the Middle East continues to catalyse renewable and electrification investment, the world remains on track for well above 2C of warming by 2100.",
-      "url": "https://www.edie.net/iea-energy-security-concerns-strengthen-case-for-renewables-and-electrification/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-19T13:34:47.000Z",
-      "why": null,
       "ago": "21 小時前"
+    },
+    {
+      "title": "謝龍介vs 陳亭妃：誰的台南更有韌性、交通更便利？",
+      "summary": "台南今年面臨多次強降雨導致的洪災。國民黨台南市長候選人謝龍介提出三支「穿雲箭」，包含當選將成立「治水整合辦公室」、全面檢討台南現有的雨水下水道系統規劃、建構AI智慧水網等，並全面推動防災型都更。民進黨台南市長候選人陳亭妃則積極向中央爭取各項防洪建設經費與改善工程，如三爺溪、六塊寮等地區的相關工程與抽水站設施。",
+      "url": "https://e-info.org.tw/node/244105",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-20T10:40:53.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
+    {
+      "title": "江啟臣vs 何欣純：誰的台中空氣更清新、垃圾山更少？",
+      "summary": "台中火力發電廠新燃氣機組陸續準備商轉，既有1、2號燃煤機組已於今年10月除役拆除。藍綠兩邊的市長候選人都將「以氣換煤」列為未來施政方向。國民黨台中市長候選人 要求，中央應於2027至2030年提出逐年減煤目標，並關注煤氣機組的退役狀況。",
+      "url": "https://e-info.org.tw/node/244104",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-20T10:41:41.000Z",
+      "why": null,
+      "ago": "10 小時前"
     }
   ],
   "errors": []
