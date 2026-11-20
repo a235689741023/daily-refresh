@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-20T03:35:51.193Z",
-  "updatedLocal": "2026/11/20 11:35:51",
+  "updated": "2026-11-20T11:03:33.205Z",
+  "updatedLocal": "2026/11/20 19:03:33",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-19T09:02:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-11-20T01:49:03.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-11-19T20:18:47.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Peterson: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-11-19T20:21:10.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
@@ -57,9 +57,9 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-20T03:31:00.000Z",
+      "published": "2026-11-20T11:00:00.000Z",
       "why": null,
-      "ago": "5 分鐘前"
+      "ago": "4 分鐘前"
     },
     {
       "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
@@ -68,9 +68,42 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-20T01:30:00.000Z",
+      "published": "2026-11-20T11:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "4 分鐘前"
+    },
+    {
+      "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-20T10:15:00.000Z",
+      "why": null,
+      "ago": "49 分鐘前"
+    },
+    {
+      "title": "Here’s what happened next after previous times the S&P 500 losing streak reached six sessions",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/heres-what-happened-next-after-previous-times-the-s-p-500-losing-streak-reached-six-sessions-13ff7704?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-20T10:08:00.000Z",
+      "why": null,
+      "ago": "56 分鐘前"
+    },
+    {
+      "title": "How Bear Grylls lived in the harsh conditions of his own home on an abandoned island with ‘no power, no water, no roof’",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/how-bear-grylls-lived-in-the-harsh-conditions-of-his-own-home-on-an-abandoned-island-with-no-power-no-water-no-roof-8c3e17c4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-20T10:01:00.000Z",
+      "why": null,
+      "ago": "1 小時前"
     },
     {
       "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
@@ -81,40 +114,7 @@
       "group": null,
       "published": "2026-11-20T01:22:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-19T23:56:00.000Z",
-      "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-19T23:11:00.000Z",
-      "why": null,
-      "ago": "4 小時前"
-    },
-    {
-      "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-19T22:53:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
+      "ago": "10 小時前"
     }
   ],
   "errors": [
