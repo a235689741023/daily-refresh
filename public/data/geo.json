@@ -1,14 +1,14 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-19T21:03:01.831Z",
-  "updatedLocal": "2026/11/20 05:03:01",
+  "updated": "2026-11-20T03:35:51.193Z",
+  "updatedLocal": "2026/11/20 11:35:51",
   "digest": null,
   "watch": [],
   "items": [
     {
       "title": "CVE-2026-114938 aka: Java4Shell",
-      "summary": "All ArcGIS Products that use OpenJDK are under investigation to determine the impact of this issue.",
+      "summary": "On November 17, 2026, details emerged exposing a critical remote code execution (RCE) vulnerability in OpenJDK, tracked as CVE-2026-114938 (dubbed “Java4Shell”) with a CVSSv3.1 score of 8.1 (High).",
       "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/cve-2026-114938-aka-java4shell",
       "source": "Esri",
       "tag": "平台",
@@ -37,7 +37,7 @@
       "group": "gis",
       "published": "2026-11-19T19:36:41.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "GIS File Formats",
@@ -48,18 +48,7 @@
       "group": "gis",
       "published": "2026-11-19T18:19:00.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Anthropic prices initial public offering",
-      "summary": "Today Anthropic, PBC priced its initial public offering of its Class A common stock at $83.00 per share.",
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-18T23:35:59.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "News and Events - News",
@@ -70,7 +59,7 @@
       "group": "ai",
       "published": "2026-11-19T18:08:01.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "SEC Filings",
@@ -81,7 +70,7 @@
       "group": "ai",
       "published": "2026-11-19T18:07:54.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Investor Relations",
@@ -92,7 +81,7 @@
       "group": "ai",
       "published": "2026-11-19T14:17:11.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
@@ -103,18 +92,29 @@
       "group": "ai",
       "published": "2026-11-19T08:00:00.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "Introducing Gemini 4 Neon",
-      "summary": "Bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "source": "Google DeepMind",
+      "title": "Deploying Daybreak Red",
+      "summary": "A reference architecture for supervised security investigations. Learn how to set up an isolated environment for supervised security investigations with Daybreak Red.",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-18T21:35:43.000Z",
+      "published": "2026-11-19T00:00:00.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "See PR scans in action",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-19T00:00:00.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []

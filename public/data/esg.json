@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-19T21:03:01.831Z",
-  "updatedLocal": "2026/11/20 05:03:01",
+  "updated": "2026-11-20T03:35:51.193Z",
+  "updatedLocal": "2026/11/20 11:35:51",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-19T17:58:28.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "How Agilent is educating its procurement team about climate goals",
@@ -26,7 +26,18 @@
       "group": null,
       "published": "2026-11-19T10:09:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "17 小時前"
+    },
+    {
+      "title": "Wind and solar projects face £1 starting budgets in latest CfD auction",
+      "summary": "# Wind and solar projects face £1 starting budgets in latest CfD auction The Government has said that nominal budgets for the latest Contracts for Difference (CfD) auction will allow ministers to assess project bids before deciding whether to increase funding.",
+      "url": "https://www.edie.net/wind-and-solar-projects-face-1-starting-budgets-in-latest-cfd-auction/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-20T00:01:20.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "From a global electrification package to a new draft text: What happened on 19 November at COP31?",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-11-19T20:17:53.000Z",
       "why": null,
-      "ago": "45 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "Government launches £28m farming innovation competition",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-11-19T18:12:33.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "COP31 Covered podcast: İmece, electrification and a stripped-back deal",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-11-19T17:43:22.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "One year after COP30, momentum builds for global near-zero methane marketplace",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-11-19T16:20:45.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "‘Supply comes first’: EU methane regulation two-year delay confirmed",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-11-19T15:57:44.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "New electrification package launched at COP31 to drive global clean energy investment",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-11-19T15:24:53.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "IEA: Energy security concerns strengthen case for renewables and electrification",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-11-19T13:34:47.000Z",
       "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "UK-EU summit: What another ‘reset’ could mean for carbon, energy and the environment",
-      "summary": "# UK-EU summit: What another ‘reset’ could mean for carbon, energy and the environment UK and EU leaders will convene in Brussels on Friday (20 November) for the second UK-EU Summit since Brexit.",
-      "url": "https://www.edie.net/uk-eu-summit-what-another-reset-could-mean-for-carbon-energy-and-the-environment/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-19T12:42:52.000Z",
-      "why": null,
-      "ago": "8 小時前"
+      "ago": "14 小時前"
     }
   ],
   "errors": []
