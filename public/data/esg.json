@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-21T10:46:01.987Z",
-  "updatedLocal": "2026/11/21 18:46:01",
+  "updated": "2026-11-21T19:51:37.954Z",
+  "updatedLocal": "2026/11/22 03:51:37",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,29 @@
       "group": null,
       "published": "2026-11-20T18:38:43.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
+    },
+    {
+      "title": "ISSB urged to make its nature-related disclosure a standard",
+      "summary": "In addition to recommending that the standard be mandatory, TNFD’s letter also recommends the standard-setter provide an effective date for the disclosures.",
+      "url": "https://www.esgdive.com/news/issb-urged-to-make-its-nature-related-disclosure-a-standard/875352/",
+      "source": "ESG Dive",
+      "tag": "法規",
+      "group": null,
+      "published": "2026-11-20T17:42:50.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "COP31: Antalya talks overrun as countries remain divided on final deal",
-      "summary": "# COP31: Antalya talks overrun as countries remain divided on final deal COP31 has slipped into overtime in Antalya, with negotiators from nearly 200 countries still divided over the latest draft deal, which drops all mention of fossil fuels and a $120bn adaptation finance target.",
+      "summary": "* [![Image 3: Unlocking competitive advantage through carbon footprint model assurance [webinar]](blob: # COP31: Antalya talks overrun as countries remain divided on final deal COP31 has slipped into …",
       "url": "https://www.edie.net/cop31-antalya-talks-overrun-as-countries-remain-divided-on-final-deal/",
       "source": "edie",
       "tag": "國際",
       "group": null,
       "published": "2026-11-20T17:32:06.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Nature loss could cost SMEs a third of their profits, research reveals",
@@ -36,39 +47,6 @@
       "tag": "國際",
       "group": null,
       "published": "2026-11-20T14:39:14.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Seven in ten supply chain emissions projects are profitable, finds CDP",
-      "summary": "# Seven in ten supply chain emissions projects are profitable, finds CDP New analysis revealed that 69% of supply chain emissions reduction initiatives are profitable, paying back in a median of three years, but businesses are still not seizing these opportunities.",
-      "url": "https://www.edie.net/seven-in-ten-supply-chain-emissions-projects-are-profitable-finds-cdp/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-20T12:02:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "COP26 was a moment, but Glasgow’s businesses made it a movement",
-      "summary": "# COP26 was a moment, but Glasgow’s businesses made it a movement Five years after COP26, Glasgow offers a distinctive example of how business leadership can turn climate ambition into innovation, economic opportunity and investment in the next generation, says Glasgow Chamber of Commerce's senior director, Alison McRae.",
-      "url": "https://www.edie.net/cop26-was-a-moment-but-glasgows-businesses-made-it-a-movement/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-20T11:45:06.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Apply now: Entries open for the edie Awards 2027",
-      "summary": "# Apply now: Entries open for the edie Awards 2027 The UK’s largest corporate sustainability awards scheme is celebrating its 20th year with a restructured programme, built around three pillars and new categories including AI, water and adaptation.",
-      "url": "https://www.edie.net/apply-now-entries-open-for-the-edie-awards-2027/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-20T08:32:41.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -81,7 +59,7 @@
       "group": null,
       "published": "2026-11-21T04:00:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "台南環保局「淨零同行・永續有成」 展現淨零教育多元成果 | 台灣好新聞",
@@ -90,9 +68,9 @@
       "source": "LINE TODAY",
       "tag": "台灣",
       "group": null,
-      "published": "2026-11-21T06:07:30.000Z",
+      "published": "2026-11-21T06:33:54.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "金門縣政府聯繫會報暨工作坊聚焦社區輔導策略與淨零轉型思維",
@@ -103,25 +81,19 @@
       "group": null,
       "published": "2026-11-20T15:52:48.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "碳邊境政策｜英歐鋼鋁最快2028年互免邊境碳費，鋼鐵配額不變 | 優分析",
-      "summary": "您使用的瀏覽器版本較舊，已不再受支援。建議您更新瀏覽器版本，以獲得最佳使用體驗。歐盟與英國在11月20日峰會宣布，已完成碳排放交易制度的銜接談判，目標自2028年起適用。雙方完成法定程序後，符合條件的英歐原產鋼鋁產品，可望在出口至對方市場時免繳邊境碳費。",
-      "url": "https://today.line.me/tw/v3/article/8nMx8Xq",
-      "source": "LINE TODAY",
+      "title": "碳邊境政策｜英歐鋼鋁最快2028年互免邊境碳費，鋼鐵配額不變",
+      "summary": "2026年11月20日（優分析／產業數據中心報導）⸺ 歐盟與英國在11月20日峰會宣布，已完成碳排放交易制度的銜接談判，目標自2028年起適用。雙方完成法定程序後，符合條件的英歐原產鋼鋁產品，可望在出口至對方市場時免繳邊境碳費。",
+      "url": "https://news.cnyes.com/news/id/6669525",
+      "source": "鉅亨網",
       "tag": "台灣",
       "group": null,
-      "published": "2026-11-20T15:03:33.000Z",
+      "published": "2026-11-20T15:00:32.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     }
   ],
-  "errors": [
-    {
-      "source": "國際法規",
-      "url": "https://news.google.com/rss/search?q=CSRD%20OR%20CBAM%20OR%20%22IFRS%20S2%22%20OR%20ISSB%20sustainability%20disclosure&hl=en-US&gl=US&ceid=US:en",
-      "message": "HTTP 429 Too Many Requests"
-    }
-  ]
+  "errors": []
 }
