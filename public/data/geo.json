@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-21T03:18:36.467Z",
-  "updatedLocal": "2026/11/21 11:18:36",
+  "updated": "2026-11-21T10:46:01.987Z",
+  "updatedLocal": "2026/11/21 18:46:01",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,7 @@
       "group": "gis",
       "published": "2026-11-20T22:18:20.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "What's New in ArcGIS Location Platform? Developer Tools for Agentic Workflows and More",
-      "summary": "The November 2026 release of ArcGIS Location Platform is here, bringing Model Context Protocol (MCP) support to general availability with new capabilities since its beta release and an ArcGIS agentic developer toolkit for faster, more informed development.",
-      "url": "https://www.esri.com/arcgis-blog/products/platform/developers/whats-new-in-arcgis-location-platform-developer-tools-for-agentic-workflows-and-more",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-20T08:18:13.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "What's New for Spatial Analyst in ArcGIS Pro 3.8 (November 2026)",
@@ -37,7 +26,18 @@
       "group": "gis",
       "published": "2026-11-20T22:18:20.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "What's New in ArcGIS Location Platform? Developer Tools for Agentic Workflows and More",
+      "summary": "The November 2026 release of ArcGIS Location Platform is here, bringing Model Context Protocol (MCP) support to general availability with new capabilities since its beta release and an ArcGIS agentic developer toolkit for faster, more informed development.",
+      "url": "https://www.esri.com/arcgis-blog/products/platform/developers/whats-new-in-arcgis-location-platform-developer-tools-for-agentic-workflows-and-more",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-20T08:18:13.000Z",
+      "why": null,
+      "ago": "昨日"
     },
     {
       "title": "Why U.S. Islands Are Important for Biodiversity",
@@ -48,7 +48,7 @@
       "group": "gis",
       "published": "2026-11-20T17:47:35.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
@@ -59,7 +59,7 @@
       "group": "ai",
       "published": "2026-11-20T12:45:21.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Combatting adversarial distillation",
@@ -69,28 +69,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-11-20T10:00:00.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "summary": "Hebbia sees gains in financial research in tests of GPT‑6 Astra. Percentage-point lead over the best alternative tested in Hebbia’s tests.",
-      "url": "https://openai.com/business/customer-stories/hebbia",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-20T00:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "summary": "Introducing MedChemBench, a benchmark that tests how well AI models read molecular structures, interpret experimental results, and choose which compounds to test next.",
-      "url": "https://openai.com/index/introducing-medchembench",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-20T00:00:00.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -103,7 +81,29 @@
       "group": "ai",
       "published": "2026-11-20T18:15:15.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "17 小時前"
+    },
+    {
+      "title": "European Union AI Act Leverages Regulatory Power for Strategic Global Influence",
+      "summary": "European Union AI Act Leverages Regulatory Power for Strategic Global Influence A scholarly investigation published in Information Systems Frontiers evaluates whether the European Union can convert its landmark Artificial Intelligence Act into international technological and geopolitical influence through an anticipatory strategy termed leadership through governance.",
+      "url": "https://bioengineer.org/european-union-ai-act-leverages-regulatory-power-for-strategic-global-influence/",
+      "source": "Bioengineer.org",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-21T01:06:08.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
+    {
+      "title": "U.S. Government Establishes Export Controls to Address China AI “Remote Access” Concerns",
+      "summary": null,
+      "url": "https://www.jdsupra.com/legalnews/u-s-government-establishes-export-4106718/",
+      "source": "JD Supra",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-20T18:56:31.000Z",
+      "why": null,
+      "ago": "16 小時前"
     },
     {
       "title": "The EU AI Act After The Digital Omnibus: What Has Changed For Businesses",
@@ -114,7 +114,7 @@
       "group": "ai",
       "published": "2026-11-20T19:51:14.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     }
   ],
   "errors": []

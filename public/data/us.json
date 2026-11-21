@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-21T03:18:36.467Z",
-  "updatedLocal": "2026/11/21 11:18:36",
+  "updated": "2026-11-21T10:46:01.987Z",
+  "updatedLocal": "2026/11/21 18:46:01",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "How China is using summits to expand its global influence",
+      "summary": "SHENZHEN, China — For a second year in a row, Chinese President Xi Jinping has brought Russian President Vladimir Putin together with another major world leader on mainland Chinese shores.",
+      "url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-21T06:00:02.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
     {
       "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
       "summary": "As stocks continue their tech-driven sell-off , prediction markets traders are seeing a bleaker outlook for the remainder of the year.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-11-20T19:59:03.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-11-20T21:10:48.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "The bull market has a new problem. The 'smart money' is selling",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-11-20T14:15:29.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-11-20T13:29:50.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
@@ -59,7 +70,18 @@
       "group": null,
       "published": "2026-11-20T21:07:08.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "14 小時前"
+    },
+    {
+      "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-21T03:20:00.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
@@ -70,7 +92,7 @@
       "group": null,
       "published": "2026-11-20T22:46:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-11-20T22:44:00.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "These stocks were crushed the most this week as the tech wreck accelerated",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-11-20T22:44:00.000Z",
       "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-20T21:58:00.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-20T21:39:00.000Z",
-      "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     }
   ],
   "errors": [
