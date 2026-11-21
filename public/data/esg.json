@@ -1,22 +1,11 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-20T20:48:47.023Z",
-  "updatedLocal": "2026/11/21 04:48:47",
+  "updated": "2026-11-21T03:18:36.467Z",
+  "updatedLocal": "2026/11/21 11:18:36",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Meta contemplates net-zero timeline reset as emissions spike",
-      "summary": "Like its peers in the great data center buildout, Meta’s greenhouse gas emissions increased by double digits in 2025.",
-      "url": "https://trellis.net/article/meta-2026-sustainability-report/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-19T17:58:28.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
     {
       "title": "EU strikes deal on new ‘sustainable’ and ‘transition’ fund labels for SFDR",
       "summary": "# EU strikes deal on new ‘sustainable’ and ‘transition’ fund labels for SFDR The European Council and Parliament reached a provisional agreement on changes to the Sustainable Finance Disclosure Regulation (SFDR), including new 'sustainable' and 'transition' categories.",
@@ -26,7 +15,7 @@
       "group": null,
       "published": "2026-11-20T18:38:43.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "COP31: Antalya talks overrun as countries remain divided on final deal",
@@ -37,7 +26,7 @@
       "group": null,
       "published": "2026-11-20T17:32:06.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "Nature loss could cost SMEs a third of their profits, research reveals",
@@ -48,7 +37,7 @@
       "group": null,
       "published": "2026-11-20T14:39:14.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Seven in ten supply chain emissions projects are profitable, finds CDP",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-11-20T12:02:00.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "COP26 was a moment, but Glasgow’s businesses made it a movement",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-11-20T11:45:06.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Apply now: Entries open for the edie Awards 2027",
@@ -81,18 +70,7 @@
       "group": null,
       "published": "2026-11-20T08:32:41.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "Wind and solar projects face £1 starting budgets in latest CfD auction",
-      "summary": "# Wind and solar projects face £1 starting budgets in latest CfD auction The Government has said that nominal budgets for the latest Contracts for Difference (CfD) auction will allow ministers to assess project bids before deciding whether to increase funding.",
-      "url": "https://www.edie.net/wind-and-solar-projects-face-1-starting-budgets-in-latest-cfd-auction/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-20T00:01:20.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "19 小時前"
     },
     {
       "title": "謝龍介vs 陳亭妃：誰的台南更有韌性、交通更便利？",
@@ -103,7 +81,7 @@
       "group": null,
       "published": "2026-11-20T10:40:53.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "江啟臣vs 何欣純：誰的台中空氣更清新、垃圾山更少？",
@@ -114,7 +92,29 @@
       "group": null,
       "published": "2026-11-20T10:41:41.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "17 小時前"
+    },
+    {
+      "title": "柯志恩vs 賴瑞隆：誰的高雄更乾淨、都市更涼爽？",
+      "summary": "高雄是台灣石化重鎮，但同時承擔空氣污染與近年的產業轉型壓力。國民黨高雄市長候選人 關注產業減碳與空污健康。她將成立「石化業減碳聯盟」由國營企業帶動供應鏈及中小企業共同減碳，並鼓勵鋼鐵產業跟進。此外，將設置「淨零碳排示範專區」與補助低劑量肺癌篩檢、建立「空污—暴露—健康」資料庫。",
+      "url": "https://e-info.org.tw/node/244106",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-20T10:40:53.000Z",
+      "why": null,
+      "ago": "17 小時前"
+    },
+    {
+      "title": "烏山頭水庫光電爭議 候選人喊「拆定了」：一再被澄清的說法，如何從議會質詢走入地方選戰",
+      "summary": "## 烏山頭水庫光電爭議 候選人喊「拆定了」：一再被澄清的說法，如何從議會質詢走入地方選戰 一則官方澄清過的謠言，從去年走進台南市議會，一路經30名議員連署要求拆除光電板；今年，它再被候選人綁進選戰、寫進政見。2026地方選舉進入最後階段，烏山頭水庫光電成了攻防焦點。",
+      "url": "https://e-info.org.tw/node/244107",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-20T12:13:42.000Z",
+      "why": null,
+      "ago": "15 小時前"
     }
   ],
   "errors": []
