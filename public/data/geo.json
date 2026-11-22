@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-21T19:51:37.954Z",
-  "updatedLocal": "2026/11/22 03:51:37",
+  "updated": "2026-11-22T02:24:15.126Z",
+  "updatedLocal": "2026/11/22 10:24:15",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-11-20T22:18:20.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     },
     {
       "title": "What's New for Spatial Analyst in ArcGIS Pro 3.8 (November 2026)",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-11-20T22:18:20.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Brotli / Node.js Vulnerabilities",
@@ -37,7 +37,7 @@
       "group": "gis",
       "published": "2026-11-19T08:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "Why U.S. Islands Are Important for Biodiversity",
@@ -73,6 +73,28 @@
       "ago": "2 天前"
     },
     {
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "summary": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.",
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-20T12:45:21.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "Combatting adversarial distillation",
+      "summary": "How we’re addressing safety risks of distillation and lessons we’ve learned for strengthening safeguards across the industry.",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-20T10:00:00.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
       "title": "The most misunderstood graph in AI just got a major update",
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.",
       "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
@@ -92,7 +114,7 @@
       "group": "ai",
       "published": "2026-11-21T01:06:08.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
       "title": "The EU AI Act After The Digital Omnibus: What Has Changed For Businesses",
@@ -113,17 +135,6 @@
       "tag": "政策",
       "group": "ai",
       "published": "2026-11-20T18:56:31.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Senators Introduce AUDIT AI Act to Require Disclosure of Off-Balance-Sheet AI Compute Leases",
-      "summary": "Editorial · CASRAI · AI and ML research outputs US Senators introduced the AUDIT AI Act requiring SEC disclosures for off-balance-sheet AI compute leases, SPV debt structures, and board risk governance.",
-      "url": "https://casrai.org/news/senate-audit-ai-act-spv-compute-lease-disclosure-2026",
-      "source": "CASRAI",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-11-20T17:17:11.000Z",
       "why": null,
       "ago": "昨日"
     }

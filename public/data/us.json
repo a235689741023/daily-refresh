@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-21T19:51:37.954Z",
-  "updatedLocal": "2026/11/22 03:51:37",
+  "updated": "2026-11-22T02:24:15.126Z",
+  "updatedLocal": "2026/11/22 10:24:15",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,18 +15,7 @@
       "group": null,
       "published": "2026-11-21T06:00:02.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-      "summary": "As stocks continue their tech-driven sell-off , prediction markets traders are seeing a bleaker outlook for the remainder of the year.",
-      "url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-20T19:59:03.000Z",
-      "why": null,
-      "ago": "24 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
@@ -36,17 +25,6 @@
       "tag": "大盤",
       "group": null,
       "published": "2026-11-20T21:10:48.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "The bull market has a new problem. The 'smart money' is selling",
-      "summary": "Companies have shifted from buying back shares to issuing them, adding to the supply that the four-year-old bull market must absorb.",
-      "url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-20T14:15:29.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -59,18 +37,51 @@
       "group": null,
       "published": "2026-11-21T15:04:56.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-      "summary": "Artificial intelligence is about to sweep through the economy. The Federal Reserve is bracing for impact.",
-      "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
       "group": null,
-      "published": "2026-11-20T21:07:08.000Z",
+      "published": "2026-11-22T01:15:00.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "1 小時前"
+    },
+    {
+      "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-22T00:03:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
+    {
+      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-21T23:05:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-21T20:15:00.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-11-21T19:45:00.000Z",
       "why": null,
-      "ago": "7 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
@@ -92,18 +103,7 @@
       "group": null,
       "published": "2026-11-21T19:45:00.000Z",
       "why": null,
-      "ago": "7 分鐘前"
-    },
-    {
-      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-21T19:23:00.000Z",
-      "why": null,
-      "ago": "29 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-11-21T18:20:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     }
   ],
   "errors": [
