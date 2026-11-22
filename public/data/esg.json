@@ -1,109 +1,54 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-22T10:53:01.367Z",
-  "updatedLocal": "2026/11/22 18:53:01",
+  "updated": "2026-11-22T20:00:56.559Z",
+  "updatedLocal": "2026/11/23 04:00:56",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "台南環保局「淨零同行・永續有成」 展現淨零教育多元成果 | 台灣好新聞",
-      "summary": "您使用的瀏覽器版本較舊，已不再受支援。建議您更新瀏覽器版本，以獲得最佳使用體驗。為深化淨零教育及永續發展理念，臺南市政府環境保護局21日於全美戲院舉辦「淨零同行・永續有成」成果表揚交流會，邀集淨零種子講師、學校師生、社區及民間團體參與，透過成果分享、頒獎表揚、話劇演出及紀錄片放映，展現臺南推動淨零教育的多元成果。",
-      "url": "https://today.line.me/tw/v3/article/7NGxJqr",
-      "source": "LINE TODAY",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-11-21T07:02:27.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "EU strikes deal on new ‘sustainable’ and ‘transition’ fund labels for SFDR",
-      "summary": "# EU strikes deal on new ‘sustainable’ and ‘transition’ fund labels for SFDR The European Council and Parliament reached a provisional agreement on changes to the Sustainable Finance Disclosure Regulation (SFDR), including new 'sustainable' and 'transition' categories.",
-      "url": "https://www.edie.net/sfdr-reset-eu-strikes-deal-on-new-sustainable-and-transition-fund-labels/",
+      "title": "Grand Theft Antalya: The hijacking of climate science and storytelling",
+      "summary": "* [![Image 3: Unlocking competitive advantage through carbon footprint model assurance [webinar]](blob: # Grand Theft Antalya: The hijacking of climate science and storytelling COP31 became yet …",
+      "url": "https://www.edie.net/grand-theft-antalya-the-hijacking-of-climate-science-and-storytelling/",
       "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-11-20T18:38:43.000Z",
+      "published": "2026-11-22T14:06:32.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "6 小時前"
     },
     {
-      "title": "ISSB urged to make its nature-related disclosure a standard",
-      "summary": "In addition to recommending that the standard be mandatory, TNFD’s letter also recommends the standard-setter provide an effective date for the disclosures.",
-      "url": "https://www.esgdive.com/news/issb-urged-to-make-its-nature-related-disclosure-a-standard/875352/",
-      "source": "ESG Dive",
+      "title": "From a collapsed deal to the ‘age of electricity’: The 10 biggest stories from COP31",
+      "summary": "# From a collapsed deal to the ‘age of electricity’: The 10 biggest stories from COP31 After the longest overtime in COP history, the 'implementation COP' has concluded with no final text, after several nations refused to back a deal that didn't mention fossil fuels.",
+      "url": "https://www.edie.net/from-a-collapsed-deal-to-the-age-of-electricity-the-10-biggest-stories-from-cop31/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-22T13:45:07.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "‘Indefensible’: Negotiators and green groups brand COP31 a ‘political failure’",
+      "summary": "# ‘Indefensible’: Negotiators and green groups brand COP31 a ‘political failure’ Not only was COP31 the longest-running iteration of the summit in history, but it is also only the second time a summit has collapsed and ended without an agreement.",
+      "url": "https://www.edie.net/indefensible-negotiators-and-green-groups-brand-cop31-a-political-failure/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-22T13:44:09.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "European Union adopts Omnibus Directive amending CSRD and CS3D | France | Global law firm",
+      "summary": "On 24 February 2026, the EU Council adopted (subject to certain amendments) the Omnibus Directive which was proposed by the European Commission on 26 February 2025 (see our previous briefing here ) and approved by the European Parliament on 16 December 2025.",
+      "url": "https://www.nortonrosefulbright.com/en-fr/insights/publications/2026/02/european-parliament-votes-to-adopt-omnibus-proposal-amending-csrd-and-cs3d",
+      "source": "Norton Rose Fulbright",
       "tag": "法規",
       "group": null,
-      "published": "2026-11-20T17:42:50.000Z",
+      "published": "2026-11-22T01:56:51.000Z",
       "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "COP31: Antalya talks overrun as countries remain divided on final deal",
-      "summary": "* [![Image 3: Unlocking competitive advantage through carbon footprint model assurance [webinar]](blob: # COP31: Antalya talks overrun as countries remain divided on final deal COP31 has slipped into …",
-      "url": "https://www.edie.net/cop31-antalya-talks-overrun-as-countries-remain-divided-on-final-deal/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-20T17:32:06.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "【影像直擊COP31】潜海半世紀，點名簿上的地中海生物逐年缺席",
-      "summary": "COP31在土耳其安塔利亞登場，談判桌外，海洋正在給出最直接的證據。本文記者隨海洋學者下潛地中海，見到的是另一幅景象：1970年代多到無處落腳的本土海膽已消失，取而代之的是來自紅海的入侵物種，海水升溫與蘇伊士運河拆除屏障，讓地中海成為暖化重災區。",
-      "url": "https://csrone.com/news/10228",
-      "source": "CSRone 永續智庫",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-11-21T04:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Nature loss could cost SMEs a third of their profits, research reveals",
-      "summary": "# Nature loss could cost SMEs a third of their profits, research reveals New research has found biodiversity loss is associated with a reduction equivalent to 36% of average small business profitability.",
-      "url": "https://www.edie.net/nature-loss-could-cost-smes-a-third-of-their-profits-research-reveals/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-20T14:39:14.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "What CSRD and the EU omnibus changes mean for US and UK companies",
-      "summary": "The Omnibus I Directive raised EU sustainability reporting thresholds to 1,000 employees and 450 million euros, pushing most non-EU groups out of scope or back to 2029.",
-      "url": "https://ceoeconomy.com/article/csrd-eu-omnibus-us-uk-companies",
-      "source": "CEO경제신문",
-      "tag": "法規",
-      "group": null,
-      "published": "2026-11-20T12:40:00.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Seven in ten supply chain emissions projects are profitable, finds CDP",
-      "summary": "# Seven in ten supply chain emissions projects are profitable, finds CDP New analysis revealed that 69% of supply chain emissions reduction initiatives are profitable, paying back in a median of three years, but businesses are still not seizing these opportunities.",
-      "url": "https://www.edie.net/seven-in-ten-supply-chain-emissions-projects-are-profitable-finds-cdp/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-20T12:02:00.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "COP26 was a moment, but Glasgow’s businesses made it a movement",
-      "summary": "# COP26 was a moment, but Glasgow’s businesses made it a movement Five years after COP26, Glasgow offers a distinctive example of how business leadership can turn climate ambition into innovation, economic opportunity and investment in the next generation, says Glasgow Chamber of Commerce's senior director, Alison McRae.",
-      "url": "https://www.edie.net/cop26-was-a-moment-but-glasgows-businesses-made-it-a-movement/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-20T11:45:06.000Z",
-      "why": null,
-      "ago": "2 天前"
+      "ago": "18 小時前"
     },
     {
       "title": "ESG Today: Week in Review",
@@ -114,7 +59,7 @@
       "group": null,
       "published": "2026-11-22T08:17:17.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
     }
   ],
   "errors": []

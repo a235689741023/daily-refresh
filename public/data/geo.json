@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-22T10:53:01.367Z",
-  "updatedLocal": "2026/11/22 18:53:01",
+  "updated": "2026-11-22T20:00:56.559Z",
+  "updatedLocal": "2026/11/23 04:00:56",
   "digest": null,
   "watch": [],
   "items": [
@@ -19,8 +19,8 @@
     },
     {
       "title": "The law of attractiveness: Building weighted trade areas with Business Analyst Pro",
-      "summary": "Imagine you’re in Ottawa, Canada and you need to get your hair done ahead of the wedding you’re in town for.",
-      "url": "https://www.esri.com/arcgis-blog/products/bus-analyst/analytics/huff-equal-probability-trade-areas-business-analyst-pro",
+      "summary": null,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTWZIcG5HVTZsdFp4VndObHVJbHBhU1VXRTFEc1Nkd2hiTmlDWWtRWXJGbW0wZzk4a2V0QWpIYXJMYWlFSmpfWHVwQXRhdmxXdTV5bFRlM3R6emlTSG1PVWxveDJJYkxwUkZYbURXbngxQV9HS3Z1U1JvNzVaYml0U3QxWDhaa2llNWFYTTF0NTNHdFFhSXFZLUxpNjJ3VW9FWkxkeFdpY09ONmx2TWVManVuZ1E3ZGFNV1Rz?oc=5",
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
@@ -29,37 +29,59 @@
       "ago": "2 天前"
     },
     {
-      "title": "Why U.S. Islands Are Important for Biodiversity",
-      "summary": "Along with the more well-known islands like the Aleutian and Hawaiian Islands, the United States is home to thousands of islands found much closer to the mainland, scattered along coastlines, tucked inside estuaries, and forming barrier islands that separate coastal wetlands from the open ocean .",
-      "url": "https://www.geographyrealm.com/u-s-islands-biodiversity/",
-      "source": "GIS Lounge",
-      "tag": "應用",
+      "title": "What’s new for GeoAI in the ArcGIS Pro 3.8 Image Analyst extension",
+      "summary": "The ArcGIS Pro 3.8 release introduces several enhancements to the GeoAI capabilities in the Image Analyst extension.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/whats-new-for-geoai-in-the-arcgis-pro-3-8-image-analyst-extension",
+      "source": "Esri",
+      "tag": "平台",
       "group": "gis",
-      "published": "2026-11-20T17:47:35.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "How to Use MPKX Files in QGIS",
-      "summary": "With so many public agencies, particularly in the United States, relying almost exclusively on Esri’s proprietary GIS software, it’s not uncommon to find geographic data packaged or compressed in formats designed for ArcGIS.",
-      "url": "https://www.geographyrealm.com/how-to-use-mpkx-files-in-qgis/",
-      "source": "GIS Lounge",
-      "tag": "應用",
-      "group": "gis",
-      "published": "2026-11-19T19:36:41.000Z",
+      "published": "2026-11-19T21:40:55.000Z",
       "why": null,
       "ago": "3 天前"
     },
     {
-      "title": "GIS File Formats",
-      "summary": "GIS work involves dozens of file formats. Some store geographic data, while others are created by GIS software to save a map or project.",
-      "url": "https://www.geographyrealm.com/how-to-tell-gis-file-formats/",
-      "source": "GIS Lounge",
-      "tag": "應用",
+      "title": "When uncertainty matters: A koala conservation workflow with Probabilistic Kernel Density",
+      "summary": "Density maps are often integrated into larger workflows, and it is one of the first steps toward a decision. It helps identify where activity is concentrated and where action may be needed.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/analytics/when-uncertainty-matters-a-koala-conservation-workflow-with-probabilistic-kernel-density",
+      "source": "Esri",
+      "tag": "平台",
       "group": "gis",
-      "published": "2026-11-19T18:19:00.000Z",
+      "published": "2026-11-19T21:40:55.000Z",
       "why": null,
       "ago": "3 天前"
+    },
+    {
+      "title": "Ren Majid",
+      "summary": "]( The most trusted mapping and analytics platform used by Fortune 500 companies. It is enterprise-ready and scalable for small teams and large organizations.",
+      "url": "https://www.esri.com/arcgis-blog/author/rmajidesri-com_esriinc",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-19T21:40:55.000Z",
+      "why": null,
+      "ago": "3 天前"
+    },
+    {
+      "title": "What's New in ArcGIS Business Analyst Pro | November 2026",
+      "summary": "The latest ArcGIS Business Analyst Pro release is here, and it changes how you understand your customers, your data, and your territories.",
+      "url": "https://www.esri.com/arcgis-blog/products/bus-analyst/announcements/whats-new-in-arcgis-business-analyst-pro-november-2026",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-19T20:56:32.000Z",
+      "why": null,
+      "ago": "3 天前"
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "summary": "From afar, it might seem like modern AI is built similarly to how software has been built in previous decades: with a diverse set of techniques targeting specific capabilities.",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-22T00:00:00.000Z",
+      "why": null,
+      "ago": "20 小時前"
     },
     {
       "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
@@ -69,6 +91,17 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-11-20T12:45:21.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "Combatting adversarial distillation",
+      "summary": "How we’re addressing safety risks of distillation and lessons we’ve learned for strengthening safeguards across the industry.",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-20T10:00:00.000Z",
       "why": null,
       "ago": "2 天前"
     },
@@ -84,48 +117,26 @@
       "ago": "2 天前"
     },
     {
-      "title": "European Union AI Act Leverages Regulatory Power for Strategic Global Influence",
-      "summary": "European Union AI Act Leverages Regulatory Power for Strategic Global Influence A scholarly investigation published in Information Systems Frontiers evaluates whether the European Union can convert its landmark Artificial Intelligence Act into international technological and geopolitical influence through an anticipatory strategy termed leadership through governance.",
-      "url": "https://bioengineer.org/european-union-ai-act-leverages-regulatory-power-for-strategic-global-influence/",
-      "source": "Bioengineer.org",
-      "tag": "政策",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary": "Hebbia sees gains in financial research in tests of GPT‑6 Astra. Percentage-point lead over the best alternative tested in Hebbia’s tests.",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-11-21T01:06:08.000Z",
+      "published": "2026-11-20T00:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "3 天前"
     },
     {
-      "title": "The EU AI Act After The Digital Omnibus: What Has Changed For Businesses",
-      "summary": "Manage Preferences Reject All Accept All * Description Description is currently not available.* Description Description is currently not available.",
-      "url": "https://www.legal500.com/intelligence/switzerland/corporate-commercial-law/the-eu-ai-act-after-the-digital-omnibus-what-has-changed-for-businesses",
-      "source": "Legal 500",
-      "tag": "政策",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "summary": "Introducing MedChemBench, a benchmark that tests how well AI models read molecular structures, interpret experimental results, and choose which compounds to test next.",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "source": "OpenAI",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-11-20T19:51:14.000Z",
+      "published": "2026-11-20T00:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "U.S. Government Establishes Export Controls to Address China AI “Remote Access” Concerns",
-      "summary": "The rule became effective November 19, 2026. Public comments on the rule are due 60 days after publication.* **New Country-Based Restrictions on Advanced Computing Items.",
-      "url": "https://www.jdsupra.com/legalnews/u-s-government-establishes-export-4106718/",
-      "source": "JD Supra",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-11-20T18:56:31.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "Senators Introduce AUDIT AI Act to Require Disclosure of Off-Balance-Sheet AI Compute Leases",
-      "summary": "Editorial · CASRAI · AI and ML research outputs US Senators introduced the AUDIT AI Act requiring SEC disclosures for off-balance-sheet AI compute leases, SPV debt structures, and board risk governance.",
-      "url": "https://casrai.org/news/senate-audit-ai-act-spv-compute-lease-disclosure-2026",
-      "source": "CASRAI",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-11-20T17:17:11.000Z",
-      "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     }
   ],
   "errors": []
