@@ -1,22 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-22T02:24:15.126Z",
-  "updatedLocal": "2026/11/22 10:24:15",
+  "updated": "2026-11-22T10:53:01.367Z",
+  "updatedLocal": "2026/11/22 18:53:01",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "The law of attractiveness: Building weighted trade areas with Business Analyst Pro",
-      "summary": "Imagine you’re in Ottawa, Canada and you need to get your hair done ahead of the wedding you’re in town for.",
-      "url": "https://www.esri.com/arcgis-blog/products/bus-analyst/analytics/huff-equal-probability-trade-areas-business-analyst-pro",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-20T22:18:20.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
     {
       "title": "What's New for Spatial Analyst in ArcGIS Pro 3.8 (November 2026)",
       "summary": "The Spatial Analyst extension offers a significant new capabilities in ArcGIS Pro 3.8.",
@@ -26,18 +15,18 @@
       "group": "gis",
       "published": "2026-11-20T22:18:20.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
-      "title": "Brotli / Node.js Vulnerabilities",
-      "summary": "On October 22, 2026, Open AI security researchers announced a critical severity vulnerability in Google’s Brotli decoder, identified as CVE-2026-111497.",
-      "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/brotli-vulnerabilities-broccoli2shell",
+      "title": "The law of attractiveness: Building weighted trade areas with Business Analyst Pro",
+      "summary": "Imagine you’re in Ottawa, Canada and you need to get your hair done ahead of the wedding you’re in town for.",
+      "url": "https://www.esri.com/arcgis-blog/products/bus-analyst/analytics/huff-equal-probability-trade-areas-business-analyst-pro",
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-11-19T08:00:00.000Z",
+      "published": "2026-11-20T20:10:12.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "2 天前"
     },
     {
       "title": "Why U.S. Islands Are Important for Biodiversity",
@@ -48,7 +37,7 @@
       "group": "gis",
       "published": "2026-11-20T17:47:35.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "How to Use MPKX Files in QGIS",
@@ -59,7 +48,7 @@
       "group": "gis",
       "published": "2026-11-19T19:36:41.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "GIS File Formats",
@@ -70,7 +59,7 @@
       "group": "gis",
       "published": "2026-11-19T18:19:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
@@ -84,17 +73,6 @@
       "ago": "2 天前"
     },
     {
-      "title": "Combatting adversarial distillation",
-      "summary": "How we’re addressing safety risks of distillation and lessons we’ve learned for strengthening safeguards across the industry.",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-20T10:00:00.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
       "title": "The most misunderstood graph in AI just got a major update",
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.",
       "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
@@ -103,7 +81,7 @@
       "group": "ai",
       "published": "2026-11-20T18:15:15.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "European Union AI Act Leverages Regulatory Power for Strategic Global Influence",
@@ -125,18 +103,29 @@
       "group": "ai",
       "published": "2026-11-20T19:51:14.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "U.S. Government Establishes Export Controls to Address China AI “Remote Access” Concerns",
-      "summary": null,
+      "summary": "The rule became effective November 19, 2026. Public comments on the rule are due 60 days after publication.* **New Country-Based Restrictions on Advanced Computing Items.",
       "url": "https://www.jdsupra.com/legalnews/u-s-government-establishes-export-4106718/",
       "source": "JD Supra",
       "tag": "政策",
       "group": "ai",
       "published": "2026-11-20T18:56:31.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
+    },
+    {
+      "title": "Senators Introduce AUDIT AI Act to Require Disclosure of Off-Balance-Sheet AI Compute Leases",
+      "summary": "Editorial · CASRAI · AI and ML research outputs US Senators introduced the AUDIT AI Act requiring SEC disclosures for off-balance-sheet AI compute leases, SPV debt structures, and board risk governance.",
+      "url": "https://casrai.org/news/senate-audit-ai-act-spv-compute-lease-disclosure-2026",
+      "source": "CASRAI",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-20T17:17:11.000Z",
+      "why": null,
+      "ago": "2 天前"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-22T02:24:15.126Z",
-  "updatedLocal": "2026/11/22 10:24:15",
+  "updated": "2026-11-22T10:53:01.367Z",
+  "updatedLocal": "2026/11/22 18:53:01",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,17 +15,6 @@
       "group": null,
       "published": "2026-11-21T06:00:02.000Z",
       "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
-      "summary": "In his first six months as Federal Reserve chairman, Kevin Warsh has diligently avoided signaling where he sees monetary policy and interest rates headed.",
-      "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-20T21:10:48.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
@@ -37,7 +26,7 @@
       "group": null,
       "published": "2026-11-21T15:04:56.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
@@ -48,7 +37,7 @@
       "group": null,
       "published": "2026-11-22T01:15:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "10 小時前"
     },
     {
       "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
@@ -59,7 +48,7 @@
       "group": null,
       "published": "2026-11-22T00:03:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
@@ -70,7 +59,7 @@
       "group": null,
       "published": "2026-11-21T23:05:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
@@ -81,7 +70,7 @@
       "group": null,
       "published": "2026-11-21T20:15:00.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
@@ -92,7 +81,7 @@
       "group": null,
       "published": "2026-11-21T19:45:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
@@ -103,7 +92,7 @@
       "group": null,
       "published": "2026-11-21T19:45:00.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
@@ -114,7 +103,18 @@
       "group": null,
       "published": "2026-11-21T18:20:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "17 小時前"
+    },
+    {
+      "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-21T18:19:00.000Z",
+      "why": null,
+      "ago": "17 小時前"
     }
   ],
   "errors": [

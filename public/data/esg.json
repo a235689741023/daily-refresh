@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-22T02:24:15.126Z",
-  "updatedLocal": "2026/11/22 10:24:15",
+  "updated": "2026-11-22T10:53:01.367Z",
+  "updatedLocal": "2026/11/22 18:53:01",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "台南環保局「淨零同行・永續有成」 展現淨零教育多元成果 | 台灣好新聞",
+      "summary": "您使用的瀏覽器版本較舊，已不再受支援。建議您更新瀏覽器版本，以獲得最佳使用體驗。為深化淨零教育及永續發展理念，臺南市政府環境保護局21日於全美戲院舉辦「淨零同行・永續有成」成果表揚交流會，邀集淨零種子講師、學校師生、社區及民間團體參與，透過成果分享、頒獎表揚、話劇演出及紀錄片放映，展現臺南推動淨零教育的多元成果。",
+      "url": "https://today.line.me/tw/v3/article/7NGxJqr",
+      "source": "LINE TODAY",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-21T07:02:27.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
     {
       "title": "EU strikes deal on new ‘sustainable’ and ‘transition’ fund labels for SFDR",
       "summary": "# EU strikes deal on new ‘sustainable’ and ‘transition’ fund labels for SFDR The European Council and Parliament reached a provisional agreement on changes to the Sustainable Finance Disclosure Regulation (SFDR), including new 'sustainable' and 'transition' categories.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-11-20T18:38:43.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "ISSB urged to make its nature-related disclosure a standard",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-11-20T17:42:50.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "COP31: Antalya talks overrun as countries remain divided on final deal",
@@ -36,6 +47,17 @@
       "tag": "國際",
       "group": null,
       "published": "2026-11-20T17:32:06.000Z",
+      "why": null,
+      "ago": "2 天前"
+    },
+    {
+      "title": "【影像直擊COP31】潜海半世紀，點名簿上的地中海生物逐年缺席",
+      "summary": "COP31在土耳其安塔利亞登場，談判桌外，海洋正在給出最直接的證據。本文記者隨海洋學者下潛地中海，見到的是另一幅景象：1970年代多到無處落腳的本土海膽已消失，取而代之的是來自紅海的入侵物種，海水升溫與蘇伊士運河拆除屏障，讓地中海成為暖化重災區。",
+      "url": "https://csrone.com/news/10228",
+      "source": "CSRone 永續智庫",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-21T04:00:00.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -48,29 +70,7 @@
       "group": null,
       "published": "2026-11-20T14:39:14.000Z",
       "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "【影像直擊COP31】潜海半世紀，點名簿上的地中海生物逐年缺席",
-      "summary": "COP31在土耳其安塔利亞登場，談判桌外，海洋正在給出最直接的證據。本文記者隨海洋學者下潛地中海，見到的是另一幅景象：1970年代多到無處落腳的本土海膽已消失，取而代之的是來自紅海的入侵物種，海水升溫與蘇伊士運河拆除屏障，讓地中海成為暖化重災區。",
-      "url": "https://csrone.com/news/10228",
-      "source": "CSRone 永續智庫",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-11-21T04:00:00.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "台南環保局「淨零同行・永續有成」 展現淨零教育多元成果 | 台灣好新聞",
-      "summary": "您使用的瀏覽器版本較舊，已不再受支援。建議您更新瀏覽器版本，以獲得最佳使用體驗。為深化淨零教育及永續發展理念，臺南市政府環境保護局21日於全美戲院舉辦「淨零同行・永續有成」成果表揚交流會，邀集淨零種子講師、學校師生、社區及民間團體參與，透過成果分享、頒獎表揚、話劇演出及紀錄片放映，展現臺南推動淨零教育的多元成果。",
-      "url": "https://today.line.me/tw/v3/article/7NGxJqr",
-      "source": "LINE TODAY",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-11-21T06:33:54.000Z",
-      "why": null,
-      "ago": "20 小時前"
+      "ago": "2 天前"
     },
     {
       "title": "What CSRD and the EU omnibus changes mean for US and UK companies",
@@ -106,15 +106,15 @@
       "ago": "2 天前"
     },
     {
-      "title": "Apply now: Entries open for the edie Awards 2027",
-      "summary": "# Apply now: Entries open for the edie Awards 2027 The UK’s largest corporate sustainability awards scheme is celebrating its 20th year with a restructured programme, built around three pillars and new categories including AI, water and adaptation.",
-      "url": "https://www.edie.net/apply-now-entries-open-for-the-edie-awards-2027/",
-      "source": "edie",
+      "title": "ESG Today: Week in Review",
+      "summary": "See below for the highlights of the past week, and get all your ESG news at ESG Today: Tesco Asks 400 Key Suppliers to Join Emissions Data Sharing Program Amazon Targets $7 Billion in New Renewable Energy Investments in India by 2030 Google Expands Clean Energy Portfolio with First Superhot Geothermal Power Deal Audi Launches Circular Economy Business to Tap New Markets, Secure Raw Materials Amazon Sets New Goal to Cut Electricity Carbon Intensity by 65% by 2030 Zara Owner Inditex Backs New $250 Million Fashion Supply Chain Decarbonization Fund GM Backs $550 Million Solar Investment in Largest Clean Energy Deal to Date SFDR 2.0: EU Strikes Deal on New Sustainable Fund Rules When Climate Regulation Becomes a Barrier to Climate Action EU Reaches Deal to Delay to Methane Monitoring and Reporting Rules EU Greenlights $10 Billion Dutch Offshore Wind Energy Scheme The Growing Challenge of Heat in Europe’s Cities ECB to Launch “Deep Dives” into Banks’ Management of Climate and Nature Risks TNFD Calls for Mandatory ISSB Nature Reporting Standard by 2030 Banque des Territoires Acquires Stake in ESG Ratings Provider EthiFinance UL Solutions to Acquire Supply Chain Sustainability Data Platform Worldly for $350 Million DitchCarbon Launches New Solution to Identify, Address High-Emissions Electricity in Supply Chains Green Bond Issuance Jumps 29% in Q3 2026: Moody’s Commercial Bank International Adds Carbon Footprint of Client Spending to Bank Statements BII, Norfund, FinDev Canada Partner to Mobilize $10 Billion in Climate Finance to Emerging Markets Goldman Sachs Leads $345 Million Financing for Exus to Expand U.S. Clean Energy Portfolio AIB Doubles Sustainable Lending Goal to €60 Billion by 2030 KKR Acquires Stake in Gentari’s India Renewable Energy Platform Pulpex Raises Over $30 Million to Scale Paper-based Bottle Production Pantheon Invests $600 Million in Mirova Energy Transition Portfolio EQT to Acquire U.S. Battery Storage Developer Flatiron Macquarie, Revera Team Up to Build Battery Storage Portfolio in UK CIP Launches New $1 Billion Energy Transition Infrastructure Credit Fund Environmental Defense Fund Appoints Beatriz Da Cunha as Head of Sustainable Finance Daily coverage of climate, sustainable finance and policy — delivered straight to your inbox every morning.",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-284/",
+      "source": "ESG Today",
       "tag": "國際",
       "group": null,
-      "published": "2026-11-20T08:32:41.000Z",
+      "published": "2026-11-22T08:17:17.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 小時前"
     }
   ],
   "errors": []
