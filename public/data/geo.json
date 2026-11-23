@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-23T02:55:38.857Z",
-  "updatedLocal": "2026/11/23 10:55:38",
+  "updated": "2026-11-23T11:58:33.061Z",
+  "updatedLocal": "2026/11/23 19:58:33",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Brotli / Node.js Vulnerabilities",
+      "summary": "On October 22, 2026, Open AI security researchers announced a critical severity vulnerability in Google’s Brotli decoder, identified as CVE-2026-111497.",
+      "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/brotli-vulnerabilities-broccoli2shell",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-19T08:00:00.000Z",
+      "why": null,
+      "ago": "4 天前"
+    },
     {
       "title": "What’s new for GeoAI in the ArcGIS Pro 3.8 Image Analyst extension",
       "summary": "The ArcGIS Pro 3.8 release introduces several enhancements to the GeoAI capabilities in the Image Analyst extension.",
@@ -15,128 +26,106 @@
       "group": "gis",
       "published": "2026-11-19T21:40:55.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
-      "title": "Ren Majid",
-      "summary": "]( The most trusted mapping and analytics platform used by Fortune 500 companies. It is enterprise-ready and scalable for small teams and large organizations.",
-      "url": "https://www.esri.com/arcgis-blog/author/rmajidesri-com_esriinc",
+      "title": "Java4Shell Vulnerability",
+      "summary": "On November 17, 2026, details emerged exposing a critical remote code execution (RCE) vulnerability in OpenJDK, tracked as CVE-2026-114938 (dubbed “Java4Shell”) with a CVSSv3.1 score of 8.1 (High).",
+      "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/cve-2026-114938-aka-java4shell",
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-11-19T21:40:55.000Z",
+      "published": "2026-11-18T18:45:49.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "5 天前"
     },
     {
-      "title": "When uncertainty matters: A koala conservation workflow with Probabilistic Kernel Density",
-      "summary": "Density maps are often integrated into larger workflows, and it is one of the first steps toward a decision. It helps identify where activity is concentrated and where action may be needed.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/analytics/when-uncertainty-matters-a-koala-conservation-workflow-with-probabilistic-kernel-density",
+      "title": "What's new in ArcGIS Linear Referencing: November 2026",
+      "summary": "Starting with ArcGIS Pro 3.8 and ArcGIS Enterprise 12.2, ArcGIS Roads and Highways and ArcGIS Pipeline Referencing come together in a single extension: ArcGIS Linear Referencing.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/data-management/whats-new-arcgis-linear-referencing-nov-2026",
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-11-19T21:40:55.000Z",
+      "published": "2026-11-19T20:56:14.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
-      "title": "What's New in ArcGIS Business Analyst Pro | November 2026",
-      "summary": "The latest ArcGIS Business Analyst Pro release is here, and it changes how you understand your customers, your data, and your territories.",
-      "url": "https://www.esri.com/arcgis-blog/products/bus-analyst/announcements/whats-new-in-arcgis-business-analyst-pro-november-2026",
+      "title": "Take accessible PDFs further with ArcGIS Pro 3.8",
+      "summary": "If you ’ve only got 1 minute to be wow ed by all the new accessible PDF features we’ve added in ArcGIS Pro 3.8, check out this video .",
+      "url": "https://www.esri.com/arcgis-blog/products/mapping/mapping/take-accessible-pdfs-further-with-arcgis-pro-3-8",
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-11-19T20:56:32.000Z",
+      "published": "2026-11-19T17:49:21.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "4 天前"
     },
     {
-      "title": "Calculate your own location quotients in ArcGIS Pro 3.8",
-      "summary": "ArcGIS Pro 3.8 introduces Calculate Location Quotients , a new tool in the Spatial Statistics toolbox that helps identify areas with relatively high or low concentrations of a variable of interest compared to a meaningful benchmark.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/calculate-location-quotients-in-arcgis-pro-3-8",
-      "source": "Esri",
-      "tag": "平台",
+      "title": "Why U.S. Islands Are Important for Biodiversity",
+      "summary": "Along with the more well-known islands like the Aleutian and Hawaiian Islands, the United States is home to thousands of islands found much closer to the mainland, scattered along coastlines, tucked inside estuaries, and forming barrier islands that separate coastal wetlands from the open ocean .",
+      "url": "https://www.geographyrealm.com/u-s-islands-biodiversity/",
+      "source": "GIS Lounge",
+      "tag": "應用",
       "group": "gis",
-      "published": "2026-11-19T20:56:30.000Z",
+      "published": "2026-11-20T17:47:35.000Z",
       "why": null,
       "ago": "3 天前"
     },
     {
-      "title": "Choose the right overlay method in Suitability Modeler",
-      "summary": "Building a suitability model involves more than selecting criteria and assigning weights. You must also decide how the criteria should interact.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/analytics/choose-the-right-overlay-method-in-suitability-modeler",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-19T20:56:26.000Z",
-      "why": null,
-      "ago": "3 天前"
-    },
-    {
-      "title": "Perplexity and Intelligence",
-      "summary": "From afar, it might seem like modern AI is built similarly to how software has been built in previous decades: with a diverse set of techniques targeting specific capabilities.",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-22T00:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
-      "summary": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.",
-      "url": "https://www.anthropic.com/news/ipo-close",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-20T12:45:21.000Z",
-      "why": null,
-      "ago": "3 天前"
-    },
-    {
-      "title": "Combatting adversarial distillation",
-      "summary": "How we’re addressing safety risks of distillation and lessons we’ve learned for strengthening safeguards across the industry.",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-20T10:00:00.000Z",
-      "why": null,
-      "ago": "3 天前"
-    },
-    {
-      "title": "The most misunderstood graph in AI just got a major update",
-      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "source": "MIT Tech Review",
-      "tag": "趨勢",
-      "group": "ai",
-      "published": "2026-11-20T18:15:15.000Z",
-      "why": null,
-      "ago": "2 天前"
-    },
-    {
-      "title": "European Union AI Act Leverages Regulatory Power for Strategic Global Influence",
-      "summary": "European Union AI Act Leverages Regulatory Power for Strategic Global Influence A scholarly investigation published in Information Systems Frontiers evaluates whether the European Union can convert its landmark Artificial Intelligence Act into international technological and geopolitical influence through an anticipatory strategy termed leadership through governance.",
-      "url": "https://bioengineer.org/european-union-ai-act-leverages-regulatory-power-for-strategic-global-influence/",
-      "source": "Bioengineer.org",
+      "title": "Opinion | America’s AI policy has a chip-size hole in it",
+      "summary": "# America’s AI policy has a chip-size hole in it The Nvidia scandal exposed the limits of export controls. Washington needs a plan to enforce them.",
+      "url": "https://www.washingtonpost.com/opinions/2026/11/22/what-jensen-huang-scandal-nvidia-means-ai-regulation/",
+      "source": "The Washington Post",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-11-21T01:06:08.000Z",
+      "published": "2026-11-22T20:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "16 小時前"
     },
     {
-      "title": "The EU AI Act After The Digital Omnibus: What Has Changed For Businesses",
-      "summary": "Manage Preferences Reject All Accept All * Description Description is currently not available.* Description Description is currently not available.",
-      "url": "https://www.legal500.com/intelligence/switzerland/corporate-commercial-law/the-eu-ai-act-after-the-digital-omnibus-what-has-changed-for-businesses",
-      "source": "Legal 500",
+      "title": "NGA AI Plan: Federal Frontier Models, State Rules",
+      "summary": "On November 22, 2026, the National Governors Association (NGA) published bipartisan principles that split AI governance between Washington and the states: the federal government should oversee frontier models, critical infrastructure, cybersecurity, and international AI, while states keep authority over consumers, workers, children, privacy, and how AI is deployed in daily life.",
+      "url": "https://explainx.ai/blog/nga-governors-federal-frontier-ai-state-consumer-rules-november-2026",
+      "source": "explainx.ai",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-11-20T19:51:14.000Z",
+      "published": "2026-11-23T00:00:00.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "AG Letitia James announces a unit to police AI companies before New York’s AI safety law kicks in January 1",
+      "summary": "New York Attorney General Letitia James announced a new unit on November 17 to enforce the state’s artificial intelligence laws, six weeks before the Responsible AI Safety and Education Act takes effect January 1, 2027.",
+      "url": "https://bushwickdaily.com/news/ag-letitia-james-announces-a-unit-to-police-ai-companies-before-new-yorks-ai-safety-law-kicks-in-january-1/",
+      "source": "Bushwick Daily",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-22T18:33:39.000Z",
+      "why": null,
+      "ago": "17 小時前"
+    },
+    {
+      "title": "Wall Street Hit by 'AI Skepticism'... \"Data Centers, China Export Controls\" Two Major Headwinds (Roundup)",
+      "summary": "A pessimistic outlook has emerged that skepticism over artificial intelligence (AI) investment could lead to the collapse of the so-called “Techno-Dollar” system.",
+      "url": "https://www.asiae.co.kr/en/article/2026112310034154085",
+      "source": "아시아경제",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-23T01:55:40.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
+    {
+      "title": "Australian AI Safety Standard: Enterprise LLM Playbook",
+      "summary": "Australian enterprises deploying large language models must align governance controls with the Voluntary AI Safety Standard, OAIC Privacy Principles, and Sydney or Melbourne cloud residency.",
+      "url": "https://journalarta.com/en/2026/11/23/au-ai-safety-standard-enterprise-llm-deployment-playbook-2026/",
+      "source": "JournalArta",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-23T09:38:59.000Z",
+      "why": null,
+      "ago": "2 小時前"
     }
   ],
   "errors": []

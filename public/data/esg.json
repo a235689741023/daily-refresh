@@ -1,11 +1,44 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-23T02:55:38.857Z",
-  "updatedLocal": "2026/11/23 10:55:38",
+  "updated": "2026-11-23T11:58:33.061Z",
+  "updatedLocal": "2026/11/23 19:58:33",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Why automated product carbon footprints aren’t yet ‘decision-grade’",
+      "summary": "Just a few years ago, creating a product carbon footprint (PCF) — an estimate of net greenhouse gas emissions over the product’s lifecycle — was an arduous process requiring weeks or months spent searching for relevant data.",
+      "url": "https://trellis.net/article/product-carbon-footprints-amazon/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-23T07:49:00.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "How Meta applies emissions certificates to its disclosures",
+      "summary": "Meta is placing bets on emerging environmental attribute certificate (EAC) schemes that support new technologies aimed at decarbonizing thermal energy, data center construction and freight, part of an initiative the company started three years ago .",
+      "url": "https://trellis.net/article/how-meta-uses-emissions-certificates/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-23T07:00:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Businesses warn budget cuts threaten EU’s clean industry ambitions",
+      "summary": "# Businesses warn budget cuts threaten EU’s clean industry ambitions A joint letter signed by more than 75 companies has urged EU leaders to protect the European Competitiveness Fund, and to back clean tech and sustainable innovation when it sets its next seven-year budget.",
+      "url": "https://www.edie.net/businesses-warn-budget-cuts-threaten-eus-clean-industry-ambitions/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-23T05:00:33.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "Grand Theft Antalya: The hijacking of climate science and storytelling",
       "summary": "* [![Image 3: Unlocking competitive advantage through carbon footprint model assurance [webinar]](blob: # Grand Theft Antalya: The hijacking of climate science and storytelling COP31 became yet …",
@@ -15,7 +48,7 @@
       "group": null,
       "published": "2026-11-22T14:06:32.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "From a collapsed deal to the ‘age of electricity’: The 10 biggest stories from COP31",
@@ -26,7 +59,7 @@
       "group": null,
       "published": "2026-11-22T13:45:07.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "‘Indefensible’: Negotiators and green groups brand COP31 a ‘political failure’",
@@ -37,7 +70,7 @@
       "group": null,
       "published": "2026-11-22T13:44:09.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "藍提案禁水源水庫設光電設施、美通過法案要求資料中心自付電網升級、誤吞遊客帽子網紅河馬菲奧娜去世",
@@ -48,7 +81,29 @@
       "group": null,
       "published": "2026-11-23T02:42:39.000Z",
       "why": null,
-      "ago": "13 分鐘前"
+      "ago": "9 小時前"
+    },
+    {
+      "title": "COP31延長49小時仍破局 智庫批「史上最糟」氣候大會",
+      "summary": "第31屆聯合國氣候大會（COP31）在表定時間延後近50小時後，在當地時間22日晚上以失敗收場，最終版草案未把逐步淘汰化石燃料納入，最終無法通過協議。不僅創下歷年最長的延會紀錄，更遭批是「史上最糟」的氣候大會。COP31比原定結束時間晚了近50個小時才落幕，成為迄今為止會期最長的一屆大會。",
+      "url": "https://www.e-info.org.tw/node/244112",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-23T09:27:41.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "廢非核公投最終場交鋒 黃士修算核電帳「等於普發一萬」 鄧宇佑反擊重啟代價更高",
+      "summary": "## 廢非核公投最終場交鋒 黃士修算核電帳「等於普發一萬」 鄧宇佑反擊重啟代價更高 「廢除非核家園」公投最終場意見發表會20日晚間登場。正方代表、核能流言終結者創辦人黃士修二度登台。他稱靠著自己多年的倡議，台灣已「逆轉成全民擁核」，呼籲民眾投同意票「下架黃士修」。",
+      "url": "https://e-info.org.tw/node/244111",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-23T04:42:52.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "瑞典環團點名全球十大PFAS巨頭 科慕、大金等迎AI需求擴產",
@@ -59,40 +114,7 @@
       "group": null,
       "published": "2026-11-23T01:32:16.000Z",
       "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "台灣搶先國際落實淨零轉型，COP31 談判無共識落幕",
-      "summary": "聯合國氣候變化綱要公約第 31 屆締約方大會（COP31）於土耳其安塔利亞舉行，原訂 11 月 20 日閉幕，延長兩日後，仍因各國對化石燃料轉型等議題立場分歧，未能就主決議《安塔利亞協議》達成共識。環境部長彭啓明表示，儘管國際談判受挫，台灣仍將持續推動能源轉型、拓展國際碳市場，並運用 AI 產業優勢，協助各國推動減碳與氣候調適。",
-      "url": "https://technews.tw/2026/11/23/taiwan-pioneers-global-net-zero-transition-cop31-talks-conclude-without-consensus/",
-      "source": "TechNews 科技新報",
-      "tag": "台灣",
-      "group": null,
-      "published": "2026-11-23T01:28:17.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "ESG Today: Week in Review",
-      "summary": "See below for the highlights of the past week, and get all your ESG news at ESG Today: Tesco Asks 400 Key Suppliers to Join Emissions Data Sharing Program Amazon Targets $7 Billion in New Renewable Energy Investments in India by 2030 Google Expands Clean Energy Portfolio with First Superhot Geothermal Power Deal Audi Launches Circular Economy Business to Tap New Markets, Secure Raw Materials Amazon Sets New Goal to Cut Electricity Carbon Intensity by 65% by 2030 Zara Owner Inditex Backs New $250 Million Fashion Supply Chain Decarbonization Fund GM Backs $550 Million Solar Investment in Largest Clean Energy Deal to Date SFDR 2.0: EU Strikes Deal on New Sustainable Fund Rules When Climate Regulation Becomes a Barrier to Climate Action EU Reaches Deal to Delay to Methane Monitoring and Reporting Rules EU Greenlights $10 Billion Dutch Offshore Wind Energy Scheme The Growing Challenge of Heat in Europe’s Cities ECB to Launch “Deep Dives” into Banks’ Management of Climate and Nature Risks TNFD Calls for Mandatory ISSB Nature Reporting Standard by 2030 Banque des Territoires Acquires Stake in ESG Ratings Provider EthiFinance UL Solutions to Acquire Supply Chain Sustainability Data Platform Worldly for $350 Million DitchCarbon Launches New Solution to Identify, Address High-Emissions Electricity in Supply Chains Green Bond Issuance Jumps 29% in Q3 2026: Moody’s Commercial Bank International Adds Carbon Footprint of Client Spending to Bank Statements BII, Norfund, FinDev Canada Partner to Mobilize $10 Billion in Climate Finance to Emerging Markets Goldman Sachs Leads $345 Million Financing for Exus to Expand U.S. Clean Energy Portfolio AIB Doubles Sustainable Lending Goal to €60 Billion by 2030 KKR Acquires Stake in Gentari’s India Renewable Energy Platform Pulpex Raises Over $30 Million to Scale Paper-based Bottle Production Pantheon Invests $600 Million in Mirova Energy Transition Portfolio EQT to Acquire U.S. Battery Storage Developer Flatiron Macquarie, Revera Team Up to Build Battery Storage Portfolio in UK CIP Launches New $1 Billion Energy Transition Infrastructure Credit Fund Environmental Defense Fund Appoints Beatriz Da Cunha as Head of Sustainable Finance Daily coverage of climate, sustainable finance and policy — delivered straight to your inbox every morning.",
-      "url": "https://www.esgtoday.com/esg-today-week-in-review-284/",
-      "source": "ESG Today",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-22T08:17:17.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "COP31 Talks Collapse as EU, UK Walk Over Failure to Address Fossil Fuels",
-      "summary": "After a contentious negotiating session that extended past Friday’s deadline into early Sunday, the COP31 climate conference in Antalya, Turkey ended without a final agreement for the first time since 2009, with governments including the EU and UK refusing to sign a deal that failed to recognize the need to shift away from fossil fuels in order to fight climate change.",
-      "url": "https://www.esgtoday.com/cop31-talks-collapse-as-eu-uk-walk-over-failure-to-address-fossil-fuels/",
-      "source": "ESG Today",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-22T23:12:45.000Z",
-      "why": null,
-      "ago": "4 小時前"
+      "ago": "10 小時前"
     }
   ],
   "errors": []
