@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-22T20:00:56.559Z",
-  "updatedLocal": "2026/11/23 04:00:56",
+  "updated": "2026-11-23T02:55:38.857Z",
+  "updatedLocal": "2026/11/23 10:55:38",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-22T14:06:32.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "From a collapsed deal to the ‘age of electricity’: The 10 biggest stories from COP31",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-11-22T13:45:07.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "‘Indefensible’: Negotiators and green groups brand COP31 a ‘political failure’",
@@ -37,18 +37,40 @@
       "group": null,
       "published": "2026-11-22T13:44:09.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
-      "title": "European Union adopts Omnibus Directive amending CSRD and CS3D | France | Global law firm",
-      "summary": "On 24 February 2026, the EU Council adopted (subject to certain amendments) the Omnibus Directive which was proposed by the European Commission on 26 February 2025 (see our previous briefing here ) and approved by the European Parliament on 16 December 2025.",
-      "url": "https://www.nortonrosefulbright.com/en-fr/insights/publications/2026/02/european-parliament-votes-to-adopt-omnibus-proposal-amending-csrd-and-cs3d",
-      "source": "Norton Rose Fulbright",
-      "tag": "法規",
+      "title": "藍提案禁水源水庫設光電設施、美通過法案要求資料中心自付電網升級、誤吞遊客帽子網紅河馬菲奧娜去世",
+      "summary": "## 藍提案禁水源水庫設光電設施、美通過法案要求資料中心自付電網升級、誤吞遊客帽子網紅河馬菲奧娜去世 太陽光電板議題近日成為朝野攻防議題，國民黨立法院黨團20日在立法院會提案，要求政府立即拆除設置在供應民生、灌溉用水水庫的光電板，未來所有涉及供應民生用水或民生備援水源水庫，一律禁止設置光電設施。",
+      "url": "https://e-info.org.tw/node/244110",
+      "source": "環境資訊中心",
+      "tag": "台灣",
       "group": null,
-      "published": "2026-11-22T01:56:51.000Z",
+      "published": "2026-11-23T02:42:39.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "13 分鐘前"
+    },
+    {
+      "title": "瑞典環團點名全球十大PFAS巨頭 科慕、大金等迎AI需求擴產",
+      "summary": "食品包裝、不沾鍋塗層、化妝品⋯⋯全氟及多氟烷基物質（PFAS）幾乎無所不在，因具抗污、防水、耐高溫等特性，使其常見 。這類化合物幾乎人人體內都有，更有研究指出與癌症及免疫系統問題有關，雖然國際上紛紛開始限禁用此類不易分解的「永久化學物質」，但在人工智慧（AI）、晶片與電池製造浪潮推波助瀾下，PFAS的製造有增無減。",
+      "url": "https://e-info.org.tw/node/243922",
+      "source": "環境資訊中心",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-23T01:32:16.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "台灣搶先國際落實淨零轉型，COP31 談判無共識落幕",
+      "summary": "聯合國氣候變化綱要公約第 31 屆締約方大會（COP31）於土耳其安塔利亞舉行，原訂 11 月 20 日閉幕，延長兩日後，仍因各國對化石燃料轉型等議題立場分歧，未能就主決議《安塔利亞協議》達成共識。環境部長彭啓明表示，儘管國際談判受挫，台灣仍將持續推動能源轉型、拓展國際碳市場，並運用 AI 產業優勢，協助各國推動減碳與氣候調適。",
+      "url": "https://technews.tw/2026/11/23/taiwan-pioneers-global-net-zero-transition-cop31-talks-conclude-without-consensus/",
+      "source": "TechNews 科技新報",
+      "tag": "台灣",
+      "group": null,
+      "published": "2026-11-23T01:28:17.000Z",
+      "why": null,
+      "ago": "1 小時前"
     },
     {
       "title": "ESG Today: Week in Review",
@@ -59,7 +81,18 @@
       "group": null,
       "published": "2026-11-22T08:17:17.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
+    },
+    {
+      "title": "COP31 Talks Collapse as EU, UK Walk Over Failure to Address Fossil Fuels",
+      "summary": "After a contentious negotiating session that extended past Friday’s deadline into early Sunday, the COP31 climate conference in Antalya, Turkey ended without a final agreement for the first time since 2009, with governments including the EU and UK refusing to sign a deal that failed to recognize the need to shift away from fossil fuels in order to fight climate change.",
+      "url": "https://www.esgtoday.com/cop31-talks-collapse-as-eu-uk-walk-over-failure-to-address-fossil-fuels/",
+      "source": "ESG Today",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-22T23:12:45.000Z",
+      "why": null,
+      "ago": "4 小時前"
     }
   ],
   "errors": []
