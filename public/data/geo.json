@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-23T11:58:33.061Z",
-  "updatedLocal": "2026/11/23 19:58:33",
+  "updated": "2026-11-24T00:26:10.010Z",
+  "updatedLocal": "2026/11/24 08:26:10",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,51 +15,7 @@
       "group": "gis",
       "published": "2026-11-19T08:00:00.000Z",
       "why": null,
-      "ago": "4 天前"
-    },
-    {
-      "title": "What’s new for GeoAI in the ArcGIS Pro 3.8 Image Analyst extension",
-      "summary": "The ArcGIS Pro 3.8 release introduces several enhancements to the GeoAI capabilities in the Image Analyst extension.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/whats-new-for-geoai-in-the-arcgis-pro-3-8-image-analyst-extension",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-19T21:40:55.000Z",
-      "why": null,
-      "ago": "4 天前"
-    },
-    {
-      "title": "Java4Shell Vulnerability",
-      "summary": "On November 17, 2026, details emerged exposing a critical remote code execution (RCE) vulnerability in OpenJDK, tracked as CVE-2026-114938 (dubbed “Java4Shell”) with a CVSSv3.1 score of 8.1 (High).",
-      "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/cve-2026-114938-aka-java4shell",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-18T18:45:49.000Z",
-      "why": null,
       "ago": "5 天前"
-    },
-    {
-      "title": "What's new in ArcGIS Linear Referencing: November 2026",
-      "summary": "Starting with ArcGIS Pro 3.8 and ArcGIS Enterprise 12.2, ArcGIS Roads and Highways and ArcGIS Pipeline Referencing come together in a single extension: ArcGIS Linear Referencing.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/data-management/whats-new-arcgis-linear-referencing-nov-2026",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-19T20:56:14.000Z",
-      "why": null,
-      "ago": "4 天前"
-    },
-    {
-      "title": "Take accessible PDFs further with ArcGIS Pro 3.8",
-      "summary": "If you ’ve only got 1 minute to be wow ed by all the new accessible PDF features we’ve added in ArcGIS Pro 3.8, check out this video .",
-      "url": "https://www.esri.com/arcgis-blog/products/mapping/mapping/take-accessible-pdfs-further-with-arcgis-pro-3-8",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-19T17:49:21.000Z",
-      "why": null,
-      "ago": "4 天前"
     },
     {
       "title": "Why U.S. Islands Are Important for Biodiversity",
@@ -73,59 +29,92 @@
       "ago": "3 天前"
     },
     {
-      "title": "Opinion | America’s AI policy has a chip-size hole in it",
-      "summary": "# America’s AI policy has a chip-size hole in it The Nvidia scandal exposed the limits of export controls. Washington needs a plan to enforce them.",
-      "url": "https://www.washingtonpost.com/opinions/2026/11/22/what-jensen-huang-scandal-nvidia-means-ai-regulation/",
-      "source": "The Washington Post",
-      "tag": "政策",
+      "title": "How to Use MPKX Files in QGIS",
+      "summary": "With so many public agencies, particularly in the United States, relying almost exclusively on Esri’s proprietary GIS software, it’s not uncommon to find geographic data packaged or compressed in formats designed for ArcGIS.",
+      "url": "https://www.geographyrealm.com/how-to-use-mpkx-files-in-qgis/",
+      "source": "GIS Lounge",
+      "tag": "應用",
+      "group": "gis",
+      "published": "2026-11-19T19:36:41.000Z",
+      "why": null,
+      "ago": "4 天前"
+    },
+    {
+      "title": "GIS File Formats",
+      "summary": "GIS work involves dozens of file formats. Some store geographic data, while others are created by GIS software to save a map or project.",
+      "url": "https://www.geographyrealm.com/how-to-tell-gis-file-formats/",
+      "source": "GIS Lounge",
+      "tag": "應用",
+      "group": "gis",
+      "published": "2026-11-19T18:19:00.000Z",
+      "why": null,
+      "ago": "4 天前"
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "summary": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo, an open-source runtime that helps teams protect Linux systems while they roll out patches.",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-11-22T20:00:00.000Z",
+      "published": "2026-11-23T21:20:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "Connected intelligence for in-house legal",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-23T08:00:00.000Z",
       "why": null,
       "ago": "16 小時前"
     },
     {
-      "title": "NGA AI Plan: Federal Frontier Models, State Rules",
-      "summary": "On November 22, 2026, the National Governors Association (NGA) published bipartisan principles that split AI governance between Washington and the states: the federal government should oversee frontier models, critical infrastructure, cybersecurity, and international AI, while states keep authority over consumers, workers, children, privacy, and how AI is deployed in daily life.",
-      "url": "https://explainx.ai/blog/nga-governors-federal-frontier-ai-state-consumer-rules-november-2026",
-      "source": "explainx.ai",
-      "tag": "政策",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "summary": "Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations.",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "source": "OpenAI",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-11-23T00:00:00.000Z",
+      "published": "2026-11-23T08:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "16 小時前"
     },
     {
-      "title": "AG Letitia James announces a unit to police AI companies before New York’s AI safety law kicks in January 1",
-      "summary": "New York Attorney General Letitia James announced a new unit on November 17 to enforce the state’s artificial intelligence laws, six weeks before the Responsible AI Safety and Education Act takes effect January 1, 2027.",
-      "url": "https://bushwickdaily.com/news/ag-letitia-james-announces-a-unit-to-police-ai-companies-before-new-yorks-ai-safety-law-kicks-in-january-1/",
-      "source": "Bushwick Daily",
-      "tag": "政策",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "summary": "Sergey Shirobokov, Ben Jaderberg and Ryan Babbush How using agent teams and formal verification can improve quantum algorithms for modelling fusion energy, chemistry and enzymes Quantum computers could soon solve problems beyond the reach of classical supercomputers.",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "source": "Google DeepMind",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-11-22T18:33:39.000Z",
+      "published": "2026-11-23T16:59:40.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "7 小時前"
     },
     {
-      "title": "Wall Street Hit by 'AI Skepticism'... \"Data Centers, China Export Controls\" Two Major Headwinds (Roundup)",
-      "summary": "A pessimistic outlook has emerged that skepticism over artificial intelligence (AI) investment could lead to the collapse of the so-called “Techno-Dollar” system.",
-      "url": "https://www.asiae.co.kr/en/article/2026112310034154085",
-      "source": "아시아경제",
-      "tag": "政策",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "summary": "Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing.",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-11-23T01:55:40.000Z",
+      "published": "2026-11-23T17:36:08.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "7 小時前"
     },
     {
-      "title": "Australian AI Safety Standard: Enterprise LLM Playbook",
-      "summary": "Australian enterprises deploying large language models must align governance controls with the Voluntary AI Safety Standard, OAIC Privacy Principles, and Sydney or Melbourne cloud residency.",
-      "url": "https://journalarta.com/en/2026/11/23/au-ai-safety-standard-enterprise-llm-deployment-playbook-2026/",
-      "source": "JournalArta",
-      "tag": "政策",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "source": "Google AI Blog",
+      "tag": "模型",
       "group": "ai",
-      "published": "2026-11-23T09:38:59.000Z",
+      "published": "2026-11-23T17:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "7 小時前"
     }
   ],
   "errors": []

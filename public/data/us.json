@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-23T11:58:33.061Z",
-  "updatedLocal": "2026/11/23 19:58:33",
+  "updated": "2026-11-24T00:26:10.010Z",
+  "updatedLocal": "2026/11/24 08:26:10",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+      "summary": "New York Federal Reserve President John Williams said Monday that policymakers have more work to do to bring inflation under control, though he indicated that further action can unfold over time as the economy continues to grow.",
+      "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-23T21:02:17.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
+    {
+      "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+      "summary": "The major averages of U.S. equities surged on Monday after Nvidia reinstated Jensen Huang as CEO, giving investors some hope that the relentless selling pressure seen last week may subside — at least temporarily.",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-23T18:00:47.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
     {
       "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
       "summary": "Employees at Foundation Future Industries were told that their health benefits through administrator Rippling have been terminated, according to a memo obtained by CNBC, adding to mounting signs of financial distress at the humanoid robot startup advised and backed by Eric Trump .",
@@ -13,9 +35,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-22T18:55:05.000Z",
+      "published": "2026-11-23T23:28:19.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "58 分鐘前"
     },
     {
       "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
@@ -26,93 +48,71 @@
       "group": null,
       "published": "2026-11-23T06:06:55.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "18 小時前"
     },
     {
-      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why don’t others feel the same?",
-      "summary": "## ‘My wife stopped working outside the home in 1970’ Choose MarketWatch as a preferred source of financial news As a regular reader of The Moneyist, I am puzzled by letters from married couples that talk about , her spending and his saving; he shares but she doesn’t, or vice versa; and money issues that seem to portray two people living separate financial lives, not a married couple, not ours, but yours and mine.",
-      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
+      "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
+      "summary": "For a minute there, it seemed like someone in the Trump administration might actually be willing to stand up to China.",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-11-23T11:15:00.000Z",
+      "published": "2026-11-23T21:00:59.000Z",
       "why": null,
-      "ago": "44 分鐘前"
+      "ago": "3 小時前"
     },
     {
-      "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says",
-      "summary": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says Choose MarketWatch as a preferred source of financial news # The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says Choose MarketWatch as a preferred source of financial news Billionaire hedge-fund manager Bill Ackman said he thinks the Federal Reserve should set a new 3% inflation target.",
-      "url": "https://www.marketwatch.com/story/the-u-s-may-enter-a-recession-if-the-fed-raises-rates-hedge-fund-manager-bill-ackman-says-16738971?mod=mw_rss_topstories",
+      "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+      "summary": "The newest addition to the S&P 500 is a maker of viral ice-cream machines Choose MarketWatch as a preferred source of financial news # The newest addition to the S&P 500 is a maker of viral ice-cream machines ## SharkNinja will join the S&P 500, replacing AES Choose MarketWatch as a preferred source of financial news SharkNinja will be replacing a utility and power company in the benchmark index.",
+      "url": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-23T10:57:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang",
-      "summary": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang Choose MarketWatch as a preferred source of financial news # Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang Choose MarketWatch as a preferred source of financial news Alice Huang (R), a Chinese executive linked to the data center company called Megaspeed, attending a dinner hosted by Nvidia's chief executive and co-founder Jensen Huang (L in black back facing camera) at a restaurant in Taipei on May 22, 2025.",
-      "url": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-23T10:56:00.000Z",
+      "published": "2026-11-23T23:18:00.000Z",
       "why": null,
       "ago": "1 小時前"
     },
     {
-      "title": "A 66-year-old nurse faces retirement with just $500 saved. Who’s to blame?",
+      "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-23T10:15:00.000Z",
+      "published": "2026-11-23T22:04:00.000Z",
       "why": null,
       "ago": "2 小時前"
     },
     {
-      "title": "James Bond films were shot all over the world. Here are 5 properties made famous by 007.",
+      "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/james-bond-films-were-shot-all-over-the-world-here-are-5-properties-made-famous-by-007-dabafbe6?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-23T10:02:00.000Z",
+      "published": "2026-11-23T21:51:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "Google co-founder Sergey Brin and ex-wife Nicole Shanahan list Malibu home for $33.5 million",
+      "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/google-co-founder-sergey-brin-and-ex-wife-nicole-shanahan-list-malibu-home-for-33-5-million-0121adcd?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-23T10:01:00.000Z",
+      "published": "2026-11-23T21:45:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "3 小時前"
     },
     {
-      "title": "Stocks are serving up a ‘fat pitch’ for investors right now, says Morgan Stanley’s top strategist",
+      "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/stocks-are-serving-up-a-fat-pitch-for-investors-right-now-as-morgan-stanleys-top-strategist-19abe30a?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-23T09:40:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Stock-market slides this steep and fast trigger a rebound 91% of the time over the last decade",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/stock-market-slides-this-steep-and-fast-trigger-a-rebound-91-of-the-time-over-the-last-decade-798bd2c2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-23T08:37:00.000Z",
+      "published": "2026-11-23T21:36:00.000Z",
       "why": null,
       "ago": "3 小時前"
     }
