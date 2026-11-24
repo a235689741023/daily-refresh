@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-24T13:24:39.810Z",
-  "updatedLocal": "2026/11/24 21:24:39",
+  "updated": "2026-11-24T22:49:11.508Z",
+  "updatedLocal": "2026/11/25 06:49:11",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+      "summary": "Kalshi is known for its prediction markets across sports , politics and culture .",
+      "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-24T18:34:55.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
+    {
+      "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+      "summary": "Utah on Tuesday dismissed criminal charges against Kalshi and its two co-founders following the decision by the prediction market platform on Monday to suspend operations in the state.",
+      "url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-24T20:45:57.000Z",
+      "why": null,
+      "ago": "2 小時前"
+    },
     {
       "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
       "summary": "New York Federal Reserve President John Williams said Monday that policymakers have more work to do to bring inflation under control, though he indicated that further action can unfold over time as the economy continues to grow.",
@@ -13,20 +35,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-23T21:02:17.000Z",
+      "published": "2026-11-24T13:33:26.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
-      "summary": "The major averages of U.S. equities surged on Monday after Nvidia reinstated Jensen Huang as CEO, giving investors some hope that the relentless selling pressure seen last week may subside — at least temporarily.",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-23T18:00:47.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
@@ -37,7 +48,29 @@
       "group": null,
       "published": "2026-11-23T23:28:19.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+      "summary": "The major averages of U.S. equities surged on Monday after Nvidia reinstated Jensen Huang as CEO, giving investors some hope that the relentless selling pressure seen last week may subside — at least temporarily.",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-23T18:00:47.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+      "summary": "Consumers grew significantly more optimistic in November in the wake of the midterm elections , with a growing number of Americans now seeing improvement in the labor market and expecting inflation to cool.",
+      "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-11-24T18:34:43.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "Why France is at risk of recession — and what could keep it out of one",
@@ -48,71 +81,38 @@
       "group": null,
       "published": "2026-11-24T11:15:30.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
-      "summary": "For a minute there, it seemed like someone in the Trump administration might actually be willing to stand up to China.",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-23T21:00:59.000Z",
-      "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Sunday’s pot roast now costs more than a Thanksgiving feast. Why beef won’t get cheaper for years.",
-      "summary": "## A four-pound chuck roast for 6 people runs $36.33. Walmart feeds 10 for $35. The turkey is the bait. The cow is the bill.",
-      "url": "https://www.marketwatch.com/story/sundays-pot-roast-now-costs-more-than-a-thanksgiving-feast-why-beef-wont-get-cheaper-for-years-7daa1b3f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-24T12:56:00.000Z",
-      "why": null,
-      "ago": "29 分鐘前"
-    },
-    {
-      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
+      "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-24T12:54:00.000Z",
+      "published": "2026-11-24T22:43:00.000Z",
       "why": null,
-      "ago": "31 分鐘前"
+      "ago": "6 分鐘前"
     },
     {
-      "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
+      "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-24T12:50:00.000Z",
+      "published": "2026-11-24T21:53:00.000Z",
       "why": null,
-      "ago": "35 分鐘前"
+      "ago": "56 分鐘前"
     },
     {
-      "title": "Jensen Huang’s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?",
-      "summary": "Jensen Huang’s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?",
-      "url": "https://www.marketwatch.com/story/jensen-huangs-return-was-worth-nearly-950-billion-to-nvidia-how-much-of-the-stock-market-should-ride-on-one-man-c7129e95?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-24T12:21:00.000Z",
-      "why": null,
-      "ago": "1 小時前"
-    },
-    {
-      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "title": "Anthropic’s stock just broke below its IPO price for the first time",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-24T12:15:00.000Z",
+      "published": "2026-11-24T21:46:00.000Z",
       "why": null,
       "ago": "1 小時前"
     }

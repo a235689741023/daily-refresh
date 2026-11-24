@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-24T13:24:39.810Z",
-  "updatedLocal": "2026/11/24 21:24:39",
+  "updated": "2026-11-24T22:49:11.508Z",
+  "updatedLocal": "2026/11/25 06:49:11",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Updated: Sustainability leadership moves",
+      "summary": "As corporate sustainability matures, some long-time leaders are leaving the profession, while others are tackling a broader set of responsibilities following reorganizations or layoffs.",
+      "url": "https://trellis.net/article/sustainability-leadership-moves/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-24T17:00:25.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
     {
       "title": "Inside fast-growing consumer brand Clean Cult’s carton crusade",
       "summary": "Paper-based cartons and other fiber packaging alternatives to plastic continue to expand in the food and beverage sector, with sales nearing $500 billion in 2026.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-11-24T09:00:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "No more ‘who shouts the loudest’: How Aldi decided where to spend on sustainability",
@@ -26,29 +37,18 @@
       "group": null,
       "published": "2026-11-23T20:50:31.000Z",
       "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "Riding the blue wave: Why corporate advocacy is safe again",
-      "summary": "The opinions expressed here by Trellis expert contributors are their own, not those of Trellis or its editors .",
-      "url": "https://trellis.net/article/riding-the-blue-wave-why-corporate-advocacy-is-safe-again/",
-      "source": "Trellis",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-23T12:00:00.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "Why automated product carbon footprints aren’t yet ‘decision-grade’",
-      "summary": "Just a few years ago, creating a product carbon footprint (PCF) — an estimate of net greenhouse gas emissions over the product’s lifecycle — was an arduous process requiring weeks or months spent searching for relevant data.",
-      "url": "https://trellis.net/article/product-carbon-footprints-amazon/",
-      "source": "Trellis",
+      "title": "Energy price cap rise could have been almost £100 lower with faster renewables investment, analysis finds",
+      "summary": "# Energy price cap rise could have been almost £100 lower with faster renewables investment, analysis finds New research has found that faster investment in renewable energy, electricity networks and grid connections could have reduced UK household energy bills by almost £100 this winter.",
+      "url": "https://www.edie.net/energy-price-cap-rise-could-have-been-almost-100-lower-with-faster-renewables-investment-analysis-finds/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-11-23T07:49:00.000Z",
+      "published": "2026-11-24T16:56:56.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
     },
     {
       "title": "EV target cuts could increase UK petrol dependence by 130 million barrels",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-11-24T13:12:14.000Z",
       "why": null,
-      "ago": "12 分鐘前"
+      "ago": "10 小時前"
     },
     {
       "title": "Plans to shake up Natural England and Environment Agency spark green backlash",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-11-24T12:12:56.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "How decarbonising business travel can be a lever for wider sustainability",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-11-24T10:55:46.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Only a quarter of businesses understand the EU’s new packaging regulations",
@@ -92,7 +92,7 @@
       "group": null,
       "published": "2026-11-24T10:55:09.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "More than 800 UK businesses could face review of renewable electricity tariffs under new rules",
@@ -103,18 +103,18 @@
       "group": null,
       "published": "2026-11-24T02:12:01.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "21 小時前"
     },
     {
-      "title": "COP31 Covered podcast: Antalya deadlock – what now for climate action?",
-      "summary": "# COP31 Covered podcast: Antalya deadlock – what now for climate action? The eleventh and final episode of edie's daily COP31 Covered podcast is streaming now.",
-      "url": "https://www.edie.net/cop31-covered-podcast-antalya-deadlock-what-now-for-climate-action/",
-      "source": "edie",
-      "tag": "國際",
+      "title": "CB Live: Carbon Brief journalists discuss key COP31 outcomes",
+      "summary": "Following the close of COP31 in Antalya, Turkey, Carbon Brief’s journalists answered a range of questions in a CB Live panel discussion.",
+      "url": "https://www.carbonbrief.org/cb-live-carbon-brief-journalists-discuss-key-cop31-outcomes",
+      "source": "Carbon Brief",
+      "tag": "氣候",
       "group": null,
-      "published": "2026-11-23T20:48:38.000Z",
+      "published": "2026-11-24T17:06:20.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "6 小時前"
     }
   ],
   "errors": []

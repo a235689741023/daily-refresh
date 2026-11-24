@@ -1,32 +1,54 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-24T13:24:39.810Z",
-  "updatedLocal": "2026/11/24 21:24:39",
+  "updated": "2026-11-24T22:49:11.508Z",
+  "updatedLocal": "2026/11/25 06:49:11",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "A smarter way to explore Esri: What’s new with the AI Assistant (Beta)",
-      "summary": "Since launching the AI Assistant (Beta) on esri.com this summer, we’ve been learning how people use conversational AI to explore Esri products, capabilities, and resources.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis/announcements/whats-new-with-the-ai-assistant-beta",
+      "title": "Introducing Databricks SQL Warehouse support in ArcGIS Pro 3.8",
+      "summary": "Organizations are using Databricks SQL warehouses to query, analyze, and visualize massive geospatial datasets alongside other company data.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/introducing-databricks-sql-warehouse-support-in-arcgis-pro-3-8",
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-11-23T18:45:58.000Z",
+      "published": "2026-11-24T22:26:55.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "22 分鐘前"
     },
     {
-      "title": "What's new in ArcGIS Maritime (Fall 2026)",
-      "summary": "New tools and enhancements to simplify the ENC production process and expand support for S-100 products have arrived in ArcGIS Maritime for ArcGIS Pro 3.8.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/whats-new-in-arcgis-maritime-fall-2026",
+      "title": "Mapping Holiday Races with the ArcGIS Static Maps Service",
+      "summary": "The ArcGIS Static Maps service is a location service that lets developers create and embed map images from ArcGIS Basemaps into any location-driven solution.",
+      "url": "https://www.esri.com/arcgis-blog/products/developers/mapping/mapping-holiday-races-with-the-arcgis-static-maps-service",
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-11-23T22:34:01.000Z",
+      "published": "2026-11-24T16:47:03.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Accelerate essential crime mapping with the new Crime Analysis Web solution",
+      "summary": "ArcGIS Solutions helps you make the most of your GIS by providing purpose-driven, industry-specific configurations of ArcGIS.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-solutions/public-safety/accelerate-essential-crime-mapping-with-the-new-crime-analysis-web-solution",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-24T21:43:50.000Z",
+      "why": null,
+      "ago": "1 小時前"
+    },
+    {
+      "title": "Give the gift of geography with these map poster templates",
+      "summary": "Ah it’s that time of year when we geographers start to get a little anxious about what gifts we might give our friends and family for the holidays.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/give-the-gift-of-geography-with-these-map-poster-templates",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-24T21:43:50.000Z",
+      "why": null,
+      "ago": "1 小時前"
     },
     {
       "title": "Introducing the Change Dataset Schema tool in ArcGIS Pro 3.8",
@@ -37,51 +59,73 @@
       "group": "gis",
       "published": "2026-11-24T05:57:49.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "The Dragon In The Data: When AI Reads The Code But Misses The Meaning – OpEd",
-      "summary": "From the I Ching to satellite AI, the gap between decoding information and understanding its purpose has become a global governance challenge.",
-      "url": "https://www.eurasiareview.com/24112026-the-dragon-in-the-data-when-ai-reads-the-code-but-misses-the-meaning-oped/",
-      "source": "Eurasia Review",
-      "tag": "研究",
+      "title": "A smarter way to explore Esri: What’s new with the AI Assistant (Beta)",
+      "summary": "Since launching the AI Assistant (Beta) on esri.com this summer, we’ve been learning how people use conversational AI to explore Esri products, capabilities, and resources.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis/announcements/whats-new-with-the-ai-assistant-beta",
+      "source": "Esri",
+      "tag": "平台",
       "group": "gis",
-      "published": "2026-11-24T01:14:45.000Z",
+      "published": "2026-11-23T18:45:58.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "Measuring and mitigating agent sandbox escape with Siren",
+      "summary": "TL;DR: AI agents often work inside a sandbox, an isolated environment that limits the files, tools, and networks they can reach.",
+      "url": "https://safeguards.anthropic.com/2026/siren/",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-24T18:04:55.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "Our GPT‑6 family of models can design new protein shapes and the sequence of their chemical building blocks using only reasoning and code, without calling specialized biology models to generate those designs.",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-24T13:00:00.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
+    {
+      "title": "Searching for distant planets with Astra",
+      "summary": "Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data. Now they’ve given professional astronomers a few places to look more closely.",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-24T11:00:00.000Z",
       "why": null,
       "ago": "12 小時前"
     },
     {
-      "title": "Seasonal Snow Line in the Sierra Nevada",
-      "summary": "NASA’s Terra satellite captured this view of the Sierra Nevada on November 14, 2026, after a storm brought roughly a foot of snow to parts of the range.",
-      "url": "https://www.geographyrealm.com/seasonal-snow-line-sierra-nevada/",
-      "source": "GIS Lounge",
-      "tag": "應用",
-      "group": "gis",
-      "published": "2026-11-24T06:44:32.000Z",
-      "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Working with AI",
-      "summary": "Nathan Wilmers, Maxim Massenkoff, Peter McCrory How are businesses across the economy adopting AI? What bottlenecks and challenges have they faced?",
-      "url": "https://www.anthropic.com/research/working-with-ai",
-      "source": "Anthropic",
+      "title": "How Intentful uses dots to make more time for growth",
+      "summary": "How a small business founder’s dot helps her with research and proposals, while alerting her to critical messages and resolving issues.",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-23T21:12:08.000Z",
+      "published": "2026-11-24T00:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
     },
     {
-      "title": "Returning to the Neuron Basis for Interpretability, Part 1: Answering Three Objections - Anthropic Alignment Science blog",
-      "summary": "1 Anthropic * Work done as part of the Anthropic Fellows Program However, by construction, the function a neuron implements is relatively straightforward.",
-      "url": "https://alignment.anthropic.com/2026/neuron-basis-theory/",
-      "source": "Anthropic",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "summary": "as many vulnerabilities fixed through the security platform The Remote Agents Platform turned engineering tasks into API calls: teams delegate the work, execution takes place in a remote sandbox, and the result comes back as a merge request.",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-23T18:14:08.000Z",
+      "published": "2026-11-24T00:00:00.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "OpenAI and Cisco introduce Shirudo",
@@ -92,40 +136,7 @@
       "group": "ai",
       "published": "2026-11-23T21:20:00.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Connected intelligence for in-house legal",
-      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
-      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-23T08:00:00.000Z",
-      "why": null,
       "ago": "昨日"
-    },
-    {
-      "title": "Richpanel helps companies automate 50% of support in 30 days",
-      "summary": "Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations.",
-      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-23T08:00:00.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Finding faster quantum algorithms with agents and formal verification",
-      "summary": "Sergey Shirobokov, Ben Jaderberg and Ryan Babbush How using agent teams and formal verification can improve quantum algorithms for modelling fusion energy, chemistry and enzymes Quantum computers could soon solve problems beyond the reach of classical supercomputers.",
-      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-      "source": "Google DeepMind",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-23T16:59:40.000Z",
-      "why": null,
-      "ago": "20 小時前"
     }
   ],
   "errors": []
