@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-24T00:26:10.010Z",
-  "updatedLocal": "2026/11/24 08:26:10",
+  "updated": "2026-11-24T06:11:21.811Z",
+  "updatedLocal": "2026/11/24 14:11:21",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-23T21:02:17.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-11-23T18:00:47.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-11-23T23:28:19.000Z",
       "why": null,
-      "ago": "58 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-11-23T06:06:55.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
@@ -59,18 +59,40 @@
       "group": null,
       "published": "2026-11-23T21:00:59.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "9 小時前"
+    },
+    {
+      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-24T01:01:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-24T01:01:00.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
-      "summary": "The newest addition to the S&P 500 is a maker of viral ice-cream machines Choose MarketWatch as a preferred source of financial news # The newest addition to the S&P 500 is a maker of viral ice-cream machines ## SharkNinja will join the S&P 500, replacing AES Choose MarketWatch as a preferred source of financial news SharkNinja will be replacing a utility and power company in the benchmark index.",
+      "summary": null,
       "url": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
       "published": "2026-11-23T23:18:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
@@ -81,7 +103,7 @@
       "group": null,
       "published": "2026-11-23T22:04:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
@@ -92,29 +114,7 @@
       "group": null,
       "published": "2026-11-23T21:51:00.000Z",
       "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-23T21:45:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-23T21:36:00.000Z",
-      "why": null,
-      "ago": "3 小時前"
+      "ago": "8 小時前"
     }
   ],
   "errors": [

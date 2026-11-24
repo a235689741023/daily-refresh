@@ -1,54 +1,76 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-24T00:26:10.010Z",
-  "updatedLocal": "2026/11/24 08:26:10",
+  "updated": "2026-11-24T06:11:21.811Z",
+  "updatedLocal": "2026/11/24 14:11:21",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Brotli / Node.js Vulnerabilities",
-      "summary": "On October 22, 2026, Open AI security researchers announced a critical severity vulnerability in Google’s Brotli decoder, identified as CVE-2026-111497.",
-      "url": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/brotli-vulnerabilities-broccoli2shell",
+      "title": "A smarter way to explore Esri: What’s new with the AI Assistant (Beta)",
+      "summary": "Since launching the AI Assistant (Beta) on esri.com this summer, we’ve been learning how people use conversational AI to explore Esri products, capabilities, and resources.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis/announcements/whats-new-with-the-ai-assistant-beta",
       "source": "Esri",
       "tag": "平台",
       "group": "gis",
-      "published": "2026-11-19T08:00:00.000Z",
+      "published": "2026-11-23T18:45:58.000Z",
       "why": null,
-      "ago": "5 天前"
+      "ago": "11 小時前"
     },
     {
-      "title": "Why U.S. Islands Are Important for Biodiversity",
-      "summary": "Along with the more well-known islands like the Aleutian and Hawaiian Islands, the United States is home to thousands of islands found much closer to the mainland, scattered along coastlines, tucked inside estuaries, and forming barrier islands that separate coastal wetlands from the open ocean .",
-      "url": "https://www.geographyrealm.com/u-s-islands-biodiversity/",
-      "source": "GIS Lounge",
-      "tag": "應用",
+      "title": "What's new in ArcGIS Maritime (Fall 2026)",
+      "summary": "New tools and enhancements to simplify the ENC production process and expand support for S-100 products have arrived in ArcGIS Maritime for ArcGIS Pro 3.8.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/whats-new-in-arcgis-maritime-fall-2026",
+      "source": "Esri",
+      "tag": "平台",
       "group": "gis",
-      "published": "2026-11-20T17:47:35.000Z",
+      "published": "2026-11-23T22:34:01.000Z",
       "why": null,
-      "ago": "3 天前"
+      "ago": "8 小時前"
     },
     {
-      "title": "How to Use MPKX Files in QGIS",
-      "summary": "With so many public agencies, particularly in the United States, relying almost exclusively on Esri’s proprietary GIS software, it’s not uncommon to find geographic data packaged or compressed in formats designed for ArcGIS.",
-      "url": "https://www.geographyrealm.com/how-to-use-mpkx-files-in-qgis/",
-      "source": "GIS Lounge",
-      "tag": "應用",
+      "title": "Building Organizational Resilience through Secure ArcGIS Architecture",
+      "summary": "Organizations today depend on location technology to support critical operations, guide strategic decisions, and deliver essential services.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-enterprise/announcements/building-organizational-resilience-through-secure-arcgis-architecture",
+      "source": "Esri",
+      "tag": "平台",
       "group": "gis",
-      "published": "2026-11-19T19:36:41.000Z",
+      "published": "2026-11-23T17:21:39.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "13 小時前"
     },
     {
-      "title": "GIS File Formats",
-      "summary": "GIS work involves dozens of file formats. Some store geographic data, while others are created by GIS software to save a map or project.",
-      "url": "https://www.geographyrealm.com/how-to-tell-gis-file-formats/",
-      "source": "GIS Lounge",
-      "tag": "應用",
+      "title": "Introducing the Change Dataset Schema tool in ArcGIS Pro 3.8",
+      "summary": "Managing datasets in an enterprise geodatabase can get complicated when database privileges and identities don’t line up.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/introducing-the-change-dataset-schema-tool-in-arcgis-pro-3-8",
+      "source": "Esri",
+      "tag": "平台",
       "group": "gis",
-      "published": "2026-11-19T18:19:00.000Z",
+      "published": "2026-11-24T05:57:49.000Z",
       "why": null,
-      "ago": "4 天前"
+      "ago": "14 分鐘前"
+    },
+    {
+      "title": "The Dragon In The Data: When AI Reads The Code But Misses The Meaning – OpEd",
+      "summary": "From the I Ching to satellite AI, the gap between decoding information and understanding its purpose has become a global governance challenge.",
+      "url": "https://www.eurasiareview.com/24112026-the-dragon-in-the-data-when-ai-reads-the-code-but-misses-the-meaning-oped/",
+      "source": "Eurasia Review",
+      "tag": "研究",
+      "group": "gis",
+      "published": "2026-11-24T01:14:45.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Working with AI",
+      "summary": "Nathan Wilmers, Maxim Massenkoff, Peter McCrory How are businesses across the economy adopting AI? What bottlenecks and challenges have they faced?",
+      "url": "https://www.anthropic.com/research/working-with-ai",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-23T21:12:08.000Z",
+      "why": null,
+      "ago": "9 小時前"
     },
     {
       "title": "OpenAI and Cisco introduce Shirudo",
@@ -59,7 +81,7 @@
       "group": "ai",
       "published": "2026-11-23T21:20:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Connected intelligence for in-house legal",
@@ -70,7 +92,7 @@
       "group": "ai",
       "published": "2026-11-23T08:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Richpanel helps companies automate 50% of support in 30 days",
@@ -81,7 +103,7 @@
       "group": "ai",
       "published": "2026-11-23T08:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Finding faster quantum algorithms with agents and formal verification",
@@ -92,7 +114,7 @@
       "group": "ai",
       "published": "2026-11-23T16:59:40.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
@@ -103,18 +125,7 @@
       "group": "ai",
       "published": "2026-11-23T17:36:08.000Z",
       "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "A more tailored Google Search that’s uniquely yours",
-      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
-      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-      "source": "Google AI Blog",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-23T17:00:00.000Z",
-      "why": null,
-      "ago": "7 小時前"
+      "ago": "13 小時前"
     }
   ],
   "errors": []

@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-24T00:26:10.010Z",
-  "updatedLocal": "2026/11/24 08:26:10",
+  "updated": "2026-11-24T06:11:21.811Z",
+  "updatedLocal": "2026/11/24 14:11:21",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-23T20:50:31.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "Riding the blue wave: Why corporate advocacy is safe again",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-11-23T12:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Why automated product carbon footprints aren’t yet ‘decision-grade’",
@@ -37,7 +37,7 @@
       "group": null,
       "published": "2026-11-23T07:49:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "How Meta applies emissions certificates to its disclosures",
@@ -48,7 +48,18 @@
       "group": null,
       "published": "2026-11-23T07:00:00.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "More than 800 UK businesses could face review of renewable electricity tariffs under new rules",
+      "summary": "# More than 800 UK businesses could face review of renewable electricity tariffs under new rules New research has found that 842 UK-headquartered organisations could be affected by new corporate climate reporting requirements that will place greater scrutiny on claims of using 100% renewable electricity.",
+      "url": "https://www.edie.net/more-than-800-uk-businesses-could-face-review-of-renewable-electricity-tariffs-under-new-rules/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-24T02:12:01.000Z",
+      "why": null,
+      "ago": "4 小時前"
     },
     {
       "title": "COP31 Covered podcast: Antalya deadlock – what now for climate action?",
@@ -59,7 +70,7 @@
       "group": null,
       "published": "2026-11-23T20:48:38.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "9 小時前"
     },
     {
       "title": "COP31 ends without agreement. What does it mean for businesses?",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-11-23T18:09:13.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "IEA: Global energy efficiency set to grow 3% in 2026",
@@ -81,7 +92,7 @@
       "group": null,
       "published": "2026-11-23T17:14:23.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Electrification survives COP31’s failure to agree",
@@ -92,7 +103,7 @@
       "group": null,
       "published": "2026-11-23T15:13:39.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "15 小時前"
     },
     {
       "title": "Apply now: Entries open for the edie Awards 2027",
@@ -103,18 +114,7 @@
       "group": null,
       "published": "2026-11-23T08:32:41.000Z",
       "why": null,
-      "ago": "16 小時前"
-    },
-    {
-      "title": "Businesses warn budget cuts threaten EU’s clean industry ambitions",
-      "summary": "# Businesses warn budget cuts threaten EU’s clean industry ambitions A joint letter signed by more than 75 companies has urged EU leaders to protect the European Competitiveness Fund, and to back clean tech and sustainable innovation when it sets its next seven-year budget.",
-      "url": "https://www.edie.net/businesses-warn-budget-cuts-threaten-eus-clean-industry-ambitions/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-23T05:00:33.000Z",
-      "why": null,
-      "ago": "19 小時前"
+      "ago": "22 小時前"
     }
   ],
   "errors": []
