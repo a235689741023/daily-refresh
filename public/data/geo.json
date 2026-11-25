@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-24T22:49:11.508Z",
-  "updatedLocal": "2026/11/25 06:49:11",
+  "updated": "2026-11-25T04:57:04.844Z",
+  "updatedLocal": "2026/11/25 12:57:04",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-11-24T22:26:55.000Z",
       "why": null,
-      "ago": "22 分鐘前"
+      "ago": "7 小時前"
     },
     {
       "title": "Mapping Holiday Races with the ArcGIS Static Maps Service",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-11-24T16:47:03.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Accelerate essential crime mapping with the new Crime Analysis Web solution",
@@ -37,7 +37,7 @@
       "group": "gis",
       "published": "2026-11-24T21:43:50.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "Give the gift of geography with these map poster templates",
@@ -48,29 +48,29 @@
       "group": "gis",
       "published": "2026-11-24T21:43:50.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "7 小時前"
     },
     {
-      "title": "Introducing the Change Dataset Schema tool in ArcGIS Pro 3.8",
-      "summary": "Managing datasets in an enterprise geodatabase can get complicated when database privileges and identities don’t line up.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/introducing-the-change-dataset-schema-tool-in-arcgis-pro-3-8",
-      "source": "Esri",
-      "tag": "平台",
+      "title": "The Dragon In The Data: When AI Reads The Code But Misses The Meaning – OpEd",
+      "summary": "From the I Ching to satellite AI, the gap between decoding information and understanding its purpose has become a global governance challenge.",
+      "url": "https://www.eurasiareview.com/24112026-the-dragon-in-the-data-when-ai-reads-the-code-but-misses-the-meaning-oped/",
+      "source": "Eurasia Review",
+      "tag": "研究",
       "group": "gis",
-      "published": "2026-11-24T05:57:49.000Z",
-      "why": null,
-      "ago": "17 小時前"
-    },
-    {
-      "title": "A smarter way to explore Esri: What’s new with the AI Assistant (Beta)",
-      "summary": "Since launching the AI Assistant (Beta) on esri.com this summer, we’ve been learning how people use conversational AI to explore Esri products, capabilities, and resources.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis/announcements/whats-new-with-the-ai-assistant-beta",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-23T18:45:58.000Z",
+      "published": "2026-11-24T01:14:45.000Z",
       "why": null,
       "ago": "昨日"
+    },
+    {
+      "title": "Seasonal Snow Line in the Sierra Nevada",
+      "summary": "NASA’s Terra satellite captured this view of the Sierra Nevada on November 14, 2026, after a storm brought roughly a foot of snow to parts of the range.",
+      "url": "https://www.geographyrealm.com/seasonal-snow-line-sierra-nevada/",
+      "source": "GIS Lounge",
+      "tag": "應用",
+      "group": "gis",
+      "published": "2026-11-24T06:44:32.000Z",
+      "why": null,
+      "ago": "22 小時前"
     },
     {
       "title": "Measuring and mitigating agent sandbox escape with Siren",
@@ -81,7 +81,7 @@
       "group": "ai",
       "published": "2026-11-24T18:04:55.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -92,7 +92,7 @@
       "group": "ai",
       "published": "2026-11-24T13:00:00.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Searching for distant planets with Astra",
@@ -103,7 +103,7 @@
       "group": "ai",
       "published": "2026-11-24T11:00:00.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "How Intentful uses dots to make more time for growth",
@@ -114,7 +114,7 @@
       "group": "ai",
       "published": "2026-11-24T00:00:00.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     },
     {
       "title": "How iFood scales coding agents across 15,000 repositories",
@@ -125,16 +125,16 @@
       "group": "ai",
       "published": "2026-11-24T00:00:00.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "summary": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo, an open-source runtime that helps teams protect Linux systems while they roll out patches.",
-      "url": "https://openai.com/index/introducing-shirudo",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "summary": "ChatGPT and Codex integrations help Clay users research deals and turn data into go-to-market plays, and GPT‑6 models handle the reasoning.",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
       "source": "OpenAI",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-23T21:20:00.000Z",
+      "published": "2026-11-24T00:00:00.000Z",
       "why": null,
       "ago": "昨日"
     }

@@ -1,8 +1,8 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-24T22:49:11.508Z",
-  "updatedLocal": "2026/11/25 06:49:11",
+  "updated": "2026-11-25T04:57:04.844Z",
+  "updatedLocal": "2026/11/25 12:57:04",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-24T17:00:25.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Inside fast-growing consumer brand Clean Cult’s carton crusade",
@@ -26,18 +26,18 @@
       "group": null,
       "published": "2026-11-24T09:00:00.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "20 小時前"
     },
     {
-      "title": "No more ‘who shouts the loudest’: How Aldi decided where to spend on sustainability",
-      "summary": "Supermarket chain Aldi Süd is known as a sustainability leader, in part through its decision to hold tight to its emissions reduction targets even as it pursues ambitious growth plans in the U.S. and U.K. What’s less clear is whether it can meet those climate goals.",
-      "url": "https://trellis.net/article/aldi-sud-sustainability-strategy/",
-      "source": "Trellis",
+      "title": "Welsh Commissioner calls for halt on new AI data centres over environmental concerns",
+      "summary": "* [![Image 3: Unlocking competitive advantage through carbon footprint model assurance [webinar]](blob: # Welsh Commissioner calls for halt on new AI data centres over environmental concerns The …",
+      "url": "https://www.edie.net/welsh-commissioner-calls-for-halt-on-new-ai-data-centres-over-environmental-concerns/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-11-23T20:50:31.000Z",
+      "published": "2026-11-25T00:01:54.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "5 小時前"
     },
     {
       "title": "Energy price cap rise could have been almost £100 lower with faster renewables investment, analysis finds",
@@ -48,7 +48,7 @@
       "group": null,
       "published": "2026-11-24T16:56:56.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "EV target cuts could increase UK petrol dependence by 130 million barrels",
@@ -59,7 +59,7 @@
       "group": null,
       "published": "2026-11-24T13:12:14.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Plans to shake up Natural England and Environment Agency spark green backlash",
@@ -70,7 +70,7 @@
       "group": null,
       "published": "2026-11-24T12:12:56.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "How decarbonising business travel can be a lever for wider sustainability",
@@ -81,7 +81,7 @@
       "group": null,
       "published": "2026-11-24T10:55:46.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Only a quarter of businesses understand the EU’s new packaging regulations",
@@ -92,18 +92,7 @@
       "group": null,
       "published": "2026-11-24T10:55:09.000Z",
       "why": null,
-      "ago": "12 小時前"
-    },
-    {
-      "title": "More than 800 UK businesses could face review of renewable electricity tariffs under new rules",
-      "summary": "# More than 800 UK businesses could face review of renewable electricity tariffs under new rules New research has found that 842 UK-headquartered organisations could be affected by new corporate climate reporting requirements that will place greater scrutiny on claims of using 100% renewable electricity.",
-      "url": "https://www.edie.net/more-than-800-uk-businesses-could-face-review-of-renewable-electricity-tariffs-under-new-rules/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-24T02:12:01.000Z",
-      "why": null,
-      "ago": "21 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "CB Live: Carbon Brief journalists discuss key COP31 outcomes",
@@ -114,7 +103,18 @@
       "group": null,
       "published": "2026-11-24T17:06:20.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "COP31: Key outcomes for food, forests, oceans and nature at the UN climate talks in Antalya",
+      "summary": "The COP31 climate talks in Antalya, Turkey, failed to agree on a “pact” that – despite making no clear reference to fossil fuels or adaptation finance – had contained strong signals for oceans.",
+      "url": "https://www.carbonbrief.org/cop31-key-outcomes-for-food-forests-oceans-and-nature-at-the-un-climate-talks-in-antalya",
+      "source": "Carbon Brief",
+      "tag": "氣候",
+      "group": null,
+      "published": "2026-11-24T16:33:18.000Z",
+      "why": null,
+      "ago": "12 小時前"
     }
   ],
   "errors": []
