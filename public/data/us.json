@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-25T12:18:52.428Z",
-  "updatedLocal": "2026/11/25 20:18:52",
+  "updated": "2026-11-25T22:01:18.846Z",
+  "updatedLocal": "2026/11/26 06:01:18",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Prediction markets push OpenAI IPO expectations later into 2027",
+      "summary": "Anthropic's shaky performance on the public markets since its debut last week and a continuing tech sell-off may be changing the outlook for when prediction markets think OpenAI will go public.",
+      "url": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-25T17:08:03.000Z",
+      "why": null,
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+      "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh .",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-25T12:26:41.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
       "summary": "BEIJING — Jensen Huang ' s return to Nvidia as its CEO underscores how the U.S.-China artificial intelligence race is not only about semiconductors, but tech talent.",
@@ -13,9 +35,9 @@
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-25T01:13:56.000Z",
+      "published": "2026-11-25T14:29:00.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "8 小時前"
     },
     {
       "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-11-24T23:03:24.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
@@ -37,18 +59,29 @@
       "group": null,
       "published": "2026-11-24T20:45:57.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-      "summary": "New York Federal Reserve President John Williams said Monday that policymakers have more work to do to bring inflation under control, though he indicated that further action can unfold over time as the economy continues to grow.",
-      "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+      "summary": "Inflation moved further away from the Federal Reserve's target in October, reinforcing expectations that another interest rate hike is in the cards for December and raising questions about how much more work the central bank will have to do in 2027.",
+      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-11-24T13:33:26.000Z",
+      "published": "2026-11-25T14:18:45.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+      "summary": "As Amanda Brecht planned how her family would spend Thanksgiving this year, she had to make some difficult decisions.",
+      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-11-25T16:17:13.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
@@ -59,62 +92,29 @@
       "group": null,
       "published": "2026-11-25T04:06:01.000Z",
       "why": null,
-      "ago": "8 小時前"
-    },
-    {
-      "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-      "summary": "Consumers grew significantly more optimistic in November in the wake of the midterm elections , with a growing number of Americans now seeing improvement in the labor market and expecting inflation to cool.",
-      "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-24T18:34:43.000Z",
-      "why": null,
       "ago": "18 小時前"
     },
     {
-      "title": "The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason, says JPMorgan",
+      "title": "Nvidia’s stock has given back more than half of Monday’s rally as dip buyers cash in",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-25T11:27:00.000Z",
+      "published": "2026-11-25T21:50:00.000Z",
       "why": null,
-      "ago": "52 分鐘前"
+      "ago": "11 分鐘前"
     },
     {
-      "title": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he argues",
+      "title": "Elon Musk and SpaceX to donate roughly $17.8 billion to ‘Trump accounts’",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-25T10:12:00.000Z",
+      "published": "2026-11-25T21:50:00.000Z",
       "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "Kylie Jenner again relists concrete mansion in L.A. for $38 million",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/kylie-jenner-again-relists-concrete-mansion-in-l-a-for-38-million-2e5143e5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-25T10:05:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
-    },
-    {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-25T10:05:00.000Z",
-      "why": null,
-      "ago": "2 小時前"
+      "ago": "11 分鐘前"
     }
   ],
   "errors": [

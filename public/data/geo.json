@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-25T12:18:52.428Z",
-  "updatedLocal": "2026/11/25 20:18:52",
+  "updated": "2026-11-25T22:01:18.846Z",
+  "updatedLocal": "2026/11/26 06:01:18",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,29 +15,7 @@
       "group": "gis",
       "published": "2026-11-24T21:43:50.000Z",
       "why": null,
-      "ago": "15 小時前"
-    },
-    {
-      "title": "Introducing Databricks SQL Warehouse support in ArcGIS Pro 3.8",
-      "summary": "Organizations are using Databricks SQL warehouses to query, analyze, and visualize massive geospatial datasets alongside other company data.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/introducing-databricks-sql-warehouse-support-in-arcgis-pro-3-8",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-24T22:26:55.000Z",
-      "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "Mapping Holiday Races with the ArcGIS Static Maps Service",
-      "summary": "The ArcGIS Static Maps service is a location service that lets developers create and embed map images from ArcGIS Basemaps into any location-driven solution.",
-      "url": "https://www.esri.com/arcgis-blog/products/developers/mapping/mapping-holiday-races-with-the-arcgis-static-maps-service",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-24T16:47:03.000Z",
-      "why": null,
-      "ago": "20 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Accelerate essential crime mapping with the new Crime Analysis Web solution",
@@ -48,18 +26,40 @@
       "group": "gis",
       "published": "2026-11-24T21:43:50.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Seasonal Snow Line in the Sierra Nevada",
-      "summary": "NASA’s Terra satellite captured this view of the Sierra Nevada on November 14, 2026, after a storm brought roughly a foot of snow to parts of the range.",
-      "url": "https://www.geographyrealm.com/seasonal-snow-line-sierra-nevada/",
+      "title": "Mapping Holiday Races with the ArcGIS Static Maps Service",
+      "summary": "The ArcGIS Static Maps service is a location service that lets developers create and embed map images from ArcGIS Basemaps into any location-driven solution.",
+      "url": "https://www.esri.com/arcgis-blog/products/developers/mapping/mapping-holiday-races-with-the-arcgis-static-maps-service",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-24T16:47:03.000Z",
+      "why": null,
+      "ago": "昨日"
+    },
+    {
+      "title": "What to Know About Absolute and Relative Location",
+      "summary": "In geography, location is a fundamental concept that helps us understand where places are situated on the Earth’s surface.",
+      "url": "https://www.geographyrealm.com/absolute-relative-location/",
       "source": "GIS Lounge",
       "tag": "應用",
       "group": "gis",
-      "published": "2026-11-24T06:44:32.000Z",
+      "published": "2026-11-25T19:38:39.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 小時前"
+    },
+    {
+      "title": "Migrating our Messages API to Rust",
+      "summary": "Many problems have a generator–verifier gap: it’s often far easier to verify that a solution is correct than to come up with one.",
+      "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-25T17:15:45.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "Measuring and mitigating agent sandbox escape with Siren",
@@ -69,28 +69,6 @@
       "tag": "模型",
       "group": "ai",
       "published": "2026-11-24T18:04:55.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "summary": "Our GPT‑6 family of models can design new protein shapes and the sequence of their chemical building blocks using only reasoning and code, without calling specialized biology models to generate those designs.",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-24T13:00:00.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "Searching for distant planets with Astra",
-      "summary": "Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data. Now they’ve given professional astronomers a few places to look more closely.",
-      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-24T11:00:00.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -103,29 +81,40 @@
       "group": "ai",
       "published": "2026-11-25T10:00:00.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "How Gemini is changing the game for Golden State's organization and fans.",
-      "summary": "Today, we’re expanding our partnership with Golden State — making Google Gemini the Official AI Assistant Partner and Official Generative AI & Enterprise LLM Partner of the Warriors, the 2026 WNBA Champion Valkyries, and Chase Center.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-      "source": "Google AI Blog",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-24T16:00:00.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "This California GOA report may shape frontier AI safety nationwide. Here are 5 big takeaways",
-      "summary": "Nov. 24, 2026 — As the record-breaking Anthropic IPO grabbed global headlines last week, an obscure California state agency released a report that could set the roadmap for frontier AI safety regulation nationwide.",
-      "url": "https://www.transparencycoalition.ai/news/california-report-may-shape-frontier-ai-safety-nationwide",
-      "source": "Transparency Coalition",
+      "title": "Spotlight on AI safety, security and alignment | Where regulation is heading (via Passle)",
+      "summary": "A run of incidents involving frontier models has turned attention to how those models are built and tested, and the guardrails needed to prevent similar incidents.",
+      "url": "https://inquisitiveminds.bristows.com/post/102oat5/spotlight-on-ai-safety-security-and-alignment-where-regulation-is-heading",
+      "source": "Bristows",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-11-24T19:09:04.000Z",
+      "published": "2026-11-25T09:59:06.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "DEKRA on the AI Act: Risks, Obligations and Opportunities for the Automotive Aftermarket",
+      "summary": "Artificial intelligence is quickly becoming an integral part of the day-to-day activities of the automotive aftermarket, from diagnostic platforms to predictive maintenance systems, from CRM software to pricing tools and marketing applications.",
+      "url": "https://www.sicurauto.it/speciali/6th-aftermarket-report/dekra-on-the-ai-act-risks-obligations-and-opportunities-for-the-automotive-aftermarket/",
+      "source": "SICURAUTO.it",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-25T11:51:07.000Z",
+      "why": null,
+      "ago": "10 小時前"
+    },
+    {
+      "title": "Tech giants face audits and disclosure under AI safety blueprint",
+      "summary": "The Albanese government now has a blueprint for what could be world-leading safety regulation of frontier AI — but it all hinges on getting major tech companies to train their models in Australia.",
+      "url": "https://www.capitalbrief.com/article/tech-giants-face-audits-and-disclosure-under-ai-safety-blueprint-146c7871-5b58-4e65-a508-b1b7d0928a39/",
+      "source": "Capital Brief",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-24T21:58:25.000Z",
+      "why": null,
+      "ago": "昨日"
     }
   ],
   "errors": []

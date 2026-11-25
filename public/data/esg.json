@@ -1,11 +1,22 @@
 {
   "domain": "esg",
   "title": "永續 ESG",
-  "updated": "2026-11-25T12:18:52.428Z",
-  "updatedLocal": "2026/11/25 20:18:52",
+  "updated": "2026-11-25T22:01:18.846Z",
+  "updatedLocal": "2026/11/26 06:01:18",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Updated: Sustainability tools to use in 2026",
+      "summary": "Welcome to the Trellis roundup of new products and services for sustainability professionals, as chosen by our editorial team.",
+      "url": "https://trellis.net/article/corporate-sustainability-tools-to-use/",
+      "source": "Trellis",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-25T21:51:10.000Z",
+      "why": null,
+      "ago": "10 分鐘前"
+    },
     {
       "title": "The ‘inner game’ of climate work: three mental tools for sustainability professionals",
       "summary": "The opinions expressed here by Trellis expert contributors are their own, not those of Trellis .",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-11-25T12:00:00.000Z",
       "why": null,
-      "ago": "19 分鐘前"
+      "ago": "10 小時前"
     },
     {
       "title": "Updated: Sustainability leadership moves",
@@ -26,18 +37,40 @@
       "group": null,
       "published": "2026-11-24T17:00:25.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Inside fast-growing consumer brand Clean Cult’s carton crusade",
-      "summary": "Paper-based cartons and other fiber packaging alternatives to plastic continue to expand in the food and beverage sector, with sales nearing $500 billion in 2026.",
-      "url": "https://trellis.net/article/clean-cult-carton-crusade/",
-      "source": "Trellis",
+      "title": "Bob W makes energy a KPI for managers as it secures B Corp status",
+      "summary": "# Bob W makes energy a KPI for managers as it secures B Corp status Hospitality company Bob W has made energy efficiency a performance KPI for every general manager as part of its efforts to reduce emissions, which are now 69% below the European hotel average.",
+      "url": "https://www.edie.net/bob-w-makes-energy-efficiency-a-kpi-for-general-managers-as-it-secures-b-corp-certification/",
+      "source": "edie",
       "tag": "國際",
       "group": null,
-      "published": "2026-11-24T09:00:00.000Z",
+      "published": "2026-11-25T16:58:09.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "5 小時前"
+    },
+    {
+      "title": "Study: UK confidence in responsible business falls across most sectors",
+      "summary": "# Study: UK confidence in responsible business falls across most sectors Almost three-quarters of the UK public think it is important for large businesses to act responsibly, yet fewer than half believe firms are doing so.",
+      "url": "https://www.edie.net/study-uk-confidence-in-responsible-business-falls-across-most-sectors/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-25T14:29:41.000Z",
+      "why": null,
+      "ago": "8 小時前"
+    },
+    {
+      "title": "The COP31 Business Debrief Report",
+      "summary": "The countdown begins for COP31 in Antalya, Türkiye, as the world looks towards a more sustainable future.",
+      "url": "https://www.edie.net/the-cop31-business-debrief-report/",
+      "source": "edie",
+      "tag": "國際",
+      "group": null,
+      "published": "2026-11-25T14:11:14.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Beyond the impasse: The quiet wins COP31 paved the way for",
@@ -48,7 +81,7 @@
       "group": null,
       "published": "2026-11-25T10:19:01.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "12 小時前"
     },
     {
       "title": "Welsh Commissioner calls for halt on new AI data centres over environmental concerns",
@@ -59,51 +92,18 @@
       "group": null,
       "published": "2026-11-25T00:01:54.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "22 小時前"
     },
     {
-      "title": "Energy price cap rise could have been almost £100 lower with faster renewables investment, analysis finds",
-      "summary": "# Energy price cap rise could have been almost £100 lower with faster renewables investment, analysis finds New research has found that faster investment in renewable energy, electricity networks and grid connections could have reduced UK household energy bills by almost £100 this winter.",
-      "url": "https://www.edie.net/energy-price-cap-rise-could-have-been-almost-100-lower-with-faster-renewables-investment-analysis-finds/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-24T16:56:56.000Z",
-      "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "EV target cuts could increase UK petrol dependence by 130 million barrels",
-      "summary": "# EV target cuts could increase UK petrol dependence by 130 million barrels New research has found that proposed Zero Emission Vehicle (ZEV) Mandate changes could increase UK oil and petrol import dependence by almost 130 million barrels by 2050.",
-      "url": "https://www.edie.net/ev-target-cuts-could-increase-uk-petrol-dependence-by-130-million-barrels/",
-      "source": "edie",
-      "tag": "國際",
-      "group": null,
-      "published": "2026-11-24T13:12:14.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "CB Live: Carbon Brief journalists discuss key COP31 outcomes",
-      "summary": "Following the close of COP31 in Antalya, Turkey, Carbon Brief’s journalists answered a range of questions in a CB Live panel discussion.",
-      "url": "https://www.carbonbrief.org/cb-live-carbon-brief-journalists-discuss-key-cop31-outcomes",
+      "title": "Media reaction: Who is to blame for COP31 ‘failure’?",
+      "summary": "COP31 came to a dramatic close last weekend when a coalition of nations rejected the proposed “Antalya pact”, citing its failure to mention fossil fuels.",
+      "url": "https://www.carbonbrief.org/media-reaction-who-is-to-blame-for-cop31-failure",
       "source": "Carbon Brief",
       "tag": "氣候",
       "group": null,
-      "published": "2026-11-24T17:06:20.000Z",
+      "published": "2026-11-25T16:09:13.000Z",
       "why": null,
-      "ago": "19 小時前"
-    },
-    {
-      "title": "COP31: Key outcomes for food, forests, oceans and nature at the UN climate talks in Antalya",
-      "summary": "The COP31 climate talks in Antalya, Turkey, failed to agree on a “pact” that – despite making no clear reference to fossil fuels or adaptation finance – had contained strong signals for oceans.",
-      "url": "https://www.carbonbrief.org/cop31-key-outcomes-for-food-forests-oceans-and-nature-at-the-un-climate-talks-in-antalya",
-      "source": "Carbon Brief",
-      "tag": "氣候",
-      "group": null,
-      "published": "2026-11-24T16:33:18.000Z",
-      "why": null,
-      "ago": "20 小時前"
+      "ago": "6 小時前"
     },
     {
       "title": "野柳遊蕩貓攻擊候鳥事件頻傳、美法院准愛荷華州引爆含鉛炸藥、印度知名瓶裝水驗出致癌物",
@@ -114,7 +114,7 @@
       "group": null,
       "published": "2026-11-25T02:39:51.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "19 小時前"
     }
   ],
   "errors": []
