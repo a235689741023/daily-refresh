@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-25T04:57:04.844Z",
-  "updatedLocal": "2026/11/25 12:57:04",
+  "updated": "2026-11-25T12:18:52.428Z",
+  "updatedLocal": "2026/11/25 20:18:52",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Give the gift of geography with these map poster templates",
+      "summary": "Ah it’s that time of year when we geographers start to get a little anxious about what gifts we might give our friends and family for the holidays.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/give-the-gift-of-geography-with-these-map-poster-templates",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-24T21:43:50.000Z",
+      "why": null,
+      "ago": "15 小時前"
+    },
     {
       "title": "Introducing Databricks SQL Warehouse support in ArcGIS Pro 3.8",
       "summary": "Organizations are using Databricks SQL warehouses to query, analyze, and visualize massive geospatial datasets alongside other company data.",
@@ -15,7 +26,7 @@
       "group": "gis",
       "published": "2026-11-24T22:26:55.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Mapping Holiday Races with the ArcGIS Static Maps Service",
@@ -26,7 +37,7 @@
       "group": "gis",
       "published": "2026-11-24T16:47:03.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Accelerate essential crime mapping with the new Crime Analysis Web solution",
@@ -37,29 +48,7 @@
       "group": "gis",
       "published": "2026-11-24T21:43:50.000Z",
       "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "Give the gift of geography with these map poster templates",
-      "summary": "Ah it’s that time of year when we geographers start to get a little anxious about what gifts we might give our friends and family for the holidays.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/give-the-gift-of-geography-with-these-map-poster-templates",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-24T21:43:50.000Z",
-      "why": null,
-      "ago": "7 小時前"
-    },
-    {
-      "title": "The Dragon In The Data: When AI Reads The Code But Misses The Meaning – OpEd",
-      "summary": "From the I Ching to satellite AI, the gap between decoding information and understanding its purpose has become a global governance challenge.",
-      "url": "https://www.eurasiareview.com/24112026-the-dragon-in-the-data-when-ai-reads-the-code-but-misses-the-meaning-oped/",
-      "source": "Eurasia Review",
-      "tag": "研究",
-      "group": "gis",
-      "published": "2026-11-24T01:14:45.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "15 小時前"
     },
     {
       "title": "Seasonal Snow Line in the Sierra Nevada",
@@ -70,7 +59,7 @@
       "group": "gis",
       "published": "2026-11-24T06:44:32.000Z",
       "why": null,
-      "ago": "22 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Measuring and mitigating agent sandbox escape with Siren",
@@ -81,7 +70,7 @@
       "group": "ai",
       "published": "2026-11-24T18:04:55.000Z",
       "why": null,
-      "ago": "11 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -92,7 +81,7 @@
       "group": "ai",
       "published": "2026-11-24T13:00:00.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
     },
     {
       "title": "Searching for distant planets with Astra",
@@ -103,40 +92,40 @@
       "group": "ai",
       "published": "2026-11-24T11:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "How Intentful uses dots to make more time for growth",
-      "summary": "How a small business founder’s dot helps her with research and proposals, while alerting her to critical messages and resolving issues.",
-      "url": "https://openai.com/business/customer-stories/intentful-dots",
-      "source": "OpenAI",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-24T00:00:00.000Z",
-      "why": null,
       "ago": "昨日"
     },
     {
-      "title": "How iFood scales coding agents across 15,000 repositories",
-      "summary": "as many vulnerabilities fixed through the security platform The Remote Agents Platform turned engineering tasks into API calls: teams delegate the work, execution takes place in a remote sandbox, and the result comes back as a merge request.",
-      "url": "https://openai.com/business/customer-stories/ifood",
-      "source": "OpenAI",
-      "tag": "模型",
+      "title": "AI is straining America’s open records systems",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all.",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "source": "MIT Tech Review",
+      "tag": "趨勢",
       "group": "ai",
-      "published": "2026-11-24T00:00:00.000Z",
+      "published": "2026-11-25T10:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 小時前"
     },
     {
-      "title": "Clay helps sales teams win with Codex and ChatGPT",
-      "summary": "ChatGPT and Codex integrations help Clay users research deals and turn data into go-to-market plays, and GPT‑6 models handle the reasoning.",
-      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
-      "source": "OpenAI",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "summary": "Today, we’re expanding our partnership with Golden State — making Google Gemini the Official AI Assistant Partner and Official Generative AI & Enterprise LLM Partner of the Warriors, the 2026 WNBA Champion Valkyries, and Chase Center.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "source": "Google AI Blog",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-24T00:00:00.000Z",
+      "published": "2026-11-24T16:00:00.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "20 小時前"
+    },
+    {
+      "title": "This California GOA report may shape frontier AI safety nationwide. Here are 5 big takeaways",
+      "summary": "Nov. 24, 2026 — As the record-breaking Anthropic IPO grabbed global headlines last week, an obscure California state agency released a report that could set the roadmap for frontier AI safety regulation nationwide.",
+      "url": "https://www.transparencycoalition.ai/news/california-report-may-shape-frontier-ai-safety-nationwide",
+      "source": "Transparency Coalition",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-24T19:09:04.000Z",
+      "why": null,
+      "ago": "17 小時前"
     }
   ],
   "errors": []
