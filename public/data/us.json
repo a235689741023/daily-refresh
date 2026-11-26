@@ -1,11 +1,22 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-25T22:01:18.846Z",
-  "updatedLocal": "2026/11/26 06:01:18",
+  "updated": "2026-11-26T04:13:48.285Z",
+  "updatedLocal": "2026/11/26 12:13:48",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+      "summary": "The artificial intelligence boom could lead to a recession, whether through a collapse in AI investment or widespread job losses as the technology advances, a hedge fund manager said.",
+      "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-26T01:34:58.000Z",
+      "why": null,
+      "ago": "3 小時前"
+    },
     {
       "title": "Prediction markets push OpenAI IPO expectations later into 2027",
       "summary": "Anthropic's shaky performance on the public markets since its debut last week and a continuing tech sell-off may be changing the outlook for when prediction markets think OpenAI will go public.",
@@ -15,7 +26,7 @@
       "group": null,
       "published": "2026-11-25T17:08:03.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "11 小時前"
     },
     {
       "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
@@ -26,7 +37,7 @@
       "group": null,
       "published": "2026-11-25T12:26:41.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -37,7 +48,7 @@
       "group": null,
       "published": "2026-11-25T14:29:00.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
@@ -48,18 +59,18 @@
       "group": null,
       "published": "2026-11-24T23:03:24.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
-      "summary": "Utah on Tuesday dismissed criminal charges against Kalshi and its two co-founders following the decision by the prediction market platform on Monday to suspend operations in the state.",
-      "url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+      "summary": "In a discussion on CNBC's Halftime Report Wednesday, the question came up: Why can't Federal Reserve Chairman Kevin Warsh hold the line on interest rates the way his icon Alan Greenspan did at the beginning of the dot-com era?",
+      "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-11-24T20:45:57.000Z",
+      "published": "2026-11-25T21:56:43.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "6 小時前"
     },
     {
       "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
@@ -70,7 +81,7 @@
       "group": null,
       "published": "2026-11-25T14:18:45.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
@@ -81,40 +92,29 @@
       "group": null,
       "published": "2026-11-25T16:17:13.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "12 小時前"
     },
     {
-      "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
-      "summary": "The UAE is \"very optimistic\" about achieving 7%-8% growth next year, the country's economy and tourism minister Abdulla bin Touq Al Marri told CNBC after the latest data from the International Monetary Fund showed the country would avoid a recession in 2026.",
-      "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-25T04:06:01.000Z",
-      "why": null,
-      "ago": "18 小時前"
-    },
-    {
-      "title": "Nvidia’s stock has given back more than half of Monday’s rally as dip buyers cash in",
+      "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-25T21:50:00.000Z",
+      "published": "2026-11-26T01:15:00.000Z",
       "why": null,
-      "ago": "11 分鐘前"
+      "ago": "3 小時前"
     },
     {
-      "title": "Elon Musk and SpaceX to donate roughly $17.8 billion to ‘Trump accounts’",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-25T21:50:00.000Z",
+      "published": "2026-11-26T00:33:00.000Z",
       "why": null,
-      "ago": "11 分鐘前"
+      "ago": "4 小時前"
     }
   ],
   "errors": [
