@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-26T04:13:48.285Z",
-  "updatedLocal": "2026/11/26 12:13:48",
+  "updated": "2026-11-26T12:01:25.714Z",
+  "updatedLocal": "2026/11/26 20:01:25",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-11-24T22:26:55.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Give the gift of geography with these map poster templates",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-11-24T21:43:50.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "Accelerate essential crime mapping with the new Crime Analysis Web solution",
@@ -36,28 +36,6 @@
       "tag": "平台",
       "group": "gis",
       "published": "2026-11-24T21:43:50.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Mapping Holiday Races with the ArcGIS Static Maps Service",
-      "summary": "The ArcGIS Static Maps service is a location service that lets developers create and embed map images from ArcGIS Basemaps into any location-driven solution.",
-      "url": "https://www.esri.com/arcgis-blog/products/developers/mapping/mapping-holiday-races-with-the-arcgis-static-maps-service",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-24T16:47:03.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Introducing the Change Dataset Schema tool in ArcGIS Pro 3.8",
-      "summary": "Managing datasets in an enterprise geodatabase can get complicated when database privileges and identities don’t line up.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/introducing-the-change-dataset-schema-tool-in-arcgis-pro-3-8",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-24T05:57:49.000Z",
       "why": null,
       "ago": "2 天前"
     },
@@ -70,7 +48,18 @@
       "group": "gis",
       "published": "2026-11-25T23:08:03.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "13 小時前"
+    },
+    {
+      "title": "What to Know About Absolute and Relative Location",
+      "summary": "In geography, location is a fundamental concept that helps us understand where places are situated on the Earth’s surface.",
+      "url": "https://www.geographyrealm.com/absolute-relative-location/",
+      "source": "GIS Lounge",
+      "tag": "應用",
+      "group": "gis",
+      "published": "2026-11-25T19:38:39.000Z",
+      "why": null,
+      "ago": "16 小時前"
     },
     {
       "title": "Migrating our Messages API to Rust",
@@ -79,12 +68,12 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-25T16:25:47.000Z",
+      "published": "2026-11-25T17:15:45.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "19 小時前"
     },
     {
-      "title": "Co-Founders & Executives",
+      "title": "Leadership & Governance - Co-Founders & Executives",
       "summary": "Dario Amodei has served as our Chief Executive Officer and a member of our Board of Directors since co-founding Anthropic in 2021.",
       "url": "https://investor.anthropic.com/leadership-governance/co-founders-executives/default.aspx",
       "source": "Anthropic",
@@ -92,7 +81,7 @@
       "group": "ai",
       "published": "2026-11-25T19:53:51.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "AI is straining America’s open records systems",
@@ -103,18 +92,18 @@
       "group": "ai",
       "published": "2026-11-25T10:00:00.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Spotlight on AI safety, security and alignment | Where regulation is heading (via Passle)",
-      "summary": "A run of incidents involving frontier models has turned attention to how those models are built and tested, and the guardrails needed to prevent similar incidents.",
-      "url": "https://inquisitiveminds.bristows.com/post/102oat5/spotlight-on-ai-safety-security-and-alignment-where-regulation-is-heading",
-      "source": "Bristows",
+      "title": "US AI Chip Export Rules Spare India, MeitY Says",
+      "summary": "Editorial · CASRAI · AI and ML research outputs India’s domestic AI compute and research hubs will not face disruption from tightened US GPU export controls, MeitY Secretary S.",
+      "url": "https://casrai.org/news/india-meity-secretary-krishnan-us-ai-chip-export-controls-impact-2026",
+      "source": "CASRAI",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-11-25T09:59:06.000Z",
+      "published": "2026-11-26T07:07:49.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "5 小時前"
     },
     {
       "title": "Explainer | How China got access to Nvidia's AI chips despite rules to stop them",
@@ -125,18 +114,18 @@
       "group": "ai",
       "published": "2026-11-26T01:18:08.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "11 小時前"
     },
     {
-      "title": "DEKRA on the AI Act: Risks, Obligations and Opportunities for the Automotive Aftermarket",
-      "summary": "Artificial intelligence is quickly becoming an integral part of the day-to-day activities of the automotive aftermarket, from diagnostic platforms to predictive maintenance systems, from CRM software to pricing tools and marketing applications.",
-      "url": "https://www.sicurauto.it/speciali/6th-aftermarket-report/dekra-on-the-ai-act-risks-obligations-and-opportunities-for-the-automotive-aftermarket/",
-      "source": "SICURAUTO.it",
+      "title": "Spotlight on AI safety, security and alignment | Where regulation is heading (via Passle)",
+      "summary": "A run of incidents involving frontier models has turned attention to how those models are built and tested, and the guardrails needed to prevent similar incidents.",
+      "url": "https://inquisitiveminds.bristows.com/post/102oat5/spotlight-on-ai-safety-security-and-alignment-where-regulation-is-heading",
+      "source": "Bristows",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-11-25T11:51:07.000Z",
+      "published": "2026-11-25T09:59:06.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
