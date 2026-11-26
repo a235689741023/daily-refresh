@@ -1,11 +1,33 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-26T12:01:25.714Z",
-  "updatedLocal": "2026/11/26 20:01:25",
+  "updated": "2026-11-26T21:59:32.419Z",
+  "updatedLocal": "2026/11/27 05:59:32",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+      "summary": "Nvidia 's latest bout of volatility is highlighting risks tied to single-stock exchange-traded funds. Among the hardest hit: the GraniteShares 2x Short NVDA Daily ETF (NVD) .",
+      "url": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-26T16:00:01.000Z",
+      "why": null,
+      "ago": "6 小時前"
+    },
+    {
+      "title": "Semiconductor chips are the new oil. Here's why",
+      "summary": "The artificial intelligence boom has pushed semiconductors past oil and gas in global export value for the first time, according to a Deutsche Bank analysis of International Trade Centre data .",
+      "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-26T17:52:15.000Z",
+      "why": null,
+      "ago": "4 小時前"
+    },
     {
       "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
       "summary": "BEIJING — The household robot could soon become a reality, Brian Gu, co-president of Xpeng , a Chinese electric car company which has entered the humanoids space, told CNBC.",
@@ -15,7 +37,7 @@
       "group": null,
       "published": "2026-11-26T07:30:11.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
@@ -26,7 +48,7 @@
       "group": null,
       "published": "2026-11-26T05:36:01.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Prediction markets push OpenAI IPO expectations later into 2027",
@@ -37,29 +59,18 @@
       "group": null,
       "published": "2026-11-25T17:08:03.000Z",
       "why": null,
-      "ago": "19 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-      "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh .",
-      "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
+      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+      "summary": "Pablo Hernández de Cos is set to succeed Christine Lagarde as president of the European Central Bank next year.",
+      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
       "group": null,
-      "published": "2026-11-25T12:26:41.000Z",
+      "published": "2026-11-26T15:28:26.000Z",
       "why": null,
-      "ago": "24 小時前"
-    },
-    {
-      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-      "summary": "BEIJING — Jensen Huang ' s return to Nvidia as its CEO underscores how the U.S.-China artificial intelligence race is not only about semiconductors, but tech talent.",
-      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-25T14:29:00.000Z",
-      "why": null,
-      "ago": "22 小時前"
+      "ago": "7 小時前"
     },
     {
       "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
@@ -68,53 +79,42 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-11-26T11:44:19.000Z",
+      "published": "2026-11-26T12:46:55.000Z",
       "why": null,
-      "ago": "17 分鐘前"
+      "ago": "9 小時前"
     },
     {
-      "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
-      "summary": "In a discussion on CNBC's Halftime Report Wednesday, the question came up: Why can't Federal Reserve Chairman Kevin Warsh hold the line on interest rates the way his icon Alan Greenspan did at the beginning of the dot-com era?",
-      "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-25T21:56:43.000Z",
-      "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-      "summary": "Inflation moved further away from the Federal Reserve's target in October, reinforcing expectations that another interest rate hike is in the cards for December and raising questions about how much more work the central bank will have to do in 2027.",
-      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-25T14:18:45.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-      "summary": "As Amanda Brecht planned how her family would spend Thanksgiving this year, she had to make some difficult decisions.",
-      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-      "source": "CNBC Economy",
-      "tag": "總經",
-      "group": null,
-      "published": "2026-11-25T16:17:13.000Z",
-      "why": null,
-      "ago": "20 小時前"
-    },
-    {
-      "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
-      "summary": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
-      "url": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-26T10:37:00.000Z",
+      "published": "2026-11-26T21:45:00.000Z",
       "why": null,
-      "ago": "1 小時前"
+      "ago": "15 分鐘前"
+    },
+    {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-26T21:30:00.000Z",
+      "why": null,
+      "ago": "30 分鐘前"
+    },
+    {
+      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-26T19:00:00.000Z",
+      "why": null,
+      "ago": "3 小時前"
     }
   ],
   "errors": [
