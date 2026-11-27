@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-26T21:59:32.419Z",
-  "updatedLocal": "2026/11/27 05:59:32",
+  "updated": "2026-11-27T04:21:06.035Z",
+  "updatedLocal": "2026/11/27 12:21:06",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-11-26T14:12:48.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "14 小時前"
     },
     {
       "title": "Warsaw set to host a landmark ISPRS Geospatial Week",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-11-26T07:26:10.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Mapping 25 Years of Cracks in Antarctica’s Ice Shelves",
@@ -37,7 +37,7 @@
       "group": "gis",
       "published": "2026-11-25T23:08:03.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     },
     {
       "title": "What to Know About Absolute and Relative Location",
@@ -51,28 +51,6 @@
       "ago": "昨日"
     },
     {
-      "title": "Leadership & Governance - Co-Founders & Executives",
-      "summary": "Dario Amodei has served as our Chief Executive Officer and a member of our Board of Directors since co-founding Anthropic in 2021.",
-      "url": "https://investor.anthropic.com/leadership-governance/co-founders-executives/default.aspx",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-25T19:53:51.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
-      "title": "Migrating our Messages API to Rust",
-      "summary": "Many problems have a generator–verifier gap: it’s often far easier to verify that a solution is correct than to come up with one.",
-      "url": "https://www.anthropic.com/research/migrating-api-to-rust",
-      "source": "Anthropic",
-      "tag": "模型",
-      "group": "ai",
-      "published": "2026-11-25T17:15:45.000Z",
-      "why": null,
-      "ago": "昨日"
-    },
-    {
       "title": "Come for the Games, Stay for the Community With GeForce NOW",
       "summary": "Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing.",
       "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
@@ -81,7 +59,29 @@
       "group": "ai",
       "published": "2026-11-26T14:00:22.000Z",
       "why": null,
-      "ago": "8 小時前"
+      "ago": "14 小時前"
+    },
+    {
+      "title": "California Governor Seeks Action on AI Safety Bills Within 30 Days",
+      "summary": "SACRAMENTO, Calif., Nov. 26 – California Gov. Gavin Newsom (D) said Monday his administration has drafted legislation to expand the state’s artificial intelligence safety protections and wants …",
+      "url": "https://broadbandbreakfast.com/california-governor-seeks-action-on-ai-safety-bills-within-30-days/",
+      "source": "Broadband Breakfast",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-26T19:49:45.000Z",
+      "why": null,
+      "ago": "9 小時前"
+    },
+    {
+      "title": "How Jensen Huang sees AI safety, innovation",
+      "summary": null,
+      "url": "https://www.newsnationnow.com/business/tech/ai/jensen-huang-ai-safety-innovation/",
+      "source": "NewsNation",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-26T22:50:58.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "US AI Chip Export Rules Spare India, MeitY Says",
@@ -92,7 +92,7 @@
       "group": "ai",
       "published": "2026-11-26T07:07:49.000Z",
       "why": null,
-      "ago": "15 小時前"
+      "ago": "21 小時前"
     },
     {
       "title": "Explainer | How China got access to Nvidia's AI chips despite rules to stop them",
@@ -103,7 +103,7 @@
       "group": "ai",
       "published": "2026-11-26T01:18:08.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
