@@ -1,8 +1,8 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-27T04:21:06.035Z",
-  "updatedLocal": "2026/11/27 12:21:06",
+  "updated": "2026-11-27T11:53:07.806Z",
+  "updatedLocal": "2026/11/27 19:53:07",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": null,
       "published": "2026-11-26T16:00:01.000Z",
       "why": null,
-      "ago": "12 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Semiconductor chips are the new oil. Here's why",
@@ -26,7 +26,7 @@
       "group": null,
       "published": "2026-11-26T17:52:15.000Z",
       "why": null,
-      "ago": "10 小時前"
+      "ago": "18 小時前"
     },
     {
       "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
@@ -37,29 +37,18 @@
       "group": null,
       "published": "2026-11-26T07:30:11.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
-      "summary": "The artificial intelligence boom could lead to a recession, whether through a collapse in AI investment or widespread job losses as the technology advances, a hedge fund manager said.",
-      "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
-      "source": "CNBC Markets",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-26T05:36:01.000Z",
-      "why": null,
-      "ago": "23 小時前"
-    },
-    {
-      "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
-      "summary": "China's industrial profits in October grew at their fastest pace since May, building on momentum from the previous month, amid a yawning gap between tech manufacturing and consumer-facing sectors.",
+      "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
+      "summary": "China's industrial profits in October grew at their fastest pace since May, supported by an AI-driven electronics boom and higher energy prices, while consumer-facing industries squeezed by weak demand continued to be a drag.",
       "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-11-27T02:04:09.000Z",
+      "published": "2026-11-27T06:09:51.000Z",
       "why": null,
-      "ago": "2 小時前"
+      "ago": "6 小時前"
     },
     {
       "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
@@ -68,9 +57,9 @@
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-11-26T15:28:26.000Z",
+      "published": "2026-11-27T06:50:38.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "5 小時前"
     },
     {
       "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
@@ -81,7 +70,18 @@
       "group": null,
       "published": "2026-11-26T12:46:55.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+      "summary": "The UAE is \"very optimistic\" about achieving 7%-8% growth next year, the country's economy and tourism minister Abdulla bin Touq Al Marri told CNBC after the latest data from the International Monetary Fund showed the country would avoid a recession in 2026.",
+      "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+      "source": "CNBC Economy",
+      "tag": "總經",
+      "group": null,
+      "published": "2026-11-27T08:47:36.000Z",
+      "why": null,
+      "ago": "3 小時前"
     },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -90,31 +90,31 @@
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-27T01:15:00.000Z",
+      "published": "2026-11-27T11:15:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "38 分鐘前"
     },
     {
-      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "title": "Stocks are poised for a Friday jump — right into a $100 billion wave of automated selling, Goldman Sachs warns",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/stocks-are-poised-for-a-friday-jump-right-into-a-100-billion-wave-of-automated-selling-goldman-sachs-warns-aba6440f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-27T01:00:00.000Z",
+      "published": "2026-11-27T10:54:00.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "59 分鐘前"
     },
     {
-      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "title": "SAP reportedly to cut 10,000 jobs. It marks the latest in a brutal year for tech layoffs.",
+      "summary": "SAP reportedly to cut 10,000 jobs. It marks the latest in a brutal year for tech layoffs. Choose MarketWatch as a preferred source of financial news # SAP reportedly to cut 10,000 jobs.",
+      "url": "https://www.marketwatch.com/story/sap-reportedly-to-cut-10-000-jobs-it-marks-the-latest-in-a-brutal-year-for-tech-layoffs-c7989744?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-27T00:31:00.000Z",
+      "published": "2026-11-27T10:49:00.000Z",
       "why": null,
-      "ago": "4 小時前"
+      "ago": "1 小時前"
     }
   ],
   "errors": [

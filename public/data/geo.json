@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-27T04:21:06.035Z",
-  "updatedLocal": "2026/11/27 12:21:06",
+  "updated": "2026-11-27T11:53:07.806Z",
+  "updatedLocal": "2026/11/27 19:53:07",
   "digest": null,
   "watch": [],
   "items": [
@@ -15,7 +15,7 @@
       "group": "gis",
       "published": "2026-11-26T14:12:48.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "Warsaw set to host a landmark ISPRS Geospatial Week",
@@ -26,7 +26,7 @@
       "group": "gis",
       "published": "2026-11-26T07:26:10.000Z",
       "why": null,
-      "ago": "21 小時前"
+      "ago": "昨日"
     },
     {
       "title": "Mapping 25 Years of Cracks in Antarctica’s Ice Shelves",
@@ -37,7 +37,7 @@
       "group": "gis",
       "published": "2026-11-25T23:08:03.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
     },
     {
       "title": "What to Know About Absolute and Relative Location",
@@ -48,7 +48,18 @@
       "group": "gis",
       "published": "2026-11-25T19:38:39.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
+    },
+    {
+      "title": "Leadership & Governance - Co-Founders & Executives",
+      "summary": "Dario Amodei has served as our Chief Executive Officer and a member of our Board of Directors since co-founding Anthropic in 2021.",
+      "url": "https://investor.anthropic.com/leadership-governance/co-founders-executives/default.aspx",
+      "source": "Anthropic",
+      "tag": "模型",
+      "group": "ai",
+      "published": "2026-11-27T04:27:35.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "Come for the Games, Stay for the Community With GeForce NOW",
@@ -59,7 +70,7 @@
       "group": "ai",
       "published": "2026-11-26T14:00:22.000Z",
       "why": null,
-      "ago": "14 小時前"
+      "ago": "22 小時前"
     },
     {
       "title": "California Governor Seeks Action on AI Safety Bills Within 30 Days",
@@ -70,7 +81,18 @@
       "group": "ai",
       "published": "2026-11-26T19:49:45.000Z",
       "why": null,
-      "ago": "9 小時前"
+      "ago": "16 小時前"
+    },
+    {
+      "title": "Experts call for AI safety cooperation",
+      "summary": "Sino-US exchanges urged in areas where practical progress can be made China and the United States have opportunities to deepen cooperation on artificial intelligence safety, building on recent high-level understandings and shared concerns about the risks of increasingly powerful AI systems, experts said at a Brookings Institution webinar on Monday.",
+      "url": "https://www.chinadailyasia.com/article/643341",
+      "source": "chinadailyhk",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-27T04:41:58.000Z",
+      "why": null,
+      "ago": "7 小時前"
     },
     {
       "title": "How Jensen Huang sees AI safety, innovation",
@@ -81,29 +103,7 @@
       "group": "ai",
       "published": "2026-11-26T22:50:58.000Z",
       "why": null,
-      "ago": "6 小時前"
-    },
-    {
-      "title": "US AI Chip Export Rules Spare India, MeitY Says",
-      "summary": "Editorial · CASRAI · AI and ML research outputs India’s domestic AI compute and research hubs will not face disruption from tightened US GPU export controls, MeitY Secretary S.",
-      "url": "https://casrai.org/news/india-meity-secretary-krishnan-us-ai-chip-export-controls-impact-2026",
-      "source": "CASRAI",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-11-26T07:07:49.000Z",
-      "why": null,
-      "ago": "21 小時前"
-    },
-    {
-      "title": "Explainer | How China got access to Nvidia's AI chips despite rules to stop them",
-      "summary": "A silhouette of Jensen Huang, and the NVIDIA logo. AI chips are a central battleground in the US-China technology race.",
-      "url": "https://www.deccanherald.com/world/us/explainer-how-china-got-access-to-nvidias-ai-chips-despite-rules-to-stop-them-4231625",
-      "source": "Deccan Herald",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-11-26T01:18:08.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "13 小時前"
     }
   ],
   "errors": []
