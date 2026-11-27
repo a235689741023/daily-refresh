@@ -1,21 +1,32 @@
 {
   "domain": "us",
   "title": "美股",
-  "updated": "2026-11-27T11:53:07.806Z",
-  "updatedLocal": "2026/11/27 19:53:07",
+  "updated": "2026-11-27T21:42:28.933Z",
+  "updatedLocal": "2026/11/28 05:42:28",
   "digest": null,
   "watch": [],
   "items": [
     {
-      "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
-      "summary": "Nvidia 's latest bout of volatility is highlighting risks tied to single-stock exchange-traded funds. Among the hardest hit: the GraniteShares 2x Short NVDA Daily ETF (NVD) .",
-      "url": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+      "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+      "summary": "The S&P 500 fell into a correction on Nov. 20 for the first time since April 2025 as stocks pulled back sharply from October's record highs.",
+      "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-26T16:00:01.000Z",
+      "published": "2026-11-27T13:21:56.000Z",
       "why": null,
-      "ago": "20 小時前"
+      "ago": "8 小時前"
+    },
+    {
+      "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+      "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh .",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+      "source": "CNBC Markets",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-27T13:29:43.000Z",
+      "why": null,
+      "ago": "8 小時前"
     },
     {
       "title": "Semiconductor chips are the new oil. Here's why",
@@ -26,16 +37,16 @@
       "group": null,
       "published": "2026-11-26T17:52:15.000Z",
       "why": null,
-      "ago": "18 小時前"
+      "ago": "昨日"
     },
     {
-      "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
-      "summary": "BEIJING — The household robot could soon become a reality, Brian Gu, co-president of Xpeng , a Chinese electric car company which has entered the humanoids space, told CNBC.",
-      "url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+      "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+      "summary": "Nvidia 's latest bout of volatility is highlighting risks tied to single-stock exchange-traded funds. Among the hardest hit: the GraniteShares 2x Short NVDA Daily ETF (NVD) .",
+      "url": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
       "source": "CNBC Markets",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-26T07:30:11.000Z",
+      "published": "2026-11-26T16:00:01.000Z",
       "why": null,
       "ago": "昨日"
     },
@@ -48,7 +59,7 @@
       "group": null,
       "published": "2026-11-27T06:09:51.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "16 小時前"
     },
     {
       "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
@@ -59,18 +70,18 @@
       "group": null,
       "published": "2026-11-27T06:50:38.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "15 小時前"
     },
     {
-      "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-      "summary": "The Trump administration has unveiled a fresh tariff salvo on more than a dozen trading partners, with China, Vietnam, and India facing some of the steepest potential rates and mounting pressure to conclude trade deals with Washington.",
-      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+      "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+      "summary": "As Amanda Brecht planned how her family would spend Thanksgiving this year, she had to make some difficult decisions.",
+      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
       "source": "CNBC Economy",
       "tag": "總經",
       "group": null,
-      "published": "2026-11-26T12:46:55.000Z",
+      "published": "2026-11-27T21:42:40.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "剛剛"
     },
     {
       "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
@@ -81,40 +92,29 @@
       "group": null,
       "published": "2026-11-27T08:47:36.000Z",
       "why": null,
-      "ago": "3 小時前"
+      "ago": "13 小時前"
     },
     {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
       "summary": null,
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "tag": "大盤",
       "group": null,
-      "published": "2026-11-27T11:15:00.000Z",
-      "why": null,
-      "ago": "38 分鐘前"
-    },
-    {
-      "title": "Stocks are poised for a Friday jump — right into a $100 billion wave of automated selling, Goldman Sachs warns",
-      "summary": null,
-      "url": "https://www.marketwatch.com/story/stocks-are-poised-for-a-friday-jump-right-into-a-100-billion-wave-of-automated-selling-goldman-sachs-warns-aba6440f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-27T10:54:00.000Z",
-      "why": null,
-      "ago": "59 分鐘前"
-    },
-    {
-      "title": "SAP reportedly to cut 10,000 jobs. It marks the latest in a brutal year for tech layoffs.",
-      "summary": "SAP reportedly to cut 10,000 jobs. It marks the latest in a brutal year for tech layoffs. Choose MarketWatch as a preferred source of financial news # SAP reportedly to cut 10,000 jobs.",
-      "url": "https://www.marketwatch.com/story/sap-reportedly-to-cut-10-000-jobs-it-marks-the-latest-in-a-brutal-year-for-tech-layoffs-c7989744?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "tag": "大盤",
-      "group": null,
-      "published": "2026-11-27T10:49:00.000Z",
+      "published": "2026-11-27T20:16:00.000Z",
       "why": null,
       "ago": "1 小時前"
+    },
+    {
+      "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+      "summary": null,
+      "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "tag": "大盤",
+      "group": null,
+      "published": "2026-11-27T19:55:00.000Z",
+      "why": null,
+      "ago": "2 小時前"
     }
   ],
   "errors": [

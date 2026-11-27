@@ -1,22 +1,11 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-27T11:53:07.806Z",
-  "updatedLocal": "2026/11/27 19:53:07",
+  "updated": "2026-11-27T21:42:28.933Z",
+  "updatedLocal": "2026/11/28 05:42:28",
   "digest": null,
   "watch": [],
   "items": [
-    {
-      "title": "Mapping a Trip to Killarney Provincial Park in ArcGIS Pro - 30 Day Map Challenge (Day 26)",
-      "summary": "Every November since 2019, cartographers and map hobbyists around the world have participated in the 30-Day Map Challenge .",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/mapping-my-trip-to-killarney-provincial-park-in-arcgis-pro-30-day-map-challenge-day-26",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-26T14:12:48.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
     {
       "title": "Warsaw set to host a landmark ISPRS Geospatial Week",
       "summary": "From the seabed to the surface of other planets, and from laser scanners to AI foundation models, the geospatial world will converge in one city for a week next year.",
@@ -26,7 +15,18 @@
       "group": "gis",
       "published": "2026-11-26T07:26:10.000Z",
       "why": null,
-      "ago": "昨日"
+      "ago": "2 天前"
+    },
+    {
+      "title": "Accelerate essential crime mapping with the new Crime Analysis Web solution",
+      "summary": "ArcGIS Solutions helps you make the most of your GIS by providing purpose-driven, industry-specific configurations of ArcGIS.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-solutions/public-safety/accelerate-essential-crime-mapping-with-the-new-crime-analysis-web-solution",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-24T21:43:50.000Z",
+      "why": null,
+      "ago": "3 天前"
     },
     {
       "title": "Mapping 25 Years of Cracks in Antarctica’s Ice Shelves",
@@ -51,7 +51,7 @@
       "ago": "2 天前"
     },
     {
-      "title": "Leadership & Governance - Co-Founders & Executives",
+      "title": "Co-Founders & Executives",
       "summary": "Dario Amodei has served as our Chief Executive Officer and a member of our Board of Directors since co-founding Anthropic in 2021.",
       "url": "https://investor.anthropic.com/leadership-governance/co-founders-executives/default.aspx",
       "source": "Anthropic",
@@ -59,29 +59,29 @@
       "group": "ai",
       "published": "2026-11-27T04:27:35.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "17 小時前"
     },
     {
-      "title": "Come for the Games, Stay for the Community With GeForce NOW",
-      "summary": "Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing.",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
-      "source": "NVIDIA Blog",
-      "tag": "基建",
-      "group": "ai",
-      "published": "2026-11-26T14:00:22.000Z",
-      "why": null,
-      "ago": "22 小時前"
-    },
-    {
-      "title": "California Governor Seeks Action on AI Safety Bills Within 30 Days",
-      "summary": "SACRAMENTO, Calif., Nov. 26 – California Gov. Gavin Newsom (D) said Monday his administration has drafted legislation to expand the state’s artificial intelligence safety protections and wants …",
-      "url": "https://broadbandbreakfast.com/california-governor-seeks-action-on-ai-safety-bills-within-30-days/",
-      "source": "Broadband Breakfast",
+      "title": "Global AI Regulation: EU AI Act, U.S., UK, China, And Key Compliance Risks For Companies",
+      "summary": "Artificial intelligence regulation has moved from policy discussion to an immediate compliance issue for companies operating internationally.",
+      "url": "https://www.legal500.com/intelligence/united-states/technology/global-ai-regulation-eu-ai-act-us-uk-china-and-key-compliance-risks-for-companies",
+      "source": "Legal 500",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-11-26T19:49:45.000Z",
+      "published": "2026-11-27T18:59:22.000Z",
       "why": null,
-      "ago": "16 小時前"
+      "ago": "3 小時前"
+    },
+    {
+      "title": "New 2027 Illinois laws address e-bike regulation, AI safety, healthcare | See list",
+      "summary": "CHICAGO (WLS) -- With a new year comes new laws. Here are some the new laws going into effect in Illinois in 2027.",
+      "url": "https://abc7chicago.com/post/new-2027-illinois-laws-address-bike-regulation-fair-ticket-access-school-emergency-response-ai-safety-healthcare-insurance/20060605/",
+      "source": "ABC7 Chicago",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-27T15:23:46.000Z",
+      "why": null,
+      "ago": "6 小時前"
     },
     {
       "title": "Experts call for AI safety cooperation",
@@ -92,7 +92,7 @@
       "group": "ai",
       "published": "2026-11-27T04:41:58.000Z",
       "why": null,
-      "ago": "7 小時前"
+      "ago": "17 小時前"
     },
     {
       "title": "How Jensen Huang sees AI safety, innovation",
@@ -103,7 +103,7 @@
       "group": "ai",
       "published": "2026-11-26T22:50:58.000Z",
       "why": null,
-      "ago": "13 小時前"
+      "ago": "23 小時前"
     }
   ],
   "errors": []
