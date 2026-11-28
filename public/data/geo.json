@@ -1,11 +1,22 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-28T04:01:30.151Z",
-  "updatedLocal": "2026/11/28 12:01:30",
+  "updated": "2026-11-28T11:28:14.341Z",
+  "updatedLocal": "2026/11/28 19:28:14",
   "digest": null,
   "watch": [],
   "items": [
+    {
+      "title": "Why Top of Bank Matters and How to Verify It With GIS and Lidar",
+      "summary": "Development near creeks and streams comes with tradeoffs for water quality.",
+      "url": "https://www.geographyrealm.com/top-of-bank-matters-gis/",
+      "source": "GIS Lounge",
+      "tag": "應用",
+      "group": "gis",
+      "published": "2026-11-28T04:17:11.000Z",
+      "why": null,
+      "ago": "7 小時前"
+    },
     {
       "title": "Warsaw set to host a landmark ISPRS Geospatial Week",
       "summary": "From the seabed to the surface of other planets, and from laser scanners to AI foundation models, the geospatial world will converge in one city for a week next year.",
@@ -18,39 +29,6 @@
       "ago": "2 天前"
     },
     {
-      "title": "Accelerate essential crime mapping with the new Crime Analysis Web solution",
-      "summary": "ArcGIS Solutions helps you make the most of your GIS by providing purpose-driven, industry-specific configurations of ArcGIS.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-solutions/public-safety/accelerate-essential-crime-mapping-with-the-new-crime-analysis-web-solution",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-24T21:43:50.000Z",
-      "why": null,
-      "ago": "3 天前"
-    },
-    {
-      "title": "Introducing the Change Dataset Schema tool in ArcGIS Pro 3.8",
-      "summary": "Managing datasets in an enterprise geodatabase can get complicated when database privileges and identities don’t line up.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/introducing-the-change-dataset-schema-tool-in-arcgis-pro-3-8",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-24T05:57:49.000Z",
-      "why": null,
-      "ago": "4 天前"
-    },
-    {
-      "title": "A smarter way to explore Esri: What’s new with the AI Assistant (Beta)",
-      "summary": "Since launching the AI Assistant (Beta) on esri.com this summer, we’ve been learning how people use conversational AI to explore Esri products, capabilities, and resources.",
-      "url": "https://www.esri.com/arcgis-blog/products/arcgis/announcements/whats-new-with-the-ai-assistant-beta",
-      "source": "Esri",
-      "tag": "平台",
-      "group": "gis",
-      "published": "2026-11-23T18:45:58.000Z",
-      "why": null,
-      "ago": "4 天前"
-    },
-    {
       "title": "Mapping 25 Years of Cracks in Antarctica’s Ice Shelves",
       "summary": "Satellite imagery and remote sensing help researchers study some of the most remote areas of Earth.",
       "url": "https://www.geographyrealm.com/mapping-cracks-antarctica-ice-shelves/",
@@ -59,7 +37,7 @@
       "group": "gis",
       "published": "2026-11-25T23:08:03.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "What to Know About Absolute and Relative Location",
@@ -70,7 +48,7 @@
       "group": "gis",
       "published": "2026-11-25T19:38:39.000Z",
       "why": null,
-      "ago": "2 天前"
+      "ago": "3 天前"
     },
     {
       "title": "Co-Founders & Executives",
@@ -81,7 +59,18 @@
       "group": "ai",
       "published": "2026-11-27T23:27:33.000Z",
       "why": null,
-      "ago": "5 小時前"
+      "ago": "12 小時前"
+    },
+    {
+      "title": "Global AI Regulation: EU AI Act, U.S., UK, China, And Key Compliance Risks For Companies",
+      "summary": "Artificial intelligence regulation has moved from policy discussion to an immediate compliance issue for companies operating internationally.",
+      "url": "https://www.legal500.com/intelligence/united-states/technology/global-ai-regulation-eu-ai-act-us-uk-china-and-key-compliance-risks-for-companies",
+      "source": "Legal 500",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-27T18:59:22.000Z",
+      "why": null,
+      "ago": "16 小時前"
     },
     {
       "title": "New 2027 Illinois laws address e-bike regulation, fair ticket access, school emergency response, AI safety, healthcare, insurance",
@@ -92,18 +81,7 @@
       "group": "ai",
       "published": "2026-11-27T15:23:46.000Z",
       "why": null,
-      "ago": "13 小時前"
-    },
-    {
-      "title": "Experts call for AI safety cooperation",
-      "summary": "Sino-US exchanges urged in areas where practical progress can be made China and the United States have opportunities to deepen cooperation on artificial intelligence safety, building on recent high-level understandings and shared concerns about the risks of increasingly powerful AI systems, experts said at a Brookings Institution webinar on Monday.",
-      "url": "https://www.chinadailyasia.com/article/643341",
-      "source": "chinadailyhk",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-11-27T04:41:58.000Z",
-      "why": null,
-      "ago": "23 小時前"
+      "ago": "20 小時前"
     },
     {
       "title": "Taiwan’s economy expected to grow at its fastest rate in nearly 50 years due to AI demand",
@@ -114,29 +92,7 @@
       "group": "ai",
       "published": "2026-11-27T14:15:29.000Z",
       "why": null,
-      "ago": "14 小時前"
-    },
-    {
-      "title": "Meta Whistleblower Urges UK to Expand NDA Rules for AI Safety",
-      "summary": "Former Meta global public policy director Sarah Wynn-Williams urged the UK government to extend planned non-disclosure agreement restrictions to existing contracts and protect AI workers who disclose development risks.",
-      "url": "https://www.tokenpost.com/news/regulation/63903",
-      "source": "www.tokenpost.com",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-11-27T22:36:27.000Z",
-      "why": null,
-      "ago": "5 小時前"
-    },
-    {
-      "title": "How Jensen Huang sees AI safety, innovation",
-      "summary": "( NewsNation ) — Nvidia CEO Jensen Huang dismissed warnings about the dangers of artificial intelligence as a \"distraction\" in a September interview as he discussed the future role AI will play.",
-      "url": "https://www.aol.com/articles/jensen-huang-sees-ai-safety-224236000.html",
-      "source": "AOL.com",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-11-26T22:42:41.000Z",
-      "why": null,
-      "ago": "昨日"
+      "ago": "21 小時前"
     }
   ],
   "errors": []
