@@ -1,8 +1,8 @@
 {
   "domain": "geo",
   "title": "地理資訊・AI",
-  "updated": "2026-11-27T21:42:28.933Z",
-  "updatedLocal": "2026/11/28 05:42:28",
+  "updated": "2026-11-28T04:01:30.151Z",
+  "updatedLocal": "2026/11/28 12:01:30",
   "digest": null,
   "watch": [],
   "items": [
@@ -27,6 +27,28 @@
       "published": "2026-11-24T21:43:50.000Z",
       "why": null,
       "ago": "3 天前"
+    },
+    {
+      "title": "Introducing the Change Dataset Schema tool in ArcGIS Pro 3.8",
+      "summary": "Managing datasets in an enterprise geodatabase can get complicated when database privileges and identities don’t line up.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/introducing-the-change-dataset-schema-tool-in-arcgis-pro-3-8",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-24T05:57:49.000Z",
+      "why": null,
+      "ago": "4 天前"
+    },
+    {
+      "title": "A smarter way to explore Esri: What’s new with the AI Assistant (Beta)",
+      "summary": "Since launching the AI Assistant (Beta) on esri.com this summer, we’ve been learning how people use conversational AI to explore Esri products, capabilities, and resources.",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis/announcements/whats-new-with-the-ai-assistant-beta",
+      "source": "Esri",
+      "tag": "平台",
+      "group": "gis",
+      "published": "2026-11-23T18:45:58.000Z",
+      "why": null,
+      "ago": "4 天前"
     },
     {
       "title": "Mapping 25 Years of Cracks in Antarctica’s Ice Shelves",
@@ -57,23 +79,12 @@
       "source": "Anthropic",
       "tag": "模型",
       "group": "ai",
-      "published": "2026-11-27T04:27:35.000Z",
+      "published": "2026-11-27T23:27:33.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "5 小時前"
     },
     {
-      "title": "Global AI Regulation: EU AI Act, U.S., UK, China, And Key Compliance Risks For Companies",
-      "summary": "Artificial intelligence regulation has moved from policy discussion to an immediate compliance issue for companies operating internationally.",
-      "url": "https://www.legal500.com/intelligence/united-states/technology/global-ai-regulation-eu-ai-act-us-uk-china-and-key-compliance-risks-for-companies",
-      "source": "Legal 500",
-      "tag": "政策",
-      "group": "ai",
-      "published": "2026-11-27T18:59:22.000Z",
-      "why": null,
-      "ago": "3 小時前"
-    },
-    {
-      "title": "New 2027 Illinois laws address e-bike regulation, AI safety, healthcare | See list",
+      "title": "New 2027 Illinois laws address e-bike regulation, fair ticket access, school emergency response, AI safety, healthcare, insurance",
       "summary": "CHICAGO (WLS) -- With a new year comes new laws. Here are some the new laws going into effect in Illinois in 2027.",
       "url": "https://abc7chicago.com/post/new-2027-illinois-laws-address-bike-regulation-fair-ticket-access-school-emergency-response-ai-safety-healthcare-insurance/20060605/",
       "source": "ABC7 Chicago",
@@ -81,7 +92,7 @@
       "group": "ai",
       "published": "2026-11-27T15:23:46.000Z",
       "why": null,
-      "ago": "6 小時前"
+      "ago": "13 小時前"
     },
     {
       "title": "Experts call for AI safety cooperation",
@@ -92,18 +103,40 @@
       "group": "ai",
       "published": "2026-11-27T04:41:58.000Z",
       "why": null,
-      "ago": "17 小時前"
+      "ago": "23 小時前"
+    },
+    {
+      "title": "Taiwan’s economy expected to grow at its fastest rate in nearly 50 years due to AI demand",
+      "summary": "TAIPEI, Nov 27 (Reuters) – Taiwan’s tech-reliant economy is expected to expand at its fastest rate in almost half a century this year thanks to continued strong AI demand, ​the government said on Friday, but US export controls ‌and AI regulation could cloud the outlook.",
+      "url": "https://kfgo.com/2026/11/27/taiwans-economy-expected-to-grow-at-its-fastest-rate-in-nearly-50-years-due-to-ai-demand/",
+      "source": "The Mighty 790 KFGO",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-27T14:15:29.000Z",
+      "why": null,
+      "ago": "14 小時前"
+    },
+    {
+      "title": "Meta Whistleblower Urges UK to Expand NDA Rules for AI Safety",
+      "summary": "Former Meta global public policy director Sarah Wynn-Williams urged the UK government to extend planned non-disclosure agreement restrictions to existing contracts and protect AI workers who disclose development risks.",
+      "url": "https://www.tokenpost.com/news/regulation/63903",
+      "source": "www.tokenpost.com",
+      "tag": "政策",
+      "group": "ai",
+      "published": "2026-11-27T22:36:27.000Z",
+      "why": null,
+      "ago": "5 小時前"
     },
     {
       "title": "How Jensen Huang sees AI safety, innovation",
-      "summary": null,
-      "url": "https://www.newsnationnow.com/business/tech/ai/jensen-huang-ai-safety-innovation/",
-      "source": "NewsNation",
+      "summary": "( NewsNation ) — Nvidia CEO Jensen Huang dismissed warnings about the dangers of artificial intelligence as a \"distraction\" in a September interview as he discussed the future role AI will play.",
+      "url": "https://www.aol.com/articles/jensen-huang-sees-ai-safety-224236000.html",
+      "source": "AOL.com",
       "tag": "政策",
       "group": "ai",
-      "published": "2026-11-26T22:50:58.000Z",
+      "published": "2026-11-26T22:42:41.000Z",
       "why": null,
-      "ago": "23 小時前"
+      "ago": "昨日"
     }
   ],
   "errors": []
